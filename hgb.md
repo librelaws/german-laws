@@ -2,7 +2,16 @@ Handelsgesetzbuch ()
 ====================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 4.10.2013 I 3746
+Zuletzt geändert durch Art. 4 G v. 31.3.2016 I 518
+
+Hinweis  
+Änderung durch Art. 1 G v. 10.5.2016 I 1142 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 16 Abs. 3 G v. 30.6.2016 I 1514 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 5 G v. 5.7.2016 I 1578 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -14,10 +23,14 @@ Zuletzt geändert durch Art. 1 G v. 4.10.2013 I 3746
      und aufgrund EinigVtr Anlage I Kap. VIII A III Nr. 2 nicht mehr      
      anzuwenden gem. Art. 109 Nr. 3 Buchst. a DBuchst. aa 
      G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)
+(+++ Zur Anwendung
+     vgl. Art. 75 HGBEG +++)
 (+++ Zur Anwendung 
      vgl. § 124 Abs. 1 Satz 2 KAGB u. § 149 Abs. 1 Satz 2 KAGB +++)
 (+++ Zur Anwendung d. § 8b Abs. 3 Satz 1 Nr. 1 
      vgl. § § 45 Abs. 4 KAGB +++)
+(+++ Zur Nichtanwendung d. §§ 132 bis 135 
+     vgl. § 10 Abs. 5 KredWG +++)
 (+++ Zur Anwendung d. § 133 Abs. 2 
      vgl. § 161 Abs. 1 Satz 3 KAGB +++)
 (+++ Zur Anwendung d. § 147 
@@ -89,9 +102,7 @@ Ein gewerbliches Unternehmen, dessen Gewerbebetrieb nicht schon nach § 1 Abs. 2
 
 (3) Ist mit dem Betrieb der Land- oder Forstwirtschaft ein Unternehmen verbunden, das nur ein Nebengewerbe des land- oder forstwirtschaftlichen Unternehmens darstellt, so finden auf das im Nebengewerbe betriebene Unternehmen die Vorschriften der Absätze 1 und 2 entsprechende Anwendung.
 
-### § 4
-
-(weggefallen)
+### § 4 (weggefallen)
 
 ### § 5
 
@@ -122,11 +133,11 @@ Zweiter Abschnitt Handelsregister; Unternehmensregister
 
 (1) Eine Eintragung in das Handelsregister wird wirksam, sobald sie in den für die Handelsregistereintragungen bestimmten Datenspeicher aufgenommen ist und auf Dauer inhaltlich unverändert in lesbarer Form wiedergegeben werden kann.
 
-(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung nähere Bestimmungen über die elektronische Führung des Handelsregisters, die elektronische Anmeldung, die elektronische Einreichung von Dokumenten sowie deren Aufbewahrung zu treffen, soweit nicht durch das Bundesministerium der Justiz nach § 387 Abs. 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechende Vorschriften erlassen werden. Dabei können sie auch Einzelheiten der Datenübermittlung regeln sowie die Form zu übermittelnder elektronischer Dokumente festlegen, um die Eignung für die Bearbeitung durch das Gericht sicherzustellen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
+(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung nähere Bestimmungen über die elektronische Führung des Handelsregisters, die elektronische Anmeldung, die elektronische Einreichung von Dokumenten sowie deren Aufbewahrung zu treffen, soweit nicht durch das Bundesministerium der Justiz und für Verbraucherschutz nach § 387 Abs. 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechende Vorschriften erlassen werden. Dabei können sie auch Einzelheiten der Datenübermittlung regeln sowie die Form zu übermittelnder elektronischer Dokumente festlegen, um die Eignung für die Bearbeitung durch das Gericht sicherzustellen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 ### § 8b Unternehmensregister
 
-(1) Das Unternehmensregister wird vorbehaltlich einer Regelung nach § 9a Abs. 1 vom Bundesministerium der Justiz elektronisch geführt.
+(1) Das Unternehmensregister wird vorbehaltlich einer Regelung nach § 9a Abs. 1 vom Bundesministerium der Justiz und für Verbraucherschutz elektronisch geführt.
 
 (2) Über die Internetseite des Unternehmensregisters sind zugänglich:
 
@@ -140,7 +151,7 @@ Eintragungen im Genossenschaftsregister und deren Bekanntmachung und zum Genosse
 Eintragungen im Partnerschaftsregister und deren Bekanntmachung und zum Partnerschaftsregister eingereichte Dokumente;
 
 4.  
-Unterlagen der Rechnungslegung nach den §§ 325 und 339, soweit sie bekannt gemacht wurden;
+Unterlagen der Rechnungslegung nach den §§ 325 und 339 sowie Unterlagen nach § 341w, soweit sie bekannt gemacht wurden;
 
 5.  
 gesellschaftsrechtliche Bekanntmachungen im Bundesanzeiger;
@@ -155,7 +166,7 @@ Veröffentlichungen von Unternehmen nach dem Wertpapierhandelsgesetz oder dem Ve
 Bekanntmachungen und Veröffentlichungen von Kapitalverwaltungsgesellschaften und extern verwalteten Investmentgesellschaften nach dem Kapitalanlagegesetzbuch, dem Investmentgesetz und dem Investmentsteuergesetz im Bundesanzeiger;
 
 9.  
-Veröffentlichungen und sonstige der Öffentlichkeit zur Verfügung gestellte Informationen nach den §§ 2b, 15 Abs. 1 und 2, § 15a Abs. 4, § 26 Abs. 1, §§ 26a, 29a Abs. 2, §§ 30e, 30f Abs. 2, § 37v Abs. 1 bis § 37x Abs. 1, §§ 37y, 37z Abs. 4 und § 41 Abs. 4a des Wertpapierhandelsgesetzes, sofern die Veröffentlichung nicht bereits über Nummer 4 oder Nummer 7 in das Unternehmensregister eingestellt wird;
+Veröffentlichungen und sonstige der Öffentlichkeit zur Verfügung gestellte Informationen nach den §§ 2c, 15 Abs. 1 und 2, § 26 Abs. 1, §§ 26a, 29a Abs. 2, §§ 30e, 30f Abs. 2, § 37v Abs. 1 bis § 37x Absatz 2, §§ 37y, 37z Abs. 4 und § 41 des Wertpapierhandelsgesetzes, sofern die Veröffentlichung nicht bereits über Nummer 4 oder Nummer 7 in das Unternehmensregister eingestellt wird;
 
 10.  
 Mitteilungen über kapitalmarktrechtliche Veröffentlichungen an die Bundesanstalt für Finanzdienstleistungsaufsicht, sofern die Veröffentlichung selbst nicht bereits über Nummer 7 oder Nummer 9 in das Unternehmensregister eingestellt wird;
@@ -171,11 +182,11 @@ die Daten nach Absatz 2 Nr. 4 bis 8 und die nach § 326 Absatz 2 von einer Klein
 2.  
 die Daten nach Absatz 2 Nr. 9 und 10 durch den jeweils Veröffentlichungspflichtigen oder den von ihm mit der Veranlassung der Veröffentlichung beauftragten Dritten.
 
-Die Landesjustizverwaltungen übermitteln die Daten nach Absatz 2 Nr. 1 bis 3 und 11 zum Unternehmensregister, soweit die Übermittlung für die Eröffnung eines Zugangs zu den Originaldaten über die Internetseite des Unternehmensregisters erforderlich ist. Die Bundesanstalt für Finanzdienstleistungsaufsicht überwacht die Übermittlung der Veröffentlichungen und der sonstigen der Öffentlichkeit zur Verfügung gestellten Informationen nach den §§ 2b, 15 Abs. 1 und 2, § 15a Abs. 4, § 26 Abs. 1, §§ 26a, 29a Abs. 2, §§ 30e, 30f Abs. 2, § 37v Abs. 1 bis § 37x Abs. 1, §§ 37y, 37z Abs. 4 und § 41 Abs. 4a des Wertpapierhandelsgesetzes an das Unternehmensregister zur Speicherung und kann Anordnungen treffen, die zu ihrer Durchsetzung geeignet und erforderlich sind. Die Bundesanstalt kann die gebotene Übermittlung der in Satz 3 genannten Veröffentlichungen, der Öffentlichkeit zur Verfügung gestellten Informationen und Mitteilung auf Kosten des Pflichtigen vornehmen, wenn die Übermittlungspflicht nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise erfüllt wird. Für die Überwachungstätigkeit der Bundesanstalt gelten § 4 Abs. 3 Satz 1 und 3, Abs. 7, 9 und 10, § 7 und § 8 des Wertpapierhandelsgesetzes entsprechend.
+Die Landesjustizverwaltungen übermitteln die Daten nach Absatz 2 Nr. 1 bis 3 und 11 zum Unternehmensregister, soweit die Übermittlung für die Eröffnung eines Zugangs zu den Originaldaten über die Internetseite des Unternehmensregisters erforderlich ist. Die Bundesanstalt für Finanzdienstleistungsaufsicht überwacht die Übermittlung der Veröffentlichungen und der sonstigen der Öffentlichkeit zur Verfügung gestellten Informationen nach den §§ 2c, 15 Abs. 1 und 2, § 26 Abs. 1, §§ 26a, 29a Abs. 2, §§ 30e, 30f Abs. 2, § 37v Abs. 1 bis § 37x Absatz 2, §§ 37y, 37z Abs. 4 und § 41 des Wertpapierhandelsgesetzes an das Unternehmensregister zur Speicherung und kann Anordnungen treffen, die zu ihrer Durchsetzung geeignet und erforderlich sind. Die Bundesanstalt kann die gebotene Übermittlung der in Satz 3 genannten Veröffentlichungen, der Öffentlichkeit zur Verfügung gestellten Informationen und Mitteilung auf Kosten des Pflichtigen vornehmen, wenn die Übermittlungspflicht nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise erfüllt wird. Für die Überwachungstätigkeit der Bundesanstalt gelten § 4 Abs. 3 Satz 1 und 3, Abs. 7, 9 und 10, § 7 und § 8 des Wertpapierhandelsgesetzes entsprechend.
 
 (4) Die Führung des Unternehmensregisters schließt die Erteilung von Ausdrucken sowie die Beglaubigung entsprechend § 9 Abs. 3 und 4 hinsichtlich der im Unternehmensregister gespeicherten Unterlagen der Rechnungslegung im Sinn des Absatzes 2 Nr. 4 ein. Gleiches gilt für die elektronische Übermittlung von zum Handelsregister eingereichten Schriftstücken nach § 9 Abs. 2, soweit sich der Antrag auf Unterlagen der Rechnungslegung im Sinn des Absatzes 2 Nr. 4 bezieht; § 9 Abs. 3 gilt entsprechend.
 
-(+++ § 8b Abs. 3 Satz 1 Nr. 1: Zur Anwendung vgl. § 45 Abs. 4 KAGB +++)
+(+++ § 8b: Zur Anwendung vgl. Art. 75 Abs. 3 HGBEG +++) (+++ § 8b Abs. 3 Satz 1 Nr. 1: Zur Anwendung vgl. § 45 Abs. 4 KAGB +++)
 
 ### § 9 Einsichtnahme in das Handelsregister und das Unternehmensregister
 
@@ -193,11 +204,45 @@ Die Landesjustizverwaltungen übermitteln die Daten nach Absatz 2 Nr. 1 bis 3 un
 
 ### § 9a Übertragung der Führung des Unternehmensregisters; Verordnungsermächtigung
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates einer juristischen Person des Privatrechts die Aufgaben nach § 8b Abs. 1 zu übertragen. Der Beliehene erlangt die Stellung einer Justizbehörde des Bundes. Zur Erstellung von Beglaubigungen führt der Beliehene ein Dienstsiegel; nähere Einzelheiten hierzu können in der Rechtsverordnung nach Satz 1 geregelt werden. Die Dauer der Beleihung ist zu befristen; sie soll fünf Jahre nicht unterschreiten; Kündigungsrechte aus wichtigem Grund sind vorzusehen. Eine juristische Person des Privatrechts darf nur beliehen werden, wenn sie grundlegende Erfahrungen mit der Veröffentlichung von kapitalmarktrechtlichen Informationen und gerichtlichen Mitteilungen, insbesondere Handelsregisterdaten, hat und ihr eine ausreichende technische und finanzielle Ausstattung zur Verfügung steht, die die Gewähr für den langfristigen und sicheren Betrieb des Unternehmensregisters bietet.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates einer juristischen Person des Privatrechts die Aufgaben nach § 8b Abs. 1 zu übertragen. Der Beliehene erlangt die Stellung einer Justizbehörde des Bundes. Zur Erstellung von Beglaubigungen führt der Beliehene ein Dienstsiegel; nähere Einzelheiten hierzu können in der Rechtsverordnung nach Satz 1 geregelt werden. Die Dauer der Beleihung ist zu befristen; sie soll fünf Jahre nicht unterschreiten; Kündigungsrechte aus wichtigem Grund sind vorzusehen. Eine juristische Person des Privatrechts darf nur beliehen werden, wenn sie grundlegende Erfahrungen mit der Veröffentlichung von kapitalmarktrechtlichen Informationen und gerichtlichen Mitteilungen, insbesondere Handelsregisterdaten, hat und ihr eine ausreichende technische und finanzielle Ausstattung zur Verfügung steht, die die Gewähr für den langfristigen und sicheren Betrieb des Unternehmensregisters bietet.
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten der Datenübermittlung zwischen den Behörden der Länder und dem Unternehmensregister einschließlich Vorgaben über Datenformate zu regeln. Abweichungen von den Verfahrensregelungen durch Landesrecht sind ausgeschlossen.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten der Datenübermittlung zwischen den Behörden der Länder und dem Unternehmensregister einschließlich Vorgaben über Datenformate zu regeln. Abweichungen von den Verfahrensregelungen durch Landesrecht sind ausgeschlossen.
 
-(3) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die technischen Einzelheiten zu Aufbau und Führung des Unternehmensregisters, Einzelheiten der Datenübermittlung einschließlich Vorgaben über Datenformate, die nicht unter Absatz 2 fallen, Löschungsfristen für die im Unternehmensregister gespeicherten Daten, Überwachungsrechte der Bundesanstalt für Finanzdienstleistungsaufsicht gegenüber dem Unternehmensregister hinsichtlich der Übermittlung, Einstellung, Verwaltung, Verarbeitung und des Abrufs kapitalmarktrechtlicher Daten einschließlich der Zusammenarbeit mit amtlich bestellten Speicherungssystemen anderer Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum im Rahmen des Aufbaus eines europaweiten Netzwerks zwischen den Speicherungssystemen, die Zulässigkeit sowie Art und Umfang von Auskunftsdienstleistungen mit den im Unternehmensregister gespeicherten Daten, die über die mit der Führung des Unternehmensregisters verbundenen Aufgaben nach diesem Gesetz hinausgehen, zu regeln. Soweit Regelungen getroffen werden, die kapitalmarktrechtliche Daten berühren, ist die Rechtsverordnung nach Satz 1 im Einvernehmen mit dem Bundesministerium der Finanzen zu erlassen. Die Rechtsverordnung nach Satz 1 hat dem schutzwürdigen Interesse der Unternehmen am Ausschluss einer zweckändernden Verwendung der im Register gespeicherten Daten angemessen Rechnung zu tragen.
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die technischen Einzelheiten zu Aufbau und Führung des Unternehmensregisters, Einzelheiten der Datenübermittlung einschließlich Vorgaben über Datenformate, die nicht unter Absatz 2 fallen, Löschungsfristen für die im Unternehmensregister gespeicherten Daten, Überwachungsrechte der Bundesanstalt für Finanzdienstleistungsaufsicht gegenüber dem Unternehmensregister hinsichtlich der Übermittlung, Einstellung, Verwaltung, Verarbeitung und des Abrufs kapitalmarktrechtlicher Daten einschließlich der Zusammenarbeit mit amtlich bestellten Speicherungssystemen anderer Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum im Rahmen des Aufbaus eines europaweiten Netzwerks zwischen den Speicherungssystemen, die Zulässigkeit sowie Art und Umfang von Auskunftsdienstleistungen mit den im Unternehmensregister gespeicherten Daten, die über die mit der Führung des Unternehmensregisters verbundenen Aufgaben nach diesem Gesetz hinausgehen, zu regeln. Soweit Regelungen getroffen werden, die kapitalmarktrechtliche Daten berühren, ist die Rechtsverordnung nach Satz 1 im Einvernehmen mit dem Bundesministerium der Finanzen zu erlassen. Die Rechtsverordnung nach Satz 1 hat dem schutzwürdigen Interesse der Unternehmen am Ausschluss einer zweckändernden Verwendung der im Register gespeicherten Daten angemessen Rechnung zu tragen.
+
+### § 9b Europäisches System der Registervernetzung; Verordnungsermächtigung
+
+(1) Die Eintragungen im Handelsregister und die zum Handelsregister eingereichten Dokumente sowie die Unterlagen der Rechnungslegung nach § 325 sind, soweit sie Kapitalgesellschaften betreffen oder Zweigniederlassungen von Kapitalgesellschaften, die dem Recht eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum unterliegen, auch über das Europäische Justizportal zugänglich. Hierzu übermitteln die Landesjustizverwaltungen die Daten des Handelsregisters und der Betreiber des Unternehmensregisters übermittelt die Daten der Rechnungslegungsunterlagen jeweils an die zentrale Europäische Plattform nach Artikel 4a Absatz 1 der Richtlinie 2009/101/EG des Europäischen Parlaments und des Rates vom 16. September 2009 zur Koordinierung der Schutzbestimmungen, die in den Mitgliedstaaten den Gesellschaften im Sinne des Artikels 54 Absatz 2 des Vertrags im Interesse der Gesellschafter sowie Dritter vorgeschrieben sind, um diese Bestimmungen gleichwertig zu gestalten (ABl. L 258 vom 1.10.2009, S. 11), die zuletzt durch die Richtlinie 2013/24/EU (ABl. L 158 vom 10.6.2013, S. 365) geändert worden ist, soweit die Übermittlung für die Eröffnung eines Zugangs zu den Originaldaten über den Suchdienst auf der Internetseite des Europäischen Justizportals erforderlich ist.
+
+(2) Das Registergericht, bei dem das Registerblatt einer Kapitalgesellschaft oder Zweigniederlassung einer Kapitalgesellschaft im Sinne des Absatzes 1 Satz 1 geführt wird, nimmt am Informationsaustausch zwischen den Registern über die zentrale Europäische Plattform teil. Den Kapitalgesellschaften und Zweigniederlassungen von Kapitalgesellschaften im Sinne des Absatzes 1 Satz 1 ist zu diesem Zweck eine einheitliche europäische Kennung zuzuordnen. Das Registergericht übermittelt nach Maßgabe der folgenden Absätze an die zentrale Europäische Plattform die Information über
+
+1.  
+die Eintragung der Eröffnung, Einstellung oder Aufhebung eines Insolvenzverfahrens über das Vermögen der Gesellschaft,
+
+2.  
+die Eintragung der Auflösung der Gesellschaft und die Eintragung über den Schluss der Liquidation oder Abwicklung oder über die Fortsetzung der Gesellschaft,
+
+3.  
+die Löschung der Gesellschaft sowie
+
+4.  
+das Wirksamwerden einer Verschmelzung nach § 122a des Umwandlungsgesetzes.
+
+(3) Die Landesjustizverwaltungen bestimmen das elektronische Informations- und Kommunikationssystem, über das die Daten aus dem Handelsregister zugänglich gemacht (Absatz 1) und im Rahmen des Informationsaustauschs zwischen den Registern übermittelt und empfangen werden (Absatz 2), und sie sind, vorbehaltlich der Zuständigkeit des Betreibers des Unternehmensregisters nach Absatz 1 Satz 2, für die Abwicklung des Datenverkehrs nach den Absätzen 1 und 2 zuständig. § 9 Absatz 1 Satz 3 bis 5 gilt entsprechend.
+
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die erforderlichen Bestimmungen zu treffen über
+
+1.  
+Struktur, Zuordnung und Verwendung der einheitlichen europäischen Kennung,
+
+2.  
+den Umfang der Mitteilungspflicht im Rahmen des Informationsaustauschs zwischen den Registern und die Liste der dabei zu übermittelnden Daten,
+
+3.  
+die Einzelheiten des elektronischen Datenverkehrs nach den Absätzen 1 und 2 einschließlich Vorgaben über Datenformate und Zahlungsmodalitäten sowie
+
+4.  
+den Zeitpunkt der erstmaligen Datenübermittlung.
 
 ### § 10 Bekanntmachung der Eintragungen
 
@@ -233,6 +278,8 @@ Das Gericht macht die Eintragungen in das Handelsregister in dem von der Landesj
 
 (3) Im übrigen gelten für die Anmeldungen, Einreichungen, Eintragungen, Bekanntmachungen und Änderungen einzutragender Tatsachen, die die Zweigniederlassung eines Einzelkaufmanns, einer Handelsgesellschaft oder einer juristischen Person mit Ausnahme von Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung betreffen, die Vorschriften für Hauptniederlassungen oder Niederlassungen am Sitz der Gesellschaft sinngemäß, soweit nicht das ausländische Recht Abweichungen nötig macht.
 
+(+++ § 13d: Zur Anwendung vgl. § 68 Abs. 1 VAG 2016 +++)
+
 ### § 13e Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Ausland
 
 (1) Für Zweigniederlassungen von Aktiengesellschaften und Gesellschaften mit beschränkter Haftung mit Sitz im Ausland gelten ergänzend zu § 13d die folgenden Vorschriften.
@@ -259,11 +306,15 @@ wenn die Gesellschaft nicht dem Recht eines Mitgliedstaates der Europäischen Un
 
 (5) Errichtet eine Gesellschaft mehrere Zweigniederlassungen im Inland, so brauchen die Satzung oder der Gesellschaftsvertrag sowie deren Änderungen nach Wahl der Gesellschaft nur zum Handelsregister einer dieser Zweigniederlassungen eingereicht zu werden. In diesem Fall haben die nach Absatz 2 Satz 1 Anmeldepflichtigen zur Eintragung in den Handelsregistern der übrigen Zweigniederlassungen anzumelden, welches Register die Gesellschaft gewählt hat und unter welcher Nummer die Zweigniederlassung eingetragen ist.
 
+(6) Die Landesjustizverwaltungen stellen sicher, dass die Daten einer Kapitalgesellschaft mit Sitz im Ausland, die im Rahmen des Europäischen Systems der Registervernetzung (§ 9b) empfangen werden, an das Registergericht weitergeleitet werden, das für eine inländische Zweigniederlassung dieser Gesellschaft zuständig ist.
+
+(+++ § 13e: Zur Anwendung vgl. § 68 Abs. 1 VAG 2016 +++)
+
 ### § 13f Zweigniederlassungen von Aktiengesellschaften mit Sitz im Ausland
 
 (1) Für Zweigniederlassungen von Aktiengesellschaften mit Sitz im Ausland gelten ergänzend die folgenden Vorschriften.
 
-(2) Der Anmeldung ist die Satzung in öffentlich beglaubigter Abschrift und, sofern die Satzung nicht in deutscher Sprache erstellt ist, eine beglaubigte Übersetzung in deutscher Sprache beizufügen. Die Vorschriften des § 37 Abs. 2 und 3 des Aktiengesetzes finden Anwendung. Soweit nicht das ausländische Recht eine Abweichung nötig macht, sind in die Anmeldung die in § 23 Abs. 3 und 4 sowie den §§ 24 und 25 Satz 2 des Aktiengesetzes vorgesehenen Bestimmungen und Bestimmungen der Satzung über die Zusammensetzung des Vorstandes aufzunehmen; erfolgt die Anmeldung in den ersten zwei Jahren nach der Eintragung der Gesellschaft in das Handelsregister ihres Sitzes, sind auch die Angaben über Festsetzungen nach den §§ 26 und 27 des Aktiengesetzes und der Ausgabebetrag der Aktien sowie Name und Wohnort der Gründer aufzunehmen. Der Anmeldung ist die für den Sitz der Gesellschaft ergangene gerichtliche Bekanntmachung beizufügen.
+(2) Der Anmeldung ist die Satzung in öffentlich beglaubigter Abschrift und, sofern die Satzung nicht in deutscher Sprache erstellt ist, eine beglaubigte Übersetzung in deutscher Sprache beizufügen. Die Vorschriften des § 37 Abs. 2 und 3 des Aktiengesetzes finden Anwendung. Soweit nicht das ausländische Recht eine Abweichung nötig macht, sind in die Anmeldung die in § 23 Abs. 3 und 4 des Aktiengesetzes vorgesehenen Bestimmungen und Bestimmungen der Satzung über die Zusammensetzung des Vorstandes aufzunehmen; erfolgt die Anmeldung in den ersten zwei Jahren nach der Eintragung der Gesellschaft in das Handelsregister ihres Sitzes, sind auch die Angaben über Festsetzungen nach den §§ 26 und 27 des Aktiengesetzes und der Ausgabebetrag der Aktien sowie Name und Wohnort der Gründer aufzunehmen. Der Anmeldung ist die für den Sitz der Gesellschaft ergangene gerichtliche Bekanntmachung beizufügen.
 
 (3) Die Eintragung der Errichtung der Zweigniederlassung hat auch die Angaben nach § 39 des Aktiengesetzes sowie die Angaben nach § 13e Abs. 2 Satz 3 bis 5 zu enthalten.
 
@@ -274,6 +325,8 @@ wenn die Gesellschaft nicht dem Recht eines Mitgliedstaates der Europäischen Un
 (6) Für die Aufhebung einer Zweigniederlassung gelten die Vorschriften über ihre Errichtung sinngemäß.
 
 (7) Die Vorschriften über Zweigniederlassungen von Aktiengesellschaften mit Sitz im Ausland gelten sinngemäß für Zweigniederlassungen von Kommanditgesellschaften auf Aktien mit Sitz im Ausland, soweit sich aus den Vorschriften der §§ 278 bis 290 des Aktiengesetzes oder aus dem Fehlen eines Vorstands nichts anderes ergibt.
+
+(+++ § 13f: Zur Anwendung vgl. § 68 Abs. 1 VAG 2016 +++)
 
 ### § 13g Zweigniederlassungen von Gesellschaften mit beschränkter Haftung mit Sitz im Ausland
 
@@ -353,9 +406,7 @@ bei einer Kommanditgesellschaft die Bezeichnung "Kommanditgesellschaft" oder ein
 
 (2) Wenn in einer offenen Handelsgesellschaft oder Kommanditgesellschaft keine natürliche Person persönlich haftet, muß die Firma, auch wenn sie nach den §§ 21, 22, 24 oder nach anderen gesetzlichen Vorschriften fortgeführt wird, eine Bezeichnung enthalten, welche die Haftungsbeschränkung kennzeichnet.
 
-### § 20
-
--
+### § 20 (weggefallen)
 
 ### § 21
 
@@ -472,9 +523,7 @@ die Überwachung der Erfüllung eines Insolvenzplans und die Aufhebung der Über
 
 -
 
-### § 36
-
-(weggefallen)
+### § 36 (weggefallen)
 
 ### § 37
 
@@ -603,9 +652,7 @@ Wer in einem Handelsgewerbe zur Leistung kaufmännischer Dienste gegen Entgelt a
 
 (4) Die dem Prinzipal hiernach obliegenden Verpflichtungen können nicht im voraus durch Vertrag aufgehoben oder beschränkt werden.
 
-### § 63
-
--
+### § 63 (weggefallen)
 
 ### § 64
 
@@ -615,11 +662,9 @@ Die Zahlung des dem Handlungsgehilfen zukommenden Gehalts hat am Schluß jedes M
 
 Ist bedungen, daß der Handlungsgehilfe für Geschäfte, die von ihm geschlossen oder vermittelt werden, Provision erhalten soll, so sind die für die Handelsvertreter geltenden Vorschriften des § 87 Abs. 1 und 3 sowie der §§ 87a bis 87c anzuwenden.
 
-### (XXXX) §§ 66 bis 72
+### (XXXX) §§ 66 bis 72 (weggefallen)
 
-### § 73
-
-(weggefallen)
+### § 73 (weggefallen)
 
 ### § 74
 
@@ -664,9 +709,7 @@ Abs. 3: Verstößt nach dem Urteil des BAG v. 23.2.1977 gegen Art. 3 GG u. ist d
 
 Der Prinzipal kann vor der Beendigung des Dienstverhältnisses durch schriftliche Erklärung auf das Wettbewerbsverbot mit der Wirkung verzichten, daß er mit dem Ablauf eines Jahres seit der Erklärung von der Verpflichtung zur Zahlung der Entschädigung frei wird.
 
-### § 75b
-
-(weggefallen)
+### § 75b (weggefallen)
 
 ### § 75c
 
@@ -678,9 +721,7 @@ Der Prinzipal kann vor der Beendigung des Dienstverhältnisses durch schriftlich
 
 Auf eine Vereinbarung, durch die von den Vorschriften der §§ 74 bis 75c zum Nachteil des Handlungsgehilfen abgewichen wird, kann sich der Prinzipal nicht berufen. Das gilt auch von Vereinbarungen, die bezwecken, die gesetzlichen Vorschriften über das Mindestmaß der Entschädigung durch Verrechnungen oder auf sonstige Weise zu umgehen.
 
-### § 75e
-
--
+### § 75e (weggefallen)
 
 ### § 75f
 
@@ -696,7 +737,7 @@ Im Falle einer Vereinbarung, durch die sich ein Prinzipal einem anderen Prinzipa
 
 (2) Das gleiche gilt, wenn ein Handlungsgehilfe, der mit dem Abschluß von Geschäften betraut ist, ein Geschäft im Namen des Prinzipals abgeschlossen hat, zu dessen Abschluß er nicht bevollmächtigt ist.
 
-### (XXXX) §§ 76 bis 82
+### (XXXX) §§ 76 bis 82 (weggefallen)
 
 ### § 82a
 
@@ -805,9 +846,7 @@ Der Anspruch auf Provision nach Satz 1 steht dem nachfolgenden Handelsvertreter 
 
 Der Handelsvertreter kann den Ersatz seiner im regelmäßigen Geschäftsbetrieb entstandenen Aufwendungen nur verlangen, wenn dies handelsüblich ist.
 
-### § 88
-
-(weggefallen)
+### § 88 (weggefallen)
 
 ### § 88a
 
@@ -898,7 +937,7 @@ Der Handelsvertreter darf Geschäfts- und Betriebsgeheimnisse, die ihm anvertrau
 
 ### § 92a
 
-(1) Für das Vertragsverhältnis eines Handelsvertreters, der vertraglich nicht für weitere Unternehmer tätig werden darf oder dem dies nach Art und Umfang der von ihm verlangten Tätigkeit nicht möglich ist, kann das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie nach Anhörung von Verbänden der Handelsvertreter und der Unternehmer durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die untere Grenze der vertraglichen Leistungen des Unternehmers festsetzen, um die notwendigen sozialen und wirtschaftlichen Bedürfnisse dieser Handelsvertreter oder einer bestimmten Gruppe von ihnen sicherzustellen. Die festgesetzten Leistungen können vertraglich nicht ausgeschlossen oder beschränkt werden.
+(1) Für das Vertragsverhältnis eines Handelsvertreters, der vertraglich nicht für weitere Unternehmer tätig werden darf oder dem dies nach Art und Umfang der von ihm verlangten Tätigkeit nicht möglich ist, kann das Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie nach Anhörung von Verbänden der Handelsvertreter und der Unternehmer durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die untere Grenze der vertraglichen Leistungen des Unternehmers festsetzen, um die notwendigen sozialen und wirtschaftlichen Bedürfnisse dieser Handelsvertreter oder einer bestimmten Gruppe von ihnen sicherzustellen. Die festgesetzten Leistungen können vertraglich nicht ausgeschlossen oder beschränkt werden.
 
 (2) Absatz 1 gilt auch für das Vertragsverhältnis eines Versicherungsvertreters, der auf Grund eines Vertrags oder mehrerer Verträge damit betraut ist, Geschäfte für mehrere Versicherer zu vermitteln oder abzuschließen, die zu einem Versicherungskonzern oder zu einer zwischen ihnen bestehenden Organisationsgemeinschaft gehören, sofern die Beendigung des Vertragsverhältnisses mit einem dieser Versicherer im Zweifel auch die Beendigung des Vertragsverhältnisses mit den anderen Versicherern zur Folge haben würde. In diesem Falle kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, außerdem bestimmt werden, ob die festgesetzten Leistungen von allen Versicherern als Gesamtschuldnern oder anteilig oder nur von einem der Versicherer geschuldet werden und wie der Ausgleich unter ihnen zu erfolgen hat.
 
@@ -1051,7 +1090,7 @@ Wird die Firma einer Gesellschaft geändert, der Sitz der Gesellschaft an einen 
 
 ### § 108
 
-Die Anmeldungen sind von sämtlichen Gesellschaftern zu bewirken.
+Die Anmeldungen sind von sämtlichen Gesellschaftern zu bewirken. Das gilt nicht, wenn sich nur die inländische Geschäftsanschrift ändert.
 
 Zweiter Titel Rechtsverhältnis der Gesellschafter untereinander
 ---------------------------------------------------------------
@@ -1221,7 +1260,7 @@ Die Gesellschafter haften für die Verbindlichkeiten der Gesellschaft den Gläub
 
 (1) Nachdem bei einer Gesellschaft, bei der kein Gesellschafter eine natürliche Person ist, die Zahlungsunfähigkeit eingetreten ist oder sich ihre Überschuldung ergeben hat, dürfen die organschaftlichen Vertreter der zur Vertretung der Gesellschaft ermächtigten Gesellschafter und die Liquidatoren für die Gesellschaft keine Zahlungen leisten. Dies gilt nicht von Zahlungen, die auch nach diesem Zeitpunkt mit der Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters vereinbar sind. Entsprechendes gilt für Zahlungen an Gesellschafter, soweit diese zur Zahlungsunfähigkeit der Gesellschaft führen mussten, es sei denn, dies war auch bei Beachtung der in Satz 2 bezeichneten Sorgfalt nicht erkennbar. Die Sätze 1 bis 3 gelten nicht, wenn zu den Gesellschaftern der offenen Handelsgesellschaft eine andere offene Handelsgesellschaft oder Kommanditgesellschaft gehört, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist.
 
-(2) Wird entgegen § 15a Abs. 1 der Insolvenzordnung die Eröffnung des Insolvenzverfahrens nicht oder nicht rechtzeitig beantragt oder werden entgegen Absatz 2 Zahlungen geleistet, so sind die organschaftlichen Vertreter der zur Vertretung der Gesellschaft ermächtigten Gesellschafter und die Liquidatoren der Gesellschaft gegenüber zum Ersatz des daraus entstehenden Schadens als Gesamtschuldner verpflichtet. Ist dabei streitig, ob sie die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters angewandt haben, so trifft sie die Beweislast. Die Ersatzpflicht kann durch Vereinbarung mit den Gesellschaftern weder eingeschränkt noch ausgeschlossen werden. Soweit der Ersatz zur Befriedigung der Gläubiger der Gesellschaft erforderlich ist, wird die Ersatzpflicht weder durch einen Verzicht oder Vergleich der Gesellschaft noch dadurch aufgehoben, daß die Handlung auf einem Beschluß der Gesellschafter beruht. Satz 4 gilt nicht, wenn der Ersatzpflichtige zahlungsunfähig ist und sich zur Abwendung des Insolvenzverfahrens mit seinen Gläubigern vergleicht oder wenn die Ersatzpflicht in einem Insolvenzplan geregelt wird. Die Ansprüche aus diesen Vorschriften verjähren in fünf Jahren.
+(2) Wird entgegen § 15a Abs. 1 der Insolvenzordnung die Eröffnung des Insolvenzverfahrens nicht oder nicht rechtzeitig beantragt oder werden entgegen Absatz 1 Zahlungen geleistet, so sind die organschaftlichen Vertreter der zur Vertretung der Gesellschaft ermächtigten Gesellschafter und die Liquidatoren der Gesellschaft gegenüber zum Ersatz des daraus entstehenden Schadens als Gesamtschuldner verpflichtet. Ist dabei streitig, ob sie die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters angewandt haben, so trifft sie die Beweislast. Die Ersatzpflicht kann durch Vereinbarung mit den Gesellschaftern weder eingeschränkt noch ausgeschlossen werden. Soweit der Ersatz zur Befriedigung der Gläubiger der Gesellschaft erforderlich ist, wird die Ersatzpflicht weder durch einen Verzicht oder Vergleich der Gesellschaft noch dadurch aufgehoben, daß die Handlung auf einem Beschluß der Gesellschafter beruht. Satz 4 gilt nicht, wenn der Ersatzpflichtige zahlungsunfähig ist und sich zur Abwendung des Insolvenzverfahrens mit seinen Gläubigern vergleicht oder wenn die Ersatzpflicht in einem Insolvenzplan geregelt wird. Die Ansprüche aus diesen Vorschriften verjähren in fünf Jahren.
 
 (3) Diese Vorschriften gelten sinngemäß, wenn die in den Absätzen 1 und 2 genannten organschaftlichen Vertreter ihrerseits Gesellschaften sind, bei denen kein Gesellschafter eine natürliche Person ist, oder sich die Verbindung von Gesellschaften in dieser Art fortsetzt.
 
@@ -1286,6 +1325,8 @@ Der Gesellschafter scheidet mit dem Eintritt des ihn betreffenden Ereignisses au
 
 Die Kündigung eines Gesellschafters kann, wenn die Gesellschaft für unbestimmte Zeit eingegangen ist, nur für den Schluß eines Geschäftsjahrs erfolgen; sie muß mindestens sechs Monate vor diesem Zeitpunkt stattfinden.
 
+(+++ § 132: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+
 ### § 133
 
 (1) Auf Antrag eines Gesellschafters kann die Auflösung der Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten Zeit oder bei einer für unbestimmte Zeit eingegangenen Gesellschaft ohne Kündigung durch gerichtliche Entscheidung ausgesprochen werden, wenn ein wichtiger Grund vorliegt.
@@ -1294,15 +1335,20 @@ Die Kündigung eines Gesellschafters kann, wenn die Gesellschaft für unbestimmt
 
 (3) Eine Vereinbarung, durch welche das Recht des Gesellschafters, die Auflösung der Gesellschaft zu verlangen, ausgeschlossen oder diesen Vorschriften zuwider beschränkt wird, ist nichtig.
 
+(+++ § 133: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
 (+++ § 133 Abs. 2: Zur Anwendung vgl. § 161 Abs. 1 Satz 3 KAGB +++)
 
 ### § 134
 
 Eine Gesellschaft, die für die Lebenszeit eines Gesellschafters eingegangen ist oder nach dem Ablauf der für ihre Dauer bestimmten Zeit stillschweigend fortgesetzt wird, steht im Sinne der Vorschriften der §§ 132 und 133 einer für unbestimmte Zeit eingegangenen Gesellschaft gleich.
 
+(+++ § 133: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
+
 ### § 135
 
 Hat ein Privatgläubiger eines Gesellschafters, nachdem innerhalb der letzten sechs Monate eine Zwangsvollstreckung in das bewegliche Vermögen des Gesellschafters ohne Erfolg versucht ist, auf Grund eines nicht bloß vorläufig vollstreckbaren Schuldtitels die Pfändung und Überweisung des Anspruchs auf dasjenige erwirkt, was dem Gesellschafter bei der Auseinandersetzung zukommt, so kann er die Gesellschaft ohne Rücksicht darauf, ob sie für bestimmte oder unbestimmte Zeit eingegangen ist, sechs Monate vor dem Ende des Geschäftsjahrs für diesen Zeitpunkt kündigen.
+
+(+++ § 135: Zur Nichtanwendung vgl. § 10 Abs. 5 KredWG +++)
 
 ### (XXXX) §§ 136 bis 138 (weggefallen)
 
@@ -1563,7 +1609,7 @@ Beim Tod eines Kommanditisten wird die Gesellschaft mangels abweichender vertrag
 
 Die §§ 125a und 130a gelten auch für die Gesellschaft, bei der ein Kommanditist eine natürliche Person ist, § 130a jedoch mit der Maßgabe, daß anstelle des Absatzes 1 Satz 4 der § 172 Abs. 6 Satz 2 anzuwenden ist. Der in § 125a Abs. 1 Satz 2 für die Gesellschafter vorgeschriebenen Angaben bedarf es nur für die persönlich haftenden Gesellschafter der Gesellschaft.
 
-### (XXXX) §§ 178 bis 229
+### (XXXX) §§ 178 bis 229 (weggefallen)
 
 Dritter Abschnitt Stille Gesellschaft
 -------------------------------------
@@ -1618,9 +1664,7 @@ Dritter Abschnitt Stille Gesellschaft
 
 (2) Ist die Einlage rückständig, so hat sie der stille Gesellschafter bis zu dem Betrag, welcher zur Deckung seines Anteils am Verlust erforderlich ist, zur Insolvenzmasse einzuzahlen.
 
-### § 237
-
--
+### § 237 (weggefallen)
 
 Drittes Buch Handelsbücher
 --------------------------
@@ -1679,7 +1723,9 @@ auf Grund des besonderen Inventars durch Anwendung eines den Grundsätzen ordnun
 
 ### § 241a Befreiung von der Pflicht zur Buchführung und Erstellung eines Inventars
 
-Einzelkaufleute, die an den Abschlussstichtagen von zwei aufeinander folgenden Geschäftsjahren nicht mehr als 500 000 Euro Umsatzerlöse und 50 000 Euro Jahresüberschuss aufweisen, brauchen die §§ 238 bis 241 nicht anzuwenden. Im Fall der Neugründung treten die Rechtsfolgen schon ein, wenn die Werte des Satzes 1 am ersten Abschlussstichtag nach der Neugründung nicht überschritten werden.
+Einzelkaufleute, die an den Abschlussstichtagen von zwei aufeinander folgenden Geschäftsjahren nicht mehr als jeweils 600 000 Euro Umsatzerlöse und jeweils 60 000 Euro Jahresüberschuss aufweisen, brauchen die §§ 238 bis 241 nicht anzuwenden. Im Fall der Neugründung treten die Rechtsfolgen schon ein, wenn die Werte des Satzes 1 am ersten Abschlussstichtag nach der Neugründung nicht überschritten werden.
+
+(+++ § 241a Satz 1: Zur Anwendung vgl. Art. 76 HGBEG +++)
 
 Zweiter Unterabschnitt Eröffnungsbilanz. Jahresabschluß
 -------------------------------------------------------
@@ -1808,15 +1854,19 @@ Die auf den vorhergehenden Jahresabschluss angewandten Bewertungsmethoden sind b
 
 ### § 253 Zugangs- und Folgebewertung
 
-(1) Vermögensgegenstände sind höchstens mit den Anschaffungs- oder Herstellungskosten, vermindert um die Abschreibungen nach den Absätzen 3 bis 5, anzusetzen. Verbindlichkeiten sind zu ihrem Erfüllungsbetrag und Rückstellungen in Höhe des nach vernünftiger kaufmännischer Beurteilung notwendigen Erfüllungsbetrages anzusetzen. Soweit sich die Höhe von Altersversorgungsverpflichtungen ausschließlich nach dem beizulegenden Zeitwert von Wertpapieren im Sinn des § 266 Abs. 2 A. III. 5 bestimmt, sind Rückstellungen hierfür zum beizulegenden Zeitwert dieser Wertpapiere anzusetzen, soweit er einen garantierten Mindestbetrag übersteigt. Nach § 246 Abs. 2 Satz 2 zu verrechnende Vermögensgegenstände sind mit ihrem beizulegenden Zeitwert zu bewerten. Kleinstkapitalgesellschaften (§ 267a) dürfen eine Bewertung zum beizulegenden Zeitwert nur vornehmen, wenn sie von keiner der in § 264 Absatz 1 Satz 5, § 266 Absatz 1 Satz 4, § 275 Absatz 5 und § 326 Absatz 2 vorgesehenen Erleichterungen Gebrauch machen. In diesem Fall erfolgt die Bewertung der Vermögensgegenstände nach Satz 1, auch soweit eine Verrechnung nach § 246 Absatz 2 Satz 2 vorgesehen ist.
+(1) Vermögensgegenstände sind höchstens mit den Anschaffungs- oder Herstellungskosten, vermindert um die Abschreibungen nach den Absätzen 3 bis 5, anzusetzen. Verbindlichkeiten sind zu ihrem Erfüllungsbetrag und Rückstellungen in Höhe des nach vernünftiger kaufmännischer Beurteilung notwendigen Erfüllungsbetrages anzusetzen. Soweit sich die Höhe von Altersversorgungsverpflichtungen ausschließlich nach dem beizulegenden Zeitwert von Wertpapieren im Sinn des § 266 Abs. 2 A. III. 5 bestimmt, sind Rückstellungen hierfür zum beizulegenden Zeitwert dieser Wertpapiere anzusetzen, soweit er einen garantierten Mindestbetrag übersteigt. Nach § 246 Abs. 2 Satz 2 zu verrechnende Vermögensgegenstände sind mit ihrem beizulegenden Zeitwert zu bewerten. Kleinstkapitalgesellschaften (§ 267a) dürfen eine Bewertung zum beizulegenden Zeitwert nur vornehmen, wenn sie von keiner der in § 264 Absatz 1 Satz 5, § 266 Absatz 1 Satz 4, § 275 Absatz 5 und § 326 Absatz 2 vorgesehenen Erleichterungen Gebrauch machen. Macht eine Kleinstkapitalgesellschaft von mindestens einer der in Satz 5 genannten Erleichterungen Gebrauch, erfolgt die Bewertung der Vermögensgegenstände nach Satz 1, auch soweit eine Verrechnung nach § 246 Absatz 2 Satz 2 vorgesehen ist.
 
-(2) Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr sind mit dem ihrer Restlaufzeit entsprechenden durchschnittlichen Marktzinssatz der vergangenen sieben Geschäftsjahre abzuzinsen. Abweichend von Satz 1 dürfen Rückstellungen für Altersversorgungsverpflichtungen oder vergleichbare langfristig fällige Verpflichtungen pauschal mit dem durchschnittlichen Marktzinssatz abgezinst werden, der sich bei einer angenommenen Restlaufzeit von 15 Jahren ergibt. Die Sätze 1 und 2 gelten entsprechend für auf Rentenverpflichtungen beruhende Verbindlichkeiten, für die eine Gegenleistung nicht mehr zu erwarten ist. Der nach den Sätzen 1 und 2 anzuwendende Abzinsungszinssatz wird von der Deutschen Bundesbank nach Maßgabe einer Rechtsverordnung ermittelt und monatlich bekannt gegeben. In der Rechtsverordnung nach Satz 4, die nicht der Zustimmung des Bundesrates bedarf, bestimmt das Bundesministerium der Justiz im Benehmen mit der Deutschen Bundesbank das Nähere zur Ermittlung der Abzinsungszinssätze, insbesondere die Ermittlungsmethodik und deren Grundlagen, sowie die Form der Bekanntgabe.
+(2) Rückstellungen mit einer Restlaufzeit von mehr als einem Jahr sind abzuzinsen mit dem ihrer Restlaufzeit entsprechenden durchschnittlichen Marktzinssatz, der sich im Falle von Rückstellungen für Altersversorgungsverpflichtungen aus den vergangenen zehn Geschäftsjahren und im Falle sonstiger Rückstellungen aus den vergangenen sieben Geschäftsjahren ergibt. Abweichend von Satz 1 dürfen Rückstellungen für Altersversorgungsverpflichtungen oder vergleichbare langfristig fällige Verpflichtungen pauschal mit dem durchschnittlichen Marktzinssatz abgezinst werden, der sich bei einer angenommenen Restlaufzeit von 15 Jahren ergibt. Die Sätze 1 und 2 gelten entsprechend für auf Rentenverpflichtungen beruhende Verbindlichkeiten, für die eine Gegenleistung nicht mehr zu erwarten ist. Der nach den Sätzen 1 und 2 anzuwendende Abzinsungszinssatz wird von der Deutschen Bundesbank nach Maßgabe einer Rechtsverordnung ermittelt und monatlich bekannt gegeben. In der Rechtsverordnung nach Satz 4, die nicht der Zustimmung des Bundesrates bedarf, bestimmt das Bundesministerium der Justiz und für Verbraucherschutz im Benehmen mit der Deutschen Bundesbank das Nähere zur Ermittlung der Abzinsungszinssätze, insbesondere die Ermittlungsmethodik und deren Grundlagen, sowie die Form der Bekanntgabe.
 
-(3) Bei Vermögensgegenständen des Anlagevermögens, deren Nutzung zeitlich begrenzt ist, sind die Anschaffungs- oder die Herstellungskosten um planmäßige Abschreibungen zu vermindern. Der Plan muss die Anschaffungs- oder Herstellungskosten auf die Geschäftsjahre verteilen, in denen der Vermögensgegenstand voraussichtlich genutzt werden kann. Ohne Rücksicht darauf, ob ihre Nutzung zeitlich begrenzt ist, sind bei Vermögensgegenständen des Anlagevermögens bei voraussichtlich dauernder Wertminderung außerplanmäßige Abschreibungen vorzunehmen, um diese mit dem niedrigeren Wert anzusetzen, der ihnen am Abschlussstichtag beizulegen ist. Bei Finanzanlagen können außerplanmäßige Abschreibungen auch bei voraussichtlich nicht dauernder Wertminderung vorgenommen werden.
+(3) Bei Vermögensgegenständen des Anlagevermögens, deren Nutzung zeitlich begrenzt ist, sind die Anschaffungs- oder die Herstellungskosten um planmäßige Abschreibungen zu vermindern. Der Plan muss die Anschaffungs- oder Herstellungskosten auf die Geschäftsjahre verteilen, in denen der Vermögensgegenstand voraussichtlich genutzt werden kann. Kann in Ausnahmefällen die voraussichtliche Nutzungsdauer eines selbst geschaffenen immateriellen Vermögensgegenstands des Anlagevermögens nicht verlässlich geschätzt werden, sind planmäßige Abschreibungen auf die Herstellungskosten über einen Zeitraum von zehn Jahren vorzunehmen. Satz 3 findet auf einen entgeltlich erworbenen Geschäfts- oder Firmenwert entsprechende Anwendung. Ohne Rücksicht darauf, ob ihre Nutzung zeitlich begrenzt ist, sind bei Vermögensgegenständen des Anlagevermögens bei voraussichtlich dauernder Wertminderung außerplanmäßige Abschreibungen vorzunehmen, um diese mit dem niedrigeren Wert anzusetzen, der ihnen am Abschlussstichtag beizulegen ist. Bei Finanzanlagen können außerplanmäßige Abschreibungen auch bei voraussichtlich nicht dauernder Wertminderung vorgenommen werden.
 
 (4) Bei Vermögensgegenständen des Umlaufvermögens sind Abschreibungen vorzunehmen, um diese mit einem niedrigeren Wert anzusetzen, der sich aus einem Börsen- oder Marktpreis am Abschlussstichtag ergibt. Ist ein Börsen- oder Marktpreis nicht festzustellen und übersteigen die Anschaffungs- oder Herstellungskosten den Wert, der den Vermögensgegenständen am Abschlussstichtag beizulegen ist, so ist auf diesen Wert abzuschreiben.
 
-(5) Ein niedrigerer Wertansatz nach Absatz 3 Satz 3 oder 4 und Absatz 4 darf nicht beibehalten werden, wenn die Gründe dafür nicht mehr bestehen. Ein niedrigerer Wertansatz eines entgeltlich erworbenen Geschäfts- oder Firmenwertes ist beizubehalten.
+(5) Ein niedrigerer Wertansatz nach Absatz 3 Satz 5 oder 6 und Absatz 4 darf nicht beibehalten werden, wenn die Gründe dafür nicht mehr bestehen. Ein niedrigerer Wertansatz eines entgeltlich erworbenen Geschäfts- oder Firmenwertes ist beizubehalten.
+
+(6) Im Falle von Rückstellungen für Altersversorgungsverpflichtungen ist der Unterschiedsbetrag zwischen dem Ansatz der Rückstellungen nach Maßgabe des entsprechenden durchschnittlichen Marktzinssatzes aus den vergangenen zehn Geschäftsjahren und dem Ansatz der Rückstellungen nach Maßgabe des entsprechenden durchschnittlichen Marktzinssatzes aus den vergangenen sieben Geschäftsjahren in jedem Geschäftsjahr zu ermitteln. Gewinne dürfen nur ausgeschüttet werden, wenn die nach der Ausschüttung verbleibenden frei verfügbaren Rücklagen zuzüglich eines Gewinnvortrags und abzüglich eines Verlustvortrags mindestens dem Unterschiedsbetrag nach Satz 1 entsprechen. Der Unterschiedsbetrag nach Satz 1 ist in jedem Geschäftsjahr im Anhang oder unter der Bilanz darzustellen.
+
+(+++ § 253 Abs. 3 Satz 3 u. 4: Zur erstmaligen Anwendung vgl. Art. 75 Abs. 4 HGBEG +++)
 
 ### § 254 Bildung von Bewertungseinheiten
 
@@ -1824,7 +1874,7 @@ Werden Vermögensgegenstände, Schulden, schwebende Geschäfte oder mit hoher Wa
 
 ### § 255 Bewertungsmaßstäbe
 
-(1) Anschaffungskosten sind die Aufwendungen, die geleistet werden, um einen Vermögensgegenstand zu erwerben und ihn in einen betriebsbereiten Zustand zu versetzen, soweit sie dem Vermögensgegenstand einzeln zugeordnet werden können. Zu den Anschaffungskosten gehören auch die Nebenkosten sowie die nachträglichen Anschaffungskosten. Anschaffungspreisminderungen sind abzusetzen.
+(1) Anschaffungskosten sind die Aufwendungen, die geleistet werden, um einen Vermögensgegenstand zu erwerben und ihn in einen betriebsbereiten Zustand zu versetzen, soweit sie dem Vermögensgegenstand einzeln zugeordnet werden können. Zu den Anschaffungskosten gehören auch die Nebenkosten sowie die nachträglichen Anschaffungskosten. Anschaffungspreisminderungen, die dem Vermögensgegenstand einzeln zugeordnet werden können, sind abzusetzen.
 
 (2) Herstellungskosten sind die Aufwendungen, die durch den Verbrauch von Gütern und die Inanspruchnahme von Diensten für die Herstellung eines Vermögensgegenstands, seine Erweiterung oder für eine über seinen ursprünglichen Zustand hinausgehende wesentliche Verbesserung entstehen. Dazu gehören die Materialkosten, die Fertigungskosten und die Sonderkosten der Fertigung sowie angemessene Teile der Materialgemeinkosten, der Fertigungsgemeinkosten und des Werteverzehrs des Anlagevermögens, soweit dieser durch die Fertigung veranlasst ist. Bei der Berechnung der Herstellungskosten dürfen angemessene Teile der Kosten der allgemeinen Verwaltung sowie angemessene Aufwendungen für soziale Einrichtungen des Betriebs, für freiwillige soziale Leistungen und für die betriebliche Altersversorgung einbezogen werden, soweit diese auf den Zeitraum der Herstellung entfallen. Forschungs- und Vertriebskosten dürfen nicht einbezogen werden.
 
@@ -1833,6 +1883,8 @@ Werden Vermögensgegenstände, Schulden, schwebende Geschäfte oder mit hoher Wa
 (3) Zinsen für Fremdkapital gehören nicht zu den Herstellungskosten. Zinsen für Fremdkapital, das zur Finanzierung der Herstellung eines Vermögensgegenstands verwendet wird, dürfen angesetzt werden, soweit sie auf den Zeitraum der Herstellung entfallen; in diesem Falle gelten sie als Herstellungskosten des Vermögensgegenstands.
 
 (4) Der beizulegende Zeitwert entspricht dem Marktpreis. Soweit kein aktiver Markt besteht, anhand dessen sich der Marktpreis ermitteln lässt, ist der beizulegende Zeitwert mit Hilfe allgemein anerkannter Bewertungsmethoden zu bestimmen. Lässt sich der beizulegende Zeitwert weder nach Satz 1 noch nach Satz 2 ermitteln, sind die Anschaffungs- oder Herstellungskosten gemäß § 253 Abs. 4 fortzuführen. Der zuletzt nach Satz 1 oder 2 ermittelte beizulegende Zeitwert gilt als Anschaffungs- oder Herstellungskosten im Sinn des Satzes 3.
+
+(+++ § 255: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 256 Bewertungsvereinfachungsverfahren
 
@@ -1902,9 +1954,7 @@ Vierter Unterabschnitt Landesrecht
 
 ### 
 
-### § 262
-
-(weggefallen)
+### § 262 (weggefallen)
 
 ### § 263 Vorbehalt landesrechtlicher Vorschriften
 
@@ -1925,45 +1975,68 @@ Erster Titel Allgemeine Vorschriften
 
 ### 
 
-### § 264 Pflicht zur Aufstellung
+### § 264 Pflicht zur Aufstellung; Befreiung
 
 (1) Die gesetzlichen Vertreter einer Kapitalgesellschaft haben den Jahresabschluß (§ 242) um einen Anhang zu erweitern, der mit der Bilanz und der Gewinn- und Verlustrechnung eine Einheit bildet, sowie einen Lagebericht aufzustellen. Die gesetzlichen Vertreter einer kapitalmarktorientierten Kapitalgesellschaft, die nicht zur Aufstellung eines Konzernabschlusses verpflichtet ist, haben den Jahresabschluss um eine Kapitalflussrechnung und einen Eigenkapitalspiegel zu erweitern, die mit der Bilanz, Gewinn- und Verlustrechnung und dem Anhang eine Einheit bilden; sie können den Jahresabschluss um eine Segmentberichterstattung erweitern. Der Jahresabschluß und der Lagebericht sind von den gesetzlichen Vertretern in den ersten drei Monaten des Geschäftsjahrs für das vergangene Geschäftsjahr aufzustellen. Kleine Kapitalgesellschaften (§ 267 Abs. 1) brauchen den Lagebericht nicht aufzustellen; sie dürfen den Jahresabschluß auch später aufstellen, wenn dies einem ordnungsgemäßen Geschäftsgang entspricht, jedoch innerhalb der ersten sechs Monate des Geschäftsjahres. Kleinstkapitalgesellschaften (§ 267a) brauchen den Jahresabschluss nicht um einen Anhang zu erweitern, wenn sie
 
 1.  
-die in den §§ 251 und 268 Absatz 7 genannten Angaben,
+die in § 268 Absatz 7 genannten Angaben,
 
 2.  
 die in § 285 Nummer 9 Buchstabe c genannten Angaben und
 
 3.  
-im Falle einer Aktiengesellschaft oder Kommanditgesellschaft auf Aktien die in § 160 Absatz 1 Satz 1 Nummer 2 des Aktiengesetzes genannten Angaben
+im Falle einer Aktiengesellschaft die in § 160 Absatz 3 Satz 2 des Aktiengesetzes genannten Angaben
 
 unter der Bilanz angeben.
 
+(1a) In dem Jahresabschluss sind die Firma, der Sitz, das Registergericht und die Nummer, unter der die Gesellschaft in das Handelsregister eingetragen ist, anzugeben. Befindet sich die Gesellschaft in Liquidation oder Abwicklung, ist auch diese Tatsache anzugeben.
+
 (2) Der Jahresabschluß der Kapitalgesellschaft hat unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Kapitalgesellschaft zu vermitteln. Führen besondere Umstände dazu, daß der Jahresabschluß ein den tatsächlichen Verhältnissen entsprechendes Bild im Sinne des Satzes 1 nicht vermittelt, so sind im Anhang zusätzliche Angaben zu machen. Die gesetzlichen Vertreter einer Kapitalgesellschaft, die Inlandsemittent im Sinne des § 2 Absatz 7 des Wertpapierhandelsgesetzes und keine Kapitalgesellschaft im Sinne des § 327a ist, haben bei der Unterzeichnung schriftlich zu versichern, dass nach bestem Wissen der Jahresabschluss ein den tatsächlichen Verhältnissen entsprechendes Bild im Sinne des Satzes 1 vermittelt oder der Anhang Angaben nach Satz 2 enthält. Macht eine Kleinstkapitalgesellschaft von der Erleichterung nach Absatz 1 Satz 5 Gebrauch, sind nach Satz 2 erforderliche zusätzliche Angaben unter der Bilanz zu machen. Es wird vermutet, dass ein unter Berücksichtigung der Erleichterungen für Kleinstkapitalgesellschaften aufgestellter Jahresabschluss den Erfordernissen des Satzes 1 entspricht.
 
-(3) Eine Kapitalgesellschaft, die in den Konzernabschluss eines Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum einbezogen ist, braucht die Vorschriften dieses Unterabschnitts und des Dritten und Vierten Unterabschnitts dieses Abschnitts nicht anzuwenden, wenn
+(3) Eine Kapitalgesellschaft, die als Tochterunternehmen in den Konzernabschluss eines Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum einbezogen ist, braucht die Vorschriften dieses Unterabschnitts und des Dritten und Vierten Unterabschnitts dieses Abschnitts nicht anzuwenden, wenn alle folgenden Voraussetzungen erfüllt sind:
 
 1.  
-alle Gesellschafter des Tochterunternehmens der Befreiung für das jeweilige Geschäftsjahr zugestimmt haben und der Beschluß nach § 325 offengelegt worden ist,
+alle Gesellschafter des Tochterunternehmens haben der Befreiung für das jeweilige Geschäftsjahr zugestimmt;
 
 2.  
-das Mutterunternehmen zur Verlustübernahme nach § 302 des Aktiengesetzes oder nach dem für das Mutterunternehmen maßgeblichen Recht verpflichtet ist oder eine solche Verpflichtung freiwillig übernommen hat und diese Erklärung nach § 325 offengelegt worden ist,
+das Mutterunternehmen hat sich bereit erklärt, für die von dem Tochterunternehmen bis zum Abschlussstichtag eingegangenen Verpflichtungen im folgenden Geschäftsjahr einzustehen;
 
 3.  
-die Kapitalgesellschaft in den Konzernabschluss einbezogen worden ist und
-
-4.  
-die Befreiung des Tochterunternehmens
+der Konzernabschluss und der Konzernlagebericht des Mutterunternehmens sind nach den Rechtsvorschriften des Staates, in dem das Mutterunternehmen seinen Sitz hat, und im Einklang mit folgenden Richtlinien aufgestellt und geprüft worden:
 
 a)  
-im Anhang des von dem Mutterunternehmen aufgestellten und nach § 325 durch Einreichung beim Betreiber des Bundesanzeigers offen gelegten Konzernabschlusses angegeben und
+Richtlinie 2013/34/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Jahresabschluss, den konsolidierten Abschluss und damit verbundene Berichte von Unternehmen bestimmter Rechtsformen und zur Änderung der Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 78/660/EWG und 83/349/EWG des Rates (ABl. L 182 vom 29.6.2013, S. 19),
 
 b)  
-zusätzlich im Bundesanzeiger für das Tochterunternehmen unter Bezugnahme auf diese Vorschrift und unter Angabe des Mutterunternehmens mitgeteilt worden ist.
+Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Abschlussprüfungen von Jahresabschlüssen und konsolidierten Abschlüssen, zur Änderung der Richtlinien 78/660/EWG und 83/349/EWG des Rates und zur Aufhebung der Richtlinie 84/253/EWG des Rates (ABl. L 157 vom 9.6.2006, S. 87), die durch die Richtlinie 2013/34/EU (ABl. L 182 vom 29.6.2013, S. 19) geändert worden ist;
 
-(4) Absatz 3 ist auf Kapitalgesellschaften, die Tochterunternehmen eines nach § 11 des Publizitätsgesetzes zur Aufstellung eines Konzernabschlusses verpflichteten Mutterunternehmens sind, entsprechend anzuwenden, soweit in diesem Konzernabschluss von dem Wahlrecht des § 13 Abs. 3 Satz 1 des Publizitätsgesetzes nicht Gebrauch gemacht worden ist.
+4.  
+die Befreiung des Tochterunternehmens ist im Anhang des Konzernabschlusses des Mutterunternehmens angegeben und
 
+5.  
+für das Tochterunternehmen sind nach § 325 Absatz 1 bis 1b offengelegt worden:
+
+a)  
+der Beschluss nach Nummer 1,
+
+b)  
+die Erklärung nach Nummer 2,
+
+c)  
+der Konzernabschluss,
+
+d)  
+der Konzernlagebericht und
+
+e)  
+der Bestätigungsvermerk zum Konzernabschluss und Konzernlagebericht des Mutterunternehmens nach Nummer 3.
+
+Hat bereits das Mutterunternehmen einzelne oder alle der in Satz 1 Nummer 5 bezeichneten Unterlagen offengelegt, braucht das Tochterunternehmen die betreffenden Unterlagen nicht erneut offenzulegen, wenn sie im Bundesanzeiger unter dem Tochterunternehmen auffindbar sind; § 326 Absatz 2 ist auf diese Offenlegung nicht anzuwenden. Satz 2 gilt nur dann, wenn das Mutterunternehmen die betreffende Unterlage in deutscher oder in englischer Sprache offengelegt hat oder das Tochterunternehmen zusätzlich eine beglaubigte Übersetzung dieser Unterlage in deutscher Sprache nach § 325 Absatz 1 bis 1b offenlegt.
+
+(4) Absatz 3 ist nicht anzuwenden, wenn eine Kapitalgesellschaft das Tochterunternehmen eines Mutterunternehmens ist, das einen Konzernabschluss nach den Vorschriften des Publizitätsgesetzes aufgestellt hat, und wenn in diesem Konzernabschluss von dem Wahlrecht des § 13 Absatz 3 Satz 1 des Publizitätsgesetzes Gebrauch gemacht worden ist; § 314 Absatz 3 bleibt unberührt.
+
+(+++ § 264: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 (+++ § 264 Abs. 1 Satz 4, Abs. 3 u. 4: Zur Anwendung vgl. § 46 Satz 2 KAGB u. § 135 Abs. 2 Satz 2 KAGB +++)
 
 ### § 264a Anwendung auf bestimmte offene Handelsgesellschaften und Kommanditgesellschaften
@@ -1980,26 +2053,29 @@ ist oder sich die Verbindung von Gesellschaften in dieser Art fortsetzt.
 
 (2) In den Vorschriften dieses Abschnitts gelten als gesetzliche Vertreter einer offenen Handelsgesellschaft und Kommanditgesellschaft nach Absatz 1 die Mitglieder des vertretungsberechtigten Organs der vertretungsberechtigten Gesellschaften.
 
-### § 264b Befreiung von der Pflicht zur Aufstellung eines Jahresabschlusses nach den für Kapitalgesellschaften geltenden Vorschriften
+### § 264b Befreiung der offenen Handelsgesellschaften und Kommanditgesellschaften im Sinne des § 264a von der Anwendung der Vorschriften dieses Abschnitts
 
-Eine Personenhandelsgesellschaft im Sinne des § 264a Abs. 1 ist von der Verpflichtung befreit, einen Jahresabschluss und einen Lagebericht nach den Vorschriften dieses Abschnitts aufzustellen, prüfen zu lassen und offen zu legen, wenn
+Eine Personenhandelsgesellschaft im Sinne des § 264a Absatz 1 ist von der Verpflichtung befreit, einen Jahresabschluss und einen Lagebericht nach den Vorschriften dieses Abschnitts aufzustellen, prüfen zu lassen und offenzulegen, wenn alle folgenden Voraussetzungen erfüllt sind:
 
 1.  
-sie in den Konzernabschluss eines Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in den Konzernabschluss eines anderen Unternehmens, das persönlich haftender Gesellschafter dieser Personenhandelsgesellschaft ist, einbezogen ist;
-
-2.  
-der Konzernabschluss sowie der Konzernlagebericht im Einklang mit der Richtlinie 83/349/EWG des Rates vom 13. Juni 1983 auf Grund von Artikel 54 Abs. 3 Buchstabe g des Vertrages über den konsolidierten Abschluss (ABl. EG Nr. L 193 S. 1) und der Richtlinie 84/253/EWG des Rates vom 10. April 1984 über die Zulassung der mit der Pflichtprüfung der Rechnungslegungsunterlagen beauftragten Personen (ABl. EG Nr. L 126 S. 20) in ihren jeweils geltenden Fassungen nach dem für das den Konzernabschluss aufstellende Unternehmen maßgeblichen Recht aufgestellt, von einem zugelassenen Abschlussprüfer geprüft und offen gelegt worden ist, und
-
-3.  
-die Befreiung der Personenhandelsgesellschaft
+die betreffende Gesellschaft ist einbezogen in den Konzernabschluss und in den Konzernlagebericht
 
 a)  
-im Anhang des von dem Mutterunternehmen aufgestellten und nach § 325 durch Einreichung beim Betreiber des Bundesanzeigers offen gelegten Konzernabschlusses angegeben und
+eines persönlich haftenden Gesellschafters der betreffenden Gesellschaft oder
 
 b)  
-zusätzlich im Bundesanzeiger für die Personenhandelsgesellschaft unter Bezugnahme auf diese Vorschrift und unter Angabe des Mutterunternehmens mitgeteilt worden ist.
+eines Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, wenn in diesen Konzernabschluss eine größere Gesamtheit von Unternehmen einbezogen ist;
 
-(+++ § 264b: Zur Anwendung vgl. § 46 Satz 2 KAGB u. § 135 Abs. 2 Satz 2 KAGB +++)
+2.  
+die in § 264 Absatz 3 Satz 1 Nummer 3 genannte Voraussetzung ist erfüllt;
+
+3.  
+die Befreiung der Personenhandelsgesellschaft ist im Anhang des Konzernabschlusses angegeben und
+
+4.  
+für die Personenhandelsgesellschaft sind der Konzernabschluss, der Konzernlagebericht und der Bestätigungsvermerk nach § 325 Absatz 1 bis 1b offengelegt worden; § 264 Absatz 3 Satz 2 und 3 ist entsprechend anzuwenden.
+
+(+++ § 264b: Zur Anwendung vgl. § 46 Satz 2 KAGB, § 135 Abs. 2 Satz 2 KAGB u. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 264c Besondere Bestimmungen für offene Handelsgesellschaften und Kommanditgesellschaften im Sinne des § 264a
 
@@ -2029,7 +2105,7 @@ Anstelle des Postens "Gezeichnetes Kapital" sind die Kapitalanteile der persönl
 
 ### § 264d Kapitalmarktorientierte Kapitalgesellschaft
 
-Eine Kapitalgesellschaft ist kapitalmarktorientiert, wenn sie einen organisierten Markt im Sinn des § 2 Abs. 5 des Wertpapierhandelsgesetzes durch von ihr ausgegebene Wertpapiere im Sinn des § 2 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes in Anspruch nimmt oder die Zulassung solcher Wertpapiere zum Handel an einem organisierten Markt beantragt hat.
+Eine Kapitalgesellschaft ist kapitalmarktorientiert, wenn sie einen organisierten Markt im Sinn des § 2 Abs. 5 des Wertpapierhandelsgesetzes durch von ihr ausgegebene Wertpapiere im Sinn des § 2 Absatz 1 des Wertpapierhandelsgesetzes in Anspruch nimmt oder die Zulassung solcher Wertpapiere zum Handel an einem organisierten Markt beantragt hat.
 
 ### § 265 Allgemeine Grundsätze für die Gliederung
 
@@ -2041,7 +2117,7 @@ Eine Kapitalgesellschaft ist kapitalmarktorientiert, wenn sie einen organisierte
 
 (4) Sind mehrere Geschäftszweige vorhanden und bedingt dies die Gliederung des Jahresabschlusses nach verschiedenen Gliederungsvorschriften, so ist der Jahresabschluß nach der für einen Geschäftszweig vorgeschriebenen Gliederung aufzustellen und nach der für die anderen Geschäftszweige vorgeschriebenen Gliederung zu ergänzen. Die Ergänzung ist im Anhang anzugeben und zu begründen.
 
-(5) Eine weitere Untergliederung der Posten ist zulässig; dabei ist jedoch die vorgeschriebene Gliederung zu beachten. Neue Posten dürfen hinzugefügt werden, wenn ihr Inhalt nicht von einem vorgeschriebenen Posten gedeckt wird.
+(5) Eine weitere Untergliederung der Posten ist zulässig; dabei ist jedoch die vorgeschriebene Gliederung zu beachten. Neue Posten und Zwischensummen dürfen hinzugefügt werden, wenn ihr Inhalt nicht von einem vorgeschriebenen Posten gedeckt wird.
 
 (6) Gliederung und Bezeichnung der mit arabischen Zahlen versehenen Posten der Bilanz und der Gewinn- und Verlustrechnung sind zu ändern, wenn dies wegen Besonderheiten der Kapitalgesellschaft zur Aufstellung eines klaren und übersichtlichen Jahresabschlusses erforderlich ist.
 
@@ -2055,6 +2131,8 @@ dadurch die Klarheit der Darstellung vergrößert wird; in diesem Falle müssen 
 
 (8) Ein Posten der Bilanz oder der Gewinn- und Verlustrechnung, der keinen Betrag ausweist, braucht nicht aufgeführt zu werden, es sei denn, daß im vorhergehenden Geschäftsjahr unter diesem Posten ein Betrag ausgewiesen wurde.
 
+(+++ § 265: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+
 Zweiter Titel Bilanz
 --------------------
 
@@ -2062,7 +2140,7 @@ Zweiter Titel Bilanz
 
 ### § 266 Gliederung der Bilanz
 
-(1) Die Bilanz ist in Kontoform aufzustellen. Dabei haben große und mittelgroße Kapitalgesellschaften (§ 267 Abs. 3, 2) auf der Aktivseite die in Absatz 2 und auf der Passivseite die in Absatz 3 bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge auszuweisen. Kleine Kapitalgesellschaften (§ 267 Abs. 1) brauchen nur eine verkürzte Bilanz aufzustellen, in die nur die in den Absätzen 2 und 3 mit Buchstaben und römischen Zahlen bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge aufgenommen werden. Kleinstkapitalgesellschaften (§ 267a) brauchen nur eine verkürzte Bilanz aufzustellen, in die nur die in den Absätzen 2 und 3 mit Buchstaben bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge aufgenommen werden.
+(1) Die Bilanz ist in Kontoform aufzustellen. Dabei haben mittelgroße und große Kapitalgesellschaften (§ 267 Absatz 2 und 3) auf der Aktivseite die in Absatz 2 und auf der Passivseite die in Absatz 3 bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge auszuweisen. Kleine Kapitalgesellschaften (§ 267 Abs. 1) brauchen nur eine verkürzte Bilanz aufzustellen, in die nur die in den Absätzen 2 und 3 mit Buchstaben und römischen Zahlen bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge aufgenommen werden. Kleinstkapitalgesellschaften (§ 267a) brauchen nur eine verkürzte Bilanz aufzustellen, in die nur die in den Absätzen 2 und 3 mit Buchstaben bezeichneten Posten gesondert und in der vorgeschriebenen Reihenfolge aufgenommen werden.
 
 (2) Aktivseite
 
@@ -2256,10 +2334,10 @@ Passive latente Steuern.
 (1) Kleine Kapitalgesellschaften sind solche, die mindestens zwei der drei nachstehenden Merkmale nicht überschreiten:
 
 1.  
-4 840 000 Euro Bilanzsumme nach Abzug eines auf der Aktivseite ausgewiesenen Fehlbetrags (§ 268 Abs. 3).
+6 000 000 Euro Bilanzsumme.
 
 2.  
-9 680 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag.
+12 000 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag.
 
 3.  
 Im Jahresdurchschnitt fünfzig Arbeitnehmer.
@@ -2267,28 +2345,32 @@ Im Jahresdurchschnitt fünfzig Arbeitnehmer.
 (2) Mittelgroße Kapitalgesellschaften sind solche, die mindestens zwei der drei in Absatz 1 bezeichneten Merkmale überschreiten und jeweils mindestens zwei der drei nachstehenden Merkmale nicht überschreiten:
 
 1.  
-19 250 000 Euro Bilanzsumme nach Abzug eines auf der Aktivseite ausgewiesenen Fehlbetrags (§ 268 Abs. 3).
+20 000 000 Euro Bilanzsumme.
 
 2.  
-38 500 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag.
+40 000 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag.
 
 3.  
 Im Jahresdurchschnitt zweihundertfünfzig Arbeitnehmer.
 
 (3) Große Kapitalgesellschaften sind solche, die mindestens zwei der drei in Absatz 2 bezeichneten Merkmale überschreiten. Eine Kapitalgesellschaft im Sinn des § 264d gilt stets als große.
 
-(4) Die Rechtsfolgen der Merkmale nach den Absätzen 1 bis 3 Satz 1 treten nur ein, wenn sie an den Abschlußstichtagen von zwei aufeinanderfolgenden Geschäftsjahren über- oder unterschritten werden. Im Falle der Umwandlung oder Neugründung treten die Rechtsfolgen schon ein, wenn die Voraussetzungen des Absatzes 1, 2 oder 3 am ersten Abschlußstichtag nach der Umwandlung oder Neugründung vorliegen.
+(4) Die Rechtsfolgen der Merkmale nach den Absätzen 1 bis 3 Satz 1 treten nur ein, wenn sie an den Abschlußstichtagen von zwei aufeinanderfolgenden Geschäftsjahren über- oder unterschritten werden. Im Falle der Umwandlung oder Neugründung treten die Rechtsfolgen schon ein, wenn die Voraussetzungen des Absatzes 1, 2 oder 3 am ersten Abschlußstichtag nach der Umwandlung oder Neugründung vorliegen. Satz 2 findet im Falle des Formwechsels keine Anwendung, sofern der formwechselnde Rechtsträger eine Kapitalgesellschaft oder eine Personenhandelsgesellschaft im Sinne des § 264a Absatz 1 ist.
+
+(4a) Die Bilanzsumme setzt sich aus den Posten zusammen, die in den Buchstaben A bis E des § 266 Absatz 2 aufgeführt sind. Ein auf der Aktivseite ausgewiesener Fehlbetrag (§ 268 Absatz 3) wird nicht in die Bilanzsumme einbezogen.
 
 (5) Als durchschnittliche Zahl der Arbeitnehmer gilt der vierte Teil der Summe aus den Zahlen der jeweils am 31. März, 30. Juni, 30. September und 31. Dezember beschäftigten Arbeitnehmer einschließlich der im Ausland beschäftigten Arbeitnehmer, jedoch ohne die zu ihrer Berufsausbildung Beschäftigten.
 
 (6) Informations- und Auskunftsrechte der Arbeitnehmervertretungen nach anderen Gesetzen bleiben unberührt.
+
+(+++ § 267: Zur Anwendung vgl. Art. 75 Abs. 2 HGBEG +++)
 
 ### § 267a Kleinstkapitalgesellschaften
 
 (1) Kleinstkapitalgesellschaften sind kleine Kapitalgesellschaften, die mindestens zwei der drei nachstehenden Merkmale nicht überschreiten:
 
 1.  
-350 000 Euro Bilanzsumme nach Abzug eines auf der Aktivseite ausgewiesenen Fehlbetrags (§ 268 Absatz 3);
+350 000 Euro Bilanzsumme;
 
 2.  
 700 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlussstichtag;
@@ -2296,27 +2378,52 @@ Im Jahresdurchschnitt zweihundertfünfzig Arbeitnehmer.
 3.  
 im Jahresdurchschnitt zehn Arbeitnehmer.
 
-Die Bilanzsumme setzt sich aus den Posten zusammen, die in den Buchstaben A bis E des § 266 Absatz 2 aufgeführt sind, wobei bei Ausübung des in § 274a Nummer 5 geregelten Wahlrechts der betreffende Buchstabe nicht berücksichtigt wird. § 267 Absatz 4 bis 6 gilt entsprechend.
+§ 267 Absatz 4 bis 6 gilt entsprechend.
 
 (2) Die in diesem Gesetz für kleine Kapitalgesellschaften (§ 267 Absatz 1) vorgesehenen besonderen Regelungen gelten für Kleinstkapitalgesellschaften entsprechend, soweit nichts anderes geregelt ist.
 
+(3) Keine Kleinstkapitalgesellschaften sind:
+
+1.  
+Investmentgesellschaften im Sinne des § 1 Absatz 11 des Kapitalanlagegesetzbuchs,
+
+2.  
+Unternehmensbeteiligungsgesellschaften im Sinne des § 1a Absatz 1 des Gesetzes über Unternehmensbeteiligungsgesellschaften oder
+
+3.  
+Unternehmen, deren einziger Zweck darin besteht, Beteiligungen an anderen Unternehmen zu erwerben sowie die Verwaltung und Verwertung dieser Beteiligungen wahrzunehmen, ohne dass sie unmittelbar oder mittelbar in die Verwaltung dieser Unternehmen eingreifen, wobei die Ausübung der ihnen als Aktionär oder Gesellschafter zustehenden Rechte außer Betracht bleibt.
+
+(+++ § 267a Abs. 1: Zur Anwendung vgl. Art. 75 Abs. 2 HGBEG +++)
+(+++ § 267a Abs. 3: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+
 ### § 268 Vorschriften zu einzelnen Posten der BilanzBilanzvermerke
 
-(1) Die Bilanz darf auch unter Berücksichtigung der vollständigen oder teilweisen Verwendung des Jahresergebnisses aufgestellt werden. Wird die Bilanz unter Berücksichtigung der teilweisen Verwendung des Jahresergebnisses aufgestellt, so tritt an die Stelle der Posten "Jahresüberschuß/Jahresfehlbetrag" und "Gewinnvortrag/Verlustvortrag" der Posten "Bilanzgewinn/Bilanzverlust"; ein vorhandener Gewinn- oder Verlustvortrag ist in den Posten "Bilanzgewinn/Bilanzverlust" einzubeziehen und in der Bilanz oder im Anhang gesondert anzugeben.
+(1) Die Bilanz darf auch unter Berücksichtigung der vollständigen oder teilweisen Verwendung des Jahresergebnisses aufgestellt werden. Wird die Bilanz unter Berücksichtigung der teilweisen Verwendung des Jahresergebnisses aufgestellt, so tritt an die Stelle der Posten "Jahresüberschuß/Jahresfehlbetrag" und "Gewinnvortrag/Verlustvortrag" der Posten "Bilanzgewinn/Bilanzverlust"; ein vorhandener Gewinn- oder Verlustvortrag ist in den Posten "Bilanzgewinn/Bilanzverlust" einzubeziehen und in der Bilanz gesondert anzugeben. Die Angabe kann auch im Anhang gemacht werden.
 
-(2) In der Bilanz oder im Anhang ist die Entwicklung der einzelnen Posten des Anlagevermögens darzustellen. Dabei sind, ausgehend von den gesamten Anschaffungs- und Herstellungskosten, die Zugänge, Abgänge, Umbuchungen und Zuschreibungen des Geschäftsjahrs sowie die Abschreibungen in ihrer gesamten Höhe gesondert aufzuführen. Die Abschreibungen des Geschäftsjahrs sind entweder in der Bilanz bei dem betreffenden Posten zu vermerken oder im Anhang in einer der Gliederung des Anlagevermögens entsprechenden Aufgliederung anzugeben.
+(2) (weggefallen)
 
 (3) Ist das Eigenkapital durch Verluste aufgebraucht und ergibt sich ein Überschuß der Passivposten über die Aktivposten, so ist dieser Betrag am Schluß der Bilanz auf der Aktivseite gesondert unter der Bezeichnung "Nicht durch Eigenkapital gedeckter Fehlbetrag" auszuweisen.
 
 (4) Der Betrag der Forderungen mit einer Restlaufzeit von mehr als einem Jahr ist bei jedem gesondert ausgewiesenen Posten zu vermerken. Werden unter dem Posten "sonstige Vermögensgegenstände" Beträge für Vermögensgegenstände ausgewiesen, die erst nach dem Abschlußstichtag rechtlich entstehen, so müssen Beträge, die einen größeren Umfang haben, im Anhang erläutert werden.
 
-(5) Der Betrag der Verbindlichkeiten mit einer Restlaufzeit bis zu einem Jahr ist bei jedem gesondert ausgewiesenen Posten zu vermerken. Erhaltene Anzahlungen auf Bestellungen sind, soweit Anzahlungen auf Vorräte nicht von dem Posten "Vorräte" offen abgesetzt werden, unter den Verbindlichkeiten gesondert auszuweisen. Sind unter dem Posten "Verbindlichkeiten" Beträge für Verbindlichkeiten ausgewiesen, die erst nach dem Abschlußstichtag rechtlich entstehen, so müssen Beträge, die einen größeren Umfang haben, im Anhang erläutert werden.
+(5) Der Betrag der Verbindlichkeiten mit einer Restlaufzeit bis zu einem Jahr und der Betrag der Verbindlichkeiten mit einer Restlaufzeit von mehr als einem Jahr sind bei jedem gesondert ausgewiesenen Posten zu vermerken. Erhaltene Anzahlungen auf Bestellungen sind, soweit Anzahlungen auf Vorräte nicht von dem Posten "Vorräte" offen abgesetzt werden, unter den Verbindlichkeiten gesondert auszuweisen. Sind unter dem Posten "Verbindlichkeiten" Beträge für Verbindlichkeiten ausgewiesen, die erst nach dem Abschlußstichtag rechtlich entstehen, so müssen Beträge, die einen größeren Umfang haben, im Anhang erläutert werden.
 
 (6) Ein nach § 250 Abs. 3 in den Rechnungsabgrenzungsposten auf der Aktivseite aufgenommener Unterschiedsbetrag ist in der Bilanz gesondert auszuweisen oder im Anhang anzugeben.
 
-(7) Die in § 251 bezeichneten Haftungsverhältnisse sind jeweils gesondert unter der Bilanz oder im Anhang unter Angabe der gewährten Pfandrechte und sonstigen Sicherheiten anzugeben; bestehen solche Verpflichtungen gegenüber verbundenen Unternehmen, so sind sie gesondert anzugeben.
+(7) Für die in § 251 bezeichneten Haftungsverhältnisse sind
+
+1.  
+die Angaben zu nicht auf der Passivseite auszuweisenden Verbindlichkeiten und Haftungsverhältnissen im Anhang zu machen,
+
+2.  
+dabei die Haftungsverhältnisse jeweils gesondert unter Angabe der gewährten Pfandrechte und sonstigen Sicherheiten anzugeben und
+
+3.  
+dabei Verpflichtungen betreffend die Altersversorgung und Verpflichtungen gegenüber verbundenen oder assoziierten Unternehmen jeweils gesondert zu vermerken.
 
 (8) Werden selbst geschaffene immaterielle Vermögensgegenstände des Anlagevermögens in der Bilanz ausgewiesen, so dürfen Gewinne nur ausgeschüttet werden, wenn die nach der Ausschüttung verbleibenden frei verfügbaren Rücklagen zuzüglich eines Gewinnvortrags und abzüglich eines Verlustvortrags mindestens den insgesamt angesetzten Beträgen abzüglich der hierfür gebildeten passiven latenten Steuern entsprechen. Werden aktive latente Steuern in der Bilanz ausgewiesen, ist Satz 1 auf den Betrag anzuwenden, um den die aktiven latenten Steuern die passiven latenten Steuern übersteigen. Bei Vermögensgegenständen im Sinn des § 246 Abs. 2 Satz 2 ist Satz 1 auf den Betrag abzüglich der hierfür gebildeten passiven latenten Steuern anzuwenden, der die Anschaffungskosten übersteigt.
+
+(+++ § 268: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 269 (weggefallen)
 
@@ -2328,13 +2435,15 @@ Die Bilanzsumme setzt sich aus den Posten zusammen, die in den Buchstaben A bis 
 
 ### § 271 Beteiligungen. Verbundene Unternehmen
 
-(1) Beteiligungen sind Anteile an anderen Unternehmen, die bestimmt sind, dem eigenen Geschäftsbetrieb durch Herstellung einer dauernden Verbindung zu jenen Unternehmen zu dienen. Dabei ist es unerheblich, ob die Anteile in Wertpapieren verbrieft sind oder nicht. Als Beteiligung gelten im Zweifel Anteile an einer Kapitalgesellschaft, die insgesamt den fünften Teil des Nennkapitals dieser Gesellschaft überschreiten. Auf die Berechnung ist § 16 Abs. 2 und 4 des Aktiengesetzes entsprechend anzuwenden. Die Mitgliedschaft in einer eingetragenen Genossenschaft gilt nicht als Beteiligung im Sinne dieses Buches.
+(1) Beteiligungen sind Anteile an anderen Unternehmen, die bestimmt sind, dem eigenen Geschäftsbetrieb durch Herstellung einer dauernden Verbindung zu jenen Unternehmen zu dienen. Dabei ist es unerheblich, ob die Anteile in Wertpapieren verbrieft sind oder nicht. Eine Beteiligung wird vermutet, wenn die Anteile an einem Unternehmen insgesamt den fünften Teil des Nennkapitals dieses Unternehmens oder, falls ein Nennkapital nicht vorhanden ist, den fünften Teil der Summe aller Kapitalanteile an diesem Unternehmen überschreiten. Auf die Berechnung ist § 16 Abs. 2 und 4 des Aktiengesetzes entsprechend anzuwenden. Die Mitgliedschaft in einer eingetragenen Genossenschaft gilt nicht als Beteiligung im Sinne dieses Buches.
 
-(2) Verbundene Unternehmen im Sinne dieses Buches sind solche Unternehmen, die als Mutter- oder Tochterunternehmen (§ 290) in den Konzernabschluß eines Mutterunternehmens nach den Vorschriften über die Vollkonsolidierung einzubeziehen sind, das als oberstes Mutterunternehmen den am weitestgehenden Konzernabschluß nach dem Zweiten Unterabschnitt aufzustellen hat, auch wenn die Aufstellung unterbleibt, oder das einen befreienden Konzernabschluß nach § 291 oder nach einer nach § 292 erlassenen Rechtsverordnung aufstellt oder aufstellen könnte; Tochterunternehmen, die nach § 296 nicht einbezogen werden, sind ebenfalls verbundene Unternehmen.
+(2) Verbundene Unternehmen im Sinne dieses Buches sind solche Unternehmen, die als Mutter- oder Tochterunternehmen (§ 290) in den Konzernabschluß eines Mutterunternehmens nach den Vorschriften über die Vollkonsolidierung einzubeziehen sind, das als oberstes Mutterunternehmen den am weitestgehenden Konzernabschluß nach dem Zweiten Unterabschnitt aufzustellen hat, auch wenn die Aufstellung unterbleibt, oder das einen befreienden Konzernabschluß nach den §§ 291 oder 292 aufstellt oder aufstellen könnte; Tochterunternehmen, die nach § 296 nicht einbezogen werden, sind ebenfalls verbundene Unternehmen.
+
+(+++ § 271: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 272 Eigenkapital
 
-(1) Gezeichnetes Kapital ist das Kapital, auf das die Haftung der Gesellschafter für die Verbindlichkeiten der Kapitalgesellschaft gegenüber den Gläubigern beschränkt ist. Es ist mit dem Nennbetrag anzusetzen. Die nicht eingeforderten ausstehenden Einlagen auf das gezeichnete Kapital sind von dem Posten „Gezeichnetes Kapital“ offen abzusetzen; der verbleibende Betrag ist als Posten „Eingefordertes Kapital“ in der Hauptspalte der Passivseite auszuweisen; der eingeforderte, aber noch nicht eingezahlte Betrag ist unter den Forderungen gesondert auszuweisen und entsprechend zu bezeichnen.
+(1) Gezeichnetes Kapital ist mit dem Nennbetrag anzusetzen. Die nicht eingeforderten ausstehenden Einlagen auf das gezeichnete Kapital sind von dem Posten „Gezeichnetes Kapital“ offen abzusetzen; der verbleibende Betrag ist als Posten „Eingefordertes Kapital“ in der Hauptspalte der Passivseite auszuweisen; der eingeforderte, aber noch nicht eingezahlte Betrag ist unter den Forderungen gesondert auszuweisen und entsprechend zu bezeichnen.
 
 (1a) Der Nennbetrag oder, falls ein solcher nicht vorhanden ist, der rechnerische Wert von erworbenen eigenen Anteilen ist in der Vorspalte offen von dem Posten „Gezeichnetes Kapital“ abzusetzen. Der Unterschiedsbetrag zwischen dem Nennbetrag oder dem rechnerischen Wert und den Anschaffungskosten der eigenen Anteile ist mit den frei verfügbaren Rücklagen zu verrechnen. Aufwendungen, die Anschaffungsnebenkosten sind, sind Aufwand des Geschäftsjahrs.
 
@@ -2358,6 +2467,10 @@ der Betrag von anderen Zuzahlungen, die Gesellschafter in das Eigenkapital leist
 
 (4) Für Anteile an einem herrschenden oder mit Mehrheit beteiligten Unternehmen ist eine Rücklage zu bilden. In die Rücklage ist ein Betrag einzustellen, der dem auf der Aktivseite der Bilanz für die Anteile an dem herrschenden oder mit Mehrheit beteiligten Unternehmen angesetzten Betrag entspricht. Die Rücklage, die bereits bei der Aufstellung der Bilanz zu bilden ist, darf aus vorhandenen frei verfügbaren Rücklagen gebildet werden. Die Rücklage ist aufzulösen, soweit die Anteile an dem herrschenden oder mit Mehrheit beteiligten Unternehmen veräußert, ausgegeben oder eingezogen werden oder auf der Aktivseite ein niedrigerer Betrag angesetzt wird.
 
+(5) Übersteigt der auf eine Beteiligung entfallende Teil des Jahresüberschusses in der Gewinn- und Verlustrechnung die Beträge, die als Dividende oder Gewinnanteil eingegangen sind oder auf deren Zahlung die Kapitalgesellschaft einen Anspruch hat, ist der Unterschiedsbetrag in eine Rücklage einzustellen, die nicht ausgeschüttet werden darf. Die Rücklage ist aufzulösen, soweit die Kapitalgesellschaft die Beträge vereinnahmt oder einen Anspruch auf ihre Zahlung erwirbt.
+
+(+++ § 272: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+
 ### § 273 (weggefallen)
 
 ### § 274 Latente Steuern
@@ -2371,19 +2484,18 @@ der Betrag von anderen Zuzahlungen, die Gesellschafter in das Eigenkapital leist
 Kleine Kapitalgesellschaften sind von der Anwendung der folgenden Vorschriften befreit:
 
 1.  
-§ 268 Abs. 2 über die Aufstellung eines Anlagengitters,
-
-2.  
 § 268 Abs. 4 Satz 2 über die Pflicht zur Erläuterung bestimmter Forderungen im Anhang,
 
-3.  
+2.  
 § 268 Abs. 5 Satz 3 über die Erläuterung bestimmter Verbindlichkeiten im Anhang,
 
-4.  
+3.  
 § 268 Abs. 6 über den Rechnungsabgrenzungsposten nach § 250 Abs. 3,
 
-5.  
+4.  
 § 274 über die Abgrenzung latenter Steuern.
+
+(+++ § 274a: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 Dritter Titel Gewinn- und Verlustrechnung
 -----------------------------------------
@@ -2454,25 +2566,16 @@ Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens
 Zinsen und ähnliche Aufwendungen,davon an verbundene Unternehmen
 
 14.  
-Ergebnis der gewöhnlichen Geschäftstätigkeit
-
-15.  
-außerordentliche Erträge
-
-16.  
-außerordentliche Aufwendungen
-
-17.  
-außerordentliches Ergebnis
-
-18.  
 Steuern vom Einkommen und vom Ertrag
 
-19.  
+15.  
+Ergebnis nach Steuern
+
+16.  
 sonstige Steuern
 
-20.  
-Jahresüberschuß/Jahresfehlbetrag.
+17.  
+Jahresüberschuss/Jahresfehlbetrag.
 
 (3) Bei Anwendung des Umsatzkostenverfahrens sind auszuweisen:
 
@@ -2513,25 +2616,16 @@ Abschreibungen auf Finanzanlagen und auf Wertpapiere des Umlaufvermögens
 Zinsen und ähnliche Aufwendungen,davon an verbundene Unternehmen
 
 13.  
-Ergebnis der gewöhnlichen Geschäftstätigkeit
-
-14.  
-außerordentliche Erträge
-
-15.  
-außerordentliche Aufwendungen
-
-16.  
-außerordentliches Ergebnis
-
-17.  
 Steuern vom Einkommen und vom Ertrag
 
-18.  
+14.  
+Ergebnis nach Steuern
+
+15.  
 sonstige Steuern
 
-19.  
-Jahresüberschuß/Jahresfehlbetrag.
+16.  
+Jahresüberschuss/Jahresfehlbetrag.
 
 (4) Veränderungen der Kapital- und Gewinnrücklagen dürfen in der Gewinn- und Verlustrechnung erst nach dem Posten "Jahresüberschuß/Jahresfehlbetrag" ausgewiesen werden.
 
@@ -2561,25 +2655,32 @@ Steuern,
 8.  
 Jahresüberschuss/Jahresfehlbetrag.
 
+(+++ § 275: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+
 ### § 276 Größenabhängige Erleichterungen
 
-Kleine und mittelgroße Kapitalgesellschaften (§ 267 Abs. 1, 2) dürfen die Posten § 275 Abs. 2 Nr. 1 bis 5 oder Abs. 3 Nr. 1 bis 3 und 6 zu einem Posten unter der Bezeichnung "Rohergebnis" zusammenfassen. Kleine Kapitalgesellschaften brauchen außerdem die in § 277 Abs. 4 Satz 2 und 3 verlangten Erläuterungen zu den Posten "außerordentliche Erträge" und "außerordentliche Aufwendungen" nicht zu machen. Die Erleichterungen nach Satz 1 oder 2 gelten nicht für Kleinstkapitalgesellschaften (§ 267a), die von der Regelung des § 275 Absatz 5 Gebrauch machen.
+Kleine und mittelgroße Kapitalgesellschaften (§ 267 Abs. 1, 2) dürfen die Posten § 275 Abs. 2 Nr. 1 bis 5 oder Abs. 3 Nr. 1 bis 3 und 6 zu einem Posten unter der Bezeichnung "Rohergebnis" zusammenfassen. Die Erleichterungen nach Satz 1 gelten nicht für Kleinstkapitalgesellschaften (§ 267a), die von der Regelung des § 275 Absatz 5 Gebrauch machen.
+
+(+++ § 276: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 277 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung
 
-(1) Als Umsatzerlöse sind die Erlöse aus dem Verkauf und der Vermietung oder Verpachtung von für die gewöhnliche Geschäftstätigkeit der Kapitalgesellschaft typischen Erzeugnissen und Waren sowie aus von für die gewöhnliche Geschäftstätigkeit der Kapitalgesellschaft typischen Dienstleistungen nach Abzug von Erlösschmälerungen und der Umsatzsteuer auszuweisen.
+(1) Als Umsatzerlöse sind die Erlöse aus dem Verkauf und der Vermietung oder Verpachtung von Produkten sowie aus der Erbringung von Dienstleistungen der Kapitalgesellschaft nach Abzug von Erlösschmälerungen und der Umsatzsteuer sowie sonstiger direkt mit dem Umsatz verbundener Steuern auszuweisen.
 
 (2) Als Bestandsveränderungen sind sowohl Änderungen der Menge als auch solche des Wertes zu berücksichtigen; Abschreibungen jedoch nur, soweit diese die in der Kapitalgesellschaft sonst üblichen Abschreibungen nicht überschreiten.
 
-(3) Außerplanmäßige Abschreibungen nach § 253 Abs. 3 Satz 3 und 4 sind jeweils gesondert auszuweisen oder im Anhang anzugeben. Erträge und Aufwendungen aus Verlustübernahme und auf Grund einer Gewinngemeinschaft, eines Gewinnabführungs- oder eines Teilgewinnabführungsvertrags erhaltene oder abgeführte Gewinne sind jeweils gesondert unter entsprechender Bezeichnung auszuweisen.
+(3) Außerplanmäßige Abschreibungen nach § 253 Absatz 3 Satz 5 und 6 sind jeweils gesondert auszuweisen oder im Anhang anzugeben. Erträge und Aufwendungen aus Verlustübernahme und auf Grund einer Gewinngemeinschaft, eines Gewinnabführungs- oder eines Teilgewinnabführungsvertrags erhaltene oder abgeführte Gewinne sind jeweils gesondert unter entsprechender Bezeichnung auszuweisen.
 
-(4) Unter den Posten "außerordentliche Erträge" und "außerordentliche Aufwendungen" sind Erträge und Aufwendungen auszuweisen, die außerhalb der gewöhnlichen Geschäftstätigkeit der Kapitalgesellschaft anfallen. Die Posten sind hinsichtlich ihres Betrags und ihrer Art im Anhang zu erläutern, soweit die ausgewiesenen Beträge für die Beurteilung der Ertragslage nicht von untergeordneter Bedeutung sind. Satz 2 gilt entsprechend für alle Aufwendungen und Erträge, die einem anderen Geschäftsjahr zuzurechnen sind.
+(4) (weggefallen)
 
 (5) Erträge aus der Abzinsung sind in der Gewinn- und Verlustrechnung gesondert unter dem Posten „Sonstige Zinsen und ähnliche Erträge“ und Aufwendungen gesondert unter dem Posten „Zinsen und ähnliche Aufwendungen“ auszuweisen. Erträge aus der Währungsumrechnung sind in der Gewinn- und Verlustrechnung gesondert unter dem Posten „Sonstige betriebliche Erträge“ und Aufwendungen aus der Währungsumrechnung gesondert unter dem Posten „Sonstige betriebliche Aufwendungen“ auszuweisen.
 
-### § 278 Steuern
+(+++ § 277 Abs. 1: Zur Anwendung vgl. Art. 75 Abs. 2 HGBEG +++)
+(+++ § 277 Abs. 3 u. 4: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
-Die Steuern vom Einkommen und vom Ertrag sind auf der Grundlage des Beschlusses über die Verwendung des Ergebnisses zu berechnen; liegt ein solcher Beschluß im Zeitpunkt der Feststellung des Jahresabschlusses nicht vor, so ist vom Vorschlag über die Verwendung des Ergebnisses auszugehen. Weicht der Beschluß über die Verwendung des Ergebnisses vom Vorschlag ab, so braucht der Jahresabschluß nicht geändert zu werden.
+### § 278 (weggefallen)
+
+(+++ § 278: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 Vierter Titel (weggefallen)
 ---------------------------
@@ -2595,7 +2696,7 @@ Fünfter Titel Anhang
 
 ### § 284 Erläuterung der Bilanz und der Gewinn- und Verlustrechnung
 
-(1) In den Anhang sind diejenigen Angaben aufzunehmen, die zu den einzelnen Posten der Bilanz oder der Gewinn- und Verlustrechnung vorgeschrieben oder die im Anhang zu machen sind, weil sie in Ausübung eines Wahlrechts nicht in die Bilanz oder in die Gewinn- und Verlustrechnung aufgenommen wurden.
+(1) In den Anhang sind diejenigen Angaben aufzunehmen, die zu den einzelnen Posten der Bilanz oder der Gewinn- und Verlustrechnung vorgeschrieben sind; sie sind in der Reihenfolge der einzelnen Posten der Bilanz und der Gewinn- und Verlustrechnung darzustellen. Im Anhang sind auch die Angaben zu machen, die in Ausübung eines Wahlrechts nicht in die Bilanz oder in die Gewinn- und Verlustrechnung aufgenommen wurden.
 
 (2) Im Anhang müssen
 
@@ -2603,16 +2704,28 @@ Fünfter Titel Anhang
 die auf die Posten der Bilanz und der Gewinn- und Verlustrechnung angewandten Bilanzierungs- und Bewertungsmethoden angegeben werden;
 
 2.  
-die Grundlagen für die Umrechnung in Euro angegeben werden, soweit der Jahresabschluß Posten enthält, denen Beträge zugrunde liegen, die auf fremde Währung lauten oder ursprünglich auf fremde Währung lauteten;
-
-3.  
 Abweichungen von Bilanzierungs- und Bewertungsmethoden angegeben und begründet werden; deren Einfluß auf die Vermögens-, Finanz- und Ertragslage ist gesondert darzustellen;
 
-4.  
+3.  
 bei Anwendung einer Bewertungsmethode nach § 240 Abs. 4, § 256 Satz 1 die Unterschiedsbeträge pauschal für die jeweilige Gruppe ausgewiesen werden, wenn die Bewertung im Vergleich zu einer Bewertung auf der Grundlage des letzten vor dem Abschlußstichtag bekannten Börsenkurses oder Marktpreises einen erheblichen Unterschied aufweist;
 
-5.  
+4.  
 Angaben über die Einbeziehung von Zinsen für Fremdkapital in die Herstellungskosten gemacht werden.
+
+(3) Im Anhang ist die Entwicklung der einzelnen Posten des Anlagevermögens in einer gesonderten Aufgliederung darzustellen. Dabei sind, ausgehend von den gesamten Anschaffungs- und Herstellungskosten, die Zugänge, Abgänge, Umbuchungen und Zuschreibungen des Geschäftsjahrs sowie die Abschreibungen gesondert aufzuführen. Zu den Abschreibungen sind gesondert folgende Angaben zu machen:
+
+1.  
+die Abschreibungen in ihrer gesamten Höhe zu Beginn und Ende des Geschäftsjahrs,
+
+2.  
+die im Laufe des Geschäftsjahrs vorgenommenen Abschreibungen und
+
+3.  
+Änderungen in den Abschreibungen in ihrer gesamten Höhe im Zusammenhang mit Zu- und Abgängen sowie Umbuchungen im Laufe des Geschäftsjahrs.
+
+Sind in die Herstellungskosten Zinsen für Fremdkapital einbezogen worden, ist für jeden Posten des Anlagevermögens anzugeben, welcher Betrag an Zinsen im Geschäftsjahr aktiviert worden ist.
+
+(+++ § 284: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 285 Sonstige Pflichtangaben
 
@@ -2631,19 +2744,19 @@ der Gesamtbetrag der Verbindlichkeiten, die durch Pfandrechte oder ähnliche Rec
 die Aufgliederung der in Nummer 1 verlangten Angaben für jeden Posten der Verbindlichkeiten nach dem vorgeschriebenen Gliederungsschema;
 
 3.  
-Art und Zweck sowie Risiken und Vorteile von nicht in der Bilanz enthaltenen Geschäften, soweit dies für die Beurteilung der Finanzlage notwendig ist;
+Art und Zweck sowie Risiken, Vorteile und finanzielle Auswirkungen von nicht in der Bilanz enthaltenen Geschäften, soweit die Risiken und Vorteile wesentlich sind und die Offenlegung für die Beurteilung der Finanzlage des Unternehmens erforderlich ist;
 
 3a.  
-der Gesamtbetrag der sonstigen finanziellen Verpflichtungen, die nicht in der Bilanz enthalten und nicht nach § 251 oder Nummer 3 anzugeben sind, sofern diese Angabe für die Beurteilung der Finanzlage von Bedeutung ist; davon sind Verpflichtungen gegenüber verbundenen Unternehmen gesondert anzugeben;
+der Gesamtbetrag der sonstigen finanziellen Verpflichtungen, die nicht in der Bilanz enthalten sind und die nicht nach § 268 Absatz 7 oder Nummer 3 anzugeben sind, sofern diese Angabe für die Beurteilung der Finanzlage von Bedeutung ist; davon sind Verpflichtungen betreffend die Altersversorgung und Verpflichtungen gegenüber verbundenen oder assoziierten Unternehmen jeweils gesondert anzugeben;
 
 4.  
-die Aufgliederung der Umsatzerlöse nach Tätigkeitsbereichen sowie nach geographisch bestimmten Märkten, soweit sich, unter Berücksichtigung der Organisation des Verkaufs von für die gewöhnliche Geschäftstätigkeit der Kapitalgesellschaft typischen Erzeugnissen und der für die gewöhnliche Geschäftstätigkeit der Kapitalgesellschaft typischen Dienstleistungen, die Tätigkeitsbereiche und geographisch bestimmten Märkte untereinander erheblich unterscheiden;
+die Aufgliederung der Umsatzerlöse nach Tätigkeitsbereichen sowie nach geografisch bestimmten Märkten, soweit sich unter Berücksichtigung der Organisation des Verkaufs, der Vermietung oder Verpachtung von Produkten und der Erbringung von Dienstleistungen der Kapitalgesellschaft die Tätigkeitsbereiche und geografisch bestimmten Märkte untereinander erheblich unterscheiden;
 
 5.  
 (weggefallen)
 
 6.  
-in welchem Umfang die Steuern vom Einkommen und vom Ertrag das Ergebnis der gewöhnlichen Geschäftstätigkeit und das außerordentliche Ergebnis belasten;
+(weggefallen)
 
 7.  
 die durchschnittliche Zahl der während des Geschäftsjahrs beschäftigten Arbeitnehmer getrennt nach Gruppen;
@@ -2681,28 +2794,37 @@ b)
 die Gesamtbezüge (Abfindungen, Ruhegehälter, Hinterbliebenenbezüge und Leistungen verwandter Art) der früheren Mitglieder der bezeichneten Organe und ihrer Hinterbliebenen. Buchstabe a Satz 2 und 3 ist entsprechend anzuwenden. Ferner ist der Betrag der für diese Personengruppe gebildeten Rückstellungen für laufende Pensionen und Anwartschaften auf Pensionen und der Betrag der für diese Verpflichtungen nicht gebildeten Rückstellungen anzugeben;
 
 c)  
-die gewährten Vorschüsse und Kredite unter Angabe der Zinssätze, der wesentlichen Bedingungen und der gegebenenfalls im Geschäftsjahr zurückgezahlten Beträge sowie die zugunsten dieser Personen eingegangenen Haftungsverhältnisse;
+die gewährten Vorschüsse und Kredite unter Angabe der Zinssätze, der wesentlichen Bedingungen und der gegebenenfalls im Geschäftsjahr zurückgezahlten oder erlassenen Beträge sowie die zugunsten dieser Personen eingegangenen Haftungsverhältnisse;
 
 10.  
 alle Mitglieder des Geschäftsführungsorgans und eines Aufsichtsrats, auch wenn sie im Geschäftsjahr oder später ausgeschieden sind, mit dem Familiennamen und mindestens einem ausgeschriebenen Vornamen, einschließlich des ausgeübten Berufs und bei börsennotierten Gesellschaften auch der Mitgliedschaft in Aufsichtsräten und anderen Kontrollgremien im Sinne des § 125 Abs. 1 Satz 5 des Aktiengesetzes. Der Vorsitzende eines Aufsichtsrats, seine Stellvertreter und ein etwaiger Vorsitzender des Geschäftsführungsorgans sind als solche zu bezeichnen;
 
 11.  
-Name und Sitz anderer Unternehmen, von denen die Kapitalgesellschaft oder eine für Rechnung der Kapitalgesellschaft handelnde Person mindestens den fünften Teil der Anteile besitzt; außerdem sind die Höhe des Anteils am Kapital, das Eigenkapital und das Ergebnis des letzten Geschäftsjahrs dieser Unternehmen anzugeben, für das ein Jahresabschluß vorliegt; auf die Berechnung der Anteile ist § 16 Abs. 2 und 4 des Aktiengesetzes entsprechend anzuwenden; ferner sind von börsennotierten Kapitalgesellschaften zusätzlich alle Beteiligungen an großen Kapitalgesellschaften anzugeben, die fünf vom Hundert der Stimmrechte überschreiten;
+Name und Sitz anderer Unternehmen, die Höhe des Anteils am Kapital, das Eigenkapital und das Ergebnis des letzten Geschäftsjahrs dieser Unternehmen, für das ein Jahresabschluss vorliegt, soweit es sich um Beteiligungen im Sinne des § 271 Absatz 1 handelt oder ein solcher Anteil von einer Person für Rechnung der Kapitalgesellschaft gehalten wird;
 
 11a.  
 Name, Sitz und Rechtsform der Unternehmen, deren unbeschränkt haftender Gesellschafter die Kapitalgesellschaft ist;
+
+11b.  
+von börsennotierten Kapitalgesellschaften sind alle Beteiligungen an großen Kapitalgesellschaften anzugeben, die 5 Prozent der Stimmrechte überschreiten;
 
 12.  
 Rückstellungen, die in der Bilanz unter dem Posten "sonstige Rückstellungen" nicht gesondert ausgewiesen werden, sind zu erläutern, wenn sie einen nicht unerheblichen Umfang haben;
 
 13.  
-die Gründe, welche die Annahme einer betrieblichen Nutzungsdauer eines entgeltlich erworbenen Geschäfts- oder Firmenwertes von mehr als fünf Jahren rechtfertigen;
+jeweils eine Erläuterung des Zeitraums, über den ein entgeltlich erworbener Geschäfts- oder Firmenwert abgeschrieben wird;
 
 14.  
-Name und Sitz des Mutterunternehmens der Kapitalgesellschaft, das den Konzernabschluß für den größten Kreis von Unternehmen aufstellt, und ihres Mutterunternehmens, das den Konzernabschluß für den kleinsten Kreis von Unternehmen aufstellt, sowie im Falle der Offenlegung der von diesen Mutterunternehmen aufgestellten Konzernabschlüsse der Ort, wo diese erhältlich sind;
+Name und Sitz des Mutterunternehmens der Kapitalgesellschaft, das den Konzernabschluss für den größten Kreis von Unternehmen aufstellt, sowie der Ort, wo der von diesem Mutterunternehmen aufgestellte Konzernabschluss erhältlich ist;
+
+14a.  
+Name und Sitz des Mutterunternehmens der Kapitalgesellschaft, das den Konzernabschluss für den kleinsten Kreis von Unternehmen aufstellt, sowie der Ort, wo der von diesem Mutterunternehmen aufgestellte Konzernabschluss erhältlich ist;
 
 15.  
 soweit es sich um den Anhang des Jahresabschlusses einer Personenhandelsgesellschaft im Sinne des § 264a Abs. 1 handelt, Name und Sitz der Gesellschaften, die persönlich haftende Gesellschafter sind, sowie deren gezeichnetes Kapital;
+
+15a.  
+das Bestehen von Genussscheinen, Genussrechten, Wandelschuldverschreibungen, Optionsscheinen, Optionen, Besserungsscheinen oder vergleichbaren Wertpapieren oder Rechten, unter Angabe der Anzahl und der Rechte, die sie verbriefen;
 
 16.  
 dass die nach § 161 des Aktiengesetzes vorgeschriebene Erklärung abgegeben und wo sie öffentlich zugänglich gemacht worden ist;
@@ -2725,7 +2847,7 @@ sonstige Leistungen,
 soweit die Angaben nicht in einem das Unternehmen einbeziehenden Konzernabschluss enthalten sind;
 
 18.  
-für zu den Finanzanlagen (§ 266 Abs. 2 A. III.) gehörende Finanzinstrumente, die über ihrem beizulegenden Zeitwert ausgewiesen werden, da eine außerplanmäßige Abschreibung nach § 253 Abs. 3 Satz 4 unterblieben ist,
+für zu den Finanzanlagen (§ 266 Abs. 2 A. III.) gehörende Finanzinstrumente, die über ihrem beizulegenden Zeitwert ausgewiesen werden, da eine außerplanmäßige Abschreibung nach § 253 Absatz 3 Satz 6 unterblieben ist,
 
 a)  
 der Buchwert und der beizulegende Zeitwert der einzelnen Vermögensgegenstände oder angemessener Gruppierungen sowie
@@ -2784,24 +2906,41 @@ zu den Rückstellungen für Pensionen und ähnliche Verpflichtungen das angewand
 im Fall der Verrechnung von Vermögensgegenständen und Schulden nach § 246 Abs. 2 Satz 2 die Anschaffungskosten und der beizulegende Zeitwert der verrechneten Vermögensgegenstände, der Erfüllungsbetrag der verrechneten Schulden sowie die verrechneten Aufwendungen und Erträge; Nummer 20 Buchstabe a ist entsprechend anzuwenden;
 
 26.  
-zu Anteilen an Sondervermögen im Sinn des § 1 Absatz 10 des Kapitalanlagegesetzbuchs oder Anlageaktien an Investmentaktiengesellschaften mit veränderlichem Kapital im Sinn der §§ 108 bis 123 des Kapitalanlagegesetzbuchs oder vergleichbaren EU-Investmentvermögen oder vergleichbaren ausländischen Investmentvermögen von mehr als dem zehnten Teil, aufgegliedert nach Anlagezielen, deren Wert im Sinn der §§ 168, 278 des Kapitalanlagegesetzbuchs oder des § 36 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung oder vergleichbarer ausländischer Vorschriften über die Ermittlung des Marktwertes, die Differenz zum Buchwert und die für das Geschäftsjahr erfolgte Ausschüttung sowie Beschränkungen in der Möglichkeit der täglichen Rückgabe; darüber hinaus die Gründe dafür, dass eine Abschreibung gemäß § 253 Abs. 3 Satz 4 unterblieben ist, einschließlich der Anhaltspunkte, die darauf hindeuten, dass die Wertminderung voraussichtlich nicht von Dauer ist; Nummer 18 ist insoweit nicht anzuwenden;
+zu Anteilen an Sondervermögen im Sinn des § 1 Absatz 10 des Kapitalanlagegesetzbuchs oder Anlageaktien an Investmentaktiengesellschaften mit veränderlichem Kapital im Sinn der §§ 108 bis 123 des Kapitalanlagegesetzbuchs oder vergleichbaren EU-Investmentvermögen oder vergleichbaren ausländischen Investmentvermögen von mehr als dem zehnten Teil, aufgegliedert nach Anlagezielen, deren Wert im Sinn der §§ 168, 278 des Kapitalanlagegesetzbuchs oder des § 36 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung oder vergleichbarer ausländischer Vorschriften über die Ermittlung des Marktwertes, die Differenz zum Buchwert und die für das Geschäftsjahr erfolgte Ausschüttung sowie Beschränkungen in der Möglichkeit der täglichen Rückgabe; darüber hinaus die Gründe dafür, dass eine Abschreibung gemäß § 253 Absatz 3 Satz 6 unterblieben ist, einschließlich der Anhaltspunkte, die darauf hindeuten, dass die Wertminderung voraussichtlich nicht von Dauer ist; Nummer 18 ist insoweit nicht anzuwenden;
 
 27.  
-für nach § 251 unter der Bilanz oder nach § 268 Abs. 7 Halbsatz 1 im Anhang ausgewiesene Verbindlichkeiten und Haftungsverhältnisse die Gründe der Einschätzung des Risikos der Inanspruchnahme;
+für nach § 268 Abs. 7 im Anhang ausgewiesene Verbindlichkeiten und Haftungsverhältnisse die Gründe der Einschätzung des Risikos der Inanspruchnahme;
 
 28.  
 der Gesamtbetrag der Beträge im Sinn des § 268 Abs. 8, aufgegliedert in Beträge aus der Aktivierung selbst geschaffener immaterieller Vermögensgegenstände des Anlagevermögens, Beträge aus der Aktivierung latenter Steuern und aus der Aktivierung von Vermögensgegenständen zum beizulegenden Zeitwert;
 
 29.  
-auf welchen Differenzen oder steuerlichen Verlustvorträgen die latenten Steuern beruhen und mit welchen Steuersätzen die Bewertung erfolgt ist.
+auf welchen Differenzen oder steuerlichen Verlustvorträgen die latenten Steuern beruhen und mit welchen Steuersätzen die Bewertung erfolgt ist;
+
+30.  
+wenn latente Steuerschulden in der Bilanz angesetzt werden, die latenten Steuersalden am Ende des Geschäftsjahrs und die im Laufe des Geschäftsjahrs erfolgten Änderungen dieser Salden;
+
+31.  
+jeweils der Betrag und die Art der einzelnen Erträge und Aufwendungen von außergewöhnlicher Größenordnung oder außergewöhnlicher Bedeutung, soweit die Beträge nicht von untergeordneter Bedeutung sind;
+
+32.  
+eine Erläuterung der einzelnen Erträge und Aufwendungen hinsichtlich ihres Betrags und ihrer Art, die einem anderen Geschäftsjahr zuzurechnen sind, soweit die Beträge nicht von untergeordneter Bedeutung sind;
+
+33.  
+Vorgänge von besonderer Bedeutung, die nach dem Schluss des Geschäftsjahrs eingetreten und weder in der Gewinn- und Verlustrechnung noch in der Bilanz berücksichtigt sind, unter Angabe ihrer Art und ihrer finanziellen Auswirkungen;
+
+34.  
+der Vorschlag für die Verwendung des Ergebnisses oder der Beschluss über seine Verwendung.
+
+(+++ § 285: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 286 Unterlassen von Angaben
 
 (1) Die Berichterstattung hat insoweit zu unterbleiben, als es für das Wohl der Bundesrepublik Deutschland oder eines ihrer Länder erforderlich ist.
 
-(2) Die Aufgliederung der Umsatzerlöse nach § 285 Nr. 4 kann unterbleiben, soweit die Aufgliederung nach vernünftiger kaufmännischer Beurteilung geeignet ist, der Kapitalgesellschaft oder einem Unternehmen, von dem die Kapitalgesellschaft mindestens den fünften Teil der Anteile besitzt, einen erheblichen Nachteil zuzufügen.
+(2) Die Aufgliederung der Umsatzerlöse nach § 285 Nr. 4 kann unterbleiben, soweit die Aufgliederung nach vernünftiger kaufmännischer Beurteilung geeignet ist, der Kapitalgesellschaft einen erheblichen Nachteil zuzufügen; die Anwendung der Ausnahmeregelung ist im Anhang anzugeben.
 
-(3) Die Angaben nach § 285 Nr. 11 und 11a können unterbleiben, soweit sie
+(3) Die Angaben nach § 285 Nr. 11 und 11b können unterbleiben, soweit sie
 
 1.  
 für die Darstellung der Vermögens-, Finanz- und Ertragslage der Kapitalgesellschaft nach § 264 Abs. 2 von untergeordneter Bedeutung sind oder
@@ -2809,35 +2948,45 @@ für die Darstellung der Vermögens-, Finanz- und Ertragslage der Kapitalgesells
 2.  
 nach vernünftiger kaufmännischer Beurteilung geeignet sind, der Kapitalgesellschaft oder dem anderen Unternehmen einen erheblichen Nachteil zuzufügen.
 
-Die Angabe des Eigenkapitals und des Jahresergebnisses kann unterbleiben, wenn das Unternehmen, über das zu berichten ist, seinen Jahresabschluß nicht offenzulegen hat und die berichtende Kapitalgesellschaft weniger als die Hälfte der Anteile besitzt. Satz 1 Nr. 2 ist nicht anzuwenden, wenn die Kapitalgesellschaft oder eines ihrer Tochterunternehmen (§ 290 Abs. 1 und 2) am Abschlussstichtag kapitalmarktorientiert im Sinn des § 264d ist. Im Übrigen ist die Anwendung der Ausnahmeregelung nach Satz 1 Nr. 2 im Anhang anzugeben.
+Die Angabe des Eigenkapitals und des Jahresergebnisses kann unterbleiben, wenn das Unternehmen, über das zu berichten ist, seinen Jahresabschluß nicht offenzulegen hat und die berichtende Kapitalgesellschaft keinen beherrschenden Einfluss auf das betreffende Unternehmen ausüben kann. Satz 1 Nr. 2 ist nicht anzuwenden, wenn die Kapitalgesellschaft oder eines ihrer Tochterunternehmen (§ 290 Abs. 1 und 2) am Abschlussstichtag kapitalmarktorientiert im Sinn des § 264d ist. Im Übrigen ist die Anwendung der Ausnahmeregelung nach Satz 1 Nr. 2 im Anhang anzugeben.
 
 (4) Bei Gesellschaften, die keine börsennotierten Aktiengesellschaften sind, können die in § 285 Nr. 9 Buchstabe a und b verlangten Angaben über die Gesamtbezüge der dort bezeichneten Personen unterbleiben, wenn sich anhand dieser Angaben die Bezüge eines Mitglieds dieser Organe feststellen lassen.
 
 (5) Die in § 285 Nr. 9 Buchstabe a Satz 5 bis 8 verlangten Angaben unterbleiben, wenn die Hauptversammlung dies beschlossen hat. Ein Beschluss, der höchstens für fünf Jahre gefasst werden kann, bedarf einer Mehrheit, die mindestens drei Viertel des bei der Beschlussfassung vertretenen Grundkapitals umfasst. § 136 Abs. 1 des Aktiengesetzes gilt für einen Aktionär, dessen Bezüge als Vorstandsmitglied von der Beschlussfassung betroffen sind, entsprechend.
 
+(+++ § 286: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+
 ### § 287 (weggefallen)
 
 ### § 288 Größenabhängige Erleichterungen
 
-(1) Kleine Kapitalgesellschaften (§ 267 Abs. 1) brauchen die Angaben nach § 284 Abs. 2 Nr. 4, § 285 Nr. 2 bis 8 Buchstabe a, Nr. 9 Buchstabe a und b sowie Nr. 12, 17, 19, 21, 22 und 29 nicht zu machen.
+(1) Kleine Kapitalgesellschaften (§ 267 Absatz 1) brauchen nicht
 
-(2) Mittelgroße Kapitalgesellschaften (§ 267 Abs. 2) brauchen bei der Angabe nach § 285 Nr. 3 die Risiken und Vorteile nicht darzustellen. Sie brauchen die Angaben nach § 285 Nr. 4 und 29 nicht zu machen. Soweit sie die Angaben nach § 285 Nr. 17 nicht machen, sind sie verpflichtet, diese der Wirtschaftsprüferkammer auf deren schriftliche Anforderung zu übermitteln. Sie brauchen die Angaben nach § 285 Nr. 21 nur zu machen, soweit sie Aktiengesellschaft sind; die Angabe kann auf Geschäfte beschränkt werden, die direkt oder indirekt mit dem Hauptgesellschafter oder Mitgliedern des Geschäftsführungs-, Aufsichts- oder Verwaltungsorgans abgeschlossen wurden.
+1.  
+die Angaben nach § 264c Absatz 2 Satz 9, § 265 Absatz 4 Satz 2, § 284 Absatz 2 Nummer 3, Absatz 3, § 285 Nummer 2, 3, 4, 8, 9 Buchstabe a und b, Nummer 10 bis 12, 14, 15, 15a, 17 bis 19, 21, 22, 24, 26 bis 30, 32 bis 34 zu machen;
+
+2.  
+eine Trennung nach Gruppen bei der Angabe nach § 285 Nummer 7 vorzunehmen;
+
+3.  
+bei der Angabe nach § 285 Nummer 14a den Ort anzugeben, wo der vom Mutterunternehmen aufgestellte Konzernabschluss erhältlich ist.
+
+(2) Mittelgroße Kapitalgesellschaften (§ 267 Absatz 2) brauchen die Angabe nach § 285 Nummer 4, 29 und 32 nicht zu machen. Wenn sie die Angabe nach § 285 Nummer 17 nicht machen, sind sie verpflichtet, diese der Wirtschaftsprüferkammer auf deren schriftliche Anforderung zu übermitteln. Sie brauchen die Angaben nach § 285 Nummer 21 nur zu machen, sofern die Geschäfte direkt oder indirekt mit einem Gesellschafter, Unternehmen, an denen die Gesellschaft selbst eine Beteiligung hält, oder Mitgliedern des Geschäftsführungs-, Aufsichts- oder Verwaltungsorgans abgeschlossen wurden.
+
+(+++ § 288: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 Sechster Titel Lagebericht
 --------------------------
 
 ### 
 
-### § 289
+### § 289 Inhalt des Lageberichts
 
 (1) Im Lagebericht sind der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage der Kapitalgesellschaft so darzustellen, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird. Er hat eine ausgewogene und umfassende, dem Umfang und der Komplexität der Geschäftstätigkeit entsprechende Analyse des Geschäftsverlaufs und der Lage der Gesellschaft zu enthalten. In die Analyse sind die für die Geschäftstätigkeit bedeutsamsten finanziellen Leistungsindikatoren einzubeziehen und unter Bezugnahme auf die im Jahresabschluss ausgewiesenen Beträge und Angaben zu erläutern. Ferner ist im Lagebericht die voraussichtliche Entwicklung mit ihren wesentlichen Chancen und Risiken zu beurteilen und zu erläutern; zugrunde liegende Annahmen sind anzugeben. Die gesetzlichen Vertreter einer Kapitalgesellschaft im Sinne des § 264 Abs. 2 Satz 3 haben zu versichern, dass nach bestem Wissen im Lagebericht der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage der Kapitalgesellschaft so dargestellt sind, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird, und dass die wesentlichen Chancen und Risiken im Sinne des Satzes 4 beschrieben sind.
 
-(2) Der Lagebericht soll auch eingehen auf:
+(2) Im Lagebericht ist auch einzugehen auf:
 
 1.  
-Vorgänge von besonderer Bedeutung, die nach dem Schluß des Geschäftsjahrs eingetreten sind;
-
-2.  
 a)  
 die Risikomanagementziele und -methoden der Gesellschaft einschließlich ihrer Methoden zur Absicherung aller wichtigen Arten von Transaktionen, die im Rahmen der Bilanzierung von Sicherungsgeschäften erfasst werden, sowie
 
@@ -2846,14 +2995,16 @@ die Preisänderungs-, Ausfall- und Liquiditätsrisiken sowie die Risiken aus Zah
 
 jeweils in Bezug auf die Verwendung von Finanzinstrumenten durch die Gesellschaft und sofern dies für die Beurteilung der Lage oder der voraussichtlichen Entwicklung von Belang ist;
 
-3.  
+2.  
 den Bereich Forschung und Entwicklung;
 
-4.  
+3.  
 bestehende Zweigniederlassungen der Gesellschaft;
 
-5.  
+4.  
 die Grundzüge des Vergütungssystems der Gesellschaft für die in § 285 Nr. 9 genannten Gesamtbezüge, soweit es sich um eine börsennotierte Aktiengesellschaft handelt. Werden dabei auch Angaben entsprechend § 285 Nr. 9 Buchstabe a Satz 5 bis 8 gemacht, können diese im Anhang unterbleiben.
+
+Sind im Anhang Angaben nach § 160 Absatz 1 Nummer 2 des Aktiengesetzes zu machen, ist im Lagebericht darauf zu verweisen.
 
 (3) Bei einer großen Kapitalgesellschaft (§ 267 Abs. 3) gilt Absatz 1 Satz 3 entsprechend für nichtfinanzielle Leistungsindikatoren, wie Informationen über Umwelt- und Arbeitnehmerbelange, soweit sie für das Verständnis des Geschäftsverlaufs oder der Lage von Bedeutung sind.
 
@@ -2890,6 +3041,8 @@ Sind Angaben nach Satz 1 im Anhang zu machen, ist im Lagebericht darauf zu verwe
 
 (5) Kapitalgesellschaften im Sinn des § 264d haben im Lagebericht die wesentlichen Merkmale des internen Kontroll- und des Risikomanagementsystems im Hinblick auf den Rechnungslegungsprozess zu beschreiben.
 
+(+++ § 289: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+
 ### § 289a Erklärung zur Unternehmensführung
 
 (1) Börsennotierte Aktiengesellschaften sowie Aktiengesellschaften, die ausschließlich andere Wertpapiere als Aktien zum Handel an einem organisierten Markt im Sinn des § 2 Abs. 5 des Wertpapierhandelsgesetzes ausgegeben haben und deren ausgegebene Aktien auf eigene Veranlassung über ein multilaterales Handelssystem im Sinn des § 2 Abs. 3 Satz 1 Nr. 8 des Wertpapierhandelsgesetzes gehandelt werden, haben eine Erklärung zur Unternehmensführung in ihren Lagebericht aufzunehmen, die dort einen gesonderten Abschnitt bildet. Sie kann auch auf der Internetseite der Gesellschaft öffentlich zugänglich gemacht werden. In diesem Fall ist in den Lagebericht eine Bezugnahme aufzunehmen, welche die Angabe der Internetseite enthält.
@@ -2903,7 +3056,23 @@ die Erklärung gemäß § 161 des Aktiengesetzes;
 relevante Angaben zu Unternehmensführungspraktiken, die über die gesetzlichen Anforderungen hinaus angewandt werden, nebst Hinweis, wo sie öffentlich zugänglich sind;
 
 3.  
-eine Beschreibung der Arbeitsweise von Vorstand und Aufsichtsrat sowie der Zusammensetzung und Arbeitsweise von deren Ausschüssen; sind die Informationen auf der Internetseite der Gesellschaft öffentlich zugänglich, kann darauf verwiesen werden.
+eine Beschreibung der Arbeitsweise von Vorstand und Aufsichtsrat sowie der Zusammensetzung und Arbeitsweise von deren Ausschüssen; sind die Informationen auf der Internetseite der Gesellschaft öffentlich zugänglich, kann darauf verwiesen werden;
+
+4.  
+bei börsennotierten Aktiengesellschaften die Festlegungen nach § 76 Absatz 4 und § 111 Absatz 5 des Aktiengesetzes und die Angabe, ob die festgelegten Zielgrößen während des Bezugszeitraums erreicht worden sind, und wenn nicht, Angaben zu den Gründen;
+
+5.  
+die Angabe, ob die Gesellschaft bei der Besetzung des Aufsichtsrats mit Frauen und Männern jeweils Mindestanteile im Bezugszeitraum eingehalten hat, und wenn nicht, Angaben zu den Gründen, sofern es sich um folgende Gesellschaften handelt:
+
+a)  
+börsennotierte Aktiengesellschaften, die auf Grund von § 96 Absatz 2 und 3 des Aktiengesetzes Mindestanteile einzuhalten haben oder
+
+b)  
+börsennotierte Europäische Gesellschaften (SE), die auf Grund von § 17 Absatz 2 oder § 24 Absatz 3 des SE-Ausführungsgesetzes Mindestanteile einzuhalten haben.
+
+(3) Auf börsennotierte Kommanditgesellschaften auf Aktien sind die Absätze 1 und 2 entsprechend anzuwenden.
+
+(4) Andere Unternehmen, deren Vertretungsorgan und Aufsichtsrat nach § 36 oder § 52 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung oder nach § 76 Absatz 4 des Aktiengesetzes, auch in Verbindung mit § 34 Satz 2 und § 35 Absatz 3 Satz 1 des Versicherungsaufsichtsgesetzes, oder nach § 111 Absatz 5 des Aktiengesetzes, auch in Verbindung mit § 35 Absatz 3 Satz 1 des Versicherungsaufsichtsgesetzes, verpflichtet sind, Zielgrößen für den Frauenanteil und Fristen für deren Erreichung festzulegen, haben in ihrem Lagebericht als gesonderten Abschnitt eine Erklärung zur Unternehmensführung mit den Festlegungen und Angaben nach Absatz 2 Nummer 4 aufzunehmen; Absatz 1 Satz 2 und 3 gilt entsprechend. Gesellschaften, die nicht zur Offenlegung eines Lageberichts verpflichtet sind, haben eine Erklärung mit den Festlegungen und Angaben nach Absatz 2 Nummer 4 zu erstellen und gemäß Absatz 1 Satz 2 zu veröffentlichen. Sie können diese Pflicht auch durch Offenlegung eines unter Berücksichtigung von Satz 1 erstellten Lageberichts erfüllen.
 
 Zweiter Unterabschnitt Konzernabschluß und Konzernlagebericht
 -------------------------------------------------------------
@@ -2933,10 +3102,10 @@ ihm das Recht zusteht, die Finanz- und Geschäftspolitik auf Grund eines mit ein
 4.  
 es bei wirtschaftlicher Betrachtung die Mehrheit der Risiken und Chancen eines Unternehmens trägt, das zur Erreichung eines eng begrenzten und genau definierten Ziels des Mutterunternehmens dient (Zweckgesellschaft). Neben Unternehmen können Zweckgesellschaften auch sonstige juristische Personen des Privatrechts oder unselbständige Sondervermögen des Privatrechts sein, ausgenommen Spezial-Sondervermögen im Sinn des § 2 Absatz 3 des Investmentgesetzes oder vergleichbare ausländische Investmentvermögen oder als Sondervermögen aufgelegte offene inländische Spezial-AIF mit festen Anlagebedingungen im Sinn des § 284 des Kapitalanlagegesetzbuchs oder vergleichbare EU-Investmentvermögen oder ausländische Investmentvermögen, die den als Sondervermögen aufgelegten offenen inländischen Spezial-AIF mit festen Anlagebedingungen im Sinn des § 284 des Kapitalanlagegesetzbuchs vergleichbar sind.
 
-(3) Als Rechte, die einem Mutterunternehmen nach Absatz 2 zustehen, gelten auch die einem Tochterunternehmen zustehenden Rechte und die den für Rechnung des Mutterunternehmens oder von Tochterunternehmen handelnden Personen zustehenden Rechte. Den einem Mutterunternehmen an einem anderen Unternehmen zustehenden Rechten werden die Rechte hinzugerechnet, über die es oder ein Tochterunternehmen auf Grund einer Vereinbarung mit anderen Gesellschaftern dieses Unternehmens verfügen kann. Abzuziehen sind Rechte, die
+(3) Als Rechte, die einem Mutterunternehmen nach Absatz 2 zustehen, gelten auch die einem anderen Tochterunternehmen zustehenden Rechte und die den für Rechnung des Mutterunternehmens oder von Tochterunternehmen handelnden Personen zustehenden Rechte. Den einem Mutterunternehmen an einem anderen Unternehmen zustehenden Rechten werden die Rechte hinzugerechnet, über die es selbst oder eines seiner Tochterunternehmen auf Grund einer Vereinbarung mit anderen Gesellschaftern dieses Unternehmens verfügen kann. Abzuziehen sind Rechte, die
 
 1.  
-mit Anteilen verbunden sind, die von dem Mutterunternehmen oder von Tochterunternehmen für Rechnung einer anderen Person gehalten werden, oder
+mit Anteilen verbunden sind, die von dem Mutterunternehmen oder von dessen Tochterunternehmen für Rechnung einer anderen Person gehalten werden, oder
 
 2.  
 mit Anteilen verbunden sind, die als Sicherheit gehalten werden, sofern diese Rechte nach Weisung des Sicherungsgebers oder, wenn ein Kreditinstitut die Anteile als Sicherheit für ein Darlehen hält, im Interesse des Sicherungsgebers ausgeübt werden.
@@ -2955,9 +3124,12 @@ mit Anteilen verbunden sind, die als Sicherheit gehalten werden, sofern diese Re
 das zu befreiende Mutterunternehmen und seine Tochterunternehmen in den befreienden Konzernabschluß unbeschadet des § 296 einbezogen worden sind,
 
 2.  
-der befreiende Konzernabschluß und der befreiende Konzernlagebericht im Einklang mit der Richtlinie 83/349/EWG des Rates vom 13. Juni 1983 über den konsolidierten Abschluß (ABl. EG Nr. L 193 S. 1) und der Richtlinie 84/253/EWG des Rates vom 10. April 1984 über die Zulassung der mit der Pflichtprüfung der Rechnungslegungsunterlagen beauftragten Personen (ABl. EG Nr. L 126 S. 20) in ihren jeweils geltenden Fassungen nach dem für das aufstellende Mutterunternehmen maßgeblichen Recht aufgestellt und von einem zugelassenen Abschlußprüfer geprüft worden sind,
+der befreiende Konzernabschluss nach dem auf das Mutterunternehmen anwendbaren Recht im Einklang mit der Richtlinie 2013/34/EU oder im Einklang mit den in § 315a Absatz 1 bezeichneten internationalen Rechnungslegungsstandards aufgestellt und im Einklang mit der Richtlinie 2006/43/EG geprüft worden ist,
 
 3.  
+der befreiende Konzernlagebericht nach dem auf das Mutterunternehmen anwendbaren Recht im Einklang mit der Richtlinie 2013/34/EU aufgestellt und im Einklang mit der Richtlinie 2006/43/EG geprüft worden ist,
+
+4.  
 der Anhang des Jahresabschlusses des zu befreienden Unternehmens folgende Angaben enthält:
 
 a)  
@@ -2974,24 +3146,56 @@ Satz 1 gilt für Kreditinstitute und Versicherungsunternehmen entsprechend; unbe
 (3) Die Befreiung nach Absatz 1 kann trotz Vorliegens der Voraussetzungen nach Absatz 2 von einem Mutterunternehmen nicht in Anspruch genommen werden, wenn
 
 1.  
-das zu befreiende Mutterunternehmen einen organisierten Markt im Sinn des § 2 Abs. 5 des Wertpapierhandelsgesetzes durch von ihm ausgegebene Wertpapiere im Sinn des § 2 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes in Anspruch nimmt,
+das zu befreiende Mutterunternehmen einen organisierten Markt im Sinn des § 2 Abs. 5 des Wertpapierhandelsgesetzes durch von ihm ausgegebene Wertpapiere im Sinn des § 2 Absatz 1 des Wertpapierhandelsgesetzes in Anspruch nimmt,
 
 2.  
 Gesellschafter, denen bei Aktiengesellschaften und Kommanditgesellschaften auf Aktien mindestens 10 vom Hundert und bei Gesellschaften mit beschränkter Haftung mindestens 20 vom Hundert der Anteile an dem zu befreienden Mutterunternehmen gehören, spätestens sechs Monate vor dem Ablauf des Konzerngeschäftsjahrs die Aufstellung eines Konzernabschlusses und eines Konzernlageberichts beantragt haben.
 
-### § 292 Rechtsverordnungsermächtigung für befreiende Konzernabschlüsse und Konzernlageberichte
+(+++ § 291: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu bestimmen, daß § 291 auf Konzernabschlüsse und Konzernlageberichte von Mutterunternehmen mit Sitz in einem Staat, der nicht Mitglied der Europäischen Union und auch nicht Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, mit der Maßgabe angewendet werden darf, daß der befreiende Konzernabschluß und der befreiende Konzernlagebericht nach dem mit den Anforderungen der Richtlinie 83/349/EWG übereinstimmenden Recht eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum aufgestellt worden oder einem nach diesem Recht eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum aufgestellten Konzernabschluß und Konzernlagebericht gleichwertig sein müssen. Das Recht eines anderen Mitgliedstaates der Europäischen Union oder Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum kann einem befreienden Konzernabschluß und einem befreienden Konzernlagebericht jedoch nur zugrunde gelegt oder für die Herstellung der Gleichwertigkeit herangezogen werden, wenn diese Unterlagen in dem anderen Mitgliedstaat oder Vertragsstaat anstelle eines sonst nach dem Recht dieses Mitgliedstaates oder Vertragsstaates vorgeschriebenen Konzernabschlusses und Konzernlageberichts offengelegt werden. Die Anwendung dieser Vorschrift kann in der Rechtsverordnung Unterabschnitt aufgestellten Konzernabschlüsse und Konzernlageberichte in dem Staat, in dem das Mutterunternehmen seinen Sitz hat, als gleichwertig mit den dort für Unternehmen mit entsprechender Rechtsform und entsprechendem Geschäftszweig vorgeschriebenen Konzernabschlüssen und Konzernlageberichten angesehen werden.
+### § 292 Befreiende Wirkung von Konzernabschlüssen aus Drittstaaten
 
-(2) Ist ein nach Absatz 1 zugelassener Konzernabschluß nicht von einem in Übereinstimmung mit den Vorschriften der Richtlinie 2006/43/EG zugelassenen Abschlußprüfer geprüft worden, so kommt ihm befreiende Wirkung nur zu, wenn der Abschlußprüfer eine den Anforderungen dieser Richtlinie gleichwertige Befähigung hat und der Konzernabschluß in einer den Anforderungen des Dritten Unterabschnitts entsprechenden Weise geprüft worden ist. Nicht in Übereinstimmung mit den Vorschriften der Richtlinie 2006/43/EG zugelassene Abschlussprüfer von Unternehmen mit Sitz in einem Drittstaat im Sinn des § 3 Abs. 1 Satz 1 der Wirtschaftsprüferordnung, deren Wertpapiere im Sinn des § 2 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes an einer inländischen Börse zum Handel am regulierten Markt zugelassen sind, haben nur dann eine den Anforderungen der Richtlinie gleichwertige Befähigung, wenn sie bei der Wirtschaftsprüferkammer gemäß § 134 Abs. 1 der Wirtschaftsprüferordnung eingetragen sind oder die Gleichwertigkeit gemäß § 134 Abs. 4 der Wirtschaftsprüferordnung anerkannt ist. Satz 2 ist nicht anzuwenden, soweit ausschließlich Schuldtitel im Sinn des § 2 Abs. 1 Satz 1 Nr. 3 des Wertpapierhandelsgesetzes mit einer Mindeststückelung von 50 000 Euro oder einem entsprechenden Betrag anderer Währung an einer inländischen Börse zum Handel am regulierten Markt zugelassen sind.
+(1) Ein Mutterunternehmen, das zugleich Tochterunternehmen eines Mutterunternehmens mit Sitz in einem Staat, der nicht Mitglied der Europäischen Union und auch nicht Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, braucht einen Konzernabschluss und einen Konzernlagebericht nicht aufzustellen, wenn dieses andere Mutterunternehmen einen dem § 291 Absatz 2 Nummer 1 entsprechenden Konzernabschluss (befreiender Konzernabschluss) und Konzernlagebericht (befreiender Konzernlagebericht) aufstellt sowie außerdem alle folgenden Voraussetzungen erfüllt sind:
 
-(3) In einer Rechtsverordnung nach Absatz 1 kann außerdem bestimmt werden, welche Voraussetzungen Konzernabschlüsse und Konzernlageberichte von Mutterunternehmen mit Sitz in einem Staat, der nicht Mitglied der Europäischen Union und auch nicht Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, im einzelnen erfüllen müssen, um nach Absatz 1 gleichwertig zu sein, und wie die Befähigung von Abschlußprüfern beschaffen sein muß, um nach Absatz 2 gleichwertig zu sein. In der Rechtsverordnung können zusätzliche Angaben und Erläuterungen zum Konzernabschluß vorgeschrieben werden, soweit diese erforderlich sind, um die Gleichwertigkeit dieser Konzernabschlüsse und Konzernlageberichte mit solchen nach diesem Unterabschnitt oder dem Recht eines anderen Mitgliedstaates der Europäischen Union oder Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum herzustellen.
+1.  
+der befreiende Konzernabschluss wird wie folgt aufgestellt:
 
-(4) Die Rechtsverordnung ist vor Verkündung dem Bundestag zuzuleiten. Sie kann durch Beschluß des Bundestages geändert oder abgelehnt werden. Der Beschluß des Bundestages wird dem Bundesministerium der Justiz zugeleitet. Das Bundesministerium der Justiz ist bei der Verkündung der Rechtsverordnung an den Beschluß gebunden. Hat sich der Bundestag nach Ablauf von drei Sitzungswochen seit Eingang einer Rechtsverordnung nicht mit ihr befaßt, so wird die unveränderte Rechtsverordnung dem Bundesministerium der Justiz zur Verkündung zugeleitet. Der Bundestag befaßt sich mit der Rechtsverordnung auf Antrag von so vielen Mitgliedern des Bundestages, wie zur Bildung einer Fraktion erforderlich sind.
+a)  
+nach Maßgabe des Rechts eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum im Einklang mit der Richtlinie 2013/34/EU,
 
-### § 292a
+b)  
+im Einklang mit den in § 315a Absatz 1 bezeichneten internationalen Rechnungslegungsstandards,
 
-(weggefallen)
+c)  
+derart, dass er einem nach den in Buchstabe a bezeichneten Vorgaben erstellten Konzernabschluss gleichwertig ist, oder
+
+d)  
+derart, dass er internationalen Rechnungslegungsstandards entspricht, die gemäß der Verordnung (EG) Nr. 1569/2007 der Kommission vom 21. Dezember 2007 über die Einrichtung eines Mechanismus zur Festlegung der Gleichwertigkeit der von Drittstaatemittenten angewandten Rechnungslegungsgrundsätze gemäß den Richtlinien 2003/71/EG und 2004/109/EG des Europäischen Parlaments und des Rates (ABl. L 340 vom 22.12.2007, S. 66), die durch die Delegierte Verordnung (EU) Nr. 310/2012 (ABl. L 103 vom 13.4.2012, S. 11) geändert worden ist, in ihrer jeweils geltenden Fassung festgelegt wurden;
+
+2.  
+der befreiende Konzernlagebericht wird nach Maßgabe der in Nummer 1 Buchstabe a genannten Vorgaben aufgestellt oder ist einem nach diesen Vorgaben aufgestellten Konzernlagebericht gleichwertig;
+
+3.  
+der befreiende Konzernabschluss ist von einem oder mehreren Abschlussprüfern oder einer oder mehreren Prüfungsgesellschaften geprüft worden, die auf Grund der einzelstaatlichen Rechtsvorschriften, denen das Unternehmen unterliegt, das diesen Abschluss aufgestellt hat, zur Prüfung von Jahresabschlüssen zugelassen sind;
+
+4.  
+der befreiende Konzernabschluss, der befreiende Konzernlagebericht und der Bestätigungsvermerk sind nach den für den entfallenden Konzernabschluss und Konzernlagebericht maßgeblichen Vorschriften in deutscher Sprache offengelegt worden.
+
+(2) Die befreiende Wirkung tritt nur ein, wenn im Anhang des Jahresabschlusses des zu befreienden Unternehmens die in § 291 Absatz 2 Satz 1 Nummer 4 genannten Angaben gemacht werden und zusätzlich angegeben wird, nach welchen der in Absatz 1 Nummer 1 genannten Vorgaben sowie gegebenenfalls nach dem Recht welchen Staates der befreiende Konzernabschluss und der befreiende Konzernlagebericht aufgestellt worden sind. Im Übrigen ist § 291 Absatz 2 Satz 2 und Absatz 3 entsprechend anzuwenden.
+
+(3) Ist ein nach Absatz 1 zugelassener Konzernabschluß nicht von einem in Übereinstimmung mit den Vorschriften der Richtlinie 2006/43/EG zugelassenen Abschlußprüfer geprüft worden, so kommt ihm befreiende Wirkung nur zu, wenn der Abschlußprüfer eine den Anforderungen dieser Richtlinie gleichwertige Befähigung hat und der Konzernabschluß in einer den Anforderungen des Dritten Unterabschnitts entsprechenden Weise geprüft worden ist. Nicht in Übereinstimmung mit den Vorschriften der Richtlinie 2006/43/EG zugelassene Abschlussprüfer von Unternehmen mit Sitz in einem Drittstaat im Sinn des § 3 Abs. 1 Satz 1 der Wirtschaftsprüferordnung, deren Wertpapiere im Sinn des § 2 Absatz 1 des Wertpapierhandelsgesetzes an einer inländischen Börse zum Handel am regulierten Markt zugelassen sind, haben nur dann eine den Anforderungen der Richtlinie gleichwertige Befähigung, wenn sie bei der Wirtschaftsprüferkammer gemäß § 134 Abs. 1 der Wirtschaftsprüferordnung eingetragen sind oder die Gleichwertigkeit gemäß § 134 Abs. 4 der Wirtschaftsprüferordnung anerkannt ist. Satz 2 ist nicht anzuwenden, soweit ausschließlich Schuldtitel im Sinne des § 2 Absatz 1 Nummer 3 des Wertpapierhandelsgesetzes
+
+1.  
+mit einer Mindeststückelung zu je 100 000 Euro oder einem entsprechenden Betrag anderer Währung an einer inländischen Behörde zum Handel am regulierten Markt zugelassen sind oder
+
+2.  
+mit einer Mindeststückelung zu je 50 000 Euro oder einem entsprechenden Betrag anderer Währung an einer inländischen Börse zum Handel am regulierten Markt zugelassen sind und diese Schuldtitel vor dem 31. Dezember 2010 begeben worden sind.
+
+Im Falle des Satzes 2 ist mit dem Bestätigungsvermerk nach Absatz 1 Nummer 4 auch eine Bescheinigung der Wirtschaftsprüferkammer gemäß § 134 Absatz 2a der Wirtschaftsprüferordnung über die Eintragung des Abschlussprüfers oder eine Bestätigung der Wirtschaftsprüferkammer gemäß § 134 Absatz 4 Satz 8 der Wirtschaftsprüferordnung über die Befreiung von der Eintragungsverpflichtung offenzulegen.
+
+(+++ § 292: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+
+### § 292a (weggefallen)
 
 ### § 293 Größenabhängige Befreiungen
 
@@ -3001,10 +3205,10 @@ Gesellschafter, denen bei Aktiengesellschaften und Kommanditgesellschaften auf A
 am Abschlußstichtag seines Jahresabschlusses und am vorhergehenden Abschlußstichtag mindestens zwei der drei nachstehenden Merkmale zutreffen:
 
 a)  
-Die Bilanzsummen in den Bilanzen des Mutterunternehmens und der Tochterunternehmen, die in den Konzernabschluß einzubeziehen wären, übersteigen insgesamt nach Abzug von in den Bilanzen auf der Aktivseite ausgewiesenen Fehlbeträgen nicht 23 100 000 Euro.
+Die Bilanzsummen in den Bilanzen des Mutterunternehmens und der Tochterunternehmen, die in den Konzernabschluß einzubeziehen wären, übersteigen insgesamt nicht 24 000 000 Euro.
 
 b)  
-Die Umsatzerlöse des Mutterunternehmens und der Tochterunternehmen, die in den Konzernabschluß einzubeziehen wären, übersteigen in den zwölf Monaten vor dem Abschlußstichtag insgesamt nicht 46 200 000 Euro.
+Die Umsatzerlöse des Mutterunternehmens und der Tochterunternehmen, die in den Konzernabschluß einzubeziehen wären, übersteigen in den zwölf Monaten vor dem Abschlußstichtag insgesamt nicht 48 000 000 Euro.
 
 c)  
 Das Mutterunternehmen und die Tochterunternehmen, die in den Konzernabschluß einzubeziehen wären, haben in den zwölf Monaten vor dem Abschlußstichtag im Jahresdurchschnitt nicht mehr als 250 Arbeitnehmer beschäftigt;oder
@@ -3013,23 +3217,25 @@ Das Mutterunternehmen und die Tochterunternehmen, die in den Konzernabschluß ei
 am Abschlußstichtag eines von ihm aufzustellenden Konzernabschlusses und am vorhergehenden Abschlußstichtag mindestens zwei der drei nachstehenden Merkmale zutreffen:
 
 a)  
-Die Bilanzsumme übersteigt nach Abzug eines auf der Aktivseite ausgewiesenen Fehlbetrags nicht 19 250 000 Euro.
+Die Bilanzsumme übersteigt nicht 20 000 000 Euro.
 
 b)  
-Die Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag übersteigen nicht 38 500 000 Euro.
+Die Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag übersteigen nicht 40 000 000 Euro.
 
 c)  
 Das Mutterunternehmen und die in den Konzernabschluß einbezogenen Tochterunternehmen haben in den zwölf Monaten vor dem Abschlußstichtag im Jahresdurchschnitt nicht mehr als 250 Arbeitnehmer beschäftigt.
 
 Auf die Ermittlung der durchschnittlichen Zahl der Arbeitnehmer ist § 267 Abs. 5 anzuwenden.
 
-(2) (weggefallen)
+(2) Auf die Ermittlung der Bilanzsumme ist § 267 Absatz 4a entsprechend anzuwenden.
 
 (3) (weggefallen)
 
-(4) Außer in den Fällen des Absatzes 1 ist ein Mutterunternehmen von der Pflicht zur Aufstellung des Konzernabschlusses und des Konzernlageberichts befreit, wenn die Voraussetzungen des Absatzes 1 nur am Abschlußstichtag oder nur am vorhergehenden Abschlußstichtag erfüllt sind und das Mutterunternehmen am vorhergehenden Abschlußstichtag von der Pflicht zur Aufstellung des Konzernabschlusses und des Konzernlageberichts befreit war. § 267 Abs. 4 Satz 2 ist entsprechend anzuwenden.
+(4) Außer in den Fällen des Absatzes 1 ist ein Mutterunternehmen von der Pflicht zur Aufstellung des Konzernabschlusses und des Konzernlageberichts befreit, wenn die Voraussetzungen des Absatzes 1 nur am Abschlußstichtag oder nur am vorhergehenden Abschlußstichtag erfüllt sind und das Mutterunternehmen am vorhergehenden Abschlußstichtag von der Pflicht zur Aufstellung des Konzernabschlusses und des Konzernlageberichts befreit war. § 267 Abs. 4 Satz 2 und 3 ist entsprechend anzuwenden.
 
-(5) Die Absätze 1 und 4 sind nicht anzuwenden, wenn das Mutterunternehmen oder ein in dessen Konzernabschluss einbezogenes Tochterunternehmen am Abschlussstichtag kapitalmarktorientiert im Sinn des § 264d ist.
+(5) Die Absätze 1 und 4 sind nicht anzuwenden, wenn das Mutterunternehmen oder ein in dessen Konzernabschluss einbezogenes Tochterunternehmen am Abschlussstichtag kapitalmarktorientiert im Sinn des § 264d ist oder es den Vorschriften des Ersten oder Zweiten Unterabschnitts des Vierten Abschnitts unterworfen ist.
+
+(+++ § 293: Zur Anwendung vgl. Art. 75 Abs. 2 HGBEG +++)
 
 Zweiter Titel Konsolidierungskreis
 ----------------------------------
@@ -3038,15 +3244,15 @@ Zweiter Titel Konsolidierungskreis
 
 ### § 294 Einzubeziehende Unternehmen Vorlage- und Auskunftspflichten
 
-(1) In den Konzernabschluß sind das Mutterunternehmen und alle Tochterunternehmen ohne Rücksicht auf den Sitz der Tochterunternehmen einzubeziehen, sofern die Einbeziehung nicht nach § 296 unterbleibt.
+(1) In den Konzernabschluß sind das Mutterunternehmen und alle Tochterunternehmen ohne Rücksicht auf den Sitz und die Rechtsform der Tochterunternehmen einzubeziehen, sofern die Einbeziehung nicht nach § 296 unterbleibt.
 
 (2) Hat sich die Zusammensetzung der in den Konzernabschluß einbezogenen Unternehmen im Laufe des Geschäftsjahrs wesentlich geändert, so sind in den Konzernabschluß Angaben aufzunehmen, die es ermöglichen, die aufeinanderfolgenden Konzernabschlüsse sinnvoll zu vergleichen.
 
 (3) Die Tochterunternehmen haben dem Mutterunternehmen ihre Jahresabschlüsse, Einzelabschlüsse nach § 325 Abs. 2a, Lageberichte, Konzernabschlüsse, Konzernlageberichte und, wenn eine Abschlussprüfung stattgefunden hat, die Prüfungsberichte sowie, wenn ein Zwischenabschluß aufzustellen ist, einen auf den Stichtag des Konzernabschlusses aufgestellten Abschluß unverzüglich einzureichen. Das Mutterunternehmen kann von jedem Tochterunternehmen alle Aufklärungen und Nachweise verlangen, welche die Aufstellung des Konzernabschlusses und des Konzernlageberichts erfordert.
 
-### § 295
+(+++ § 294: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
-(weggefallen)
+### § 295 (weggefallen)
 
 ### § 296 Verzicht auf die Einbeziehung
 
@@ -3056,7 +3262,7 @@ Zweiter Titel Konsolidierungskreis
 erhebliche und andauernde Beschränkungen die Ausübung der Rechte des Mutterunternehmens in bezug auf das Vermögen oder die Geschäftsführung dieses Unternehmens nachhaltig beeinträchtigen,
 
 2.  
-die für die Aufstellung des Konzernabschlusses erforderlichen Angaben nicht ohne unverhältnismäßig hohe Kosten oder Verzögerungen zu erhalten sind oder
+die für die Aufstellung des Konzernabschlusses erforderlichen Angaben nicht ohne unverhältnismäßig hohe Kosten oder unangemessene Verzögerungen zu erhalten sind oder
 
 3.  
 die Anteile des Tochterunternehmens ausschließlich zum Zwecke ihrer Weiterveräußerung gehalten werden.
@@ -3064,6 +3270,8 @@ die Anteile des Tochterunternehmens ausschließlich zum Zwecke ihrer Weiterverä
 (2) Ein Tochterunternehmen braucht in den Konzernabschluß nicht einbezogen zu werden, wenn es für die Verpflichtung, ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage des Konzerns zu vermitteln, von untergeordneter Bedeutung ist. Entsprechen mehrere Tochterunternehmen der Voraussetzung des Satzes 1, so sind diese Unternehmen in den Konzernabschluß einzubeziehen, wenn sie zusammen nicht von untergeordneter Bedeutung sind.
 
 (3) Die Anwendung der Absätze 1 und 2 ist im Konzernanhang zu begründen.
+
+(+++ § 296: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 Dritter Titel Inhalt und Form des Konzernabschlusses
 ----------------------------------------------------
@@ -3074,17 +3282,21 @@ Dritter Titel Inhalt und Form des Konzernabschlusses
 
 (1) Der Konzernabschluss besteht aus der Konzernbilanz, der Konzern-Gewinn- und Verlustrechnung, dem Konzernanhang, der Kapitalflussrechnung und dem Eigenkapitalspiegel. Er kann um eine Segmentberichterstattung erweitert werden.
 
+(1a) Im Konzernabschluss sind die Firma, der Sitz, das Registergericht und die Nummer, unter der das Mutterunternehmen in das Handelsregister eingetragen ist, anzugeben. Befindet sich das Mutterunternehmen in Liquidation oder Abwicklung, ist auch diese Tatsache anzugeben.
+
 (2) Der Konzernabschluß ist klar und übersichtlich aufzustellen. Er hat unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage des Konzerns zu vermitteln. Führen besondere Umstände dazu, daß der Konzernabschluß ein den tatsächlichen Verhältnissen entsprechendes Bild im Sinne des Satzes 2 nicht vermittelt, so sind im Konzernanhang zusätzliche Angaben zu machen. Die gesetzlichen Vertreter eines Mutterunternehmens, das Inlandsemittent im Sinne des § 2 Abs. 7 des Wertpapierhandelsgesetzes und keine Kapitalgesellschaft im Sinne des § 327a ist, haben bei der Unterzeichnung schriftlich zu versichern, dass nach bestem Wissen der Konzernabschluss ein den tatsächlichen Verhältnissen entsprechendes Bild im Sinne des Satzes 2 vermittelt oder der Konzernanhang Angaben nach Satz 3 enthält.
 
 (3) Im Konzernabschluß ist die Vermögens-, Finanz- und Ertragslage der einbezogenen Unternehmen so darzustellen, als ob diese Unternehmen insgesamt ein einziges Unternehmen wären. Die auf den vorhergehenden Konzernabschluß angewandten Konsolidierungsmethoden sind beizubehalten. Abweichungen von Satz 2 sind in Ausnahmefällen zulässig. Sie sind im Konzernanhang anzugeben und zu begründen. Ihr Einfluß auf die Vermögens-, Finanz- und Ertragslage des Konzerns ist anzugeben.
 
+(+++ § 297: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+
 ### § 298 Anzuwendende VorschriftenErleichterungen
 
-(1) Auf den Konzernabschluß sind, soweit seine Eigenart keine Abweichung bedingt oder in den folgenden Vorschriften nichts anderes bestimmt ist, die §§ 244 bis 256a, 265, 266, 268 bis 275, 277 und 278 über den Jahresabschluß und die für die Rechtsform und den Geschäftszweig der in den Konzernabschluß einbezogenen Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes geltenden Vorschriften, soweit sie für große Kapitalgesellschaften gelten, entsprechend anzuwenden.
+(1) Auf den Konzernabschluß sind, soweit seine Eigenart keine Abweichung bedingt oder in den folgenden Vorschriften nichts anderes bestimmt ist, die §§ 244 bis 256a, 264c, 265, 266, 268 Absatz 1 bis 7, die §§ 270, 271, 272 Absatz 1 bis 4, die §§ 274, 275 und 277 über den Jahresabschluß und die für die Rechtsform und den Geschäftszweig der in den Konzernabschluß einbezogenen Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes geltenden Vorschriften, soweit sie für große Kapitalgesellschaften gelten, entsprechend anzuwenden.
 
-(2) In der Gliederung der Konzernbilanz dürfen die Vorräte in einem Posten zusammengefaßt werden, wenn deren Aufgliederung wegen besonderer Umstände mit einem unverhältnismäßigen Aufwand verbunden wäre.
+(2) Der Konzernanhang und der Anhang des Jahresabschlusses des Mutterunternehmens dürfen zusammengefaßt werden. In diesem Falle müssen der Konzernabschluß und der Jahresabschluß des Mutterunternehmens gemeinsam offengelegt werden. Aus dem zusammengefassten Anhang muss hervorgehen, welche Angaben sich auf den Konzern und welche Angaben sich nur auf das Mutterunternehmen beziehen.
 
-(3) Der Konzernanhang und der Anhang des Jahresabschlusses des Mutterunternehmens dürfen zusammengefaßt werden. In diesem Falle müssen der Konzernabschluß und der Jahresabschluß des Mutterunternehmens gemeinsam offengelegt werden. Aus dem zusammengefassten Anhang muss hervorgehen, welche Angaben sich auf den Konzern und welche Angaben sich nur auf das Mutterunternehmen beziehen.
+(+++ § 298: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 299 Stichtag für die Aufstellung
 
@@ -3109,11 +3321,13 @@ Vierter Titel Vollkonsolidierung
 
 (1) Der Wertansatz der dem Mutterunternehmen gehörenden Anteile an einem in den Konzernabschluß einbezogenen Tochterunternehmen wird mit dem auf diese Anteile entfallenden Betrag des Eigenkapitals des Tochterunternehmens verrechnet. Das Eigenkapital ist mit dem Betrag anzusetzen, der dem Zeitwert der in den Konzernabschluss aufzunehmenden Vermögensgegenstände, Schulden, Rechnungsabgrenzungsposten und Sonderposten entspricht, der diesen an dem für die Verrechnung nach Absatz 2 maßgeblichen Zeitpunkt beizulegen ist. Rückstellungen sind nach § 253 Abs. 1 Satz 2 und 3, Abs. 2 und latente Steuern nach § 274 Abs. 2 zu bewerten.
 
-(2) Die Verrechnung nach Absatz 1 ist auf Grundlage der Wertansätze zu dem Zeitpunkt durchzuführen, zu dem das Unternehmen Tochterunternehmen geworden ist. Können die Wertansätze zu diesem Zeitpunkt nicht endgültig ermittelt werden, sind sie innerhalb der darauf folgenden zwölf Monate anzupassen. Ist ein Mutterunternehmen erstmalig zur Aufstellung eines Konzernabschlusses verpflichtet, sind die Wertansätze zum Zeitpunkt der Einbeziehung des Tochterunternehmens in den Konzernabschluss zugrunde zu legen, soweit das Unternehmen nicht in dem Jahr Tochterunternehmen geworden ist, für das der Konzernabschluss aufgestellt wird. Das Gleiche gilt für die erstmalige Einbeziehung eines Tochterunternehmens, auf die bisher gemäß § 296 verzichtet wurde.
+(2) Die Verrechnung nach Absatz 1 ist auf Grundlage der Wertansätze zu dem Zeitpunkt durchzuführen, zu dem das Unternehmen Tochterunternehmen geworden ist. Können die Wertansätze zu diesem Zeitpunkt nicht endgültig ermittelt werden, sind sie innerhalb der darauf folgenden zwölf Monate anzupassen. Stellt ein Mutterunternehmen erstmalig einen Konzernabschluss auf, sind die Wertansätze zum Zeitpunkt der Einbeziehung des Tochterunternehmens in den Konzernabschluss zugrunde zu legen, soweit das Tochterunternehmen nicht in dem Jahr Tochterunternehmen geworden ist, für das der Konzernabschluss aufgestellt wird. Das Gleiche gilt für die erstmalige Einbeziehung eines Tochterunternehmens, auf die bisher gemäß § 296 verzichtet wurde. In Ausnahmefällen dürfen die Wertansätze nach Satz 1 auch in den Fällen der Sätze 3 und 4 zugrunde gelegt werden; dies ist im Konzernanhang anzugeben und zu begründen.
 
-(3) Ein nach der Verrechnung verbleibender Unterschiedsbetrag ist in der Konzernbilanz, wenn er auf der Aktivseite entsteht, als Geschäfts- oder Firmenwert und, wenn er auf der Passivseite entsteht, unter dem Posten „Unterschiedsbetrag aus der Kapitalkonsolidierung“ nach dem Eigenkapital auszuweisen. Der Posten und wesentliche Änderungen gegenüber dem Vorjahr sind im Anhang zu erläutern.
+(3) Ein nach der Verrechnung verbleibender Unterschiedsbetrag ist in der Konzernbilanz, wenn er auf der Aktivseite entsteht, als Geschäfts- oder Firmenwert und, wenn er auf der Passivseite entsteht, unter dem Posten „Unterschiedsbetrag aus der Kapitalkonsolidierung“ nach dem Eigenkapital auszuweisen. Der Posten und wesentliche Änderungen gegenüber dem Vorjahr sind im Konzernanhang zu erläutern.
 
 (4) Anteile an dem Mutterunternehmen, die einem in den Konzernabschluss einbezogenen Tochterunternehmen gehören, sind in der Konzernbilanz als eigene Anteile des Mutterunternehmens mit ihrem Nennwert oder, falls ein solcher nicht vorhanden ist, mit ihrem rechnerischen Wert, in der Vorspalte offen von dem Posten „Gezeichnetes Kapital“ abzusetzen.
+
+(+++ § 301: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 302 (weggefallen)
 
@@ -3147,9 +3361,11 @@ Führen Maßnahmen, die nach den Vorschriften dieses Titels durchgeführt worden
 
 ### § 307 Anteile anderer Gesellschafter
 
-(1) In der Konzernbilanz ist für nicht dem Mutterunternehmen gehörende Anteile an in den Konzernabschluß einbezogenen Tochterunternehmen ein Ausgleichsposten für die Anteile der anderen Gesellschafter in Höhe ihres Anteils am Eigenkapital unter entsprechender Bezeichnung innerhalb des Eigenkapitals gesondert auszuweisen.
+(1) In der Konzernbilanz ist für nicht dem Mutterunternehmen gehörende Anteile an in den Konzernabschluß einbezogenen Tochterunternehmen ein Ausgleichsposten für die Anteile der anderen Gesellschafter in Höhe ihres Anteils am Eigenkapital unter dem Posten „nicht beherrschende Anteile“ innerhalb des Eigenkapitals gesondert auszuweisen.
 
-(2) In der Konzern-Gewinn- und Verlustrechnung ist der im Jahresergebnis enthaltene, anderen Gesellschaftern zustehende Gewinn und der auf sie entfallende Verlust nach dem Posten "Jahresüberschuß/Jahresfehlbetrag" unter entsprechender Bezeichnung gesondert auszuweisen.
+(2) In der Konzern-Gewinn- und Verlustrechnung ist der im Jahresergebnis enthaltene, anderen Gesellschaftern zustehende Gewinn und der auf sie entfallende Verlust nach dem Posten "Jahresüberschuß/Jahresfehlbetrag" unter dem Posten „nicht beherrschende Anteile“ gesondert auszuweisen.
+
+(+++ § 307: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 Fünfter Titel Bewertungsvorschriften
 ------------------------------------
@@ -3172,24 +3388,22 @@ Die Aktiv- und Passivposten einer auf fremde Währung lautenden Bilanz sind, mit
 
 (1) Die Abschreibung eines nach § 301 Abs. 3 auszuweisenden Geschäfts- oder Firmenwertes bestimmt sich nach den Vorschriften des Ersten Abschnitts.
 
-(2) Ein nach § 301 Abs. 3 auf der Passivseite auszuweisender Unterschiedsbetrag darf ergebniswirksam nur aufgelöst werden, soweit
+(2) Ein nach § 301 Absatz 3 auf der Passivseite auszuweisender Unterschiedsbetrag kann ergebniswirksam aufgelöst werden, soweit ein solches Vorgehen den Grundsätzen der §§ 297 und 298 in Verbindung mit den Vorschriften des Ersten Abschnitts entspricht.
 
-1.  
-eine zum Zeitpunkt des Erwerbs der Anteile oder der erstmaligen Konsolidierung erwartete ungünstige Entwicklung der künftigen Ertragslage des Unternehmens eingetreten ist oder zu diesem Zeitpunkt erwartete Aufwendungen zu berücksichtigen sind oder
-
-2.  
-am Abschlußstichtag feststeht, daß er einem realisierten Gewinn entspricht.
+(+++ § 309: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 Sechster Titel Anteilmäßige Konsolidierung
 ------------------------------------------
 
 ### 
 
-### § 310
+### § 310 Anteilmäßige Konsolidierung
 
 (1) Führt ein in einen Konzernabschluß einbezogenes Mutter- oder Tochterunternehmen ein anderes Unternehmen gemeinsam mit einem oder mehreren nicht in den Konzernabschluß einbezogenen Unternehmen, so darf das andere Unternehmen in den Konzernabschluß entsprechend den Anteilen am Kapital einbezogen werden, die dem Mutterunternehmen gehören.
 
 (2) Auf die anteilmäßige Konsolidierung sind die §§ 297 bis 301, §§ 303 bis 306, 308, 308a, 309 entsprechend anzuwenden.
+
+(+++ § 310: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 Siebenter Titel Assoziierte Unternehmen
 ---------------------------------------
@@ -3208,13 +3422,15 @@ Siebenter Titel Assoziierte Unternehmen
 
 (2) Der Unterschiedsbetrag nach Absatz 1 Satz 2 ist den Wertansätzen der Vermögensgegenstände, Schulden, Rechnungsabgrenzungsposten und Sonderposten des assoziierten Unternehmens insoweit zuzuordnen, als deren beizulegender Zeitwert höher oder niedriger ist als ihr Buchwert. Der nach Satz 1 zugeordnete Unterschiedsbetrag ist entsprechend der Behandlung der Wertansätze dieser Vermögensgegenstände, Schulden, Rechnungsabgrenzungsposten und Sonderposten im Jahresabschluss des assoziierten Unternehmens im Konzernabschluss fortzuführen, abzuschreiben oder aufzulösen. Auf einen nach Zuordnung nach Satz 1 verbleibenden Geschäfts- oder Firmenwert oder passiven Unterschiedsbetrag ist § 309 entsprechend anzuwenden. § 301 Abs. 1 Satz 3 ist entsprechend anzuwenden.
 
-(3) Der Wertansatz der Beteiligung und der Unterschiedsbetrag sind auf der Grundlage der Wertansätze zu dem Zeitpunkt zu ermitteln, zu dem das Unternehmen assoziiertes Unternehmen geworden ist. Können die Wertansätze zu diesem Zeitpunkt nicht endgültig ermittelt werden, sind sie innerhalb der darauf folgenden zwölf Monate anzupassen.
+(3) Der Wertansatz der Beteiligung und der Unterschiedsbetrag sind auf der Grundlage der Wertansätze zu dem Zeitpunkt zu ermitteln, zu dem das Unternehmen assoziiertes Unternehmen geworden ist. Können die Wertansätze zu diesem Zeitpunkt nicht endgültig ermittelt werden, sind sie innerhalb der darauf folgenden zwölf Monate anzupassen. § 301 Absatz 2 Satz 3 bis 5 gilt entsprechend.
 
 (4) Der nach Absatz 1 ermittelte Wertansatz einer Beteiligung ist in den Folgejahren um den Betrag der Eigenkapitalveränderungen, die den dem Mutterunternehmen gehörenden Anteilen am Kapital des assoziierten Unternehmens entsprechen, zu erhöhen oder zu vermindern; auf die Beteiligung entfallende Gewinnausschüttungen sind abzusetzen. In der Konzern-Gewinn- und Verlustrechnung ist das auf assoziierte Beteiligungen entfallende Ergebnis unter einem gesonderten Posten auszuweisen.
 
-(5) Wendet das assoziierte Unternehmen in seinem Jahresabschluß vom Konzernabschluß abweichende Bewertungsmethoden an, so können abweichend bewertete Vermögensgegenstände oder Schulden für die Zwecke der Absätze 1 bis 4 nach den auf den Konzernabschluß angewandten Bewertungsmethoden bewertet werden. Wird die Bewertung nicht angepaßt, so ist dies im Konzernanhang anzugeben. § 304 über die Behandlung der Zwischenergebnisse ist entsprechend anzuwenden, soweit die für die Beurteilung maßgeblichen Sachverhalte bekannt oder zugänglich sind. Die Zwischenergebnisse dürfen auch anteilig entsprechend den dem Mutterunternehmen gehörenden Anteilen am Kapital des assoziierten Unternehmens weggelassen werden.
+(5) Wendet das assoziierte Unternehmen in seinem Jahresabschluß vom Konzernabschluß abweichende Bewertungsmethoden an, so können abweichend bewertete Vermögensgegenstände oder Schulden für die Zwecke der Absätze 1 bis 4 nach den auf den Konzernabschluß angewandten Bewertungsmethoden bewertet werden. Wird die Bewertung nicht angepaßt, so ist dies im Konzernanhang anzugeben. Die §§ 304 und 306 sind entsprechend anzuwenden, soweit die für die Beurteilung maßgeblichen Sachverhalte bekannt oder zugänglich sind.
 
 (6) Es ist jeweils der letzte Jahresabschluß des assoziierten Unternehmens zugrunde zu legen. Stellt das assoziierte Unternehmen einen Konzernabschluß auf, so ist von diesem und nicht vom Jahresabschluß des assoziierten Unternehmens auszugehen.
+
+(+++ § 312: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 Achter Titel Konzernanhang
 --------------------------
@@ -3223,15 +3439,12 @@ Achter Titel Konzernanhang
 
 ### § 313 Erläuterung der Konzernbilanz und der Konzern-Gewinn- und Verlustrechnung. Angaben zum Beteiligungsbesitz.
 
-(1) In den Konzernanhang sind diejenigen Angaben aufzunehmen, die zu einzelnen Posten der Konzernbilanz oder der Konzern-Gewinn- und Verlustrechnung vorgeschrieben oder die im Konzernanhang zu machen sind, weil sie in Ausübung eines Wahlrechts nicht in die Konzernbilanz oder in die Konzern-Gewinn- und Verlustrechnung aufgenommen wurden. Im Konzernanhang müssen
+(1) In den Konzernanhang sind diejenigen Angaben aufzunehmen, die zu einzelnen Posten der Konzernbilanz oder der Konzern-Gewinn- und Verlustrechnung vorgeschrieben sind; diese Angaben sind in der Reihenfolge der einzelnen Posten der Konzernbilanz und der Konzern-Gewinn- und Verlustrechnung darzustellen. Im Konzernanhang sind auch die Angaben zu machen, die in Ausübung eines Wahlrechts nicht in die Konzernbilanz oder in die Konzern-Gewinn- und Verlustrechnung aufgenommen wurden. Im Konzernanhang müssen
 
 1.  
 die auf die Posten der Konzernbilanz und der Konzern-Gewinn- und Verlustrechnung angewandten Bilanzierungs- und Bewertungsmethoden angegeben werden;
 
 2.  
-die Grundlagen für die Umrechnung in Euro angegeben werden, sofern der Konzernabschluß Posten enthält, denen Beträge zugrunde liegen, die auf fremde Währung lauten oder ursprünglich auf fremde Währung lauteten;
-
-3.  
 Abweichungen von Bilanzierungs-, Bewertungs- und Konsolidierungsmethoden angegeben und begründet werden; deren Einfluß auf die Vermögens-, Finanz- und Ertragslage des Konzerns ist gesondert darzustellen.
 
 (2) Im Konzernanhang sind außerdem anzugeben:
@@ -3246,11 +3459,25 @@ Name und Sitz der assoziierten Unternehmen, der Anteil am Kapital der assoziiert
 Name und Sitz der Unternehmen, die nach § 310 nur anteilmäßig in den Konzernabschluß einbezogen worden sind, der Tatbestand, aus dem sich die Anwendung dieser Vorschrift ergibt, sowie der Anteil am Kapital dieser Unternehmen, der dem Mutterunternehmen und den in den Konzernabschluß einbezogenen Tochterunternehmen gehört oder von einer für Rechnung dieser Unternehmen handelnden Person gehalten wird;
 
 4.  
-Name und Sitz anderer als der unter den Nummern 1 bis 3 bezeichneten Unternehmen, bei denen das Mutterunternehmen, ein Tochterunternehmen oder eine für Rechnung eines dieser Unternehmen handelnde Person mindestens den fünften Teil der Anteile besitzt, unter Angabe des Anteils am Kapital sowie der Höhe des Eigenkapitals und des Ergebnisses des letzten Geschäftsjahrs, für das ein Abschluß aufgestellt worden ist. Ferner sind anzugeben alle Beteiligungen an großen Kapitalgesellschaften, die andere als die in Nummer 1 bis 3 bezeichneten Unternehmen sind, wenn sie von einem börsennotierten Mutterunternehmen, einem börsennotierten Tochterunternehmen oder einer für Rechnung eines dieser Unternehmen handelnden Person gehalten werden und fünf vom Hundert der Stimmrechte überschreiten. Diese Angaben brauchen nicht gemacht zu werden, wenn sie für die Vermittlung eines den tatsächlichen Verhältnissen entsprechenden Bildes der Vermögens-, Finanz- und Ertragslage des Konzerns von untergeordneter Bedeutung sind. Das Eigenkapital und das Ergebnis brauchen nicht angegeben zu werden, wenn das in Anteilsbesitz stehende Unternehmen seinen Jahresabschluß nicht offenzulegen hat und das Mutterunternehmen, das Tochterunternehmen oder die Person weniger als die Hälfte der Anteile an diesem Unternehmen besitzt.
+Name und Sitz anderer Unternehmen, die Höhe des Anteils am Kapital, das Eigenkapital und das Ergebnis des letzten Geschäftsjahrs dieser Unternehmen, für das ein Jahresabschluss vorliegt, soweit es sich um Beteiligungen im Sinne des § 271 Absatz 1 handelt oder ein solcher Anteil von einer Person für Rechnung des Mutterunternehmens oder eines anderen in den Konzernabschluss einbezogenen Unternehmens gehalten wird;
 
-(3) Die in Absatz 2 verlangten Angaben brauchen insoweit nicht gemacht zu werden, als nach vernünftiger kaufmännischer Beurteilung damit gerechnet werden muß, daß durch die Angaben dem Mutterunternehmen, einem Tochterunternehmen oder einem anderen in Absatz 2 bezeichneten Unternehmen erhebliche Nachteile entstehen können. Die Anwendung der Ausnahmeregelung ist im Konzernanhang anzugeben. Satz 1 gilt nicht, wenn ein Mutterunternehmen oder eines seiner Tochterunternehmen kapitalmarktorientiert im Sinn des § 264d ist.
+5.  
+alle nicht nach den Nummern 1 bis 4 aufzuführenden Beteiligungen an großen Kapitalgesellschaften, die 5 Prozent der Stimmrechte überschreiten, wenn sie von einem börsennotierten Mutterunternehmen, börsennotierten Tochterunternehmen oder von einer für Rechnung eines dieser Unternehmen handelnden Person gehalten werden;
 
-(4) (weggefallen)
+6.  
+Name, Sitz und Rechtsform der Unternehmen, deren unbeschränkt haftender Gesellschafter das Mutterunternehmen oder ein anderes in den Konzernabschluss einbezogenes Unternehmen ist;
+
+7.  
+Name und Sitz des Unternehmens, das den Konzernabschluss für den größten Kreis von Unternehmen aufstellt, dem das Mutterunternehmen als Tochterunternehmen angehört, und im Falle der Offenlegung des von diesem anderen Mutterunternehmen aufgestellten Konzernabschlusses der Ort, wo dieser erhältlich ist;
+
+8.  
+Name und Sitz des Unternehmens, das den Konzernabschluss für den kleinsten Kreis von Unternehmen aufstellt, dem das Mutterunternehmen als Tochterunternehmen angehört, und im Falle der Offenlegung des von diesem anderen Mutterunternehmen aufgestellten Konzernabschlusses der Ort, wo dieser erhältlich ist.
+
+(3) Die in Absatz 2 verlangten Angaben brauchen insoweit nicht gemacht zu werden, als nach vernünftiger kaufmännischer Beurteilung damit gerechnet werden muß, daß durch die Angaben dem Mutterunternehmen, einem Tochterunternehmen oder einem anderen in Absatz 2 bezeichneten Unternehmen erhebliche Nachteile entstehen können. Die Anwendung der Ausnahmeregelung ist im Konzernanhang anzugeben. Satz 1 gilt nicht, wenn ein Mutterunternehmen oder eines seiner Tochterunternehmen kapitalmarktorientiert im Sinn des § 264d ist. Die Angaben nach Absatz 2 Nummer 4 und 5 brauchen nicht gemacht zu werden, wenn sie für die Vermittlung eines den tatsächlichen Verhältnissen entsprechenden Bilds der Vermögens-, Finanz- und Ertragslage des Konzerns von untergeordneter Bedeutung sind. Die Pflicht zur Angabe von Eigenkapital und Ergebnis nach Absatz 2 Nummer 4 braucht auch dann nicht erfüllt zu werden, wenn das in Anteilsbesitz stehende Unternehmen seinen Jahresabschluss nicht offenlegt.
+
+(4) § 284 Absatz 2 Nummer 4 und Absatz 3 ist entsprechend anzuwenden.
+
+(+++ § 313: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 314 Sonstige Pflichtangaben
 
@@ -3260,16 +3487,16 @@ Name und Sitz anderer als der unter den Nummern 1 bis 3 bezeichneten Unternehmen
 der Gesamtbetrag der in der Konzernbilanz ausgewiesenen Verbindlichkeiten mit einer Restlaufzeit von mehr als fünf Jahren sowie der Gesamtbetrag der in der Konzernbilanz ausgewiesenen Verbindlichkeiten, die von in den Konzernabschluß einbezogenen Unternehmen durch Pfandrechte oder ähnliche Rechte gesichert sind, unter Angabe von Art und Form der Sicherheiten;
 
 2.  
-Art und Zweck sowie Risiken und Vorteile von nicht in der Konzernbilanz enthaltenen Geschäften des Mutterunternehmens und der in den Konzernabschluss einbezogenen Tochterunternehmen, soweit dies für die Beurteilung der Finanzlage des Konzerns notwendig ist;
+Art und Zweck sowie Risiken, Vorteile und finanzielle Auswirkungen von nicht in der Konzernbilanz enthaltenen Geschäften des Mutterunternehmens und der in den Konzernabschluss einbezogenen Tochterunternehmen, soweit die Risiken und Vorteile wesentlich sind und die Offenlegung für die Beurteilung der Finanzlage des Konzerns erforderlich ist;
 
 2a.  
-der Gesamtbetrag der sonstigen finanziellen Verpflichtungen, die nicht in der Konzernbilanz enthalten und nicht nach § 298 Abs. 1 in Verbindung mit § 251 oder nach Nummer 2 anzugeben sind, sofern diese Angabe für die Beurteilung der Finanzlage des Konzerns von Bedeutung ist; davon und von den Haftungsverhältnissen nach § 251 sind Verpflichtungen gegenüber Tochterunternehmen, die nicht in den Konzernabschluss einbezogen werden, jeweils gesondert anzugeben;
+der Gesamtbetrag der sonstigen finanziellen Verpflichtungen, die nicht in der Konzernbilanz enthalten sind und die nicht nach § 298 Absatz 1 in Verbindung mit § 268 Absatz 7 oder nach Nummer 2 anzugeben sind, sofern diese Angabe für die Beurteilung der Finanzlage des Konzerns von Bedeutung ist; davon sind Verpflichtungen betreffend die Altersversorgung sowie Verpflichtungen gegenüber Tochterunternehmen, die nicht in den Konzernabschluss einbezogen werden, oder gegenüber assoziierten Unternehmen jeweils gesondert anzugeben;
 
 3.  
-die Aufgliederung der Umsatzerlöse nach Tätigkeitsbereichen sowie nach geographisch bestimmten Märkten, soweit sich, unter Berücksichtigung der Organisation des Verkaufs von für die gewöhnliche Geschäftstätigkeit des Konzerns typischen Erzeugnissen und der für die gewöhnliche Geschäftstätigkeit des Konzerns typischen Dienstleistungen, die Tätigkeitsbereiche und geographisch bestimmten Märkte untereinander erheblich unterscheiden;
+die Aufgliederung der Umsatzerlöse des Konzerns nach Tätigkeitsbereichen sowie nach geografisch bestimmten Märkten, soweit sich unter Berücksichtigung der Organisation des Verkaufs, der Vermietung oder Verpachtung von Produkten und der Erbringung von Dienstleistungen des Konzerns die Tätigkeitsbereiche und geografisch bestimmten Märkte untereinander erheblich unterscheiden;
 
 4.  
-die durchschnittliche Zahl der Arbeitnehmer der in den Konzernabschluß einbezogenen Unternehmen während des Geschäftsjahrs, getrennt nach Gruppen, sowie der in dem Geschäftsjahr verursachte Personalaufwand, sofern er nicht gesondert in der Konzern-Gewinn- und Verlustrechnung ausgewiesen ist; die durchschnittliche Zahl der Arbeitnehmer von nach § 310 nur anteilmäßig einbezogenen Unternehmen ist gesondert anzugeben;
+die durchschnittliche Zahl der Arbeitnehmer der in den Konzernabschluss einbezogenen Unternehmen während des Geschäftsjahrs, getrennt nach Gruppen und gesondert für die nach § 310 nur anteilmäßig konsolidierten Unternehmen, sowie, falls er nicht gesondert in der Konzern-Gewinn- und Verlustrechnung ausgewiesen ist, der in dem Geschäftsjahr entstandene gesamte Personalaufwand, aufgeschlüsselt nach Löhnen und Gehältern, Kosten der sozialen Sicherheit und Kosten der Altersversorgung;
 
 5.  
 (weggefallen)
@@ -3298,10 +3525,16 @@ b)
 die für die Wahrnehmung ihrer Aufgaben im Mutterunternehmen und den Tochterunternehmen gewährten Gesamtbezüge (Abfindungen, Ruhegehälter, Hinterbliebenenbezüge und Leistungen verwandter Art) der früheren Mitglieder der bezeichneten Organe und ihrer Hinterbliebenen; Buchstabe a Satz 2 und 3 ist entsprechend anzuwenden. Ferner ist der Betrag der für diese Personengruppe gebildeten Rückstellungen für laufende Pensionen und Anwartschaften auf Pensionen und der Betrag der für diese Verpflichtungen nicht gebildeten Rückstellungen anzugeben;
 
 c)  
-die vom Mutterunternehmen und den Tochterunternehmen gewährten Vorschüsse und Kredite unter Angabe der Zinssätze, der wesentlichen Bedingungen und der gegebenenfalls im Geschäftsjahr zurückgezahlten Beträge sowie die zugunsten dieser Personengruppen eingegangenen Haftungsverhältnisse;
+die vom Mutterunternehmen und den Tochterunternehmen gewährten Vorschüsse und Kredite unter Angabe der gegebenenfalls im Geschäftsjahr zurückgezahlten oder erlassenen Beträge sowie die zugunsten dieser Personen eingegangenen Haftungsverhältnisse;
 
 7.  
 der Bestand an Anteilen an dem Mutterunternehmen, die das Mutterunternehmen oder ein Tochterunternehmen oder ein anderer für Rechnung eines in den Konzernabschluß einbezogenen Unternehmens erworben oder als Pfand genommen hat; dabei sind die Zahl und der Nennbetrag oder rechnerische Wert dieser Anteile sowie deren Anteil am Kapital anzugeben;
+
+7a.  
+die Zahl der Aktien jeder Gattung der während des Geschäftsjahrs im Rahmen des genehmigten Kapitals gezeichneten Aktien des Mutterunternehmens, wobei zu Nennbetragsaktien der Nennbetrag und zu Stückaktien der rechnerische Wert für jede von ihnen anzugeben ist;
+
+7b.  
+das Bestehen von Genussscheinen, Wandelschuldverschreibungen, Optionsscheinen, Optionen oder vergleichbaren Wertpapieren oder Rechten, aus denen das Mutterunternehmen verpflichtet ist, unter Angabe der Anzahl und der Rechte, die sie verbriefen;
 
 8.  
 für jedes in den Konzernabschluss einbezogene börsennotierte Unternehmen, dass die nach § 161 des Aktiengesetzes vorgeschriebene Erklärung abgegeben und wo sie öffentlich zugänglich gemacht worden ist;
@@ -3322,7 +3555,7 @@ d)
 sonstige Leistungen;
 
 10.  
-für zu den Finanzanlagen (§ 266 Abs. 2 A. III.) gehörende Finanzinstrumente, die in der Konzernbilanz über ihrem beizulegenden Zeitwert ausgewiesen werden, da eine außerplanmäßige Abschreibung gemäß § 253 Abs. 3 Satz 4 unterblieben ist,
+für zu den Finanzanlagen (§ 266 Abs. 2 A. III.) gehörende Finanzinstrumente, die in der Konzernbilanz über ihrem beizulegenden Zeitwert ausgewiesen werden, da eine außerplanmäßige Abschreibung gemäß § 253 Absatz 3 Satz 6 unterblieben ist,
 
 a)  
 der Buchwert und der beizulegende Zeitwert der einzelnen Vermögensgegenstände oder angemessener Gruppierungen sowie
@@ -3355,7 +3588,7 @@ b)
 Umfang und Art jeder Kategorie derivativer Finanzinstrumente einschließlich der wesentlichen Bedingungen, welche die Höhe, den Zeitpunkt und die Sicherheit künftiger Zahlungsströme beeinflussen können;
 
 13.  
-zumindest die nicht zu marktüblichen Bedingungen zustande gekommenen Geschäfte des Mutterunternehmens und seiner Tochterunternehmen, soweit sie wesentlich sind, mit nahe stehenden Unternehmen und Personen, einschließlich Angaben zur Art der Beziehung, zum Wert der Geschäfte sowie weiterer Angaben, die für die Beurteilung der Finanzlage des Konzerns notwendig sind; ausgenommen sind Geschäfte mit und zwischen mittel- oder unmittelbar in 100-prozentigem Anteilsbesitz stehenden in einen Konzernabschluss einbezogenen Unternehmen; Angaben über Geschäfte können nach Geschäftsarten zusammengefasst werden, sofern die getrennte Angabe für die Beurteilung der Auswirkungen auf die Finanzlage des Konzerns nicht notwendig ist;
+zumindest die nicht zu marktüblichen Bedingungen zustande gekommenen Geschäfte des Mutterunternehmens und seiner Tochterunternehmen, soweit sie wesentlich sind, mit nahe stehenden Unternehmen und Personen, einschließlich Angaben zur Art der Beziehung, zum Wert der Geschäfte sowie weiterer Angaben, die für die Beurteilung der Finanzlage des Konzerns notwendig sind; ausgenommen sind Geschäfte zwischen in einen Konzernabschluss einbezogenen nahestehenden Unternehmen, wenn diese Geschäfte bei der Konsolidierung weggelassen werden; Angaben über Geschäfte können nach Geschäftsarten zusammengefasst werden, sofern die getrennte Angabe für die Beurteilung der Auswirkungen auf die Finanzlage des Konzerns nicht notwendig ist;
 
 14.  
 im Fall der Aktivierung nach § 248 Abs. 2 der Gesamtbetrag der Forschungs- und Entwicklungskosten des Geschäftsjahres der in den Konzernabschluss einbezogenen Unternehmen sowie der davon auf die selbst geschaffenen immateriellen Vermögensgegenstände des Anlagevermögens entfallende Betrag;
@@ -3381,34 +3614,50 @@ zu den in der Konzernbilanz ausgewiesenen Rückstellungen für Pensionen und äh
 im Fall der Verrechnung von in der Konzernbilanz ausgewiesenen Vermögensgegenständen und Schulden nach § 246 Abs. 2 Satz 2 die Anschaffungskosten und der beizulegende Zeitwert der verrechneten Vermögensgegenstände, der Erfüllungsbetrag der verrechneten Schulden sowie die verrechneten Aufwendungen und Erträge; Nummer 12 Buchstabe a ist entsprechend anzuwenden;
 
 18.  
-zu den in der Konzernbilanz ausgewiesenen Anteilen an Sondervermögen im Sinn des § 1 Absatz 10 des Kapitalanlagegesetzbuchs oder Anlageaktien an Investmentaktiengesellschaften mit veränderlichem Kapital im Sinn der §§ 108 bis 123 des Kapitalanlagegesetzbuchs oder vergleichbaren EU-Investmentvermögen oder vergleichbaren ausländischen Investmentvermögen von mehr als dem zehnten Teil, aufgegliedert nach Anlagezielen, deren Wert im Sinn der §§ 168, 278 des Kapitalanlagegesetzbuchs oder des § 36 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung oder vergleichbarer ausländischer Vorschriften über die Ermittlung des Marktwertes, die Differenz zum Buchwert und die für das Geschäftsjahr erfolgte Ausschüttung sowie Beschränkungen in der Möglichkeit der täglichen Rückgabe; darüber hinaus die Gründe dafür, dass eine Abschreibung gemäß § 253 Abs. 3 Satz 4 unterblieben ist, einschließlich der Anhaltspunkte, die darauf hindeuten, dass die Wertminderung voraussichtlich nicht von Dauer ist; Nummer 10 ist insoweit nicht anzuwenden;
+zu den in der Konzernbilanz ausgewiesenen Anteilen an Sondervermögen im Sinn des § 1 Absatz 10 des Kapitalanlagegesetzbuchs oder Anlageaktien an Investmentaktiengesellschaften mit veränderlichem Kapital im Sinn der §§ 108 bis 123 des Kapitalanlagegesetzbuchs oder vergleichbaren EU-Investmentvermögen oder vergleichbaren ausländischen Investmentvermögen von mehr als dem zehnten Teil, aufgegliedert nach Anlagezielen, deren Wert im Sinn der §§ 168, 278 des Kapitalanlagegesetzbuchs oder des § 36 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung oder vergleichbarer ausländischer Vorschriften über die Ermittlung des Marktwertes, die Differenz zum Buchwert und die für das Geschäftsjahr erfolgte Ausschüttung sowie Beschränkungen in der Möglichkeit der täglichen Rückgabe; darüber hinaus die Gründe dafür, dass eine Abschreibung gemäß § 253 Absatz 3 Satz 6 unterblieben ist, einschließlich der Anhaltspunkte, die darauf hindeuten, dass die Wertminderung voraussichtlich nicht von Dauer ist; Nummer 10 ist insoweit nicht anzuwenden;
 
 19.  
-für nach § 251 unter der Bilanz oder nach § 268 Abs. 7 Halbsatz 1 im Anhang ausgewiesene Verbindlichkeiten und Haftungsverhältnisse die Gründe der Einschätzung des Risikos der Inanspruchnahme;
+für nach § 268 Abs. 7 im Konzernanhang ausgewiesene Verbindlichkeiten und Haftungsverhältnisse die Gründe der Einschätzung des Risikos der Inanspruchnahme;
 
 20.  
-die Gründe, welche die Annahme einer betrieblichen Nutzungsdauer eines in der Konzernbilanz ausgewiesenen entgeltlich erworbenen Geschäfts- oder Firmenwertes aus der Kapitalkonsolidierung von mehr als fünf Jahren rechtfertigen;
+jeweils eine Erläuterung des Zeitraums, über den ein entgeltlich erworbener Geschäfts- oder Firmenwert abgeschrieben wird;
 
 21.  
-auf welchen Differenzen oder steuerlichen Verlustvorträgen die latenten Steuern beruhen und mit welchen Steuersätzen die Bewertung erfolgt ist.
+auf welchen Differenzen oder steuerlichen Verlustvorträgen die latenten Steuern beruhen und mit welchen Steuersätzen die Bewertung erfolgt ist;
 
-(2) Mutterunternehmen, die den Konzernabschluss um eine Segmentberichterstattung erweitern (§ 297 Abs. 1 Satz 2), sind von der Angabepflicht gemäß Absatz 1 Nr. 3 befreit. Für die Angabepflicht gemäß Absatz 1 Nr. 6 Buchstabe a Satz 5 bis 8 gilt § 286 Abs. 5 entsprechend.
+22.  
+wenn latente Steuerschulden in der Konzernbilanz angesetzt werden, die latenten Steuersalden am Ende des Geschäftsjahrs und die im Laufe des Geschäftsjahrs erfolgten Änderungen dieser Salden;
+
+23.  
+jeweils den Betrag und die Art der einzelnen Erträge und Aufwendungen von außergewöhnlicher Größenordnung oder außergewöhnlicher Bedeutung, soweit die Beträge nicht von untergeordneter Bedeutung sind;
+
+24.  
+eine Erläuterung der einzelnen Erträge und Aufwendungen hinsichtlich ihres Betrages und ihrer Art, die einem anderen Konzerngeschäftsjahr zuzurechnen sind, soweit die Beträge für die Beurteilung der Vermögens-, Finanz- und Ertragslage des Konzerns nicht von untergeordneter Bedeutung sind;
+
+25.  
+Vorgänge von besonderer Bedeutung, die nach dem Schluss des Konzerngeschäftsjahrs eingetreten und weder in der Konzern-Gewinn- und Verlustrechnung noch in der Konzernbilanz berücksichtigt sind, unter Angabe ihrer Art und ihrer finanziellen Auswirkungen;
+
+26.  
+der Vorschlag für die Verwendung des Ergebnisses des Mutterunternehmens oder gegebenenfalls der Beschluss über die Verwendung des Ergebnisses des Mutterunternehmens.
+
+(2) Mutterunternehmen, die den Konzernabschluss um eine Segmentberichterstattung erweitern (§ 297 Abs. 1 Satz 2), sind von der Angabepflicht gemäß Absatz 1 Nr. 3 befreit.
+
+(3) Für die Angabepflicht gemäß Absatz 1 Nr. 6 Buchstabe a Satz 5 bis 8 gilt § 286 Abs. 5 entsprechend. Für die Angabepflicht gemäß Absatz 1 Nummer 6 Buchstabe a und b gilt § 286 Absatz 4 entsprechend.
+
+(+++ § 314: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 Neunter Titel Konzernlagebericht
 --------------------------------
 
 ### 
 
-### § 315
+### § 315 Inhalt des Konzernlageberichts
 
 (1) Im Konzernlagebericht sind der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage des Konzerns so darzustellen, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird. Er hat eine ausgewogene und umfassende, dem Umfang und der Komplexität der Geschäftstätigkeit entsprechende Analyse des Geschäftsverlaufs und der Lage des Konzerns zu enthalten. In die Analyse sind die für die Geschäftstätigkeit bedeutsamsten finanziellen Leistungsindikatoren einzubeziehen und unter Bezugnahme auf die im Konzernabschluss ausgewiesenen Beträge und Angaben zu erläutern. Satz 3 gilt entsprechend für nichtfinanzielle Leistungsindikatoren, wie Informationen über Umwelt- und Arbeitnehmerbelange, soweit sie für das Verständnis des Geschäftsverlaufs oder der Lage von Bedeutung sind. Ferner ist im Konzernlagebericht die voraussichtliche Entwicklung mit ihren wesentlichen Chancen und Risiken zu beurteilen und zu erläutern; zugrunde liegende Annahmen sind anzugeben. Die gesetzlichen Vertreter eines Mutterunternehmens im Sinne des § 297 Abs. 2 Satz 4 haben zu versichern, dass nach bestem Wissen im Konzernlagebericht der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage des Konzerns so dargestellt sind, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird, und dass die wesentlichen Chancen und Risiken im Sinne des Satzes 5 beschrieben sind.
 
-(2) Der Konzernlagebericht soll auch eingehen auf:
+(2) Im Konzernlagebericht ist auch einzugehen auf:
 
 1.  
-Vorgänge von besonderer Bedeutung, die nach dem Schluß des Konzerngeschäftsjahrs eingetreten sind;
-
-2.  
 a)  
 die Risikomanagementziele und -methoden des Konzerns einschließlich seiner Methoden zur Absicherung aller wichtigen Arten von Transaktionen, die im Rahmen der Bilanzierung von Sicherungsgeschäften erfasst werden, sowie
 
@@ -3417,8 +3666,11 @@ die Preisänderungs-, Ausfall- und Liquiditätsrisiken sowie die Risiken aus Zah
 
 jeweils in Bezug auf die Verwendung von Finanzinstrumenten durch den Konzern und sofern dies für die Beurteilung der Lage oder der voraussichtlichen Entwicklung von Belang ist;
 
-3.  
+2.  
 den Bereich Forschung und Entwicklung des Konzerns;
+
+3.  
+für das Verständnis der Lage des Konzerns wesentliche Zweigniederlassungen der insgesamt in den Konzernabschluss einbezogenen Unternehmen;
 
 4.  
 die Grundzüge des Vergütungssystems für die in § 314 Abs. 1 Nr. 6 genannten Gesamtbezüge, soweit das Mutterunternehmen eine börsennotierte Aktiengesellschaft ist. Werden dabei auch Angaben entsprechend § 314 Abs. 1 Nr. 6 Buchstabe a Satz 5 bis 8 gemacht, können diese im Konzernanhang unterbleiben;
@@ -3426,7 +3678,7 @@ die Grundzüge des Vergütungssystems für die in § 314 Abs. 1 Nr. 6 genannten 
 5.  
 die wesentlichen Merkmale des internen Kontroll- und des Risikomanagementsystems im Hinblick auf den Konzernrechnungslegungsprozess, sofern eines der in den Konzernabschluss einbezogenen Tochterunternehmen oder das Mutterunternehmen kapitalmarktorientiert im Sinn des § 264d ist.
 
-(3) § 298 Abs. 3 über die Zusammenfassung von Konzernanhang und Anhang ist entsprechend anzuwenden.
+(3) § 298 Absatz 2 über die Zusammenfassung von Konzernanhang und Anhang ist entsprechend anzuwenden.
 
 (4) Mutterunternehmen, die einen organisierten Markt im Sinne des § 2 Abs. 7 des Wertpapiererwerbs- und Übernahmegesetzes durch von ihnen ausgegebene stimmberechtigte Aktien in Anspruch nehmen, haben im Konzernlagebericht anzugeben:
 
@@ -3459,6 +3711,10 @@ Entschädigungsvereinbarungen des Mutterunternehmens, die für den Fall eines Ü
 
 Sind Angaben nach Satz 1 im Konzernanhang zu machen, ist im Konzernlagebericht darauf zu verweisen.
 
+(5) Ein Mutterunternehmen im Sinne des § 289a Absatz 1 hat für den Konzern eine Erklärung zur Unternehmensführung zu erstellen und als gesonderten Abschnitt in den Konzernlagebericht aufzunehmen. § 289a ist entsprechend anzuwenden.
+
+(+++ § 315: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+
 Zehnter Titel Konzernabschluss nach internationalen Rechnungslegungsstandards
 -----------------------------------------------------------------------------
 
@@ -3466,11 +3722,13 @@ Zehnter Titel Konzernabschluss nach internationalen Rechnungslegungsstandards
 
 ### § 315a
 
-(1) Ist ein Mutterunternehmen, das nach den Vorschriften des Ersten Titels einen Konzernabschluss aufzustellen hat, nach Artikel 4 der Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des Rates vom 19. Juli 2002 in der jeweils geltenden Fassung verpflichtet, die nach den Artikeln 2, 3 und 6 der genannten Verordnung übernommenen internationalen Rechnungslegungsstandards anzuwenden, so sind von den Vorschriften des Zweiten bis Achten Titels nur § 294 Abs. 3, § 297 Abs. 2 Satz 4, § 298 Abs. 1, dieser jedoch nur in Verbindung mit den §§ 244 und 245, ferner § 313 Abs. 2 und 3, § 314 Abs. 1 Nr. 4, 6, 8 und 9, Abs. 2 Satz 2 sowie die Bestimmungen des Neunten Titels und die Vorschriften außerhalb dieses Unterabschnitts, die den Konzernabschluss oder den Konzernlagebericht betreffen, anzuwenden.
+(1) Ist ein Mutterunternehmen, das nach den Vorschriften des Ersten Titels einen Konzernabschluss aufzustellen hat, nach Artikel 4 der Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des Rates vom 19. Juli 2002 in der jeweils geltenden Fassung verpflichtet, die nach den Artikeln 2, 3 und 6 der genannten Verordnung übernommenen internationalen Rechnungslegungsstandards anzuwenden, so sind von den Vorschriften des Zweiten bis Achten Titels nur § 294 Abs. 3, § 297 Absatz 1a, 2 Satz 4, § 298 Abs. 1, dieser jedoch nur in Verbindung mit den §§ 244 und 245, ferner § 313 Abs. 2 und 3, § 314 Abs. 1 Nr. 4, 6, 8 und 9, Absatz 3 sowie die Bestimmungen des Neunten Titels und die Vorschriften außerhalb dieses Unterabschnitts, die den Konzernabschluss oder den Konzernlagebericht betreffen, entsprechend anzuwenden.
 
-(2) Mutterunternehmen, die nicht unter Absatz 1 fallen, haben ihren Konzernabschluss nach den dort genannten internationalen Rechnungslegungsstandards und Vorschriften aufzustellen, wenn für sie bis zum jeweiligen Bilanzstichtag die Zulassung eines Wertpapiers im Sinne des § 2 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes zum Handel an einem organisierten Markt im Sinne des § 2 Abs. 5 des Wertpapierhandelsgesetzes im Inland beantragt worden ist.
+(2) Mutterunternehmen, die nicht unter Absatz 1 fallen, haben ihren Konzernabschluss nach den dort genannten internationalen Rechnungslegungsstandards und Vorschriften aufzustellen, wenn für sie bis zum jeweiligen Bilanzstichtag die Zulassung eines Wertpapiers im Sinne des § 2 Absatz 1 des Wertpapierhandelsgesetzes zum Handel an einem organisierten Markt im Sinne des § 2 Abs. 5 des Wertpapierhandelsgesetzes im Inland beantragt worden ist.
 
 (3) Mutterunternehmen, die nicht unter Absatz 1 oder 2 fallen, dürfen ihren Konzernabschluss nach den in Absatz 1 genannten internationalen Rechnungslegungsstandards und Vorschriften aufstellen. Ein Unternehmen, das von diesem Wahlrecht Gebrauch macht, hat die in Absatz 1 genannten Standards und Vorschriften vollständig zu befolgen.
+
+(+++ § 315a: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 Dritter Unterabschnitt Prüfung
 ------------------------------
@@ -3489,23 +3747,41 @@ Dritter Unterabschnitt Prüfung
 
 (1) In die Prüfung des Jahresabschlusses ist die Buchführung einzubeziehen. Die Prüfung des Jahresabschlusses und des Konzernabschlusses hat sich darauf zu erstrecken, ob die gesetzlichen Vorschriften und sie ergänzende Bestimmungen des Gesellschaftsvertrags oder der Satzung beachtet worden sind. Die Prüfung ist so anzulegen, daß Unrichtigkeiten und Verstöße gegen die in Satz 2 aufgeführten Bestimmungen, die sich auf die Darstellung des sich nach § 264 Abs. 2 ergebenden Bildes der Vermögens-, Finanz- und Ertragslage des Unternehmens wesentlich auswirken, bei gewissenhafter Berufsausübung erkannt werden.
 
-(2) Der Lagebericht und der Konzernlagebericht sind darauf zu prüfen, ob der Lagebericht mit dem Jahresabschluß, gegebenenfalls auch mit dem Einzelabschluss nach § 325 Abs. 2a, und der Konzernlagebericht mit dem Konzernabschluß sowie mit den bei der Prüfung gewonnenen Erkenntnissen des Abschlußprüfers in Einklang stehen und ob der Lagebericht insgesamt eine zutreffende Vorstellung von der Lage des Unternehmens und der Konzernlagebericht insgesamt eine zutreffende Vorstellung von der Lage des Konzerns vermittelt. Dabei ist auch zu prüfen, ob die Chancen und Risiken der künftigen Entwicklung zutreffend dargestellt sind. Die Angaben nach § 289a sind nicht in die Prüfung einzubeziehen.
+(2) Der Lagebericht und der Konzernlagebericht sind darauf zu prüfen, ob der Lagebericht mit dem Jahresabschluß, gegebenenfalls auch mit dem Einzelabschluss nach § 325 Abs. 2a, und der Konzernlagebericht mit dem Konzernabschluß sowie mit den bei der Prüfung gewonnenen Erkenntnissen des Abschlußprüfers in Einklang stehen und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage des Unternehmens und der Konzernlagebericht insgesamt ein zutreffendes Bild von der Lage des Konzerns vermittelt. Dabei ist auch zu prüfen, ob die Chancen und Risiken der künftigen Entwicklung zutreffend dargestellt sind. Die Prüfung des Lageberichts und des Konzernlageberichts hat sich auch darauf zu erstrecken, ob die gesetzlichen Vorschriften zur Aufstellung des Lage- oder Konzernlageberichts beachtet worden sind. Die Angaben nach § 289a Absatz 2 und § 315 Absatz 5 sind nicht in die Prüfung einzubeziehen; insoweit ist im Rahmen der Prüfung lediglich festzustellen, ob diese Angaben gemacht wurden.
 
 (3) Der Abschlußprüfer des Konzernabschlusses hat auch die im Konzernabschluß zusammengefaßten Jahresabschlüsse, insbesondere die konsolidierungsbedingten Anpassungen, in entsprechender Anwendung des Absatzes 1 zu prüfen. Sind diese Jahresabschlüsse von einem anderen Abschlussprüfer geprüft worden, hat der Konzernabschlussprüfer dessen Arbeit zu überprüfen und dies zu dokumentieren.
 
+(3a) Auf die Abschlussprüfung bei Unternehmen, die kapitalmarktorientiert im Sinne des § 264d sind, sind die Vorschriften dieses Unterabschnitts nur insoweit anzuwenden, als nicht die Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) anzuwenden ist.
+
 (4) Bei einer börsennotierten Aktiengesellschaft ist außerdem im Rahmen der Prüfung zu beurteilen, ob der Vorstand die ihm nach § 91 Abs. 2 des Aktiengesetzes obliegenden Maßnahmen in einer geeigneten Form getroffen hat und ob das danach einzurichtende Überwachungssystem seine Aufgaben erfüllen kann.
 
-(5) Bei der Durchführung einer Prüfung hat der Abschlussprüfer die internationalen Prüfungsstandards anzuwenden, die von der Europäischen Kommission in dem Verfahren nach Artikel 26 Abs. 1 der Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Abschlussprüfungen von Jahresabschlüssen und konsolidierten Abschlüssen, zur Änderung der Richtlinien 78/660/EWG und 83/349/EWG des Rates und zur Aufhebung der Richtlinie 84/253/EWG des Rates (ABl. EU Nr. L 157 S. 87) angenommen worden sind.
+(4a) Soweit nichts anderes bestimmt ist, hat die Prüfung sich nicht darauf zu erstrecken, ob der Fortbestand des geprüften Unternehmens oder die Wirksamkeit und Wirtschaftlichkeit der Geschäftsführung zugesichert werden kann.
 
-(6) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zusätzlich zu den bei der Durchführung der Abschlussprüfung nach Absatz 5 anzuwendenden internationalen Prüfungsstandards weitere Abschlussprüfungsanforderungen oder die Nichtanwendung von Teilen der internationalen Prüfungsstandards vorzuschreiben, wenn dies durch den Umfang der Abschlussprüfung bedingt ist und den in den Absätzen 1 bis 4 genannten Prüfungszielen dient.
+(5) Bei der Durchführung einer Prüfung hat der Abschlussprüfer die internationalen Prüfungsstandards anzuwenden, die von der Europäischen Kommission in dem Verfahren nach Artikel 26 Absatz 3 der Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Abschlussprüfungen von Jahresabschlüssen und konsolidierten Abschlüssen, zur Änderung der Richtlinien 78/660/EWG und 83/349/EWG des Rates und zur Aufhebung der Richtlinie 84/253/EWG des Rates (ABl. EU Nr. L 157 S. 87), die zuletzt durch die Richtlinie 2014/56/EU (ABl. L 158 vom 27.5.2014, S. 196) geändert worden ist, angenommen worden sind.
+
+(6) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zusätzlich zu den bei der Durchführung der Abschlussprüfung nach Absatz 5 anzuwendenden internationalen Prüfungsstandards weitere Abschlussprüfungsanforderungen vorzuschreiben, wenn dies durch den Umfang der Abschlussprüfung bedingt ist und den in den Absätzen 1 bis 4 genannten Prüfungszielen dient.
+
+(+++ § 317: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 318 Bestellung und Abberufung des Abschlußprüfers
 
 (1) Der Abschlußprüfer des Jahresabschlusses wird von den Gesellschaftern gewählt; den Abschlußprüfer des Konzernabschlusses wählen die Gesellschafter des Mutterunternehmens. Bei Gesellschaften mit beschränkter Haftung und bei offenen Handelsgesellschaften und Kommanditgesellschaften im Sinne des § 264a Abs. 1 kann der Gesellschaftsvertrag etwas anderes bestimmen. Der Abschlußprüfer soll jeweils vor Ablauf des Geschäftsjahrs gewählt werden, auf das sich seine Prüfungstätigkeit erstreckt. Die gesetzlichen Vertreter, bei Zuständigkeit des Aufsichtsrats dieser, haben unverzüglich nach der Wahl den Prüfungsauftrag zu erteilen. Der Prüfungsauftrag kann nur widerrufen werden, wenn nach Absatz 3 ein anderer Prüfer bestellt worden ist.
 
+(1a) Die Höchstlaufzeit des Prüfungsmandats nach Artikel 17 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 537/2014 verlängert sich auf 20 Jahre, wenn der Wahl für das elfte Geschäftsjahr in Folge, auf das sich die Prüfungstätigkeit des Abschlussprüfers erstreckt, ein im Einklang mit Artikel 16 Absatz 2 bis 5 der Verordnung (EU) Nr. 537/2014 durchgeführtes Auswahl- und Vorschlagsverfahren vorausgeht. Werden ab dem in Satz 1 genannten elften Geschäftsjahr mehrere Wirtschaftsprüfer oder Wirtschaftsprüfungsgesellschaften gemeinsam zum Abschlussprüfer bestellt, verlängert sich die Höchstlaufzeit des Prüfungsmandats gemäß Artikel 17 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 537/2014 auf 24 Jahre.
+
+(1b) Eine Vereinbarung, die die Wahlmöglichkeiten nach Absatz 1 auf bestimmte Kategorien oder Listen von Prüfern oder Prüfungsgesellschaften beschränkt, ist nichtig.
+
 (2) Als Abschlußprüfer des Konzernabschlusses gilt, wenn kein anderer Prüfer bestellt wird, der Prüfer als bestellt, der für die Prüfung des in den Konzernabschluß einbezogenen Jahresabschlusses des Mutterunternehmens bestellt worden ist. Erfolgt die Einbeziehung auf Grund eines Zwischenabschlusses, so gilt, wenn kein anderer Prüfer bestellt wird, der Prüfer als bestellt, der für die Prüfung des letzten vor dem Konzernabschlußstichtag aufgestellten Jahresabschlusses des Mutterunternehmens bestellt worden ist.
 
-(3) Auf Antrag der gesetzlichen Vertreter, des Aufsichtsrats oder von Gesellschaftern, bei Aktiengesellschaften und Kommanditgesellschaften auf Aktien jedoch nur, wenn die Anteile dieser Gesellschafter bei Antragstellung zusammen den zwanzigsten Teil des Grundkapitals oder einen Börsenwert von 500 000 Euro erreichen, hat das Gericht nach Anhörung der Beteiligten und des gewählten Prüfers einen anderen Abschlussprüfer zu bestellen, wenn dies aus einem in der Person des gewählten Prüfers liegenden Grund geboten erscheint, insbesondere wenn ein Ausschlussgrund nach § 319 Abs. 2 bis 5 oder §§ 319a und 319b besteht. Der Antrag ist binnen zwei Wochen nach dem Tag der Wahl des Abschlussprüfers zu stellen; Aktionäre können den Antrag nur stellen, wenn sie gegen die Wahl des Abschlussprüfers bei der Beschlussfassung Widerspruch erklärt haben. Wird ein Befangenheitsgrund erst nach der Wahl bekannt oder tritt ein Befangenheitsgrund erst nach der Wahl ein, ist der Antrag binnen zwei Wochen nach dem Tag zu stellen, an dem der Antragsberechtigte Kenntnis von den befangenheitsbegründenden Umständen erlangt hat oder ohne grobe Fahrlässigkeit hätte erlangen müssen. Stellen Aktionäre den Antrag, so haben sie glaubhaft zu machen, dass sie seit mindestens drei Monaten vor dem Tag der Wahl des Abschlussprüfers Inhaber der Aktien sind. Zur Glaubhaftmachung genügt eine eidesstattliche Versicherung vor einem Notar. Unterliegt die Gesellschaft einer staatlichen Aufsicht, so kann auch die Aufsichtsbehörde den Antrag stellen. Der Antrag kann nach Erteilung des Bestätigungsvermerks, im Fall einer Nachtragsprüfung nach § 316 Abs. 3 nach Ergänzung des Bestätigungsvermerks nicht mehr gestellt werden. Gegen die Entscheidung ist die Beschwerde zulässig.
+(3) Auf Antrag der gesetzlichen Vertreter, des Aufsichtsrats oder von Gesellschaftern, deren Anteile bei Antragstellung zusammen den zwanzigsten Teil der Stimmrechte oder des Grundkapitals oder einen Börsenwert von 500 000 Euro erreichen, hat das Gericht nach Anhörung der Beteiligten und des gewählten Prüfers einen anderen Abschlussprüfer zu bestellen, wenn
+
+1.  
+dies aus einem in der Person des gewählten Prüfers liegenden Grund geboten erscheint, insbesondere, wenn ein Ausschlussgrund nach § 319 Absatz 2 bis 5 oder nach den §§ 319a und 319b besteht oder ein Verstoß gegen Artikel 5 Absatz 4 Unterabsatz 1 oder Absatz 5 Unterabsatz 2 Satz 2 der Verordnung (EU) Nr. 537/2014 vorliegt, oder
+
+2.  
+die Vorschriften zur Bestellung des Prüfers nach Artikel 16 der Verordnung (EU) Nr. 537/2014 oder die Vorschriften zur Laufzeit des Prüfungsmandats nach Artikel 17 der Verordnung (EU) Nr. 527/2014 nicht eingehalten worden sind.
+
+Der Antrag ist binnen zwei Wochen nach dem Tag der Wahl des Abschlussprüfers zu stellen; Aktionäre können den Antrag nur stellen, wenn sie gegen die Wahl des Abschlussprüfers bei der Beschlussfassung Widerspruch erklärt haben. Wird ein Befangenheitsgrund erst nach der Wahl bekannt oder tritt ein Befangenheitsgrund erst nach der Wahl ein, ist der Antrag binnen zwei Wochen nach dem Tag zu stellen, an dem der Antragsberechtigte Kenntnis von den befangenheitsbegründenden Umständen erlangt hat oder ohne grobe Fahrlässigkeit hätte erlangen müssen. Stellen Aktionäre den Antrag, so haben sie glaubhaft zu machen, dass sie seit mindestens drei Monaten vor dem Tag der Wahl des Abschlussprüfers Inhaber der Aktien sind. Zur Glaubhaftmachung genügt eine eidesstattliche Versicherung vor einem Notar. Unterliegt die Gesellschaft einer staatlichen Aufsicht, so kann auch die Aufsichtsbehörde den Antrag stellen. Der Antrag kann nach Erteilung des Bestätigungsvermerks, im Fall einer Nachtragsprüfung nach § 316 Abs. 3 nach Ergänzung des Bestätigungsvermerks nicht mehr gestellt werden. Gegen die Entscheidung ist die Beschwerde zulässig.
 
 (4) Ist der Abschlußprüfer bis zum Ablauf des Geschäftsjahrs nicht gewählt worden, so hat das Gericht auf Antrag der gesetzlichen Vertreter, des Aufsichtsrats oder eines Gesellschafters den Abschlußprüfer zu bestellen. Gleiches gilt, wenn ein gewählter Abschlußprüfer die Annahme des Prüfungsauftrags abgelehnt hat, weggefallen ist oder am rechtzeitigen Abschluß der Prüfung verhindert ist und ein anderer Abschlußprüfer nicht gewählt worden ist. Die gesetzlichen Vertreter sind verpflichtet, den Antrag zu stellen. Gegen die Entscheidung des Gerichts findet die Beschwerde statt; die Bestellung des Abschlußprüfers ist unanfechtbar.
 
@@ -3519,9 +3795,9 @@ Dritter Unterabschnitt Prüfung
 
 ### § 319 Auswahl der Abschlussprüfer und Ausschlussgründe
 
-(1) Abschlussprüfer können Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften sein. Abschlussprüfer von Jahresabschlüssen und Lageberichten mittelgroßer Gesellschaften mit beschränkter Haftung (§ 267 Abs. 2) oder von mittelgroßen Personenhandelsgesellschaften im Sinne des § 264a Abs. 1 können auch vereidigte Buchprüfer und Buchprüfungsgesellschaften sein. Die Abschlussprüfer nach den Sätzen 1 und 2 müssen über eine wirksame Bescheinigung über die Teilnahme an der Qualitätskontrolle nach § 57a der Wirtschaftsprüferordnung verfügen, es sei denn, die Wirtschaftsprüferkammer hat eine Ausnahmegenehmigung erteilt.
+(1) Abschlussprüfer können Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften sein. Abschlussprüfer von Jahresabschlüssen und Lageberichten mittelgroßer Gesellschaften mit beschränkter Haftung (§ 267 Abs. 2) oder von mittelgroßen Personenhandelsgesellschaften im Sinne des § 264a Abs. 1 können auch vereidigte Buchprüfer und Buchprüfungsgesellschaften sein. Die Abschlussprüfer nach den Sätzen 1 und 2 müssen über einen Auszug aus dem Berufsregister verfügen, aus dem sich ergibt, dass die Eintragung nach § 38 Nummer 1 Buchstabe h oder Nummer 2 Buchstabe f der Wirtschaftsprüferordnung vorgenommen worden ist; Abschlussprüfer, die erstmalig eine gesetzlich vorgeschriebene Abschlussprüfung nach § 316 des Handelsgesetzbuchs durchführen, müssen spätestens sechs Wochen nach Annahme eines Prüfungsauftrages über den Auszug aus dem Berufsregister verfügen. Die Abschlussprüfer sind während einer laufenden Abschlussprüfung verpflichtet, eine Löschung der Eintragung unverzüglich gegenüber der Gesellschaft anzuzeigen.
 
-(2) Ein Wirtschaftsprüfer oder vereidigter Buchprüfer ist als Abschlussprüfer ausgeschlossen, wenn Gründe, insbesondere Beziehungen geschäftlicher, finanzieller oder persönlicher Art, vorliegen, nach denen die Besorgnis der Befangenheit besteht.
+(2) Ein Wirtschaftsprüfer oder vereidigter Buchprüfer ist als Abschlussprüfer ausgeschlossen, wenn während des Geschäftsjahres, für dessen Schluss der zu prüfende Jahresabschluss aufgestellt wird, oder während der Abschlussprüfung Gründe, insbesondere Beziehungen geschäftlicher, finanzieller oder persönlicher Art, vorliegen, nach denen die Besorgnis der Befangenheit besteht.
 
 (3) Ein Wirtschaftsprüfer oder vereidigter Buchprüfer ist insbesondere von der Abschlussprüfung ausgeschlossen, wenn er oder eine Person, mit der er seinen Beruf gemeinsam ausübt,
 
@@ -3562,23 +3838,24 @@ Dies gilt auch, wenn der Ehegatte oder der Lebenspartner einen Ausschlussgrund n
 
 ### § 319a Besondere Ausschlussgründe bei Unternehmen von öffentlichem Interesse
 
-(1) Ein Wirtschaftsprüfer ist über die in § 319 Abs. 2 und 3 genannten Gründe hinaus auch dann von der Abschlussprüfung eines Unternehmens, das kapitalmarktorientiert im Sinn des § 264d ist, ausgeschlossen, wenn er
+(1) Ein Wirtschaftsprüfer ist über die in § 319 Abs. 2 und 3 genannten Gründe hinaus auch dann von der Abschlussprüfung eines Unternehmens, das kapitalmarktorientiert im Sinn des § 264d, das CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder das Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG ist, ausgeschlossen, wenn er
 
 1.  
-in den letzten fünf Jahren jeweils mehr als fünfzehn vom Hundert der Gesamteinnahmen aus seiner beruflichen Tätigkeit von der zu prüfenden Kapitalgesellschaft oder von Unternehmen, an denen die zu prüfende Kapitalgesellschaft mehr als zwanzig vom Hundert der Anteile besitzt, bezogen hat und dies auch im laufenden Geschäftsjahr zu erwarten ist,
+(weggefallen)
 
 2.  
-in dem zu prüfenden Geschäftsjahr über die Prüfungstätigkeit hinaus Rechts- oder Steuerberatungsleistungen erbracht hat, die über das Aufzeigen von Gestaltungsalternativen hinausgehen und die sich auf die Darstellung der Vermögens-, Finanz- und Ertragslage in dem zu prüfenden Jahresabschluss unmittelbar und nicht nur unwesentlich auswirken,
+in dem Geschäftsjahr, für dessen Schluss der zu prüfende Jahresabschluss aufzustellen ist, über die Prüfungstätigkeit hinaus Steuerberatungsleistungen im Sinne des Artikels 5 Absatz 1 Unterabsatz 2 Buchstabe a Ziffer i und iv bis vii der Verordnung (EU) Nr. 537/2014 erbracht hat, die sich einzeln oder zusammen auf den zu prüfenden Jahresabschluss unmittelbar und nicht nur unwesentlich auswirken; eine nicht nur unwesentliche Auswirkung liegt insbesondere dann vor, wenn die Erbringung der Steuerberatungsleistungen im zu prüfenden Geschäftsjahr den für steuerliche Zwecke zu ermittelnden Gewinn im Inland erheblich gekürzt hat oder ein erheblicher Teil des Gewinns ins Ausland verlagert worden ist, ohne dass eine über die steuerliche Vorteilserlangung hinausgehende wirtschaftliche Notwendigkeit für das Unternehmen besteht, oder
 
 3.  
-über die Prüfungstätigkeit hinaus in dem zu prüfenden Geschäftsjahr an der Entwicklung, Einrichtung und Einführung von Rechnungslegungsinformationssystemen mitgewirkt hat, sofern diese Tätigkeit nicht von untergeordneter Bedeutung ist, oder
+in dem zu prüfenden Geschäftsjahr oder bis zur Erteilung des Bestätigungsvermerks über die Prüfungstätigkeit hinaus bei der zu prüfenden oder für die zu prüfende Kapitalgesellschaft Bewertungsleistungen im Sinne des Artikels 5 Absatz 1 Unterabsatz 2 Buchstabe f der Verordnung (EU) Nr. 537/2014 erbracht hat, die sich einzeln oder zusammen auf den zu prüfenden Jahresabschluss unmittelbar und nicht nur unwesentlich auswirken.
 
-4.  
-für die Abschlussprüfung bei dem Unternehmen bereits in sieben oder mehr Fällen verantwortlich war; dies gilt nicht, wenn seit seiner letzten Beteiligung an der Prüfung des Jahresabschlusses zwei oder mehr Jahre vergangen sind.
+§ 319 Abs. 3 Satz 1 Nr. 3 letzter Teilsatz, Satz 2 und Abs. 4 gilt für die in Satz 1 genannten Ausschlussgründe entsprechend. Satz 1 Nummer 2 und 3 gilt auch, wenn Personen, mit denen der Wirtschaftsprüfer seinen Beruf gemeinsam ausübt, die dort genannten Ausschlussgründe erfüllen; erbringt der Wirtschaftsprüfer Steuerberatungsleistungen im Sinne des Artikels 5 Absatz 1 Unterabsatz 2 Buchstabe a Ziffer i und iv bis vii der Verordnung (EU) Nr. 537/2014 oder Bewertungsleistungen im Sinne des Artikels 5 Absatz 1 Unterabsatz 2 Buchstabe f der Verordnung (EU) Nr. 537/2014, so hat er deren Auswirkungen auf den zu prüfenden Jahresabschluss im Prüfungsbericht darzustellen und zu erläutern. Verantwortlicher Prüfungspartner ist, wer den Bestätigungsvermerk nach § 322 unterzeichnet oder als Wirtschaftsprüfer von einer Wirtschaftsprüfungsgesellschaft als für die Durchführung einer Abschlussprüfung vorrangig verantwortlich bestimmt worden ist.
 
-§ 319 Abs. 3 Satz 1 Nr. 3 letzter Teilsatz, Satz 2 und Abs. 4 gilt für die in Satz 1 genannten Ausschlussgründe entsprechend. Satz 1 Nr. 1 bis 3 gilt auch, wenn Personen, mit denen der Wirtschaftsprüfer seinen Beruf gemeinsam ausübt, die dort genannten Ausschlussgründe erfüllen. Satz 1 Nr. 4 findet auf eine Wirtschaftsprüfungsgesellschaft mit der Maßgabe Anwendung, dass sie nicht Abschlussprüfer sein darf, wenn sie bei der Abschlussprüfung des Unternehmens einen Wirtschaftsprüfer beschäftigt, der als verantwortlicher Prüfungspartner nach Satz 1 Nr. 4 nicht Abschlussprüfer sein darf. Verantwortlicher Prüfungspartner ist, wer den Bestätigungsvermerk nach § 322 unterzeichnet oder als Wirtschaftsprüfer von einer Wirtschaftsprüfungsgesellschaft als für die Durchführung einer Abschlussprüfung vorrangig verantwortlich bestimmt worden ist.
+(1a) Auf Antrag des Abschlussprüfers kann die Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle diesen von den Anforderungen des Artikels 4 Absatz 2 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 ausnahmsweise für höchstens ein Geschäftsjahr ausnehmen, allerdings nur bis zu 140 Prozent des Durchschnitts der in Artikel 4 Absatz 2 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 genannten Honorare.
 
 (2) Absatz 1 ist auf den Abschlussprüfer des Konzernabschlusses entsprechend anzuwenden. Als verantwortlicher Prüfungspartner gilt auf Konzernebene auch, wer als Wirtschaftsprüfer auf der Ebene bedeutender Tochterunternehmen als für die Durchführung von deren Abschlussprüfung vorrangig verantwortlich bestimmt worden ist.
+
+(3) Der Prüfungsausschuss des Unternehmens muss der Erbringung von Steuerberatungsleistungen im Sinne des Artikels 5 Absatz 1 Unterabsatz 2 Buchstabe a Ziffer i und iv bis vii der Verordnung (EU) Nr. 537/2014 durch den Abschlussprüfer vorher zustimmen. Falls das Unternehmen keinen Prüfungsausschuss eingerichtet hat, muss die Zustimmung durch seinen Aufsichts- oder Verwaltungsrat erfolgen.
 
 ### § 319b Netzwerk
 
@@ -3596,9 +3873,11 @@ für die Abschlussprüfung bei dem Unternehmen bereits in sieben oder mehr Fäll
 
 (4) Der bisherige Abschlussprüfer hat dem neuen Abschlussprüfer auf schriftliche Anfrage über das Ergebnis der bisherigen Prüfung zu berichten; § 321 ist entsprechend anzuwenden.
 
+(5) Ist die Kapitalgesellschaft als Tochterunternehmen in den Konzernabschluss eines Mutterunternehmens einbezogen, das seinen Sitz nicht in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hat, kann der Prüfer nach Absatz 2 zur Verfügung gestellte Unterlagen an den Abschlussprüfer des Konzernabschlusses weitergeben, soweit diese für die Prüfung des Konzernabschlusses des Mutterunternehmens erforderlich sind. Für die Übermittlung personenbezogener Daten gelten § 4b Absatz 2 bis 6 und § 4c des Bundesdatenschutzgesetzes entsprechend.
+
 ### § 321 Prüfungsbericht
 
-(1) Der Abschlußprüfer hat über Art und Umfang sowie über das Ergebnis der Prüfung schriftlich und mit der gebotenen Klarheit zu berichten. In dem Bericht ist vorweg zu der Beurteilung der Lage des Unternehmens oder Konzerns durch die gesetzlichen Vertreter Stellung zu nehmen, wobei insbesondere auf die Beurteilung des Fortbestandes und der künftigen Entwicklung des Unternehmens unter Berücksichtigung des Lageberichts und bei der Prüfung des Konzernabschlusses von Mutterunternehmen auch des Konzerns unter Berücksichtigung des Konzernlageberichts einzugehen ist, soweit die geprüften Unterlagen und der Lagebericht oder der Konzernlagebericht eine solche Beurteilung erlauben. Außerdem hat der Abschlussprüfer über bei Durchführung der Prüfung festgestellte Unrichtigkeiten oder Verstöße gegen gesetzliche Vorschriften sowie Tatsachen zu berichten, die den Bestand des geprüften Unternehmens oder des Konzerns gefährden oder seine Entwicklung wesentlich beeinträchtigen können oder die schwerwiegende Verstöße der gesetzlichen Vertreter oder von Arbeitnehmern gegen Gesetz, Gesellschaftsvertrag oder die Satzung erkennen lassen.
+(1) Der Abschlußprüfer hat über Art und Umfang sowie über das Ergebnis der Prüfung zu berichten; auf den Bericht sind die Sätze 2 und 3 sowie die Absätze 2 bis 4a anzuwenden. Der Bericht ist schriftlich und mit der gebotenen Klarheit abzufassen; in ihm ist vorweg zu der Beurteilung der Lage des Unternehmens oder Konzerns durch die gesetzlichen Vertreter Stellung zu nehmen, wobei insbesondere auf die Beurteilung des Fortbestandes und der künftigen Entwicklung des Unternehmens unter Berücksichtigung des Lageberichts und bei der Prüfung des Konzernabschlusses von Mutterunternehmen auch des Konzerns unter Berücksichtigung des Konzernlageberichts einzugehen ist, soweit die geprüften Unterlagen und der Lagebericht oder der Konzernlagebericht eine solche Beurteilung erlauben. Außerdem hat der Abschlussprüfer über bei Durchführung der Prüfung festgestellte Unrichtigkeiten oder Verstöße gegen gesetzliche Vorschriften sowie Tatsachen zu berichten, die den Bestand des geprüften Unternehmens oder des Konzerns gefährden oder seine Entwicklung wesentlich beeinträchtigen können oder die schwerwiegende Verstöße der gesetzlichen Vertreter oder von Arbeitnehmern gegen Gesetz, Gesellschaftsvertrag oder die Satzung erkennen lassen.
 
 (2) Im Hauptteil des Prüfungsberichts ist festzustellen, ob die Buchführung und die weiteren geprüften Unterlagen, der Jahresabschluss, der Lagebericht, der Konzernabschluss und der Konzernlagebericht den gesetzlichen Vorschriften und den ergänzenden Bestimmungen des Gesellschaftsvertrags oder der Satzung entsprechen. In diesem Rahmen ist auch über Beanstandungen zu berichten, die nicht zur Einschränkung oder Versagung des Bestätigungsvermerks geführt haben, soweit dies für die Überwachung der Geschäftsführung und des geprüften Unternehmens von Bedeutung ist. Es ist auch darauf einzugehen, ob der Abschluss insgesamt unter Beachtung der Grundsätze ordnungsmäßiger Buchführung oder sonstiger maßgeblicher Rechnungslegungsgrundsätze ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Kapitalgesellschaft oder des Konzerns vermittelt. Dazu ist auch auf wesentliche Bewertungsgrundlagen sowie darauf einzugehen, welchen Einfluss Änderungen in den Bewertungsgrundlagen einschließlich der Ausübung von Bilanzierungs- und Bewertungswahlrechten und der Ausnutzung von Ermessensspielräumen sowie sachverhaltsgestaltende Maßnahmen insgesamt auf die Darstellung der Vermögens-, Finanz- und Ertragslage haben. Hierzu sind die Posten des Jahres- und des Konzernabschlusses aufzugliedern und ausreichend zu erläutern, soweit diese Angaben nicht im Anhang enthalten sind. Es ist darzustellen, ob die gesetzlichen Vertreter die verlangten Aufklärungen und Nachweise erbracht haben.
 
@@ -3608,7 +3887,7 @@ für die Abschlussprüfung bei dem Unternehmen bereits in sieben oder mehr Fäll
 
 (4a) Der Abschlussprüfer hat im Prüfungsbericht seine Unabhängigkeit zu bestätigen.
 
-(5) Der Abschlußprüfer hat den Bericht zu unterzeichnen und den gesetzlichen Vertretern vorzulegen. Hat der Aufsichtsrat den Auftrag erteilt, so ist der Bericht ihm vorzulegen; dem Vorstand ist vor Zuleitung Gelegenheit zur Stellungnahme zu geben.
+(5) Der Abschlußprüfer hat den Bericht unter Angabe des Datums zu unterzeichnen und den gesetzlichen Vertretern vorzulegen; § 322 Absatz 7 Satz 3 und 4 gilt entsprechend. Hat der Aufsichtsrat den Auftrag erteilt, so ist der Bericht ihm und gleichzeitig einem eingerichteten Prüfungsausschuss vorzulegen. Im Fall des Satzes 2 ist der Bericht unverzüglich nach Vorlage dem Geschäftsführungsorgan mit Gelegenheit zur Stellungnahme zuzuleiten.
 
 ### § 321a Offenlegung des Prüfungsberichts in besonderen Fällen
 
@@ -3622,7 +3901,9 @@ für die Abschlussprüfung bei dem Unternehmen bereits in sieben oder mehr Fäll
 
 ### § 322 Bestätigungsvermerk
 
-(1) Der Abschlussprüfer hat das Ergebnis der Prüfung in einem Bestätigungsvermerk zum Jahresabschluss oder zum Konzernabschluss zusammenzufassen. Der Bestätigungsvermerk hat Gegenstand, Art und Umfang der Prüfung zu beschreiben und dabei die angewandten Rechnungslegungs- und Prüfungsgrundsätze anzugeben; er hat ferner eine Beurteilung des Prüfungsergebnisses zu enthalten.
+(1) Der Abschlussprüfer hat das Ergebnis der Prüfung schriftlich in einem Bestätigungsvermerk zum Jahresabschluss oder zum Konzernabschluss zusammenzufassen. Der Bestätigungsvermerk hat Gegenstand, Art und Umfang der Prüfung zu beschreiben und dabei die angewandten Rechnungslegungs- und Prüfungsgrundsätze anzugeben; er hat ferner eine Beurteilung des Prüfungsergebnisses zu enthalten. In einem einleitenden Abschnitt haben zumindest die Beschreibung des Gegenstands der Prüfung und die Angabe zu den angewandten Rechnungslegungsgrundsätzen zu erfolgen.
+
+(1a) Bei der Erstellung des Bestätigungsvermerks hat der Abschlussprüfer die internationalen Prüfungsstandards anzuwenden, die von der Europäischen Kommission in dem Verfahren nach Artikel 26 Absatz 3 der Richtlinie 2006/43/EG angenommen worden sind.
 
 (2) Die Beurteilung des Prüfungsergebnisses muss zweifelsfrei ergeben, ob
 
@@ -3642,13 +3923,26 @@ Die Beurteilung des Prüfungsergebnisses soll allgemein verständlich und proble
 
 (3) In einem uneingeschränkten Bestätigungsvermerk (Absatz 2 Satz 1 Nr. 1) hat der Abschlussprüfer zu erklären, dass die von ihm nach § 317 durchgeführte Prüfung zu keinen Einwendungen geführt hat und dass der von den gesetzlichen Vertretern der Gesellschaft aufgestellte Jahres- oder Konzernabschluss aufgrund der bei der Prüfung gewonnenen Erkenntnisse des Abschlussprüfers nach seiner Beurteilung den gesetzlichen Vorschriften entspricht und unter Beachtung der Grundsätze ordnungsmäßiger Buchführung oder sonstiger maßgeblicher Rechnungslegungsgrundsätze ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage des Unternehmens oder des Konzerns vermittelt. Der Abschlussprüfer kann zusätzlich einen Hinweis auf Umstände aufnehmen, auf die er in besonderer Weise aufmerksam macht, ohne den Bestätigungsvermerk einzuschränken.
 
-(4) Sind Einwendungen zu erheben, so hat der Abschlussprüfer seine Erklärung nach Absatz 3 Satz 1 einzuschränken (Absatz 2 Satz 1 Nr. 2) oder zu versagen (Absatz 2 Satz 1 Nr. 3). Die Versagung ist in den Vermerk, der nicht mehr als Bestätigungsvermerk zu bezeichnen ist, aufzunehmen. Die Einschränkung oder Versagung ist zu begründen. Ein eingeschränkter Bestätigungsvermerk darf nur erteilt werden, wenn der geprüfte Abschluss unter Beachtung der vom Abschlussprüfer vorgenommenen, in ihrer Tragweite erkennbaren Einschränkung ein den tatsächlichen Verhältnissen im Wesentlichen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage vermittelt.
+(4) Sind Einwendungen zu erheben, so hat der Abschlussprüfer seine Erklärung nach Absatz 3 Satz 1 einzuschränken (Absatz 2 Satz 1 Nr. 2) oder zu versagen (Absatz 2 Satz 1 Nr. 3). Die Versagung ist in den Vermerk, der nicht mehr als Bestätigungsvermerk zu bezeichnen ist, aufzunehmen. Die Einschränkung oder Versagung ist zu begründen; Absatz 3 Satz 2 findet Anwendung. Ein eingeschränkter Bestätigungsvermerk darf nur erteilt werden, wenn der geprüfte Abschluss unter Beachtung der vom Abschlussprüfer vorgenommenen, in ihrer Tragweite erkennbaren Einschränkung ein den tatsächlichen Verhältnissen im Wesentlichen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage vermittelt.
 
 (5) Der Bestätigungsvermerk ist auch dann zu versagen, wenn der Abschlussprüfer nach Ausschöpfung aller angemessenen Möglichkeiten zur Klärung des Sachverhalts nicht in der Lage ist, ein Prüfungsurteil abzugeben (Absatz 2 Satz 1 Nr. 4). Absatz 4 Satz 2 und 3 gilt entsprechend.
 
-(6) Die Beurteilung des Prüfungsergebnisses hat sich auch darauf zu erstrecken, ob der Lagebericht oder der Konzernlagebericht nach dem Urteil des Abschlussprüfers mit dem Jahresabschluss und gegebenenfalls mit dem Einzelabschluss nach § 325 Abs. 2a oder mit dem Konzernabschluss in Einklang steht und insgesamt ein zutreffendes Bild von der Lage des Unternehmens oder des Konzerns vermittelt. Dabei ist auch darauf einzugehen, ob die Chancen und Risiken der zukünftigen Entwicklung zutreffend dargestellt sind.
+(6) Die Beurteilung des Prüfungsergebnisses hat sich auch darauf zu erstrecken, ob der Lagebericht oder der Konzernlagebericht nach dem Urteil des Abschlussprüfers mit dem Jahresabschluss und gegebenenfalls mit dem Einzelabschluss nach § 325 Abs. 2a oder mit dem Konzernabschluss in Einklang steht, die gesetzlichen Vorschriften zur Aufstellung des Lage- oder Konzernlageberichts beachtet worden sind und der Lage- oder Konzernlagebericht insgesamt ein zutreffendes Bild von der Lage des Unternehmens oder des Konzerns vermittelt. Dabei ist auch darauf einzugehen, ob die Chancen und Risiken der zukünftigen Entwicklung zutreffend dargestellt sind.
 
-(7) Der Abschlussprüfer hat den Bestätigungsvermerk oder den Vermerk über seine Versagung unter Angabe von Ort und Tag zu unterzeichnen. Der Bestätigungsvermerk oder der Vermerk über seine Versagung ist auch in den Prüfungsbericht aufzunehmen.
+(6a) Wurden mehrere Prüfer oder Prüfungsgesellschaften gemeinsam zum Abschlussprüfer bestellt, soll die Beurteilung des Prüfungsergebnisses einheitlich erfolgen. Ist eine einheitliche Beurteilung ausnahmsweise nicht möglich, sind die Gründe hierfür darzulegen; die Beurteilung ist jeweils in einem gesonderten Absatz vorzunehmen. Die Sätze 1 und 2 gelten im Fall der gemeinsamen Bestellung von
+
+1.  
+Wirtschaftsprüfern oder Wirtschaftsprüfungsgesellschaften,
+
+2.  
+vereidigten Buchprüfern oder Buchprüfungsgesellschaften sowie
+
+3.  
+Prüfern oder Prüfungsgesellschaften nach den Nummern 1 und 2.
+
+(7) Der Abschlussprüfer hat den Bestätigungsvermerk oder den Vermerk über seine Versagung unter Angabe des Ortes der Niederlassung des Abschlussprüfers und des Tages der Unterzeichnung zu unterzeichnen; im Fall des Absatzes 6a hat die Unterzeichnung durch alle bestellten Personen zu erfolgen. Der Bestätigungsvermerk oder der Vermerk über seine Versagung ist auch in den Prüfungsbericht aufzunehmen. Ist der Abschlussprüfer eine Wirtschaftsprüfungsgesellschaft, so hat die Unterzeichnung zumindest durch den Wirtschaftsprüfer zu erfolgen, welcher die Abschlussprüfung für die Prüfungsgesellschaft durchgeführt hat. Satz 3 ist auf Buchprüfungsgesellschaften entsprechend anzuwenden.
+
+(+++ § 322: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 323 Verantwortlichkeit des Abschlußprüfers
 
@@ -3664,15 +3958,20 @@ Die Beurteilung des Prüfungsergebnisses soll allgemein verständlich und proble
 
 ### § 324 Prüfungsausschuss
 
-(1) Kapitalgesellschaften im Sinn des § 264d, die keinen Aufsichts- oder Verwaltungsrat haben, der die Voraussetzungen des § 100 Abs. 5 des Aktiengesetzes erfüllen muss, sind verpflichtet, einen Prüfungsausschuss im Sinn des Absatzes 2 einzurichten, der sich insbesondere mit den in § 107 Abs. 3 Satz 2 des Aktiengesetzes beschriebenen Aufgaben befasst. Dies gilt nicht für
+(1) Unternehmen, die kapitalmarktorientiert im Sinne des § 264d sind, die keinen Aufsichts- oder Verwaltungsrat haben, der die Voraussetzungen des § 100 Abs. 5 des Aktiengesetzes erfüllen muss, sind verpflichtet, einen Prüfungsausschuss im Sinn des Absatzes 2 einzurichten, der sich insbesondere mit den in § 107 Abs. 3 Satz 2 und 3 des Aktiengesetzes beschriebenen Aufgaben befasst. Dies gilt nicht für
 
 1.  
-Kapitalgesellschaften im Sinn des Satzes 1, deren ausschließlicher Zweck in der Ausgabe von Wertpapieren im Sinn des § 2 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes besteht, die durch Vermögensgegenstände besichert sind; im Anhang ist darzulegen, weshalb ein Prüfungsausschuss nicht eingerichtet wird;
+Kapitalgesellschaften im Sinn des Satzes 1, deren ausschließlicher Zweck in der Ausgabe von Wertpapieren im Sinn des § 2 Absatz 1 des Wertpapierhandelsgesetzes besteht, die durch Vermögensgegenstände besichert sind; im Anhang ist darzulegen, weshalb ein Prüfungsausschuss nicht eingerichtet wird;
 
 2.  
-Kreditinstitute im Sinn des § 340 Abs. 1, die einen organisierten Markt im Sinn des § 2 Abs. 5 des Wertpapierhandelsgesetzes nur durch die Ausgabe von Schuldtiteln im Sinn des § 2 Abs. 1 Satz 1 Nr. 3 Buchstabe a des Wertpapierhandelsgesetzes in Anspruch nehmen, soweit deren Nominalwert 100 Millionen Euro nicht übersteigt und keine Verpflichtung zur Veröffentlichung eines Prospekts nach dem Wertpapierprospektgesetz besteht.
+Kreditinstitute im Sinn des § 340 Abs. 1, die einen organisierten Markt im Sinn des § 2 Abs. 5 des Wertpapierhandelsgesetzes nur durch die Ausgabe von Schuldtiteln im Sinn des § 2 Absatz 1 Nummer 3 Buchstabe a des Wertpapierhandelsgesetzes in Anspruch nehmen, soweit deren Nominalwert 100 Millionen Euro nicht übersteigt und keine Verpflichtung zur Veröffentlichung eines Prospekts nach dem Wertpapierprospektgesetz besteht;
 
-(2) Die Mitglieder des Prüfungsausschusses sind von den Gesellschaftern zu wählen. Mindestens ein Mitglied muss die Voraussetzungen des § 100 Abs. 5 des Aktiengesetzes erfüllen. Der Vorsitzende des Prüfungsausschusses darf nicht mit der Geschäftsführung betraut sein. § 124 Abs. 3 Satz 2 und § 171 Abs. 1 Satz 2 und 3 des Aktiengesetzes sind entsprechend anzuwenden.
+3.  
+Investmentvermögen im Sinne des § 1 Absatz 1 des Kapitalanlagegesetzbuchs.
+
+(2) Die Mitglieder des Prüfungsausschusses sind von den Gesellschaftern zu wählen. Die Mitglieder müssen in ihrer Gesamtheit mit dem Sektor, in dem das Unternehmen tätig ist, vertraut sein; die Mehrheit der Mitglieder, darunter der Vorsitzende, muss unabhängig sein und mindestens ein Mitglied muss über Sachverstand auf den Gebieten Rechnungslegung oder Abschlussprüfung verfügen. Der Vorsitzende des Prüfungsausschusses darf nicht mit der Geschäftsführung betraut sein. § 107 Absatz 3 Satz 5, § 124 Abs. 3 Satz 2 und § 171 Abs. 1 Satz 2 und 3 des Aktiengesetzes sind entsprechend anzuwenden.
+
+(3) Die Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle kann zur Erfüllung ihrer Aufgaben gemäß Artikel 27 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 537/2014 von einem Unternehmen, das kapitalmarktorientiert im Sinne des § 264d, das CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder das Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG ist, eine Darstellung und Erläuterung des Ergebnisses sowie der Durchführung der Tätigkeit seines Prüfungsausschusses verlangen. Die Abschlussprüferaufsichtsstelle soll zunächst auf Informationen aus öffentlich zugänglichen Quellen zurückgreifen. Satz 1 findet keine Anwendung, wenn das Unternehmen eine Genossenschaft, eine Sparkasse oder ein sonstiges landesrechtliches öffentlich-rechtliches Kreditinstitut ist.
 
 ### § 324a Anwendung auf den Einzelabschluss nach § 325 Abs. 2a
 
@@ -3687,11 +3986,23 @@ Vierter Unterabschnitt Offenlegung. Prüfung durch den Betreiber des Bundesanzei
 
 ### § 325 Offenlegung
 
-(1) Die gesetzlichen Vertreter von Kapitalgesellschaften haben für diese den Jahresabschluss beim Betreiber des Bundesanzeigers elektronisch einzureichen. Er ist unverzüglich nach seiner Vorlage an die Gesellschafter, jedoch spätestens vor Ablauf des zwölften Monats des dem Abschlussstichtag nachfolgenden Geschäftsjahrs, mit dem Bestätigungsvermerk oder dem Vermerk über dessen Versagung einzureichen. Gleichzeitig sind der Lagebericht, der Bericht des Aufsichtsrats, die nach § 161 des Aktiengesetzes vorgeschriebene Erklärung und, soweit sich dies aus dem eingereichten Jahresabschluss nicht ergibt, der Vorschlag für die Verwendung des Ergebnisses und der Beschluss über seine Verwendung unter Angabe des Jahresüberschusses oder Jahresfehlbetrags elektronisch einzureichen. Angaben über die Ergebnisverwendung brauchen von Gesellschaften mit beschränkter Haftung nicht gemacht zu werden, wenn sich anhand dieser Angaben die Gewinnanteile von natürlichen Personen feststellen lassen, die Gesellschafter sind. Werden zur Wahrung der Frist nach Satz 2 oder Absatz 4 Satz 1 der Jahresabschluss und der Lagebericht ohne die anderen Unterlagen eingereicht, sind der Bericht und der Vorschlag nach ihrem Vorliegen, die Beschlüsse nach der Beschlussfassung und der Vermerk nach der Erteilung unverzüglich einzureichen. Wird der Jahresabschluss bei nachträglicher Prüfung oder Feststellung geändert, ist auch die Änderung nach Satz 1 einzureichen. Die Rechnungslegungsunterlagen sind in einer Form einzureichen, die ihre Bekanntmachung nach Absatz 2 ermöglicht.
+(1) Die gesetzlichen Vertreter von Kapitalgesellschaften haben für die Gesellschaft folgende Unterlagen in deutscher Sprache offenzulegen:
+
+1.  
+den festgestellten oder gebilligten Jahresabschluss, den Lagebericht und den Bestätigungsvermerk oder den Vermerk über dessen Versagung sowie
+
+2.  
+den Bericht des Aufsichtsrats und die nach § 161 des Aktiengesetzes vorgeschriebene Erklärung.
+
+Die Unterlagen sind elektronisch beim Betreiber des Bundesanzeigers in einer Form einzureichen, die ihre Bekanntmachung ermöglicht.
+
+(1a) Die Unterlagen nach Absatz 1 Satz 1 sind spätestens ein Jahr nach dem Abschlussstichtag des Geschäftsjahrs einzureichen, auf das sie sich beziehen. Liegen die Unterlagen nach Absatz 1 Satz 1 Nummer 2 nicht innerhalb der Frist vor, sind sie unverzüglich nach ihrem Vorliegen nach Absatz 1 offenzulegen.
+
+(1b) Wird der Jahresabschluss oder der Lagebericht geändert, so ist auch die Änderung nach Absatz 1 Satz 1 offenzulegen. Ist im Jahresabschluss nur der Vorschlag für die Ergebnisverwendung enthalten, ist der Beschluss über die Ergebnisverwendung nach seinem Vorliegen nach Absatz 1 Satz 1 offenzulegen.
 
 (2) Die gesetzlichen Vertreter der Kapitalgesellschaft haben für diese die in Absatz 1 bezeichneten Unterlagen jeweils unverzüglich nach der Einreichung im Bundesanzeiger bekannt machen zu lassen.
 
-(2a) Bei der Offenlegung nach Absatz 2 kann an die Stelle des Jahresabschlusses ein Einzelabschluss treten, der nach den in § 315a Abs. 1 bezeichneten internationalen Rechnungslegungsstandards aufgestellt worden ist. Ein Unternehmen, das von diesem Wahlrecht Gebrauch macht, hat die dort genannten Standards vollständig zu befolgen. Auf einen solchen Abschluss sind § 243 Abs. 2, die §§ 244, 245, 257, 264 Abs. 2 Satz 3, § 285 Nr. 7, 8 Buchstabe b, Nr. 9 bis 11a, 14 bis 17, § 286 Abs. 1, 3 und 5 sowie § 287 anzuwenden. Der Lagebericht nach § 289 muss in dem erforderlichen Umfang auch auf den Abschluss nach Satz 1 Bezug nehmen. Die übrigen Vorschriften des Zweiten Unterabschnitts des Ersten Abschnitts und des Ersten Unterabschnitts des Zweiten Abschnitts gelten insoweit nicht. Kann wegen der Anwendung des § 286 Abs. 1 auf den Anhang die in Satz 2 genannte Voraussetzung nicht eingehalten werden, entfällt das Wahlrecht nach Satz 1.
+(2a) Bei der Offenlegung nach Absatz 2 kann an die Stelle des Jahresabschlusses ein Einzelabschluss treten, der nach den in § 315a Abs. 1 bezeichneten internationalen Rechnungslegungsstandards aufgestellt worden ist. Ein Unternehmen, das von diesem Wahlrecht Gebrauch macht, hat die dort genannten Standards vollständig zu befolgen. Auf einen solchen Abschluss sind § 243 Abs. 2, die §§ 244, 245, 257, 264 Absatz 1a, 2 Satz 3, § 285 Nr. 7, 8 Buchstabe b, Nr. 9 bis 11a, 14 bis 17, § 286 Abs. 1, 3 und 5 anzuwenden. Der Lagebericht nach § 289 muss in dem erforderlichen Umfang auch auf den Abschluss nach Satz 1 Bezug nehmen. Die übrigen Vorschriften des Zweiten Unterabschnitts des Ersten Abschnitts und des Ersten Unterabschnitts des Zweiten Abschnitts gelten insoweit nicht. Kann wegen der Anwendung des § 286 Abs. 1 auf den Anhang die in Satz 2 genannte Voraussetzung nicht eingehalten werden, entfällt das Wahlrecht nach Satz 1.
 
 (2b) Die befreiende Wirkung der Offenlegung des Einzelabschlusses nach Absatz 2a tritt ein, wenn
 
@@ -3704,16 +4015,17 @@ der Vorschlag für die Verwendung des Ergebnisses und gegebenenfalls der Beschlu
 3.  
 der Jahresabschluss mit dem Bestätigungsvermerk oder dem Vermerk über dessen Versagung nach Absatz 1 Satz 1 bis 4 offen gelegt wird.
 
-(3) Die Absätze 1, 2 und 4 Satz 1 gelten entsprechend für die gesetzlichen Vertreter einer Kapitalgesellschaft, die einen Konzernabschluss und einen Konzernlagebericht aufzustellen haben.
+(3) Die Absätze 1 bis 2 und 4 Satz 1 gelten entsprechend für die gesetzlichen Vertreter einer Kapitalgesellschaft, die einen Konzernabschluss und einen Konzernlagebericht aufzustellen haben.
 
 (3a) Wird der Konzernabschluss zusammen mit dem Jahresabschluss des Mutterunternehmens oder mit einem von diesem aufgestellten Einzelabschluss nach Absatz 2a bekannt gemacht, können die Vermerke des Abschlussprüfers nach § 322 zu beiden Abschlüssen zusammengefasst werden; in diesem Fall können auch die jeweiligen Prüfungsberichte zusammengefasst werden.
 
-(4) Bei einer Kapitalgesellschaft im Sinn des § 264d, die keine Kapitalgesellschaft im Sinn des § 327a ist, beträgt die Frist nach Absatz 1 Satz 2 längstens vier Monate. Für die Wahrung der Fristen nach Satz 1 und Absatz 1 Satz 2 ist der Zeitpunkt der Einreichung der Unterlagen maßgebend.
+(4) Bei einer Kapitalgesellschaft im Sinn des § 264d, die keine Kapitalgesellschaft im Sinn des § 327a ist, beträgt die Frist nach Absatz 1a Satz 1 längstens vier Monate. Für die Wahrung der Fristen nach Satz 1 und Absatz 1a Satz 1 ist der Zeitpunkt der Einreichung der Unterlagen maßgebend.
 
 (5) Auf Gesetz, Gesellschaftsvertrag oder Satzung beruhende Pflichten der Gesellschaft, den Jahresabschluss, den Einzelabschluss nach Absatz 2a, den Lagebericht, den Konzernabschluss oder den Konzernlagebericht in anderer Weise bekannt zu machen, einzureichen oder Personen zugänglich zu machen, bleiben unberührt.
 
-(6) Die §§ 11 und 12 Abs. 2 gelten für die beim Betreiber des Bundesanzeigers einzureichenden Unterlagen entsprechend; § 325a Abs. 1 Satz 3 und § 340l Abs. 2 Satz 4 bleiben unberührt.
+(6) Die §§ 11 und 12 Abs. 2 gelten für die beim Betreiber des Bundesanzeigers einzureichenden Unterlagen entsprechend; § 325a Abs. 1 Satz 3 und § 340l Absatz 2 Satz 6 bleiben unberührt.
 
+(+++ § 325: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 (+++ § 325 Abs. 1 Satz 1 u. 7, Abs. 2 bis 2b, 5 u. 6: Zur Anwendung vgl. § 160 Abs. 1 KAGB +++)
 
 ### § 325a Zweigniederlassungen von Kapitalgesellschaften mit Sitz im Ausland
@@ -3739,7 +4051,9 @@ eingereicht werden; von der Beglaubigung des Registers ist eine beglaubigte Übe
 
 (1) Auf kleine Kapitalgesellschaften (§ 267 Abs. 1) ist § 325 Abs. 1 mit der Maßgabe anzuwenden, daß die gesetzlichen Vertreter nur die Bilanz und den Anhang einzureichen haben. Der Anhang braucht die die Gewinn- und Verlustrechnung betreffenden Angaben nicht zu enthalten.
 
-(2) Die gesetzlichen Vertreter von Kleinstkapitalgesellschaften (§ 267a) können ihre sich aus § 325 ergebenden Pflichten auch dadurch erfüllen, dass sie die Bilanz in elektronischer Form zur dauerhaften Hinterlegung beim Betreiber des Bundesanzeigers einreichen und einen Hinterlegungsauftrag erteilen. § 325 Absatz 1 Satz 2 und 6 ist entsprechend anzuwenden. Kleinstkapitalgesellschaften dürfen von dem in Satz 1 geregelten Recht nur Gebrauch machen, wenn sie gegenüber dem Betreiber des Bundesanzeigers mitteilen, dass sie zwei der drei in § 267a Absatz 1 genannten Merkmale für die nach § 267 Absatz 4 maßgeblichen Abschlussstichtage nicht überschreiten.
+(2) Die gesetzlichen Vertreter von Kleinstkapitalgesellschaften (§ 267a) können ihre sich aus § 325 Absatz 1 bis 2 ergebenden Pflichten auch dadurch erfüllen, dass sie die Bilanz in elektronischer Form zur dauerhaften Hinterlegung beim Betreiber des Bundesanzeigers einreichen und einen Hinterlegungsauftrag erteilen. § 325 Absatz 1 Satz 2, Absatz 1a und 1b ist entsprechend anzuwenden. Kleinstkapitalgesellschaften dürfen von dem in Satz 1 geregelten Recht nur Gebrauch machen, wenn sie gegenüber dem Betreiber des Bundesanzeigers mitteilen, dass sie zwei der drei in § 267a Absatz 1 genannten Merkmale für die nach § 267 Absatz 4 maßgeblichen Abschlussstichtage nicht überschreiten.
+
+(+++ § 326: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 327 Größenabhängige Erleichterungen für mittelgroße Kapitalgesellschaften bei der Offenlegung
 
@@ -3808,27 +4122,23 @@ den Anhang ohne die Angaben nach § 285 Nr. 2 und 8 Buchstabe a, Nr. 12 beim Bet
 
 ### § 327a Erleichterung für bestimmte kapitalmarktorientierte Kapitalgesellschaften
 
-§ 325 Abs. 4 Satz 1 ist auf eine Kapitalgesellschaft nicht anzuwenden, wenn sie ausschließlich zum Handel an einem organisierten Markt zugelassene Schuldtitel im Sinn des § 2 Abs. 1 Satz 1 Nr. 3 des Wertpapierhandelsgesetzes mit einer Mindeststückelung von 50 000 Euro oder dem am Ausgabetag entsprechenden Gegenwert einer anderen Währung begibt.
+§ 325 Abs. 4 Satz 1 ist auf eine Kapitalgesellschaft nicht anzuwenden, wenn sie ausschließlich zum Handel an einem organisierten Markt zugelassene Schuldtitel im Sinn des § 2 Absatz 1 Nummer 3 des Wertpapierhandelsgesetzes mit einer Mindeststückelung von 100 000 Euro oder dem am Ausgabetag entsprechenden Gegenwert einer anderen Währung begibt.
 
 ### § 328 Form und Inhalt der Unterlagen bei der Offenlegung, Veröffentlichung und Vervielfältigung
 
-(1) Bei der vollständigen oder teilweisen Offenlegung des Jahresabschlusses, des Einzelabschlusses nach § 325 Abs. 2a oder des Konzernabschlusses und bei der Veröffentlichung oder Vervielfältigung in anderer Form auf Grund des Gesellschaftsvertrags oder der Satzung sind die folgenden Vorschriften einzuhalten:
+(1) Bei der Offenlegung des Jahresabschlusses, des Einzelabschlusses nach § 325 Absatz 2a, des Konzernabschlusses oder des Lage- oder Konzernlageberichts sind diese Abschlüsse und Lageberichte so wiederzugeben, dass sie den für ihre Aufstellung maßgeblichen Vorschriften entsprechen, soweit nicht Erleichterungen nach den §§ 326 und 327 in Anspruch genommen werden oder eine Rechtsverordnung des Bundesministeriums der Justiz und für Verbraucherschutz nach Absatz 4 hiervon Abweichungen ermöglicht. Sie haben in diesem Rahmen vollständig und richtig zu sein. Die Sätze 1 und 2 gelten auch für die teilweise Offenlegung sowie für die Veröffentlichung oder Vervielfältigung in anderer Form auf Grund des Gesellschaftsvertrages oder der Satzung.
 
-1.  
-Abschlüsse sind so wiederzugeben, daß sie den für ihre Aufstellung maßgeblichen Vorschriften entsprechen, soweit nicht Erleichterungen nach §§ 326, 327 in Anspruch genommen werden oder eine Rechtsverordnung des Bundesministeriums der Justiz nach Absatz 4 hiervon Abweichungen ermöglicht; sie haben in diesem Rahmen vollständig und richtig zu sein. Ist der Abschluss festgestellt oder gebilligt worden, so ist das Datum der Feststellung oder Billigung anzugeben. Wurde der Abschluss auf Grund gesetzlicher Vorschriften durch einen Abschlußprüfer geprüft, so ist jeweils der vollständige Wortlaut des Bestätigungsvermerks oder des Vermerks über dessen Versagung wiederzugeben; wird der Jahresabschluß wegen der Inanspruchnahme von Erleichterungen nur teilweise offengelegt und bezieht sich der Bestätigungsvermerk auf den vollständigen Jahresabschluß, so ist hierauf hinzuweisen.
-
-2.  
-Werden der Jahresabschluß oder der Konzernabschluß zur Wahrung der gesetzlich vorgeschriebenen Fristen über die Offenlegung vor der Prüfung oder Feststellung, sofern diese gesetzlich vorgeschrieben sind, oder nicht gleichzeitig mit beizufügenden Unterlagen offengelegt, so ist hierauf bei der Offenlegung hinzuweisen.
+(1a) Das Datum der Feststellung oder der Billigung der in Absatz 1 Satz 1 bezeichneten Abschlüsse ist anzugeben. Wurde der Abschluss auf Grund gesetzlicher Vorschriften durch einen Abschlussprüfer geprüft, so ist jeweils der vollständige Wortlaut des Bestätigungsvermerks oder des Vermerks über dessen Versagung wiederzugeben; wird der Jahresabschluss wegen der Inanspruchnahme von Erleichterungen nur teilweise offengelegt und bezieht sich der Bestätigungsvermerk auf den vollständigen Jahresabschluss, ist hierauf hinzuweisen. Bei der Offenlegung von Jahresabschluss, Einzelabschluss nach § 325 Absatz 2a oder Konzernabschluss ist gegebenenfalls darauf hinzuweisen, dass die Offenlegung nicht gleichzeitig mit allen anderen nach § 325 offenzulegenden Unterlagen erfolgt.
 
 (2) Werden Abschlüsse in Veröffentlichungen und Vervielfältigungen, die nicht durch Gesetz, Gesellschaftsvertrag oder Satzung vorgeschrieben sind, nicht in der nach Absatz 1 vorgeschriebenen Form wiedergegeben, so ist jeweils in einer Überschrift darauf hinzuweisen, daß es sich nicht um eine der gesetzlichen Form entsprechende Veröffentlichung handelt. Ein Bestätigungsvermerk darf nicht beigefügt werden. Ist jedoch auf Grund gesetzlicher Vorschriften eine Prüfung durch einen Abschlußprüfer erfolgt, so ist anzugeben, zu welcher der in § 322 Abs. 2 Satz 1 genannten zusammenfassenden Beurteilungen des Prüfungsergebnisses der Abschlussprüfer in Bezug auf den in gesetzlicher Form erstellten Abschluss gelangt ist und ob der Bestätigungsvermerk einen Hinweis nach § 322 Abs. 3 Satz 2 enthält. Ferner ist anzugeben, ob die Unterlagen bei dem Betreiber des Bundesanzeigers eingereicht worden sind.
 
-(3) Absatz 1 Nr. 1 ist auf den Lagebericht, den Konzernlagebericht, den Vorschlag für die Verwendung des Ergebnisses und den Beschluß über seine Verwendung entsprechend anzuwenden. Werden die in Satz 1 bezeichneten Unterlagen nicht gleichzeitig mit dem Jahresabschluß oder dem Konzernabschluß offengelegt, so ist bei ihrer nachträglichen Offenlegung jeweils anzugeben, auf welchen Abschluß sie sich beziehen und wo dieser offengelegt worden ist; dies gilt auch für die nachträgliche Offenlegung des Bestätigungsvermerks oder des Vermerks über seine Versagung.
+(3) Absatz 1 ist auf den Lagebericht, den Konzernlagebericht, den Vorschlag für die Verwendung des Ergebnisses und den Beschluß über seine Verwendung entsprechend anzuwenden. Werden die in Satz 1 bezeichneten Unterlagen nicht gleichzeitig mit dem Jahresabschluß oder dem Konzernabschluß offengelegt, so ist bei ihrer nachträglichen Offenlegung jeweils anzugeben, auf welchen Abschluß sie sich beziehen und wo dieser offengelegt worden ist; dies gilt auch für die nachträgliche Offenlegung des Bestätigungsvermerks oder des Vermerks über seine Versagung.
 
 (4) Die Rechtsverordnung nach § 330 Abs. 1 Satz 1, 4 und 5 kann dem Betreiber des Bundesanzeigers Abweichungen von der Kontoform nach § 266 Abs. 1 Satz 1 gestatten.
 
 (5) Für die Hinterlegung der Bilanz einer Kleinstkapitalgesellschaft (§ 326 Absatz 2) gilt Absatz 1 entsprechend.
 
-(+++ § 328: Zur Anwendung vgl. § 160 Abs. 1 KAGB +++)
+(+++ § 328: Zur Anwendung vgl. § 160 Abs. 1 KAGB u. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 329 Prüfungs- und Unterrichtungspflicht des Betreibers des Bundesanzeigers
 
@@ -3836,7 +4146,7 @@ Werden der Jahresabschluß oder der Konzernabschluß zur Wahrung der gesetzlich 
 
 (2) Gibt die Prüfung Anlass zu der Annahme, dass von der Größe der Kapitalgesellschaft abhängige Erleichterungen oder die Erleichterung nach § 327a nicht hätten in Anspruch genommen werden dürfen, kann der Betreiber des Bundesanzeigers von der Kapitalgesellschaft innerhalb einer angemessenen Frist die Mitteilung der Umsatzerlöse (§ 277 Abs. 1) und der durchschnittlichen Zahl der Arbeitnehmer (§ 267 Abs. 5) oder Angaben zur Eigenschaft als Kapitalgesellschaft im Sinn des § 327a verlangen. Unterlässt die Kapitalgesellschaft die fristgemäße Mitteilung, gelten die Erleichterungen als zu Unrecht in Anspruch genommen.
 
-(3) In den Fällen des § 325a Abs. 1 Satz 3 und des § 340l Abs. 2 Satz 4 kann im Einzelfall die Vorlage einer Übersetzung in die deutsche Sprache verlangt werden.
+(3) In den Fällen des § 325a Abs. 1 Satz 3 und des § 340l Absatz 2 Satz 6 kann im Einzelfall die Vorlage einer Übersetzung in die deutsche Sprache verlangt werden.
 
 (4) Ergibt die Prüfung nach Absatz 1 Satz 1, dass die offen zu legenden Unterlagen nicht oder unvollständig eingereicht wurden, wird die jeweils für die Durchführung von Ordnungsgeldverfahren nach den §§ 335, 340o und 341o zuständige Verwaltungsbehörde unterrichtet.
 
@@ -3849,15 +4159,15 @@ Fünfter Unterabschnitt Verordnungsermächtigung für Formblätter und andere Vo
 
 ### § 330
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für Kapitalgesellschaften Formblätter vorzuschreiben oder andere Vorschriften für die Gliederung des Jahresabschlusses oder des Konzernabschlusses oder den Inhalt des Anhangs, des Konzernanhangs, des Lageberichts oder des Konzernlageberichts zu erlassen, wenn der Geschäftszweig eine von den §§ 266, 275 abweichende Gliederung des Jahresabschlusses oder des Konzernabschlusses oder von den Vorschriften des Ersten Abschnitts und des Ersten und Zweiten Unterabschnitts des Zweiten Abschnitts abweichende Regelungen erfordert. Die sich aus den abweichenden Vorschriften ergebenden Anforderungen an die in Satz 1 bezeichneten Unterlagen sollen den Anforderungen gleichwertig sein, die sich für große Kapitalgesellschaften (§ 267 Abs. 3) aus den Vorschriften des Ersten Abschnitts und des Ersten und Zweiten Unterabschnitts des Zweiten Abschnitts sowie den für den Geschäftszweig geltenden Vorschriften ergeben. Über das geltende Recht hinausgehende Anforderungen dürfen nur gestellt werden, soweit sie auf Rechtsakten des Rates der Europäischen Union beruhen. Die Rechtsverordnung nach Satz 1 kann auch Abweichungen von der Kontoform nach § 266 Abs. 1 Satz 1 gestatten. Satz 4 gilt auch in den Fällen, in denen ein Geschäftszweig eine von den §§ 266 und 275 abweichende Gliederung nicht erfordert.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für Kapitalgesellschaften Formblätter vorzuschreiben oder andere Vorschriften für die Gliederung des Jahresabschlusses oder des Konzernabschlusses oder den Inhalt des Anhangs, des Konzernanhangs, des Lageberichts oder des Konzernlageberichts zu erlassen, wenn der Geschäftszweig eine von den §§ 266, 275 abweichende Gliederung des Jahresabschlusses oder des Konzernabschlusses oder von den Vorschriften des Ersten Abschnitts und des Ersten und Zweiten Unterabschnitts des Zweiten Abschnitts abweichende Regelungen erfordert. Die sich aus den abweichenden Vorschriften ergebenden Anforderungen an die in Satz 1 bezeichneten Unterlagen sollen den Anforderungen gleichwertig sein, die sich für große Kapitalgesellschaften (§ 267 Abs. 3) aus den Vorschriften des Ersten Abschnitts und des Ersten und Zweiten Unterabschnitts des Zweiten Abschnitts sowie den für den Geschäftszweig geltenden Vorschriften ergeben. Über das geltende Recht hinausgehende Anforderungen dürfen nur gestellt werden, soweit sie auf Rechtsakten des Rates der Europäischen Union beruhen. Die Rechtsverordnung nach Satz 1 kann auch Abweichungen von der Kontoform nach § 266 Abs. 1 Satz 1 gestatten. Satz 4 gilt auch in den Fällen, in denen ein Geschäftszweig eine von den §§ 266 und 275 abweichende Gliederung nicht erfordert.
 
 (2) Absatz 1 ist auf Kreditinstitute im Sinne des § 1 Abs. 1 des Gesetzes über das Kreditwesen, soweit sie nach dessen § 2 Abs. 1, 4 oder 5 von der Anwendung nicht ausgenommen sind, und auf Finanzdienstleistungsinstitute im Sinne des § 1 Abs. 1a des Gesetzes über das Kreditwesen, soweit sie nach dessen § 2 Abs. 6 oder 10 von der Anwendung nicht ausgenommen sind, sowie auf Institute im Sinne des § 1 Absatz 2a des Zahlungsdiensteaufsichtsgesetzes, nach Maßgabe der Sätze 3 und 4 ungeachtet ihrer Rechtsform anzuwenden. Satz 1 ist auch auf Zweigstellen von Unternehmen mit Sitz in einem Staat anzuwenden, der nicht Mitglied der Europäischen Gemeinschaft und auch nicht Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, sofern die Zweigstelle nach § 53 Abs. 1 des Gesetzes über das Kreditwesen als Kreditinstitut oder als Finanzinstitut gilt. Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates; sie ist im Einvernehmen mit dem Bundesministerium der Finanzen und im Benehmen mit der Deutschen Bundesbank zu erlassen. In die Rechtsverordnung nach Satz 1 können auch nähere Bestimmungen über die Aufstellung des Jahresabschlusses und des Konzernabschlusses im Rahmen der vorgeschriebenen Formblätter für die Gliederung des Jahresabschlusses und des Konzernabschlusses sowie des Zwischenabschlusses gemäß § 340a Abs. 3 und des Konzernzwischenabschlusses gemäß § 340i Abs. 4 aufgenommen werden, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt für Finanzdienstleistungsaufsicht oder der Deutschen Bundesbank erforderlich ist, insbesondere um einheitliche Unterlagen zur Beurteilung der von den Kreditinstituten und Finanzdienstleistungsinstituten durchgeführten Bankgeschäfte und erbrachten Finanzdienstleistungen zu erhalten.
 
 (3) Absatz 1 ist auf Versicherungsunternehmen nach Maßgabe der Sätze 3 und 4 ungeachtet ihrer Rechtsform anzuwenden. Satz 1 ist auch auf Niederlassungen im Geltungsbereich dieses Gesetzes von Versicherungsunternehmen mit Sitz in einem anderen Staat anzuwenden, wenn sie zum Betrieb des Direktversicherungsgeschäfts der Erlaubnis durch die Deutsche Versicherungsaufsichtsbehörde bedürfen. Die Rechtsverordnung bedarf der Zustimmung des Bundesrates und ist im Einvernehmen mit dem Bundesministerium der Finanzen zu erlassen. In die Rechtsverordnung nach Satz 1 können auch nähere Bestimmungen über die Aufstellung des Jahresabschlusses und des Konzernabschlusses im Rahmen der vorgeschriebenen Formblätter für die Gliederung des Jahresabschlusses und des Konzernabschlusses sowie Vorschriften über den Ansatz und die Bewertung von versicherungstechnischen Rückstellungen, insbesondere die Näherungsverfahren, aufgenommen werden. Die Zustimmung des Bundesrates ist nicht erforderlich, soweit die Verordnung ausschließlich dem Zweck dient, Abweichungen nach Absatz 1 Satz 4 und 5 zu gestatten.
 
-(4) In der Rechtsverordnung nach Absatz 1 in Verbindung mit Absatz 3 kann bestimmt werden, daß Versicherungsunternehmen, auf die die Richtlinie 91/674/EWG nach deren Artikel 2 in Verbindung mit Artikel 3 der Richtlinie 73/239/EWG oder in Verbindung mit Artikel 2 Nr. 2 oder 3 oder Artikel 3 der Richtlinie 79/267/EWG nicht anzuwenden ist, von den Regelungen des Zweiten Unterabschnitts des Vierten Abschnitts ganz oder teilweise befreit werden, soweit dies erforderlich ist, um eine im Verhältnis zur Größe der Versicherungsunternehmen unangemessene Belastung zu vermeiden; Absatz 1 Satz 2 ist insoweit nicht anzuwenden. In der Rechtsverordnung dürfen diesen Versicherungsunternehmen auch für die Gliederung des Jahresabschlusses und des Konzernabschlusses, für die Erstellung von Anhang und Lagebericht und Konzernanhang und Konzernlagebericht sowie für die Offenlegung ihrer Größe angemessene Vereinfachungen gewährt werden.
+(4) In der Rechtsverordnung nach Absatz 1 in Verbindung mit Absatz 3 kann bestimmt werden, daß Versicherungsunternehmen, auf die die Richtlinie 91/674/EWG nach deren Artikel 2 in Verbindung mit den Artikeln 4, 7 und 9 Nummer 1 und 2 sowie Artikel 10 Nummer 1 der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates vom 25. November 2009 betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. L 335 vom 17.12.2009, S. 1) nicht anzuwenden ist, von den Regelungen des Zweiten Unterabschnitts des Vierten Abschnitts ganz oder teilweise befreit werden, soweit dies erforderlich ist, um eine im Verhältnis zur Größe der Versicherungsunternehmen unangemessene Belastung zu vermeiden; Absatz 1 Satz 2 ist insoweit nicht anzuwenden. In der Rechtsverordnung dürfen diesen Versicherungsunternehmen auch für die Gliederung des Jahresabschlusses und des Konzernabschlusses, für die Erstellung von Anhang und Lagebericht und Konzernanhang und Konzernlagebericht sowie für die Offenlegung ihrer Größe angemessene Vereinfachungen gewährt werden.
 
-(5) Die Absätze 3 und 4 sind auf Pensionsfonds (§ 112 Abs. 1 des Versicherungsaufsichtsgesetzes) entsprechend anzuwenden.
+(5) Die Absätze 3 und 4 sind auf Pensionsfonds (§ 236 Absatz 1 des Versicherungsaufsichtsgesetzes) entsprechend anzuwenden.
 
 Sechster Unterabschnitt Straf- und BußgeldvorschriftenOrdnungsgelder
 --------------------------------------------------------------------
@@ -3878,7 +4188,7 @@ als Mitglied des vertretungsberechtigten Organs einer Kapitalgesellschaft zum Zw
 als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Kapitalgesellschaft die Verhältnisse des Konzerns im Konzernabschluß, im Konzernlagebericht oder im Konzernzwischenabschluß nach § 340i Abs. 4 unrichtig wiedergibt oder verschleiert,
 
 3.  
-als Mitglied des vertretungsberechtigten Organs einer Kapitalgesellschaft zum Zwecke der Befreiung nach § 291 Abs. 1 und 2 oder einer nach den § 292 erlassenen Rechtsverordnung einen Konzernabschluß oder Konzernlagebericht, in dem die Verhältnisse des Konzerns unrichtig wiedergegeben oder verschleiert worden sind, vorsätzlich oder leichtfertig offenlegt,
+als Mitglied des vertretungsberechtigten Organs einer Kapitalgesellschaft zum Zwecke der Befreiung nach § 291 Abs. 1 und 2 oder nach § 292 einen Konzernabschluß oder Konzernlagebericht, in dem die Verhältnisse des Konzerns unrichtig wiedergegeben oder verschleiert worden sind, vorsätzlich oder leichtfertig offenlegt,
 
 3a.  
 entgegen § 264 Abs. 2 Satz 3, § 289 Abs. 1 Satz 5, § 297 Abs. 2 Satz 4 oder § 315 Abs. 1 Satz 6 eine Versicherung nicht richtig abgibt,
@@ -3886,6 +4196,7 @@ entgegen § 264 Abs. 2 Satz 3, § 289 Abs. 1 Satz 5, § 297 Abs. 2 Satz 4 oder �
 4.  
 als Mitglied des vertretungsberechtigten Organs einer Kapitalgesellschaft oder als Mitglied des vertretungsberechtigten Organs oder als vertretungsberechtigter Gesellschafter eines ihrer Tochterunternehmen (§ 290 Abs. 1, 2) in Aufklärungen oder Nachweisen, die nach § 320 einem Abschlußprüfer der Kapitalgesellschaft, eines verbundenen Unternehmens oder des Konzerns zu geben sind, unrichtige Angaben macht oder die Verhältnisse der Kapitalgesellschaft, eines Tochterunternehmens oder des Konzerns unrichtig wiedergibt oder verschleiert.
 
+(+++ § 331: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 (+++ § 331 Nr. 3 u. 3a: Zur erstmaligen Anwendung vgl. HGBEG Art. 62 +++)
 
 ### § 332 Verletzung der Berichtspflicht
@@ -3902,6 +4213,16 @@ als Mitglied des vertretungsberechtigten Organs einer Kapitalgesellschaft oder a
 
 (3) Die Tat wird nur auf Antrag der Kapitalgesellschaft verfolgt.
 
+### § 333a Verletzung der Pflichten bei Abschlussprüfungen
+
+Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied eines nach § 324 Absatz 1 Satz 1 eingerichteten Prüfungsausschusses
+
+1.  
+eine in § 334 Absatz 2a bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
+
+2.  
+eine in § 334 Absatz 2a bezeichnete Handlung beharrlich wiederholt.
+
 ### § 334 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Kapitalgesellschaft
@@ -3910,13 +4231,13 @@ als Mitglied des vertretungsberechtigten Organs einer Kapitalgesellschaft oder a
 bei der Aufstellung oder Feststellung des Jahresabschlusses einer Vorschrift
 
 a)  
-des § 243 Abs. 1 oder 2, der §§ 244, 245, 246, 247, 248, 249 Abs. 1 Satz 1 oder Abs. 2, des § 250 Abs. 1 oder 2, des § 251 oder des § 264 Abs. 2 über Form oder Inhalt,
+des § 243 Abs. 1 oder 2, der §§ 244, 245, 246, 247, 248, 249 Abs. 1 Satz 1 oder Abs. 2, des § 250 Abs. 1 oder 2, des § 251 oder des § 264 Absatz 1a oder Absatz 2 über Form oder Inhalt,
 
 b)  
-des § 253 Absatz 1 Satz 1, 2, 3, 4, 5 oder Satz 6, Abs. 2 Satz 1, auch in Verbindung mit Satz 2, Abs. 3 Satz 1, 2 oder 3, Abs. 4 oder 5, des § 254 oder des § 256a über die Bewertung,
+des § 253 Absatz 1 Satz 1, 2, 3, 4, 5 oder Satz 6, Abs. 2 Satz 1, auch in Verbindung mit Satz 2, Absatz 3 Satz 1, 2, 3, 4 oder Satz 5, Abs. 4 oder 5, des § 254 oder des § 256a über die Bewertung,
 
 c)  
-des § 265 Abs. 2, 3, 4 oder 6, der §§ 266, 268 Abs. 2, 3, 4, 5, 6 oder 7, der §§ 272, 274, 275 oder des § 277 über die Gliederung oder
+des § 265 Abs. 2, 3, 4 oder 6, der §§ 266, 268 Absatz 3, 4, 5, 6 oder Absatz 7, der §§ 272, 274, 275 oder des § 277 über die Gliederung oder
 
 d)  
 des § 284 oder des § 285 über die in der Bilanz, unter der Bilanz oder im Anhang zu machenden Angaben,
@@ -3928,7 +4249,7 @@ a)
 des § 294 Abs. 1 über den Konsolidierungskreis,
 
 b)  
-des § 297 Abs. 2 oder 3 oder des § 298 Abs. 1 in Verbindung mit den §§ 244, 245, 246, 247, 248, 249 Abs. 1 Satz 1 oder Abs. 2, dem § 250 Abs. 1 oder dem § 251 über Inhalt oder Form,
+des § 297 Absatz 1a, 2 oder 3 oder des § 298 Abs. 1 in Verbindung mit den §§ 244, 245, 246, 247, 248, 249 Abs. 1 Satz 1 oder Abs. 2, dem § 250 Abs. 1 oder dem § 251 über Inhalt oder Form,
 
 c)  
 des § 300 über die Konsolidierungsgrundsätze oder das Vollständigkeitsgebot,
@@ -3940,13 +4261,13 @@ e)
 des § 311 Abs. 1 Satz 1 in Verbindung mit § 312 über die Behandlung assoziierter Unternehmen oder
 
 f)  
-des § 308 Abs. 1 Satz 3, des § 313 oder des § 314 über die im Anhang zu machenden Angaben,
+des § 308 Abs. 1 Satz 3, des § 313 oder des § 314 über die im Konzernanhang zu machenden Angaben,
 
 3.  
-bei der Aufstellung des Lageberichts einer Vorschrift des § 289 Abs. 1, 4 oder Abs. 5 oder des § 289a über den Inhalt des Lageberichts,
+bei der Aufstellung des Lageberichts einer Vorschrift des § 289 oder des § 289a über den Inhalt des Lageberichts,
 
 4.  
-bei der Aufstellung des Konzernlageberichts einer Vorschrift des § 315 Abs. 1 oder 4 über den Inhalt des Konzernlageberichts,
+bei der Aufstellung des Konzernlageberichts einer Vorschrift des § 315 Absatz 1, 2, 4 oder Absatz 5 über den Inhalt des Konzernlageberichts,
 
 5.  
 bei der Offenlegung, Hinterlegung, Veröffentlichung oder Vervielfältigung einer Vorschrift des § 328 über Form oder Inhalt oder
@@ -3956,13 +4277,26 @@ einer auf Grund des § 330 Abs. 1 Satz 1 erlassenen Rechtsverordnung, soweit sie
 
 zuwiderhandelt.
 
-(2) Ordnungswidrig handelt, wer zu einem Jahresabschluss, zu einem Einzelabschluss nach § 325 Abs. 2a oder zu einem Konzernabschluss, der aufgrund gesetzlicher Vorschriften zu prüfen ist, einen Vermerk nach § 322 Abs. 1 erteilt, obwohl nach § 319 Abs. 2, 3, 5, § 319a Abs. 1 Satz 1, Abs. 2, § 319b Abs. 1 Satz 1 oder 2 er oder nach § 319 Abs. 4, auch in Verbindung mit § 319a Abs. 1 Satz 2, oder § 319a Abs. 1 Satz 4, 5, § 319b Abs. 1 die Wirtschaftsprüfungsgesellschaft oder die Buchprüfungsgesellschaft, für die er tätig wird, nicht Abschlussprüfer sein darf.
+(2) Ordnungswidrig handelt, wer zu einem Jahresabschluss, zu einem Einzelabschluss nach § 325 Abs. 2a oder zu einem Konzernabschluss, der aufgrund gesetzlicher Vorschriften zu prüfen ist, einen Vermerk nach § 322 Abs. 1 erteilt, obwohl nach § 319 Abs. 2, 3, 5, § 319a Abs. 1 Satz 1, Abs. 2, § 319b Abs. 1 Satz 1 oder 2 er oder nach § 319 Abs. 4, auch in Verbindung mit § 319a Abs. 1 Satz 2, oder § 319b Abs. 1 die Wirtschaftsprüfungsgesellschaft oder die Buchprüfungsgesellschaft, für die er tätig wird, nicht Abschlussprüfer sein darf.
+
+(2a) Ordnungswidrig handelt, wer als Mitglied eines nach § 324 Absatz 1 Satz 1 eingerichteten Prüfungsausschusses
+
+1.  
+die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) überwacht,
+
+2.  
+eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, die den Anforderungen nach Artikel 16 Absatz 2 Unterabsatz 2 oder 3 der Verordnung (EU) Nr. 537/2014 nicht entspricht oder der ein Auswahlverfahren nach Artikel 16 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht vorangegangen ist, oder
+
+3.  
+den Gesellschaftern einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-(4) Verwaltungsbehörde im Sinn des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 2 das Bundesamt für Justiz.
+(4) Verwaltungsbehörde im Sinn des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 2a das Bundesamt für Justiz, in den Fällen des Absatzes 2 die Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
 (5) Die Absätze 1 bis 4 sind auf Kreditinstitute im Sinn des § 340 und auf Versicherungsunternehmen im Sinn des § 341 Abs. 1 nicht anzuwenden.
+
+(+++ § 334: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 335 Festsetzung von Ordnungsgeld
 
@@ -3976,9 +4310,45 @@ zuwiderhandelt.
 
 nicht befolgen, ist wegen des pflichtwidrigen Unterlassens der rechtzeitigen Offenlegung vom Bundesamt für Justiz (Bundesamt) ein Ordnungsgeldverfahren nach den Absätzen 2 bis 6 durchzuführen; im Fall der Nummer 2 treten die in § 13e Abs. 2 Satz 4 Nr. 3 genannten Personen, sobald sie angemeldet sind, an die Stelle der Mitglieder des vertretungsberechtigten Organs der Kapitalgesellschaft. Das Ordnungsgeldverfahren kann auch gegen die Kapitalgesellschaft durchgeführt werden, für die die Mitglieder des vertretungsberechtigten Organs die in Satz 1 Nr. 1 und 2 genannten Pflichten zu erfüllen haben. Dem Verfahren steht nicht entgegen, dass eine der Offenlegung vorausgehende Pflicht, insbesondere die Aufstellung des Jahres- oder Konzernabschlusses oder die unverzügliche Erteilung des Prüfauftrags, noch nicht erfüllt ist. Das Ordnungsgeld beträgt mindestens zweitausendfünfhundert und höchstens fünfundzwanzigtausend Euro. Eingenommene Ordnungsgelder fließen dem Bundesamt zu.
 
+(1a) Ist die Kapitalgesellschaft kapitalmarktorientiert im Sinne des § 264d, beträgt das Ordnungsgeld höchstens den höheren der folgenden Beträge:
+
+1.  
+zehn Millionen Euro,
+
+2.  
+5 Prozent des jährlichen Gesamtumsatzes, den die juristische Person oder Personenvereinigung im der Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt hat, oder
+
+3.  
+das Zweifache des aus der unterlassenen Offenlegung gezogenen wirtschaftlichen Vorteils; der wirtschaftliche Vorteil umfasst erzielte Gewinne und vermiedene Verluste und kann geschätzt werden.
+
+Wird das Ordnungsgeld einem Mitglied des gesetzlichen Vertretungsorgans der Kapitalgesellschaft angedroht, beträgt das Ordnungsgeld abweichend von Satz 1 höchstens den höheren der folgenden Beträge:
+
+1.  
+zwei Millionen Euro oder
+
+2.  
+das Zweifache des aus der unterlassenen Offenlegung gezogenen Vorteils; der wirtschaftliche Vorteil umfasst erzielte Gewinne und vermiedene Verluste und kann geschätzt werden.
+
+(1b) Gesamtumsatz im Sinne des Absatzes 1a Satz 1 Nummer 2 ist
+
+1.  
+im Falle von Kreditinstituten, Zahlungsinstituten und Finanzdienstleistungsinstituten im Sinne des § 340 der sich aus dem auf das Institut anwendbaren nationalen Recht im Einklang mit Artikel 27 Nummer 1, 3, 4, 6 und 7 oder Artikel 28 Nummer B1, B2, B3, B4 und B7 der Richtlinie 86/635/EWG des Rates vom 8. Dezember 1986 über den Jahresabschluss und den konsolidierten Abschluss von Banken und anderen Finanzinstituten (ABl. L 372 vom 31.12.1986, S. 1) ergebende Gesamtbetrag, abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern,
+
+2.  
+im Falle von Versicherungsunternehmen der sich aus dem auf das Versicherungsunternehmen anwendbaren nationalen Recht im Einklang mit Artikel 63 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluss und den konsolidierten Abschluss von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7) ergebende Gesamtbetrag, abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern,
+
+3.  
+im Übrigen der Betrag der Umsatzerlöse nach § 277 Absatz 1 oder der Nettoumsatzerlöse nach Maßgabe des auf das Unternehmen anwendbaren nationalen Rechts im Einklang mit Artikel 2 Nummer 5 der Richtlinie 2013/34/EU.
+
+Handelt es sich bei der juristischen Person oder Personenvereinigung um ein Mutterunternehmen oder um eine Tochtergesellschaft, so ist anstelle des Gesamtumsatzes der Kapitalgesellschaft der jeweilige Gesamtbetrag in dem Konzernabschluss des Mutterunternehmens maßgeblich, der für den größten Kreis von Unternehmen aufgestellt wird. Wird der Konzernabschluss für den größten Kreis von Unternehmen nicht nach den in Satz 1 genannten Vorschriften aufgestellt, ist der Gesamtumsatz nach Maßgabe der den in Satz 1 Nummer 1 bis 3 vergleichbaren Posten des Konzernabschlusses zu ermitteln. Ist ein Jahresabschluss oder Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar, ist der Jahres- oder Konzernabschluss für das unmittelbar vorausgehende Geschäftsjahr maßgeblich; ist auch dieser nicht verfügbar, kann der Gesamtumsatz geschätzt werden.
+
+(1c) Soweit dem Bundesamt Ermessen bei der Höhe eines Ordnungsgeldes zusteht, hat es auch frühere Verstöße der betroffenen Person zu berücksichtigen.
+
+(1d) Das Bundesamt unterrichtet die Bundesanstalt für Finanzdienstleistungsaufsicht unverzüglich über jedes Ordnungsgeld, das gemäß Absatz 1 gegen eine Kapitalgesellschaft im Sinne des § 264d oder gegen ein Mitglied ihrer Vertretungsorgane festgesetzt wird. Wird gegen eine solche Ordnungsgeldfestsetzung Beschwerde eingelegt, unterrichtet das Bundesamt die Bundesanstalt für Finanzdienstleistungsaufsicht über diesen Umstand sowie über den Ausgang des Beschwerdeverfahrens.
+
 (2) Auf das Verfahren sind die §§ 15 bis 19, § 40 Abs. 1, § 388 Abs. 1, § 389 Abs. 3, § 390 Abs. 2 bis 6 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie im Übrigen § 11 Nr. 1 und 2, § 12 Abs. 1 Nr. 1 bis 3, Abs. 2 und 3, §§ 14, 15, 20 Abs. 1 und 3, § 21 Abs. 1, §§ 23 und 26 des Verwaltungsverfahrensgesetzes nach Maßgabe der nachfolgenden Absätze entsprechend anzuwenden. Das Ordnungsgeldverfahren ist ein Justizverwaltungsverfahren. Zur Vertretung der Beteiligten sind auch Wirtschaftsprüfer und vereidigte Buchprüfer, Steuerberater, Steuerbevollmächtigte, Personen und Vereinigungen im Sinn des § 3 Nr. 4 des Steuerberatungsgesetzes sowie Gesellschaften im Sinn des § 3 Nr. 2 und 3 des Steuerberatungsgesetzes, die durch Personen im Sinn des § 3 Nr. 1 des Steuerberatungsgesetzes handeln, befugt.
 
-(2a) Für eine elektronische Aktenführung und Kommunikation sind § 110a Abs. 1, § 110b Abs. 1 Satz 1, Abs. 2 bis 4, § 110c Abs. 1 sowie § 110d des Gesetzes über Ordnungswidrigkeiten entsprechend anzuwenden. § 110a Abs. 2 Satz 1 und 3 sowie § 110b Abs. 1 Satz 2 und 4 des Gesetzes über Ordnungswidrigkeiten sind mit der Maßgabe entsprechend anzuwenden, dass das Bundesministerium der Justiz die Rechtsverordnung ohne Zustimmung des Bundesrates erlassen kann; es kann die Ermächtigung durch Rechtsverordnung auf das Bundesamt für Justiz übertragen.
+(2a) Für eine elektronische Aktenführung und Kommunikation sind § 110a Abs. 1, § 110b Abs. 1 Satz 1, Abs. 2 bis 4, § 110c Abs. 1 sowie § 110d des Gesetzes über Ordnungswidrigkeiten entsprechend anzuwenden. § 110a Abs. 2 Satz 1 und 3 sowie § 110b Abs. 1 Satz 2 und 4 des Gesetzes über Ordnungswidrigkeiten sind mit der Maßgabe entsprechend anzuwenden, dass das Bundesministerium der Justiz und für Verbraucherschutz die Rechtsverordnung ohne Zustimmung des Bundesrates erlassen kann; es kann die Ermächtigung durch Rechtsverordnung auf das Bundesamt für Justiz übertragen.
 
 (3) Den in Absatz 1 Satz 1 und 2 bezeichneten Beteiligten ist unter Androhung eines Ordnungsgeldes in bestimmter Höhe aufzugeben, innerhalb einer Frist von sechs Wochen vom Zugang der Androhung an ihrer gesetzlichen Verpflichtung nachzukommen oder die Unterlassung mittels Einspruchs gegen die Verfügung zu rechtfertigen. Mit der Androhung des Ordnungsgeldes sind den Beteiligten zugleich die Kosten des Verfahrens aufzuerlegen. Der Einspruch kann auf Einwendungen gegen die Entscheidung über die Kosten beschränkt werden. Der Einspruch gegen die Androhung des Ordnungsgeldes und gegen die Entscheidung über die Kosten hat keine aufschiebende Wirkung. Führt der Einspruch zu einer Einstellung des Verfahrens, ist zugleich auch die Kostenentscheidung nach Satz 2 aufzuheben.
 
@@ -4018,11 +4388,20 @@ Bei der Herabsetzung sind nur Umstände zu berücksichtigen, die vor der Entsche
 
 (4) Für die elektronische Aktenführung des Gerichts und die Kommunikation mit dem Gericht nach den Absätzen 1 bis 3 sind § 110a Absatz 1, § 110b Absatz 1 Satz 1, Absatz 2 bis 4, § 110c Absatz 1 sowie § 110d des Gesetzes über Ordnungswidrigkeiten entsprechend anzuwenden. § 110a Absatz 2 Satz 1 und 3 sowie § 110b Absatz 1 Satz 2 und 4 des Gesetzes über Ordnungswidrigkeiten sind mit der Maßgabe anzuwenden, dass die Landesregierung des Landes, in dem das Bundesamt seinen Sitz unterhält, die Rechtsverordnung erlassen und die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen kann.
 
+(+++ § 335a: Zur Anwendung vgl. § 45 Abs. 3 Satz 3, § 123 Abs. 1 Satz 2 u. § 160 Abs. 1 KAGB +++)
 (+++ § 335a Abs. 3: Zur erstmaligen Anwendung vgl. Art. 70 Abs. 3 Satz 2 HGBEG +++)
 
 ### § 335b Anwendung der Straf- und Bußgeld- sowie der Ordnungsgeldvorschriften auf bestimmte offene Handelsgesellschaften und Kommanditgesellschaften
 
-Die Strafvorschriften der §§ 331 bis 333, die Bußgeldvorschrift des § 334 sowie die Ordnungsgeldvorschrift des § 335 gelten auch für offene Handelsgesellschaften und Kommanditgesellschaften im Sinn des § 264a Abs. 1. Das Verfahren nach § 335 ist in diesem Fall gegen die persönlich haftenden Gesellschafter oder gegen die Mitglieder der vertretungsberechtigten Organe der persönlich haftenden Gesellschafter zu richten. Es kann auch gegen die offene Handelsgesellschaft oder gegen die Kommanditgesellschaft gerichtet werden.
+Die Strafvorschriften der §§ 331 bis 333a, die Bußgeldvorschrift des § 334 sowie die Ordnungsgeldvorschrift des § 335 gelten auch für offene Handelsgesellschaften und Kommanditgesellschaften im Sinn des § 264a Abs. 1. Das Verfahren nach § 335 ist in diesem Fall gegen die persönlich haftenden Gesellschafter oder gegen die Mitglieder der vertretungsberechtigten Organe der persönlich haftenden Gesellschafter zu richten. Es kann auch gegen die offene Handelsgesellschaft oder gegen die Kommanditgesellschaft gerichtet werden. § 335a ist entsprechend anzuwenden.
+
+(+++ § 335b: Zur Anwendung vgl. § 45 Abs. 3 Satz 3, § 123 Abs. 1 Satz 2 u. § 160 Abs. 1 KAGB +++)
+
+### § 335c Mitteilungen an die Abschlussprüferaufsichtsstelle
+
+(1) Das Bundesamt für Justiz übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 334 Absatz 2a.
+
+(2) In Strafverfahren, die eine Straftat nach § 333a zum Gegenstand haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der öffentlichen Klage der Abschlussprüferaufsichtsstelle die das Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf das eingelegte Rechtsmittel zu übermitteln.
 
 Dritter Abschnitt Ergänzende Vorschriften für eingetragene Genossenschaften
 ---------------------------------------------------------------------------
@@ -4033,9 +4412,22 @@ Dritter Abschnitt Ergänzende Vorschriften für eingetragene Genossenschaften
 
 (1) Der Vorstand einer Genossenschaft hat den Jahresabschluß (§ 242) um einen Anhang zu erweitern, der mit der Bilanz und der Gewinn- und Verlustrechnung eine Einheit bildet, sowie einen Lagebericht aufzustellen. Der Jahresabschluß und der Lagebericht sind in den ersten fünf Monaten des Geschäftsjahrs für das vergangene Geschäftsjahr aufzustellen.
 
-(2) Auf den Jahresabschluß und den Lagebericht sind, soweit in den folgenden Vorschriften nichts anderes bestimmt ist, § 264 Abs. 1 Satz 4 Halbsatz 1, Abs. 2, §§ 265 bis 289 über den Jahresabschluß und den Lagebericht entsprechend anzuwenden; § 277 Abs. 3 Satz 1, § 285 Nr. 6 und 17 brauchen jedoch nicht angewendet zu werden. Sonstige Vorschriften, die durch den Geschäftszweig bedingt sind, bleiben unberührt. Die Erleichterungen für Kleinstkapitalgesellschaften (§ 267a) sind auf Genossenschaften nicht anzuwenden.
+(2) Auf den Jahresabschluss und den Lagebericht sind, soweit in diesem Abschnitt nichts anderes bestimmt ist, die folgenden Vorschriften entsprechend anzuwenden:
+
+1.  
+§ 264 Absatz 1 Satz 4 erster Halbsatz und Absatz 1a, 2,
+
+2.  
+die §§ 265 bis 289, mit Ausnahme von § 277 Absatz 3 Satz 1 und § 285 Nummer 17,
+
+3.  
+§ 289a Absatz 4 nach Maßgabe des § 9 Absatz 3 und 4 des Genossenschaftsgesetzes.
+
+Sonstige Vorschriften, die durch den Geschäftszweig bedingt sind, bleiben unberührt. Genossenschaften, die die Merkmale für Kleinstkapitalgesellschaften nach § 267a Absatz 1 erfüllen (Kleinstgenossenschaften), dürfen auch die Erleichterungen für Kleinstkapitalgesellschaften nach näherer Maßgabe des § 337 Absatz 4 und § 338 Absatz 4 anwenden.
 
 (3) § 330 Abs. 1 über den Erlaß von Rechtsverordnungen ist entsprechend anzuwenden.
+
+(+++ § 336: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 337 Vorschriften zur Bilanz
 
@@ -4060,6 +4452,12 @@ die Beträge, die aus dem Jahresüberschuß des Geschäftsjahrs eingestellt werd
 3.  
 die Beträge, die für das Geschäftsjahr entnommen werden.
 
+(4) Kleinstgenossenschaften, die von der Erleichterung für Kleinstkapitalgesellschaften nach § 266 Absatz 1 Satz 4 Gebrauch machen, haben den Betrag der Geschäftsguthaben der Mitglieder sowie die gesetzliche Rücklage in der Bilanz im Passivposten A Eigenkapital wie folgt auszuweisen:
+Davon:
+Geschäftsguthaben der Mitglieder gesetzliche Rücklage.
+
+(+++ § 337: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+
 ### § 338 Vorschriften zum Anhang
 
 (1) Im Anhang sind auch Angaben zu machen über die Zahl der im Laufe des Geschäftsjahrs eingetretenen oder ausgeschiedenen sowie die Zahl der am Schluß des Geschäftsjahrs der Genossenschaft angehörenden Mitglieder. Ferner sind der Gesamtbetrag, um welchen in diesem Jahr die Geschäftsguthaben sowie die Haftsummen der Mitglieder sich vermehrt oder vermindert haben, und der Betrag der Haftsummen anzugeben, für welche am Jahresschluß alle Mitglieder zusammen aufzukommen haben.
@@ -4074,11 +4472,23 @@ alle Mitglieder des Vorstands und des Aufsichtsrats, auch wenn sie im Geschäfts
 
 (3) An Stelle der in § 285 Nr. 9 vorgeschriebenen Angaben über die an Mitglieder von Organen geleisteten Bezüge, Vorschüsse und Kredite sind lediglich die Forderungen anzugeben, die der Genossenschaft gegen Mitglieder des Vorstands oder Aufsichtsrats zustehen. Die Beträge dieser Forderungen können für jedes Organ in einer Summe zusammengefaßt werden.
 
+(4) Kleinstgenossenschaften brauchen den Jahresabschluss nicht um einen Anhang zu erweitern, wenn sie unter der Bilanz angeben:
+
+1.  
+die in den §§ 251 und 268 Absatz 7 genannten Angaben und
+
+2.  
+die in den Absätzen 1, 2 Nummer 1 und Absatz 3 genannten Angaben.
+
+(+++ § 338: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+
 ### § 339 Offenlegung
 
-(1) Der Vorstand hat unverzüglich nach der Generalversammlung über den Jahresabschluß, jedoch spätestens vor Ablauf des zwölften Monats des dem Abschlussstichtag nachfolgenden Geschäftsjahrs, den festgestellten Jahresabschluß, den Lagebericht und den Bericht des Aufsichtsrats beim Betreiber des Bundesanzeigers elektronisch einzureichen. Ist die Erteilung eines Bestätigungsvermerks nach § 58 Abs. 2 des Genossenschaftsgesetzes vorgeschrieben, so ist dieser mit dem Jahresabschluß einzureichen; hat der Prüfungsverband die Bestätigung des Jahresabschlusses versagt, so muß dies auf dem eingereichten Jahresabschluß vermerkt und der Vermerk vom Prüfungsverband unterschrieben sein. Ist die Prüfung des Jahresabschlusses im Zeitpunkt der Einreichung der Unterlagen nach Satz 1 nicht abgeschlossen, so ist der Bestätigungsvermerk oder der Vermerk über seine Versagung unverzüglich nach Abschluß der Prüfung einzureichen. Wird der Jahresabschluß oder der Lagebericht nach der Einreichung geändert, so ist auch die geänderte Fassung einzureichen.
+(1) Der Vorstand hat unverzüglich nach der Generalversammlung über den Jahresabschluß, jedoch spätestens vor Ablauf des zwölften Monats des dem Abschlussstichtag nachfolgenden Geschäftsjahrs, den festgestellten Jahresabschluß, den Lagebericht und den Bericht des Aufsichtsrats beim Betreiber des Bundesanzeigers elektronisch einzureichen. Ist die Erteilung eines Bestätigungsvermerks nach § 58 Abs. 2 des Genossenschaftsgesetzes oder nach Artikel 10 Absatz 1 der Verordnung (EU) Nr. 537/2014 vorgeschrieben, so ist dieser mit dem Jahresabschluß einzureichen; hat der Prüfungsverband die Bestätigung des Jahresabschlusses versagt, so muß dies auf dem eingereichten Jahresabschluß vermerkt und der Vermerk vom Prüfungsverband unterschrieben sein. Ist die Prüfung des Jahresabschlusses im Zeitpunkt der Einreichung der Unterlagen nach Satz 1 nicht abgeschlossen, so ist der Bestätigungsvermerk oder der Vermerk über seine Versagung unverzüglich nach Abschluß der Prüfung einzureichen. Wird der Jahresabschluß oder der Lagebericht nach der Einreichung geändert, so ist auch die geänderte Fassung einzureichen.
 
-(2) § 325 Abs. 1 Satz 7, Abs. 2, 2a und 6 sowie die §§ 326 bis 329 sind entsprechend anzuwenden.
+(2) § 325 Absatz 1 Satz 2, Absatz 2, 2a und 6 sowie die §§ 326 bis 329 sind entsprechend anzuwenden. Hat eine Kleinstgenossenschaft von der Erleichterung für Kleinstkapitalgesellschaften nach § 326 Absatz 2 Gebrauch gemacht, gilt § 9 Absatz 6 Satz 3 entsprechend.
+
+(+++ § 339: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 Vierter Abschnitt Ergänzende Vorschriften für Unternehmen bestimmter Geschäftszweige
 ------------------------------------------------------------------------------------
@@ -4097,15 +4507,17 @@ Erster Titel Anwendungsbereich
 
 ### § 340
 
-(1) Dieser Unterabschnitt ist auf Kreditinstitute im Sinne des § 1 Abs. 1 des Gesetzes über das Kreditwesen anzuwenden, soweit sie nach dessen § 2 Abs. 1, 4 oder 5 von der Anwendung nicht ausgenommen sind, sowie auf Zweigniederlassungen von Unternehmen mit Sitz in einem Staat, der nicht Mitglied der Europäischen Gemeinschaft und auch nicht Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, sofern die Zweigniederlassung nach § 53 Abs. 1 des Gesetzes über das Kreditwesen als Kreditinstitut gilt. § 340l Abs. 2 und 3 ist außerdem auf Zweigniederlassungen im Sinne des § 53b Abs. 1 Satz 1 und Abs. 7 des Gesetzes über das Kreditwesen, auch in Verbindung mit einer Rechtsverordnung nach § 53c Nr. 1 dieses Gesetzes, anzuwenden, sofern diese Zweigniederlassungen Bankgeschäfte im Sinne des § 1 Abs. 1 Satz 2 Nr. 1 bis 5 und 7 bis 12 dieses Gesetzes betreiben. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform oder für Zweigniederlassungen bestehen, bleiben unberührt.
+(1) Dieser Unterabschnitt ist auf Kreditinstitute im Sinne des § 1 Abs. 1 des Gesetzes über das Kreditwesen anzuwenden, soweit sie nach dessen § 2 Abs. 1, 4 oder 5 von der Anwendung nicht ausgenommen sind, sowie auf CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, soweit sie nicht nach § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes von der Anwendung ausgenommen sind, und auf Zweigniederlassungen von Unternehmen mit Sitz in einem Staat, der nicht Mitglied der Europäischen Gemeinschaft und auch nicht Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, sofern die Zweigniederlassung nach § 53 Abs. 1 des Gesetzes über das Kreditwesen als Kreditinstitut gilt. § 340l Abs. 2 und 3 ist außerdem auf Zweigniederlassungen im Sinne des § 53b Abs. 1 Satz 1 und Abs. 7 des Gesetzes über das Kreditwesen, auch in Verbindung mit einer Rechtsverordnung nach § 53c Nr. 1 dieses Gesetzes, anzuwenden, sofern diese Zweigniederlassungen Bankgeschäfte im Sinne des § 1 Abs. 1 Satz 2 Nr. 1 bis 5 und 7 bis 12 dieses Gesetzes betreiben. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform oder für Zweigniederlassungen bestehen, bleiben unberührt.
 
 (2) Dieser Unterabschnitt ist auf Unternehmen der in § 2 Abs. 1 Nr. 4 und 5 des Gesetzes über das Kreditwesen bezeichneten Art insoweit ergänzend anzuwenden, als sie Bankgeschäfte betreiben, die nicht zu den ihnen eigentümlichen Geschäften gehören.
 
 (3) Dieser Unterabschnitt ist auf Wohnungsunternehmen mit Spareinrichtung nicht anzuwenden.
 
-(4) Dieser Unterabschnitt ist auch auf Finanzdienstleistungsinstitute im Sinne des § 1 Abs. 1a des Gesetzes über das Kreditwesen anzuwenden, soweit sie nicht nach dessen § 2 Abs. 6 oder 10 von der Anwendung ausgenommen sind, sowie auf Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Staat, der nicht Mitglied der Europäischen Gemeinschaft und auch nicht Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, sofern die Zweigniederlassung nach § 53 Abs. 1 des Gesetzes über das Kreditwesen als Finanzdienstleistungsinstitut gilt. § 340c Abs. 1 ist nicht anzuwenden auf Finanzdienstleistungsinstitute und Kreditinstitute, soweit letztere Skontroführer im Sinne des § 27 Abs. 1 Satz 1 des Börsengesetzes und nicht CRR-Kreditinstitute im Sinne des § 1 Abs. 3d Satz 1 des Gesetzes über das Kreditwesen sind. § 340l ist nur auf Finanzdienstleistungsinstitute anzuwenden, die Kapitalgesellschaften sind. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform oder für Zweigniederlassungen bestehen, bleiben unberührt.
+(4) Dieser Unterabschnitt ist auch auf Finanzdienstleistungsinstitute im Sinne des § 1 Abs. 1a des Gesetzes über das Kreditwesen anzuwenden, soweit sie nicht nach dessen § 2 Abs. 6 oder 10 von der Anwendung ausgenommen sind, sowie auf Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Staat, der nicht Mitglied der Europäischen Gemeinschaft und auch nicht Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, sofern die Zweigniederlassung nach § 53 Abs. 1 des Gesetzes über das Kreditwesen als Finanzdienstleistungsinstitut gilt. § 340c Abs. 1 ist nicht anzuwenden auf Finanzdienstleistungsinstitute und Kreditinstitute, soweit letztere Skontroführer im Sinne des § 27 Abs. 1 Satz 1 des Börsengesetzes und nicht CRR-Kreditinstitute im Sinne des § 1 Abs. 3d Satz 1 des Gesetzes über das Kreditwesen sind. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform oder für Zweigniederlassungen bestehen, bleiben unberührt.
 
-(5) Dieser Unterabschnitt ist auch auf Institute im Sinne des § 1 Absatz 2a des Zahlungsdiensteaufsichtsgesetzes anzuwenden. § 340l ist nur auf Institute im Sinne des § 1 Absatz 2a des Zahlungsdiensteaufsichtsgesetzes anzuwenden, die Kapitalgesellschaften sind. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform oder für Zweigniederlassungen bestehen, bleiben unberührt.
+(5) Dieser Unterabschnitt ist auch auf Institute im Sinne des § 1 Absatz 2a des Zahlungsdiensteaufsichtsgesetzes anzuwenden. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform oder für Zweigniederlassungen bestehen, bleiben unberührt.
+
+(+++ § 340: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 Zweiter Titel Jahresabschluß, Lagebericht, Zwischenabschluß
 -----------------------------------------------------------
@@ -4114,9 +4526,9 @@ Zweiter Titel Jahresabschluß, Lagebericht, Zwischenabschluß
 
 ### § 340a Anzuwendende Vorschriften
 
-(1) Kreditinstitute, auch wenn sie nicht in der Rechtsform einer Kapitalgesellschaft betrieben werden, haben auf ihren Jahresabschluß die für große Kapitalgesellschaften geltenden Vorschriften des Ersten Unterabschnitts des Zweiten Abschnitts anzuwenden, soweit in den Vorschriften dieses Unterabschnitts nichts anderes bestimmt ist; Kreditinstitute haben außerdem einen Lagebericht nach den für große Kapitalgesellschaften geltenden Bestimmungen des § 289 aufzustellen.
+(1) Kreditinstitute, auch wenn sie nicht in der Rechtsform einer Kapitalgesellschaft betrieben werden, haben auf ihren Jahresabschluß die für große Kapitalgesellschaften geltenden Vorschriften des Ersten Unterabschnitts des Zweiten Abschnitts anzuwenden, soweit in den Vorschriften dieses Unterabschnitts nichts anderes bestimmt ist. Kreditinstitute haben außerdem einen Lagebericht nach den für große Kapitalgesellschaften geltenden Bestimmungen aufzustellen.
 
-(2) § 265 Abs. 6 und 7, §§ 267, 268 Abs. 4 Satz 1, Abs. 5 Satz 1 und 2, §§ 276, 277 Abs. 1, 2, 3 Satz 1, § 284 Abs. 2 Nr. 4, § 285 Nr. 8 und 12, § 288 sind nicht anzuwenden. An Stelle von § 247 Abs. 1, §§ 251, 266, 268 Abs. 2 und 7, §§ 275, 285 Nr. 1, 2, 4 und 9 Buchstabe c sind die durch Rechtsverordnung erlassenen Formblätter und anderen Vorschriften anzuwenden. § 246 Abs. 2 ist nicht anzuwenden, soweit abweichende Vorschriften bestehen. § 264 Abs. 3 und § 264b sind mit der Maßgabe anzuwenden, daß das Kreditinstitut unter den genannten Voraussetzungen die Vorschriften des Vierten Unterabschnitts des Zweiten Abschnitts nicht anzuwenden braucht.
+(2) § 265 Abs. 6 und 7, §§ 267, 268 Abs. 4 Satz 1, Abs. 5 Satz 1 und 2, §§ 276, 277 Abs. 1, 2, 3 Satz 1, § 284 Absatz 2 Nummer 3, § 285 Nr. 8 und 12, § 288 sind nicht anzuwenden. An Stelle von § 247 Abs. 1, §§ 251, 266, 268 Absatz 7, §§ 275, 284 Absatz 3, § 285 Nummer 1, 2, 4, 9 Buchstabe c und Nummer 27 sind die durch Rechtsverordnung erlassenen Formblätter und anderen Vorschriften anzuwenden. § 246 Abs. 2 ist nicht anzuwenden, soweit abweichende Vorschriften bestehen. § 264 Abs. 3 und § 264b sind mit der Maßgabe anzuwenden, daß das Kreditinstitut unter den genannten Voraussetzungen die Vorschriften des Vierten Unterabschnitts des Zweiten Abschnitts nicht anzuwenden braucht. § 285 Nummer 31 ist nicht anzuwenden; unter den Posten „außerordentliche Erträge“ und „außerordentliche Aufwendungen“ sind Erträge und Aufwendungen auszuweisen, die außerhalb der gewöhnlichen Geschäftstätigkeit anfallen. Im Anhang sind diese Posten hinsichtlich ihres Betrags und ihrer Art zu erläutern, soweit die ausgewiesenen Beträge für die Beurteilung der Ertragslage nicht von untergeordneter Bedeutung sind.
 
 (3) Sofern Kreditinstitute einer prüferischen Durchsicht zu unterziehende Zwischenabschlüsse zur Ermittlung von Zwischenergebnissen im Sinne des Artikels 26 Absatz 2 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABI. L 176 vom 27.6.2013, S. 1) aufstellen, sind auf diese die für den Jahresabschluss geltenden Rechnungslegungsgrundsätze anzuwenden. Die Vorschriften über die Bestellung des Abschlussprüfers sind auf die prüferische Durchsicht entsprechend anzuwenden. Die prüferische Durchsicht ist so anzulegen, dass bei gewissenhafter Berufsausübung ausgeschlossen werden kann, dass der Zwischenabschluss in wesentlichen Belangen den anzuwendenden Rechnungslegungsgrundsätzen widerspricht. Der Abschlussprüfer hat das Ergebnis der prüferischen Durchsicht in einer Bescheinigung zusammenzufassen. § 320 und § 323 gelten entsprechend.
 
@@ -4127,6 +4539,8 @@ alle Mandate in gesetzlich zu bildenden Aufsichtsgremien von großen Kapitalgese
 
 2.  
 alle Beteiligungen an großen Kapitalgesellschaften, die fünf vom Hundert der Stimmrechte überschreiten.
+
+(+++ § 340a: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 340b Pensionsgeschäfte
 
@@ -4161,7 +4575,7 @@ Dritter Titel Bewertungsvorschriften
 
 ### § 340e Bewertung von Vermögensgegenständen
 
-(1) Kreditinstitute haben Beteiligungen einschließlich der Anteile an verbundenen Unternehmen, Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten, Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken, technische Anlagen und Maschinen, andere Anlagen, Betriebs- und Geschäftsausstattung sowie Anlagen im Bau nach den für das Anlagevermögen geltenden Vorschriften zu bewerten, es sei denn, daß sie nicht dazu bestimmt sind, dauernd dem Geschäftsbetrieb zu dienen; in diesem Falle sind sie nach Satz 2 zu bewerten. Andere Vermögensgegenstände, insbesondere Forderungen und Wertpapiere, sind nach den für das Umlaufvermögen geltenden Vorschriften zu bewerten, es sei denn, daß sie dazu bestimmt werden, dauernd dem Geschäftsbetrieb zu dienen; in diesem Falle sind sie nach Satz 1 zu bewerten. § 253 Abs. 3 Satz 4 ist nur auf Beteiligungen und Anteile an verbundenen Unternehmen im Sinn des Satzes 1 sowie Wertpapiere und Forderungen im Sinn des Satzes 2, die dauernd dem Geschäftsbetrieb zu dienen bestimmt sind, anzuwenden.
+(1) Kreditinstitute haben Beteiligungen einschließlich der Anteile an verbundenen Unternehmen, Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten, Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken, technische Anlagen und Maschinen, andere Anlagen, Betriebs- und Geschäftsausstattung sowie Anlagen im Bau nach den für das Anlagevermögen geltenden Vorschriften zu bewerten, es sei denn, daß sie nicht dazu bestimmt sind, dauernd dem Geschäftsbetrieb zu dienen; in diesem Falle sind sie nach Satz 2 zu bewerten. Andere Vermögensgegenstände, insbesondere Forderungen und Wertpapiere, sind nach den für das Umlaufvermögen geltenden Vorschriften zu bewerten, es sei denn, daß sie dazu bestimmt werden, dauernd dem Geschäftsbetrieb zu dienen; in diesem Falle sind sie nach Satz 1 zu bewerten. § 253 Absatz 3 Satz 6 ist nur auf Beteiligungen und Anteile an verbundenen Unternehmen im Sinn des Satzes 1 sowie Wertpapiere und Forderungen im Sinn des Satzes 2, die dauernd dem Geschäftsbetrieb zu dienen bestimmt sind, anzuwenden.
 
 (2) Abweichend von § 253 Abs. 1 Satz 1 dürfen Hypothekendarlehen und andere Forderungen mit ihrem Nennbetrag angesetzt werden, soweit der Unterschiedsbetrag zwischen dem Nennbetrag und dem Auszahlungsbetrag oder den Anschaffungskosten Zinscharakter hat. Ist der Nennbetrag höher als der Auszahlungsbetrag oder die Anschaffungskosten, so ist der Unterschiedsbetrag in den Rechnungsabgrenzungsposten auf der Passivseite aufzunehmen; er ist planmäßig aufzulösen und in seiner jeweiligen Höhe in der Bilanz oder im Anhang gesondert anzugeben. Ist der Nennbetrag niedriger als der Auszahlungsbetrag oder die Anschaffungskosten, so darf der Unterschiedsbetrag in den Rechnungsabgrenzungsposten auf der Aktivseite aufgenommen werden; er ist planmäßig aufzulösen und in seiner jeweiligen Höhe in der Bilanz oder im Anhang gesondert anzugeben.
 
@@ -4170,10 +4584,20 @@ Dritter Titel Bewertungsvorschriften
 (4) In der Bilanz ist dem Sonderposten „Fonds für allgemeine Bankrisiken“ nach § 340g in jedem Geschäftsjahr ein Betrag, der mindestens 10 vom Hundert der Nettoerträge des Handelsbestands entspricht, zuzuführen und dort gesondert auszuweisen. Dieser Posten darf nur aufgelöst werden
 
 1.  
-zum Ausgleich von Nettoaufwendungen des Handelsbestands oder
+zum Ausgleich von Nettoaufwendungen des Handelsbestands sowie
 
 2.  
+zum Ausgleich eines Jahresfehlbetrags, soweit er nicht durch einen Gewinnvortrag aus dem Vorjahr gedeckt ist,
+
+3.  
+zum Ausgleich eines Verlustvortrags aus dem Vorjahr, soweit er nicht durch einen Jahresüberschuss gedeckt ist, oder
+
+4.  
 soweit er 50 vom Hundert des Durchschnitts der letzten fünf jährlichen Nettoerträge des Handelsbestands übersteigt.
+
+Auflösungen, die nach Satz 2 erfolgen, sind im Anhang anzugeben und zu erläutern.
+
+(+++ § 340e: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 340f Vorsorge für allgemeine Bankrisiken
 
@@ -4207,13 +4631,15 @@ Fünfter Titel Konzernabschluß, Konzernlagebericht, Konzernzwischenabschluß
 
 ### § 340i Pflicht zur Aufstellung
 
-(1) Kreditinstitute, auch wenn sie nicht in der Rechtsform einer Kapitalgesellschaft betrieben werden, haben unabhängig von ihrer Größe einen Konzernabschluß und einen Konzernlagebericht nach den Vorschriften des Zweiten Unterabschnitts des Zweiten Unterabschnitts über den Konzernabschluß und Konzernlagebericht aufzustellen, soweit in den Vorschriften dieses Unterabschnitts nichts anderes bestimmt ist. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform bestehen, bleiben unberührt.
+(1) Kreditinstitute, auch wenn sie nicht in der Rechtsform einer Kapitalgesellschaft betrieben werden, haben unabhängig von ihrer Größe einen Konzernabschluß und einen Konzernlagebericht nach den Vorschriften des Zweiten Unterabschnitts des Zweiten Abschnitts über den Konzernabschluß und Konzernlagebericht aufzustellen, soweit in den Vorschriften dieses Unterabschnitts nichts anderes bestimmt ist. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform bestehen, bleiben unberührt.
 
-(2) Auf den Konzernabschluß sind, soweit seine Eigenart keine Abweichung bedingt, die §§ 340a bis 340g über den Jahresabschluß und die für die Rechtsform und den Geschäftszweig der in den Konzernabschluß einbezogenen Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes geltenden Vorschriften entsprechend anzuwenden, soweit sie für große Kapitalgesellschaften gelten. Die §§ 293, 298 Abs. 1 und 2, § 314 Abs. 1 Nr. 1, 3, 6 Buchstabe c sind nicht anzuwenden. In den Fällen des § 315a Abs. 1 finden von den in Absatz 1 genannten Vorschriften nur die §§ 290 bis 292, 315a Anwendung; die Sätze 1 und 2 dieses Absatzes sowie § 340j sind nicht anzuwenden. Soweit § 315a Abs. 1 auf die Bestimmung des § 314 Abs. 1 Nr. 6 Buchstabe c verweist, tritt an deren Stelle die Vorschrift des § 34 Abs. 2 Nr. 2 in Verbindung mit § 37 der Kreditinstituts-Rechnungslegungsverordnung in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3658), die zuletzt durch Artikel 8 Abs. 11 Nr. 1 des Gesetzes vom 4. Dezember 2004 (BGBl. I S. 3166) geändert worden ist. Im Übrigen findet die Kreditinstituts-Rechnungslegungsverordnung in den Fällen des § 315a Abs. 1 keine Anwendung.
+(2) Auf den Konzernabschluß sind, soweit seine Eigenart keine Abweichung bedingt, die §§ 340a bis 340g über den Jahresabschluß und die für die Rechtsform und den Geschäftszweig der in den Konzernabschluß einbezogenen Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes geltenden Vorschriften entsprechend anzuwenden, soweit sie für große Kapitalgesellschaften gelten. Die §§ 293, 298 Absatz 1, § 314 Abs. 1 Nr. 1, 3, 6 Buchstabe c und Nummer 23 sind nicht anzuwenden. In den Fällen des § 315a Abs. 1 finden von den in Absatz 1 genannten Vorschriften nur die §§ 290 bis 292, 315a Anwendung; die Sätze 1 und 2 dieses Absatzes sowie § 340j sind nicht anzuwenden. Soweit § 315a Abs. 1 auf die Bestimmung des § 314 Abs. 1 Nr. 6 Buchstabe c verweist, tritt an deren Stelle die Vorschrift des § 34 Abs. 2 Nr. 2 in Verbindung mit § 37 der Kreditinstituts-Rechnungslegungsverordnung in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3658) *in der jeweils geltenden Fassung*. Im Übrigen findet die Kreditinstituts-Rechnungslegungsverordnung in den Fällen des § 315a Abs. 1 keine Anwendung.
 
 (3) Als Kreditinstitute im Sinne dieses Titels gelten auch Mutterunternehmen, deren einziger Zweck darin besteht, Beteiligungen an Tochterunternehmen zu erwerben sowie die Verwaltung und Verwertung dieser Beteiligungen wahrzunehmen, sofern diese Tochterunternehmen ausschließlich oder überwiegend Kreditinstitute sind.
 
 (4) Sofern Kreditinstitute einer prüferischen Durchsicht zu unterziehende Konzernzwischenabschlüsse zur Ermittlung von Konzernzwischenergebnissen im Sinne des Artikels 26 Absatz 2 in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 575/2013 aufstellen, sind auf diese die für den Konzernabschluss geltenden Rechnungslegungsgrundsätze anzuwenden. Die Vorschriften über die Bestellung des Abschlussprüfers sind auf die prüferische Durchsicht entsprechend anzuwenden. Die prüferische Durchsicht ist so anzulegen, dass bei gewissenhafter Berufsausübung ausgeschlossen werden kann, dass der Zwischenabschluss in wesentlichen Belangen den anzuwendenden Rechnungslegungsgrundsätzen widerspricht. Der Abschlussprüfer hat das Ergebnis der prüferischen Durchsicht in einer Bescheinigung zusammenzufassen. § 320 und § 323 gelten entsprechend.
+
+(+++ § 340i: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 340j Einzubeziehende Unternehmen
 
@@ -4226,17 +4652,17 @@ Sechster Titel Prüfung
 
 ### § 340k
 
-(1) Kreditinstitute haben unabhängig von ihrer Größe ihren Jahresabschluß und Lagebericht sowie ihren Konzernabschluß und Konzernlagebericht unbeschadet der Vorschriften der §§ 28 und 29 des Gesetzes über das Kreditwesen nach den Vorschriften des Dritten Unterabschnitts des Zweiten Abschnitts über die Prüfung prüfen zu lassen; § 319 Abs. 1 Satz 2 ist nicht anzuwenden. Die Prüfung ist spätestens vor Ablauf des fünften Monats des dem Abschlußstichtag nachfolgenden Geschäftsjahrs vorzunehmen. Der Jahresabschluß ist nach der Prüfung unverzüglich festzustellen.
+(1) Kreditinstitute haben unabhängig von ihrer Größe ihren Jahresabschluß und Lagebericht sowie ihren Konzernabschluß und Konzernlagebericht unbeschadet der Vorschriften der §§ 28 und 29 des Gesetzes über das Kreditwesen nach den Vorschriften des Dritten Unterabschnitts des Zweiten Abschnitts über die Prüfung prüfen zu lassen; § 318 Absatz 1a und § 319 Absatz 1 Satz 2 sind nicht anzuwenden. Die Prüfung ist spätestens vor Ablauf des fünften Monats des dem Abschlußstichtag nachfolgenden Geschäftsjahrs vorzunehmen. Der Jahresabschluß ist nach der Prüfung unverzüglich festzustellen. Auf CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, sind die Vorschriften des Dritten Unterabschnitts des Zweiten Abschnitts nur insoweit anzuwenden, als nicht die Verordnung (EU) Nr. 537/2014 anzuwenden ist.
 
-(2) Ist das Kreditinstitut eine Genossenschaft oder ein rechtsfähiger wirtschaftlicher Verein, so ist die Prüfung abweichend von § 319 Abs. 1 Satz 1 von dem Prüfungsverband durchzuführen, dem das Kreditinstitut als Mitglied angehört, sofern mehr als die Hälfte der geschäftsführenden Mitglieder des Vorstands dieses Prüfungsverbands Wirtschaftsprüfer sind. Hat der Prüfungsverband nur zwei Vorstandsmitglieder, so muß einer von ihnen Wirtschaftsprüfer sein. § 319 Abs. 2 und 3 sowie § 319a Abs. 1 sind auf die gesetzlichen Vertreter des Prüfungsverbandes und auf alle vom Prüfungsverband beschäftigten Personen, die das Ergebnis der Prüfung beeinflussen können, entsprechend anzuwenden; § 319 Abs. 3 Satz 1 Nr. 2 ist auf Mitglieder des Aufsichtsorgans des Prüfungsverbandes nicht anzuwenden, sofern sichergestellt ist, dass der Abschlussprüfer die Prüfung unabhängig von den Weisungen durch das Aufsichtsorgan durchführen kann. Ist das Mutterunternehmen eine Genossenschaft, so ist der Prüfungsverband, dem die Genossenschaft angehört, unter den Voraussetzungen der Sätze 1 bis 3 auch Abschlußprüfer des Konzernabschlusses und des Konzernlageberichts.
+(2) Ist das Kreditinstitut eine Genossenschaft oder ein rechtsfähiger wirtschaftlicher Verein, so ist die Prüfung abweichend von § 319 Abs. 1 Satz 1 von dem Prüfungsverband durchzuführen, dem das Kreditinstitut als Mitglied angehört, sofern mehr als die Hälfte der geschäftsführenden Mitglieder des Vorstands dieses Prüfungsverbands Wirtschaftsprüfer sind. Hat der Prüfungsverband nur zwei Vorstandsmitglieder, so muß einer von ihnen Wirtschaftsprüfer sein. § 319 Abs. 2 und 3 sowie § 319a Abs. 1 sind auf die gesetzlichen Vertreter des Prüfungsverbandes und auf alle vom Prüfungsverband beschäftigten Personen, die das Ergebnis der Prüfung beeinflussen können, entsprechend anzuwenden; § 319 Abs. 3 Satz 1 Nr. 2 ist auf Mitglieder des Aufsichtsorgans des Prüfungsverbandes nicht anzuwenden, sofern sichergestellt ist, dass der Abschlussprüfer die Prüfung unabhängig von den Weisungen durch das Aufsichtsorgan durchführen kann. § 319 Absatz 1 Satz 3 und 4 gilt entsprechend mit der Maßgabe, dass der Prüfungsverband über einen Auszug hinsichtlich seiner Eintragung nach § 40a der Wirtschaftsprüferordnung verfügen muss, bei erstmaliger Durchführung einer Prüfung nach Absatz 1 Satz 1 spätestens sechs Wochen nach deren Beginn. Ist das Mutterunternehmen eine Genossenschaft, so ist der Prüfungsverband, dem die Genossenschaft angehört, unter den Voraussetzungen der Sätze 1 bis 4 auch Abschlußprüfer des Konzernabschlusses und des Konzernlageberichts.
 
 (2a) Bei der Prüfung des Jahresabschlusses der in Absatz 2 bezeichneten Kreditinstitute durch einen Prüfungsverband darf der gesetzlich vorgeschriebene Bestätigungsvermerk nur von Wirtschaftsprüfern unterzeichnet werden. Die im Prüfungsverband tätigen Wirtschaftsprüfer haben ihre Prüfungstätigkeit unabhängig, gewissenhaft, verschwiegen und eigenverantwortlich auszuüben. Sie haben sich insbesondere bei der Erstattung von Prüfungsberichten unparteiisch zu verhalten. Weisungen dürfen ihnen hinsichtlich ihrer Prüfungstätigkeit von Personen, die nicht Wirtschaftsprüfer sind, nicht erteilt werden. Die Zahl der im Verband tätigen Wirtschaftsprüfer muss so bemessen sein, dass die den Bestätigungsvermerk unterschreibenden Wirtschaftsprüfer die Prüfung verantwortlich durchführen können.
 
-(3) Ist das Kreditinstitut eine Sparkasse, so dürfen die nach Absatz 1 vorgeschriebenen Prüfungen abweichend von § 319 Abs. 1 Satz 1 von der Prüfungsstelle eines Sparkassen- und Giroverbands durchgeführt werden. Die Prüfung darf von der Prüfungsstelle jedoch nur durchgeführt werden, wenn der Leiter der Prüfungsstelle die Voraussetzungen des § 319 Abs. 1 Satz 1 und 2 erfüllt; § 319 Abs. 2, 3 und 5 sowie § 319a sind auf alle vom Sparkassen- und Giroverband beschäftigten Personen, die das Ergebnis der Prüfung beeinflussen können, entsprechend anzuwenden. Außerdem muß sichergestellt sein, daß der Abschlußprüfer die Prüfung unabhängig von den Weisungen der Organe des Sparkassen- und Giroverbands durchführen kann. Soweit das Landesrecht nichts anderes vorsieht, findet § 319 Abs. 1 Satz 3 mit der Maßgabe Anwendung, dass die Bescheinigung der Prüfungsstelle erteilt worden sein muss.
+(3) Ist das Kreditinstitut eine Sparkasse, so dürfen die nach Absatz 1 vorgeschriebenen Prüfungen abweichend von § 319 Abs. 1 Satz 1 von der Prüfungsstelle eines Sparkassen- und Giroverbands durchgeführt werden. Die Prüfung darf von der Prüfungsstelle jedoch nur durchgeführt werden, wenn der Leiter der Prüfungsstelle die Voraussetzungen des § 319 Abs. 1 Satz 1 und 2 erfüllt; § 319 Abs. 2, 3 und 5, § 319a Absatz 1 und 2 sowie Artikel 5 Absatz 1, 4 Unterabsatz 1 und Absatz 5 der Verordnung (EU) Nr. 537/2014 sind auf alle vom Sparkassen- und Giroverband beschäftigten Personen, die das Ergebnis der Prüfung beeinflussen können, entsprechend anzuwenden. Auf die Prüfungsstellen findet Artikel 5 der Verordnung (EU) Nr. 537/2014 keine Anwendung. Außerdem muß sichergestellt sein, daß der Abschlußprüfer die Prüfung unabhängig von den Weisungen der Organe des Sparkassen- und Giroverbands durchführen kann. Soweit das Landesrecht nichts anderes vorsieht, findet § 319 Absatz 1 Satz 3 und 4 mit der Maßgabe Anwendung, dass die Prüfungsstelle über einen Auszug hinsichtlich ihrer Eintragung nach § 40a der Wirtschaftsprüferordnung verfügen muss, bei erstmaliger Durchführung einer Prüfung nach Absatz 1 Satz 1 spätestens sechs Wochen nach deren Beginn.
 
-(4) Finanzdienstleistungsinstitute und Institute im Sinne des § 1 Absatz 2a des Zahlungsdiensteaufsichtsgesetzes, deren Bilanzsumme am Stichtag 150 Millionen Euro nicht übersteigt, dürfen auch von den in § 319 Abs. 1 Satz 2 genannten Personen geprüft werden.
+(4) Ist das Kreditinstitut eine Sparkasse, finden Artikel 4 Absatz 3 Unterabsatz 2 sowie die Artikel 16, 17 und 19 der Verordnung (EU) Nr. 537/2014 keine Anwendung. Artikel 4 Absatz 3 Unterabsatz 1 sowie Artikel 10 Absatz 2 Buchstabe g der Verordnung (EU) Nr. 537/2014 finden auf alle vom Sparkassen- und Giroverband beschäftigten Personen, die das Ergebnis der Prüfung beeinflussen können, entsprechende Anwendung. Auf die Prüfungsstellen finden Artikel 4 Absatz 2 und 3 Unterabsatz 1 sowie Artikel 10 Absatz 2 Buchstabe g der Verordnung (EU) Nr. 537/2014 keine Anwendung.
 
-(5) Kreditinstitute, auch wenn sie nicht in der Rechtsform einer Kapitalgesellschaft betrieben werden, haben § 324 anzuwenden, wenn sie kapitalmarktorientiert im Sinn des § 264d sind und keinen Aufsichts- oder Verwaltungsrat haben, der die Voraussetzungen des § 100 Abs. 5 des Aktiengesetzes erfüllen muss. Dies gilt für Sparkassen im Sinn des Absatzes 3 sowie sonstige landesrechtliche öffentlich-rechtliche Kreditinstitute nur, soweit das Landesrecht nichts anderes vorsieht.
+(5) CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, haben, auch wenn sie nicht kapitalmarktorientiert im Sinne des § 264d sind, § 324 Absatz 1 und 2 anzuwenden, wenn sie keinen Aufsichts- oder Verwaltungsrat haben, der die Voraussetzungen des § 100 Absatz 5 des Aktiengesetzes erfüllen muss. Dies gilt für Sparkassen im Sinn des Absatzes 3 sowie sonstige landesrechtliche öffentlich-rechtliche Kreditinstitute nur, soweit das Landesrecht nichts anderes vorsieht.
 
 Siebenter Titel Offenlegung
 ---------------------------
@@ -4245,15 +4671,23 @@ Siebenter Titel Offenlegung
 
 ### § 340l
 
-(1) Kreditinstitute haben den Jahresabschluß und den Lagebericht sowie den Konzernabschluß und den Konzernlagebericht und die anderen in § 325 bezeichneten Unterlagen nach § 325 Abs. 2 bis 5, §§ 328, 329 Abs. 1 und 4 offenzulegen. Kreditinstitute, die nicht Zweigniederlassungen sind, haben die in Satz 1 bezeichneten Unterlagen außerdem in jedem anderen Mitgliedstaat der Europäischen Gemeinschaft und in jedem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum offenzulegen, in dem sie eine Zweigniederlassung errichtet haben. Die Offenlegung richtet sich nach dem Recht des jeweiligen Mitgliedstaats oder Vertragsstaats.
+(1) Kreditinstitute haben den Jahresabschluß und den Lagebericht sowie den Konzernabschluß und den Konzernlagebericht und die anderen in § 325 bezeichneten Unterlagen nach § 325 Abs. 2 bis 5, §§ 328, 329 Abs. 1 und 4 offenzulegen. Kreditinstitute, die nicht Zweigniederlassungen sind, haben die in Satz 1 bezeichneten Unterlagen außerdem in jedem anderen Mitgliedstaat der Europäischen Gemeinschaft und in jedem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum offenzulegen, in dem sie eine Zweigniederlassung errichtet haben. Die Offenlegung nach Satz 2 richtet sich nach dem Recht des jeweiligen Mitgliedstaats oder Vertragsstaats.
 
-(2) Zweigniederlassungen im Geltungsbereich dieses Gesetzes von Unternehmen mit Sitz in einem anderen Staat haben die in Absatz 1 Satz 1 bezeichneten Unterlagen ihrer Hauptniederlassung, die nach deren Recht aufgestellt und geprüft worden sind, nach § 325 Abs. 2 bis 5, §§ 328, 329 Abs. 1, 3 und 4 offenzulegen. Unternehmen mit Sitz in einem Drittstaat im Sinn des § 3 Abs. 1 Satz 1 der Wirtschaftsprüferordnung, deren Wertpapiere im Sinn des § 2 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes an einer inländischen Börse zum Handel am regulierten Markt zugelassen sind, haben zudem eine Bescheinigung der Wirtschaftsprüferkammer gemäß § 134 Abs. 2a der Wirtschaftsprüferordnung über die Eintragung des Abschlussprüfers oder eine Bestätigung der Wirtschaftsprüferkammer gemäß § 134 Abs. 4 Satz 8 der Wirtschaftsprüferordnung über die Befreiung von der Eintragungsverpflichtung offenzulegen. Satz 2 ist nicht anzuwenden, soweit ausschließlich Schuldtitel im Sinn des § 2 Abs. 1 Satz 1 Nr. 3 des Wertpapierhandelsgesetzes mit einer Mindeststückelung von 50 000 Euro oder einem entsprechenden Betrag anderer Währung an einer inländischen Börse zum Handel am regulierten Markt zugelassen sind. Zweigniederlassungen im Geltungsbereich dieses Gesetzes von Unternehmen mit Sitz in einem Staat, der nicht Mitglied der Europäischen Gemeinschaft und auch nicht Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, brauchen auf ihre eigene Geschäftstätigkeit bezogene gesonderte Rechnungslegungsunterlagen nach Absatz 1 Satz 1 nicht offenzulegen, sofern die nach den Sätzen 1 und 2 offenzulegenden Unterlagen nach einem an die Richtlinie 86/635/EWG angepaßten Recht aufgestellt und geprüft worden oder den nach einem dieser Rechte aufgestellten Unterlagen gleichwertig sind. Die Unterlagen sind in deutscher Sprache einzureichen. Soweit dies nicht die Amtssprache am Sitz der Hauptniederlassung ist, können die Unterlagen der Hauptniederlassung auch
+(2) Zweigniederlassungen im Geltungsbereich dieses Gesetzes von Unternehmen mit Sitz in einem anderen Staat haben die in Absatz 1 Satz 1 bezeichneten Unterlagen ihrer Hauptniederlassung, die nach deren Recht aufgestellt und geprüft worden sind, nach § 325 Abs. 2 bis 5, §§ 328, 329 Abs. 1, 3 und 4 offenzulegen. Unternehmen mit Sitz in einem Drittstaat im Sinn des § 3 Abs. 1 Satz 1 der Wirtschaftsprüferordnung, deren Wertpapiere im Sinn des § 2 Absatz 1 des Wertpapierhandelsgesetzes an einer inländischen Börse zum Handel am regulierten Markt zugelassen sind, haben zudem eine Bescheinigung der Wirtschaftsprüferkammer gemäß § 134 Abs. 2a der Wirtschaftsprüferordnung über die Eintragung des Abschlussprüfers oder eine Bestätigung der Wirtschaftsprüferkammer gemäß § 134 Abs. 4 Satz 8 der Wirtschaftsprüferordnung über die Befreiung von der Eintragungsverpflichtung offenzulegen. Satz 2 ist nicht anzuwenden, soweit ausschließlich Schuldtitel im Sinne des § 2 Absatz 1 Nummer 3 des Wertpapierhandelsgesetzes
+
+1.  
+mit einer Mindeststückelung zu je 100 000 Euro oder einem entsprechenden Betrag anderer Währung an einer inländischen Behörde zum Handel am regulierten Markt zugelassen sind oder
+
+2.  
+mit einer Mindeststückelung zu je 50 000 Euro oder einem entsprechenden Betrag anderer Währung an einer inländischen Börse zum Handel am regulierten Markt zugelassen sind und diese Schuldtitel vor dem 31. Dezember 2010 begeben worden sind.
+
+Zweigniederlassungen im Geltungsbereich dieses Gesetzes von Unternehmen mit Sitz in einem Staat, der nicht Mitglied der Europäischen Gemeinschaft und auch nicht Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, brauchen auf ihre eigene Geschäftstätigkeit bezogene gesonderte Rechnungslegungsunterlagen nach Absatz 1 Satz 1 nicht offenzulegen, sofern die nach den Sätzen 1 und 2 offenzulegenden Unterlagen nach einem an die Richtlinie 86/635/EWG angepaßten Recht aufgestellt und geprüft worden oder den nach einem dieser Rechte aufgestellten Unterlagen gleichwertig sind. Die Unterlagen sind in deutscher Sprache einzureichen. Soweit dies nicht die Amtssprache am Sitz der Hauptniederlassung ist, können die Unterlagen der Hauptniederlassung auch
 
 1.  
 in englischer Sprache oder
 
 2.  
-einer von dem Register der Hauptniederlassung beglaubigten Abschrift oder,
+in einer von dem Register der Hauptniederlassung beglaubigten Abschrift oder,
 
 3.  
 wenn eine dem Register vergleichbare Einrichtung nicht vorhanden oder diese nicht zur Beglaubigung befugt ist, in einer von einem Wirtschaftsprüfer bescheinigten Abschrift, verbunden mit der Erklärung, dass entweder eine dem Register vergleichbare Einrichtung nicht vorhanden oder diese nicht zur Beglaubigung befugt ist,
@@ -4262,22 +4696,24 @@ eingereicht werden; von der Beglaubigung des Registers ist eine beglaubigte Übe
 
 (3) § 339 ist auf Kreditinstitute, die Genossenschaften sind, nicht anzuwenden.
 
-(4) Soweit Absatz 1 Satz 1 auf § 325 Abs. 2a Satz 3 und 5 verweist, gelten die folgenden Maßgaben und ergänzenden Bestimmungen:
+(4) Macht ein Kreditinstitut von dem Wahlrecht nach § 325 Absatz 2a Satz 1 Gebrauch, sind § 325 Absatz 2a Satz 3 und 5 mit folgenden Maßgaben anzuwenden:
 
 1.  
 Die in § 325 Abs. 2a Satz 3 genannten Vorschriften des Ersten Unterabschnitts des Zweiten Abschnitts des Dritten Buchs sind auch auf Kreditinstitute anzuwenden, die nicht in der Rechtsform einer Kapitalgesellschaft betrieben werden.
 
 2.  
-§ 285 Nr. 8 Buchstabe b findet keine Anwendung. Jedoch ist im Anhang zum Einzelabschluss nach § 325 Abs. 2a der Personalaufwand des Geschäftsjahrs in der Gliederung nach Formblatt 3 Posten 10 Buchstabe a der Kreditinstituts-Rechnungslegungsverordnung in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3658), die zuletzt durch Artikel 8 Abs. 11 Nr. 1 des Gesetzes vom 4. Dezember 2004 (BGBl. I S. 3166) geändert worden ist, anzugeben, sofern diese Angaben nicht gesondert in der Gewinn- und Verlustrechnung erscheinen.
+§ 285 Nummer 8 Buchstabe b findet keine Anwendung; der Personalaufwand des Geschäftsjahrs ist jedoch im Anhang zum Einzelabschluss nach § 325 Absatz 2a gemäß der Gliederung nach Formblatt 3 im Posten Allgemeine Verwaltungsaufwendungen Unterposten Buchstabe a Personalaufwand der Kreditinstituts-Rechnungslegungsverordnung in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3658) in der jeweils geltenden Fassung anzugeben, sofern diese Angaben nicht gesondert in der Gewinn- und Verlustrechnung erscheinen.
 
 3.  
-An Stelle des § 285 Nr. 9 Buchstabe c gilt § 34 Abs. 2 Nr. 2 der Kreditinstituts-Rechnungslegungsverordnung in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3658), die zuletzt durch Artikel 8 Abs. 11 Nr. 1 des Gesetzes vom 4. Dezember 2004 (BGBl. I S. 3166) geändert worden ist.
+An Stelle des § 285 Nr. 9 Buchstabe c gilt § 34 Abs. 2 Nr. 2 der Kreditinstituts-Rechnungslegungsverordnung in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3658) in der jeweils geltenden Fassung.
 
 4.  
 Für den Anhang gilt zusätzlich die Vorschrift des § 340a Abs. 4.
 
 5.  
 Im Übrigen finden die Bestimmungen des Zweiten bis Vierten Titels dieses Unterabschnitts sowie der Kreditinstituts-Rechnungslegungsverordnung keine Anwendung.
+
+(+++ § 340i: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 Achter Titel Straf- und Bußgeldvorschriften, Ordnungsgelder
 -----------------------------------------------------------
@@ -4286,7 +4722,7 @@ Achter Titel Straf- und Bußgeldvorschriften, Ordnungsgelder
 
 ### § 340m Strafvorschriften
 
-Die Strafvorschriften der §§ 331 bis 333 sind auch auf nicht in der Rechtsform einer Kapitalgesellschaft betriebene Kreditinstitute, auf Finanzdienstleistungsinstitute im Sinne des § 340 Absatz 4 sowie auf Institute im Sinne des § 340 Absatz 5 anzuwenden. § 331 ist darüber hinaus auch anzuwenden auf die Verletzung von Pflichten durch
+(1) Die Strafvorschriften der §§ 331 bis 333 sind auch auf nicht in der Rechtsform einer Kapitalgesellschaft betriebene Kreditinstitute, auf Finanzdienstleistungsinstitute im Sinne des § 340 Absatz 4 sowie auf Institute im Sinne des § 340 Absatz 5 anzuwenden. § 331 ist darüber hinaus auch anzuwenden auf die Verletzung von Pflichten durch
 
 1.  
 den Geschäftsleiter (§ 1 Absatz 2 Satz 1 des Kreditwesengesetzes) eines nicht in der Rechtsform der Kapitalgesellschaft betriebenen Kreditinstituts oder Finanzdienstleistungsinstituts im Sinne des § 340 Absatz 4 Satz 1,
@@ -4300,6 +4736,16 @@ den Inhaber eines in der Rechtsform des Einzelkaufmanns betriebenen Kreditinstit
 4.  
 den Geschäftsleiter im Sinne des § 53 Absatz 2 Nummer 1 des Kreditwesengesetzes.
 
+(2) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied eines nach § 340k Absatz 5 Satz 1 in Verbindung mit § 324 Absatz 1 Satz 1 eingerichteten Prüfungsausschusses eines dort genannten CRR-Kreditinstituts
+
+1.  
+eine in § 340n Absatz 2a bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
+
+2.  
+eine in § 340n Absatz 2a bezeichnete Handlung beharrlich wiederholt.
+
+(3) § 335c Absatz 2 gilt in den Fällen des Absatzes 2 entsprechend.
+
 ### § 340n Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer als Geschäftsleiter im Sinne des § 1 Abs. 2 Satz 1 oder des § 53 Abs. 2 Nr. 1 des Kreditwesengesetzes oder als Inhaber eines in der Rechtsform des Einzelkaufmanns betriebenen Kreditinstituts oder Finanzdienstleistungsinstituts im Sinne des § 340 Abs. 4 Satz 1 oder als Geschäftsleiter im Sinne des § 1 Absatz 8 Satz 1 und 2 des Zahlungsdiensteaufsichtsgesetzes eines Instituts im Sinne des § 340 Absatz 5 oder als Mitglied des Aufsichtsrats eines der vorgenannten Unternehmen
@@ -4308,16 +4754,16 @@ den Geschäftsleiter im Sinne des § 53 Absatz 2 Nummer 1 des Kreditwesengesetze
 bei der Aufstellung oder Feststellung des Jahresabschlusses oder bei der Aufstellung des Zwischenabschlusses gemäß § 340a Abs. 3 einer Vorschrift
 
 a)  
-des § 243 Abs. 1 oder 2, der §§ 244, 245, 246 Abs. 1 oder 2, dieser in Verbindung mit § 340a Abs. 2 Satz 3, des § 246 Abs. 3 Satz 1, des § 247 Abs. 2 oder 3, der §§ 248, 249 Abs. 1 Satz 1 oder Abs. 2, des § 250 Abs. 1 oder Abs. 2, des § 264 Abs. 2, des § 340b Abs. 4 oder 5 oder des § 340c Abs. 1 über Form oder Inhalt,
+des § 243 Abs. 1 oder 2, der §§ 244, 245, 246 Abs. 1 oder 2, dieser in Verbindung mit § 340a Abs. 2 Satz 3, des § 246 Abs. 3 Satz 1, des § 247 Abs. 2 oder 3, der §§ 248, 249 Abs. 1 Satz 1 oder Abs. 2, des § 250 Abs. 1 oder Abs. 2, des § 264 Absatz 1a oder Absatz 2, des § 340b Abs. 4 oder 5 oder des § 340c Abs. 1 über Form oder Inhalt,
 
 b)  
-des § 253 Abs. 1 Satz 1, 2, 3 oder 4, Abs. 2 Satz 1, auch in Verbindung mit Satz 2, Abs. 3 Satz 1, 2 oder 3, Abs. 4 oder 5, der §§ 254, 256a, 340e Abs. 1 Satz 1 oder 2, Abs. 3 Satz 1, 2, 3 oder 4 Halbsatz 2, Abs. 4 Satz 1 oder 2, des § 340f Abs. 1 Satz 2 oder des § 340g Abs. 2 über die Bewertung,
+des § 253 Abs. 1 Satz 1, 2, 3 oder 4, Abs. 2 Satz 1, auch in Verbindung mit Satz 2, Absatz 3 Satz 1, 2, 3, 4 oder Satz 5, Abs. 4 oder 5, der §§ 254, 256a, 340e Abs. 1 Satz 1 oder 2, Abs. 3 Satz 1, 2, 3 oder 4 Halbsatz 2, Abs. 4 Satz 1 oder 2, des § 340f Abs. 1 Satz 2 oder des § 340g Abs. 2 über die Bewertung,
 
 c)  
-des § 265 Abs. 2, 3 oder 4, des § 268 Abs. 3 oder 6, der §§ 272, 274 oder des § 277 Abs. 3 Satz 2 oder Abs. 4 über die Gliederung,
+des § 265 Abs. 2, 3 oder 4, des § 268 Abs. 3 oder 6, der §§ 272, 274 oder des § 277 Abs. 3 Satz 2 über die Gliederung,
 
 d)  
-des § 284 Abs. 1, 2 Nr. 1, 3 oder Nr. 5 oder des § 285 Nr. 3, 6, 7, 9 Buchstabe a oder Buchstabe b, Nr. 10, 11, 13, 14, 17 bis 29 über die im Anhang zu machenden Angaben,
+des § 284 Absatz 1, 2 Nummer 1, 2 oder Nummer 4, Absatz 3 oder des § 285 Nummer 3, 3a, 7, 9 Buchstabe a oder Buchstabe b, Nummer 10 bis 11b, 13 bis 15a, 16 bis 26, 28 bis 33 oder Nummer 34 über die im Anhang zu machenden Angaben,
 
 2.  
 bei der Aufstellung des Konzernabschlusses oder des Konzernzwischenabschlusses gemäß § 340i Abs. 4 einer Vorschrift
@@ -4326,7 +4772,7 @@ a)
 des § 294 Abs. 1 über den Konsolidierungskreis,
 
 b)  
-des § 297 Abs. 2 oder 3 oder des § 340i Abs. 2 Satz 1 in Verbindung mit einer der in Nummer 1 Buchstabe a bezeichneten Vorschriften über Form oder Inhalt,
+des § 297 Absatz 1a, 2 oder Absatz 3 oder des § 340i Abs. 2 Satz 1 in Verbindung mit einer der in Nummer 1 Buchstabe a bezeichneten Vorschriften über Form oder Inhalt,
 
 c)  
 des § 300 über die Konsolidierungsgrundsätze oder das Vollständigkeitsgebot,
@@ -4338,13 +4784,13 @@ e)
 des § 311 Abs. 1 Satz 1 in Verbindung mit § 312 über die Behandlung assoziierter Unternehmen oder
 
 f)  
-des § 308 Abs. 1 Satz 3, des § 313 oder des § 314 über die im Anhang zu machenden Angaben,
+des § 308 Abs. 1 Satz 3, des § 313 oder des § 314 über die im Konzernanhang zu machenden Angaben,
 
 3.  
-bei der Aufstellung des Lageberichts einer Vorschrift des § 289 Abs. 1, 4 oder Abs. 5 oder des § 289a über den Inhalt des Lageberichts,
+bei der Aufstellung des Lageberichts einer Vorschrift des § 289 oder des § 289a über den Inhalt des Lageberichts,
 
 4.  
-bei der Aufstellung des Konzernlageberichts einer Vorschrift des § 315 Abs. 1 oder 4 über den Inhalt des Konzernlageberichts,
+bei der Aufstellung des Konzernlageberichts einer Vorschrift des § 315 Absatz 1, 2, 4 oder Absatz 5 über den Inhalt des Konzernlageberichts,
 
 5.  
 bei der Offenlegung, Veröffentlichung oder Vervielfältigung einer Vorschrift des § 328 über Form oder Inhalt oder
@@ -4354,11 +4800,32 @@ einer auf Grund des § 330 Abs. 2 in Verbindung mit Abs. 1 Satz 1 erlassenen Rec
 
 zuwiderhandelt.
 
-(2) Ordnungswidrig handelt, wer zu einem Jahresabschluss, zu einem Einzelabschluss nach § 325 Abs. 2a oder zu einem Konzernabschluss, der aufgrund gesetzlicher Vorschriften zu prüfen ist, einen Vermerk nach § 322 Abs. 1 erteilt, obwohl nach § 319 Abs. 2, 3, 5, § 319a Abs. 1 Satz 1, Abs. 2, § 319b Abs. 1 er, nach § 319 Abs. 4, auch in Verbindung mit § 319a Abs. 1 Satz 2, oder § 319a Abs. 1 Satz 4, 5, § 319b Abs. 1 die Wirtschaftsprüfungsgesellschaft oder nach § 340k Abs. 2 oder Abs. 3 der Prüfungsverband oder die Prüfungsstelle, für die oder für den er tätig wird, nicht Abschlussprüfer sein darf.
+(2) Ordnungswidrig handelt, wer zu einem Jahresabschluss, zu einem Einzelabschluss nach § 325 Abs. 2a oder zu einem Konzernabschluss, der aufgrund gesetzlicher Vorschriften zu prüfen ist, einen Vermerk nach § 322 Abs. 1 erteilt, obwohl nach § 319 Abs. 2, 3, 5, § 319a Abs. 1 Satz 1, Abs. 2, § 319b Abs. 1 er, nach § 319 Abs. 4, auch in Verbindung mit § 319a Abs. 1 Satz 2, oder § 319b Abs. 1 die Wirtschaftsprüfungsgesellschaft oder nach § 340k Abs. 2 oder Abs. 3 der Prüfungsverband oder die Prüfungsstelle, für die oder für den er tätig wird, nicht Abschlussprüfer sein darf.
+
+(2a) Ordnungswidrig handelt, wer
+
+1.  
+als Mitglied eines nach § 340k Absatz 5 Satz 1 in Verbindung mit § 324 Absatz 1 Satz 1 eingerichteten Prüfungsausschusses eines CRR-Kreditinstituts im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, das keine Sparkasse ist,
+
+a)  
+die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) überwacht,
+
+b)  
+eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, die den Anforderungen nach Artikel 16 Absatz 2 Unterabsatz 2 oder 3 der Verordnung (EU) Nr. 537/2014 nicht entspricht oder der ein Auswahlverfahren nach Artikel 16 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht vorangegangen ist, oder
+
+c)  
+den Gesellschaftern oder der sonst für die Bestellung des Abschlussprüfers zuständigen Stelle einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht entspricht, oder
+
+2.  
+als Mitglied eines nach § 340k Absatz 5 in Verbindung mit § 324 Absatz 1 Satz 1 eingerichteten Prüfungsausschusses eines CRR-Kreditinstituts im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, das eine Sparkasse ist, die Unabhängigkeit der in § 340k Absatz 3 Satz 2 zweiter Halbsatz genannten Personen nicht nach Maßgabe des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 der Verordnung (EU) Nr. 537/2014 in Verbindung mit § 340k Absatz 3 Satz 2 oder nach Maßgabe des Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 überwacht.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-(4) Verwaltungsbehörde im Sinn des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 2 die Bundesanstalt für Finanzdienstleistungsaufsicht.
+(4) Verwaltungsbehörde im Sinn des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 2a die Bundesanstalt für Finanzdienstleistungsaufsicht, in den Fällen des Absatzes 2 die Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle.
+
+(5) Die Bundesanstalt für Finanzdienstleistungsaufsicht übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach Absatz 2a.
+
+(+++ § 340n: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 340o Festsetzung von Ordnungsgeld
 
@@ -4386,11 +4853,11 @@ Erster Titel Anwendungsbereich
 
 (1) Dieser Unterabschnitt ist, soweit nichts anderes bestimmt ist, auf Unternehmen, die den Betrieb von Versicherungsgeschäften zum Gegenstand haben und nicht Träger der Sozialversicherung sind (Versicherungsunternehmen), anzuwenden. Dies gilt nicht für solche Versicherungsunternehmen, die auf Grund von Gesetz, Tarifvertrag oder Satzung ausschließlich für ihre Mitglieder oder die durch Gesetz oder Satzung begünstigten Personen Leistungen erbringen oder als nicht rechtsfähige Einrichtungen ihre Aufwendungen im Umlageverfahren decken, es sei denn, sie sind Aktiengesellschaften, Versicherungsvereine auf Gegenseitigkeit oder rechtsfähige kommunale Schadenversicherungsunternehmen.
 
-(2) Versicherungsunternehmen im Sinne des Absatzes 1 sind auch Niederlassungen im Geltungsbereich dieses Gesetzes von Versicherungsunternehmen mit Sitz in einem anderen Staat, wenn sie zum Betrieb des Direktversicherungsgeschäfts der Erlaubnis durch die deutsche Versicherungsaufsichtsbehörde bedürfen. Niederlassungen von Versicherungsunternehmen mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, die keiner Erlaubnis zum Betrieb des Direktversicherungsgeschäfts durch die deutsche Versicherungsaufsichtsbehörde bedürfen, haben die Bestimmungen des Ersten bis Vierten Titels dieses Unterabschnittes sowie die ergänzenden Vorschriften der Versicherungsunternehmens-Rechnungslegungsverordnung über den Ansatz und die Bewertung von Vermögensgegenständen und Schulden anzuwenden.
+(2) Versicherungsunternehmen im Sinne des Absatzes 1 sind auch Niederlassungen im Geltungsbereich dieses Gesetzes von Versicherungsunternehmen mit Sitz in einem anderen Staat, wenn sie zum Betrieb des Direktversicherungsgeschäfts der Erlaubnis durch die deutsche Versicherungsaufsichtsbehörde bedürfen. Niederlassungen von Versicherungsunternehmen mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, die keiner Erlaubnis zum Betrieb des Direktversicherungsgeschäfts durch die deutsche Versicherungsaufsichtsbehörde bedürfen, haben die ergänzenden Vorschriften über den Ansatz und die Bewertung von Vermögensgegenständen und Schulden des Ersten bis Vierten Titels dieses Unterabschnitts und der Versicherungsunternehmens-Rechnungslegungsverordnung in ihrer jeweils geltenden Fassung anzuwenden.
 
 (3) Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform oder für Niederlassungen bestehen, bleiben unberührt.
 
-(4) Die Vorschriften des Ersten bis Siebenten Titels dieses Unterabschnitts sind mit Ausnahme von Absatz 1 Satz 2 auf Pensionsfonds (§ 112 Abs. 1 des Versicherungsaufsichtsgesetzes) entsprechend anzuwenden. § 341d ist mit der Maßgabe anzuwenden, dass Kapitalanlagen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern mit dem Zeitwert unter Berücksichtigung des Grundsatzes der Vorsicht zu bewerten sind; §§ 341b, 341c sind insoweit nicht anzuwenden.
+(4) Die Vorschriften des Ersten bis Siebenten Titels dieses Unterabschnitts sind mit Ausnahme von Absatz 1 Satz 2 auf Pensionsfonds (§ 236 Absatz 1 des Versicherungsaufsichtsgesetzes) entsprechend anzuwenden. § 341d ist mit der Maßgabe anzuwenden, dass Kapitalanlagen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern mit dem Zeitwert unter Berücksichtigung des Grundsatzes der Vorsicht zu bewerten sind; §§ 341b, 341c sind insoweit nicht anzuwenden.
 
 Zweiter Titel Jahresabschluß, Lagebericht
 -----------------------------------------
@@ -4401,13 +4868,15 @@ Zweiter Titel Jahresabschluß, Lagebericht
 
 (1) Versicherungsunternehmen haben einen Jahresabschluß und einen Lagebericht nach den für große Kapitalgesellschaften geltenden Vorschriften des Ersten Unterabschnitts des Zweiten Abschnitts in den ersten vier Monaten des Geschäftsjahres für das vergangene Geschäftsjahr aufzustellen und dem Abschlußprüfer zur Durchführung der Prüfung vorzulegen; die Frist des § 264 Abs. 1 Satz 3 gilt nicht. Ist das Versicherungsunternehmen eine Kapitalgesellschaft im Sinn des § 325 Abs. 4 Satz 1 und nicht zugleich im Sinn des § 327a, beträgt die Frist nach Satz 1 vier Monate.
 
-(2) § 265 Abs. 6, §§ 267, 268 Abs. 4 Satz 1, Abs. 5 Satz 1 und 2, §§ 276, 277 Abs. 1 und 2, § 285 Nr. 8 Buchstabe a und § 288 sind nicht anzuwenden. Anstelle von § 247 Abs. 1, §§ 251, 265 Abs. 7, §§ 266, 268 Abs. 2 und 7, §§ 275, 285 Nr. 4 und 8 Buchstabe b sowie § 286 Abs. 2 sind die durch Rechtsverordnung erlassenen Formblätter und anderen Vorschriften anzuwenden. § 246 Abs. 2 ist nicht anzuwenden, soweit abweichende Vorschriften bestehen. § 264 Abs. 3 und § 264b sind mit der Maßgabe anzuwenden, daß das Versicherungsunternehmen unter den genannten Voraussetzungen die Vorschriften des Vierten Unterabschnitts des Zweiten Abschnitts nicht anzuwenden braucht. § 285 Nr. 3a gilt mit der Maßgabe, daß die Angaben für solche finanzielle Verpflichtungen nicht zu machen sind, die im Rahmen des Versicherungsgeschäfts entstehen.
+(2) § 265 Abs. 6, §§ 267, 268 Abs. 4 Satz 1, Abs. 5 Satz 1 und 2, §§ 276, 277 Abs. 1 und 2, § 285 Nr. 8 Buchstabe a und § 288 sind nicht anzuwenden. Anstelle von § 247 Abs. 1, §§ 251, 265 Abs. 7, §§ 266, 268 Absatz 7, §§ 275, 284 Absatz 3, § 285 Nummer 4 und 8 Buchstabe b sowie § 286 Abs. 2 sind die durch Rechtsverordnung erlassenen Formblätter und anderen Vorschriften anzuwenden. § 246 Abs. 2 ist nicht anzuwenden, soweit abweichende Vorschriften bestehen. § 264 Abs. 3 und § 264b sind mit der Maßgabe anzuwenden, daß das Versicherungsunternehmen unter den genannten Voraussetzungen die Vorschriften des Vierten Unterabschnitts des Zweiten Abschnitts nicht anzuwenden braucht. § 285 Nr. 3a gilt mit der Maßgabe, daß die Angaben für solche finanzielle Verpflichtungen nicht zu machen sind, die im Rahmen des Versicherungsgeschäfts entstehen. § 285 Nummer 31 ist nicht anzuwenden; unter den Posten „außerordentliche Erträge“ und „außerordentliche Aufwendungen“ sind Erträge und Aufwendungen auszuweisen, die außerhalb der gewöhnlichen Geschäftstätigkeit anfallen. Im Anhang sind diese Posten hinsichtlich ihres Betrags und ihrer Art zu erläutern, soweit die ausgewiesenen Beträge für die Beurteilung der Ertragslage nicht von untergeordneter Bedeutung sind.
 
 (3) Auf Krankenversicherungsunternehmen, die das Krankenversicherungsgeschäft ausschließlich oder überwiegend nach Art der Lebensversicherung betreiben, sind die für die Rechnungslegung der Lebensversicherungsunternehmen geltenden Vorschriften entsprechend anzuwenden.
 
-(4) Auf Versicherungsunternehmen, die nicht Aktiengesellschaften, Kommanditgesellschaften auf Aktien oder kleinere Vereine sind, sind § 152 Abs. 2 und 3 sowie die §§ 170 bis 176 des Aktiengesetzes entsprechend anzuwenden; § 160 des Aktiengesetzes ist entsprechend anzuwenden, soweit er sich auf Genußrechte bezieht.
+(4) Auf Versicherungsunternehmen, die nicht Aktiengesellschaften, Kommanditgesellschaften auf Aktien oder kleinere Vereine sind, sind § 152 Abs. 2 und 3 sowie die §§ 170 bis 176 des Aktiengesetzes entsprechend anzuwenden.
 
 (5) Bei Versicherungsunternehmen, die ausschließlich die Rückversicherung betreiben oder deren Beiträge aus in Rückdeckung übernommenen Versicherungen die übrigen Beiträge übersteigen, verlängert sich die in Absatz 1 Satz 1 erster Halbsatz genannte Frist von vier Monaten auf zehn Monate, sofern das Geschäftsjahr mit dem Kalenderjahr übereinstimmt; die Hauptversammlung oder die Versammlung der obersten Vertretung, die den Jahresabschluß entgegennimmt oder festzustellen hat, muß abweichend von § 175 Abs. 1 Satz 2 des Aktiengesetzes spätestens 14 Monate nach dem Ende des vergangenen Geschäftsjahres stattfinden. Die Frist von vier Monaten nach Absatz 1 Satz 2 verlängert sich in den Fällen des Satzes 1 nicht.
+
+(+++ § 341a: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 Dritter Titel Bewertungsvorschriften
 ------------------------------------
@@ -4416,13 +4885,15 @@ Dritter Titel Bewertungsvorschriften
 
 ### § 341b Bewertung von Vermögensgegenständen
 
-(1) Versicherungsunternehmen haben immaterielle Vermögensgegenstände, soweit sie entgeltlich erworben wurden, Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken, technische Anlagen und Maschinen, andere Anlagen, Betriebs- und Geschäftsausstattung, Anlagen im Bau und Vorräte nach den für das Anlagevermögen geltenden Vorschriften zu bewerten. Satz 1 ist vorbehaltlich Absatz 2 und § 341c auch auf Kapitalanlagen anzuwenden, soweit es sich hierbei um Beteiligungen, Anteile an verbundenen Unternehmen, Ausleihungen an verbundene Unternehmen oder an Unternehmen, mit denen ein Beteiligungsverhältnis besteht, Namensschuldverschreibungen, Hypothekendarlehen und andere Forderungen und Rechte, sonstige Ausleihungen und Depotforderungen aus dem in Rückdeckung übernommenen Versicherungsgeschäft handelt. § 253 Abs. 3 Satz 4 ist nur auf die in Satz 2 bezeichneten Vermögensgegenstände anzuwenden.
+(1) Versicherungsunternehmen haben immaterielle Vermögensgegenstände, soweit sie entgeltlich erworben wurden, Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken, technische Anlagen und Maschinen, andere Anlagen, Betriebs- und Geschäftsausstattung, Anlagen im Bau und Vorräte nach den für das Anlagevermögen geltenden Vorschriften zu bewerten. Satz 1 ist vorbehaltlich Absatz 2 und § 341c auch auf Kapitalanlagen anzuwenden, soweit es sich hierbei um Beteiligungen, Anteile an verbundenen Unternehmen, Ausleihungen an verbundene Unternehmen oder an Unternehmen, mit denen ein Beteiligungsverhältnis besteht, Namensschuldverschreibungen, Hypothekendarlehen und andere Forderungen und Rechte, sonstige Ausleihungen und Depotforderungen aus dem in Rückdeckung übernommenen Versicherungsgeschäft handelt. § 253 Absatz 3 Satz 6 ist nur auf die in Satz 2 bezeichneten Vermögensgegenstände anzuwenden.
 
 (2) Auf Kapitalanlagen, soweit es sich hierbei um Aktien einschließlich der eigenen Anteile, Anteile oder Aktien an Investmentvermögen sowie sonstige festverzinsliche und nicht festverzinsliche Wertpapiere handelt, sind die für das Umlaufvermögen geltenden § 253 Abs. 1 Satz 1, Abs. 4 und 5, § 256 anzuwenden, es sei denn, dass sie dazu bestimmt werden, dauernd dem Geschäftsbetrieb zu dienen; in diesem Fall sind sie nach den für das Anlagevermögen geltenden Vorschriften zu bewerten.
 
 (3) § 256 Satz 2 in Verbindung mit § 240 Abs. 3 über die Bewertung zum Festwert ist auf Grundstücke, Bauten und im Bau befindliche Anlagen nicht anzuwenden.
 
 (4) Verträge, die von Pensionsfonds bei Lebensversicherungsunternehmen zur Deckung von Verpflichtungen gegenüber Versorgungsberechtigten eingegangen werden, sind mit dem Zeitwert unter Berücksichtigung des Grundsatzes der Vorsicht zu bewerten; die Absätze 1 bis 3 sind insoweit nicht anzuwenden.
+
+(+++ § 341b: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 ### § 341c Namensschuldverschreibungen, Hypothekendarlehen und andere Forderungen
 
@@ -4434,7 +4905,7 @@ Dritter Titel Bewertungsvorschriften
 
 ### § 341d Anlagestock der fondsgebundenen Lebensversicherung
 
-Kapitalanlagen für Rechnung und Risiko von Inhabern von Lebensversicherungen, für die ein Anlagestock nach § 54b des Versicherungsaufsichtsgesetzes zu bilden ist, sind mit dem Zeitwert unter Berücksichtigung des Grundsatzes der Vorsicht zu bewerten; die §§ 341b, 341c sind nicht anzuwenden.
+Kapitalanlagen für Rechnung und Risiko von Inhabern von Lebensversicherungsverträgen, bei denen das Anlagerisiko vom Versicherungsnehmer getragen wird, sind mit dem Zeitwert unter Berücksichtigung des Grundsatzes der Vorsicht zu bewerten; die §§ 341b, 341c sind nicht anzuwenden.
 
 Vierter Titel Versicherungstechnische Rückstellungen
 ----------------------------------------------------
@@ -4443,7 +4914,7 @@ Vierter Titel Versicherungstechnische Rückstellungen
 
 ### § 341e Allgemeine Bilanzierungsgrundsätze
 
-(1) Versicherungsunternehmen haben versicherungstechnische Rückstellungen auch insoweit zu bilden, wie dies nach vernünftiger kaufmännischer Beurteilung notwendig ist, um die dauernde Erfüllbarkeit der Verpflichtungen aus den Versicherungsverträgen sicherzustellen. Dabei sind die im Interesse der Versicherten erlassenen aufsichtsrechtlichen Vorschriften über die bei der Berechnung der Rückstellungen zu verwendenden Rechnungsgrundlagen einschließlich des dafür anzusetzenden Rechnungszinsfußes und über die Zuweisung bestimmter Kapitalerträge zu den Rückstellungen zu berücksichtigen. Die Rückstellungen sind nach den Wertverhältnissen am Abschlussstichtag zu bewerten und nicht nach § 253 Abs. 2 abzuzinsen.
+(1) Versicherungsunternehmen haben versicherungstechnische Rückstellungen auch insoweit zu bilden, wie dies nach vernünftiger kaufmännischer Beurteilung notwendig ist, um die dauernde Erfüllbarkeit der Verpflichtungen aus den Versicherungsverträgen sicherzustellen. Dabei sind mit Ausnahme der Vorschriften der §§ 74 bis 87 des Versicherungsaufsichtsgesetzes die im Interesse der Versicherten erlassenen aufsichtsrechtlichen Vorschriften über die bei der Berechnung der Rückstellungen zu verwendenden Rechnungsgrundlagen einschließlich des dafür anzusetzenden Rechnungszinsfußes und über die Zuweisung bestimmter Kapitalerträge zu den Rückstellungen zu berücksichtigen. Die Rückstellungen sind nach den Wertverhältnissen am Abschlussstichtag zu bewerten und nicht nach § 253 Abs. 2 abzuzinsen.
 
 (2) Versicherungstechnische Rückstellungen sind außer in den Fällen der §§ 341f bis 341h insbesondere zu bilden
 
@@ -4510,11 +4981,13 @@ Fünfter Titel Konzernabschluß, Konzernlagebericht
 
 ### § 341j Anzuwendende Vorschriften
 
-(1) Auf den Konzernabschluß und den Konzernlagebericht sind die Vorschriften des Zweiten Unterabschnitts des Zweiten Abschnitts über den Konzernabschluß und den Konzernlagebericht und, soweit die Eigenart des Konzernabschlusses keine Abweichungen bedingt, die §§ 341a bis 341h über den Jahresabschluß sowie die für die Rechtsform und den Geschäftszweig der in den Konzernabschluß einbezogenen Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes geltenden Vorschriften entsprechend anzuwenden, soweit sie für große Kapitalgesellschaften gelten. Die §§ 293, 298 Abs. 1 und 2 sowie § 314 Abs. 1 Nr. 3 sind nicht anzuwenden. § 314 Abs. 1 Nr. 2a gilt mit der Maßgabe, daß die Angaben für solche finanzielle Verpflichtungen nicht zu machen sind, die im Rahmen des Versicherungsgeschäfts entstehen. In den Fällen des § 315a Abs. 1 finden abweichend von Satz 1 nur die §§ 290 bis 292, 315a Anwendung; die Sätze 2 und 3 dieses Absatzes und Absatz 2, § 341i Abs. 3 Satz 2 sowie die Bestimmungen der Versicherungsunternehmens-Rechnungslegungsverordnung vom 8. November 1994 (BGBl. I S. 3378) und der Pensionsfonds-Rechnungslegungsverordnung vom 25. Februar 2003 (BGBl. I S. 246) in ihren jeweils geltenden Fassungen sind nicht anzuwenden.
+(1) Auf den Konzernabschluß und den Konzernlagebericht sind die Vorschriften des Zweiten Unterabschnitts des Zweiten Abschnitts über den Konzernabschluß und den Konzernlagebericht und, soweit die Eigenart des Konzernabschlusses keine Abweichungen bedingt, die §§ 341a bis 341h über den Jahresabschluß sowie die für die Rechtsform und den Geschäftszweig der in den Konzernabschluß einbezogenen Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes geltenden Vorschriften entsprechend anzuwenden, soweit sie für große Kapitalgesellschaften gelten. Die §§ 293, 298 Absatz 1 sowie § 314 Absatz 1 Nummer 3 und 23 sind nicht anzuwenden. § 314 Abs. 1 Nr. 2a gilt mit der Maßgabe, daß die Angaben für solche finanzielle Verpflichtungen nicht zu machen sind, die im Rahmen des Versicherungsgeschäfts entstehen. In den Fällen des § 315a Abs. 1 finden abweichend von Satz 1 nur die §§ 290 bis 292, 315a Anwendung; die Sätze 2 und 3 dieses Absatzes und Absatz 2, § 341i Abs. 3 Satz 2 sowie die Bestimmungen der Versicherungsunternehmens-Rechnungslegungsverordnung vom 8. November 1994 (BGBl. I S. 3378) und der Pensionsfonds-Rechnungslegungsverordnung vom 25. Februar 2003 (BGBl. I S. 246) in ihren jeweils geltenden Fassungen sind nicht anzuwenden.
 
 (2) § 304 Abs. 1 braucht nicht angewendet zu werden, wenn die Lieferungen oder Leistungen zu üblichen Marktbedingungen vorgenommen worden sind und Rechtsansprüche der Versicherungsnehmer begründet haben.
 
 (3) Auf Versicherungsunternehmen, die nicht Aktiengesellschaften, Kommanditgesellschaften auf Aktien oder kleinere Vereine sind, ist § 170 Abs. 1 und 3 des Aktiengesetzes entsprechend anzuwenden.
+
+(+++ § 341j: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
 Sechster Titel Prüfung
 ----------------------
@@ -4523,13 +4996,13 @@ Sechster Titel Prüfung
 
 ### § 341k
 
-(1) Versicherungsunternehmen haben unabhängig von ihrer Größe ihren Jahresabschluß und Lagebericht sowie ihren Konzernabschluß und Konzernlagebericht nach den Vorschriften des Dritten Unterabschnitts des Zweiten Abschnitts prüfen zu lassen. § 319 Abs. 1 Satz 2 ist nicht anzuwenden. Hat keine Prüfung stattgefunden, so kann der Jahresabschluß nicht festgestellt werden.
+(1) Versicherungsunternehmen haben unabhängig von ihrer Größe ihren Jahresabschluß und Lagebericht sowie ihren Konzernabschluß und Konzernlagebericht nach den Vorschriften des Dritten Unterabschnitts des Zweiten Abschnitts prüfen zu lassen. § 318 Absatz 1a und § 319 Absatz 1 Satz 2 sind nicht anzuwenden. Hat keine Prüfung stattgefunden, so kann der Jahresabschluß nicht festgestellt werden. Auf Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG sind die Vorschriften des Dritten Unterabschnitts des Zweiten Abschnitts nur insoweit anzuwenden, als nicht die Verordnung (EU) Nr. 537/2014 anzuwenden ist.
 
 (2) § 318 Abs. 1 Satz 1 ist mit der Maßgabe anzuwenden, daß der Abschlußprüfer des Jahresabschlusses und des Konzernabschlusses vom Aufsichtsrat bestimmt wird. § 318 Abs. 1 Satz 3 und 4 gilt entsprechend.
 
 (3) In den Fällen des § 321 Abs. 1 Satz 3 hat der Abschlußprüfer die Aufsichtsbehörde unverzüglich zu unterrichten.
 
-(4) Versicherungsunternehmen, auch wenn sie nicht in der Rechtsform einer Kapitalgesellschaft betrieben werden, haben § 324 anzuwenden, wenn sie kapitalmarktorientiert im Sinn des § 264d sind und keinen Aufsichts- oder Verwaltungsrat haben, der die Voraussetzungen des § 100 Abs. 5 des Aktiengesetzes erfüllen muss. Dies gilt für landesrechtliche öffentlich-rechtliche Versicherungsunternehmen nur, soweit das Landesrecht nichts anderes vorsieht.
+(4) Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG haben, auch wenn sie nicht kapitalmarktorientiert im Sinne des § 264d sind, § 324 Absatz 1 und 2 anzuwenden, wenn sie keinen Aufsichts- oder Verwaltungsrat haben, der die Voraussetzungen des § 100 Absatz 5 des Aktiengesetzes erfüllen muss. Dies gilt für landesrechtliche öffentlich-rechtliche Versicherungsunternehmen nur, soweit das Landesrecht nichts anderes vorsieht.
 
 Siebenter Titel Offenlegung
 ---------------------------
@@ -4548,7 +5021,7 @@ Siebenter Titel Offenlegung
 Die in § 325 Abs. 2a Satz 3 genannten Vorschriften des Ersten Unterabschnitts des Zweiten Abschnitts des Dritten Buchs sind auch auf Versicherungsunternehmen anzuwenden, die nicht in der Rechtsform einer Kapitalgesellschaft betrieben werden.
 
 2.  
-An Stelle des § 285 Nr. 8 Buchstabe b gilt die Vorschrift des § 51 Abs. 5 in Verbindung mit Muster 2 der Versicherungsunternehmens-Rechnungslegungsverordnung vom 8. November 1994 (BGBl. I S. 3378), die zuletzt durch Artikel 8 Abs. 11 Nr. 2 des Gesetzes vom 4. Dezember 2004 (BGBl. I S. 3166) geändert worden ist.
+An Stelle des § 285 Nr. 8 Buchstabe b gilt die Vorschrift des § 51 Abs. 5 in Verbindung mit Muster 2 der Versicherungsunternehmens-Rechnungslegungsverordnung vom 8. November 1994 (BGBl. I S. 3378) in der jeweils geltenden Fassung.
 
 3.  
 § 341a Abs. 4 ist anzuwenden, soweit er auf die Bestimmungen der §§ 170, 171 und 175 des Aktiengesetzes über den Einzelabschluss nach § 325 Abs. 2a dieses Gesetzes verweist.
@@ -4563,26 +5036,36 @@ Achter Titel Straf- und Bußgeldvorschriften, Ordnungsgelder
 
 ### § 341m Strafvorschriften
 
-Die Strafvorschriften der §§ 331 bis 333 sind auch auf nicht in der Rechtsform einer Kapitalgesellschaft betriebene Versicherungsunternehmen und Pensionsfonds anzuwenden. § 331 ist darüber hinaus auch anzuwenden auf die Verletzung von Pflichten durch den Hauptbevollmächtigten (§ 106 Abs. 3 des Versicherungsaufsichtsgesetzes).
+(1) Die Strafvorschriften der §§ 331 bis 333 sind auch auf nicht in der Rechtsform einer Kapitalgesellschaft betriebene Versicherungsunternehmen und Pensionsfonds anzuwenden. § 331 ist darüber hinaus auch anzuwenden auf die Verletzung von Pflichten durch den Hauptbevollmächtigten (§ 68 Absatz 2 des Versicherungsaufsichtsgesetzes).
+
+(2) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied eines nach § 341k Absatz 4 Satz 1 in Verbindung mit § 324 Absatz 1 Satz 1 eingerichteten Prüfungsausschusses
+
+1.  
+eine in § 341n Absatz 2a bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
+
+2.  
+eine in § 341n Absatz 2a bezeichnete Handlung beharrlich wiederholt.
+
+(3) § 335c Absatz 2 gilt in den Fällen des Absatzes 2 entsprechend.
 
 ### § 341n Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Versicherungsunternehmens oder eines Pensionsfonds oder als Hauptbevollmächtigter (§ 106 Abs. 3 des Versicherungsaufsichtsgesetzes)
+(1) Ordnungswidrig handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Versicherungsunternehmens oder eines Pensionsfonds oder als Hauptbevollmächtigter (§ 68 Absatz 2 des Versicherungsaufsichtsgesetzes)
 
 1.  
 bei der Aufstellung oder Feststellung des Jahresabschlusses einer Vorschrift
 
 a)  
-des § 243 Abs. 1 oder 2, der §§ 244, 245, 246 Abs. 1 oder 2, dieser in Verbindung mit § 341a Abs. 2 Satz 3, des § 246 Abs. 3 Satz 1, des § 247 Abs. 3, der §§ 248, 249 Abs. 1 Satz 1 oder Abs. 2, des § 250 Abs. 1 oder Abs. 2, des § 264 Abs. 2, des § 341e Abs. 1 oder 2 oder der §§ 341f, 341g oder 341h über Form oder Inhalt,
+des § 243 Abs. 1 oder 2, der §§ 244, 245, 246 Abs. 1 oder 2, dieser in Verbindung mit § 341a Abs. 2 Satz 3, des § 246 Abs. 3 Satz 1, des § 247 Abs. 3, der §§ 248, 249 Abs. 1 Satz 1 oder Abs. 2, des § 250 Abs. 1 oder Abs. 2, des § 264 Absatz 1a oder Absatz 2, des § 341e Abs. 1 oder 2 oder der §§ 341f, 341g oder 341h über Form oder Inhalt,
 
 b)  
-des § 253 Abs. 1 Satz 1, 2, 3 oder Satz 4, Abs. 2 Satz 1, auch in Verbindung mit Satz 2, Abs. 3 Satz 1, 2 oder 3, Abs. 4, 5, der §§ 254, 256a, 341b Abs. 1 Satz 1 oder des § 341d über die Bewertung,
+des § 253 Abs. 1 Satz 1, 2, 3 oder Satz 4, Abs. 2 Satz 1, auch in Verbindung mit Satz 2, Absatz 3 Satz 1, 2, 3, 4 oder Satz 5, Abs. 4, 5, der §§ 254, 256a, 341b Abs. 1 Satz 1 oder des § 341d über die Bewertung,
 
 c)  
-des § 265 Abs. 2, 3 oder 4, des § 268 Abs. 3 oder 6, der §§ 272, 274 oder des § 277 Abs. 3 Satz 2 oder Abs. 4 über die Gliederung,
+des § 265 Abs. 2, 3 oder 4, des § 268 Abs. 3 oder 6, der §§ 272, 274 oder des § 277 Abs. 3 Satz 2 über die Gliederung,
 
 d)  
-der §§ 284, 285 Nr. 1, 2 oder Nr. 3, auch in Verbindung mit § 341a Abs. 2 Satz 5, oder des § 285 Nr. 6, 7, 9 bis 14, 17 bis 29 über die im Anhang zu machenden Angaben,
+der §§ 284, 285 Nr. 1, 2 oder Nr. 3, auch in Verbindung mit § 341a Abs. 2 Satz 5, oder des § 285 Nummer 3a, 7, 9 bis 14a, 15a, 16 bis 33 oder Nummer 34 über die im Anhang zu machenden Angaben,
 
 2.  
 bei der Aufstellung des Konzernabschlusses einer Vorschrift
@@ -4591,7 +5074,7 @@ a)
 des § 294 Abs. 1 über den Konsolidierungskreis,
 
 b)  
-des § 297 Abs. 2 oder 3 oder des § 341j Abs. 1 Satz 1 in Verbindung mit einer der in Nummer 1 Buchstabe a bezeichneten Vorschriften über Form oder Inhalt,
+des § 297 Absatz 1a, 2 oder Absatz 3 oder des § 341j Abs. 1 Satz 1 in Verbindung mit einer der in Nummer 1 Buchstabe a bezeichneten Vorschriften über Form oder Inhalt,
 
 c)  
 des § 300 über die Konsolidierungsgrundsätze oder das Vollständigkeitsgebot,
@@ -4603,13 +5086,13 @@ e)
 des § 311 Abs. 1 Satz 1 in Verbindung mit § 312 über die Behandlung assoziierter Unternehmen oder
 
 f)  
-des § 308 Abs. 1 Satz 3, des § 313 oder des § 314 in Verbindung mit § 341j Abs. 1 Satz 2 oder 3 über die im Anhang zu machenden Angaben,
+des § 308 Abs. 1 Satz 3, des § 313 oder des § 314 in Verbindung mit § 341j Abs. 1 Satz 2 oder 3 über die im Konzernanhang zu machenden Angaben,
 
 3.  
-bei der Aufstellung des Lageberichts einer Vorschrift des § 289 Abs. 1, 4 oder Abs. 5 oder des § 289a über den Inhalt des Lageberichts,
+bei der Aufstellung des Lageberichts einer Vorschrift des § 289 oder des § 289a über den Inhalt des Lageberichts,
 
 4.  
-bei der Aufstellung des Konzernlageberichts einer Vorschrift des § 315 Abs. 1 oder 4 über den Inhalt des Konzernlageberichts,
+bei der Aufstellung des Konzernlageberichts einer Vorschrift des § 315 Absatz 1, 2, 4 oder Absatz 5 über den Inhalt des Konzernlageberichts,
 
 5.  
 bei der Offenlegung, Veröffentlichung oder Vervielfältigung einer Vorschrift des § 328 über Form oder Inhalt oder
@@ -4619,27 +5102,248 @@ einer auf Grund des § 330 Abs. 3 und 4 in Verbindung mit Abs. 1 Satz 1 erlassen
 
 zuwiderhandelt.
 
-(2) Ordnungswidrig handelt, wer zu einem Jahresabschluss, zu einem Einzelabschluss nach § 325 Abs. 2a oder zu einem Konzernabschluss, der aufgrund gesetzlicher Vorschriften zu prüfen ist, einen Vermerk nach § 322 Abs. 1 erteilt, obwohl nach § 319 Abs. 2, 3, 5, § 319a Abs. 1 Satz 1, Abs. 2, § 319b Abs. 1 er oder nach § 319 Abs. 4, auch in Verbindung mit § 319a Abs. 1 Satz 2, oder § 319a Abs. 1 Satz 4, 5, § 319b Abs. 1 die Wirtschaftsprüfungsgesellschaft, für die er tätig wird, nicht Abschlussprüfer sein darf.
+(2) Ordnungswidrig handelt, wer zu einem Jahresabschluss, zu einem Einzelabschluss nach § 325 Abs. 2a oder zu einem Konzernabschluss, der aufgrund gesetzlicher Vorschriften zu prüfen ist, einen Vermerk nach § 322 Abs. 1 erteilt, obwohl nach § 319 Abs. 2, 3, 5, § 319a Abs. 1 Satz 1, Abs. 2, § 319b Abs. 1 er oder nach § 319 Abs. 4, auch in Verbindung mit § 319a Abs. 1 Satz 2, oder § 319b Abs. 1 die Wirtschaftsprüfungsgesellschaft, für die er tätig wird, nicht Abschlussprüfer sein darf.
+
+(2a) Ordnungswidrig handelt, wer als Mitglied eines nach § 341k Absatz 4 Satz 1 in Verbindung mit § 324 Absatz 1 Satz 1 eingerichteten Prüfungsausschusses
+
+1.  
+die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) überwacht,
+
+2.  
+eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, die den Anforderungen nach Artikel 16 Absatz 2 Unterabsatz 2 oder 3 der Verordnung (EU) Nr. 537/2014 nicht entspricht oder der ein Auswahlverfahren nach Artikel 16 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht vorangegangen ist, oder
+
+3.  
+den Gesellschaftern oder der sonst für die Bestellung des Abschlussprüfers zuständigen Stelle einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-(4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 2 die Bundesanstalt für Finanzdienstleistungsaufsicht für die ihrer Aufsicht unterliegenden Versicherungsunternehmen und Pensionsfonds. Unterliegt ein Versicherungsunternehmen und Pensionsfonds der Aufsicht einer Landesbehörde, so ist diese zuständig.
+(4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 2a die Bundesanstalt für Finanzdienstleistungsaufsicht für die ihrer Aufsicht unterliegenden Versicherungsunternehmen und Pensionsfonds. Unterliegt ein Versicherungsunternehmen und Pensionsfonds der Aufsicht einer Landesbehörde, so ist diese in den Fällen der Absätze 1 und 2a zuständig. In den Fällen des Absatzes 2 ist die Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle zuständig.
+
+(5) Die nach Absatz 4 Satz 1 oder 2 zuständige Verwaltungsbehörde übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach Absatz 2a.
 
 ### § 341o Festsetzung von Ordnungsgeld
 
 Personen, die
 
 1.  
-als Mitglieder des vertretungsberechtigten Organs eines Versicherungsunternehmens oder eines Pensionsfonds § 325 über die Pflicht zur Offenlegung des Jahresabschlusses, des Lageberichts, des Konzernabschlusses, des Konzernlageberichts und anderer Unterlagen der Rechnungslegung oder
+als Mitglieder des vertretungsberechtigten Organs eines Versicherungsunternehmens oder eines Pensionsfonds § 341l in Verbindung mit § 325 über die Pflicht zur Offenlegung des Jahresabschlusses, des Lageberichts, des Konzernabschlusses, des Konzernlageberichts und anderer Unterlagen der Rechnungslegung oder
 
 2.  
-als Hauptbevollmächtigter (§ 106 Abs. 3 des Versicherungsaufsichtsgesetzes) § 341l Abs. 1 über die Offenlegung der Rechnungslegungsunterlagen
+als Hauptbevollmächtigter (§ 68 Absatz 2 des Versicherungsaufsichtsgesetzes) § 341l Abs. 1 über die Offenlegung der Rechnungslegungsunterlagen
 
 nicht befolgen, sind hierzu vom Bundesamt für Justiz durch Festsetzung von Ordnungsgeld anzuhalten. Die §§ 335 bis 335b sind entsprechend anzuwenden.
 
 ### § 341p Anwendung der Straf- und Bußgeld- sowie der Ordnungsgeldvorschriften auf Pensionsfonds
 
-Die Strafvorschriften des § 341m, die Bußgeldvorschrift des § 341n sowie die Ordnungsgeldvorschrift des § 341o gelten auch für Pensionsfonds im Sinn des § 341 Abs. 4 Satz 1.
+Die Strafvorschriften des § 341m Absatz 1, die Bußgeldvorschrift des § 341n Absatz 1 und 2 sowie die Ordnungsgeldvorschrift des § 341o gelten auch für Pensionsfonds im Sinn des § 341 Abs. 4 Satz 1.
+
+Dritter Unterabschnitt Ergänzende Vorschriften für bestimmte Unternehmen des Rohstoffsektors
+--------------------------------------------------------------------------------------------
+
+### 
+
+(+++ Dritter UAbschn.: Zur erstmaligen Anwendung vgl. Art. 75 Abs. 3 +++)
+
+Erster Titel Anwendungsbereich; Begriffsbestimmungen
+----------------------------------------------------
+
+### 
+
+(+++ Dritter UAbschn.: Zur erstmaligen Anwendung vgl. Art. 75 Abs. 3 +++)
+
+### § 341q Anwendungsbereich
+
+Dieser Unterabschnitt gilt für Kapitalgesellschaften mit Sitz im Inland, die in der mineralgewinnenden Industrie tätig sind oder Holzeinschlag in Primärwäldern betreiben, wenn auf sie nach den Vorschriften des Dritten Buchs die für große Kapitalgesellschaften geltenden Vorschriften des Zweiten Abschnitts anzuwenden sind. Satz 1 gilt entsprechend für Personenhandelsgesellschaften im Sinne des § 264a Absatz 1.
+
+(+++ § 341q: Zur erstmaligen Anwendung vgl. Art. 75 Abs. 3 +++)
+
+### § 341r Begriffsbestimmungen
+
+Im Sinne dieses Unterabschnitts sind
+
+1.  
+Tätigkeiten in der mineralgewinnenden Industrie: Tätigkeiten auf dem Gebiet der Exploration, Prospektion, Entdeckung, Weiterentwicklung und Gewinnung von Mineralien, Erdöl-, Erdgasvorkommen oder anderen Stoffen in den Wirtschaftszweigen, die in Anhang I Abschnitt B Abteilung 05 bis 08 der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1) aufgeführt sind;
+
+2.  
+Kapitalgesellschaften, die Holzeinschlag in Primärwäldern betreiben: Kapitalgesellschaften, die auf den in Anhang I Abschnitt A Abteilung 02 Gruppe 02.2 der Verordnung (EG) Nr. 1893/2006 aufgeführten Gebieten in natürlich regenerierten Wäldern mit einheimischen Arten, in denen es keine deutlich sichtbaren Anzeichen für menschliche Eingriffe gibt und die ökologischen Prozesse nicht wesentlich gestört sind, tätig sind;
+
+3.  
+Zahlungen: als Geldleistung oder Sachleistung entrichtete Beträge im Zusammenhang mit Tätigkeiten in der mineralgewinnenden Industrie oder dem Betrieb des Holzeinschlags in Primärwäldern, wenn sie auf einem der nachfolgend bezeichneten Gründe beruhen:
+
+a)  
+Produktionszahlungsansprüche,
+
+b)  
+Steuern, die auf die Erträge, die Produktion oder die Gewinne von Kapitalgesellschaften erhoben werden; ausgenommen sind Verbrauchsteuern, Umsatzsteuern, Mehrwertsteuern sowie Lohnsteuern der in Kapitalgesellschaften beschäftigten Arbeitnehmer und vergleichbare Steuern,
+
+c)  
+Nutzungsentgelte,
+
+d)  
+Dividenden und andere Gewinnausschüttungen aus Gesellschaftsanteilen,
+
+e)  
+Unterzeichnungs-, Entdeckungs- und Produktionsboni,
+
+f)  
+Lizenz-, Miet- und Zugangsgebühren sowie sonstige Gegenleistungen für Lizenzen oder Konzessionen sowie
+
+g)  
+Zahlungen für die Verbesserung der Infrastruktur;
+
+4.  
+staatliche Stellen: nationale, regionale oder lokale Behörden eines Mitgliedstaats der Europäischen Union, eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum oder eines Drittstaats einschließlich der von einer Behörde kontrollierten Abteilungen oder Agenturen sowie Unternehmen, auf die eine dieser Behörden im Sinne von § 290 beherrschenden Einfluss ausüben kann;
+
+5.  
+Projekte: die Zusammenfassung operativer Tätigkeiten, die die Grundlage für Zahlungsverpflichtungen gegenüber einer staatlichen Stelle bilden und sich richten nach
+
+a)  
+einem Vertrag, einer Lizenz, einem Mietvertrag, einer Konzession oder einer ähnlichen rechtlichen Vereinbarung oder
+
+b)  
+einer Gesamtheit von operativ und geografisch verbundenen Verträgen, Lizenzen, Mietverträgen oder Konzessionen oder damit verbundenen Vereinbarungen mit einer staatlichen Stelle, die im Wesentlichen ähnliche Bedingungen vorsehen;
+
+6.  
+Zahlungsberichte: Berichte über Zahlungen von Kapitalgesellschaften an staatliche Stellen im Zusammenhang mit ihrer Tätigkeit in der mineralgewinnenden Industrie oder mit dem Betrieb des Holzeinschlags in Primärwäldern;
+
+7.  
+Konzernzahlungsberichte: Zahlungsberichte von Mutterunternehmen über Zahlungen aller einbezogenen Unternehmen an staatliche Stellen auf konsolidierter Ebene, die im Zusammenhang mit ihrer Tätigkeit in der mineralgewinnenden Industrie oder mit dem Betrieb des Holzeinschlags in Primärwäldern stehen;
+
+8.  
+Berichtszeitraum: das Geschäftsjahr der Kapitalgesellschaft oder des Mutterunternehmens, das den Zahlungsbericht oder Konzernzahlungsbericht zu erstellen hat.
+
+(+++ § 341r: Zur erstmaligen Anwendung vgl. Art. 75 Abs. 3 +++)
+
+Zweiter Titel Zahlungsbericht, Konzernzahlungsbericht und Offenlegung
+---------------------------------------------------------------------
+
+### 
+
+(+++ Dritter UAbschn.: Zur erstmaligen Anwendung vgl. Art. 75 Abs. 3 +++)
+
+### § 341s Pflicht zur Erstellung des Zahlungsberichts; Befreiungen
+
+(1) Kapitalgesellschaften im Sinne des § 341q haben jährlich einen Zahlungsbericht zu erstellen.
+
+(2) Ist die Kapitalgesellschaft in den von ihr oder einem anderen Unternehmen mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erstellten Konzernzahlungsbericht einbezogen, braucht sie keinen Zahlungsbericht zu erstellen. In diesem Fall hat die Kapitalgesellschaft im Anhang des Jahresabschlusses anzugeben, bei welchem Unternehmen sie in den Konzernzahlungsbericht einbezogen ist und wo dieser erhältlich ist.
+
+(3) Hat die Kapitalgesellschaft einen Bericht im Einklang mit den Rechtsvorschriften eines Drittstaats, dessen Berichtspflichten die Europäische Kommission im Verfahren nach Artikel 47 der Richtlinie 2013/34/EU als gleichwertig bewertet hat, erstellt und diesen Bericht nach § 341w offengelegt, braucht sie den Zahlungsbericht nicht zu erstellen. Auf die Offenlegung dieses Berichts ist § 325a Absatz 1 Satz 3 entsprechend anzuwenden.
+
+(+++ § 341s: Zur erstmaligen Anwendung vgl. Art. 75 Abs. 3 +++)
+
+### § 341t Inhalt des Zahlungsberichts
+
+(1) In dem Zahlungsbericht hat die Kapitalgesellschaft anzugeben, welche Zahlungen sie im Berichtszeitraum an staatliche Stellen im Zusammenhang mit ihrer Geschäftstätigkeit in der mineralgewinnenden Industrie oder mit dem Betrieb des Holzeinschlags in Primärwäldern geleistet hat. Andere Zahlungen dürfen in den Zahlungsbericht nicht einbezogen werden. Hat eine zur Erstellung eines Zahlungsberichts verpflichtete Kapitalgesellschaft in einem Berichtszeitraum an keine staatliche Stelle berichtspflichtige Zahlungen geleistet, hat sie im Zahlungsbericht für den betreffenden Berichtszeitraum nur anzugeben, dass eine Geschäftstätigkeit in der mineralgewinnenden Industrie ausgeübt oder Holzeinschlag in Primärwäldern betrieben wurde, ohne dass Zahlungen geleistet wurden.
+
+(2) Die Kapitalgesellschaft hat nur über staatliche Stellen zu berichten, an die sie Zahlungen unmittelbar erbracht hat; das gilt auch dann, wenn eine staatliche Stelle die Zahlung für mehrere verschiedene staatliche Stellen einzieht.
+
+(3) Ist eine staatliche Stelle stimmberechtigter Gesellschafter oder Aktionär der Kapitalgesellschaft, so müssen gezahlte Dividenden oder Gewinnanteile nur berücksichtigt werden, wenn sie
+
+1.  
+nicht unter denselben Bedingungen wie an andere Gesellschafter oder Aktionäre mit vergleichbaren Anteilen oder Aktien gleicher Gattung gezahlt wurden oder
+
+2.  
+anstelle von Produktionsrechten oder Nutzungsentgelten gezahlt wurden.
+
+(4) Die Kapitalgesellschaft braucht Zahlungen unabhängig davon, ob sie als eine Einmalzahlung oder als eine Reihe verbundener Zahlungen geleistet werden, nicht in dem Zahlungsbericht zu berücksichtigen, wenn sie im Berichtszeitraum 100 000 Euro unterschreiten. Im Falle einer bestehenden Vereinbarung über regelmäßige Zahlungen ist der Gesamtbetrag der verbundenen regelmäßigen Zahlungen oder Raten im Berichtszeitraum zu betrachten. Eine staatliche Stelle, an die im Berichtszeitraum insgesamt weniger als 100 000 Euro gezahlt worden sind, braucht im Zahlungsbericht nicht berücksichtigt zu werden.
+
+(5) Werden Zahlungen als Sachleistungen getätigt, werden sie ihrem Wert und gegebenenfalls ihrem Umfang nach berücksichtigt. Im Zahlungsbericht ist gegebenenfalls zu erläutern, wie der Wert festgelegt worden ist.
+
+(6) Bei der Angabe von Zahlungen wird auf den Inhalt der betreffenden Zahlung oder Tätigkeit und nicht auf deren Form Bezug genommen. Zahlungen und Tätigkeiten dürfen nicht künstlich mit dem Ziel aufgeteilt oder zusammengefasst werden, die Anwendung dieses Unterabschnitts zu umgehen.
+
+(+++ § 341t: Zur erstmaligen Anwendung vgl. Art. 75 Abs. 3 +++)
+
+### § 341u Gliederung des Zahlungsberichts
+
+(1) Der Zahlungsbericht ist nach Staaten zu gliedern. Für jeden Staat hat die Kapitalgesellschaft diejenigen staatlichen Stellen zu bezeichnen, an die sie innerhalb des Berichtszeitraums Zahlungen geleistet hat. Die Bezeichnung der staatlichen Stelle muss eine eindeutige Zuordnung ermöglichen. Dazu genügt es in der Regel, die amtliche Bezeichnung der staatlichen Stelle zu verwenden und zusätzlich anzugeben, an welchem Ort und in welcher Region des Staates die Stelle ansässig ist. Die Kapitalgesellschaft braucht die Zahlungen nicht danach aufzugliedern, auf welche Rohstoffe sie sich beziehen.
+
+(2) Zu jeder staatlichen Stelle hat die Kapitalgesellschaft folgende Angaben zu machen:
+
+1.  
+den Gesamtbetrag aller an diese staatliche Stelle geleisteten Zahlungen und
+
+2.  
+die Gesamtbeträge getrennt nach den in § 341r Nummer 3 Buchstabe a bis g benannten Zahlungsgründen; zur Bezeichnung der Zahlungsgründe genügt die Angabe des nach § 341r Nummer 3 maßgeblichen Buchstabens.
+
+(3) Wenn Zahlungen an eine staatliche Stelle für mehr als ein Projekt geleistet wurden, sind für jedes Projekt ergänzend folgende Angaben zu machen:
+
+1.  
+eine eindeutige Bezeichnung des Projekts,
+
+2.  
+den Gesamtbetrag aller in Bezug auf das Projekt an diese staatliche Stelle geleisteten Zahlungen und
+
+3.  
+die Gesamtbeträge getrennt nach den in § 341r Nummer 3 Buchstabe a bis g benannten Zahlungsgründen, die an diese staatliche Stelle in Bezug auf das Projekt geleistet wurden; zur Bezeichnung der Zahlungsgründe genügt die Angabe des nach § 341r Nummer 3 maßgeblichen Buchstabens.
+
+(4) Angaben nach Absatz 3 sind nicht erforderlich für Zahlungen zur Erfüllung von Verpflichtungen, die der Kapitalgesellschaft ohne Zuordnung zu einem bestimmten Projekt auferlegt werden.
+
+(+++ § 341u: Zur erstmaligen Anwendung vgl. Art. 75 Abs. 3 +++)
+
+### § 341v Konzernzahlungsbericht; Befreiung
+
+(1) Kapitalgesellschaften im Sinne des § 341q, die Mutterunternehmen (§ 290) sind, haben jährlich einen Konzernzahlungsbericht zu erstellen. Mutterunternehmen sind auch dann in der mineralgewinnenden Industrie tätig oder betreiben Holzeinschlag in Primärwäldern, wenn diese Voraussetzungen nur auf eines ihrer Tochterunternehmen zutreffen.
+
+(2) Ein Mutterunternehmen ist nicht zur Erstellung eines Konzernzahlungsberichts verpflichtet, wenn es zugleich ein Tochterunternehmen eines anderen Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist.
+
+(3) In den Konzernzahlungsbericht sind das Mutterunternehmen und alle Tochterunternehmen unabhängig von deren Sitz einzubeziehen; die auf den Konzernabschluss angewandten Vorschriften sind entsprechend anzuwenden, soweit in den nachstehenden Absätzen nichts anderes bestimmt ist.
+
+(4) Unternehmen, die nicht in der mineralgewinnenden Industrie tätig sind und keinen Holzeinschlag in Primärwäldern betreiben, sind nicht nach Absatz 3 einzubeziehen. Ein Unternehmen braucht nicht in den Konzernzahlungsbericht einbezogen zu werden, wenn es
+
+1.  
+nach § 296 Absatz 1 Nummer 1 oder 3 nicht in den Konzernabschluss einbezogen wurde,
+
+2.  
+nach § 296 Absatz 1 Nummer 2 nicht in den Konzernabschluss einbezogen wurde und die für die Erstellung des Konzernzahlungsberichts erforderlichen Angaben ebenfalls nur mit unverhältnismäßig hohen Kosten oder ungebührlichen Verzögerungen zu erhalten sind.
+
+(5) Auf den Konzernzahlungsbericht sind die §§ 341s bis 341u entsprechend anzuwenden. Im Konzernzahlungsbericht sind konsolidierte Angaben über alle Zahlungen an staatliche Stellen zu machen, die von den einbezogenen Unternehmen im Zusammenhang mit ihrer Tätigkeit in der mineralgewinnenden Industrie oder mit dem Holzeinschlag in Primärwäldern geleistet worden sind. Das Mutterunternehmen braucht die Zahlungen nicht danach aufzugliedern, auf welche Rohstoffe sie sich beziehen.
+
+(+++ § 341v: Zur erstmaligen Anwendung vgl. Art. 75 Abs. 3 +++)
+
+### § 341w Offenlegung
+
+(1) Die gesetzlichen Vertreter von Kapitalgesellschaften haben für diese den Zahlungsbericht spätestens ein Jahr nach dem Abschlussstichtag elektronisch in deutscher Sprache beim Betreiber des Bundesanzeigers einzureichen und unverzüglich nach Einreichung im Bundesanzeiger bekannt machen zu lassen. Im Falle einer Kapitalgesellschaft im Sinne des § 264d beträgt die Frist abweichend von Satz 1 sechs Monate nach dem Abschlussstichtag; § 327a gilt entsprechend.
+
+(2) Absatz 1 gilt entsprechend für die gesetzlichen Vertreter von Mutterunternehmen, die einen Konzernzahlungsbericht zu erstellen haben.
+
+(3) § 325 Absatz 1 Satz 2 und Absatz 6 sowie die §§ 328 und 329 Absatz 1, 3 und 4 gelten entsprechend.
+
+(+++ § 341w: Zur erstmaligen Anwendung vgl. Art. 75 Abs. 3 +++)
+
+Dritter Titel Bußgeldvorschriften, Ordnungsgelder
+-------------------------------------------------
+
+### 
+
+(+++ Dritter UAbschn.: Zur erstmaligen Anwendung vgl. Art. 75 Abs. 3 +++)
+
+### § 341x Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Kapitalgesellschaft
+
+1.  
+bei der Erstellung eines Zahlungsberichts einer Vorschrift des § 341t Absatz 1, 2, 3, 5 oder Absatz 6 oder des § 341u Absatz 1, 2 oder Absatz 3 über den Inhalt oder die Gliederung des Zahlungsberichts zuwiderhandelt oder
+
+2.  
+bei der Erstellung eines Konzernzahlungsberichts einer Vorschrift des § 341v Absatz 4 Satz 1 in Verbindung mit § 341t Absatz 1, 2, 3, 5 oder Absatz 6 oder mit § 341u Absatz 1, 2 oder Absatz 3 über den Inhalt oder die Gliederung des Konzernzahlungsberichts zuwiderhandelt.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis fünfzigtausend Euro geahndet werden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 das Bundesamt für Justiz.
+
+(4) Die Bestimmungen der Absätze 1 bis 3 gelten auch für die Mitglieder der gesetzlichen Vertretungsorgane von Personenhandelsgesellschaften im Sinne des § 341q Satz 2.
+
+(+++ § 341x: Zur erstmaligen Anwendung vgl. Art. 75 Abs. 3 +++)
+
+### § 341y Ordnungsgeldvorschriften
+
+(1) Gegen die Mitglieder des vertretungsberechtigten Organs einer Kapitalgesellschaft im Sinne des § 341q oder eines Mutterunternehmens im Sinne des § 341v, die § 341w hinsichtlich der Pflicht zur Offenlegung des Zahlungsberichts oder Konzernzahlungsberichts nicht befolgen, hat das Bundesamt für Justiz in entsprechender Anwendung der §§ 335 bis 335b ein Ordnungsgeldverfahren durchzuführen. Das Verfahren kann auch gegen die Kapitalgesellschaft gerichtet werden.
+
+(2) Das Bundesamt für Justiz kann eine Kapitalgesellschaft zur Erklärung auffordern, ob sie im Sinne des § 341q in der mineralgewinnenden Industrie tätig ist oder Holzeinschlag in Primärwäldern betreibt, und eine angemessene Frist setzen. Die Aufforderung ist zu begründen. Gibt die Kapitalgesellschaft innerhalb der Frist keine Erklärung ab, wird für die Einleitung des Verfahrens nach Absatz 1 vermutet, dass die Gesellschaft in den Anwendungsbereich des § 341q fällt. Die Sätze 1 bis 3 sind entsprechend anzuwenden, wenn das Bundesamt für Justiz Anlass für die Annahme hat, dass eine Kapitalgesellschaft ein Mutterunternehmen im Sinne des § 341v Absatz 1 ist.
+
+(3) Die vorstehenden Absätze gelten entsprechend für Personenhandelsgesellschaften im Sinne des § 341q Satz 2.
+
+(+++ § 341y: Zur erstmaligen Anwendung vgl. Art. 75 Abs. 3 +++)
 
 Fünfter Abschnitt Privates Rechnungslegungsgremium. Rechnungslegungsbeirat
 --------------------------------------------------------------------------
@@ -4648,13 +5352,13 @@ Fünfter Abschnitt Privates Rechnungslegungsgremium. Rechnungslegungsbeirat
 
 ### § 342 Privates Rechnungslegungsgremium
 
-(1) Das Bundesministerium der Justiz kann eine privatrechtlich organisierte Einrichtung durch Vertrag anerkennen und ihr folgende Aufgaben übertragen:
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz kann eine privatrechtlich organisierte Einrichtung durch Vertrag anerkennen und ihr folgende Aufgaben übertragen:
 
 1.  
 Entwicklung von Empfehlungen zur Anwendung der Grundsätze über die Konzernrechnungslegung,
 
 2.  
-Beratung des Bundesministeriums der Justiz bei Gesetzgebungsvorhaben zu Rechnungslegungsvorschriften,
+Beratung des Bundesministeriums der Justiz und für Verbraucherschutz bei Gesetzgebungsvorhaben zu Rechnungslegungsvorschriften,
 
 3.  
 Vertretung der Bundesrepublik Deutschland in internationalen Standardisierungsgremien und
@@ -4664,16 +5368,16 @@ Erarbeitung von Interpretationen der internationalen Rechnungslegungsstandards i
 
 Es darf jedoch nur eine solche Einrichtung anerkannt werden, die aufgrund ihrer Satzung gewährleistet, daß die Empfehlungen und Interpretationen unabhängig und ausschließlich von Rechnungslegern in einem Verfahren entwickelt und beschlossen werden, das die fachlich interessierte Öffentlichkeit einbezieht. Soweit Unternehmen oder Organisationen von Rechnungslegern Mitglied einer solchen Einrichtung sind, dürfen die Mitgliedschaftsrechte nur von Rechnungslegern ausgeübt werden.
 
-(2) Die Beachtung der die Konzernrechnungslegung betreffenden Grundsätze ordnungsmäßiger Buchführung wird vermutet, soweit vom Bundesministerium der Justiz bekanntgemachte Empfehlungen einer nach Absatz 1 Satz 1 anerkannten Einrichtung beachtet worden sind.
+(2) Die Beachtung der die Konzernrechnungslegung betreffenden Grundsätze ordnungsmäßiger Buchführung wird vermutet, soweit vom Bundesministerium der Justiz und für Verbraucherschutz bekanntgemachte Empfehlungen einer nach Absatz 1 Satz 1 anerkannten Einrichtung beachtet worden sind.
 
 ### § 342a Rechnungslegungsbeirat
 
-(1) Beim Bundesministerium der Justiz wird vorbehaltlich Absatz 9 ein Rechnungslegungsbeirat mit den Aufgaben nach § 342 Abs. 1 Satz 1 gebildet.
+(1) Beim Bundesministerium der Justiz und für Verbraucherschutz wird vorbehaltlich Absatz 9 ein Rechnungslegungsbeirat mit den Aufgaben nach § 342 Abs. 1 Satz 1 gebildet.
 
 (2) Der Rechnungslegungsbeirat setzt sich zusammen aus
 
 1.  
-einem Vertreter des Bundesministeriums der Justiz als Vorsitzendem sowie je einem Vertreter des Bundesministeriums der Finanzen und des Bundesministeriums für Wirtschaft und Technologie,
+einem Vertreter des Bundesministeriums der Justiz und für Verbraucherschutz als Vorsitzendem sowie je einem Vertreter des Bundesministeriums der Finanzen und des Bundesministeriums für Wirtschaft und Energie,
 
 2.  
 vier Vertretern von Unternehmen,
@@ -4684,11 +5388,11 @@ vier Vertretern der wirtschaftsprüfenden Berufe,
 4.  
 zwei Vertretern der Hochschulen.
 
-(3) Die Mitglieder des Rechnungslegungsbeirats werden durch das Bundesministerium der Justiz berufen. Als Mitglieder sollen nur Rechnungsleger berufen werden.
+(3) Die Mitglieder des Rechnungslegungsbeirats werden durch das Bundesministerium der Justiz und für Verbraucherschutz berufen. Als Mitglieder sollen nur Rechnungsleger berufen werden.
 
 (4) Die Mitglieder des Rechnungslegungsbeirats sind unabhängig und nicht weisungsgebunden. Ihre Tätigkeit im Beirat ist ehrenamtlich.
 
-(5) Das Bundesministerium der Justiz kann eine Geschäftsordnung für den Beirat erlassen.
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz kann eine Geschäftsordnung für den Beirat erlassen.
 
 (6) Der Beirat kann für bestimmte Sachgebiete Fachausschüsse und Arbeitskreise einsetzen.
 
@@ -4696,7 +5400,7 @@ zwei Vertretern der Hochschulen.
 
 (8) Für die Empfehlungen des Rechnungslegungsbeirats gilt § 342 Abs. 2 entsprechend.
 
-(9) Die Bildung eines Rechnungslegungsbeirats nach Absatz 1 unterbleibt, soweit das Bundesministerium der Justiz eine Einrichtung nach § 342 Abs. 1 anerkennt.
+(9) Die Bildung eines Rechnungslegungsbeirats nach Absatz 1 unterbleibt, soweit das Bundesministerium der Justiz und für Verbraucherschutz eine Einrichtung nach § 342 Abs. 1 anerkennt.
 
 Sechster Abschnitt Prüfstelle für Rechnungslegung
 -------------------------------------------------
@@ -4705,9 +5409,9 @@ Sechster Abschnitt Prüfstelle für Rechnungslegung
 
 ### § 342b Prüfstelle für Rechnungslegung
 
-(1) Das Bundesministerium der Justiz kann im Einvernehmen mit dem Bundesministerium der Finanzen eine privatrechtlich organisierte Einrichtung zur Prüfung von Verstößen gegen Rechnungslegungsvorschriften durch Vertrag anerkennen (Prüfstelle) und ihr die in den folgenden Absätzen festgelegten Aufgaben übertragen. Es darf nur eine solche Einrichtung anerkannt werden, die aufgrund ihrer Satzung, ihrer personellen Zusammensetzung und der von ihr vorgelegten Verfahrensordnung gewährleistet, dass die Prüfung unabhängig, sachverständig, vertraulich und unter Einhaltung eines festgelegten Verfahrensablaufs erfolgt. Änderungen der Satzung und der Verfahrensordnung sind vom Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium der Finanzen zu genehmigen. Die Prüfstelle kann sich bei der Durchführung ihrer Aufgaben anderer Personen bedienen. Das Bundesministerium der Justiz macht die Anerkennung einer Prüfstelle sowie eine Beendigung der Anerkennung im amtlichen Teil des Bundesanzeigers bekannt.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz kann im Einvernehmen mit dem Bundesministerium der Finanzen eine privatrechtlich organisierte Einrichtung zur Prüfung von Verstößen gegen Rechnungslegungsvorschriften durch Vertrag anerkennen (Prüfstelle) und ihr die in den folgenden Absätzen festgelegten Aufgaben übertragen. Es darf nur eine solche Einrichtung anerkannt werden, die aufgrund ihrer Satzung, ihrer personellen Zusammensetzung und der von ihr vorgelegten Verfahrensordnung gewährleistet, dass die Prüfung unabhängig, sachverständig, vertraulich und unter Einhaltung eines festgelegten Verfahrensablaufs erfolgt. Änderungen der Satzung und der Verfahrensordnung sind vom Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen mit dem Bundesministerium der Finanzen zu genehmigen. Die Prüfstelle kann sich bei der Durchführung ihrer Aufgaben anderer Personen bedienen. Das Bundesministerium der Justiz und für Verbraucherschutz macht die Anerkennung einer Prüfstelle sowie eine Beendigung der Anerkennung im amtlichen Teil des Bundesanzeigers bekannt.
 
-(2) Die Prüfstelle prüft, ob der zuletzt festgestellte Jahresabschluss und der zugehörige Lagebericht oder der zuletzt gebilligte Konzernabschluss und der zugehörige Konzernlagebericht sowie der zuletzt veröffentlichte verkürzte Abschluss und der zugehörige Zwischenlagebericht eines Unternehmens im Sinne des Satzes 2 den gesetzlichen Vorschriften einschließlich der Grundsätze ordnungsmäßiger Buchführung oder den sonstigen durch Gesetz zugelassenen Rechnungslegungsstandards entspricht. Geprüft werden die Abschlüsse und Berichte von Unternehmen, deren Wertpapiere im Sinne des § 2 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes an einer inländischen Börse zum Handel im regulierten Markt zugelassen sind. Die Prüfstelle prüft,
+(2) Die Prüfstelle prüft, ob der zuletzt festgestellte Jahresabschluss und der zugehörige Lagebericht oder der zuletzt gebilligte Konzernabschluss und der zugehörige Konzernlagebericht, der zuletzt veröffentlichte verkürzte Abschluss und der zugehörige Zwischenlagebericht sowie zuletzt veröffentlichte Zahlungsberichte oder Konzernzahlungsberichte, jeweils einschließlich der zugrunde liegenden Buchführung, eines Unternehmens im Sinne des Satzes 2 den gesetzlichen Vorschriften einschließlich der Grundsätze ordnungsmäßiger Buchführung oder den sonstigen durch Gesetz zugelassenen Rechnungslegungsstandards entspricht. Geprüft werden die Abschlüsse und Berichte von Unternehmen, die als Emittenten von zugelassenen Wertpapieren im Sinne des § 2 Absatz 1 des Wertpapierhandelsgesetzes die Bundesrepublik Deutschland als Herkunftsstaat haben; unberücksichtigt bleiben hierbei Anteile und Aktien an offenen Investmentvermögen im Sinne des § 1 Absatz 4 des Kapitalanlagegesetzbuchs. Die Prüfstelle prüft,
 
 1.  
 soweit konkrete Anhaltspunkte für einen Verstoß gegen Rechnungslegungsvorschriften vorliegen,
@@ -4718,7 +5422,9 @@ auf Verlangen der Bundesanstalt für Finanzdienstleistungsaufsicht oder
 3.  
 ohne besonderen Anlass (stichprobenartige Prüfung).
 
-Im Fall des Satzes 3 Nr. 1 unterbleibt die Prüfung, wenn offensichtlich kein öffentliches Interesse an der Prüfung besteht; Satz 3 Nr. 3 ist auf die Prüfung des verkürzten Abschlusses und des zugehörigen Zwischenlageberichts nicht anzuwenden. Die stichprobenartige Prüfung erfolgt nach den von der Prüfstelle im Einvernehmen mit dem Bundesministerium der Justiz und dem Bundesministerium der Finanzen festgelegten Grundsätzen. Das Bundesministerium der Finanzen kann die Ermächtigung zur Erteilung seines Einvernehmens auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
+Im Fall des Satzes 3 Nr. 1 unterbleibt die Prüfung, wenn offensichtlich kein öffentliches Interesse an der Prüfung besteht; Satz 3 Nr. 3 ist auf die Prüfung des verkürzten Abschlusses und des zugehörigen Zwischenlageberichts sowie des Zahlungsberichts und des Konzernzahlungsberichts nicht anzuwenden. Die stichprobenartige Prüfung erfolgt nach den von der Prüfstelle im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesministerium der Finanzen festgelegten Grundsätzen. Das Bundesministerium der Finanzen kann die Ermächtigung zur Erteilung seines Einvernehmens auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen. Die Prüfung kann trotz Wegfalls der Zulassung der Wertpapiere zum Handel im organisierten Markt fortgesetzt werden, insbesondere dann, wenn Gegenstand der Prüfung ein Fehler ist, an dessen Bekanntmachung ein öffentliches Interesse besteht.
+
+(2a) Prüfungsgegenstand nach Absatz 2 können auch die Abschlüsse und Berichte sein, die das Geschäftsjahr zum Gegenstand haben, das dem Geschäftsjahr vorausgeht, auf das Absatz 2 Satz 1 Bezug nimmt. Eine stichprobenartige Prüfung ist hierbei nicht zulässig.
 
 (3) Eine Prüfung des Jahresabschlusses und des zugehörigen Lageberichts durch die Prüfstelle findet nicht statt, solange eine Klage auf Nichtigkeit gemäß § 256 Abs. 7 des Aktiengesetzes anhängig ist. Wenn nach § 142 Abs. 1 oder Abs. 2 oder § 258 Abs. 1 des Aktiengesetzes ein Sonderprüfer bestellt worden ist, findet eine Prüfung ebenfalls nicht statt, soweit der Gegenstand der Sonderprüfung, der Prüfungsbericht oder eine gerichtliche Entscheidung über die abschließenden Feststellungen der Sonderprüfer nach § 260 des Aktiengesetzes reichen.
 
@@ -4741,7 +5447,7 @@ Ein Rechtsbehelf dagegen ist nicht statthaft.
 
 (7) Die Prüfstelle und ihre Beschäftigten sind zur gewissenhaften und unparteiischen Prüfung verpflichtet; sie haften für durch die Prüfungstätigkeit verursachte Schäden nur bei Vorsatz.
 
-(8) Die Prüfstelle zeigt Tatsachen, die den Verdacht einer Straftat im Zusammenhang mit der Rechnungslegung eines Unternehmens begründen, der für die Verfolgung zuständigen Behörde an. Tatsachen, die auf das Vorliegen einer Berufspflichtverletzung durch den Abschlussprüfer schließen lassen, übermittelt sie der Wirtschaftsprüferkammer.
+(8) Die Prüfstelle zeigt Tatsachen, die den Verdacht einer Straftat im Zusammenhang mit der Rechnungslegung eines Unternehmens begründen, der für die Verfolgung zuständigen Behörde an. Tatsachen, die auf das Vorliegen einer Berufspflichtverletzung durch den Abschlussprüfer schließen lassen, übermittelt sie der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
 (+++ § 342b Abs. 2 Satz 1: Zur erstmaligen Anwendung vgl. HGBEG Art. 62 +++)
 
@@ -4755,7 +5461,7 @@ Ein Rechtsbehelf dagegen ist nicht statthaft.
 
 ### § 342d Finanzierung der Prüfstelle
 
-Die Prüfstelle hat über die zur Finanzierung der Erfüllung ihrer Aufgaben erforderlichen Mittel einen Wirtschaftsplan für das Folgejahr im Einvernehmen mit der Bundesanstalt für Finanzdienstleistungsaufsicht aufzustellen. Der Wirtschaftsplan ist dem Bundesministerium der Justiz und dem Bundesministerium der Finanzen zur Genehmigung vorzulegen. Die Bundesanstalt für Finanzdienstleistungsaufsicht schießt der Prüfstelle die dieser nach dem Wirtschaftsplan voraussichtlich entstehenden Kosten aus der gemäß § 17d Abs. 1 Satz 3 des Finanzdienstleistungsaufsichtsgesetzes eingezogenen Umlagevorauszahlung vor, wobei etwaige Fehlbeträge und nicht eingegangene Beträge nach dem Verhältnis von Wirtschaftsplan zu dem betreffenden Teil des Haushaltsplanes der Bundesanstalt für Finanzdienstleistungsaufsicht anteilig zu berücksichtigen sind. Nach Ende des Haushaltsjahres hat die Prüfstelle ihren Jahresabschluss aufzustellen. Die Entlastung erteilt das zuständige Organ der Prüfstelle mit Zustimmung des Bundesministeriums der Justiz und des Bundesministeriums der Finanzen.
+Die Prüfstelle hat über die zur Finanzierung der Erfüllung ihrer Aufgaben erforderlichen Mittel einen Wirtschaftsplan für das Folgejahr im Einvernehmen mit der Bundesanstalt für Finanzdienstleistungsaufsicht aufzustellen. Der Wirtschaftsplan ist dem Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesministerium der Finanzen zur Genehmigung vorzulegen. Die Bundesanstalt für Finanzdienstleistungsaufsicht schießt der Prüfstelle die dieser nach dem Wirtschaftsplan voraussichtlich entstehenden Kosten aus der gemäß § 17d Absatz 1 Satz 4 des Finanzdienstleistungsaufsichtsgesetzes eingezogenen Umlagevorauszahlung vor, wobei etwaige Fehlbeträge und nicht eingegangene Beträge nach dem Verhältnis von Wirtschaftsplan zu dem betreffenden Teil des Haushaltsplanes der Bundesanstalt für Finanzdienstleistungsaufsicht anteilig zu berücksichtigen sind. Nach Ende des Haushaltsjahres hat die Prüfstelle ihren Jahresabschluss aufzustellen. Die Entlastung erteilt das zuständige Organ der Prüfstelle mit Zustimmung des Bundesministeriums der Justiz und für Verbraucherschutz und des Bundesministeriums der Finanzen.
 
 ### § 342e Bußgeldvorschriften
 
@@ -4813,9 +5519,7 @@ Dem Bürgen steht, wenn die Bürgschaft für ihn ein Handelsgeschäft ist, die E
 
 Auf eine Bürgschaft, ein Schuldversprechen oder ein Schuldanerkenntnis finden, sofern die Bürgschaft auf der Seite des Bürgen, das Versprechen oder das Anerkenntnis auf der Seite des Schuldners ein Handelsgeschäft ist, die Formvorschriften des § 766 Satz 1 und 2, des § 780 und des § 781 Satz 1 und 2 des Bürgerlichen Gesetzbuchs keine Anwendung.
 
-### § 351
-
-(weggefallen)
+### § 351 (weggefallen)
 
 ### § 352
 
@@ -4935,9 +5639,7 @@ Maß, Gewicht, Währung, Zeitrechnung und Entfernungen, die an dem Ort gelten, w
 
 (4) Der Schuldner kann die Ausübung des Zurückbehaltungsrechts durch Sicherheitsleistung abwenden. Die Sicherheitsleistung durch Bürgen ist ausgeschlossen.
 
-### § 370
-
--
+### § 370 (weggefallen)
 
 ### § 371
 
@@ -5004,9 +5706,7 @@ Durch die Vorschriften des § 373 werden die Befugnisse nicht berührt, welche d
 
 (5) Hat der Verkäufer den Mangel arglistig verschwiegen, so kann er sich auf diese Vorschriften nicht berufen.
 
-### § 378
-
-(aufgehoben)
+### § 378 (weggefallen)
 
 ### § 379
 
@@ -5026,9 +5726,7 @@ Durch die Vorschriften des § 373 werden die Befugnisse nicht berührt, welche d
 
 (2) Sie finden auch auf einen Vertrag Anwendung, der die Lieferung herzustellender oder zu erzeugender beweglicher Sachen zum Gegenstand hat.
 
-### § 382
-
-(aufgehoben)
+### § 382 (weggefallen)
 
 Dritter Abschnitt Kommissionsgeschäft
 -------------------------------------
@@ -5243,7 +5941,7 @@ In den Frachtbrief können weitere Angaben eingetragen werden, die die Parteien 
 
 (2) Der Frachtbrief wird in drei Originalausfertigungen ausgestellt, die vom Absender unterzeichnet werden. Der Absender kann verlangen, daß auch der Frachtführer den Frachtbrief unterzeichnet. Nachbildungen der eigenhändigen Unterschriften durch Druck oder Stempel genügen. Eine Ausfertigung ist für den Absender bestimmt, eine begleitet das Gut, eine behält der Frachtführer.
 
-(3) Dem Frachtbrief gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Frachtbrief, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Frachtbrief). Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, des Mitführens und der Vorlage eines elektronischen Frachtbriefs sowie des Verfahrens einer nachträglichen Eintragung in einen elektronischen Frachtbrief zu regeln.
+(3) Dem Frachtbrief gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Frachtbrief, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Frachtbrief). Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, des Mitführens und der Vorlage eines elektronischen Frachtbriefs sowie des Verfahrens einer nachträglichen Eintragung in einen elektronischen Frachtbrief zu regeln.
 
 ### § 409 Beweiskraft des Frachtbriefs
 
@@ -5277,7 +5975,7 @@ Der Absender hat das Gut, soweit dessen Natur unter Berücksichtigung der verein
 
 (3) Wartet der Frachtführer auf Grund vertraglicher Vereinbarung oder aus Gründen, die nicht seinem Risikobereich zuzurechnen sind, über die Lade- oder Entladezeit hinaus, so hat er Anspruch auf eine angemessene Vergütung (Standgeld).
 
-(4) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für die Binnenschiffahrt unter Berücksichtigung der Art der zur Beförderung bestimmten Fahrzeuge, der Art und Menge der umzuschlagenden Güter, der beim Güterumschlag zur Verfügung stehenden technischen Mittel und der Erfordernisse eines beschleunigten Verkehrsablaufs die Voraussetzungen für den Beginn der Lade- und Entladezeit, deren Dauer sowie die Höhe des Standgeldes zu bestimmen.
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für die Binnenschiffahrt unter Berücksichtigung der Art der zur Beförderung bestimmten Fahrzeuge, der Art und Menge der umzuschlagenden Güter, der beim Güterumschlag zur Verfügung stehenden technischen Mittel und der Erfordernisse eines beschleunigten Verkehrsablaufs die Voraussetzungen für den Beginn der Lade- und Entladezeit, deren Dauer sowie die Höhe des Standgeldes zu bestimmen.
 
 ### § 413 Begleitpapiere
 
@@ -5572,7 +6270,7 @@ Werden Ansprüche aus außervertraglicher Haftung wegen Verlust oder Beschädigu
 
 (2) Ist der Ladeschein an Order gestellt, so soll er den Namen desjenigen enthalten, an dessen Order das Gut abgeliefert werden soll. Wird der Name nicht angegeben, so ist der Ladeschein als an Order des Absenders gestellt anzusehen.
 
-(3) Dem Ladeschein gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Ladeschein, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Ladeschein). Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung eines elektronischen Ladescheins sowie die Einzelheiten des Verfahrens einer nachträglichen Eintragung in einen elektronischen Ladeschein zu regeln.
+(3) Dem Ladeschein gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Ladeschein, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Ladeschein). Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung eines elektronischen Ladescheins sowie die Einzelheiten des Verfahrens einer nachträglichen Eintragung in einen elektronischen Ladeschein zu regeln.
 
 ### § 444 Wirkung des Ladescheins. Legitimation
 
@@ -6015,7 +6713,7 @@ im Falle der Sammellagerung einen Vermerk hierüber.
 
 (3) Der Lagerschein ist vom Lagerhalter zu unterzeichnen. Eine Nachbildung der eigenhändigen Unterschrift durch Druck oder Stempel genügt.
 
-(4) Dem Lagerschein gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Lagerschein, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Lagerschein). Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung eines elektronischen Lagerscheins sowie die Einzelheiten des Verfahrens über nachträgliche Eintragungen in einen elektronischen Lagerschein zu regeln.
+(4) Dem Lagerschein gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Lagerschein, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Lagerschein). Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung eines elektronischen Lagerscheins sowie die Einzelheiten des Verfahrens über nachträgliche Eintragungen in einen elektronischen Lagerschein zu regeln.
 
 ### § 475d Wirkung des Lagerscheins. Legitimation
 
@@ -6516,7 +7214,7 @@ Zahl der Ausfertigungen.
 
 (2) Dem Konnossement gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie das Konnossement, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronisches Konnossement).
 
-(3) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung eines elektronischen Konnossements sowie die Einzelheiten des Verfahrens einer nachträglichen Eintragung in ein elektronisches Konnossement zu regeln.
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung eines elektronischen Konnossements sowie die Einzelheiten des Verfahrens einer nachträglichen Eintragung in ein elektronisches Konnossement zu regeln.
 
 ### § 517 Beweiskraft des Konnossements
 
@@ -6603,7 +7301,7 @@ Eine Bestimmung im Konnossement, die von den Haftungsvorschriften in den §§ 49
 
 (3) Der Seefrachtbrief ist vom Verfrachter zu unterzeichnen; eine Nachbildung der eigenhändigen Unterschrift durch Druck oder Stempel genügt.
 
-(4) Dem Seefrachtbrief gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Seefrachtbrief, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Seefrachtbrief). Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung und der Vorlage eines elektronischen Seefrachtbriefs sowie die Einzelheiten des Verfahrens über nachträgliche Eintragungen in einen elektronischen Seefrachtbrief zu regeln.
+(4) Dem Seefrachtbrief gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Seefrachtbrief, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Seefrachtbrief). Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung und der Vorlage eines elektronischen Seefrachtbriefs sowie die Einzelheiten des Verfahrens über nachträgliche Eintragungen in einen elektronischen Seefrachtbrief zu regeln.
 
 Zweiter Titel Reisefrachtvertrag
 --------------------------------
@@ -6889,7 +7587,7 @@ Erster Unterabschnitt Schiffsmiete
 
 ### 
 
-### (XXXX) §§ 553 bis 554
+### (XXXX) §§ 553 bis 554 (weggefallen)
 
 ### § 553 Schiffsmietvertrag
 
