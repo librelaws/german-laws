@@ -2,7 +2,7 @@ Gesetz zur Ausführung des Abkommens vom 2. Mai 1992 über den Europäischen Wir
 ============================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 10 G v. 6.12.2011 I 2481
+Zuletzt geändert durch Art. 8 G v. 31.3.2016 I 518
 
 Sonst  
 Das G tritt nach seinem Art. 117 Satz 1 iVm Bek. v. 16.12.1993 I 2436 mWv 1.1.1994 in Kraft.
@@ -44,7 +44,7 @@ Artikel 41 Nr. 3 Buchstaben a bis c ist auf den Prospekt eines Emittenten mit Si
 (weggefallen)
 
 7.  
-Artikel 50 Nr. 3 Buchstabe a ist auf in der Schweiz, Liechtenstein, Finnland, Island, Norwegen, Österreich oder Schweden ausgestellte Diplome im Sinne von § 131g Abs. 1 und 2 der Wirtschaftsprüferordnung mit Beginn des Tages anwendbar, an dem der jeweilige Vertragsstaat die Achte Richtlinie 84/253/EWG des Rates vom 10. April 1984 auf Grund von Artikel 54 Abs. 3 Buchstabe g des Vertrages über die Zulassung der mit der Pflichtprüfung der Rechnungslegungsunterlagen beauftragten Personen vollständig durchgeführt hat, im Fall der Schweiz und Liechtensteins spätestens am 1. Januar 1996, im Fall von Finnland, Island, Norwegen, Österreich und Schweden spätestens am 1. Januar 1995. Der Bundesminister für Wirtschaft gibt diesen Tag jeweils im Bundesgesetzblatt bekannt.
+(weggefallen)
 
 ### Art 116 Neufassung geänderter Gesetze und Verordnungen
 
