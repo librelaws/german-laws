@@ -2,7 +2,7 @@ Tabaksteuergesetz (TabStG)
 ==========================
 
 Stand  
-Zuletzt geändert durch Art. 12 G v. 3.12.2015 I 2178
+Zuletzt geändert durch Art. 6 G v. 4.4.2016 I 569
 
 ### 
 
@@ -808,7 +808,7 @@ Abschnitt 5 Bestimmungen zu den Kleinverkaufspackungen und zu den Kleinverkaufsp
 
 (1) Der Händler muss die Kleinverkaufspackungen verschlossen halten und die Steuerzeichen an den Packungen unversehrt erhalten. Er darf die Packungen jedoch öffnen, um den Inhalt zu prüfen, vorzuzeigen oder, mit Ausnahme des Inhalts von Packungen mit Zigaretten und Feinschnitt, unentgeltlich als Proben oder zu Werbezwecken an Verbraucher zu verteilen. Packungen mit Zigarren oder Zigarillos darf er außerdem zum Stückverkauf an Verbraucher öffnen. Er darf die Packungen nur so öffnen, dass die Steuerzeichen durchtrennt oder eingerissen werden. Der Stückverkauf von Zigarren oder Zigarillos ist nur zulässig, wenn der Preis für die abgegebene Menge, der sich aus dem Kleinverkaufspreis ergibt, nicht auf Bruchteile eines Cents lautet. Ein Stückverkauf von Zigaretten ist unzulässig.
 
-(2) Bei Abgabe zum Verbrauch im Steuergebiet darf der Inhalt einer Kleinverkaufspackung für Zigaretten 20 Stück und der Inhalt einer Kleinverkaufspackung für Feinschnitt 30 Gramm nicht unterschreiten.
+(2) (weggefallen)
 
 ### § 26 Verbot der Abgabe unter Kleinverkaufspreis
 
@@ -1080,7 +1080,7 @@ entgegen § 16 Absatz 1 Tabakwaren in den steuerrechtlich freien Verkehr überf�
 entgegen § 24 Absatz 1 Satz 1 oder Satz 2 Kleinverkaufspackungen andere Gegenstände beipackt,
 
 3.  
-einer Vorschrift des § 25 Absatz 1 Satz 1, Satz 2 oder Satz 4 bis 6 oder Absatz 2 über Packungen im Handel oder den Stückverkauf zuwiderhandelt,
+einer Vorschrift des § 25 Satz 1, Satz 2 oder Satz 4 bis 6 über Packungen im Handel oder den Stückverkauf zuwiderhandelt,
 
 4.  
 entgegen § 26 Absatz 1 den Packungspreis oder den Kleinverkaufspreis unterschreitet, Rabatt oder eine Rückvergütung gewährt, Gegenstände zugibt oder die Abgabe mit dem Verkauf anderer Gegenstände koppelt oder
