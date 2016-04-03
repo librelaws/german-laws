@@ -4,6 +4,9 @@ Verordnung über das Deutsche Patent- und Markenamt (DPMAV)
 Stand  
 Zuletzt geändert durch Art. 10 G v. 4.4.2016 I 558
 
+Hinweis  
+Änderung durch Art. 1 V v. 10.12.2018 I 2444 (Nr. 46) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 ### 
 
 ```
