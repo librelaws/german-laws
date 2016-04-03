@@ -2,10 +2,13 @@ Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträgli
 ======================================================================================================================
 
 Stand  
-Zuletzt geändert durch § 44 Abs. 4 G v. 22.5.2013 I 1324
+Zuletzt geändert durch Art. 4 G v. 4.4.2016 I 569
 
-Sonst  
-Berichtigung v. 7.10.2013 I 3753 ist berücksichtigt
+Hinweis  
+Änderung durch Art. 1 G v. 27.3.2017 I 567 (Nr. 15) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 15 G v. 27.6.2017 I 1966 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -248,7 +251,7 @@ a)
 nach dem Lebensmittel- und Futtermittelgesetzbuch in der Fassung der Bekanntmachung vom 22. August 2011 (BGBl. I S. 1770) in der jeweils geltenden Fassung, soweit es für Lebensmittel, Lebensmittel-Zusatzstoffe, kosmetische Mittel, Bedarfsgegenstände und mit Lebensmitteln verwechselbare Produkte gilt,
 
 b)  
-nach dem vorläufigen Tabakgesetz in der Fassung der Bekanntmachung vom 9. September 1997 (BGBl. I S. 2296), das zuletzt durch Artikel 4 des Gesetzes vom 9. Dezember 2010 (BGBl. I S. 1934) geändert worden ist, in der jeweils geltenden Fassung,
+nach dem Tabakerzeugnisgesetz vom 4. April 2016 (BGBl. I S. 569) in der jeweils geltenden Fassung,
 
 c)  
 nach dem Milch- und Margarinegesetz vom 25. Juli 1990 (BGBl. I S. 1471), das zuletzt durch Artikel 22 des Gesetzes vom 9. Dezember 2010 (BGBl. I S. 1934) geändert worden ist, in der jeweils geltenden Fassung,
@@ -512,7 +515,7 @@ Anforderungen an die Hochwertigkeit der Verwertung.
 
 Durch Rechtsverordnung nach Satz 1 kann insbesondere bestimmt werden, dass die Verwertung des Abfalls entsprechend seiner Art, Beschaffenheit, Menge und Inhaltsstoffe durch mehrfache, hintereinander geschaltete stoffliche und anschließende energetische Verwertungsmaßnahmen (Kaskadennutzung) zu erfolgen hat.
 
-(3) Soweit der Vorrang oder Gleichrang der energetischen Verwertung nicht in einer Rechtsverordnung nach Absatz 2 festgelegt wird, ist anzunehmen, dass die energetische Verwertung einer stofflichen Verwertung nach § 6 Absatz 1 Nummer 2 und 3 gleichrangig ist, wenn der Heizwert des einzelnen Abfalls, ohne Vermischung mit anderen Stoffen, mindestens 11 000 Kilojoule pro Kilogramm beträgt. Die Bundesregierung überprüft auf der Grundlage der abfallwirtschaftlichen Entwicklung bis zum 31. Dezember 2016, ob und inwieweit der Heizwert zur effizienten und rechtssicheren Umsetzung der Abfallhierarchie des § 6 Absatz 1 noch erforderlich ist.
+(3) (weggefallen)
 
 ### § 9 Getrennthalten von Abfällen zur Verwertung, Vermischungsverbot
 
@@ -833,7 +836,7 @@ Satz 3 Nummer 1 und 2 gilt nicht, wenn die vom gewerblichen Sammler angebotene S
 
 ### § 18 Anzeigeverfahren für Sammlungen
 
-(1) Gemeinnützige Sammlungen im Sinne des § 17 Absatz 2 Satz 1 Nummer 3 und gewerbliche Sammlungen im Sinne des § 17 Absatz 2 Satz 1 Nummer 4 sind spätestens drei Monate vor ihrer beabsichtigten Aufnahme durch ihren Träger der zuständigen Behörde anzuzeigen.
+(1) Gemeinnützige Sammlungen im Sinne des § 17 Absatz 2 Satz 1 Nummer 3 und gewerbliche Sammlungen im Sinne des § 17 Absatz 2 Satz 1 Nummer 4 sind spätestens drei Monate vor ihrer beabsichtigten Aufnahme durch ihren Träger der zuständigen Behörde nach Maßgabe der Absätze 2 und 3 anzuzeigen.
 
 (2) Der Anzeige einer gewerblichen Sammlung sind beizufügen
 
@@ -994,7 +997,7 @@ dass die öffentlich-rechtlichen Entsorgungsträger im Sinne des § 20 durch Erf
 
 ### § 26 Freiwillige Rücknahme
 
-(1) Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung ohne Zustimmung des Bundesrates Zielfestlegungen für die freiwillige Rücknahme von Abfällen zu treffen, die innerhalb einer angemessenen Frist zu erreichen sind.
+(1) Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung ohne Zustimmung des Bundesrates Zielfestlegungen für die freiwillige Rücknahme von Abfällen zu treffen, die innerhalb einer angemessenen Frist zu erreichen sind.
 
 (2) Hersteller und Vertreiber, die Erzeugnisse und die nach Gebrauch der Erzeugnisse verbleibenden Abfälle freiwillig zurücknehmen, haben dies der zuständigen Behörde vor Beginn der Rücknahme anzuzeigen, soweit die Rücknahme gefährliche Abfälle umfasst.
 
@@ -1165,7 +1168,7 @@ gibt zweckmäßige, spezifische, qualitative oder quantitative Maßstäbe für f
 
 (4) Beiträge der Länder nach Absatz 1 oder Abfallvermeidungsprogramme der Länder nach Absatz 2 können in die Abfallwirtschaftspläne nach § 30 aufgenommen oder als eigenständiges umweltpolitisches Programm oder Teil eines solchen erstellt werden. Wird ein Beitrag oder ein Abfallvermeidungsprogramm in den Abfallwirtschaftsplan oder in ein anderes Programm aufgenommen, sind die Abfallvermeidungsmaßnahmen deutlich auszuweisen.
 
-(5) Die Abfallvermeidungsprogramme sind erstmals zum 12. Dezember 2013 zu erstellen, alle sechs Jahre auszuwerten und bei Bedarf fortzuschreiben. Bei der Aufstellung oder Änderung von Abfallvermeidungsprogrammen ist die Öffentlichkeit von der zuständigen Behörde entsprechend § 32 Absatz 1 bis 4 zu beteiligen. Zuständig für die Erstellung des Abfallvermeidungsprogramms des Bundes ist das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit oder eine von diesem zu bestimmende Behörde. Das Abfallvermeidungsprogramm des Bundes wird im Einvernehmen mit den fachlich betroffenen Bundesministerien erstellt.
+(5) Die Abfallvermeidungsprogramme sind erstmals zum 12. Dezember 2013 zu erstellen, alle sechs Jahre auszuwerten und bei Bedarf fortzuschreiben. Bei der Aufstellung oder Änderung von Abfallvermeidungsprogrammen ist die Öffentlichkeit von der zuständigen Behörde entsprechend § 32 Absatz 1 bis 4 zu beteiligen. Zuständig für die Erstellung des Abfallvermeidungsprogramms des Bundes ist das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit oder eine von diesem zu bestimmende Behörde. Das Abfallvermeidungsprogramm des Bundes wird im Einvernehmen mit den fachlich betroffenen Bundesministerien erstellt.
 
 Abschnitt 3 Zulassung von Anlagen, in denen Abfälle entsorgt werden
 -------------------------------------------------------------------
@@ -1471,9 +1474,9 @@ Die nach Satz 1 zur Auskunft verpflichteten Personen haben den Bediensteten und 
 
 (7) Für alle zulassungspflichtigen Deponien stellen die zuständigen Behörden in ihrem Zuständigkeitsbereich Überwachungspläne und Überwachungsprogramme zur Durchführung der Absätze 1 bis 4 auf. Satz 1 gilt nicht für Deponien für Inertabfälle und Deponien, die eine Aufnahmekapazität von 10 Tonnen oder weniger je Tag und eine Gesamtkapazität von 25 000 Tonnen oder weniger haben. Zur Überwachung nach Satz 1 gehören insbesondere auch die Überwachung der Errichtung, Vor-Ort-Besichtigungen, die Überwachung der Emissionen und die Überprüfung interner Berichte, Folgedokumente sowie Messungen und Kontrollen, die Überprüfung der Eigenkontrolle, die Prüfung der angewandten Techniken und der Eignung des Umweltmanagements der Deponie. Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten zum Inhalt der Überwachungspläne und Überwachungsprogramme nach Satz 1 zu bestimmen.
 
-(8) Die Länder übermitteln dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit nach Anforderung Informationen über die Umsetzung der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010, S. 17), insbesondere über repräsentative Daten über Emissionen und sonstige Arten von Umweltverschmutzung, über Emissionsgrenzwerte sowie über die Anwendung des Standes der Technik. Die Länder stellen diese Informationen auf elektronischem Wege zur Verfügung. Art und Form der von den Ländern zu übermittelnden Informationen sowie der Zeitpunkt ihrer Übermittlung richten sich nach den Anforderungen, die auf der Grundlage von Artikel 72 Absatz 2 der Richtlinie 2010/75/EU festgelegt werden. § 5 Absatz 1 Satz 2, Absatz 2 bis 6 des Gesetzes zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006 vom 6. Juni 2007 (BGBl. I S. 1002) gilt entsprechend.
+(8) Die Länder übermitteln dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit nach Anforderung Informationen über die Umsetzung der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010, S. 17), insbesondere über repräsentative Daten über Emissionen und sonstige Arten von Umweltverschmutzung, über Emissionsgrenzwerte sowie über die Anwendung des Standes der Technik. Die Länder stellen diese Informationen auf elektronischem Wege zur Verfügung. Art und Form der von den Ländern zu übermittelnden Informationen sowie der Zeitpunkt ihrer Übermittlung richten sich nach den Anforderungen, die auf der Grundlage von Artikel 72 Absatz 2 der Richtlinie 2010/75/EU festgelegt werden. § 5 Absatz 1 Satz 2, Absatz 2 bis 6 des Gesetzes zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006 vom 6. Juni 2007 (BGBl. I S. 1002) gilt entsprechend.
 
-(9) Die zuständige Behörde kann anordnen, dass der Betreiber einer Deponie ihr Daten zu übermitteln hat, die in einem Durchführungsrechtsakt nach Artikel 72 Absatz 2 der Richtlinie 2010/75/EU aufgeführt sind und die zur Erfüllung der Berichtspflicht nach Absatz 6 erforderlich sind, soweit der zuständigen Behörde solche Daten nicht bereits auf Grund anderer Vorschriften vorliegen. § 3 Absatz 1 Satz 2 und § 5 Absatz 2 bis 6 des Gesetzes zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006 gelten entsprechend.
+(9) Die zuständige Behörde kann anordnen, dass der Betreiber einer Deponie ihr Daten zu übermitteln hat, die in einem Durchführungsrechtsakt nach Artikel 72 Absatz 2 der Richtlinie 2010/75/EU aufgeführt sind und die zur Erfüllung der Berichtspflicht nach Absatz 8 erforderlich sind, soweit der zuständigen Behörde solche Daten nicht bereits auf Grund anderer Vorschriften vorliegen. § 3 Absatz 1 Satz 2 und § 5 Absatz 2 bis 6 des Gesetzes zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006 gelten entsprechend.
 
 ### § 48 Abfallbezeichnung, gefährliche Abfälle
 
@@ -1586,10 +1589,13 @@ Vorschriften zu erlassen über die Form, den Inhalt und das Verfahren zur Erstat
 anzuordnen, dass das Verfahren zur Erstattung der Anzeige elektronisch zu führen ist und Dokumente in elektronischer Form gemäß § 3a Absatz 2 Satz 2 und 3 des Verwaltungsverfahrensgesetzes vorzulegen sind,
 
 3.  
-bestimmte Tätigkeiten von der Anzeigepflicht nach Absatz 1 auszunehmen, soweit eine Anzeige aus Gründen des Wohls der Allgemeinheit nicht erforderlich ist, sowie
+bestimmte Tätigkeiten von der Anzeigepflicht nach Absatz 1 auszunehmen, soweit eine Anzeige aus Gründen des Wohls der Allgemeinheit nicht erforderlich ist,
 
 4.  
-Anforderungen an die Anzeigepflichtigen und deren Tätigkeit zu bestimmen, die sich aus Rechtsvorschriften der Europäischen Union ergeben.
+Anforderungen an die Anzeigepflichtigen und deren Tätigkeit zu bestimmen, die sich aus Rechtsvorschriften der Europäischen Union ergeben, sowie
+
+5.  
+anzuordnen, dass bei der Beförderung von Abfällen geeignete Unterlagen zum Zweck der Überwachung mitzuführen sind.
 
 (+++ § 53 Abs. 1 bis 5: Zur Anwendung vgl. § 72 Abs. 4 +++)
 
@@ -1727,10 +1733,10 @@ Teil 8 Betriebsorganisation, Betriebsbeauftragter für Abfall und Erleichterunge
 
 ### § 59 Bestellung eines Betriebsbeauftragten für Abfall
 
-(1) Betreiber von genehmigungsbedürftigen Anlagen im Sinne des § 4 des Bundes-Immissionsschutzgesetzes, Betreiber von Anlagen, in denen regelmäßig gefährliche Abfälle anfallen, Betreiber ortsfester Sortier-, Verwertungs- oder Abfallbeseitigungsanlagen sowie Besitzer im Sinne des § 27 haben unverzüglich einen oder mehrere Betriebsbeauftragte für Abfall (Abfallbeauftragte) zu bestellen, sofern dies im Hinblick auf die Art oder die Größe der Anlagen erforderlich ist wegen der
+(1) Betreiber von genehmigungsbedürftigen Anlagen im Sinne des § 4 des Bundes-Immissionsschutzgesetzes, Betreiber von Anlagen, in denen regelmäßig gefährliche Abfälle anfallen, Betreiber ortsfester Sortier-, Verwertungs- oder Abfallbeseitigungsanlagen, Besitzer im Sinne des § 27 sowie Betreiber von Rücknahmesystemen und -stellen, die von den Besitzern im Sinne des § 27 eingerichtet worden sind oder an denen sie sich beteiligen, haben unverzüglich einen oder mehrere Betriebsbeauftragte für Abfall (Abfallbeauftragte) zu bestellen, sofern dies im Hinblick auf die Art oder die Größe der Anlagen oder die Bedeutung der abfallwirtschaftlichen Tätigkeit, insbesondere unter Berücksichtigung von Art oder Umfang der Rücknahme der Abfälle und der damit verbundenen Besitzerpflichten, erforderlich ist wegen der
 
 1.  
-in den Anlagen anfallenden, verwerteten oder beseitigten Abfälle,
+anfallenden, zurückgenommenen, verwerteten oder beseitigten Abfälle,
 
 2.  
 technischen Probleme der Vermeidung, Verwertung oder Beseitigung oder
@@ -1738,33 +1744,33 @@ technischen Probleme der Vermeidung, Verwertung oder Beseitigung oder
 3.  
 Eignung der Produkte oder Erzeugnisse, die bei oder nach bestimmungsgemäßer Verwendung Probleme hinsichtlich der ordnungsgemäßen und schadlosen Verwertung oder umweltverträglichen Beseitigung hervorrufen.
 
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit bestimmt nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlagen nach Satz 1, deren Betreiber Abfallbeauftragte zu bestellen haben.
+Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit bestimmt nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates die Betreiber von Anlagen nach Satz 1, die Besitzer nach Satz 1 sowie die Betreiber von Rücknahmesystemen und -stellen nach Satz 1, die Abfallbeauftragte zu bestellen haben. Durch Rechtsverordnung nach Satz 2 kann auch bestimmt werden, welche Besitzer von Abfällen und welche Betreiber von Rücknahmesystemen und -stellen, für die Satz 1 entsprechend gilt, Abfallbeauftragte zu bestellen haben.
 
-(2) Die zuständige Behörde kann anordnen, dass Betreiber von Anlagen nach Absatz 1 Satz 1, für die die Bestellung eines Abfallbeauftragten nicht durch Rechtsverordnung vorgeschrieben ist, einen oder mehrere Abfallbeauftragte zu bestellen haben, soweit sich im Einzelfall die Notwendigkeit der Bestellung aus den in Absatz 1 Satz 1 genannten Gesichtspunkten ergibt.
+(2) Die zuständige Behörde kann anordnen, dass Betreiber von Anlagen nach Absatz 1 Satz 1, Besitzer nach Absatz 1 Satz 1 und Betreiber von Rücknahmesystemen und -stellen nach Absatz 1 Satz 1, für die die Bestellung eines Abfallbeauftragten nicht durch Rechtsverordnung nach Absatz 1 Satz 2 und 3 vorgeschrieben ist, einen oder mehrere Abfallbeauftragte zu bestellen haben, soweit sich im Einzelfall die Notwendigkeit der Bestellung aus den in Absatz 1 Satz 1 genannten Gesichtspunkten ergibt.
 
 (3) Ist nach § 53 des Bundes-Immissionsschutzgesetzes ein Immissionsschutzbeauftragter oder nach § 64 des Wasserhaushaltsgesetzes ein Gewässerschutzbeauftragter zu bestellen, so können diese auch die Aufgaben und Pflichten eines Abfallbeauftragten nach diesem Gesetz wahrnehmen.
 
 ### § 60 Aufgaben des Betriebsbeauftragten für Abfall
 
-(1) Der Abfallbeauftragte berät den Betreiber und die Betriebsangehörigen in Angelegenheiten, die für die Abfallvermeidung und Abfallbewirtschaftung bedeutsam sein können. Er ist berechtigt und verpflichtet,
+(1) Der Abfallbeauftragte berät den zur Bestellung Verpflichteten und die Betriebsangehörigen in Angelegenheiten, die für die Abfallvermeidung und Abfallbewirtschaftung bedeutsam sein können. Er ist berechtigt und verpflichtet,
 
 1.  
 den Weg der Abfälle von ihrer Entstehung oder Anlieferung bis zu ihrer Verwertung oder Beseitigung zu überwachen,
 
 2.  
-die Einhaltung der Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen sowie die Erfüllung erteilter Bedingungen und Auflagen zu überwachen, insbesondere durch Kontrolle der Betriebsstätte und der Art und Beschaffenheit der in der Anlage anfallenden, verwerteten oder beseitigten Abfälle in regelmäßigen Abständen, Mitteilung festgestellter Mängel und Vorschläge zur Mängelbeseitigung,
+die Einhaltung der Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen sowie die Erfüllung erteilter Bedingungen und Auflagen zu überwachen, insbesondere durch Kontrolle der Betriebsstätte und der Art und Beschaffenheit der bewirtschafteten Abfälle in regelmäßigen Abständen, Mitteilung festgestellter Mängel und Vorschläge zur Mängelbeseitigung,
 
 3.  
 die Betriebsangehörigen aufzuklären
 
 a)  
-über Beeinträchtigungen des Wohls der Allgemeinheit, welche von den Abfällen ausgehen können, die in der Anlage anfallen, verwertet oder beseitigt werden,
+über Beeinträchtigungen des Wohls der Allgemeinheit, welche von den Abfällen oder der abfallwirtschaftlichen Tätigkeit ausgehen können,
 
 b)  
 über Einrichtungen und Maßnahmen zur Verhinderung von Beeinträchtigungen des Wohls der Allgemeinheit unter Berücksichtigung der für die Vermeidung, Verwertung und Beseitigung von Abfällen geltenden Gesetze und Rechtsverordnungen,
 
 4.  
-bei genehmigungsbedürftigen Anlagen im Sinne des § 4 des Bundes-Immissionsschutzgesetzes oder solchen Anlagen, in denen regelmäßig gefährliche Abfälle anfallen, zudem hinzuwirken auf die Entwicklung und Einführung
+hinzuwirken auf die Entwicklung und Einführung
 
 a)  
 umweltfreundlicher und abfallarmer Verfahren, einschließlich Verfahren zur Vermeidung, ordnungsgemäßen und schadlosen Verwertung oder umweltverträglichen Beseitigung von Abfällen,
@@ -1776,11 +1782,11 @@ umweltfreundlicher und abfallarmer Erzeugnisse, einschließlich Verfahren zur Wi
 bei der Entwicklung und Einführung der in Nummer 4 Buchstabe a und b genannten Verfahren mitzuwirken, insbesondere durch Begutachtung der Verfahren und Erzeugnisse unter den Gesichtspunkten der Abfallbewirtschaftung,
 
 6.  
-bei Anlagen, in denen Abfälle verwertet oder beseitigt werden, zudem auf Verbesserungen des Verfahrens hinzuwirken.
+bei Anlagen, in denen Abfälle anfallen, verwertet oder beseitigt werden, zudem auf Verbesserungen des Verfahrens hinzuwirken.
 
-(2) Der Abfallbeauftragte erstattet dem Betreiber jährlich einen schriftlichen Bericht über die nach Absatz 1 Satz 2 Nummer 1 bis 5 getroffenen und beabsichtigten Maßnahmen.
+(2) Der Abfallbeauftragte erstattet dem zur Bestellung Verpflichteten jährlich einen schriftlichen Bericht über die nach Absatz 1 Satz 2 Nummer 1 bis 5 getroffenen und beabsichtigten Maßnahmen.
 
-(3) Auf das Verhältnis zwischen dem zur Bestellung Verpflichteten und dem Abfallbeauftragten finden § 55 Absatz 1, 1a, 2 Satz 1 und 2, Absatz 3 und 4 und die §§ 56 bis 58 des Bundes-Immissionsschutzgesetzes entsprechende Anwendung. Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, welche Anforderungen an die Fachkunde und Zuverlässigkeit des Abfallbeauftragten zu stellen sind.
+(3) Auf das Verhältnis zwischen dem zur Bestellung Verpflichteten und dem Abfallbeauftragten finden § 55 Absatz 1, 1a, 2 Satz 1 und 2, Absatz 3 und 4 und die §§ 56 bis 58 des Bundes-Immissionsschutzgesetzes entsprechende Anwendung. Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, welche Anforderungen an die Fachkunde und Zuverlässigkeit des Abfallbeauftragten zu stellen sind.
 
 ### § 61 Anforderungen an Erleichterungen für auditierte Unternehmensstandorte
 
@@ -1877,7 +1883,7 @@ einer Rechtsverordnung nach § 4 Absatz 2, § 5 Absatz 2, § 10 Absatz 1, § 11 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1.  
-entgegen § 18 Absatz 1 Satz 1, § 26 Absatz 2, § 40 Absatz 1 Satz 1 oder § 53 Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+entgegen § 18 Absatz 1, § 26 Absatz 2, § 40 Absatz 1 Satz 1 oder § 53 Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
 2.  
 entgegen § 34 Absatz 1 Satz 1 das Betreten eines Grundstücks oder eine dort genannte Maßnahme nicht duldet,
@@ -1916,10 +1922,10 @@ entgegen § 50 Absatz 1 in Verbindung mit einer Rechtsverordnung nach § 52 Absa
 entgegen § 55 Absatz 1 Satz 1 ein Fahrzeug nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mit Warntafeln versieht,
 
 14.  
-entgegen § 59 Absatz 1 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 59 Absatz 1 Satz 2 einen Abfallbeauftragten nicht oder nicht rechtzeitig bestellt oder
+entgegen § 59 Absatz 1 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 59 Absatz 1 Satz 2 und 3 einen Abfallbeauftragten nicht oder nicht rechtzeitig bestellt oder
 
 15.  
-einer Rechtsverordnung nach § 10 Absatz 2 Nummer 1 Buchstabe a, Nummer 2 bis 7 oder Nummer 8, jeweils auch in Verbindung mit § 11 Absatz 3 Nummer 4, § 16 Satz 1 Nummer 3 oder § 43 Absatz 5, nach § 25 Absatz 1 Nummer 4 oder Nummer 5, § 43 Absatz 1 Satz 1 Nummer 6 oder Nummer 9, § 52 Absatz 2 Nummer 2 oder Nummer 3, § 53 Absatz 6 Nummer 1, 2 oder Nummer 4, § 54 Absatz 7 Nummer 1, 2 oder Nummer 4 oder § 57 Satz 2 Nummer 9 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Vorschrift verweist.
+einer Rechtsverordnung nach § 10 Absatz 2 Nummer 1 Buchstabe a, Nummer 2 bis 7 oder Nummer 8, jeweils auch in Verbindung mit § 11 Absatz 3 Nummer 4, § 16 Satz 1 Nummer 3 oder § 43 Absatz 5, nach § 25 Absatz 1 Nummer 4 oder Nummer 5, § 43 Absatz 1 Satz 1 Nummer 6 oder Nummer 9, § 52 Absatz 1 Satz 1 und Absatz 2 Nummer 2 oder Nummer 3, § 53 Absatz 6 Nummer 1, 2, 4 oder Nummer 5, § 54 Absatz 7 Nummer 1, 2, 4 oder Nummer 5 oder § 57 Satz 2 Nummer 9 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Vorschrift verweist.
 
 (3) Die Ordnungswidrigkeit nach Absatz 1 kann mit einer Geldbuße bis zu hunderttausend Euro, die Ordnungswidrigkeit nach Absatz 2 mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
@@ -2082,6 +2088,35 @@ ee)
 0,97 ein Faktor zur Berechnung der Energieverluste durch Rost- und Kesselasche sowie durch Strahlung.
 
 d)  
+Der Wert der Energieeffizienzformel wird mit einem Klimakorrekturfaktor (Climate Correction Factor, CCF) wie folgt multipliziert:
+
+aa)  
+CCF für vor dem 1. September 2015 in Betrieb befindliche und nach geltendem EU-Recht genehmigte Anlagen:
+
+CCF =  
+1, wenn HDD &gt; = 3 350
+
+CCF =  
+1,25, wenn HDD &lt; = 2 150
+
+CCF =  
+– (0,25/1 200) × HDD + 1,698, wenn 2 150 &lt; HDD &lt; 3 350;
+
+bb)  
+CCF für nach dem 31. August 2015 genehmigte Anlagen und für Anlagen gemäß Nummer 1 ab 31. Dezember 2029:
+
+CCF =  
+1, wenn HDD &gt; = 3 350
+
+CCF =  
+1,12, wenn HDD &lt; = 2 150
+
+CCF =  
+– (0,12/1 200) × HDD + 1,335, wenn 2 150 &lt; HDD &lt; 3 350.
+
+(Der sich daraus ergebende CCF-Wert wird auf drei Dezimalstellen gerundet).Der HDD-Wert (Heizgradtage) sollte dem Durchschnitt der jährlichen HDD-Werte für den Standort der Verbrennungsanlage entsprechen, berechnet für einen Zeitraum von 20 aufeinanderfolgenden Jahren vor dem Jahr, für das der CCF bestimmt wird. Der HDD-Wert sollte nach der folgenden Eurostat-Methode berechnet werden: HDD = (18° C – Tm) × d, wenn Tm weniger als oder gleich 15° C (Heizschwelle) beträgt, und HDD = null, wenn Tm über 15° C beträgt; dabei ist Tm der mittleren (Tmin + Tmax)/2 Außentemperatur über einen Zeitraum von d Tagen. Die Berechnungen sind täglich durchzuführen (d = 1) und auf ein Jahr hochzurechnen.
+
+e)  
 Diese Formel ist entsprechend dem Referenzdokument zu den besten verfügbaren Techniken für die Abfallverbrennung zu verwenden.
 
 Dies schließt Vergasung und Pyrolyse unter Verwendung der Bestandteile als Chemikalien ein.Dies schließt die Bodenreinigung, die zu einer Verwertung des Bodens und zu einem Recycling anorganischer Baustoffe führt, ein.Falls sich kein anderer R-Code für die Einstufung eignet, kann das Verfahren R 12 vorbereitende Verfahren einschließen, die der Verwertung einschließlich der Vorbehandlung vorangehen, zum Beispiel Demontage, Sortieren, Zerkleinern, Verdichten, Pelletieren, Trocknen, Schreddern, Konditionierung, Neuverpacken, Trennung, Vermengen oder Vermischen vor Anwendung eines der in R 1 bis R 11 aufgeführten Verfahren.Unter einer zeitweiligen Lagerung ist eine vorläufige Lagerung im Sinne des § 3 Absatz 15 zu verstehen.
