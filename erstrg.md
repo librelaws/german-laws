@@ -2,7 +2,7 @@ Gesetz über die Erstreckung von gewerblichen Schutzrechten (ErstrG)
 ===================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 10 G v. 12.3.2004 I 390
+Zuletzt geändert durch Art. 14 Abs. 2 G v. 4.4.2016 I 558
 
 ### 
 
@@ -185,7 +185,7 @@ Das in Artikel 3 Abs. 4 Satz 1 des Gesetzes zur Änderung des Patentgesetzes und
 
 (2) Liegt die Anmeldung nicht in deutscher Sprache vor, so fordert das Deutsche Patent- und Markenamt den Anmelder auf, eine deutsche Fassung der Anmeldung innerhalb von drei Monaten nachzureichen. Wird die deutsche Fassung nicht innerhalb der Frist vorgelegt, so gilt die Anmeldung als zurückgenommen.
 
-(3) Bei einer nach § 4 erstreckten Patentanmeldung wird, sofern die Erteilung des Patents noch nicht beschlossen worden ist, die freie Einsicht in die Akten nach § 31 Abs. 2 Nr. 2 des Patentgesetzes gewährt und die Anmeldung als Offenlegungsschrift veröffentlicht.
+(3) Bei einer nach § 4 erstreckten Patentanmeldung wird, sofern die Erteilung des Patents noch nicht beschlossen worden ist, die freie Einsicht in die Akten nach § 31 Absatz 2 Satz 1 Nummer 2 des Patentgesetzes gewährt und die Anmeldung als Offenlegungsschrift veröffentlicht.
 
 (4) Ist für eine nach § 4 erstreckte Patentanmeldung ein Prüfungsantrag wirksam gestellt worden, so wird er weiterbehandelt. Ist die Prüfung von Amts wegen begonnen worden, so wird die Prüfung nur fortgesetzt, wenn der Anmelder den Prüfungsantrag nach § 44 Abs. 1 und 2 des Patentgesetzes stellt.
 
