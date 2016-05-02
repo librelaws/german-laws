@@ -2,7 +2,7 @@ Fischseuchenverordnung ()
 =========================
 
 Stand  
-Zuletzt geändert durch Art. 389 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 7 V v. 3.5.2016 I 1057
 
 ### 
 
@@ -584,7 +584,7 @@ aus denen die nicht exotische Seuche eingeschleppt oder
 2.  
 in welche die nicht exotische Seuche bereits weiter verschleppt worden sein kann,
 
-die behördliche Beobachtung an; § 19 Abs. 2 gilt entsprechend. Die zuständige Behörde kann histologische, molekularbiologische, mykologische, parasitologische oder virologische Untersuchungen anordnen.
+die behördliche Beobachtung an; § 19 Abs. 2 gilt entsprechend. Die zuständige Behörde kann histologische, molekularbiologische, parasitologische oder virologische Untersuchungen anordnen.
 
 (2) Die zuständige Behörde kann die Maßnahmen nach Absatz 1 auch für die in § 6 Abs. 1 genannten Betriebe anordnen.
 
