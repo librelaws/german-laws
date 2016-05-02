@@ -2,7 +2,7 @@ Verordnung zum Schutz gegen die Ansteckende Blutarmut der Einhufer ()
 =====================================================================
 
 Stand  
-Geändert durch Art. 33 V v. 17.4.2014 I 388
+Zuletzt geändert durch Art. 8 V v. 3.5.2016 I 1057
 
 ### 
 
@@ -102,7 +102,9 @@ eine Insektenbekämpfung im Stall durchzuführen,
 4.  
 Behälter, Gerätschaften und sonstige Gegenstände, die in einem Stall oder sonstigen Standort der Einhufer benutzt worden sind und die Träger des Ansteckungsstoffes sein können, nach näherer Anweisung der zuständigen Behörde zu reinigen und zu desinfizieren oder unschädlich zu beseitigen.
 
-(2) Einhufer, Einhufersamen, -eizellen und -embryonen dürfen in den und aus dem Bestand nur mit Genehmigung der zuständigen Behörde verbracht werden.
+(2) Einhufer dürfen nur mit Genehmigung der zuständigen Behörde in den und aus dem Betrieb sowie auf Wirtschafts- und Weideflächen des Betriebes verbracht werden. Die zuständige Behörde erteilt die Genehmigung nach Satz 1, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen. Hierbei berücksichtigt sie die Ergebnisse epidemiologischer Untersuchungen, das Vorkommen von Einhufern, Vektoren, natürlichen Grenzen und Überwachungsmöglichkeiten.
+
+(3) Einhufersamen, -eizellen und -embryonen dürfen nur mit Genehmigung der zuständigen Behörde in den und aus dem Betrieb verbracht werden. Absatz 2 Satz 2 und 3 gilt entsprechend.
 
 ### § 6 Reinigung und Desinfektion
 
@@ -146,11 +148,11 @@ auf die Einhufer-Blutarmut an. § 4 Absatz 2 Satz 2 und die §§ 5 und 6 gelten 
 
 ### § 9 Ansteckungsverdacht
 
-(1) Ist der Ausbruch der Einhufer-Blutarmut amtlich festgestellt und besteht Ansteckungsverdacht, führt die zuständige Behörde unverzüglich die klinische und serologische Untersuchung auf die Einhufer-Blutarmut für alle durch die Nachforschungen nach § 4 Absatz 2 Satz 2 Nummer 2 und 3 ermittelten Einhufer durch. Die klinische und serologische Untersuchung ist im Falle eines negativen Ergebnisses der Untersuchung im Abstand von drei Monaten zu wiederholen. Im Falle verendeter oder getöteter Einhufer ordnet die zuständige Behörde die virologische oder serologische Untersuchung auf die Einhufer-Blutarmut an.
+(1) Ist der Ausbruch der Einhufer-Blutarmut amtlich festgestellt und besteht Ansteckungsverdacht, führt die zuständige Behörde unverzüglich die klinische und serologische Untersuchung auf die Einhufer-Blutarmut für alle durch die Nachforschungen nach § 4 Absatz 2 Satz 2 Nummer 2 und 3 ermittelten Einhufer durch. Ist die serologische Untersuchung nach Satz 1 mit negativem Ergebnis durchgeführt worden und liegt der letztmalige Kontakt zu dem seuchenkranken Einhufer weniger als 90 Tage, gerechnet vom Tag der Seuchenfeststellung, zurück, so ist die serologische Untersuchung frühestens im Abstand von 90 Tagen, gerechnet vom Tag des letztmaligen Kontaktes zu dem seuchenkranken Einhufer, zu wiederholen. Im Falle verendeter oder getöteter Einhufer ordnet die zuständige Behörde die virologische oder serologische Untersuchung auf die Einhufer-Blutarmut an.
 
 (2) Für Bestände mit ansteckungsverdächtigen Einhufern gilt § 5 entsprechend.
 
-(3) Ansteckungsverdächtige Einhufer dürfen nur mit Genehmigung der zuständigen Behörde auf Wirtschafts- oder Weideflächen des Betriebes verbracht werden. Die zuständige Behörde erteilt die Genehmigung, sofern Belange der Tierseuchenbekämpfung nicht entgegenstehen. Hierbei berücksichtigt sie die Ergebnisse epidemiologischer Untersuchungen, das Vorkommen von Einhufern, Vektoren, natürlichen Grenzen und Überwachungsmöglichkeiten.
+(3) (weggefallen)
 
 ### § 10 Sperrbezirk
 
@@ -232,7 +234,7 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 entgegen § 2 Satz 1 eine Impfung oder einen Heilversuch vornimmt,
 
 2.  
-einer mit einer Genehmigung nach § 2 Satz 2, § 5 Absatz 2, § 9 Absatz 3 Satz 1 oder § 11 Absatz 2 verbundenen vollziehbaren Anordnung zuwiderhandelt,
+einer mit einer Genehmigung nach § 2 Satz 2, § 5 Absatz 2 Satz 1 oder Absatz 3 Satz 1 oder § 11 Absatz 2 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 3.  
 einer vollziehbaren Anordnung nach § 3, § 4 Absatz 1 Satz 2, § 5 Absatz 1 Nummer 1 oder Nummer 4, jeweils auch in Verbindung mit § 9 Absatz 2, nach § 6, § 8 Absatz 1 Satz 1 oder Absatz 3, § 9 Absatz 1 Satz 3, § 10 Absatz 10 oder § 11 Absatz 1 zuwiderhandelt,
@@ -244,7 +246,7 @@ entgegen § 5 Absatz 1 Nummer 2, auch in Verbindung mit § 9 Absatz 2, Einhufer 
 entgegen § 5 Absatz 1 Nummer 3 eine Insektenbekämpfung nicht oder nicht rechtzeitig durchführt,
 
 6.  
-entgegen § 5 Absatz 2, auch in Verbindung mit § 9 Absatz 2, § 9 Absatz 3 Satz 1 oder § 10 Absatz 5 Satz 1 oder Absatz 6 Satz 1 Einhufer, Einhufersamen, -eizellen oder -embryonen ohne Genehmigung verbringt,
+entgegen § 5 Absatz 2 Satz 1 oder Absatz 3 Satz 1, jeweils auch in Verbindung mit § 9 Absatz 2, oder § 10 Absatz 5 Satz 1 oder Absatz 6 Satz 1 Einhufer, Einhufersamen, -eizellen oder -embryonen ohne Genehmigung verbringt,
 
 7.  
 entgegen § 8 Absatz 2 ein Schild nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig anbringt oder
