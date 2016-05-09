@@ -2,7 +2,16 @@ Aktiengesetz ()
 ===============
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 22.12.2015 I 2565
+Zuletzt geändert durch Art. 5 G v. 10.5.2016 I 1142
+
+Hinweis  
+Änderung durch Art. 8 G v. 11.4.2017 I 802 (Nr. 20) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 24 Abs. 16 G v. 23.6.2017 I 1693 (Nr. 39) mWv 3.1.2018 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 9 G v. 17.7.2017 I 2446 mWv 22.7.2017 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -714,7 +723,7 @@ Aktionäre sind unter gleichen Voraussetzungen gleich zu behandeln.
 
 (3) Die Hauptversammlung kann im Beschluß über die Verwendung des Bilanzgewinns weitere Beträge in Gewinnrücklagen einstellen oder als Gewinn vortragen. Sie kann ferner, wenn die Satzung sie hierzu ermächtigt, auch eine andere Verwendung als nach Satz 1 oder als die Verteilung unter die Aktionäre beschließen.
 
-(4) Die Aktionäre haben Anspruch auf den Bilanzgewinn, soweit er nicht nach Gesetz oder Satzung, durch Hauptversammlungsbeschluß nach Absatz 3 oder als zusätzlicher Aufwand auf Grund des Gewinnverwendungsbeschlusses von der Verteilung unter die Aktionäre ausgeschlossen ist.
+(4) Die Aktionäre haben Anspruch auf den Bilanzgewinn, soweit er nicht nach Gesetz oder Satzung, durch Hauptversammlungsbeschluß nach Absatz 3 oder als zusätzlicher Aufwand auf Grund des Gewinnverwendungsbeschlusses von der Verteilung unter die Aktionäre ausgeschlossen ist. Der Anspruch ist am dritten auf den Hauptversammlungsbeschluss folgenden Geschäftstag fällig. In dem Hauptversammlungsbeschluss oder in der Satzung kann eine spätere Fälligkeit festgelegt werden.
 
 (5) Sofern die Satzung dies vorsieht, kann die Hauptversammlung auch eine Sachausschüttung beschließen.
 
@@ -1278,7 +1287,7 @@ Auf die Höchstzahl nach Satz 1 Nr. 1 sind bis zu fünf Aufsichtsratssitze nicht
 
 (4) Die Satzung kann persönliche Voraussetzungen nur für Aufsichtsratsmitglieder fordern, die von der Hauptversammlung ohne Bindung an Wahlvorschläge gewählt oder auf Grund der Satzung in den Aufsichtsrat entsandt werden.
 
-(5) Bei Gesellschaften im Sinn des § 264d des Handelsgesetzbuchs muss mindestens ein unabhängiges Mitglied des Aufsichtsrats über Sachverstand auf den Gebieten Rechnungslegung oder Abschlussprüfung verfügen.
+(5) Bei Gesellschaften, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluß und den konsolidierten Abschluß von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist, sind, muss mindestens ein Mitglied des Aufsichtsrats über Sachverstand auf den Gebieten Rechnungslegung oder Abschlussprüfung verfügen; die Mitglieder müssen in ihrer Gesamtheit mit dem Sektor, in dem die Gesellschaft tätig ist, vertraut sein.
 
 ### § 101 Bestellung der Aufsichtsratsmitglieder
 
@@ -1367,9 +1376,9 @@ Der Vorstand hat bei jeder Änderung in den Personen der Aufsichtsratsmitglieder
 
 (2) Über die Sitzungen des Aufsichtsrats ist eine Niederschrift anzufertigen, die der Vorsitzende zu unterzeichnen hat. In der Niederschrift sind der Ort und der Tag der Sitzung, die Teilnehmer, die Gegenstände der Tagesordnung, der wesentliche Inhalt der Verhandlungen und die Beschlüsse des Aufsichtsrats anzugeben. Ein Verstoß gegen Satz 1 oder Satz 2 macht einen Beschluß nicht unwirksam. Jedem Mitglied des Aufsichtsrats ist auf Verlangen eine Abschrift der Sitzungsniederschrift auszuhändigen.
 
-(3) Der Aufsichtsrat kann aus seiner Mitte einen oder mehrere Ausschüsse bestellen, namentlich, um seine Verhandlungen und Beschlüsse vorzubereiten oder die Ausführung seiner Beschlüsse zu überwachen. Er kann insbesondere einen Prüfungsausschuss bestellen, der sich mit der Überwachung des Rechnungslegungsprozesses, der Wirksamkeit des internen Kontrollsystems, des Risikomanagementsystems und des internen Revisionssystems sowie der Abschlussprüfung, hier insbesondere der Unabhängigkeit des Abschlussprüfers und der vom Abschlussprüfer zusätzlich erbrachten Leistungen, befasst. Die Aufgaben nach Absatz 1 Satz 1, § 59 Abs. 3, § 77 Abs. 2 Satz 1, § 84 Abs. 1 Satz 1 und 3, Abs. 2 und Abs. 3 Satz 1, § 87 Abs. 1 und Abs. 2 Satz 1 und 2, § 111 Abs. 3, §§ 171, 314 Abs. 2 und 3 sowie Beschlüsse, daß bestimmte Arten von Geschäften nur mit Zustimmung des Aufsichtsrats vorgenommen werden dürfen, können einem Ausschuß nicht an Stelle des Aufsichtsrats zur Beschlußfassung überwiesen werden. Dem Aufsichtsrat ist regelmäßig über die Arbeit der Ausschüsse zu berichten.
+(3) Der Aufsichtsrat kann aus seiner Mitte einen oder mehrere Ausschüsse bestellen, namentlich, um seine Verhandlungen und Beschlüsse vorzubereiten oder die Ausführung seiner Beschlüsse zu überwachen. Er kann insbesondere einen Prüfungsausschuss bestellen, der sich mit der Überwachung des Rechnungslegungsprozesses, der Wirksamkeit des internen Kontrollsystems, des Risikomanagementsystems und des internen Revisionssystems sowie der Abschlussprüfung, hier insbesondere der Auswahl und der Unabhängigkeit des Abschlussprüfers und der vom Abschlussprüfer zusätzlich erbrachten Leistungen, befasst. Der Prüfungsausschuss kann Empfehlungen oder Vorschläge zur Gewährleistung der Integrität des Rechnungslegungsprozesses unterbreiten. Die Aufgaben nach Absatz 1 Satz 1, § 59 Abs. 3, § 77 Abs. 2 Satz 1, § 84 Abs. 1 Satz 1 und 3, Abs. 2 und Abs. 3 Satz 1, § 87 Abs. 1 und Abs. 2 Satz 1 und 2, § 111 Abs. 3, §§ 171, 314 Abs. 2 und 3 sowie Beschlüsse, daß bestimmte Arten von Geschäften nur mit Zustimmung des Aufsichtsrats vorgenommen werden dürfen, können einem Ausschuß nicht an Stelle des Aufsichtsrats zur Beschlußfassung überwiesen werden. Dem Aufsichtsrat ist regelmäßig über die Arbeit der Ausschüsse zu berichten.
 
-(4) Richtet der Aufsichtsrat einer Gesellschaft im Sinn des § 264d des Handelsgesetzbuchs einen Prüfungsausschuss im Sinn des Absatzes 3 Satz 2 ein, so muss mindestens ein Mitglied die Voraussetzungen des § 100 Abs. 5 erfüllen.
+(4) Richtet der Aufsichtsrat einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG ist, einen Prüfungsausschuss im Sinn des Absatzes 3 Satz 2 ein, so müssen die Voraussetzungen des § 100 Absatz 5 erfüllt sein.
 
 ### § 108 Beschlußfassung des Aufsichtsrats
 
@@ -1403,7 +1412,7 @@ Der Vorstand hat bei jeder Änderung in den Personen der Aufsichtsratsmitglieder
 
 (1) Der Aufsichtsrat hat die Geschäftsführung zu überwachen.
 
-(2) Der Aufsichtsrat kann die Bücher und Schriften der Gesellschaft sowie die Vermögensgegenstände, namentlich die Gesellschaftskasse und die Bestände an Wertpapieren und Waren, einsehen und prüfen. Er kann damit auch einzelne Mitglieder oder für bestimmte Aufgaben besondere Sachverständige beauftragen. Er erteilt dem Abschlußprüfer den Prüfungsauftrag für den Jahres- und den Konzernabschluß gemäß § 290 des Handelsgesetzbuchs.
+(2) Der Aufsichtsrat kann die Bücher und Schriften der Gesellschaft sowie die Vermögensgegenstände, namentlich die Gesellschaftskasse und die Bestände an Wertpapieren und Waren, einsehen und prüfen. Er kann damit auch einzelne Mitglieder oder für bestimmte Aufgaben besondere Sachverständige beauftragen. Er erteilt dem Abschlußprüfer den Prüfungsauftrag für den Jahres- und den Konzernabschluß gemäß § 290 des Handelsgesetzbuchs. Er kann darüber hinaus eine externe inhaltliche Überprüfung der nichtfinanziellen Erklärung oder des gesonderten nichtfinanziellen Berichts (§ 289b des Handelsgesetzbuchs), der nichtfinanziellen Konzernerklärung oder des gesonderten nichtfinanziellen Konzernberichts (§ 315b des Handelsgesetzbuchs) beauftragen.
 
 (3) Der Aufsichtsrat hat eine Hauptversammlung einzuberufen, wenn das Wohl der Gesellschaft es fordert. Für den Beschluß genügt die einfache Mehrheit.
 
@@ -1613,7 +1622,7 @@ Angabe, wie viele der Sitze im Aufsichtsrat mindestens jeweils von Frauen und M�
 
 Soll die Hauptversammlung über eine Satzungsänderung oder über einen Vertrag beschließen, der nur mit Zustimmung der Hauptversammlung wirksam wird, so ist auch der Wortlaut der vorgeschlagenen Satzungsänderung oder der wesentliche Inhalt des Vertrags bekanntzumachen.
 
-(3) Zu jedem Gegenstand der Tagesordnung, über den die Hauptversammlung beschließen soll, haben der Vorstand und der Aufsichtsrat, zur Wahl von Aufsichtsratsmitgliedern und Prüfern nur der Aufsichtsrat, in der Bekanntmachung Vorschläge zur Beschlußfassung zu machen. Bei Gesellschaften im Sinn des § 264d des Handelsgesetzbuchs ist der Vorschlag des Aufsichtsrats zur Wahl des Abschlussprüfers auf die Empfehlung des Prüfungsausschusses zu stützen. Satz 1 findet keine Anwendung, wenn die Hauptversammlung bei der Wahl von Aufsichtsratsmitgliedern nach § 6 des Montan-Mitbestimmungsgesetzes an Wahlvorschläge gebunden ist, oder wenn der Gegenstand der Beschlußfassung auf Verlangen einer Minderheit auf die Tagesordnung gesetzt worden ist. Der Vorschlag zur Wahl von Aufsichtsratsmitgliedern oder Prüfern hat deren Namen, ausgeübten Beruf und Wohnort anzugeben. Hat der Aufsichtsrat auch aus Aufsichtsratsmitgliedern der Arbeitnehmer zu bestehen, so bedürfen Beschlüsse des Aufsichtsrats über Vorschläge zur Wahl von Aufsichtsratsmitgliedern nur der Mehrheit der Stimmen der Aufsichtsratsmitglieder der Aktionäre; § 8 des Montan-Mitbestimmungsgesetzes bleibt unberührt.
+(3) Zu jedem Gegenstand der Tagesordnung, über den die Hauptversammlung beschließen soll, haben der Vorstand und der Aufsichtsrat, zur Wahl von Aufsichtsratsmitgliedern und Prüfern nur der Aufsichtsrat, in der Bekanntmachung Vorschläge zur Beschlußfassung zu machen. Bei Gesellschaften, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG sind, ist der Vorschlag des Aufsichtsrats zur Wahl des Abschlussprüfers auf die Empfehlung des Prüfungsausschusses zu stützen. Satz 1 findet keine Anwendung, wenn die Hauptversammlung bei der Wahl von Aufsichtsratsmitgliedern nach § 6 des Montan-Mitbestimmungsgesetzes an Wahlvorschläge gebunden ist, oder wenn der Gegenstand der Beschlußfassung auf Verlangen einer Minderheit auf die Tagesordnung gesetzt worden ist. Der Vorschlag zur Wahl von Aufsichtsratsmitgliedern oder Prüfern hat deren Namen, ausgeübten Beruf und Wohnort anzugeben. Hat der Aufsichtsrat auch aus Aufsichtsratsmitgliedern der Arbeitnehmer zu bestehen, so bedürfen Beschlüsse des Aufsichtsrats über Vorschläge zur Wahl von Aufsichtsratsmitgliedern nur der Mehrheit der Stimmen der Aufsichtsratsmitglieder der Aktionäre; § 8 des Montan-Mitbestimmungsgesetzes bleibt unberührt.
 
 (4) Über Gegenstände der Tagesordnung, die nicht ordnungsgemäß bekanntgemacht sind, dürfen keine Beschlüsse gefaßt werden. Zur Beschlußfassung über den in der Versammlung gestellten Antrag auf Einberufung einer Hauptversammlung, zu Anträgen, die zu Gegenständen der Tagesordnung gestellt werden, und zu Verhandlungen ohne Beschlußfassung bedarf es keiner Bekanntmachung.
 
@@ -2223,7 +2232,7 @@ Zweiter Unterabschnitt Prüfung durch den Aufsichtsrat
 
 ### § 170 Vorlage an den Aufsichtsrat
 
-(1) Der Vorstand hat den Jahresabschluß und den Lagebericht unverzüglich nach ihrer Aufstellung dem Aufsichtsrat vorzulegen. Satz 1 gilt entsprechend für einen Einzelabschluss nach § 325 Abs. 2a des Handelsgesetzbuchs sowie bei Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) für den Konzernabschluss und den Konzernlagebericht.
+(1) Der Vorstand hat den Jahresabschluß und den Lagebericht unverzüglich nach ihrer Aufstellung dem Aufsichtsrat vorzulegen. Satz 1 gilt entsprechend für einen Einzelabschluss nach § 325 Abs. 2a des Handelsgesetzbuchs sowie bei Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) für den Konzernabschluss und den Konzernlagebericht. Nach Satz 1 vorzulegen sind auch der gesonderte nichtfinanzielle Bericht (§ 289b des Handelsgesetzbuchs) und der gesonderte nichtfinanzielle Konzernbericht (§ 315b des Handelsgesetzbuchs), sofern sie erstellt wurden.
 
 (2) Zugleich hat der Vorstand dem Aufsichtsrat den Vorschlag vorzulegen, den er der Hauptversammlung für die Verwendung des Bilanzgewinns machen will. Der Vorschlag ist, sofern er keine abweichende Gliederung bedingt, wie folgt zu gliedern:
 
@@ -2238,7 +2247,7 @@ Zweiter Unterabschnitt Prüfung durch den Aufsichtsrat
 
 ### § 171 Prüfung durch den Aufsichtsrat
 
-(1) Der Aufsichtsrat hat den Jahresabschluß, den Lagebericht und den Vorschlag für die Verwendung des Bilanzgewinns zu prüfen, bei Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) auch den Konzernabschluß und den Konzernlagebericht. Ist der Jahresabschluss oder der Konzernabschluss durch einen Abschlussprüfer zu prüfen, so hat dieser an den Verhandlungen des Aufsichtsrats oder des Prüfungsausschusses über diese Vorlagen teilzunehmen und über die wesentlichen Ergebnisse seiner Prüfung, insbesondere wesentliche Schwächen des internen Kontroll- und des Risikomanagementsystems bezogen auf den Rechnungslegungsprozess, zu berichten. Er informiert über Umstände, die seine Befangenheit besorgen lassen und über Leistungen, die er zusätzlich zu den Abschlussprüfungsleistungen erbracht hat.
+(1) Der Aufsichtsrat hat den Jahresabschluß, den Lagebericht und den Vorschlag für die Verwendung des Bilanzgewinns zu prüfen, bei Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) auch den Konzernabschluß und den Konzernlagebericht. Ist der Jahresabschluss oder der Konzernabschluss durch einen Abschlussprüfer zu prüfen, so hat dieser an den Verhandlungen des Aufsichtsrats oder des Prüfungsausschusses über diese Vorlagen teilzunehmen und über die wesentlichen Ergebnisse seiner Prüfung, insbesondere wesentliche Schwächen des internen Kontroll- und des Risikomanagementsystems bezogen auf den Rechnungslegungsprozess, zu berichten. Er informiert über Umstände, die seine Befangenheit besorgen lassen und über Leistungen, die er zusätzlich zu den Abschlussprüfungsleistungen erbracht hat. Der Aufsichtsrat hat auch den gesonderten nichtfinanziellen Bericht (§ 289b des Handelsgesetzbuchs) und den gesonderten nichtfinanziellen Konzernbericht (§ 315b des Handelsgesetzbuchs) zu prüfen, sofern sie erstellt wurden.
 
 (2) Der Aufsichtsrat hat über das Ergebnis der Prüfung schriftlich an die Hauptversammlung zu berichten. In dem Bericht hat der Aufsichtsrat auch mitzuteilen, in welcher Art und in welchem Umfang er die Geschäftsführung der Gesellschaft während des Geschäftsjahrs geprüft hat; bei börsennotierten Gesellschaften hat er insbesondere anzugeben, welche Ausschüsse gebildet worden sind, sowie die Zahl seiner Sitzungen und die der Ausschüsse mitzuteilen. Ist der Jahresabschluß durch einen Abschlußprüfer zu prüfen, so hat der Aufsichtsrat ferner zu dem Ergebnis der Prüfung des Jahresabschlusses durch den Abschlußprüfer Stellung zu nehmen. Am Schluß des Berichts hat der Aufsichtsrat zu erklären, ob nach dem abschließenden Ergebnis seiner Prüfung Einwendungen zu erheben sind und ob er den vom Vorstand aufgestellten Jahresabschluß billigt. Bei Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) finden die Sätze 3 und 4 entsprechende Anwendung auf den Konzernabschluss.
 
@@ -2313,7 +2322,7 @@ Dritter Unterabschnitt Ordentliche Hauptversammlung
 
 ### § 176 Vorlagen. Anwesenheit des Abschlußprüfers
 
-(1) Der Vorstand hat der Hauptversammlung die in § 175 Abs. 2 genannten Vorlagen sowie bei börsennotierten Gesellschaften einen erläuternden Bericht zu den Angaben nach § 289 Abs. 4, § 315 Abs. 4 des Handelsgesetzbuchs zugänglich zu machen. Zu Beginn der Verhandlung soll der Vorstand seine Vorlagen, der Vorsitzende des Aufsichtsrats den Bericht des Aufsichtsrats erläutern. Der Vorstand soll dabei auch zu einem Jahresfehlbetrag oder einem Verlust Stellung nehmen, der das Jahresergebnis wesentlich beeinträchtigt hat. Satz 3 ist auf Kreditinstitute nicht anzuwenden.
+(1) Der Vorstand hat der Hauptversammlung die in § 175 Abs. 2 genannten Vorlagen sowie bei börsennotierten Gesellschaften einen erläuternden Bericht zu den Angaben nach § 289a Absatz 1 und § 315a Absatz 1 des Handelsgesetzbuchs zugänglich zu machen. Zu Beginn der Verhandlung soll der Vorstand seine Vorlagen, der Vorsitzende des Aufsichtsrats den Bericht des Aufsichtsrats erläutern. Der Vorstand soll dabei auch zu einem Jahresfehlbetrag oder einem Verlust Stellung nehmen, der das Jahresergebnis wesentlich beeinträchtigt hat. Satz 3 ist auf Kreditinstitute nicht anzuwenden.
 
 (2) Ist der Jahresabschluß von einem Abschlußprüfer zu prüfen, so hat der Abschlußprüfer an den Verhandlungen über die Feststellung des Jahresabschlusses teilzunehmen. Satz 1 gilt entsprechend für die Verhandlungen über die Billigung eines Konzernabschlusses. Der Abschlußprüfer ist nicht verpflichtet, einem Aktionär Auskunft zu erteilen.
 
@@ -2908,7 +2917,7 @@ Dritter Unterabschnitt Kapitalherabsetzung durch Einziehung von Aktien. Ausnahme
 der Gesellschaft unentgeltlich zur Verfügung gestellt oder
 
 2.  
-zu Lasten des Bilanzgewinns oder einer anderen Gewinnrücklage, soweit sie zu diesem Zweck verwandt werden können, eingezogen werden oder
+zu Lasten des Bilanzgewinns oder einer frei verfügbaren Rücklage, soweit sie zu diesem Zweck verwandt werden können, eingezogen werden oder
 
 3.  
 Stückaktien sind und der Beschluss der Hauptversammlung bestimmt, dass sich durch die Einziehung der Anteil der übrigen Aktien am Grundkapital gemäß § 8 Abs. 3 erhöht; wird der Vorstand zur Einziehung ermächtigt, so kann er auch zur Anpassung der Angabe der Zahl in der Satzung ermächtigt werden.
@@ -3186,7 +3195,19 @@ er durch seinen Inhalt Vorschriften verletzt, die ausschließlich oder überwieg
 er im Falle einer gesetzlichen Prüfungspflicht nicht nach § 316 Abs. 1 und 3 des Handelsgesetzbuchs geprüft worden ist;
 
 3.  
-er im Falle einer gesetzlichen Prüfungspflicht von Personen geprüft worden ist, die nach § 319 Abs. 1 des Handelsgesetzbuchs oder nach Artikel 25 des Einführungsgesetzes zum Handelsgesetzbuch nicht Abschlussprüfer sind oder aus anderen Gründen als einem Verstoß gegen § 319 Abs. 2, 3 oder Abs. 4, § 319a Abs. 1 oder § 319b Abs. 1 des Handelsgesetzbuchs nicht zum Abschlussprüfer bestellt sind,
+er im Falle einer gesetzlichen Prüfungspflicht von Personen geprüft worden ist, die nach § 319 Absatz 1 des Handelsgesetzbuchs oder nach Artikel 25 des Einführungsgesetzes zum Handelsgesetzbuch nicht Abschlussprüfer sind oder aus anderen Gründen als den folgenden nicht zum Abschlussprüfer bestellt sind:
+
+a)  
+Verstoß gegen § 319 Absatz 2, 3 oder 4 des Handelsgesetzbuchs,
+
+b)  
+Verstoß gegen § 319a Absatz 1 oder 3 des Handelsgesetzbuchs,
+
+c)  
+Verstoß gegen § 319b Absatz 1 des Handelsgesetzbuchs,
+
+d)  
+Verstoß gegen die Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66),
 
 4.  
 bei seiner Feststellung die Bestimmungen des Gesetzes oder der Satzung über die Einstellung von Beträgen in Kapital- oder Gewinnrücklagen oder über die Entnahme von Beträgen aus Kapital- oder Gewinnrücklagen verletzt worden sind.
@@ -3571,7 +3592,7 @@ die Geltendmachung von Ersatzansprüchen wegen der Geschäftsführung;
 die Aufstellung, Vorlegung und Prüfung des Jahresabschlusses und des Vorschlags für die Verwendung des Bilanzgewinns;
 
 10.  
-die Vorlegung und Prüfung des Lageberichts sowie eines Konzernabschlusses und eines Konzernlageberichts;
+die Vorlage und Prüfung des Lageberichts, eines gesonderten nichtfinanziellen Berichts sowie eines Konzernabschlusses, eines Konzernlageberichts und eines gesonderten nichtfinanziellen Konzernberichts;
 
 11.  
 die Vorlegung, Prüfung und Offenlegung eines Einzelabschlusses nach § 325 Abs. 2a des Handelsgesetzbuchs;
@@ -4428,6 +4449,24 @@ bekanntgeworden ist, unbefugt offenbart; im Falle der Nummer 2 jedoch nur, wenn 
 
 (3) Die Tat wird nur auf Antrag der Gesellschaft verfolgt. Hat ein Mitglied des Vorstands oder ein Abwickler die Tat begangen, so ist der Aufsichtsrat, hat ein Mitglied des Aufsichtsrats die Tat begangen, so sind der Vorstand oder die Abwickler antragsberechtigt.
 
+### § 404a Verletzung der Pflichten bei Abschlussprüfungen
+
+(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied des Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen ist im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluß und den konsolidierten Abschluß von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist,
+
+1.  
+eine in § 405 Absatz 3b bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
+
+2.  
+eine in § 405 Absatz 3b bezeichnete Handlung beharrlich wiederholt.
+
+(2) Ebenso wird bestraft, wer als Mitglied des Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut ist im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute,
+
+1.  
+eine in § 405 Absatz 3c oder 3d bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder
+
+2.  
+eine in § 405 Absatz 3c oder 3d bezeichnete Handlung beharrlich wiederholt.
+
 ### § 405 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer als Mitglied des Vorstands oder des Aufsichtsrats oder als Abwickler
@@ -4489,7 +4528,27 @@ entgegen § 121 Abs. 4a Satz 1, auch in Verbindung mit § 124 Abs. 1 Satz 3, die
 2.  
 entgegen § 124a Angaben nicht, nicht richtig oder nicht vollständig zugänglich macht.
 
-(4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
+(3b) Ordnungswidrig handelt, wer als Mitglied des Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen ist im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluß und den konsolidierten Abschluß von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist,
+
+1.  
+die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) überwacht oder
+
+2.  
+eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, die nicht auf einem Verlangen der Aufsichtsbehörde nach § 36 Absatz 1 Satz 2 des Versicherungsaufsichtsgesetzes beruht und
+
+a)  
+die den Anforderungen nach Artikel 16 Absatz 2 Unterabsatz 2 oder 3 der Verordnung (EU) Nr. 537/2014 nicht entspricht oder
+
+b)  
+der ein Auswahlverfahren nach Artikel 16 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht vorangegangen ist.
+
+(3c) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der einen Prüfungsausschuss nicht bestellt hat, einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut ist im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, der Hauptversammlung einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
+
+(3d) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der einen Prüfungsausschuss bestellt hat, einer in Absatz 3c genannten Gesellschaft der Hauptversammlung einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 oder Unterabsatz 2 Satz 1 oder Satz 2 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
+
+(4) Die Ordnungswidrigkeit kann in den Fällen der Absätze 3b bis 3d mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
+
+(5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 3b bis 3d bei CRR-Kreditinstituten im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, und bei Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG die Bundesanstalt für Finanzdienstleistungsaufsicht, im Übrigen das Bundesamt für Justiz.
 
 ### § 406 (weggefallen)
 
@@ -4500,6 +4559,12 @@ entgegen § 124a Angaben nicht, nicht richtig oder nicht vollständig zugänglic
 (1) Vorstandsmitglieder oder Abwickler, die § 52 Abs. 2 Satz 2 bis 4, § 71c, § 73 Abs. 3 Satz 2, §§ 80, 90, 104 Abs. 1, § 111 Abs. 2, § 145, §§ 170, 171 Abs. 3 oder Abs. 4 Satz 1 in Verbindung mit Abs. 3, §§ 175, 179a Abs. 2 Satz 1 bis 3, 214 Abs. 1, § 246 Abs. 4, §§ 248a, 259 Abs. 5, § 268 Abs. 4, § 270 Abs. 1, § 273 Abs. 2, §§ 293f, 293g Abs. 1, § 312 Abs. 1, § 313 Abs. 1, § 314 Abs. 1 nicht befolgen, sind hierzu vom Registergericht durch Festsetzung von Zwangsgeld anzuhalten; § 14 des Handelsgesetzbuchs bleibt unberührt. Das einzelne Zwangsgeld darf den Betrag von fünftausend Euro nicht übersteigen.
 
 (2) Die Anmeldungen zum Handelsregister nach den §§ 36, 45, 52, 181 Abs. 1, §§ 184, 188, 195, 210, 223, 237 Abs. 4, §§ 274, 294 Abs. 1, § 319 Abs. 3 werden durch Festsetzung von Zwangsgeld nicht erzwungen.
+
+### § 407a Mitteilungen an die Abschlussprüferaufsichtsstelle
+
+(1) Die nach § 405 Absatz 5 zuständige Verwaltungsbehörde übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 405 Absatz 3b bis 3d.
+
+(2) In Strafverfahren, die eine Straftat nach § 404a zum Gegenstand haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der öffentlichen Klage der Abschlussprüferaufsichtsstelle die das Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf das eingelegte Rechtsmittel zu übermitteln.
 
 ### § 408 Strafbarkeit persönlich haftender Gesellschafter einer Kommanditgesellschaft auf Aktien
 
