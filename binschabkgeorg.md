@@ -2,7 +2,7 @@ Gesetz zu dem Abkommen vom 25. Juni 1993 zwischen der Regierung der Bundesrepubl
 ===================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 317 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 19 g v. 24.5.2016 I 1217
 
 ### 
 
@@ -16,7 +16,7 @@ Dem in Bonn am 25. Juni 1993 unterzeichneten Abkommen zwischen der Regierung der
 
 ### Art 2
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, die genehmigten Vereinbarungen über die Mindest-/Höchstfrachten sowie die Nebenbedingungen für den Wechselverkehr, auf die sich der Gemischte Ausschuß gemäß Artikel 14 Abs. 8 des Abkommens geeinigt hat, durch Rechtsverordnung in Kraft zu setzen.
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, die genehmigten Vereinbarungen über die Mindest-/Höchstfrachten sowie die Nebenbedingungen für den Wechselverkehr, auf die sich der Gemischte Ausschuß gemäß Artikel 14 Abs. 8 des Abkommens geeinigt hat, durch Rechtsverordnung in Kraft zu setzen.
 
 ### Art 3
 
@@ -28,7 +28,7 @@ Ordnungswidrig im Sinne des § 3 des Wirtschaftsstrafgesetzes 1954 handelt, wer 
 
 ### Art 5
 
-Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Wasser- und Schiffahrtsdirektion. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann abweichend von § 37 des Gesetzes über Ordnungswidrigkeiten durch Rechtsverordnung eine Wasser- und Schiffahrtsdirektion als für den Bereich mehrerer Wasser- und Schiffahrtsdirektionen zuständig erklären.
+Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Generaldirektion Wasserstraßen und Schifffahrt.
 
 ### Art 6
 
