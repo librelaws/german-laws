@@ -2,7 +2,7 @@ Gesetz über die Errichtung des Deutschen Binnenschifffahrtsfonds (BinSchFondsG)
 ===============================================================================
 
 Stand  
-Geändert durch Art. 318 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 20 G v. 24.5.2016 I 1217
 
 ### 
 
@@ -24,7 +24,7 @@ Der Binnenschifffahrtsfonds ist nicht rechtsfähig. Er kann unter seinem Namen i
 
 ### § 4 Verwaltung und Anlage der Mittel
 
-(1) Die Wasser- und Schifffahrtsdirektion West in Münster verwaltet den Binnenschifffahrtsfonds, führt dessen Geschäfte und vertritt ihn nach außen. Sie hat die überregionalen Binnenschifffahrtsverbände über dessen Wirtschaftsplan und den Jahresabschluss zu unterrichten.
+(1) Die Generaldirektion Wasserstraßen und Schifffahrt verwaltet den Binnenschifffahrtsfonds, führt dessen Geschäfte und vertritt ihn nach außen. Sie hat die überregionalen Binnenschifffahrtsverbände über dessen Wirtschaftsplan und den Jahresabschluss zu unterrichten.
 
 (2) Die Mittel des Binnenschifffahrtsfonds einschließlich der Erträge sind bis zur bestimmungsgemäßen Verwendung zu marktüblichen Bedingungen in Euro anzulegen
 
@@ -34,13 +34,13 @@ in handelbaren Schuldverschreibungen, deren Schuldner der Bund, ein Sondervermö
 2.  
 bei geeigneten Kreditinstituten.
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erlässt hierzu Anlagerichtlinien.
+Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt hierzu Anlagerichtlinien.
 
 ### § 5 Verwendung der Mittel
 
 (1) Die Mittel des Binnenschifffahrtsfonds dürfen nur nach Maßgabe der Artikel 3 Abs. 5, Artikel 6 und 8 der Verordnung (EG) Nr. 718/1999 verwendet werden.
 
-(2) Zinserträge nach § 4 Abs. 2 dürfen nach Maßgabe von Richtlinien des Bundesministeriums für Verkehr, Bau und Stadtentwicklung zugunsten der deutschen Binnenschifffahrtsunternehmen anderweitig verwendet werden. Vor Erlass der Richtlinie werden die überregionalen Binnenschifffahrtsverbände angehört.
+(2) Zinserträge nach § 4 Abs. 2 dürfen nach Maßgabe von Richtlinien des Bundesministeriums für Verkehr und digitale Infrastruktur zugunsten der deutschen Binnenschifffahrtsunternehmen anderweitig verwendet werden. Vor Erlass der Richtlinie werden die überregionalen Binnenschifffahrtsverbände angehört.
 
 ### § 6 Vermögenstrennung
 
@@ -50,13 +50,13 @@ Die Mittel des Binnenschifffahrtsfonds sind von dem übrigen Vermögen des Bunde
 
 (1) Für die Haushalts- und Wirtschaftsführung gilt § 113 der Bundeshaushaltsordnung.
 
-(2) Für jedes Kalenderjahr sind ein Wirtschaftsplan und eine Jahresrechnung aufzustellen, die der Genehmigung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung bedürfen. In der Jahresrechnung sind der Bestand des Sondervermögens einschließlich der Forderungen und Verbindlichkeiten sowie die Einnahmen und Ausgaben nachzuweisen.
+(2) Für jedes Kalenderjahr sind ein Wirtschaftsplan und eine Jahresrechnung aufzustellen, die der Genehmigung des Bundesministeriums für Verkehr und digitale Infrastruktur bedürfen. In der Jahresrechnung sind der Bestand des Sondervermögens einschließlich der Forderungen und Verbindlichkeiten sowie die Einnahmen und Ausgaben nachzuweisen.
 
 (3) Eine Kreditaufnahme ist unzulässig.
 
 ### § 8 Auflösung des Sondervermögens
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen das Sondervermögen durch Rechtsverordnung aufzulösen und die Verwendung des restlichen Vermögens für die in § 2 genannten Zwecke zu regeln.
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen das Sondervermögen durch Rechtsverordnung aufzulösen und die Verwendung des restlichen Vermögens für die in § 2 genannten Zwecke zu regeln.
 
 ### § 9 Inkrafttreten
 
