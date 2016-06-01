@@ -2,7 +2,7 @@ Binnenschiffsgüter-Berufszugangsverordnung (Artikel 1 der Verordnung über den 
 ===================================================================================================================================================================================================
 
 Stand  
-Geändert durch Art. 1 V v. 30.10.1997 I 2622
+Zuletzt geändert durch Art. 35 V v. 2.6.2016 I 1257
 
 ### 
 
@@ -26,7 +26,7 @@ Mit der V wird die Richtlinie 87/540/EWG des Rates vom 9. November 1987 über de
 
 (1) Natürliche Personen oder Unternehmen im Sinne des § 1, die den Beruf des Unternehmers im Binnenschiffsgüterverkehr mit Schiffen ausüben, deren Ladefähigkeit 200 metrische Tonnen bei höchstzulässigem Tiefgang überschreitet, bedürfen zur Ausübung der Tätigkeit einer Erlaubnis. Die Erlaubnispflicht gilt auch für die lediglich auf begrenzte Dauer im Auftrag eines anderen Unternehmers ausgeübte Güterbeförderung.
 
-(2) Zuständig für die Erteilung der Erlaubnis ist die Wasser- und Schiffahrtsdirektion (Erlaubnisbehörde), in deren Bezirk der Unternehmer seinen Hauptwohnsitz oder das Unternehmen seinen Sitz oder seine geschäftliche Niederlassung hat. Sind nach Satz 1 mehrere Behörden zuständig, so entscheidet die Behörde, die zuerst mit der Sache befaßt worden ist. In den Fällen, in denen ein Unternehmen mehrere geschäftliche Niederlassungen hat, ist die Wasser- und Schiffahrtsdirektion zuständig, in deren Bezirk das Unternehmen seinen Sitz hat.
+(2) Zuständig für die Erteilung der Erlaubnis ist die Generaldirektion Wasserstraßen und Schifffahrt (Erlaubnisbehörde).
 
 (3) Die Erlaubnis wird dem Unternehmer zeitlich unbeschränkt erteilt. Sie ist nicht übertragbar.
 
