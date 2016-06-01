@@ -2,7 +2,7 @@ Verordnung über Anforderungsbehörden und Bedarfsträger nach dem Bundesleistun
 ===========================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 370 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 9 V v. 2.6.2016 I 1257
 
 ### 
 
@@ -26,7 +26,7 @@ Anforderungsbehörden gemäß § 5 Abs. 1 und § 79 Satz 1 des Bundesleistungsge
 Seeschiffen - mit Ausnahme der Seefischereifahrzeuge - nebst Zubehör
 
   
-die Wasser- und Schiffahrtsdirektionen;
+die Generaldirektion Wasserstraßen und Schifffahrt;
 
 2.  
 Seefischereifahrzeugen nebst Zubehör
@@ -43,7 +43,7 @@ die für die Fischerei zuständigen obersten Landesbehörden;
 Binnenschiffen, für die eine technische Zulassung zum Verkehr auf Bundeswasserstraßen erforderlich ist, nebst Zubehör, ausgenommen Schiffe, die ausschließlich im Hafenbetrieb verwendet werden,
 
   
-die Wasser- und Schiffahrtsdirektionen;
+die Generaldirektion Wasserstraßen und Schifffahrt;
 
 4.  
 Luftfahrzeugen nebst Zubehör
@@ -57,7 +57,7 @@ die für die Luftfahrt zuständigen obersten Landesbehörden,in Baden-Württembe
 mit einer Höchstmasse über 5,7 t
 
   
-das Bundesministerium für Verkehr, Bau und Stadtentwicklung;
+das Bundesministerium für Verkehr und digitale Infrastruktur;
 
 5.  
 Kraftfahrzeugen und ihren Anhängern nebst Zubehör
@@ -97,7 +97,7 @@ die höheren oder, wo solche nicht bestehen, die obersten Straßenbaubehörden d
 Anlagen in Bundeswasserstraßen, mit Ausnahme der Teile der Bundeswasserstraße Elbe, die vom Land Hamburg verwaltet werden,
 
   
-die Wasser- und Schiffahrtsdirektionen;
+die Generaldirektion Wasserstraßen und Schifffahrt;
 
 3.  
 sonstigen Wasserbauanlagen
@@ -109,7 +109,7 @@ die höheren oder, wo solche nicht bestehen, die obersten Wasserbehörden der L�
 bundeseigenen Häfen
 
   
-die Wasser- und Schiffahrtsdirektionen;
+die Generaldirektion Wasserstraßen und Schifffahrt;
 
 5.  
 sonstigen Häfen
@@ -145,9 +145,7 @@ Soweit die Anforderungen Einbauten betreffen, die Unterbrechenseinrichtungen fü
 
 ### § 4 Örtliche Zuständigkeit bei Schiffen
 
-(1) Betrifft die Anforderung Schiffe, so ist die Anforderungsbehörde örtlich zuständig, in deren Bezirk sich der Heimathafen oder Heimatort des Schiffes befindet. Hat ein Schiff keinen Heimathafen oder Heimatort im Geltungsbereich dieser Verordnung, so ist die Anforderungsbehörde örtlich zuständig, in deren Bezirk sich das Schiff befindet. § 3 Abs. 2 Satz 2 gilt sinngemäß.
-
-(2) Der Bezirk einer Wasser- und Schiffahrtsdirektion im Sinne dieser Verordnung umfaßt die Bundeswasserstraßen ihres Verwaltungsbereichs und die mit diesen zusammenhängenden Gewässer.
+Betrifft die Anforderung Schiffe, so ist die Anforderungsbehörde örtlich zuständig, in deren Bezirk sich der Heimathafen oder Heimatort des Schiffes befindet. Hat ein Schiff keinen Heimathafen oder Heimatort im Geltungsbereich dieser Verordnung, so ist die Anforderungsbehörde örtlich zuständig, in deren Bezirk sich das Schiff befindet. § 3 Abs. 2 Satz 2 gilt sinngemäß.
 
 ### § 5 Ersatzzuständigkeit
 
