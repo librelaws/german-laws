@@ -2,7 +2,19 @@ Straßenverkehrs-Zulassungs-Ordnung (StVZO)
 ==========================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 9.3.2015 I 243
+Zuletzt geändert durch Art. 1 V v. 17.6.2016 I 1463
+
+Hinweis  
+Änderung durch Art. 3 V v. 23.3.2017 I 522 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 4 V v. 23.3.2017 I 522 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 172 G v. 29.3.2017 I 626 (Nr. 16) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 2 V v. 18.5.2017 I 1282 (Nr. 31) mWv 1.6.2017 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -216,7 +228,7 @@ Anhänger
 </tr>
 <tr class="odd">
 <td>§ 35a</td>
-<td>Sitze, Sicherheitsgurte, Rückhaltesysteme, Rückhalteeinrichtungen für Kinder</td>
+<td>Sitze, Sicherheitsgurte, Rückhaltesysteme, Rückhalteeinrichtungen für Kinder, Rollstuhlnutzer und Rollstühle</td>
 </tr>
 <tr class="even">
 <td>§ 35b</td>
@@ -496,32 +508,40 @@ Anhänger
 <td>Anwendung der für Kraftfahrzeuge geltenden Vorschriften</td>
 </tr>
 <tr class="even">
+<td>§ 63a</td>
+<td>Beschreibung von Fahrrädern</td>
+</tr>
+<tr class="odd">
 <td>§ 64</td>
 <td>Lenkeinrichtung, sonstige Ausrüstung und Bespannung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 64a</td>
 <td>Einrichtungen für Schallzeichen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 64b</td>
 <td>Kennzeichnung</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 65</td>
 <td>Bremsen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 66</td>
 <td>Rückspiegel</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>§ 66a</td>
 <td>Lichttechnische Einrichtungen</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>§ 67</td>
-<td>Lichttechnische Einrichtungen an Fahrrädern<br />
+<td>Lichttechnische Einrichtungen an Fahrrädern</td>
+</tr>
+<tr class="even">
+<td>§ 67a</td>
+<td>Lichttechnische Einrichtungen an Fahrradanhängern<br />
 <br />
 </td>
 </tr>
@@ -967,7 +987,7 @@ der Inhaber einer Allgemeinen Betriebserlaubnis durch Eintragung der vom Kraftfa
 
 (3b) Für Fahrzeuge, die für die Bundeswehr zugelassen werden sollen, braucht die Datenbestätigung abweichend von Absatz 3a Satz 1 nur für eine Fahrzeugserie ausgestellt zu werden, wenn der Inhaber der Allgemeinen Betriebserlaubnis die Fahrzeug-Identifizierungsnummer jedes einzelnen Fahrzeugs der Fahrzeugserie der Zentralen Militärkraftfahrtstelle mitteilt.
 
-(4) Abweichungen von den technischen Angaben, die das Kraftfahrt-Bundesamt bei Erteilung der Allgemeinen Betriebserlaubnis durch schriftlichen Bescheid für den genehmigten Typ festgelegt hat, sind dem Inhaber der Allgemeinen Betriebserlaubnis nur gestattet, wenn diese durch einen entsprechenden Nachtrag ergänzt worden ist oder wenn das Kraftfahrt-Bundesamt auf Anfrage erklärt hat, dass für die vorgesehene Änderung eine Nachtragserlaubnis nicht erforderlich ist.
+(4) Abweichungen von den technischen Angaben, die das Kraftfahrt-Bundesamt bei Erteilung der Allgemeinen Betriebserlaubnis durch schriftlichen oder elektronischen Bescheid für den genehmigten Typ festgelegt hat, sind dem Inhaber der Allgemeinen Betriebserlaubnis nur gestattet, wenn diese durch einen entsprechenden Nachtrag ergänzt worden ist oder wenn das Kraftfahrt-Bundesamt auf Anfrage erklärt hat, dass für die vorgesehene Änderung eine Nachtragserlaubnis nicht erforderlich ist.
 
 (5) Die Allgemeine Betriebserlaubnis erlischt nach Ablauf einer etwa festgesetzten Frist, bei Widerruf durch das Kraftfahrt-Bundesamt und wenn der genehmigte Typ den Rechtsvorschriften nicht mehr entspricht. Der Widerruf kann ausgesprochen werden, wenn der Inhaber der Allgemeinen Betriebserlaubnis gegen die mit dieser verbundenen Pflichten verstößt oder sich als unzuverlässig erweist oder wenn sich herausstellt, dass der genehmigte Fahrzeugtyp den Erfordernissen der Verkehrssicherheit nicht entspricht.
 
@@ -1032,7 +1052,7 @@ Der gleiche Vermerk ist unter kurzer Bezeichnung des genehmigten Teils in dem na
 Heizungen in Kraftfahrzeugen, ausgenommen elektrische Heizungen sowie Warmwasserheizungen, bei denen als Wärmequelle das Kühlwasser des Motors verwendet wird (§ 35c Absatz 1);
 
 1a.  
-Luftreifen (§ 36 Absatz 1a);
+Luftreifen (§ 36 Absatz 2);
 
 2.  
 Gleitschutzeinrichtungen (§ 37 Absatz 1 Satz 2);
@@ -1122,7 +1142,7 @@ Fahrtrichtungsanzeiger (Blinkleuchten) (§ 53b Absatz 5, § 54);
 Tragbare Blinkleuchten und rot-weiße Warnmarkierungen für Hubladebühnen (§ 53b Absatz 5);
 
 18.  
-Lichtquellen für bauartgenehmigungspflichtige lichttechnische Einrichtungen, soweit die Lichtquellen nicht fester Bestandteil der Einrichtungen sind (§ 49a Absatz 6, § 67 Absatz 10 dieser Verordnung, § 22 Absatz 4 und 5 der Straßenverkehrs-Ordnung);
+Lichtquellen für bauartgenehmigungspflichtige lichttechnische Einrichtungen, soweit die Lichtquellen nicht fester Bestandteil der Einrichtungen sind (§ 49a Absatz 6, § 67 Absatz 6 dieser Verordnung, § 22 Absatz 4 und 5 der Straßenverkehrs-Ordnung);
 
 19.  
 Warneinrichtungen mit einer Folge von Klängen verschiedener Grundfrequenz – Einsatzhorn – (§ 55 Absatz 3);
@@ -1140,7 +1160,7 @@ Beleuchtungseinrichtungen für Kennzeichen (§ 10 der Fahrzeug-Zulassungsverordn
 Beleuchtungseinrichtungen für transparente amtliche Kennzeichen (§ 10 Fahrzeugzulassungs-Verordnung);
 
 22.  
-Lichtmaschinen, Scheinwerfer, Schlussleuchten, rote, gelbe und weiße Rückstrahler, Pedalrückstrahler und retroreflektierende Streifen an Reifen oder in den Speichen für Fahrräder (§ 67 Absatz 1 bis 7 und 11);
+Lichtmaschinen, Scheinwerfer für Abblendlicht, auch mit Fernlichtfunktion oder auch mit Tagfahrlichtfunktion, Schlussleuchten, auch mit Bremslichtfunktion, Fahrtrichtungsanzeiger, rote, gelbe und weiße Rückstrahler, Pedalrückstrahler und retroreflektierende Streifen an Reifen, Felgen oder in den Speichen, weiß retroreflektierende Speichen oder Speichenhülsen für Fahrräder und Fahrradanhänger (§ 67 Absatz 1 bis 5, § 67a Absatz 1);
 
 23.  
 (weggefallen)
@@ -1394,10 +1414,7 @@ Warnweste (§ 53a Absatz 2),
 tragbare Blinkleuchten (§ 53b Absatz 5) und windsichere Handlampen (§ 54b),
 
 6.  
-Leuchten und Rückstrahler (§ 53b Absatz 1 Satz 4 Halbsatz 2 und Absatz 2 Satz 4 Halbsatz 2),
-
-7.  
-Scheinwerfer und Schlussleuchten (§ 67 Absatz 11 Nummer 2 Halbsatz 2).
+Leuchten und Rückstrahler (§ 53b Absatz 1 Satz 4 Halbsatz 2 und Absatz 2 Satz 4 Halbsatz 2).
 
 ### § 31c Überprüfung von Fahrzeuggewichten
 
@@ -1878,7 +1895,7 @@ Das technisch zulässige Gesamtgewicht ist das Gewicht, das unter Berücksichtig
 
 (3) Die zulässige Achslast ist die Achslast, die unter Berücksichtigung der Bestimmungen des Absatzes 2 Satz 1 und des Absatzes 4 nicht überschritten werden darf. Das zulässige Gesamtgewicht ist das Gewicht, das unter Berücksichtigung der Bestimmungen des Absatzes 2 Satz 2 und der Absätze 5 und 6 nicht überschritten werden darf. Die zulässige Achslast und das zulässige Gesamtgewicht sind beim Betrieb des Fahrzeugs und der Fahrzeugkombination einzuhalten.
 
-(4) Bei Kraftfahrzeugen und Anhängern mit Luftreifen oder den in § 36 Absatz 3 für zulässig erklärten Gummireifen – ausgenommen Straßenwalzen – darf die zulässige Achslast folgende Werte nicht übersteigen:
+(4) Bei Kraftfahrzeugen und Anhängern mit Luftreifen oder den in § 36 Absatz 8 für zulässig erklärten Gummireifen – ausgenommen Straßenwalzen – darf die zulässige Achslast folgende Werte nicht übersteigen:
 
 <table>
 <tbody>
@@ -1959,7 +1976,7 @@ Das technisch zulässige Gesamtgewicht ist das Gewicht, das unter Berücksichtig
 
 Sind Fahrzeuge mit anderen Reifen als den in Satz 1 genannten versehen, so darf die Achslast höchstens 4,00 t betragen.
 
-(5) Bei Kraftfahrzeugen und Anhängern – ausgenommen Sattelanhänger und Starrdeichselanhänger (einschließlich Zentralachsanhänger) – mit Luftreifen oder den in § 36 Absatz 3 für zulässig erklärten Gummireifen darf das zulässige Gesamtgewicht unter Beachtung der Vorschriften für die Achslasten folgende Werte nicht übersteigen:
+(5) Bei Kraftfahrzeugen und Anhängern – ausgenommen Sattelanhänger und Starrdeichselanhänger (einschließlich Zentralachsanhänger) – mit Luftreifen oder den in § 36 Absatz 8 für zulässig erklärten Gummireifen darf das zulässige Gesamtgewicht unter Beachtung der Vorschriften für die Achslasten folgende Werte nicht übersteigen:
 
 <table>
 <tbody>
@@ -1968,50 +1985,68 @@ Sind Fahrzeuge mit anderen Reifen als den in Satz 1 genannten versehen, so darf 
 <td>Fahrzeuge mit nicht mehr als zwei Achsen<br />
 <br />
 </td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td>Kraftfahrzeuge und Anhänger jeweils</td>
+<td>a)</td>
+<td>Kraftfahrzeuge – ausgenommen Kraftomnibusse – und Anhänger jeweils</td>
 </tr>
 <tr class="odd">
+<td></td>
+<td>b)</td>
+<td>Kraftomnibusse</td>
+</tr>
+<tr class="even">
 <td>2.</td>
 <td>Fahrzeuge mit mehr als zwei Achsen – ausgenommen Kraftfahrzeuge nach Nummern 3 und 4 –<br />
 <br />
 </td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>a)</td>
+<td>Kraftfahrzeuge</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>b)</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>c)</td>
+<td>Kraftfahrzeuge mit einer Doppelachslast nach Absatz 4 Nummer 2 Buchstabe d</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>d)</td>
+<td>c)</td>
+<td>Anhänger</td>
 </tr>
 <tr class="even">
+<td></td>
+<td>d)</td>
+<td>Kraftomnibusse, die als Gelenkfahrzeuge gebaut sind</td>
+</tr>
+<tr class="odd">
 <td>3.</td>
 <td>Kraftfahrzeuge mit mehr als drei Achsen – ausgenommen Kraftfahrzeuge nach Nummer 4 –<br />
 <br />
 </td>
-</tr>
-<tr class="odd">
 <td></td>
-<td>a)</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>b)</td>
+<td>a)</td>
+<td>Kraftfahrzeuge mit zwei Doppelachsen, deren Mitten mindestens 4,0 m voneinander entfernt sind</td>
 </tr>
 <tr class="odd">
+<td></td>
+<td>b)</td>
+<td>Kraftfahrzeuge mit zwei gelenkten Achsen und mit einer Doppelachslast nach Absatz 4 Nummer 2 Buchstabe d und deren höchstzulässige Belastung, bezogen auf den Abstand zwischen den Mitten der vordersten und der hintersten Achse, 5,00 t je Meter nicht übersteigen darf, nicht mehr als</td>
+</tr>
+<tr class="even">
 <td>4.</td>
 <td>Kraftfahrzeuge mit mehr als vier Achsen unter Beachtung der Vorschriften in Nummer 3</td>
+<td>32,00 t.<br />
+<br />
+</td>
 </tr>
 </tbody>
 </table>
@@ -2188,7 +2223,7 @@ so gelten als zulässiges Gesamtgewicht 28,00 t, 36,00 t, 38,00 t, 35,00 t, 40,0
 
 Bei Lastkraftwagen sowie Kraftomnibussen einschließlich Gepäckanhänger, bei Sattelkraftfahrzeugen und Lastkraftwagenzügen muss eine Motorleistung von mindestens 5,0 kW, bei Zugmaschinen und Zugmaschinenzügen – ausgenommen für land- oder forstwirtschaftliche Zwecke – von mindestens 2,2 kW je Tonne des zulässigen Gesamtgewichts des Kraftfahrzeugs und der jeweiligen Anhängelast vorhanden sein; dies gilt nicht für die mit elektrischer Energie angetriebenen Fahrzeuge sowie für Kraftfahrzeuge – auch mit Anhänger – mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 25 km/h.
 
-### § 35a Sitze, Sicherheitsgurte, Rückhaltesysteme, Rückhalteeinrichtungen für Kinder
+### § 35a Sitze, Sicherheitsgurte, Rückhaltesysteme, Rückhalteeinrichtungen für Kinder, Rollstuhlnutzer und Rollstühle
 
 (1) Der Sitz des Fahrzeugführers und sein Betätigungsraum sowie die Einrichtungen zum Führen des Fahrzeugs müssen so angeordnet und beschaffen sein, dass das Fahrzeug – auch bei angelegtem Sicherheitsgurt oder Verwendung eines anderen Rückhaltesystems – sicher geführt werden kann.
 
@@ -2197,6 +2232,10 @@ Bei Lastkraftwagen sowie Kraftomnibussen einschließlich Gepäckanhänger, bei S
 (3) Die in Absatz 2 genannten Kraftfahrzeuge müssen mit Verankerungen zum Anbringen von Sicherheitsgurten ausgerüstet sein, die den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
 
 (4) Außerdem müssen die in Absatz 2 genannten Kraftfahrzeuge mit Sicherheitsgurten oder Rückhaltesystemen ausgerüstet sein, die den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
+
+(4a) Personenkraftwagen, in denen Rollstuhlnutzer in einem Rollstuhl sitzend befördert werden, müssen mit Rollstuhlstellplätzen ausgerüstet sein. Jeder Rollstuhlstellplatz muss mit einem Rollstuhl-Rückhaltesystem und einem Rollstuhlnutzer-Rückhaltesystem ausgerüstet sein. Rollstuhl-Rückhaltesysteme und Rollstuhlnutzer-Rückhaltesysteme, ihre Verankerungen und Sicherheitsgurte müssen den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen. Werden vorgeschriebene Rollstuhl-Rückhaltesysteme und Rollstuhlnutzer-Rückhaltesysteme beim Betrieb des Fahrzeugs genutzt, sind diese in der vom Hersteller des Rollstuhl-Rückhaltesystems, Rollstuhlnutzer-Rückhaltesystems sowie des Rollstuhls vorgesehenen Weise zu betreiben. Die im Anhang genannten Bestimmungen gelten nur für diejenigen Rollstuhlstellplätze, die nicht anstelle des Sitzplatzes für den Fahrzeugführer angeordnet sind. Ist wahlweise anstelle des Rollstuhlstellplatzes der Einbau eines oder mehrerer Sitze vorgesehen, gelten die Anforderungen der Absätze 1 bis 4 und 5 bis 10 für diese Sitze unverändert. Für Rollstuhl-Rückhaltesysteme und Rollstuhlnutzer-Rückhaltesysteme kann die DIN-Norm 75078-2:2015-04 als Alternative zu den im Anhang zu dieser Vorschrift genannten Bestimmungen angewendet werden.
+
+(4b) Der Fahrzeughalter hat der Zulassungsbehörde unverzüglich über den vorschriftsgemäßen Einbau oder die vorschriftsgemäße Änderung eines Rollstuhlstellplatzes, Rollstuhl-Rückhaltesystems, Rollstuhlnutzer-Rückhaltesystems sowie deren Verankerungen und Sicherheitsgurte ein Gutachten gemäß § 19 Absatz 2 Satz 5 Nummer 1 in Verbindung mit § 21 Absatz 1 oder einen Nachweis gemäß § 19 Absatz 3 Nummer 1 bis 4 vorzulegen. Auf der Grundlage des Gutachtens oder des Nachweises vermerkt die Zulassungsbehörde in der Zulassungsbescheinigung Teil I das Datum des Einbaus oder der letzten Änderung.
 
 (5) Die Absätze 2 bis 4 gelten für Kraftfahrzeuge mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 25 km/h, die hinsichtlich des Insassenraumes und des Fahrgestells den Baumerkmalen der in Absatz 2 genannten Kraftfahrzeuge gleichzusetzen sind, entsprechend. Bei Wohnmobilen mit einer zulässigen Gesamtmasse von mehr als 2,5 t genügt für die hinteren Sitze die Ausrüstung mit Verankerungen zur Anbringung von Beckengurten und mit Beckengurten.
 
@@ -2216,7 +2255,9 @@ Bei Lastkraftwagen sowie Kraftomnibussen einschließlich Gepäckanhänger, bei S
 
 (12) In Kraftfahrzeugen integrierte Rückhalteeinrichtungen für Kinder müssen den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
 
-(13) Rückhalteeinrichtungen für Kinder bis zu einem Lebensalter von 15 Monaten, die der im Anhang zu dieser Vorschrift genannten Bestimmung entsprechen, dürfen entsprechend ihres Verwendungszwecks nur nach hinten oder seitlich gerichtet angebracht sein.
+(13) Rückhalteeinrichtungen für Kinder bis zu einem Lebensalter von 15 Monaten, die der im Anhang zu dieser Vorschrift genannten Bestimmung entsprechen, dürfen entsprechend ihrem Verwendungszweck nur nach hinten oder seitlich gerichtet angebracht sein.
+
+(+++ § 35a Abs. 4a iVm Abs. 4b: Zur Anwendung vgl. § 72 Abs. 2 Nr. 1b Satz 2 +++)
 
 ### § 35b Einrichtungen zum sicheren Führen der Fahrzeuge
 
@@ -2313,25 +2354,51 @@ Die Innenausstattung von Kraftomnibussen, die weder für Stehplätze ausgelegt n
 
 ### § 36 Bereifung und Laufflächen
 
-(1) Maße und Bauart der Reifen von Fahrzeugen müssen den Betriebsbedingungen, besonders der Belastung und der durch die Bauart bestimmten Höchstgeschwindigkeit des Fahrzeugs, entsprechen. Sind land- oder forstwirtschaftliche Kraftfahrzeuge und Kraftfahrzeuge des Straßenunterhaltungsdienstes mit Reifen ausgerüstet, die nur eine niedrigere Höchstgeschwindigkeit zulassen, müssen sie entsprechend § 58 für diese Geschwindigkeit gekennzeichnet sein. Bei Verwendung von M+S-Reifen – Winterreifen – gilt die Forderung hinsichtlich der Geschwindigkeit auch als erfüllt, wenn die für M+S-Reifen zulässige Höchstgeschwindigkeit unter der durch die Bauart bestimmten Höchstgeschwindigkeit des Fahrzeugs liegt, jedoch
+(1) Maße und Bauart der Reifen von Fahrzeugen müssen den Betriebsbedingungen, besonders der Belastung und der durch die Bauart bestimmten Höchstgeschwindigkeit des Fahrzeugs, entsprechen. Sind land- oder forstwirtschaftliche Kraftfahrzeuge und Kraftfahrzeuge des Straßenunterhaltungsdienstes mit Reifen ausgerüstet, die nur eine niedrigere Höchstgeschwindigkeit zulassen, müssen diese Fahrzeuge entsprechend § 58 für diese Geschwindigkeit gekennzeichnet sein. Reifen oder andere Laufflächen dürfen keine Unebenheiten haben, die eine feste Fahrbahn beschädigen können. Eiserne Reifen müssen abgerundete Kanten haben und daran verwendete Nägel müssen eingelassen sein.
+
+(2) Luftreifen, auf die sich die im Anhang zu dieser Vorschrift genannten Bestimmungen beziehen, müssen diesen Bestimmungen entsprechen.
+
+(3) Die Räder der Kraftfahrzeuge und Anhänger müssen mit Luftreifen versehen sein, soweit nicht nachstehend andere Bereifungen zugelassen sind. Als Luftreifen gelten Reifen, deren Arbeitsvermögen überwiegend durch den Überdruck des eingeschlossenen Luftinhalts bestimmt wird. Luftreifen an Kraftfahrzeugen und Anhängern müssen am ganzen Umfang und auf der ganzen Breite der Lauffläche mit Profilrillen oder Einschnitten versehen sein. Das Hauptprofil muss am ganzen Umfang eine Profiltiefe von mindestens 1,6 mm aufweisen; als Hauptprofil gelten dabei die breiten Profilrillen im mittleren Bereich der Lauffläche, der etwa 3/4 der Laufflächenbreite einnimmt. Jedoch genügt bei Fahrrädern mit Hilfsmotor, Kleinkrafträdern und Leichtkrafträdern eine Profiltiefe von mindestens 1 mm.
+
+(4) Reifen für winterliche Wetterverhältnisse sind Luftreifen im Sinne des Absatzes 2,
 
 1.  
-die für M+S-Reifen zulässige Höchstgeschwindigkeit im Blickfeld des Fahrzeugführers sinnfällig angegeben ist,
+durch deren Laufflächenprofil, Laufflächenmischung oder Bauart vor allem die Fahreigenschaften bei Schnee gegenüber normalen Reifen hinsichtlich ihrer Eigenschaft beim Anfahren, bei der Stabilisierung der Fahrzeugbewegung und beim Abbremsen des Fahrzeugs verbessert werden, und
 
 2.  
-die für M+S-Reifen zulässige Höchstgeschwindigkeit im Betrieb nicht überschritten wird.
+die mit dem Alpine-Symbol <img src="bgbl1_2017_j1282-1_0010.jpg" width="14" height="14" /> (Bergpiktogramm mit Schneeflocke) nach der Regelung Nr. 117 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung der Reifen hinsichtlich der Rollgeräuschemissionen und der Haftung auf nassen Oberflächen und/oder des Rollwiderstandes (ABl. L 218 vom 12.8.2016, S. 1) gekennzeichnet sind.
 
-Reifen oder andere Laufflächen dürfen keine Unebenheiten haben, die eine feste Fahrbahn beschädigen können; eiserne Reifen müssen abgerundete Kanten haben. Nägel müssen eingelassen sein.
+(4a) Abweichend von § 36 Absatz 4 gelten bis zum Ablauf des 30. September 2024 als Reifen für winterliche Wetterverhältnisse auch Luftreifen im Sinne des Absatzes 2, die
 
-(1a) Luftreifen, auf die sich die im Anhang zu dieser Vorschrift genannten Bestimmungen beziehen, müssen diesen Bestimmungen entsprechen.
+1.  
+die in Anhang II Nummer 2.2 der Richtlinie 92/23/EWG des Rates vom 31. März 1992 über Reifen von Kraftfahrzeugen und Kraftfahrzeuganhängern und über ihre Montage (ABl. L 129 vom 14.5.1992, S. 95), die zuletzt durch die Richtlinie 2005/11/EG (ABl. L 46 vom 17.2.2005, S. 42) geändert worden ist, beschriebenen Eigenschaften erfüllen (M+S Reifen) und
 
-(2) Die Räder der Kraftfahrzeuge und Anhänger müssen mit Luftreifen versehen sein, soweit nicht nachstehend andere Bereifungen zugelassen sind. Als Luftreifen gelten Reifen, deren Arbeitsvermögen überwiegend durch den Überdruck des eingeschlossenen Luftinhalts bestimmt wird. Luftreifen an Kraftfahrzeugen und Anhängern müssen am ganzen Umfang und auf der ganzen Breite der Lauffläche mit Profilrillen oder Einschnitten versehen sein. Das Hauptprofil muss am ganzen Umfang eine Profiltiefe von mindestens 1,6 mm aufweisen; als Hauptprofil gelten dabei die breiten Profilrillen im mittleren Bereich der Lauffläche, der etwa 3/4 der Laufflächenbreite einnimmt. Jedoch genügt bei Fahrrädern mit Hilfsmotor, Kleinkrafträdern und Leichtkrafträdern eine Profiltiefe von mindestens 1 mm.
+2.  
+nicht nach dem 31. Dezember 2017 hergestellt worden sind.
 
-(2a) An Kraftfahrzeugen – ausgenommen Personenkraftwagen – mit einem zulässigen Gesamtgewicht von mehr als 3,5 t und einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 40 km/h und an ihren Anhängern dürfen die Räder einer Achse entweder nur mit Diagonal- oder nur mit Radialreifen ausgerüstet sein. Personenkraftwagen sowie andere Kraftfahrzeuge mit einem zulässigen Gesamtgewicht von nicht mehr als 3,5 t und einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 40 km/h und ihre Anhänger dürfen entweder nur mit Diagonal- oder nur mit Radialreifen ausgerüstet sein; im Zug gilt dies nur für das jeweilige Einzelfahrzeug. Die Sätze 1 und 2 gelten nicht für die nach § 58 für eine Höchstgeschwindigkeit von nicht mehr als 25 km/h gekennzeichneten Anhänger hinter Kraftfahrzeugen, die mit einer Geschwindigkeit von nicht mehr als 25 km/h gefahren werden (Betriebsvorschrift). Satz 2 gilt nicht für Krafträder – ausgenommen Leichtkrafträder, Kleinkrafträder und Fahrräder mit Hilfsmotor.
+Im Falle des Satzes 1 Nummer 2 maßgeblich ist das am Reifen angegebene Herstellungsdatum.
 
-(2b) Reifenhersteller und Reifenerneuerer müssen Luftreifen für Fahrzeuge mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 40 km/h mit ihrer Fabrik- oder Handelsmarke sowie mit Angaben kennzeichnen, aus denen Reifengröße, Reifenbauart, Tragfähigkeit, Geschwindigkeitskategorie, Herstellungs- bzw. Reifenerneuerungsdatum hervorgehen. Die Art und Weise der Angaben werden im Verkehrsblatt bekannt gegeben.
+(5) Bei Verwendung von Reifen im Sinne des Absatzes 4 oder Geländereifen für den gewerblichen Einsatz mit der Kennzeichnung „POR“, deren zulässige Höchstgeschwindigkeit unter der durch die Bauart bestimmten Höchstgeschwindigkeit des Fahrzeugs liegt, ist die Anforderung des Absatzes 1 Satz 1 hinsichtlich der Höchstgeschwindigkeit erfüllt, wenn
 
-(3) Statt Luftreifen sind für Fahrzeuge mit Geschwindigkeiten von nicht mehr als 25 km/h (für Kraftfahrzeuge ohne gefederte Triebachse jedoch nur bei Höchstgeschwindigkeiten von nicht mehr als 16 km/h) Gummireifen zulässig, die folgenden Anforderungen genügen: Auf beiden Seiten des Reifens muss eine 10 mm breite, hervorstehende und deutlich erkennbare Rippe die Grenze angeben, bis zu welcher der Reifen abgefahren werden darf; die Rippe darf nur durch Angaben über den Hersteller, die Größe und dergleichen sowie durch Aussparungen des Reifens unterbrochen sein. Der Reifen muss an der Abfahrgrenze noch ein Arbeitsvermögen von mindestens 60 J haben. Die Flächenpressung des Reifens darf unter der höchstzulässigen statischen Belastung 0,8 N/qmm nicht übersteigen. Der Reifen muss zwischen Rippe und Stahlband beiderseits die Aufschrift tragen: „60 J“. Das Arbeitsvermögen von 60 J ist noch vorhanden, wenn die Eindrückung der Gummibereifung eines Rades mit Einzel- oder Doppelreifen beim Aufbringen einer Mehrlast von 1 000 kg auf die bereits mit der höchstzulässigen statischen Belastung beschwerte Bereifung um einen Mindestbetrag zunimmt, der sich nach folgender Formel errechnet:
+1.  
+die für die Reifen zulässige Höchstgeschwindigkeit
+
+a)  
+für die Dauer der Verwendung der Reifen an dem Fahrzeug durch ein Schild oder einen Aufkleber oder
+
+b)  
+durch eine Anzeige im Fahrzeug, zumindest rechtzeitig vor Erreichen der für die verwendeten Reifen zulässigen Höchstgeschwindigkeit,
+
+im Blickfeld des Fahrzeugführers angegeben oder angezeigt wird und
+
+2.  
+diese Geschwindigkeit im Betrieb nicht überschritten wird.
+
+(6) An Kraftfahrzeugen – ausgenommen Personenkraftwagen – mit einem zulässigen Gesamtgewicht von mehr als 3,5 t und einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 40 km/h und an ihren Anhängern dürfen die Räder einer Achse entweder nur mit Diagonal- oder nur mit Radialreifen ausgerüstet sein. Personenkraftwagen sowie andere Kraftfahrzeuge mit einem zulässigen Gesamtgewicht von nicht mehr als 3,5 t und einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 40 km/h und ihre Anhänger dürfen entweder nur mit Diagonal- oder nur mit Radialreifen ausgerüstet sein; im Zug gilt dies nur für das jeweilige Einzelfahrzeug. Die Sätze 1 und 2 gelten nicht für die nach § 58 für eine Höchstgeschwindigkeit von nicht mehr als 25 km/h gekennzeichneten Anhänger hinter Kraftfahrzeugen, die mit einer Geschwindigkeit von nicht mehr als 25 km/h gefahren werden (Betriebsvorschrift). Satz 2 gilt nicht für Krafträder – ausgenommen Leichtkrafträder, Kleinkrafträder und Fahrräder mit Hilfsmotor.
+
+(7) Reifenhersteller und Reifenerneuerer müssen Luftreifen für Fahrzeuge mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 40 km/h mit ihrer Fabrik- oder Handelsmarke sowie mit Angaben kennzeichnen, aus denen Reifengröße, Reifenbauart, Tragfähigkeit, Geschwindigkeitskategorie, Herstellungs- bzw. Reifenerneuerungsdatum hervorgehen. Die Art und Weise der Angaben werden im Verkehrsblatt bekannt gegeben.
+
+(8) Statt Luftreifen sind für Fahrzeuge mit Geschwindigkeiten von nicht mehr als 25 km/h (für Kraftfahrzeuge ohne gefederte Triebachse jedoch nur bei Höchstgeschwindigkeiten von nicht mehr als 16 km/h) Gummireifen zulässig, die folgenden Anforderungen genügen: Auf beiden Seiten des Reifens muss eine 10 mm breite, hervorstehende und deutlich erkennbare Rippe die Grenze angeben, bis zu welcher der Reifen abgefahren werden darf; die Rippe darf nur durch Angaben über den Hersteller, die Größe und dergleichen sowie durch Aussparungen des Reifens unterbrochen sein. Der Reifen muss an der Abfahrgrenze noch ein Arbeitsvermögen von mindestens 60 J haben. Die Flächenpressung des Reifens darf unter der höchstzulässigen statischen Belastung 0,8 N/qmm nicht übersteigen. Der Reifen muss zwischen Rippe und Stahlband beiderseits die Aufschrift tragen: „60 J“. Das Arbeitsvermögen von 60 J ist noch vorhanden, wenn die Eindrückung der Gummibereifung eines Rades mit Einzel- oder Doppelreifen beim Aufbringen einer Mehrlast von 1 000 kg auf die bereits mit der höchstzulässigen statischen Belastung beschwerte Bereifung um einen Mindestbetrag zunimmt, der sich nach folgender Formel errechnet:
 
 |                                  |
 |----------------------------------|
@@ -2339,7 +2406,7 @@ Reifen oder andere Laufflächen dürfen keine Unebenheiten haben, die eine feste
 
 dabei bedeutet f den Mindestbetrag der Zunahme des Eindrucks in Millimetern und P die höchstzulässige statische Belastung in Kilogramm. Die höchstzulässige statische Belastung darf 100 N/mm der Grundflächenbreite des Reifens nicht übersteigen; sie darf jedoch 125 N/mm betragen, wenn die Fahrzeuge eine Höchstgeschwindigkeit von 8 km/h nicht überschreiten und entsprechende Geschwindigkeitsschilder (§ 58) angebracht sind. Die Flächenpressung ist unter der höchstzulässigen statischen Belastung ohne Berücksichtigung der Aussparung auf der Lauffläche zu ermitteln. Die Vorschriften über das Arbeitsvermögen gelten nicht für Gummireifen an Elektrokarren mit gefederter Triebachse und einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 20 km/h sowie deren Anhänger.
 
-(4) Eiserne Reifen mit einem Auflagedruck von nicht mehr als 125 N/mm Reifenbreite sind zulässig
+(9) Eiserne Reifen mit einem Auflagedruck von nicht mehr als 125 N/mm Reifenbreite sind zulässig
 
 1.  
 für Zugmaschinen in land- oder forstwirtschaftlichen Betrieben, deren zulässiges Gesamtgewicht 4 t und deren durch die Bauart bestimmte Höchstgeschwindigkeit 8 km/h nicht übersteigt,
@@ -2365,7 +2432,7 @@ für die beim Wegebau und bei der Wegeunterhaltung verwendeten fahrbaren Geräte
 e)  
 für land- oder forstwirtschaftliche Arbeitsgeräte und für Fahrzeuge zur Beförderung von land- oder forstwirtschaftlichen Bedarfsgütern, Arbeitsgeräten oder Erzeugnissen.
 
-(5) Bei Gleiskettenfahrzeugen (§ 34b Absatz 1 Satz 1) darf die Kette oder das Band (Gleiskette) keine schädlichen Kratzbewegungen gegen die Fahrbahn ausführen. Die Kanten der Bodenplatten und ihrer Rippen müssen rund sein. Die Rundungen metallischer Bodenplatten und Rippen müssen an den Längsseiten der Gleisketten einen Halbmesser von mindestens 60 mm haben. Der Druck der durch gefederte Laufrollen belasteten Auflagefläche von Gleisketten auf die ebene Fahrbahn darf 1,5 N/qmm, bei Fahrzeugen mit ungefederten Laufrollen und Gleisketten, die außen vollständig aus Gummiband bestehen, 0,8 N/qmm nicht übersteigen. Als Auflagefläche gilt nur derjenige Teil einer Gleiskette, der tatsächlich auf einer ebenen Fahrbahn aufliegt. Im Hinblick auf die Beschaffenheit der Laufflächen und der Federung wird für Gleiskettenfahrzeuge und Züge, in denen Gleiskettenfahrzeuge mitgeführt werden,
+(10) Bei Gleiskettenfahrzeugen (§ 34b Absatz 1 Satz 1) darf die Kette oder das Band (Gleiskette) keine schädlichen Kratzbewegungen gegen die Fahrbahn ausführen. Die Kanten der Bodenplatten und ihrer Rippen müssen rund sein. Die Rundungen metallischer Bodenplatten und Rippen müssen an den Längsseiten der Gleisketten einen Halbmesser von mindestens 60 mm haben. Der Druck der durch gefederte Laufrollen belasteten Auflagefläche von Gleisketten auf die ebene Fahrbahn darf 1,5 N/qmm, bei Fahrzeugen mit ungefederten Laufrollen und Gleisketten, die außen vollständig aus Gummiband bestehen, 0,8 N/qmm nicht übersteigen. Als Auflagefläche gilt nur derjenige Teil einer Gleiskette, der tatsächlich auf einer ebenen Fahrbahn aufliegt. Im Hinblick auf die Beschaffenheit der Laufflächen und der Federung wird für Gleiskettenfahrzeuge und Züge, in denen Gleiskettenfahrzeuge mitgeführt werden,
 
 1.  
 allgemein die Geschwindigkeit auf 8 km/h,
@@ -2414,7 +2481,7 @@ die Vorderräder von mehrachsigen Anhängern für die Beförderung von Langholz.
 
 (1) Einrichtungen, die die Greifwirkung der Räder bei Fahrten außerhalb befestigter Straßen erhöhen sollen (so genannte Bodengreifer und ähnliche Einrichtungen), müssen beim Befahren befestigter Straßen abgenommen werden, sofern nicht durch Auflegen von Schutzreifen oder durch Umklappen der Greifer oder durch Anwendung anderer Mittel nachteilige Wirkungen auf die Fahrbahn vermieden werden. Satz 1 gilt nicht, wenn zum Befahren befestigter Straßen Gleitschutzeinrichtungen verwendet werden, die so beschaffen und angebracht sind, dass sie die Fahrbahn nicht beschädigen können; die Verwendung kann durch die Bauartgenehmigung (§ 22a) auf Straßen mit bestimmten Decken und auf bestimmte Zeiten beschränkt werden.
 
-(2) Einrichtungen, die das sichere Fahren auf schneebedeckter oder vereister Fahrbahn ermöglichen sollen (Schneeketten), müssen so beschaffen und angebracht sein, dass sie die Fahrbahn nicht beschädigen können. Schneeketten aus Metall dürfen nur bei elastischer Bereifung (§ 36 Absatz 2 und 3) verwendet werden. Schneeketten müssen die Lauffläche des Reifens so umspannen, dass bei jeder Stellung des Rades ein Teil der Kette die ebene Fahrbahn berührt. Die die Fahrbahn berührenden Teile der Ketten müssen kurze Glieder haben, deren Teilung etwa das Drei- bis Vierfache der Drahtstärke betragen muss. Schneeketten müssen sich leicht auflegen und abnehmen lassen und leicht nachgespannt werden können.
+(2) Einrichtungen, die das sichere Fahren auf schneebedeckter oder vereister Fahrbahn ermöglichen sollen (Schneeketten), müssen so beschaffen und angebracht sein, dass sie die Fahrbahn nicht beschädigen können. Schneeketten aus Metall dürfen nur bei elastischer Bereifung (§ 36 Absatz 3 und 8) verwendet werden. Schneeketten müssen die Lauffläche des Reifens so umspannen, dass bei jeder Stellung des Rades ein Teil der Kette die ebene Fahrbahn berührt. Die die Fahrbahn berührenden Teile der Ketten müssen kurze Glieder haben, deren Teilung etwa das Drei- bis Vierfache der Drahtstärke betragen muss. Schneeketten müssen sich leicht auflegen und abnehmen lassen und leicht nachgespannt werden können.
 
 ### § 38 Lenkeinrichtung
 
@@ -3672,7 +3739,7 @@ Anhänger mit einer eigenen mittleren Bremsverzögerung von weniger als 2,5 m/s<
 (4) Absatz 3 gilt nicht für
 
 1.  
-die in § 36 Absatz 5 Satz 6 Halbsatz 2 bezeichneten Gleiskettenfahrzeuge,
+die in § 36 Absatz 10 Satz 6 zweiter Halbsatz bezeichneten Gleiskettenfahrzeuge,
 
 2.  
 land- oder forstwirtschaftliche Zugmaschinen mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 32 km/h,
@@ -3770,6 +3837,12 @@ Elektrische Einrichtungen von elektrisch angetriebenen Kraftfahrzeugen müssen s
 
 Die Vorschriften über Abmessungen, Achslast, Gesamtgewicht und Bereifung von Kraftfahrzeugen und ihren Anhängern (§§ 32, 34, 36 Absatz 1) gelten für andere Straßenfahrzeuge entsprechend. Für die Nachprüfung der Achslasten gilt § 31c mit der Abweichung, dass der Umweg zur Waage nicht mehr als 2 km betragen darf.
 
+### § 63a Beschreibung von Fahrrädern
+
+(1) Ein Fahrrad ist ein Fahrzeug mit mindestens zwei Rädern, das ausschließlich durch die Muskelkraft auf ihm befindlicher Personen mit Hilfe von Pedalen oder Handkurbeln angetrieben wird.
+
+(2) Als Fahrrad gilt auch ein Fahrzeug im Sinne des Absatzes 1, das mit einer elektrischen Trethilfe ausgerüstet ist, die mit einem elektromotorischen Hilfsantrieb mit einer größten Nenndauerleistung von 0,25 kW ausgestattet ist, dessen Unterstützung sich mit zunehmender Fahrzeuggeschwindigkeit progressiv verringert und beim Erreichen einer Geschwindigkeit von 25 km/h oder wenn der Fahrer mit dem Treten oder Kurbeln einhält, unterbrochen wird. Die Anforderungen des Satzes 1 sind auch dann erfüllt, wenn das Fahrrad über einen Hilfsantrieb im Sinne des Satzes 1 verfügt, der eine Beschleunigung des Fahrzeugs auf eine Geschwindigkeit von bis zu 6 km/h, auch ohne gleichzeitiges Treten oder Kurbeln des Fahrers, ermöglicht (Anfahr- oder Schiebehilfe).
+
 ### § 64 Lenkeinrichtung, sonstige Ausrüstung und Bespannung
 
 (1) Fahrzeuge müssen leicht lenkbar sein. § 35a Absatz 1, Absatz 10 Satz 1 und 4 und § 35d Absatz 1 sind entsprechend anzuwenden, soweit nicht die Beschaffenheit der zu befördernden Güter eine derartige Ausrüstung der Fahrzeuge ausschließt.
@@ -3820,60 +3893,130 @@ führen; an Krankenfahrstühlen müssen diese Leuchten zu jeder Zeit fest angebr
 
 ### § 67 Lichttechnische Einrichtungen an Fahrrädern
 
-(1) Fahrräder müssen für den Betrieb des Scheinwerfers und der Schlussleuchte mit einer Lichtmaschine, deren Nennleistung mindestens 3 W und deren Nennspannung 6 V beträgt oder einer Batterie mit einer Nennspannung von 6 V (Batterie-Dauerbeleuchtung) oder einem wiederaufladbaren Energiespeicher als Energiequelle ausgerüstet sein. Abweichend von Absatz 9 müssen Scheinwerfer und Schlussleuchte nicht zusammen einschaltbar sein.
+(1) Fahrräder dürfen nur dann im öffentlichen Straßenverkehr in Betrieb genommen werden, wenn sie mit den vorgeschriebenen und bauartgenehmigten lichttechnischen Einrichtungen ausgerüstet sind. Für abnehmbare Scheinwerfer und Leuchten gilt Absatz 2 Satz 4. Fahrräder müssen für den Betrieb des Scheinwerfers und der Schlussleuchte mit einer Lichtmaschine, einer Batterie oder einem wieder aufladbaren Energiespeicher oder einer Kombination daraus als Energiequelle ausgerüstet sein. Alle lichttechnischen Einrichtungen, mit Ausnahme von Batterien und wieder aufladbaren Energiespeichern, müssen den Anforderungen des § 22a genügen. Die Nennspannung der Energiequelle muss verträglich mit der Spannung der verwendeten aktiven lichttechnischen Einrichtungen sein.
 
-(2) An Fahrrädern dürfen nur die vorgeschriebenen und die für zulässig erklärten lichttechnischen Einrichtungen angebracht sein. Als lichttechnische Einrichtungen gelten auch Leuchtstoffe und rückstrahlende Mittel. Die lichttechnischen Einrichtungen müssen vorschriftsmäßig und fest angebracht sowie ständig betriebsfertig sein. Lichttechnische Einrichtungen dürfen nicht verdeckt sein.
+(2) Als lichttechnische Einrichtungen gelten auch Leuchtstoffe und rückstrahlende Mittel. Die lichttechnischen Einrichtungen müssen vorschriftsmäßig im Sinne dieser Verordnung und während ihres Betriebs fest angebracht, gegen unabsichtliches Verstellen unter normalen Betriebsbedingungen gesichert sowie ständig einsatzbereit sein. Lichttechnische Einrichtungen dürfen nicht verdeckt sein. Scheinwerfer, Leuchten und deren Energiequelle dürfen abnehmbar sein, müssen jedoch während der Dämmerung, bei Dunkelheit oder wenn die Sichtverhältnisse es sonst erfordern, angebracht werden. Lichttechnische Einrichtungen dürfen zusammengebaut, ineinander gebaut oder kombiniert sein, mit Ausnahme von Fahrtrichtungsanzeigern. Lichttechnische Einrichtungen dürfen sich in ihrer Wirkung gegenseitig nicht beeinflussen. Fahrräder mit einer Breite über 1 000 mm müssen nach vorne und hinten gerichtete, paarweise horizontal angebrachte Rückstrahler sowie mindestens zwei weiße Scheinwerfer und zwei rote Schlussleuchten aufweisen, die mit einem seitlichen Abstand von maximal 200 mm paarweise zur Außenkante angebracht sein müssen. Abweichend davon müssen Fahrräder, die breiter als 1 800 mm sind, den Anbauvorschriften der Regelung Nr. 48 der Wirtschaftskommission der Vereinten Nationen für Europa über einheitliche Bedingungen für die Genehmigung von Fahrzeugen hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen (ABl. L 265 vom 30.9.2016, S. 125) für Personenkraftwagen entsprechen.
 
-(3) Fahrräder müssen mit einem nach vorn wirkenden Scheinwerfer für weißes Licht ausgerüstet sein. Der Lichtkegel muss mindestens so geneigt sein, dass seine Mitte in 5 m Entfernung vor dem Scheinwerfer nur halb so hoch liegt wie bei seinem Austritt aus dem Scheinwerfer. Der Scheinwerfer muss am Fahrrad so angebracht sein, dass er sich nicht unbeabsichtigt verstellen kann. Fahrräder müssen mit mindestens einem nach vorn wirkenden weißen Rückstrahler ausgerüstet sein.
+(3) Fahrräder müssen mit einem oder zwei nach vorn wirkenden Scheinwerfern für weißes Abblendlicht ausgerüstet sein. Der Scheinwerfer muss so eingestellt sein, dass er andere Verkehrsteilnehmer nicht blendet. Blinkende Scheinwerfer sind unzulässig. Fahrräder müssen mit mindestens einem nach vorn wirkenden weißen Rückstrahler ausgerüstet sein. Scheinwerfer dürfen zusätzlich mit Tagfahrlicht- und Fernlichtfunktion für weißes Licht mit einer maximalen Lichtstärke und Lichtverteilung der Tagfahrlichtfunktion nach der Regelung Nr. 87 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) – Einheitliche Bedingungen für die Genehmigung von Leuchten für Tagfahrlicht für Kraftfahrzeuge (ABl. L 164 vom 30.6.2010, S. 46) ausgerüstet sein. Die Umschaltung zwischen den Lichtfunktionen muss automatisch erfolgen oder von Hand mit Bedienteilen entsprechend der Lageanordnung nach der Regelung Nr. 60 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Vorschriften für die Genehmigung zweirädriger Krafträder und Fahrräder mit Hilfsmotor hinsichtlich der vom Fahrzeugführer betätigten Bedienteile und der Kennzeichnung von Bedienteilen, Kontrollleuchten und Anzeigevorrichtungen (ABl. L 297 vom 15.10.2014, S. 23).
 
-(4) Fahrräder müssen an der Rückseite mit
+(4) Fahrräder müssen an der Rückseite mit mindestens
 
 1.  
-einer Schlussleuchte für rotes Licht, deren niedrigster Punkt der leuchtenden Fläche sich nicht weniger als 250 mm über der Fahrbahn befindet,
+einer Schlussleuchte für rotes Licht,
 
 2.  
-mindestens einem roten Rückstrahler, dessen höchster Punkt der leuchtenden Fläche sich nicht höher als 600 mm über der Fahrbahn befindet, und
+einem roten nicht dreieckigen Rückstrahler der Kategorie „Z“ ausgerüstet sein.
+
+Schlussleuchte und Rückstrahler dürfen in einem Gerät verbaut sein. Schlussleuchten dürfen zusätzlich mit einer Bremslichtfunktion für rotes Licht mit einer Lichtstärke und Lichtverteilung der Bremslichtfunktion entsprechend der Regelung Nr. 50 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung von Begrenzungsleuchten, Schlussleuchten, Bremsleuchten, Fahrtrichtungsanzeigern und Beleuchtungseinrichtungen für das hintere Kennzeichenschild für Fahrzeuge der Klasse L (ABl. L 97 vom 29.3.2014, S. 1) ausgerüstet sein. Blinkende Schlussleuchten sind unzulässig.
+
+(5) Fahrradpedale müssen mit nach vorn und nach hinten wirkenden gelben Rückstrahlern ausgerüstet sein. Die Längsseiten eines Fahrrades müssen nach jeder Seite mit
+
+1.  
+ringförmig zusammenhängenden retroreflektierenden weißen Streifen an den Reifen oder Felgen oder in den Speichen des Vorderrades und des Hinterrades oder
+
+2.  
+Speichen an jedem Rad, alle Speichen entweder vollständig weiß retroreflektierend oder mit Speichenhülsen an jeder Speiche, oder
 
 3.  
-einem mit dem Buchstaben „Z“ gekennzeichneten roten Großflächen-Rückstrahler
+mindestens zwei um 180 Grad versetzt angebrachten, nach der Seite wirkenden gelben Speichenrückstrahlern an den Speichen des Vorderrades und des Hinterrades
 
-ausgerüstet sein. Die Schlussleuchte sowie einer der Rückstrahler dürfen in einem Gerät vereinigt sein. Beiwagen von Fahrrädern müssen mit einem Rückstrahler entsprechend Nummer 2 ausgerüstet sein.
+kenntlich gemacht sein.
+Zusätzlich zu der Mindestausrüstung mit einer der Absicherungsarten dürfen Sicherungsmittel aus den anderen Absicherungsarten angebracht sein. Werden mehr als zwei Speichenrückstrahler an einem Rad angebracht, so sind sie am Radumfang gleichmäßig zu verteilen. Zusätzliche nach der Seite wirkende bauartgenehmigte gelbe rückstrahlende Mittel sind zulässig. Nach vorne und nach hinten wirkende Fahrtrichtungsanzeiger, genehmigt nach der Regelung Nr. 50 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung von Begrenzungsleuchten, Schlussleuchten, Bremsleuchten, Fahrtrichtungsanzeigern und Beleuchtungseinrichtungen für das hintere Kennzeichenschild für Fahrzeuge der Klasse L (ABl. L 97 vom 29.3.2014, S. 1) und angebaut nach der Regelung Nr. 74 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) – Einheitliche Bedingungen für die Genehmigung von Fahrzeugen der Klasse L 1 hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen (ABl. L 166 vom 18.6.2013, S. 88) sowie Anordnung der Bedienteile nach der Regelung Nr. 60 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Vorschriften für die Genehmigung zweirädriger Krafträder und Fahrräder mit Hilfsmotor hinsichtlich der vom Fahrzeugführer betätigten Bedienteile und der Kennzeichnung von Bedienteilen, Kontrollleuchten und Anzeigevorrichtungen (ABl. L 297 vom 15.10.2014, S. 23), sind nur bei mehrspurigen Fahrrädern oder solchen mit einem Aufbau, der Handzeichen des Fahrers ganz oder teilweise verdeckt, zulässig.
 
-(5) Fahrräder dürfen an der Rückseite mit einer zusätzlichen, auch im Stand wirkenden Schlussleuchte für rotes Licht ausgerüstet sein. Diese Schlussleuchte muss unabhängig von den übrigen Beleuchtungseinrichtungen einschaltbar sein.
+(6) Schlussleuchte und Scheinwerfer dürfen nur gemeinsam einzuschalten sein, wenn sie mit Hilfe einer Lichtmaschine betrieben werden. Bei eingeschalteter Standlichtfunktion darf auch die Schlussleuchte allein leuchten. In den Scheinwerfern und Leuchten dürfen nur die nach ihrer Bauart dafür bestimmten Leuchtmittel verwendet werden.
 
-(6) Fahrradpedale müssen mit nach vorn und nach hinten wirkenden gelben Rückstrahlern ausgerüstet sein; nach der Seite wirkende gelbe Rückstrahler an den Pedalen sind zulässig.
-
-(7) Die Längsseiten müssen nach jeder Seite mit
-
-1.  
-mindestens zwei um 180 Grad versetzt angebrachten, nach der Seite wirkenden gelben Speichenrückstrahlern an den Speichen des Vorderrades und des Hinterrades oder
-
-2.  
-ringförmig zusammenhängenden retroreflektierenden weißen Streifen an den Reifen oder in den Speichen des Vorderrades und des Hinterrades
-
-kenntlich gemacht sein. Zusätzlich zu der Mindestausrüstung mit einer der Absicherungsarten dürfen Sicherungsmittel aus der anderen Absicherungsart angebracht sein. Werden mehr als zwei Speichenrückstrahler an einem Rad angebracht, so sind sie am Radumfang gleichmäßig zu verteilen.
-
-(8) Zusätzliche nach der Seite wirkende gelbe rückstrahlende Mittel sind zulässig.
-
-(9) Der Scheinwerfer und die Schlussleuchte nach Absatz 4 dürfen nur zusammen einschaltbar sein. Eine Schaltung, die selbsttätig bei geringer Geschwindigkeit von Lichtmaschinenbetrieb auf Batteriebetrieb umschaltet (Standbeleuchtung), ist zulässig; in diesem Fall darf auch die Schlussleuchte allein leuchten.
-
-(10) In den Scheinwerfern und Leuchten dürfen nur die nach ihrer Bauart dafür bestimmten Glühlampen verwendet werden.
-
-(11) Für Rennräder, deren Gewicht nicht mehr als 11 kg beträgt, gilt abweichend folgendes:
+(7) Bei Fahrrädern mit elektrischer Tretunterstützung kann die Versorgung der Beleuchtungsanlage über eine Kopplung an den Energiespeicher für den Antrieb erfolgen, wenn
 
 1.  
-für den Betrieb von Scheinwerfer und Schlussleuchte brauchen anstelle der Lichtmaschine nur eine oder mehrere Batterien entsprechend Absatz 1 Satz 2 mitgeführt zu werden;
+nach entladungsbedingter Abschaltung des Unterstützungsantriebs noch eine ununterbrochene Stromversorgung der Beleuchtungsanlage über mindestens zwei Stunden gewährleistet ist oder
 
 2.  
-der Scheinwerfer und die vorgeschriebene Schlussleuchte brauchen nicht fest am Fahrrad angebracht zu sein; sie sind jedoch mitzuführen und unter den in § 17 Absatz 1 der Straßenverkehrs-Ordnung beschriebenen Verhältnissen vorschriftsmäßig am Fahrrad anzubringen und zu benutzen;
+der Antriebsmotor als Lichtmaschine übergangsweise benutzt werden kann, um auch weiterhin die Lichtanlage mit Strom zu versorgen.
+
+Satz 1 gilt nicht für Fahrräder mit elektrischer Tretunterstützung, die vor dem 1. Januar 2019 in Verkehr gebracht werden.
+
+(8) Für lichttechnische Einrichtungen am Fahrrad gelten folgende Anbauhöhen
+
+Lichttechnische Einrichtung
+
+Minimale Höhe
+\[mm\]
+
+Maximale Höhe
+\[mm\]
+
+Scheinwerfer für Abblendlicht
+
+400
+
+1 200
+
+Rückstrahler vorne
+
+400
+
+1 200
+
+Hinten: Schlussleuchte, Rückstrahler
+
+250
+
+1 200
+
+### § 67a Lichttechnische Einrichtungen an Fahrradanhängern
+
+(1) An Fahrradanhängern dürfen nur die vorgeschriebenen und bauartgenehmigten lichttechnischen Einrichtungen angebracht sein. Lichttechnische Einrichtungen dürfen nicht verdeckt sein.
+
+(2) Fahrradanhänger müssen mindestens mit folgenden lichttechnischen Einrichtungen ausgerüstet sein:
+
+1.  
+nach vorn wirkend:
+
+a)  
+bei einer Breite des Anhängers von mehr als 600 mm mit zwei paarweise angebauten weißen Rückstrahlern mit einem maximalen Abstand von 200 mm zur Außenkante,
+
+b)  
+bei einer Breite des Anhängers von mehr als 1 000 mm zusätzlich mit einer Leuchte für weißes Licht auf der linken Seite,
+
+2.  
+nach hinten wirkend:
+
+a)  
+mit einer Schlussleuchte für rotes Licht auf der linken Seite, falls mehr als 50 Prozent der sichtbaren leuchtenden Fläche der Schlussleuchte des Fahrrads durch den Anhänger verdeckt wird oder falls der Anhänger mehr als 600 mm breit ist und
+
+b)  
+mit zwei roten Rückstrahlern der Kategorie „Z“ mit einem maximalen Abstand von 200 mm zur Außenkante,
 
 3.  
-Scheinwerfer und Schlussleuchte brauchen nicht zusammen einschaltbar zu sein;
+nach beiden Seiten wirkend:
 
-4.  
-anstelle des Scheinwerfers nach Absatz 1 darf auch ein Scheinwerfer mit niedrigerer Nennspannung als 6 V und anstelle der Schlussleuchte nach Absatz 4 Nummer 1 darf auch eine Schlussleuchte nach Absatz 5 mitgeführt werden.
+a)  
+mit ringförmig zusammenhängenden retroreflektierenden weißen Streifen an Reifen oder Felgen oder Rädern oder
 
-(12) Rennräder sind für die Dauer der Teilnahme an Rennen von den Vorschriften der Absätze 1 bis 11 befreit.
+b)  
+mit weiß retroreflektierenden Speichen (jede Speiche) oder Speichenhülsen (an jeder Speiche) an jedem Rad oder
+
+c)  
+mit mindestens zwei um 180 Grad versetzt angebrachten, nach der Seite wirkenden gelben Speichenrückstrahlern an den Speichen jedes Rades.
+
+(3) Anhänger, die nicht breiter als 1 000 mm sind, dürfen mit einer Leuchte für weißes Licht nach vorne ausgerüstet werden.
+
+(4) Unabhängig von der Breite dürfen Anhänger mit
+
+1.  
+einer weiteren Leuchte für rotes Licht nach hinten auf der rechten Seite oder
+
+2.  
+Fahrtrichtungsanzeigern, genehmigt nach der Regelung Nr. 50 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung von Begrenzungsleuchten, Schlussleuchten, Bremsleuchten, Fahrtrichtungsanzeigern und Beleuchtungseinrichtungen für das hintere Kennzeichenschild für Fahrzeuge der Klasse L (ABl. L 97 vom 29.3.2014, S. 1) und angebaut nach der Regelung Nr. 74 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) – Einheitliche Bedingungen für die Genehmigung von Fahrzeugen der Klasse L 1 hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen (ABl. L 166 vom 18.6.2013, S. 88), oder
+
+3.  
+zwei weiteren zusätzlichen roten nicht dreieckigen Rückstrahlern nach hinten wirkend mit einem maximalen Abstand von 200 mm zur Außenkante
+
+ausgerüstet werden.
+
+(5) Lichttechnische Einrichtungen dürfen zusammengebaut, ineinander gebaut oder kombiniert sein, mit Ausnahme von Fahrtrichtungsanzeigern.
+
+(6) Absatz 2 gilt nicht für Fahrradanhänger, die vor dem 1. Januar 2018 in Verkehr gebracht werden.
 
 C. Durchführungs-,Bußgeld- und Schlussvorschriften
 --------------------------------------------------
@@ -3991,7 +4134,7 @@ des § 34a Absatz 1 über die Besetzung, Beladung und Kennzeichnung von Kraftomn
 des § 35 über die Motorleistung;
 
 7.  
-des § 35a Absatz 1 über Anordnung oder Beschaffenheit des Sitzes des Fahrzeugführers, des Betätigungsraums oder der Einrichtungen zum Führen des Fahrzeugs für den Fahrer, der Absätze 2, 3, 4, 5 Satz 1 oder Absatz 7 über Sitze und deren Verankerungen, Kopfstützen, Sicherheitsgurte und deren Verankerungen oder über Rückhaltesysteme, des Absatzes 8 Satz 1 über die Anbringung von nach hinten gerichteten Rückhalteeinrichtungen für Kinder auf Beifahrersitzen, vor denen ein betriebsbereiter Airbag eingebaut ist, oder Satz 2 oder 4 über die Warnung vor der Verwendung von nach hinten gerichteten Rückhalteeinrichtungen für Kinder auf Beifahrersitzen mit Airbag, des Absatzes 9 Satz 1 über einen Sitz für den Beifahrer auf Krafträdern oder des Absatzes 10 über die Beschaffenheit von Sitzen, ihrer Lehnen und ihrer Befestigungen sowie der selbsttätigen Verriegelung von klappbaren Sitzen und Rückenlehnen und der Zugänglichkeit der Entriegelungseinrichtung oder des Absatzes 11 über Verankerungen der Sicherheitsgurte und Sicherheitsgurte von dreirädrigen oder vierrädrigen Kraftfahrzeugen; oder des Absatzes 13 über die Pflicht zur nach hinten oder seitlich gerichteten Anbringung von Rückhalteeinrichtungen für Kinder bis zu einem Alter von 15 Monaten
+des § 35a Absatz 1 über Anordnung oder Beschaffenheit des Sitzes des Fahrzeugführers, des Betätigungsraums oder der Einrichtungen zum Führen des Fahrzeugs für den Fahrer, der Absätze 2, 3, 4, 5 Satz 1 oder Absatz 7 über Sitze und deren Verankerungen, Kopfstützen, Sicherheitsgurte und deren Verankerungen oder über Rückhaltesysteme, des Absatzes 4a über Rollstuhlstellplätze, Rollstuhl-Rückhaltesysteme, Rollstuhlnutzer-Rückhaltesysteme, Verankerungen und Sicherheitsgurte, des Absatzes 8 Satz 1 über die Anbringung von nach hinten gerichteten Rückhalteeinrichtungen für Kinder auf Beifahrersitzen, vor denen ein betriebsbereiter Airbag eingebaut ist, oder Satz 2 oder 4 über die Warnung vor der Verwendung von nach hinten gerichteten Rückhalteeinrichtungen für Kinder auf Beifahrersitzen mit Airbag, des Absatzes 9 Satz 1 über einen Sitz für den Beifahrer auf Krafträdern oder des Absatzes 10 über die Beschaffenheit von Sitzen, ihrer Lehnen und ihrer Befestigungen sowie der selbsttätigen Verriegelung von klappbaren Sitzen und Rückenlehnen und der Zugänglichkeit der Entriegelungseinrichtung oder des Absatzes 11 über Verankerungen der Sicherheitsgurte und Sicherheitsgurte von dreirädrigen oder vierrädrigen Kraftfahrzeugen; oder des Absatzes 13 über die Pflicht zur nach hinten oder seitlich gerichteten Anbringung von Rückhalteeinrichtungen für Kinder bis zu einem Alter von 15 Monaten
 
 7a.  
 des § 35b Absatz 1 über die Beschaffenheit der Einrichtungen zum Führen von Fahrzeugen oder des § 35b Absatz 2 über das Sichtfeld des Fahrzeugführers;
@@ -4006,7 +4149,7 @@ des § 35g Absatz 1 oder 2 über Feuerlöscher in Kraftomnibussen oder des § 35
 des § 35i Absatz 1 Satz 1 oder 2, dieser in Verbindung mit Nummer 2 Satz 2, 4, 8 oder 9, Nummer 3.1 Satz 1, Nummer 3.2 Satz 1 oder 2, Nummer 3.3, 3.4 Satz 1 oder 2 oder Nummer 3.5 Satz 2, 3 oder 4 der Anlage X, über Gänge oder die Anordnung von Fahrgastsitzen in Kraftomnibussen oder des § 35i Absatz 2 Satz 1 über die Beförderung liegender Fahrgäste ohne geeignete Rückhalteeinrichtungen;
 
 8.  
-des § 36 Absatz 1 Satz 1 oder 3 bis 5, Absatz 2 Satz 1 oder 3 bis 5 oder Absatz 2a Satz 1 oder 2 über Bereifung, des § 36 Absatz 5 Satz 1 bis 4 über Gleisketten von Gleiskettenfahrzeugen oder Satz 6 über deren zulässige Höchstgeschwindigkeit, des § 36a Absatz 1 über Radabdeckungen oder Absatz 3 über die Sicherung von außen am Fahrzeug mitgeführten Ersatzrädern oder des § 37 Absatz 1 Satz 1 über Gleitschutzeinrichtungen oder Absatz 2 über Schneeketten;
+des § 36 Absatz 1 Satz 1 oder 3 bis 4, Absatz 3 Satz 1 oder 3 bis 5, Absatz 5 Satz 1 oder Absatz 6 oder 2 über Bereifung, des § 36 Absatz 10 Satz 1 bis 4 über Gleisketten von Gleiskettenfahrzeugen oder Satz 6 über deren zulässige Höchstgeschwindigkeit, des § 36a Absatz 1 über Radabdeckungen oder Absatz 3 über die Sicherung von außen am Fahrzeug mitgeführten Ersatzrädern oder des § 37 Absatz 1 Satz 1 über Gleitschutzeinrichtungen oder Absatz 2 über Schneeketten;
 
 9.  
 des § 38 über Lenkeinrichtungen;
@@ -4146,10 +4289,13 @@ des § 65 Absatz 1 über Bremsen oder des § 65 Absatz 3 über Bremshilfsmittel;
 des § 66 über Rückspiegel;
 
 7a.  
-des § 66a über lichttechnische Einrichtungen oder
+des § 66a über lichttechnische Einrichtungen;
 
 8.  
-des § 67 Absatz 1 Satz 1 oder 3, Absatz 2 Satz 1, 3 oder 4, Absatz 3, 4 Satz 1 oder 3, Absatz 5 Satz 2, Absatz 6 Halbsatz 1, Absatz 7 Satz 1 oder 3, Absatz 9 Satz 1, Absatz 10 oder 11 Nummer 2 Halbsatz 2 über lichttechnische Einrichtungen an Fahrrädern oder ihren Beiwagen.
+des § 67 über lichttechnische Einrichtungen an Fahrrädern oder
+
+9.  
+des § 67a über lichttechnische Einrichtungen an Fahrradanhängern.
 
 (5) Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt schließlich, wer vorsätzlich oder fahrlässig
 
@@ -4178,7 +4324,7 @@ gegen eine Vorschrift des § 31c Satz 1 oder 4 Halbsatz 2 über Pflichten zur Fe
 als Fahrpersonal oder Halter gegen eine Vorschrift des § 35g Absatz 3 über das Vertrautsein mit der Handhabung von Feuerlöschern oder als Halter gegen eine Vorschrift des § 35g Absatz 4 über die Prüfung von Feuerlöschern verstößt,
 
 5.  
-entgegen § 36 Absatz 2b Satz 1 Luftreifen nicht oder nicht wie dort vorgeschrieben kennzeichnet,
+entgegen § 36 Absatz 7 Satz 1 einen Luftreifen nicht, nicht vollständig oder nicht in der vorgeschriebenen Weise kennzeichnet,
 
 5a.  
 entgegen § 41a Absatz 5 Satz 1 eine Gassystemeinbauprüfung, entgegen Absatz 5 Satz 3 eine Begutachtung oder entgegen Absatz 6 Satz 2 eine Gasanlagenprüfung nicht durchführen lässt,
@@ -4290,12 +4436,15 @@ Die Genehmigung von Ausnahmen von den Vorschriften dieser Verordnung kann mit Au
 § 33 (Schleppen von Fahrzeugen)Vor dem 1. August 2013 erteilte Ausnahmegenehmigungen gelten bis zu ihrer Befristung weiter.
 
 1b.  
-§ 35a Absatz 2, 3, 4 und 5a (Sitzverankerungen, Sitze, Kopfstützen, Verankerungen für Sicherheitsgurte sowie Sicherheitsgurte oder Rückhaltesysteme)Für Kraftfahrzeuge, die vor dem 1. November 2013 eine nationale Typgenehmigung oder Einzelgenehmigung erhalten haben und vor dem 1. Januar 2014 erstmals in den Verkehr kommen, bleibt § 35a Absatz 2, 3 und 4 in der bisher geltenden Fassung anwendbar.
+§ 35a Absatz 2, 3, 4 und 5a (Sitzverankerungen, Sitze, Kopfstützen, Verankerungen für Sicherheitsgurte sowie Sicherheitsgurte oder Rückhaltesysteme)Für Kraftfahrzeuge, die vor dem 1. November 2013 eine nationale Typgenehmigung oder Einzelgenehmigung erhalten haben und vor dem 1. Januar 2014 erstmals in den Verkehr kommen, bleibt § 35a Absatz 2, 3 und 4 in der bisher geltenden Fassung anwendbar. § 35a Absatz 4a in Verbindung mit Absatz 4b ist ab dem 1. September 2016 für alle Personenkraftwagen anzuwenden, bei denen ein Einbau, Umbau oder eine Nachrüstung mit Rollstuhlstellplätzen, Rollstuhl-Rückhaltesystemen oder Rollstuhlnutzer-Rückhaltesystemen erfolgt. 35a Absatz 4a Satz 7 in Verbindung mit Absatz 4b ist bis einschließlich 31. August 2017 abweichend erfüllt, wenn ersatzweise zur DIN-Norm 75078-2:2015-04 die DIN-Norm 75078-2:1999 angewendet wird.
 
 1c.  
 § 35c Absatz 2 (Heizanlagen in Fahrzeugen der Klassen M, N und O)gilt spätestens für Fahrzeuge und ihre Heizanlagen, die ab dem 1. August 2013 genehmigt werden. Für Fahrzeuge und ihre Heizanlagen, die vor dem 1. August 2013 genehmigt wurden, bleibt § 35c in der bisher geltenden Fassung anwendbar.
 
 1d.  
+§ 36 Absatz 4a tritt am 1. Oktober 2024 außer Kraft.
+
+1e.  
 § 45 Absatz 1a (Einbau des Kraftstoffbehälters)gilt nicht für den serienmäßigen Einbau in reihenweise gefertigte Fahrzeuge, für die eine Allgemeine Betriebserlaubnis erteilt worden ist und die vor dem 1. Januar 1990 erstmals in den Verkehr gekommen sind.
 
 2.  
@@ -6595,7 +6744,7 @@ die Überwachungsorganisation eine geeignete Stelle im Anerkennungsgebiet unterh
 die Prüfingenieure, die in der Überwachungsorganisation tätig werden sollen, von keiner anderen Überwachungsorganisation betraut sind,
 
 2.1b  
-sie für die gesamte Überwachungsorganisation ein Qualitätsmanagementsystem unterhält, das mindestens den Anforderungen der DIN EN ISO/JEC 17020:2012 entspricht, deren Erfüllung gegenüber der Deutschen Akkreditierungsstelle nachzuweisen ist,
+sie für die gesamte Überwachungsorganisation ein Qualitätsmanagementsystem unterhält, das mindestens den Anforderungen der DIN EN ISO/JEC 17020:2012 entspricht, deren Erfüllung gegenüber der Deutschen Akkreditierungsstelle nachzuweisen ist; die Anerkennungsbehörde kann bis zum 31. Dezember 2020 von den Nummern 6.2.6 und 6.2.7 DIN EN ISO/IEC 17020:2012 abweichende Anforderungen zulassen, die durch das Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden bestimmt und im Verkehrsblatt öffentlich bekannt gemacht werden; soweit eine Überwachungsorganisation von diesen abweichenden Anforderungen Gebrauch macht, weist sie die Einhaltung dieser abweichenden sowie der sonstigen sich aus DIN EN ISO/IEC 17020:2012 ergebenden Anforderungen gegenüber der Deutschen Akkreditierungsstelle nach; die Deutsche Akkreditierungsstelle bestätigt der Überwachungsorganisation die Erfüllung der Anforderungen durch eine Bescheinigung,
 
 2.2  
 die nach Gesetz, Vertrag oder Satzung zur Vertretung der Überwachungsorganisation berufenen Personen persönlich zuverlässig sind,
@@ -26928,7 +27077,7 @@ Anhang VII
 
 der Richtlinie 2001/85/EG des Europäischen Parlaments und des Rates vom 20. November 2001 über besondere Vorschriften für Fahrzeuge zur Personenbeförderung mit mehr als acht Sitzplätzen außer dem Fahrersitz und zur Änderung der Richtlinien 70/156/EWG und 97/27/EG (ABl. L 42 vom 13.2.2002, S. 1).
 
-§ 32d Absatz 4
+§ 32b Absatz 4
 
 Anhang II
 
@@ -27067,6 +27216,13 @@ Richtlinie 2000/3/EG der Kommission vom 22. Februar 2000 (ABl. L 53 vom 25.2.200
 j)  
 Richtlinie 2005/40/EG (ABl. L 255 vom 30.9.2005, S. 146).
 
+§ 35a Absatz 4a
+
+Anhang XI
+Anlage 3
+
+der Verordnung (EU) Nr. 214/2014 der Kommission vom 25. Februar 2014 zur Änderung der Anhänge II, IV, XI, XII und XVIII der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (ABl. L 69 vom 8.3.2014, S. 3).
+
 § 35a Absatz 11
 
 Kapitel 11
@@ -27107,7 +27263,7 @@ Anhänge IV bis VI
 
 der Richtlinie 95/28/EG des Europäischen Parlaments und des Rates vom 24. Oktober 1995 über das Brennverhalten von Werkstoffen der Innenausstattung bestimmter Kraftfahrzeugklassen (ABl. L 281 vom 23.11.1995, S. 1).
 
-§ 36 Absatz 1a
+§ 36 Absatz 2
 
 Anhänge II und IV
 Abschnitte 1, 2, 3 und 6,
@@ -27123,7 +27279,24 @@ der Richtlinie 92/23 EWG des Rates vom 31. März 1992 über Reifen von Kraftfahr
 der Revision 1 der ECE-Regelung Nr. 30 über einheitliche Bedingungen für die Genehmigung der Luftreifen für Kraftfahrzeuge und Anhänger vom 9. März 1995 (BGBl. 1995 II S. 228),
 der ECE-Regelung Nr. 54 über einheitliche Bedingungen für die Genehmigung von Luftreifen für Nutzfahrzeuge und ihre Anhänger vom 20. Juni 1986 (BGBl. 1986 II S. 718),
 der ECE-Regelung Nr. 75 über einheitliche Bedingungen für die Genehmigung der Luftreifen für Krafträder vom 25. Februar 1992 (BGBl. 1992 II S. 184),
-der Richtlinie 97/24/EG des Europäischen Parlaments und des Rates vom 17. Juni 1997 über bestimmte Bauteile und Merkmale von zweirädrigen oder dreirädrigen Kraftfahrzeugen (ABl. L 226 vom 18.8.1997, S. 1).
+der Richtlinie 97/24/EG des Europäischen Parlaments und des Rates vom 17. Juni 1997 über bestimmte Bauteile und Merkmale von zweirädrigen oder dreirädrigen Kraftfahrzeugen (ABl. L 226 vom 18.8.1997, S. 1),
+
+Abschnitte
+1, 2, 4
+und 6,
+Anhänge
+3 bis 7
+
+der Ergänzung 8 zur Änderungsserie 02 der Regelung Nr. 117 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung der Reifen hinsichtlich der Rollgeräuschemissionen und der Haftung auf nassen Oberflächen und/oder des Rollwiderstandes (ABl. L 218 vom 12.8.2016, S. 1),
+
+Abschnitte
+1, 2, 3
+und 7,
+Anhänge
+3, 4, 5, 6,
+7 und 8
+
+der Regelung Nr. 109 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) –Einheitliche Bedingungen für die Genehmigung der Herstellung runderneuerter Luftreifen für Nutzfahrzeuge und ihre Anhänger (ABl. L 181 vom 4.7.2006, S. 3).
 
 § 38 Absatz 2
 
