@@ -427,7 +427,7 @@ b)
 auf den Fahrtstrecken ab der Lotsenversetzposition im Verkehrstrennungsgebiet "Jade Approach" einkommend 5 Seemeilen nördlich der Tonne "TG 18" in Richtung Außenposition des Lotsenschiffes vor der Wesermündung:
 
 aa)  
-Tankschiffe im Sinne des § 30 Abs. 1 der Seeschifffahrtsstraßen-Ordnung in der jeweils geltenden Fassung mit einer Länge über alles von 150 m oder einer größten Breite von 23 m und mehr; mit einer Länge ab 300 m oder einem Tiefgang von 16,50 m und mehr sind zwei Seelotsen anzunehmen,
+Tankschiffe im Sinne des § 30 Abs. 1 der Seeschifffahrtsstraßen-Ordnung mit einer Länge über alles von 150 m oder einer größten Breite von 23 m und mehr; mit einer Länge ab 300 m oder einem Tiefgang von 16,50 m und mehr sind zwei Seelotsen anzunehmen,
 
 bb)  
 andere Massengutschiffe mit einer Länge über alles von 250 m oder einer größten Breite von 40 m oder einem Tiefgang von 13,50 m und mehr,
@@ -440,7 +440,7 @@ Die in den jeweiligen Lotsverordnungen vorgesehenen Interpolationsmöglichkeiten
 9  
 (weggefallen)
 
-### Anhang (zu Nummer 1.17 der Anlage)
+### Anhang (zu § 1 Abs. 1 Nr. 1.17)
 
 (Inhalt: Nicht darstellbare topographische Karte,
 Fundstelle: BGBl. I 2005, 2297)
