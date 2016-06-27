@@ -4,6 +4,9 @@ Luftverkehrs-Ordnung (LuftVO)
 Hinweis  
 Änderung durch Art. 3 G v. 28.6.2016 I 1548 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Hinweis  
+Änderung durch Art. 2 V v. 30.3.2017 I 683 (Nr. 17) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Sonst  
 Ersetzt V 96-1-2 v. 10.8.1963 I 652 (LuftVO)
 
@@ -52,13 +55,13 @@ Abschnitt 4
 
 Allgemeine Verkehrsregeln
 
-|      |                                                  |
-|------|--------------------------------------------------|
-| § 11 | Abweichung von Höchstgeschwindigkeiten           |
-| § 12 | Ausweichregeln                                   |
-| § 13 | Abwerfen von Gegenständen oder sonstigen Stoffen |
-| § 14 | Kunstflüge                                       |
-| § 15 | Schlepp- und Reklameflüge                        |
+|      |                                                                                        |
+|------|----------------------------------------------------------------------------------------|
+| § 11 | Abweichung von Höchstgeschwindigkeiten                                                 |
+| § 12 | Zuständige Behörde nach Anhang SERA.3210 der Durchführungsverordnung (EU) Nr. 923/2012 |
+| § 13 | Abwerfen von Gegenständen oder sonstigen Stoffen                                       |
+| § 14 | Kunstflüge                                                                             |
+| § 15 | Schlepp- und Reklameflüge                                                              |
 
 Abschnitt 5
 
@@ -72,6 +75,19 @@ Nutzung des Luftraums
 | § 19 | Verbotene Nutzung des Luftraums                                                                        |
 | § 20 | Erlaubnisbedürftige Nutzung des Luftraums                                                              |
 | § 21 | Nutzung des kontrollierten Luftraums und des Luftraums über Flugplätzen mit Flugverkehrskontrollstelle |
+
+Abschnitt 5a
+
+Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen
+
+|       |                                                                                                     |
+|-------|-----------------------------------------------------------------------------------------------------|
+| § 21a | Erlaubnisbedürftiger Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen                     |
+| § 21b | Verbotener Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen                               |
+| § 21c | Zuständige Behörde                                                                                  |
+| § 21d | Bescheinigungen zum Nachweis ausreichender Kenntnisse und Fertigkeiten; anerkannte Stellen          |
+| § 21e | Bescheinigungen zum Nachweis ausreichender Kenntnisse und Fertigkeiten zum Betrieb von Flugmodellen |
+| § 21f | Ausweichregeln für unbemannte Fluggeräte                                                            |
 
 Abschnitt 6
 
@@ -371,7 +387,7 @@ Abschnitt 4 Allgemeine Verkehrsregeln
 
 (2) Das Bundesaufsichtsamt für Flugsicherung kann für Luftfahrzeugmuster, die aus technischen oder Sicherheitsgründen die in Anhang SERA.6001 Buchstabe c bis g der Durchführungsverordnung (EU) Nr. 923/2012 beschriebenen Geschwindigkeitsbeschränkungen nicht einhalten können, Ausnahmen zulassen.
 
-### § 12 Ausweichregeln
+### § 12 Zuständige Behörde nach Anhang SERA.3210 der Durchführungsverordnung (EU) Nr. 923/2012
 
 Zuständig für die Genehmigung der von der Flugsicherungsorganisation vorgegebenen Mindestabstände zwischen Fahrzeugen und rollenden Luftfahrzeugen nach Anhang SERA.3210 Buchstabe d Nummer 4 Ziffer ii Buchstabe B der Durchführungsverordnung (EU) Nr. 923/2012 ist das Bundesaufsichtsamt für Flugsicherung.
 
@@ -499,92 +515,39 @@ der Betrieb von Scheinwerfern oder optischen Lichtsignalgeräten, insbesondere L
 
 (2) Die örtlich zuständige Luftfahrtbehörde des Landes kann Ausnahmen von dem Verbot nach Absatz 1 zulassen, wenn von der beantragten Nutzung des Luftraums keine Gefahren für die öffentliche Sicherheit und Ordnung ausgehen.
 
-(3) Der Betrieb von unbemannten Luftfahrtsystemen ist verboten, wenn
-
-1.  
-er außerhalb der Sichtweite des Steuerers erfolgt oder
-
-2.  
-die Gesamtmasse des Geräts mehr als 25 Kilogramm beträgt.
-
-Der Betrieb erfolgt außerhalb der Sichtweite des Steuerers, wenn das Luftfahrtgerät ohne besondere optische Hilfsmittel nicht mehr zu sehen oder die Fluglage nicht mehr eindeutig zu erkennen ist. Die zuständige Luftfahrtbehörde des Landes kann Ausnahmen vom Verbot nach Satz 1 zulassen, wenn von der beantragten Nutzung des Luftraums keine Gefahren für die öffentliche Sicherheit und Ordnung ausgehen und
-
-1.  
-dort, wo der Betrieb stattfinden soll, ein Gebiet mit Flugbeschränkungen nach § 17 eingerichtet wurde oder
-
-2.  
-der Betrieb nicht über den Flugplatzverkehr eines Landeplatzes hinausgeht.
-
-Die Einrichtung eines Gebietes mit Flugbeschränkungen nach Satz 3 Nummer 1 ist nicht erforderlich, wenn ein unbemanntes Luftfahrtsystem
-
-1.  
-in Sichtweite des Steuerers,
-
-2.  
-zu land- oder forstwirtschaftlichen Zwecken,
-
-3.  
-bis 50 Meter über Grund oder Wasser und
-
-4.  
-außerhalb des kontrollierten Luftraums
-
-betrieben wird; in Gebieten mit Funkkommunikationspflicht (RMZ) ist die Zustimmung des zuständigen Flugplatzinformationsdienstes einzuholen.
-
-(4) Die zuständige Luftfahrtbehörde des Landes bestimmt nach pflichtgemäßem Ermessen, welche Unterlagen der Antrag auf Erteilung der Ausnahmegenehmigung nach Absatz 2 oder Absatz 3 Satz 3 und 4 enthalten muss.
-
-(5) Landesrechtliche Regelungen, die Aufstiege von ballonartigen Leuchtkörpern verbieten, bleiben unberührt.
+(3) Landesrechtliche Regelungen, die Aufstiege von ballonartigen Leuchtkörpern verbieten, bleiben unberührt.
 
 ### § 20 Erlaubnisbedürftige Nutzung des Luftraums
 
-(1) Die folgenden Arten der Nutzung des Luftraums bedürfen im Übrigen der Erlaubnis:
+(1) Die folgenden Arten der Nutzung des Luftraums bedürfen der Erlaubnis:
 
 1.  
-der Aufstieg von Flugmodellen
-
-a)  
-mit mehr als 5 Kilogramm Gesamtmasse,
-
-b)  
-mit Raketenantrieb, sofern der Treibsatz mehr als 20 Gramm beträgt,
-
-c)  
-mit Verbrennungsmotor in einer Entfernung von weniger als 1,5 Kilometern von Wohngebieten,
-
-d)  
-aller Art in einer Entfernung von weniger als 1,5 Kilometern von der Begrenzung von Flugplätzen; auf Flugplätzen bedarf der Betrieb von Flugmodellen darüber hinaus der Zustimmung der Luftaufsichtsstelle oder der Flugleitung,
-
-e)  
-aller Art, soweit sie über Menschenansammlungen betrieben werden,
+das Steigenlassen von Drachen und Schirmdrachen, wenn sie mit einem Seil von mehr als 100 Metern Länge gehalten werden,
 
 2.  
-das Steigenlassen von Drachen und Schirmdrachen, wenn sie mit einem Seil von mehr als 100 Metern gehalten werden,
+der Aufstieg von Feuerwerkskörpern, wenn sie mehr als 300 Meter aufsteigen,
 
 3.  
-der Aufstieg von Feuerwerkskörpern, wenn diese mehr als 300 Meter aufsteigen,
-
-4.  
 der Aufstieg von Fesselballonen, wenn sie mit einem Halteseil von mehr als 30 Metern Länge gehalten werden,
 
-5.  
+4.  
 der Betrieb von ungesteuerten Flugkörpern mit Eigenantrieb,
 
+5.  
+der Betrieb von Scheinwerfern oder optischen Lichtsignalgeräten, insbesondere von Lasergeräten, die geeignet sind, Luftfahrzeugführer während des An- oder Abflugs zu blenden,
+
 6.  
-der Betrieb von Scheinwerfern oder optischen Lichtsignalgeräten, insbesondere Lasergeräten, die geeignet sind, Luftfahrzeugführer während des An- und Abflugs zu blenden,
-
-7.  
-der Aufstieg von unbemannten Luftfahrtsystemen,
-
-8.  
 der Betrieb von unbemannten Freiballonen nach Anlage 2 der Durchführungsverordnung (EU) Nr. 923/2012 im Hoheitsgebiet der Bundesrepublik Deutschland.
 
-(2) Das Halteseil von unbemannten Fesselballonen sowie Drachen ist in Abständen von 100 Metern bei Tage durch rotweiße Fähnchen, bei Nacht durch rote und weiße Lichter so kenntlich zu machen, dass es von anderen Luftfahrzeugen aus erkennbar ist.
+Der Starter eines Drachens, Schirmdrachens oder unbemannten Fesselballons muss das Halteseil in Abständen von 100 Metern bei Tag durch rotweiße Fähnchen, bei Nacht durch rote und weiße Blitz- oder Blinklichter so kenntlich machen, dass es von anderen Luftfahrzeugen aus erkennbar ist.
 
-(3) Zuständige Behörde für die Erteilung der Erlaubnis nach Absatz 1 ist die örtlich zuständige Behörde des Landes, soweit nicht der Beauftragte nach § 31c des Luftverkehrsgesetzes zuständig ist.
+(2) Zuständige Behörde für die Erteilung der Erlaubnis nach Absatz 1 ist die örtlich zuständige Luftfahrtbehörde des Landes.
 
-(4) Die Erlaubnis wird erteilt, wenn die Nutzung nicht zu einer Gefahr für die Sicherheit des Luftverkehrs oder die öffentliche Sicherheit oder Ordnung führen kann und insbesondere durch den Aufstieg von unbemannten Luftfahrtsystemen die Vorschriften über den Datenschutz nicht verletzt werden. Die Erlaubnis kann mit Nebenbestimmungen versehen, insbesondere mit Auflagen verbunden werden. Sie kann Personen oder Personenvereinigungen für den Einzelfall oder allgemein erteilt werden. Die zuständige Behörde bestimmt nach pflichtgemäßem Ermessen, welche Unterlagen der Antrag auf Erteilung der Erlaubnis enthalten muss. Sie kann insbesondere das Gutachten eines Sachverständigen über die Eignung des Geländes und des Luftraums, in dem der Flugbetrieb stattfinden soll, verlangen.
+(3) Die zuständige Behörde bestimmt, welche Unterlagen der Antrag auf Erteilung der Erlaubnis enthalten muss. Sie kann insbesondere das Gutachten eines Sachverständigen über die Eignung des Geländes und des Luftraums verlangen. Die zuständige Behörde kann vom Antragsteller den Nachweis verlangen, dass der Eigentümer oder sonstige Nutzungsberechtigte des Grundstücks, auf dem der Aufstieg stattfinden soll, der Nutzung zustimmt.
 
-(5) Die Erteilung einer Erlaubnis kann davon abhängig gemacht werden, ob der Antragsteller nachweist, dass der Eigentümer oder sonstige Nutzungsberechtigte des Grundstücks der Nutzung zustimmt.
+(4) Die Erlaubnis wird erteilt, wenn die beabsichtigte Nutzung des Luftraums nicht zu einer Gefahr für die Sicherheit des Luftverkehrs oder für die öffentliche Sicherheit oder Ordnung führt.
+
+(5) Die Erlaubnis kann natürlichen und juristischen Personen oder Personenvereinigungen allgemein oder für den Einzelfall erteilt werden. Sie kann mit Nebenbestimmungen versehen, insbesondere mit Auflagen verbunden werden.
 
 ### § 21 Nutzung des kontrollierten Luftraums und des Luftraums über Flugplätzen mit Flugverkehrskontrollstelle
 
@@ -641,6 +604,194 @@ Nummer 6 der Starter der Brieftauben,
 Nummer 7 der Luftfahrzeugführer.
 
 (3) Landesrechtliche Regelungen, die Aufstiege von ballonartigen Leuchtkörpern verbieten, bleiben unberührt.
+
+Abschnitt 5a Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen
+-----------------------------------------------------------------------
+
+### 
+
+### § 21a Erlaubnisbedürftiger Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen
+
+(1) Der Betrieb von folgenden unbemannten Luftfahrtsystemen und Flugmodellen bedarf der Erlaubnis:
+
+1.  
+unbemannte Luftfahrtsysteme und Flugmodelle mit mehr als 5 Kilogramm Startmasse,
+
+2.  
+unbemannte Luftfahrtsysteme und Flugmodelle mit Raketenantrieb, sofern die Masse des Treibsatzes mehr als 20 Gramm beträgt,
+
+3.  
+unbemannte Luftfahrtsysteme und Flugmodelle mit Verbrennungsmotor, die in einer Entfernung von weniger als 1,5 Kilometern von Wohngebieten betrieben werden,
+
+4.  
+unbemannte Luftfahrtsysteme und Flugmodelle aller Art in einer Entfernung von weniger als 1,5 Kilometern von der Begrenzung von Flugplätzen; auf Flugplätzen bedarf der Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen darüber hinaus der Zustimmung der Luftaufsichtsstelle und der Flugleitung,
+
+5.  
+unbemannte Luftfahrtsysteme und Flugmodelle aller Art bei Nacht im Sinne des Artikel 2 Nummer 97 der Durchführungsverordnung (EU) Nr. 923/2012.
+
+(2) Keiner Erlaubnis nach Absatz 1 und keines Nachweises nach Absatz 4 bedarf der Betrieb von unbemannten Luftfahrtsystemen durch oder unter Aufsicht von
+
+1.  
+Behörden, wenn dieser zur Erfüllung ihrer Aufgaben stattfindet;
+
+2.  
+Organisationen mit Sicherheitsaufgaben im Zusammenhang mit Not- und Unglücksfällen sowie Katastrophen.
+
+Absatz 1 Nummer 4 zweiter Teilsatz gilt entsprechend.
+
+(3) Die Erlaubnis wird erteilt, wenn
+
+1.  
+der beabsichtigte Betrieb von unbemannten Fluggeräten nach Absatz 1 und die Nutzung des Luftraums nicht zu einer Gefahr für die Sicherheit des Luftverkehrs oder die öffentliche Sicherheit oder Ordnung, insbesondere zu einer Verletzung der Vorschriften über den Datenschutz und über den Naturschutz, führen und
+
+2.  
+der Schutz vor Fluglärm angemessen berücksichtigt ist.
+
+§ 20 Absatz 5 gilt entsprechend.
+
+(4) Steuerer von unbemannten Fluggeräten mit einer Startmasse von mehr als 2 Kilogramm müssen ab dem 1. Oktober 2017 auf Verlangen Kenntnisse in
+
+1.  
+der Anwendung und der Navigation dieser Fluggeräte,
+
+2.  
+den einschlägigen luftrechtlichen Grundlagen und
+
+3.  
+der örtlichen Luftraumordnung
+
+nach Satz 3 nachweisen. Satz 1 gilt nicht, sofern der Betrieb auf Geländen stattfindet, für die eine allgemeine Erlaubnis zum Aufstieg von Flugmodellen erteilt und für die eine Aufsichtsperson bestellt worden ist.
+
+Der Nachweis wird erbracht durch
+
+1.  
+eine gültige Erlaubnis als Luftfahrzeugführer oder eine beglaubigte Kopie derselben,
+
+2.  
+eine Bescheinigung über eine bestandene Prüfung von einer nach § 21d vom Luftfahrt-Bundesamt anerkannten Stelle oder
+
+3.  
+eine Bescheinigung über eine erfolgte Einweisung durch einen beauftragten Luftsportverband oder einen von ihm beauftragten Verein nach § 21e für den Betrieb eines Flugmodells.
+
+(5) Die zuständige Behörde bestimmt nach pflichtgemäßem Ermessen, ob dem Antrag auf Erteilung einer Erlaubnis weitere Unterlagen beigefügt werden müssen. Sie kann insbesondere noch verlangen:
+
+1.  
+den Nachweis, dass der Grundstückseigentümer oder sonst Berechtigte dem Aufstieg zugestimmt hat,
+
+2.  
+das Gutachten eines Sachverständigen über die Eignung des Geländes und des betroffenen Luftraums für den Betrieb von unbemannten Luftfahrtsystemen oder Flugmodellen,
+
+3.  
+weitere fachspezifische Bewertungen oder Gutachten, insbesondere zum Natur- und Lärmschutz, sofern diese im Einzelfall erforderlich sind.
+
+(6) Schutzvorschriften insbesondere des Bundesnaturschutzgesetzes, Rechtsvorschriften, die auf Grund dieses Gesetzes erlassen worden sind oder fortgelten, sowie das Naturschutzrecht der Länder, sowie die Pflicht zur ordnungsgemäßen Flugvorbereitung im Sinne von Anhang SERA.2010 Buchstabe b der Durchführungsverordnung (EU) Nr. 923/2012 bleiben unberührt.
+
+### § 21b Verbotener Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen
+
+(1) Der Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen ist verboten, sofern er nicht durch eine in § 21a Absatz 2 genannte Stelle oder unter deren Aufsicht erfolgt,
+
+1.  
+außerhalb der Sichtweite des Steuerers nach Maßgabe des Satzes 2, sofern die Startmasse des Geräts 5 Kilogramm und weniger beträgt,
+
+2.  
+über und in einem seitlichen Abstand von 100 Metern von Menschenansammlungen, Unglücksorten, Katastrophengebieten und anderen Einsatzorten von Behörden und Organisationen mit Sicherheitsaufgaben, sowie über mobilen Einrichtungen und Truppen der Bundeswehr im Rahmen angemeldeter Manöver und Übungen,
+
+3.  
+über und in einem seitlichen Abstand von 100 Metern von der Begrenzung von Industrieanlagen, Justizvollzugsanstalten, Einrichtungen des Maßregelvollzugs, militärischen Anlagen und Organisationen, Anlagen der Energieerzeugung und -verteilung sowie über Einrichtungen, in denen erlaubnisbedürftige Tätigkeiten der Schutzstufe 4 nach der Biostoffverordnung ausgeübt werden, soweit nicht der Betreiber der Anlage dem Betrieb ausdrücklich zugestimmt hat,
+
+4.  
+über und in einem seitlichen Abstand von 100 Metern von Grundstücken, auf denen die Verfassungsorgane des Bundes oder der Länder oder oberste und obere Bundes- oder Landesbehörden oder diplomatische und konsularische Vertretungen sowie internationale Organisationen im Sinne des Völkerrechts ihren Sitz haben sowie von Liegenschaften von Polizei und anderen Sicherheitsbehörden, soweit nicht die Stelle dem Betrieb ausdrücklich zugestimmt hat,
+
+5.  
+über und in einem seitlichen Abstand von 100 Metern von Bundesfernstraßen, Bundeswasserstraßen und Bahnanlagen, soweit nicht die zuständige Stelle dem Betrieb ausdrücklich zugestimmt hat,
+
+6.  
+über Naturschutzgebieten im Sinne des § 23 Absatz 1 des Bundesnaturschutzgesetzes, Nationalparken im Sinne des § 24 des Bundesnaturschutzgesetzes und über Gebieten im Sinne des § 7 Absatz 1 Nummer 6 und 7 des Bundesnaturschutzgesetzes, soweit der Betrieb von unbemannten Fluggeräten in diesen Gebieten nach landesrechtlichen Vorschriften nicht abweichend geregelt ist,
+
+7.  
+über Wohngrundstücken, wenn die Startmasse des Geräts mehr als 0,25 Kilogramm beträgt oder das Gerät oder seine Ausrüstung in der Lage sind, optische, akustische oder Funksignale zu empfangen, zu übertragen oder aufzuzeichnen, es sei denn, der durch den Betrieb über dem jeweiligen Wohngrundstück in seinen Rechten betroffene Eigentümer oder sonstige Nutzungsberechtigte hat dem Überflug ausdrücklich zugestimmt,
+
+8.  
+in Flughöhen über 100 Metern über Grund, es sei denn,
+
+a)  
+der Betrieb findet auf einem Gelände im Sinne des § 21a Absatz 4 Satz 2 statt, oder,
+
+b)  
+soweit es sich nicht um einen Multicopter handelt, der Steuerer ist Inhaber einer gültigen Erlaubnis als Luftfahrzeugführer oder verfügt über eine Bescheinigung entsprechend § 21a Absatz 4 Satz 3 Nummer 2 oder 3,
+
+9.  
+unbeschadet des § 21 in Kontrollzonen, es sei denn, die Flughöhe übersteigt nicht 50 Meter über Grund,
+
+10.  
+zum Transport von Explosivstoffen und pyrotechnischen Gegenständen, von radioaktiven Stoffen, von gefährlichen Stoffen und Gemischen gemäß § 3 der Verordnung zum Schutz vor Gefahrstoffen, von Biostoffen der Risikogruppen 2 bis 4 gemäß § 3 Absatz 1 der Biostoffverordnung sowie von Gegenständen, Flüssigkeiten oder gasförmigen Substanzen, die geeignet sind, bei Abwurf oder Freisetzung Panik, Furcht oder Schrecken bei Menschen hervorzurufen,
+
+11.  
+über und in einem seitlichen Abstand von 100 Metern von der Begrenzung von Krankenhäusern.
+
+Der Betrieb erfolgt außerhalb der Sichtweite des Steuerers, wenn der Steuerer das unbemannte Fluggerät ohne besondere optische Hilfsmittel nicht mehr sehen oder seine Fluglage nicht mehr eindeutig erkennen kann. Als nicht außerhalb der Sichtweite des Steuerers gilt der Betrieb eines unbemannten Fluggeräts mithilfe eines visuellen Ausgabegeräts, insbesondere einer Videobrille, wenn dieser Betrieb in Höhen unterhalb von 30 Metern erfolgt und
+
+1.  
+die Startmasse des Fluggeräts nicht mehr als 0,25 Kilogramm beträgt, oder wenn
+
+2.  
+der Steuerer von einer anderen Person, die das Fluggerät ständig in Sichtweite hat und die den Luftraum beobachtet, unmittelbar auf auftretende Gefahren hingewiesen werden kann.
+
+(2) Der Betrieb von unbemannten Luftfahrtsystemen mit einer Startmasse von mehr als 25 Kilogramm ist verboten. Die zuständige Behörde kann zum Beispiel für einen Betrieb zu land- oder forstwirtschaftlichen Zwecken, auf Antrag Ausnahmen von dem Verbot nach Satz 1 zulassen, wenn die Voraussetzungen von § 21a Absatz 3 Satz 1 erfüllt sind. § 20 Absatz 5 und § 21a Absatz 5 und 6 gelten entsprechend.
+
+(3) In begründeten Fällen kann die zuständige Behörde Ausnahmen von den Betriebsverboten nach Absatz 1 Satz 1 Nummer 1 bis 9 zulassen, wenn die Voraussetzungen von § 21a Absatz 3 Satz 1 erfüllt sind. § 20 Absatz 5 und § 21a Absatz 5 und 6 gelten entsprechend.
+
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur evaluiert die Auswirkungen der in Absatz 1 Nummer 8 enthaltenen Höhenbegrenzung auf den Betrieb von bemannten Luftfahrzeugen in dem Höhenband zwischen 50 und 100 Metern über einen Zeitraum von zwei Jahren ab dem 7. April 2017.
+
+### § 21c Zuständige Behörde
+
+Zuständige Behörde für die Erteilung der Erlaubnis nach § 21a Absatz 1 sowie für die Erteilung der Ausnahmegenehmigung nach § 21b Absatz 2 und 3 ist die örtlich zuständige Luftfahrtbehörde des Landes.
+
+### § 21d Bescheinigungen zum Nachweis ausreichender Kenntnisse und Fertigkeiten; anerkannte Stellen
+
+(1) Die Bescheinigung nach § 21a Absatz 4 Satz 3 Nummer 2 wird von einer nach Absatz 2 anerkannten Stelle nach Bestehen einer Prüfung ausgestellt. Die Bescheinigung gilt fünf Jahre.
+
+(2) Das Luftfahrt-Bundesamt erkennt auf Antrag Stellen für die Erteilung der Bescheinigung an, wenn der Prüfungsumfang geeignet ist, die Qualifikation des Steuerers festzustellen. Außerdem müssen die Stellen zur Anerkennung durch das Luftfahrt-Bundesamt
+
+1.  
+in angemessenem Umfang über qualifiziertes Personal und über geeignete Räumlichkeiten zur Abnahme der Prüfungen verfügen und
+
+2.  
+eine Beschreibung vorlegen, in der die Prüfungs- und Bewertungsverfahren, die Maßnahmen zur Qualitätssicherung und zur Vermeidung und Aufdeckung von Täuschungsversuchen, die Organisationsstruktur und die Qualifikation des Schulungspersonals festgehalten sind.
+
+Die Anerkennung kann mit Nebenbestimmungen versehen, insbesondere mit Auflagen verbunden werden.
+
+(3) Der Bewerber muss das 16. Lebensjahr vollendet haben und hat der anerkannten Stelle vor der Prüfung folgende Unterlagen vorzulegen:
+
+1.  
+ein gültiges Identitätsdokument,
+
+2.  
+bei Minderjährigkeit die Zustimmung des gesetzlichen Vertreters,
+
+3.  
+eine Erklärung über laufende Ermittlungs- oder Strafverfahren und
+
+4.  
+ein Führungszeugnis nach § 30 Absatz 1 des Bundeszentralregistergesetzes, sofern er sich erstmals um eine Bescheinigung bewirbt.
+
+(4) Die Prüfung kann auch in einem internet-gestützten Verfahren abgelegt werden. Das Luftfahrt-Bundesamt kann dafür Ausnahmen von dem Erfordernis geeigneter Räumlichkeiten nach Absatz 2 Satz 2 Nummer 1 zulassen, wenn der Antragsteller nachweist, dass eine Täuschung über die Identität des Bewerbers ausgeschlossen ist.
+
+(5) Das Luftfahrt-Bundesamt legt die Form der Bescheinigung fest und veröffentlicht sie in den „Nachrichten für Luftfahrer“.
+
+(6) Die anerkannte Stelle führt ein Verzeichnis über die Namen und Anschriften der geprüften Bewerber. In diesem Verzeichnis sind auch Täuschungsversuche zu vermerken.
+
+(7) Das Luftfahrt-Bundesamt führt die Aufsicht über die anerkannten Stellen. Beschäftigte des Luftfahrt-Bundesamtes sind hierbei befugt, die Räumlichkeiten der Stellen zu den üblichen Betriebs- und Geschäftszeiten zu betreten und entsprechende Ermittlungen vorzunehmen. Sie sind zu Aufsichtszwecken auch befugt, einer Prüfung beizuwohnen und Einsicht in das Verzeichnis nach Absatz 6 zu nehmen.
+
+### § 21e Bescheinigungen zum Nachweis ausreichender Kenntnisse und Fertigkeiten zum Betrieb von Flugmodellen
+
+(1) Die Bescheinigung gemäß § 21a Absatz 4 Satz 3 Nummer 3 für Flugmodelle wird von einem sachkundigen Benannten eines nach den §§ 1 oder 4a der Verordnung zur Beauftragung von Luftsportverbänden beauftragten Luftsportverbandes oder eines von ihm beauftragten Vereins nach einer Einweisung erteilt. Die Bescheinigung gilt fünf Jahre. Die beauftragten Luftsportverbände legen die Vorgaben für das Verfahren der Erteilung der Bescheinigung fest.
+
+(2) Der Bewerber muss das 14. Lebensjahr vollendet haben. Bei Minderjährigkeit ist die Zustimmung des gesetzlichen Vertreters nachzuweisen.
+
+### § 21f Ausweichregeln für unbemannte Fluggeräte
+
+Steuerer von unbemannten Luftfahrtsystemen und Flugmodellen haben dafür Sorge zu tragen, dass diese bemannten Luftfahrzeugen und unbemannten Freiballonen im Sinne von Anlage 2 der Durchführungsverordnung (EU) Nr. 923/2012 ausweichen.
 
 Abschnitt 6 Flugplatzverkehr
 ----------------------------
@@ -1053,19 +1204,34 @@ einer vollziehbaren Auflage nach § 17 Absatz 2 Satz 3 zuwiderhandelt,
 ohne Erlaubnis nach § 18 Absatz 1 Satz 1 startet oder landet,
 
 13.  
-entgegen § 19 Absatz 1 oder 3 Satz 1 einen Luftraum nutzt,
+entgegen § 19 Absatz 1 einen Luftraum nutzt,
 
 14.  
-ohne Erlaubnis nach § 20 Absatz 1 einen Luftraum nutzt,
+ohne Erlaubnis nach § 20 Absatz 1 Satz 1 einen Luftraum nutzt,
 
 15.  
-entgegen § 20 Absatz 2 ein Halteseil nicht verwendet,
+entgegen § 20 Absatz 1 Satz 2 ein Halteseil nicht, nicht richtig oder nicht vollständig kenntlich macht,
 
 16.  
 einer vollziehbaren Auflage nach § 20 Absatz 4 Satz 2 zuwiderhandelt,
 
 17.  
 entgegen § 21 Absatz 1 eine Flugverkehrskontrollfreigabe nicht einholt,
+
+17a.  
+ohne Erlaubnis nach § 21a Absatz 1 ein unbemanntes Luftfahrtsystem oder Flugmodell betreibt,
+
+17b.  
+einer mit einer Erlaubnis nach § 21a Absatz 1 oder § 21b Absatz 2 Satz 2 oder Absatz 3 Satz 1 verbundenen vollziehbaren Auflage zuwiderhandelt,
+
+17c.  
+entgegen § 21a Absatz 4 Satz 1 einen dort genannten Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erbringt,
+
+17d.  
+entgegen § 21b Absatz 1 Nummer 1 bis 9 oder Absatz 2 Satz 1 ein unbemanntes Luftfahrtsystem oder Flugmodell betreibt,
+
+17e.  
+entgegen § 21f nicht dafür sorgt, dass ein unbemanntes Luftfahrtsystem oder Flugmodell ausweicht,
 
 18.  
 ohne Genehmigung nach § 22 Absatz 2 Satz 2 in eine Flugplatzverkehrszone einfliegt oder aus ihr ausfliegt,
