@@ -2,16 +2,22 @@ Handelsgesetzbuch ()
 ====================
 
 Stand  
-Zuletzt geändert durch Art. 4 G v. 31.3.2016 I 518
+Zuletzt geändert durch Art. 5 G v. 5.7.2016 I 1578
 
 Hinweis  
-Änderung durch Art. 1 G v. 10.5.2016 I 1142 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 1 G v. 11.4.2017 I 802 (Nr. 20) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Hinweis  
-Änderung durch Art. 16 Abs. 3 G v. 30.6.2016 I 1514 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 2 G v. 11.4.2017 I 802 (Nr. 20) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Hinweis  
-Änderung durch Art. 5 G v. 5.7.2016 I 1578 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 5 G v. 13.4.2017 I 866 ist berücksichtigt
+
+Hinweis  
+Änderung durch Art. 17a G v. 23.6.2017 I 1693 (Nr. 39) mWv 25.6.2017 noch nicht berücksichtigt
+
+Hinweis  
+Änderung durch Art. 24 Abs. 6 G v. 23.6.2017 I 1693 (Nr. 39) mWv 3.1.2018 noch nicht berücksichtigt
 
 ### 
 
@@ -2006,7 +2012,7 @@ das Mutterunternehmen hat sich bereit erklärt, für die von dem Tochterunterneh
 der Konzernabschluss und der Konzernlagebericht des Mutterunternehmens sind nach den Rechtsvorschriften des Staates, in dem das Mutterunternehmen seinen Sitz hat, und im Einklang mit folgenden Richtlinien aufgestellt und geprüft worden:
 
 a)  
-Richtlinie 2013/34/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Jahresabschluss, den konsolidierten Abschluss und damit verbundene Berichte von Unternehmen bestimmter Rechtsformen und zur Änderung der Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 78/660/EWG und 83/349/EWG des Rates (ABl. L 182 vom 29.6.2013, S. 19),
+Richtlinie 2013/34/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Jahresabschluss, den konsolidierten Abschluss und damit verbundene Berichte von Unternehmen bestimmter Rechtsformen und zur Änderung der Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 78/660/EWG und 83/349/EWG des Rates (ABl. L 182 vom 29.6.2013, S. 19), die zuletzt durch die Richtlinie 2014/102/EU (ABl. L 334 vom 21.11.2014, S. 86) geändert worden ist,
 
 b)  
 Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Abschlussprüfungen von Jahresabschlüssen und konsolidierten Abschlüssen, zur Änderung der Richtlinien 78/660/EWG und 83/349/EWG des Rates und zur Aufhebung der Richtlinie 84/253/EWG des Rates (ABl. L 157 vom 9.6.2006, S. 87), die durch die Richtlinie 2013/34/EU (ABl. L 182 vom 29.6.2013, S. 19) geändert worden ist;
@@ -2871,7 +2877,7 @@ d)
 die Gründe dafür, warum der beizulegende Zeitwert nicht bestimmt werden kann;
 
 20.  
-für gemäß § 340e Abs. 3 Satz 1 mit dem beizulegenden Zeitwert bewertete Finanzinstrumente
+für mit dem beizulegenden Zeitwert bewertete Finanzinstrumente
 
 a)  
 die grundlegenden Annahmen, die der Bestimmung des beizulegenden Zeitwertes mit Hilfe allgemein anerkannter Bewertungsmethoden zugrunde gelegt wurden, sowie
@@ -2982,7 +2988,7 @@ Sechster Titel Lagebericht
 
 ### § 289 Inhalt des Lageberichts
 
-(1) Im Lagebericht sind der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage der Kapitalgesellschaft so darzustellen, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird. Er hat eine ausgewogene und umfassende, dem Umfang und der Komplexität der Geschäftstätigkeit entsprechende Analyse des Geschäftsverlaufs und der Lage der Gesellschaft zu enthalten. In die Analyse sind die für die Geschäftstätigkeit bedeutsamsten finanziellen Leistungsindikatoren einzubeziehen und unter Bezugnahme auf die im Jahresabschluss ausgewiesenen Beträge und Angaben zu erläutern. Ferner ist im Lagebericht die voraussichtliche Entwicklung mit ihren wesentlichen Chancen und Risiken zu beurteilen und zu erläutern; zugrunde liegende Annahmen sind anzugeben. Die gesetzlichen Vertreter einer Kapitalgesellschaft im Sinne des § 264 Abs. 2 Satz 3 haben zu versichern, dass nach bestem Wissen im Lagebericht der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage der Kapitalgesellschaft so dargestellt sind, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird, und dass die wesentlichen Chancen und Risiken im Sinne des Satzes 4 beschrieben sind.
+(1) Im Lagebericht sind der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage der Kapitalgesellschaft so darzustellen, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird. Er hat eine ausgewogene und umfassende, dem Umfang und der Komplexität der Geschäftstätigkeit entsprechende Analyse des Geschäftsverlaufs und der Lage der Gesellschaft zu enthalten. In die Analyse sind die für die Geschäftstätigkeit bedeutsamsten finanziellen Leistungsindikatoren einzubeziehen und unter Bezugnahme auf die im Jahresabschluss ausgewiesenen Beträge und Angaben zu erläutern. Ferner ist im Lagebericht die voraussichtliche Entwicklung mit ihren wesentlichen Chancen und Risiken zu beurteilen und zu erläutern; zugrunde liegende Annahmen sind anzugeben. Die Mitglieder des vertretungsberechtigten Organs einer Kapitalgesellschaft im Sinne des § 264 Abs. 2 Satz 3 haben zu versichern, dass nach bestem Wissen im Lagebericht der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage der Kapitalgesellschaft so dargestellt sind, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird, und dass die wesentlichen Chancen und Risiken im Sinne des Satzes 4 beschrieben sind.
 
 (2) Im Lagebericht ist auch einzugehen auf:
 
@@ -2996,31 +3002,37 @@ die Preisänderungs-, Ausfall- und Liquiditätsrisiken sowie die Risiken aus Zah
 jeweils in Bezug auf die Verwendung von Finanzinstrumenten durch die Gesellschaft und sofern dies für die Beurteilung der Lage oder der voraussichtlichen Entwicklung von Belang ist;
 
 2.  
-den Bereich Forschung und Entwicklung;
+den Bereich Forschung und Entwicklung sowie
 
 3.  
-bestehende Zweigniederlassungen der Gesellschaft;
+bestehende Zweigniederlassungen der Gesellschaft.
 
 4.  
-die Grundzüge des Vergütungssystems der Gesellschaft für die in § 285 Nr. 9 genannten Gesamtbezüge, soweit es sich um eine börsennotierte Aktiengesellschaft handelt. Werden dabei auch Angaben entsprechend § 285 Nr. 9 Buchstabe a Satz 5 bis 8 gemacht, können diese im Anhang unterbleiben.
+(weggefallen)
 
 Sind im Anhang Angaben nach § 160 Absatz 1 Nummer 2 des Aktiengesetzes zu machen, ist im Lagebericht darauf zu verweisen.
 
 (3) Bei einer großen Kapitalgesellschaft (§ 267 Abs. 3) gilt Absatz 1 Satz 3 entsprechend für nichtfinanzielle Leistungsindikatoren, wie Informationen über Umwelt- und Arbeitnehmerbelange, soweit sie für das Verständnis des Geschäftsverlaufs oder der Lage von Bedeutung sind.
 
-(4) Aktiengesellschaften und Kommanditgesellschaften auf Aktien, die einen organisierten Markt im Sinne des § 2 Abs. 7 des Wertpapiererwerbs- und Übernahmegesetzes durch von ihnen ausgegebene stimmberechtigte Aktien in Anspruch nehmen, haben im Lagebericht anzugeben:
+(4) Kapitalgesellschaften im Sinn des § 264d haben im Lagebericht die wesentlichen Merkmale des internen Kontroll- und des Risikomanagementsystems im Hinblick auf den Rechnungslegungsprozess zu beschreiben.
+
+(+++ § 289: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+
+### § 289a Ergänzende Vorgaben für bestimmte Aktiengesellschaften und Kommanditgesellschaften auf Aktien
+
+(1) Aktiengesellschaften und Kommanditgesellschaften auf Aktien, die einen organisierten Markt im Sinne des § 2 Absatz 7 des Wertpapiererwerbs- und Übernahmegesetzes durch von ihnen ausgegebene stimmberechtigte Aktien in Anspruch nehmen, haben im Lagebericht außerdem anzugeben:
 
 1.  
-die Zusammensetzung des gezeichneten Kapitals; bei verschiedenen Aktiengattungen sind für jede Gattung die damit verbundenen Rechte und Pflichten und der Anteil am Gesellschaftskapital anzugeben, soweit die Angaben nicht im Anhang zu machen sind;
+die Zusammensetzung des gezeichneten Kapitals unter gesondertem Ausweis der mit jeder Gattung verbundenen Rechte und Pflichten und des Anteils am Gesellschaftskapital;
 
 2.  
 Beschränkungen, die Stimmrechte oder die Übertragung von Aktien betreffen, auch wenn sie sich aus Vereinbarungen zwischen Gesellschaftern ergeben können, soweit sie dem Vorstand der Gesellschaft bekannt sind;
 
 3.  
-direkte oder indirekte Beteiligungen am Kapital, die 10 vom Hundert der Stimmrechte überschreiten, soweit die Angaben nicht im Anhang zu machen sind;
+direkte oder indirekte Beteiligungen am Kapital, die 10 Prozent der Stimmrechte überschreiten;
 
 4.  
-die Inhaber von Aktien mit Sonderrechten, die Kontrollbefugnisse verleihen; die Sonderrechte sind zu beschreiben;
+die Inhaber von Aktien mit Sonderrechten, die Kontrollbefugnisse verleihen, und eine Beschreibung dieser Sonderrechte;
 
 5.  
 die Art der Stimmrechtskontrolle, wenn Arbeitnehmer am Kapital beteiligt sind und ihre Kontrollrechte nicht unmittelbar ausüben;
@@ -3032,18 +3044,116 @@ die gesetzlichen Vorschriften und Bestimmungen der Satzung über die Ernennung u
 die Befugnisse des Vorstands insbesondere hinsichtlich der Möglichkeit, Aktien auszugeben oder zurückzukaufen;
 
 8.  
-wesentliche Vereinbarungen der Gesellschaft, die unter der Bedingung eines Kontrollwechsels infolge eines Übernahmeangebots stehen, und die hieraus folgenden Wirkungen; die Angabe kann unterbleiben, soweit sie geeignet ist, der Gesellschaft einen erheblichen Nachteil zuzufügen; die Angabepflicht nach anderen gesetzlichen Vorschriften bleibt unberührt;
+wesentliche Vereinbarungen der Gesellschaft, die unter der Bedingung eines Kontrollwechsels infolge eines Übernahmeangebots stehen, und die hieraus folgenden Wirkungen;
 
 9.  
-Entschädigungsvereinbarungen der Gesellschaft, die für den Fall eines Übernahmeangebots mit den Mitgliedern des Vorstands oder Arbeitnehmern getroffen sind, soweit die Angaben nicht im Anhang zu machen sind.
+Entschädigungsvereinbarungen der Gesellschaft, die für den Fall eines Übernahmeangebots mit den Mitgliedern des Vorstands oder mit Arbeitnehmern getroffen sind.
 
-Sind Angaben nach Satz 1 im Anhang zu machen, ist im Lagebericht darauf zu verweisen.
+Die Angaben nach Satz 1 Nummer 1, 3 und 9 können unterbleiben, soweit sie im Anhang zu machen sind. Sind Angaben nach Satz 1 im Anhang zu machen, ist im Lagebericht darauf zu verweisen. Die Angaben nach Satz 1 Nummer 8 können unterbleiben, soweit sie geeignet sind, der Gesellschaft einen erheblichen Nachteil zuzufügen; die Angabepflicht nach anderen gesetzlichen Vorschriften bleibt unberührt.
 
-(5) Kapitalgesellschaften im Sinn des § 264d haben im Lagebericht die wesentlichen Merkmale des internen Kontroll- und des Risikomanagementsystems im Hinblick auf den Rechnungslegungsprozess zu beschreiben.
+(2) Eine börsennotierte Aktiengesellschaft hat im Lagebericht auch auf die Grundzüge des Vergütungssystems der Gesellschaft für die in § 285 Nummer 9 genannten Gesamtbezüge einzugehen. Werden dabei auch Angaben entsprechend § 285 Nummer 9 Buchstabe a Satz 5 bis 8 gemacht, können diese im Anhang unterbleiben.
 
-(+++ § 289: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+### § 289b Pflicht zur nichtfinanziellen Erklärung; Befreiungen
 
-### § 289a Erklärung zur Unternehmensführung
+(1) Eine Kapitalgesellschaft hat ihren Lagebericht um eine nichtfinanzielle Erklärung zu erweitern, wenn sie die folgenden Merkmale erfüllt:
+
+1.  
+die Kapitalgesellschaft erfüllt die Voraussetzungen des § 267 Absatz 3 Satz 1,
+
+2.  
+die Kapitalgesellschaft ist kapitalmarktorientiert im Sinne des § 264d und
+
+3.  
+die Kapitalgesellschaft hat im Jahresdurchschnitt mehr als 500 Arbeitnehmer beschäftigt.
+
+§ 267 Absatz 4 bis 5 ist entsprechend anzuwenden. Wenn die nichtfinanzielle Erklärung einen besonderen Abschnitt des Lageberichts bildet, darf die Kapitalgesellschaft auf die an anderer Stelle im Lagebericht enthaltenen nichtfinanziellen Angaben verweisen.
+
+(2) Eine Kapitalgesellschaft im Sinne des Absatzes 1 ist unbeschadet anderer Befreiungsvorschriften von der Pflicht zur Erweiterung des Lageberichts um eine nichtfinanzielle Erklärung befreit, wenn
+
+1.  
+die Kapitalgesellschaft in den Konzernlagebericht eines Mutterunternehmens einbezogen ist und
+
+2.  
+der Konzernlagebericht nach Nummer 1 nach Maßgabe des nationalen Rechts eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum im Einklang mit der Richtlinie 2013/34/EU aufgestellt wird und eine nichtfinanzielle Konzernerklärung enthält.
+
+Satz 1 gilt entsprechend, wenn das Mutterunternehmen im Sinne von Satz 1 einen gesonderten nichtfinanziellen Konzernbericht nach § 315b Absatz 3 oder nach Maßgabe des nationalen Rechts eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum im Einklang mit der Richtlinie 2013/34/EU erstellt und öffentlich zugänglich macht. Ist eine Kapitalgesellschaft nach Satz 1 oder 2 von der Pflicht zur Erstellung einer nichtfinanziellen Erklärung befreit, hat sie dies in ihrem Lagebericht mit einer Erläuterung anzugeben, welches Mutterunternehmen den Konzernlagebericht oder den gesonderten nichtfinanziellen Konzernbericht öffentlich zugänglich macht und wo der Bericht in deutscher oder englischer Sprache offengelegt oder veröffentlicht ist.
+
+(3) Eine Kapitalgesellschaft im Sinne des Absatzes 1 ist auch dann von der Pflicht zur Erweiterung des Lageberichts um eine nichtfinanzielle Erklärung befreit, wenn die Kapitalgesellschaft für dasselbe Geschäftsjahr einen gesonderten nichtfinanziellen Bericht außerhalb des Lageberichts erstellt und folgende Voraussetzungen erfüllt sind:
+
+1.  
+der gesonderte nichtfinanzielle Bericht erfüllt zumindest die inhaltlichen Vorgaben nach § 289c und
+
+2.  
+die Kapitalgesellschaft macht den gesonderten nichtfinanziellen Bericht öffentlich zugänglich durch
+
+a)  
+Offenlegung zusammen mit dem Lagebericht nach § 325 oder
+
+b)  
+Veröffentlichung auf der Internetseite der Kapitalgesellschaft spätestens vier Monate nach dem Abschlussstichtag und mindestens für zehn Jahre, sofern der Lagebericht auf diese Veröffentlichung unter Angabe der Internetseite Bezug nimmt.
+
+Absatz 1 Satz 3 und die §§ 289d und 289e sind auf den gesonderten nichtfinanziellen Bericht entsprechend anzuwenden.
+
+### § 289c Inhalt der nichtfinanziellen Erklärung
+
+(1) In der nichtfinanziellen Erklärung im Sinne des § 289b ist das Geschäftsmodell der Kapitalgesellschaft kurz zu beschreiben.
+
+(2) Die nichtfinanzielle Erklärung bezieht sich darüber hinaus zumindest auf folgende Aspekte:
+
+1.  
+Umweltbelange, wobei sich die Angaben beispielsweise auf Treibhausgasemissionen, den Wasserverbrauch, die Luftverschmutzung, die Nutzung von erneuerbaren und nicht erneuerbaren Energien oder den Schutz der biologischen Vielfalt beziehen können,
+
+2.  
+Arbeitnehmerbelange, wobei sich die Angaben beispielsweise auf die Maßnahmen, die zur Gewährleistung der Geschlechtergleichstellung ergriffen wurden, die Arbeitsbedingungen, die Umsetzung der grundlegenden Übereinkommen der Internationalen Arbeitsorganisation, die Achtung der Rechte der Arbeitnehmerinnen und Arbeitnehmer, informiert und konsultiert zu werden, den sozialen Dialog, die Achtung der Rechte der Gewerkschaften, den Gesundheitsschutz oder die Sicherheit am Arbeitsplatz beziehen können,
+
+3.  
+Sozialbelange, wobei sich die Angaben beispielsweise auf den Dialog auf kommunaler oder regionaler Ebene oder auf die zur Sicherstellung des Schutzes und der Entwicklung lokaler Gemeinschaften ergriffenen Maßnahmen beziehen können,
+
+4.  
+die Achtung der Menschenrechte, wobei sich die Angaben beispielsweise auf die Vermeidung von Menschenrechtsverletzungen beziehen können, und
+
+5.  
+die Bekämpfung von Korruption und Bestechung, wobei sich die Angaben beispielsweise auf die bestehenden Instrumente zur Bekämpfung von Korruption und Bestechung beziehen können.
+
+(3) Zu den in Absatz 2 genannten Aspekten sind in der nichtfinanziellen Erklärung jeweils diejenigen Angaben zu machen, die für das Verständnis des Geschäftsverlaufs, des Geschäftsergebnisses, der Lage der Kapitalgesellschaft sowie der Auswirkungen ihrer Tätigkeit auf die in Absatz 2 genannten Aspekte erforderlich sind, einschließlich
+
+1.  
+einer Beschreibung der von der Kapitalgesellschaft verfolgten Konzepte, einschließlich der von der Kapitalgesellschaft angewandten Due-Diligence-Prozesse,
+
+2.  
+der Ergebnisse der Konzepte nach Nummer 1,
+
+3.  
+der wesentlichen Risiken, die mit der eigenen Geschäftstätigkeit der Kapitalgesellschaft verknüpft sind und die sehr wahrscheinlich schwerwiegende negative Auswirkungen auf die in Absatz 2 genannten Aspekte haben oder haben werden, sowie die Handhabung dieser Risiken durch die Kapitalgesellschaft,
+
+4.  
+der wesentlichen Risiken, die mit den Geschäftsbeziehungen der Kapitalgesellschaft, ihren Produkten und Dienstleistungen verknüpft sind und die sehr wahrscheinlich schwerwiegende negative Auswirkungen auf die in Absatz 2 genannten Aspekte haben oder haben werden, soweit die Angaben von Bedeutung sind und die Berichterstattung über diese Risiken verhältnismäßig ist, sowie die Handhabung dieser Risiken durch die Kapitalgesellschaft,
+
+5.  
+der bedeutsamsten nichtfinanziellen Leistungsindikatoren, die für die Geschäftstätigkeit der Kapitalgesellschaft von Bedeutung sind,
+
+6.  
+soweit es für das Verständnis erforderlich ist, Hinweisen auf im Jahresabschluss ausgewiesene Beträge und zusätzliche Erläuterungen dazu.
+
+(4) Wenn die Kapitalgesellschaft in Bezug auf einen oder mehrere der in Absatz 2 genannten Aspekte kein Konzept verfolgt, hat sie dies anstelle der auf den jeweiligen Aspekt bezogenen Angaben nach Absatz 3 Nummer 1 und 2 in der nichtfinanziellen Erklärung klar und begründet zu erläutern.
+
+### § 289d Nutzung von Rahmenwerken
+
+Die Kapitalgesellschaft kann für die Erstellung der nichtfinanziellen Erklärung nationale, europäische oder internationale Rahmenwerke nutzen. In der Erklärung ist anzugeben, ob die Kapitalgesellschaft für die Erstellung der nichtfinanziellen Erklärung ein Rahmenwerk genutzt hat und, wenn dies der Fall ist, welches Rahmenwerk genutzt wurde, sowie andernfalls, warum kein Rahmenwerk genutzt wurde.
+
+### § 289e Weglassen nachteiliger Angaben
+
+(1) Die Kapitalgesellschaft muss in die nichtfinanzielle Erklärung ausnahmsweise keine Angaben zu künftigen Entwicklungen oder Belangen, über die Verhandlungen geführt werden, aufnehmen, wenn
+
+1.  
+die Angaben nach vernünftiger kaufmännischer Beurteilung der Mitglieder des vertretungsberechtigten Organs der Kapitalgesellschaft geeignet sind, der Kapitalgesellschaft einen erheblichen Nachteil zuzufügen, und
+
+2.  
+das Weglassen der Angaben ein den tatsächlichen Verhältnissen entsprechendes und ausgewogenes Verständnis des Geschäftsverlaufs, des Geschäftsergebnisses, der Lage der Kapitalgesellschaft und der Auswirkungen ihrer Tätigkeit nicht verhindert.
+
+(2) Macht eine Kapitalgesellschaft von Absatz 1 Gebrauch und entfallen die Gründe für die Nichtaufnahme der Angaben nach der Veröffentlichung der nichtfinanziellen Erklärung, sind die Angaben in die darauf folgende nichtfinanzielle Erklärung aufzunehmen.
+
+### § 289f Erklärung zur Unternehmensführung
 
 (1) Börsennotierte Aktiengesellschaften sowie Aktiengesellschaften, die ausschließlich andere Wertpapiere als Aktien zum Handel an einem organisierten Markt im Sinn des § 2 Abs. 5 des Wertpapierhandelsgesetzes ausgegeben haben und deren ausgegebene Aktien auf eigene Veranlassung über ein multilaterales Handelssystem im Sinn des § 2 Abs. 3 Satz 1 Nr. 8 des Wertpapierhandelsgesetzes gehandelt werden, haben eine Erklärung zur Unternehmensführung in ihren Lagebericht aufzunehmen, die dort einen gesonderten Abschnitt bildet. Sie kann auch auf der Internetseite der Gesellschaft öffentlich zugänglich gemacht werden. In diesem Fall ist in den Lagebericht eine Bezugnahme aufzunehmen, welche die Angabe der Internetseite enthält.
 
@@ -3068,11 +3178,16 @@ a)
 börsennotierte Aktiengesellschaften, die auf Grund von § 96 Absatz 2 und 3 des Aktiengesetzes Mindestanteile einzuhalten haben oder
 
 b)  
-börsennotierte Europäische Gesellschaften (SE), die auf Grund von § 17 Absatz 2 oder § 24 Absatz 3 des SE-Ausführungsgesetzes Mindestanteile einzuhalten haben.
+börsennotierte Europäische Gesellschaften (SE), die auf Grund von § 17 Absatz 2 oder § 24 Absatz 3 des SE-Ausführungsgesetzes Mindestanteile einzuhalten haben;
+
+6.  
+bei Aktiengesellschaften im Sinne des Absatzes 1, die nach § 267 Absatz 3 Satz 1 und Absatz 4 bis 5 große Kapitalgesellschaften sind, eine Beschreibung des Diversitätskonzepts, das im Hinblick auf die Zusammensetzung des vertretungsberechtigten Organs und des Aufsichtsrats in Bezug auf Aspekte wie beispielsweise Alter, Geschlecht, Bildungs- oder Berufshintergrund verfolgt wird, sowie der Ziele dieses Diversitätskonzepts, der Art und Weise seiner Umsetzung und der im Geschäftsjahr erreichten Ergebnisse.
 
 (3) Auf börsennotierte Kommanditgesellschaften auf Aktien sind die Absätze 1 und 2 entsprechend anzuwenden.
 
 (4) Andere Unternehmen, deren Vertretungsorgan und Aufsichtsrat nach § 36 oder § 52 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung oder nach § 76 Absatz 4 des Aktiengesetzes, auch in Verbindung mit § 34 Satz 2 und § 35 Absatz 3 Satz 1 des Versicherungsaufsichtsgesetzes, oder nach § 111 Absatz 5 des Aktiengesetzes, auch in Verbindung mit § 35 Absatz 3 Satz 1 des Versicherungsaufsichtsgesetzes, verpflichtet sind, Zielgrößen für den Frauenanteil und Fristen für deren Erreichung festzulegen, haben in ihrem Lagebericht als gesonderten Abschnitt eine Erklärung zur Unternehmensführung mit den Festlegungen und Angaben nach Absatz 2 Nummer 4 aufzunehmen; Absatz 1 Satz 2 und 3 gilt entsprechend. Gesellschaften, die nicht zur Offenlegung eines Lageberichts verpflichtet sind, haben eine Erklärung mit den Festlegungen und Angaben nach Absatz 2 Nummer 4 zu erstellen und gemäß Absatz 1 Satz 2 zu veröffentlichen. Sie können diese Pflicht auch durch Offenlegung eines unter Berücksichtigung von Satz 1 erstellten Lageberichts erfüllen.
+
+(5) Wenn eine Gesellschaft nach Absatz 2 Nummer 6, auch in Verbindung mit Absatz 3, kein Diversitätskonzept verfolgt, hat sie dies in der Erklärung zur Unternehmensführung zu erläutern.
 
 Zweiter Unterabschnitt Konzernabschluß und Konzernlagebericht
 -------------------------------------------------------------
@@ -3124,7 +3239,7 @@ mit Anteilen verbunden sind, die als Sicherheit gehalten werden, sofern diese Re
 das zu befreiende Mutterunternehmen und seine Tochterunternehmen in den befreienden Konzernabschluß unbeschadet des § 296 einbezogen worden sind,
 
 2.  
-der befreiende Konzernabschluss nach dem auf das Mutterunternehmen anwendbaren Recht im Einklang mit der Richtlinie 2013/34/EU oder im Einklang mit den in § 315a Absatz 1 bezeichneten internationalen Rechnungslegungsstandards aufgestellt und im Einklang mit der Richtlinie 2006/43/EG geprüft worden ist,
+der befreiende Konzernabschluss nach dem auf das Mutterunternehmen anwendbaren Recht im Einklang mit der Richtlinie 2013/34/EU oder im Einklang mit den in § 315e Absatz 1 bezeichneten internationalen Rechnungslegungsstandards aufgestellt und im Einklang mit der Richtlinie 2006/43/EG geprüft worden ist,
 
 3.  
 der befreiende Konzernlagebericht nach dem auf das Mutterunternehmen anwendbaren Recht im Einklang mit der Richtlinie 2013/34/EU aufgestellt und im Einklang mit der Richtlinie 2006/43/EG geprüft worden ist,
@@ -3164,7 +3279,7 @@ a)
 nach Maßgabe des Rechts eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum im Einklang mit der Richtlinie 2013/34/EU,
 
 b)  
-im Einklang mit den in § 315a Absatz 1 bezeichneten internationalen Rechnungslegungsstandards,
+im Einklang mit den in § 315e Absatz 1 bezeichneten internationalen Rechnungslegungsstandards,
 
 c)  
 derart, dass er einem nach den in Buchstabe a bezeichneten Vorgaben erstellten Konzernabschluss gleichwertig ist, oder
@@ -3248,7 +3363,7 @@ Zweiter Titel Konsolidierungskreis
 
 (2) Hat sich die Zusammensetzung der in den Konzernabschluß einbezogenen Unternehmen im Laufe des Geschäftsjahrs wesentlich geändert, so sind in den Konzernabschluß Angaben aufzunehmen, die es ermöglichen, die aufeinanderfolgenden Konzernabschlüsse sinnvoll zu vergleichen.
 
-(3) Die Tochterunternehmen haben dem Mutterunternehmen ihre Jahresabschlüsse, Einzelabschlüsse nach § 325 Abs. 2a, Lageberichte, Konzernabschlüsse, Konzernlageberichte und, wenn eine Abschlussprüfung stattgefunden hat, die Prüfungsberichte sowie, wenn ein Zwischenabschluß aufzustellen ist, einen auf den Stichtag des Konzernabschlusses aufgestellten Abschluß unverzüglich einzureichen. Das Mutterunternehmen kann von jedem Tochterunternehmen alle Aufklärungen und Nachweise verlangen, welche die Aufstellung des Konzernabschlusses und des Konzernlageberichts erfordert.
+(3) Die Tochterunternehmen haben dem Mutterunternehmen ihre Jahresabschlüsse, Einzelabschlüsse nach § 325 Abs. 2a, Lageberichte, gesonderten nichtfinanziellen Berichte, Konzernabschlüsse, Konzernlageberichte, gesonderten nichtfinanziellen Konzernberichte und, wenn eine Abschlussprüfung stattgefunden hat, die Prüfungsberichte sowie, wenn ein Zwischenabschluß aufzustellen ist, einen auf den Stichtag des Konzernabschlusses aufgestellten Abschluß unverzüglich einzureichen. Das Mutterunternehmen kann von jedem Tochterunternehmen alle Aufklärungen und Nachweise verlangen, welche die Aufstellung des Konzernabschlusses, des Konzernlageberichts und des gesonderten nichtfinanziellen Konzernberichts erfordert.
 
 (+++ § 294: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
@@ -3579,7 +3694,7 @@ d)
 die Gründe dafür, warum der beizulegende Zeitwert nicht bestimmt werden kann;
 
 12.  
-für gemäß § 340e Abs. 3 Satz 1 mit dem beizulegenden Zeitwert bewertete Finanzinstrumente
+für mit dem beizulegenden Zeitwert bewertete Finanzinstrumente
 
 a)  
 die grundlegenden Annahmen, die der Bestimmung des beizulegenden Zeitwertes mit Hilfe allgemein anerkannter Bewertungsmethoden zugrunde gelegt wurden, sowie
@@ -3653,7 +3768,7 @@ Neunter Titel Konzernlagebericht
 
 ### § 315 Inhalt des Konzernlageberichts
 
-(1) Im Konzernlagebericht sind der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage des Konzerns so darzustellen, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird. Er hat eine ausgewogene und umfassende, dem Umfang und der Komplexität der Geschäftstätigkeit entsprechende Analyse des Geschäftsverlaufs und der Lage des Konzerns zu enthalten. In die Analyse sind die für die Geschäftstätigkeit bedeutsamsten finanziellen Leistungsindikatoren einzubeziehen und unter Bezugnahme auf die im Konzernabschluss ausgewiesenen Beträge und Angaben zu erläutern. Satz 3 gilt entsprechend für nichtfinanzielle Leistungsindikatoren, wie Informationen über Umwelt- und Arbeitnehmerbelange, soweit sie für das Verständnis des Geschäftsverlaufs oder der Lage von Bedeutung sind. Ferner ist im Konzernlagebericht die voraussichtliche Entwicklung mit ihren wesentlichen Chancen und Risiken zu beurteilen und zu erläutern; zugrunde liegende Annahmen sind anzugeben. Die gesetzlichen Vertreter eines Mutterunternehmens im Sinne des § 297 Abs. 2 Satz 4 haben zu versichern, dass nach bestem Wissen im Konzernlagebericht der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage des Konzerns so dargestellt sind, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird, und dass die wesentlichen Chancen und Risiken im Sinne des Satzes 5 beschrieben sind.
+(1) Im Konzernlagebericht sind der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage des Konzerns so darzustellen, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird. Er hat eine ausgewogene und umfassende, dem Umfang und der Komplexität der Geschäftstätigkeit entsprechende Analyse des Geschäftsverlaufs und der Lage des Konzerns zu enthalten. In die Analyse sind die für die Geschäftstätigkeit bedeutsamsten finanziellen Leistungsindikatoren einzubeziehen und unter Bezugnahme auf die im Konzernabschluss ausgewiesenen Beträge und Angaben zu erläutern. Ferner ist im Konzernlagebericht die voraussichtliche Entwicklung mit ihren wesentlichen Chancen und Risiken zu beurteilen und zu erläutern; zugrunde liegende Annahmen sind anzugeben. Die Mitglieder des vertretungsberechtigten Organs eines Mutterunternehmens im Sinne des § 297 Abs. 2 Satz 4 haben zu versichern, dass nach bestem Wissen im Konzernlagebericht der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage des Konzerns so dargestellt sind, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird, und dass die wesentlichen Chancen und Risiken im Sinne des Satzes 4 beschrieben sind.
 
 (2) Im Konzernlagebericht ist auch einzugehen auf:
 
@@ -3667,32 +3782,36 @@ die Preisänderungs-, Ausfall- und Liquiditätsrisiken sowie die Risiken aus Zah
 jeweils in Bezug auf die Verwendung von Finanzinstrumenten durch den Konzern und sofern dies für die Beurteilung der Lage oder der voraussichtlichen Entwicklung von Belang ist;
 
 2.  
-den Bereich Forschung und Entwicklung des Konzerns;
+den Bereich Forschung und Entwicklung des Konzerns und
 
 3.  
-für das Verständnis der Lage des Konzerns wesentliche Zweigniederlassungen der insgesamt in den Konzernabschluss einbezogenen Unternehmen;
+für das Verständnis der Lage des Konzerns wesentliche Zweigniederlassungen der insgesamt in den Konzernabschluss einbezogenen Unternehmen.
 
-4.  
-die Grundzüge des Vergütungssystems für die in § 314 Abs. 1 Nr. 6 genannten Gesamtbezüge, soweit das Mutterunternehmen eine börsennotierte Aktiengesellschaft ist. Werden dabei auch Angaben entsprechend § 314 Abs. 1 Nr. 6 Buchstabe a Satz 5 bis 8 gemacht, können diese im Konzernanhang unterbleiben;
+Ist das Mutterunternehmen eine Aktiengesellschaft, hat es im Konzernlagebericht auf die nach § 160 Absatz 1 Nummer 2 des Aktiengesetzes im Anhang zu machenden Angaben zu verweisen.
 
-5.  
-die wesentlichen Merkmale des internen Kontroll- und des Risikomanagementsystems im Hinblick auf den Konzernrechnungslegungsprozess, sofern eines der in den Konzernabschluss einbezogenen Tochterunternehmen oder das Mutterunternehmen kapitalmarktorientiert im Sinn des § 264d ist.
+(3) Absatz 1 Satz 3 gilt entsprechend für nichtfinanzielle Leistungsindikatoren, wie Informationen über Umwelt- und Arbeitnehmerbelange, soweit sie für das Verständnis des Geschäftsverlaufs oder der Lage des Konzerns von Bedeutung sind.
 
-(3) § 298 Absatz 2 über die Zusammenfassung von Konzernanhang und Anhang ist entsprechend anzuwenden.
+(4) Ist das Mutterunternehmen oder ein in den Konzernabschluss einbezogenes Tochterunternehmen kapitalmarktorientiert im Sinne des § 264d, ist im Konzernlagebericht auch auf die wesentlichen Merkmale des internen Kontroll- und Risikomanagementsystems im Hinblick auf den Konzernrechnungslegungsprozess einzugehen.
 
-(4) Mutterunternehmen, die einen organisierten Markt im Sinne des § 2 Abs. 7 des Wertpapiererwerbs- und Übernahmegesetzes durch von ihnen ausgegebene stimmberechtigte Aktien in Anspruch nehmen, haben im Konzernlagebericht anzugeben:
+(5) § 298 Absatz 2 über die Zusammenfassung von Konzernanhang und Anhang ist entsprechend anzuwenden.
+
+(+++ § 315: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+
+### § 315a Ergänzende Vorschriften für bestimmte Aktiengesellschaften und Kommanditgesellschaften auf Aktien
+
+(1) Mutterunternehmen (§ 290), die einen organisierten Markt im Sinne des § 2 Absatz 7 des Wertpapiererwerbs- und Übernahmegesetzes durch von ihnen ausgegebene stimmberechtigte Aktien in Anspruch nehmen, haben im Konzernlagebericht außerdem anzugeben:
 
 1.  
-die Zusammensetzung des gezeichneten Kapitals; bei verschiedenen Aktiengattungen sind für jede Gattung die damit verbundenen Rechte und Pflichten und der Anteil am Gesellschaftskapital anzugeben, soweit die Angaben nicht im Konzernanhang zu machen sind;
+die Zusammensetzung des gezeichneten Kapitals unter gesondertem Ausweis der mit jeder Gattung verbundenen Rechte und Pflichten und des Anteils am Gesellschaftskapital;
 
 2.  
-Beschränkungen, die Stimmrechte oder die Übertragung von Aktien betreffen, auch wenn sie sich aus Vereinbarungen zwischen Gesellschaftern ergeben können, soweit sie dem Vorstand des Mutterunternehmens bekannt sind;
+Beschränkungen, die Stimmrechte oder die Übertragung von Aktien betreffen, auch wenn sie sich aus Vereinbarungen zwischen Gesellschaftern ergeben können, soweit die Beschränkungen dem Vorstand der Gesellschaft bekannt sind;
 
 3.  
-direkte oder indirekte Beteiligungen am Kapital, die 10 vom Hundert der Stimmrechte überschreiten, soweit die Angaben nicht im Konzernanhang zu machen sind;
+direkte oder indirekte Beteiligungen am Kapital, die 10 Prozent der Stimmrechte überschreiten;
 
 4.  
-die Inhaber von Aktien mit Sonderrechten, die Kontrollbefugnisse verleihen; die Sonderrechte sind zu beschreiben;
+die Inhaber von Aktien mit Sonderrechten, die Kontrollbefugnisse verleihen, und eine Beschreibung dieser Sonderrechte;
 
 5.  
 die Art der Stimmrechtskontrolle, wenn Arbeitnehmer am Kapital beteiligt sind und ihre Kontrollrechte nicht unmittelbar ausüben;
@@ -3704,23 +3823,77 @@ die gesetzlichen Vorschriften und Bestimmungen der Satzung über die Ernennung u
 die Befugnisse des Vorstands insbesondere hinsichtlich der Möglichkeit, Aktien auszugeben oder zurückzukaufen;
 
 8.  
-wesentliche Vereinbarungen des Mutterunternehmens, die unter der Bedingung eines Kontrollwechsels infolge eines Übernahmeangebots stehen, und die hieraus folgenden Wirkungen; die Angabe kann unterbleiben, soweit sie geeignet ist, dem Mutterunternehmen einen erheblichen Nachteil zuzufügen; die Angabepflicht nach anderen gesetzlichen Vorschriften bleibt unberührt;
+wesentliche Vereinbarungen des Mutterunternehmens, die unter der Bedingung eines Kontrollwechsels infolge eines Übernahmeangebots stehen, und die hieraus folgenden Wirkungen;
 
 9.  
-Entschädigungsvereinbarungen des Mutterunternehmens, die für den Fall eines Übernahmeangebots mit den Mitgliedern des Vorstands oder Arbeitnehmern getroffen sind, soweit die Angaben nicht im Konzernanhang zu machen sind.
+Entschädigungsvereinbarungen des Mutterunternehmens, die für den Fall eines Übernahmeangebots mit den Mitgliedern des Vorstands oder mit Arbeitnehmern getroffen sind.
 
-Sind Angaben nach Satz 1 im Konzernanhang zu machen, ist im Konzernlagebericht darauf zu verweisen.
+Die Angaben nach Satz 1 Nummer 1, 3 und 9 können unterbleiben, soweit sie im Konzernanhang zu machen sind. Sind Angaben nach Satz 1 im Konzernanhang zu machen, ist im Konzernlagebericht darauf zu verweisen. Die Angaben nach Satz 1 Nummer 8 können unterbleiben, soweit sie geeignet sind, dem Mutterunternehmen einen erheblichen Nachteil zuzufügen; die Angabepflicht nach anderen gesetzlichen Vorschriften bleibt unberührt.
 
-(5) Ein Mutterunternehmen im Sinne des § 289a Absatz 1 hat für den Konzern eine Erklärung zur Unternehmensführung zu erstellen und als gesonderten Abschnitt in den Konzernlagebericht aufzunehmen. § 289a ist entsprechend anzuwenden.
+(2) Ist das Mutterunternehmen eine börsennotierte Aktiengesellschaft, ist im Konzernlagebericht auch auf die Grundzüge des Vergütungssystems für die in § 314 Absatz 1 Nummer 6 genannten Gesamtbezüge einzugehen. Werden dabei auch Angaben entsprechend § 314 Absatz 1 Nummer 6 Buchstabe a Satz 5 bis 8 gemacht, können diese im Konzernanhang unterbleiben.
 
-(+++ § 315: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+### § 315b Pflicht zur nichtfinanziellen Konzernerklärung; Befreiungen
+
+(1) Eine Kapitalgesellschaft, die Mutterunternehmen (§ 290) ist, hat ihren Konzernlagebericht um eine nichtfinanzielle Konzernerklärung zu erweitern, wenn die folgenden Merkmale erfüllt sind:
+
+1.  
+die Kapitalgesellschaft ist kapitalmarktorientiert im Sinne des § 264d,
+
+2.  
+für die in den Konzernabschluss einzubeziehenden Unternehmen gilt:
+
+a)  
+sie erfüllen die in § 293 Absatz 1 Satz 1 Nummer 1 oder 2 geregelten Voraussetzungen für eine größenabhängige Befreiung nicht und
+
+b)  
+bei ihnen sind insgesamt im Jahresdurchschnitt mehr als 500 Arbeitnehmer beschäftigt.
+
+§ 267 Absatz 4 bis 5 sowie § 298 Absatz 2 sind entsprechend anzuwenden. Wenn die nichtfinanzielle Konzernerklärung einen besonderen Abschnitt des Konzernlageberichts bildet, darf die Kapitalgesellschaft auf die an anderer Stelle im Konzernlagebericht enthaltenen nichtfinanziellen Angaben verweisen.
+
+(2) Ein Mutterunternehmen im Sinne des Absatzes 1 ist unbeschadet anderer Befreiungsvorschriften von der Pflicht zur Erweiterung des Konzernlageberichts um eine nichtfinanzielle Konzernerklärung befreit, wenn
+
+1.  
+das Mutterunternehmen zugleich ein Tochterunternehmen ist, das in den Konzernlagebericht eines anderen Mutterunternehmens einbezogen ist, und
+
+2.  
+der Konzernlagebericht nach Nummer 1 nach Maßgabe des nationalen Rechts eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum im Einklang mit der Richtlinie 2013/34/EU aufgestellt wird und eine nichtfinanzielle Konzernerklärung enthält.
+
+Satz 1 gilt entsprechend, wenn das andere Mutterunternehmen im Sinne des Satzes 1 einen gesonderten nichtfinanziellen Konzernbericht nach Absatz 3 oder nach Maßgabe des nationalen Rechts eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum im Einklang mit der Richtlinie 2013/34/EU erstellt und öffentlich zugänglich macht. Ist ein Mutterunternehmen nach Satz 1 oder 2 von der Pflicht zur Erstellung einer nichtfinanziellen Konzernerklärung befreit, hat es dies in seinem Konzernlagebericht mit der Erläuterung anzugeben, welches andere Mutterunternehmen den Konzernlagebericht oder den gesonderten nichtfinanziellen Konzernbericht öffentlich zugänglich macht und wo der Bericht in deutscher oder englischer Sprache offengelegt oder veröffentlicht ist.
+
+(3) Ein Mutterunternehmen im Sinne des Absatzes 1 ist auch dann von der Pflicht zur Erweiterung des Konzernlageberichts um eine nichtfinanzielle Konzernerklärung befreit, wenn das Mutterunternehmen für dasselbe Geschäftsjahr einen gesonderten nichtfinanziellen Konzernbericht außerhalb des Konzernlageberichts erstellt und folgende Voraussetzungen erfüllt:
+
+1.  
+der gesonderte nichtfinanzielle Konzernbericht erfüllt zumindest die inhaltlichen Vorgaben nach § 315c in Verbindung mit § 289c und
+
+2.  
+das Mutterunternehmen macht den gesonderten nichtfinanziellen Konzernbericht öffentlich zugänglich durch
+
+a)  
+Offenlegung zusammen mit dem Konzernlagebericht nach § 325 oder
+
+b)  
+Veröffentlichung auf der Internetseite des Mutterunternehmens spätestens vier Monate nach dem Abschlussstichtag und mindestens für zehn Jahre, sofern der Konzernlagebericht auf diese Veröffentlichung unter Angabe der Internetseite Bezug nimmt.
+
+Absatz 1 Satz 3, die §§ 289d und 289e sowie § 298 Absatz 2 sind auf den gesonderten nichtfinanziellen Konzernbericht entsprechend anzuwenden.
+
+### § 315c Inhalt der nichtfinanziellen Konzernerklärung
+
+(1) Auf den Inhalt der nichtfinanziellen Konzernerklärung ist § 289c entsprechend anzuwenden.
+
+(2) § 289c Absatz 3 gilt mit der Maßgabe, dass diejenigen Angaben zu machen sind, die für das Verständnis des Geschäftsverlaufs, des Geschäftsergebnisses, der Lage des Konzerns sowie der Auswirkungen seiner Tätigkeit auf die in § 289c Absatz 2 genannten Aspekte erforderlich sind.
+
+(3) Die §§ 289d und 289e sind entsprechend anzuwenden.
+
+### § 315d Konzernerklärung zur Unternehmensführung
+
+Ein Mutterunternehmen, das eine Gesellschaft im Sinne des § 289f Absatz 1 oder Absatz 3 ist, hat für den Konzern eine Erklärung zur Unternehmensführung zu erstellen und als gesonderten Abschnitt in den Konzernlagebericht aufzunehmen. § 289f ist entsprechend anzuwenden.
 
 Zehnter Titel Konzernabschluss nach internationalen Rechnungslegungsstandards
 -----------------------------------------------------------------------------
 
 ### 
 
-### § 315a
+### § 315e
 
 (1) Ist ein Mutterunternehmen, das nach den Vorschriften des Ersten Titels einen Konzernabschluss aufzustellen hat, nach Artikel 4 der Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des Rates vom 19. Juli 2002 in der jeweils geltenden Fassung verpflichtet, die nach den Artikeln 2, 3 und 6 der genannten Verordnung übernommenen internationalen Rechnungslegungsstandards anzuwenden, so sind von den Vorschriften des Zweiten bis Achten Titels nur § 294 Abs. 3, § 297 Absatz 1a, 2 Satz 4, § 298 Abs. 1, dieser jedoch nur in Verbindung mit den §§ 244 und 245, ferner § 313 Abs. 2 und 3, § 314 Abs. 1 Nr. 4, 6, 8 und 9, Absatz 3 sowie die Bestimmungen des Neunten Titels und die Vorschriften außerhalb dieses Unterabschnitts, die den Konzernabschluss oder den Konzernlagebericht betreffen, entsprechend anzuwenden.
 
@@ -3747,7 +3920,7 @@ Dritter Unterabschnitt Prüfung
 
 (1) In die Prüfung des Jahresabschlusses ist die Buchführung einzubeziehen. Die Prüfung des Jahresabschlusses und des Konzernabschlusses hat sich darauf zu erstrecken, ob die gesetzlichen Vorschriften und sie ergänzende Bestimmungen des Gesellschaftsvertrags oder der Satzung beachtet worden sind. Die Prüfung ist so anzulegen, daß Unrichtigkeiten und Verstöße gegen die in Satz 2 aufgeführten Bestimmungen, die sich auf die Darstellung des sich nach § 264 Abs. 2 ergebenden Bildes der Vermögens-, Finanz- und Ertragslage des Unternehmens wesentlich auswirken, bei gewissenhafter Berufsausübung erkannt werden.
 
-(2) Der Lagebericht und der Konzernlagebericht sind darauf zu prüfen, ob der Lagebericht mit dem Jahresabschluß, gegebenenfalls auch mit dem Einzelabschluss nach § 325 Abs. 2a, und der Konzernlagebericht mit dem Konzernabschluß sowie mit den bei der Prüfung gewonnenen Erkenntnissen des Abschlußprüfers in Einklang stehen und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage des Unternehmens und der Konzernlagebericht insgesamt ein zutreffendes Bild von der Lage des Konzerns vermittelt. Dabei ist auch zu prüfen, ob die Chancen und Risiken der künftigen Entwicklung zutreffend dargestellt sind. Die Prüfung des Lageberichts und des Konzernlageberichts hat sich auch darauf zu erstrecken, ob die gesetzlichen Vorschriften zur Aufstellung des Lage- oder Konzernlageberichts beachtet worden sind. Die Angaben nach § 289a Absatz 2 und § 315 Absatz 5 sind nicht in die Prüfung einzubeziehen; insoweit ist im Rahmen der Prüfung lediglich festzustellen, ob diese Angaben gemacht wurden.
+(2) Der Lagebericht und der Konzernlagebericht sind darauf zu prüfen, ob der Lagebericht mit dem Jahresabschluß, gegebenenfalls auch mit dem Einzelabschluss nach § 325 Abs. 2a, und der Konzernlagebericht mit dem Konzernabschluß sowie mit den bei der Prüfung gewonnenen Erkenntnissen des Abschlußprüfers in Einklang stehen und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage des Unternehmens und der Konzernlagebericht insgesamt ein zutreffendes Bild von der Lage des Konzerns vermittelt. Dabei ist auch zu prüfen, ob die Chancen und Risiken der künftigen Entwicklung zutreffend dargestellt sind. Die Prüfung des Lageberichts und des Konzernlageberichts hat sich auch darauf zu erstrecken, ob die gesetzlichen Vorschriften zur Aufstellung des Lage- oder Konzernlageberichts beachtet worden sind. Im Hinblick auf die Vorgaben nach den §§ 289b bis 289e und den §§ 315b und 315c ist nur zu prüfen, ob die nichtfinanzielle Erklärung oder der gesonderte nichtfinanzielle Bericht, die nichtfinanzielle Konzernerklärung oder der gesonderte nichtfinanzielle Konzernbericht vorgelegt wurde. Im Fall des § 289b Absatz 3 Satz 1 Nummer 2 Buchstabe b ist vier Monate nach dem Abschlussstichtag eine ergänzende Prüfung durch denselben Abschlussprüfer durchzuführen, ob der gesonderte nichtfinanzielle Bericht oder der gesonderte nichtfinanzielle Konzernbericht vorgelegt wurde; § 316 Absatz 3 Satz 2 gilt entsprechend mit der Maßgabe, dass der Bestätigungsvermerk nur dann zu ergänzen ist, wenn der gesonderte nichtfinanzielle Bericht oder der gesonderte nichtfinanzielle Konzernbericht nicht innerhalb von vier Monaten nach dem Abschlussstichtag vorgelegt worden ist. Die Prüfung der Angaben nach § 289f Absatz 2 und 5 sowie § 315d ist darauf zu beschränken, ob die Angaben gemacht wurden.
 
 (3) Der Abschlußprüfer des Konzernabschlusses hat auch die im Konzernabschluß zusammengefaßten Jahresabschlüsse, insbesondere die konsolidierungsbedingten Anpassungen, in entsprechender Anwendung des Absatzes 1 zu prüfen. Sind diese Jahresabschlüsse von einem anderen Abschlussprüfer geprüft worden, hat der Konzernabschlussprüfer dessen Arbeit zu überprüfen und dies zu dokumentieren.
 
@@ -3865,11 +4038,11 @@ in dem zu prüfenden Geschäftsjahr oder bis zur Erteilung des Bestätigungsverm
 
 ### § 320 Vorlagepflicht. Auskunftsrecht
 
-(1) Die gesetzlichen Vertreter der Kapitalgesellschaft haben dem Abschlußprüfer den Jahresabschluß und den Lagebericht unverzüglich nach der Aufstellung vorzulegen. Sie haben ihm zu gestatten, die Bücher und Schriften der Kapitalgesellschaft sowie die Vermögensgegenstände und Schulden, namentlich die Kasse und die Bestände an Wertpapieren und Waren, zu prüfen.
+(1) Die gesetzlichen Vertreter der Kapitalgesellschaft haben dem Abschlußprüfer den Jahresabschluß, den Lagebericht und den gesonderten nichtfinanziellen Bericht unverzüglich nach der Aufstellung vorzulegen. Sie haben ihm zu gestatten, die Bücher und Schriften der Kapitalgesellschaft sowie die Vermögensgegenstände und Schulden, namentlich die Kasse und die Bestände an Wertpapieren und Waren, zu prüfen.
 
 (2) Der Abschlußprüfer kann von den gesetzlichen Vertretern alle Aufklärungen und Nachweise verlangen, die für eine sorgfältige Prüfung notwendig sind. Soweit es die Vorbereitung der Abschlußprüfung erfordert, hat der Abschlußprüfer die Rechte nach Absatz 1 Satz 2 und nach Satz 1 auch schon vor Aufstellung des Jahresabschlusses. Soweit es für eine sorgfältige Prüfung notwendig ist, hat der Abschlußprüfer die Rechte nach den Sätzen 1 und 2 auch gegenüber Mutter- und Tochterunternehmen.
 
-(3) Die gesetzlichen Vertreter einer Kapitalgesellschaft, die einen Konzernabschluß aufzustellen hat, haben dem Abschlußprüfer des Konzernabschlusses den Konzernabschluß, den Konzernlagebericht, die Jahresabschlüsse, Lageberichte und, wenn eine Prüfung stattgefunden hat, die Prüfungsberichte des Mutterunternehmens und der Tochterunternehmen vorzulegen. Der Abschlußprüfer hat die Rechte nach Absatz 1 Satz 2 und nach Absatz 2 bei dem Mutterunternehmen und den Tochterunternehmen, die Rechte nach Absatz 2 auch gegenüber den Abschlußprüfern des Mutterunternehmens und der Tochterunternehmen.
+(3) Die gesetzlichen Vertreter einer Kapitalgesellschaft, die einen Konzernabschluß aufzustellen hat, haben dem Abschlußprüfer des Konzernabschlusses den Konzernabschluß, den Konzernlagebericht, den gesonderten nichtfinanziellen Konzernbericht, die Jahresabschlüsse, Lageberichte, die gesonderten nichtfinanziellen Berichte und, wenn eine Prüfung stattgefunden hat, die Prüfungsberichte des Mutterunternehmens und der Tochterunternehmen vorzulegen. Der Abschlußprüfer hat die Rechte nach Absatz 1 Satz 2 und nach Absatz 2 bei dem Mutterunternehmen und den Tochterunternehmen, die Rechte nach Absatz 2 auch gegenüber den Abschlußprüfern des Mutterunternehmens und der Tochterunternehmen.
 
 (4) Der bisherige Abschlussprüfer hat dem neuen Abschlussprüfer auf schriftliche Anfrage über das Ergebnis der bisherigen Prüfung zu berichten; § 321 ist entsprechend anzuwenden.
 
@@ -3986,7 +4159,7 @@ Vierter Unterabschnitt Offenlegung. Prüfung durch den Betreiber des Bundesanzei
 
 ### § 325 Offenlegung
 
-(1) Die gesetzlichen Vertreter von Kapitalgesellschaften haben für die Gesellschaft folgende Unterlagen in deutscher Sprache offenzulegen:
+(1) Die Mitglieder des vertretungsberechtigten Organs von Kapitalgesellschaften haben für die Gesellschaft folgende Unterlagen in deutscher Sprache offenzulegen:
 
 1.  
 den festgestellten oder gebilligten Jahresabschluss, den Lagebericht und den Bestätigungsvermerk oder den Vermerk über dessen Versagung sowie
@@ -4000,9 +4173,9 @@ Die Unterlagen sind elektronisch beim Betreiber des Bundesanzeigers in einer For
 
 (1b) Wird der Jahresabschluss oder der Lagebericht geändert, so ist auch die Änderung nach Absatz 1 Satz 1 offenzulegen. Ist im Jahresabschluss nur der Vorschlag für die Ergebnisverwendung enthalten, ist der Beschluss über die Ergebnisverwendung nach seinem Vorliegen nach Absatz 1 Satz 1 offenzulegen.
 
-(2) Die gesetzlichen Vertreter der Kapitalgesellschaft haben für diese die in Absatz 1 bezeichneten Unterlagen jeweils unverzüglich nach der Einreichung im Bundesanzeiger bekannt machen zu lassen.
+(2) Die Mitglieder des vertretungsberechtigten Organs der Kapitalgesellschaft haben für diese die in Absatz 1 bezeichneten Unterlagen jeweils unverzüglich nach der Einreichung im Bundesanzeiger bekannt machen zu lassen.
 
-(2a) Bei der Offenlegung nach Absatz 2 kann an die Stelle des Jahresabschlusses ein Einzelabschluss treten, der nach den in § 315a Abs. 1 bezeichneten internationalen Rechnungslegungsstandards aufgestellt worden ist. Ein Unternehmen, das von diesem Wahlrecht Gebrauch macht, hat die dort genannten Standards vollständig zu befolgen. Auf einen solchen Abschluss sind § 243 Abs. 2, die §§ 244, 245, 257, 264 Absatz 1a, 2 Satz 3, § 285 Nr. 7, 8 Buchstabe b, Nr. 9 bis 11a, 14 bis 17, § 286 Abs. 1, 3 und 5 anzuwenden. Der Lagebericht nach § 289 muss in dem erforderlichen Umfang auch auf den Abschluss nach Satz 1 Bezug nehmen. Die übrigen Vorschriften des Zweiten Unterabschnitts des Ersten Abschnitts und des Ersten Unterabschnitts des Zweiten Abschnitts gelten insoweit nicht. Kann wegen der Anwendung des § 286 Abs. 1 auf den Anhang die in Satz 2 genannte Voraussetzung nicht eingehalten werden, entfällt das Wahlrecht nach Satz 1.
+(2a) Bei der Offenlegung nach Absatz 2 kann an die Stelle des Jahresabschlusses ein Einzelabschluss treten, der nach den in § 315e Absatz 1 bezeichneten internationalen Rechnungslegungsstandards aufgestellt worden ist. Ein Unternehmen, das von diesem Wahlrecht Gebrauch macht, hat die dort genannten Standards vollständig zu befolgen. Auf einen solchen Abschluss sind § 243 Abs. 2, die §§ 244, 245, 257, 264 Absatz 1a, 2 Satz 3, § 285 Nr. 7, 8 Buchstabe b, Nr. 9 bis 11a, 14 bis 17, § 286 Abs. 1, 3 und 5 anzuwenden. Die Verpflichtung, einen Lagebericht offenzulegen, bleibt unberührt; der Lagebericht nach § 289 muss in dem erforderlichen Umfang auch auf den Einzelabschluss nach Satz 1 Bezug nehmen. Die übrigen Vorschriften des Zweiten Unterabschnitts des Ersten Abschnitts und des Ersten Unterabschnitts des Zweiten Abschnitts gelten insoweit nicht. Kann wegen der Anwendung des § 286 Abs. 1 auf den Anhang die in Satz 2 genannte Voraussetzung nicht eingehalten werden, entfällt das Wahlrecht nach Satz 1.
 
 (2b) Die befreiende Wirkung der Offenlegung des Einzelabschlusses nach Absatz 2a tritt ein, wenn
 
@@ -4013,9 +4186,9 @@ statt des vom Abschlussprüfer zum Jahresabschluss erteilten Bestätigungsvermer
 der Vorschlag für die Verwendung des Ergebnisses und gegebenenfalls der Beschluss über seine Verwendung unter Angabe des Jahresüberschusses oder Jahresfehlbetrags in die Offenlegung nach Absatz 2 einbezogen werden und
 
 3.  
-der Jahresabschluss mit dem Bestätigungsvermerk oder dem Vermerk über dessen Versagung nach Absatz 1 Satz 1 bis 4 offen gelegt wird.
+der Jahresabschluss mit dem Bestätigungsvermerk oder dem Vermerk über dessen Versagung nach Absatz 1 und 1a Satz 1 offen gelegt wird.
 
-(3) Die Absätze 1 bis 2 und 4 Satz 1 gelten entsprechend für die gesetzlichen Vertreter einer Kapitalgesellschaft, die einen Konzernabschluss und einen Konzernlagebericht aufzustellen haben.
+(3) Die Absätze 1 bis 2 und 4 Satz 1 gelten entsprechend für die Mitglieder des vertretungsberechtigten Organs einer Kapitalgesellschaft, die einen Konzernabschluss und einen Konzernlagebericht aufzustellen haben.
 
 (3a) Wird der Konzernabschluss zusammen mit dem Jahresabschluss des Mutterunternehmens oder mit einem von diesem aufgestellten Einzelabschluss nach Absatz 2a bekannt gemacht, können die Vermerke des Abschlussprüfers nach § 322 zu beiden Abschlüssen zusammengefasst werden; in diesem Fall können auch die jeweiligen Prüfungsberichte zusammengefasst werden.
 
@@ -4174,24 +4347,29 @@ Sechster Unterabschnitt Straf- und BußgeldvorschriftenOrdnungsgelder
 
 ### 
 
+Erster Titel Straf- und Bußgeldvorschriften
+-------------------------------------------
+
+### 
+
 ### § 331 Unrichtige Darstellung
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
 1.  
-als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Kapitalgesellschaft die Verhältnisse der Kapitalgesellschaft in der Eröffnungsbilanz, im Jahresabschluß, im Lagebericht oder im Zwischenabschluß nach § 340a Abs. 3 unrichtig wiedergibt oder verschleiert,
+als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Kapitalgesellschaft die Verhältnisse der Kapitalgesellschaft in der Eröffnungsbilanz, im Jahresabschluß, im Lagebericht einschließlich der nichtfinanziellen Erklärung, im gesonderten nichtfinanziellen Bericht oder im Zwischenabschluß nach § 340a Abs. 3 unrichtig wiedergibt oder verschleiert,
 
 1a.  
-als Mitglied des vertretungsberechtigten Organs einer Kapitalgesellschaft zum Zwecke der Befreiung nach § 325 Abs. 2a Satz 1, Abs. 2b einen Einzelabschluss nach den in § 315a Abs. 1 genannten internationalen Rechnungslegungsstandards, in dem die Verhältnisse der Kapitalgesellschaft unrichtig wiedergegeben oder verschleiert worden sind, vorsätzlich oder leichtfertig offen legt,
+als Mitglied des vertretungsberechtigten Organs einer Kapitalgesellschaft zum Zwecke der Befreiung nach § 325 Abs. 2a Satz 1, Abs. 2b einen Einzelabschluss nach den in § 315e Absatz 1 genannten internationalen Rechnungslegungsstandards, in dem die Verhältnisse der Kapitalgesellschaft unrichtig wiedergegeben oder verschleiert worden sind, vorsätzlich oder leichtfertig offen legt,
 
 2.  
-als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Kapitalgesellschaft die Verhältnisse des Konzerns im Konzernabschluß, im Konzernlagebericht oder im Konzernzwischenabschluß nach § 340i Abs. 4 unrichtig wiedergibt oder verschleiert,
+als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Kapitalgesellschaft die Verhältnisse des Konzerns im Konzernabschluß, im Konzernlagebericht einschließlich der nichtfinanziellen Konzernerklärung, im gesonderten nichtfinanziellen Konzernbericht oder im Konzernzwischenabschluß nach § 340i Abs. 4 unrichtig wiedergibt oder verschleiert,
 
 3.  
 als Mitglied des vertretungsberechtigten Organs einer Kapitalgesellschaft zum Zwecke der Befreiung nach § 291 Abs. 1 und 2 oder nach § 292 einen Konzernabschluß oder Konzernlagebericht, in dem die Verhältnisse des Konzerns unrichtig wiedergegeben oder verschleiert worden sind, vorsätzlich oder leichtfertig offenlegt,
 
 3a.  
-entgegen § 264 Abs. 2 Satz 3, § 289 Abs. 1 Satz 5, § 297 Abs. 2 Satz 4 oder § 315 Abs. 1 Satz 6 eine Versicherung nicht richtig abgibt,
+entgegen § 264 Abs. 2 Satz 3, § 289 Abs. 1 Satz 5, § 297 Abs. 2 Satz 4 oder § 315 Absatz 1 Satz 5 eine Versicherung nicht richtig abgibt,
 
 4.  
 als Mitglied des vertretungsberechtigten Organs einer Kapitalgesellschaft oder als Mitglied des vertretungsberechtigten Organs oder als vertretungsberechtigter Gesellschafter eines ihrer Tochterunternehmen (§ 290 Abs. 1, 2) in Aufklärungen oder Nachweisen, die nach § 320 einem Abschlußprüfer der Kapitalgesellschaft, eines verbundenen Unternehmens oder des Konzerns zu geben sind, unrichtige Angaben macht oder die Verhältnisse der Kapitalgesellschaft, eines Tochterunternehmens oder des Konzerns unrichtig wiedergibt oder verschleiert.
@@ -4264,10 +4442,10 @@ f)
 des § 308 Abs. 1 Satz 3, des § 313 oder des § 314 über die im Konzernanhang zu machenden Angaben,
 
 3.  
-bei der Aufstellung des Lageberichts einer Vorschrift des § 289 oder des § 289a über den Inhalt des Lageberichts,
+bei der Aufstellung des Lageberichts oder der Erstellung eines gesonderten nichtfinanziellen Berichts einer Vorschrift der §§ 289 bis 289b Absatz 1, §§ 289c, 289d, 289e Absatz 2, auch in Verbindung mit § 289b Absatz 2 oder 3, oder des § 289f über den Inhalt des Lageberichts oder des gesonderten nichtfinanziellen Berichts,
 
 4.  
-bei der Aufstellung des Konzernlageberichts einer Vorschrift des § 315 Absatz 1, 2, 4 oder Absatz 5 über den Inhalt des Konzernlageberichts,
+bei der Aufstellung des Konzernlageberichts oder der Erstellung eines gesonderten nichtfinanziellen Konzernberichts einer Vorschrift der §§ 315 bis 315b Absatz 1, des § 315c, auch in Verbindung mit § 315b Absatz 2 oder 3, oder des § 315d über den Inhalt des Konzernlageberichts oder des gesonderten nichtfinanziellen Konzernberichts,
 
 5.  
 bei der Offenlegung, Hinterlegung, Veröffentlichung oder Vervielfältigung einer Vorschrift des § 328 über Form oder Inhalt oder
@@ -4290,13 +4468,37 @@ eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer Prüfungs
 3.  
 den Gesellschaftern einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
 
-(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden. Ist die Kapitalgesellschaft kapitalmarktorientiert im Sinne des § 264d, beträgt die Geldbuße in den Fällen des Absatzes 1 höchstens den höheren der folgenden Beträge:
+
+1.  
+zwei Millionen Euro oder
+
+2.  
+das Zweifache des aus der Ordnungswidrigkeit gezogenen wirtschaftlichen Vorteils, wobei der wirtschaftliche Vorteil erzielte Gewinne und vermiedene Verluste umfasst und geschätzt werden kann.
+
+(3a) Wird gegen eine kapitalmarktorientierte Kapitalgesellschaft im Sinne des § 264d in den Fällen des Absatzes 1 eine Geldbuße nach § 30 des Gesetzes über Ordnungswidrigkeiten verhängt, beträgt diese Geldbuße höchstens den höchsten der folgenden Beträge:
+
+1.  
+zehn Millionen Euro,
+
+2.  
+5 Prozent des jährlichen Gesamtumsatzes, den die Kapitalgesellschaft in dem der Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt hat oder
+
+3.  
+das Zweifache des aus der Ordnungswidrigkeit gezogenen wirtschaftlichen Vorteils, wobei der wirtschaftliche Vorteil erzielte Gewinne und vermiedene Verluste umfasst und geschätzt werden kann.
+
+(3b) Gesamtumsatz im Sinne des Absatzes 3a Nummer 2 ist der Betrag der Umsatzerlöse nach § 277 Absatz 1 oder der Betrag der Nettoumsatzerlöse nach Maßgabe des auf das Unternehmen anwendbaren nationalen Rechts im Einklang mit Artikel 2 Nummer 5 der Richtlinie 2013/34/EU. Handelt es sich bei der Kapitalgesellschaft um ein Mutterunternehmen oder um ein Tochterunternehmen im Sinne des § 290, ist anstelle des Gesamtumsatzes der Kapitalgesellschaft der Gesamtumsatz im Konzernabschluss des Mutterunternehmens maßgeblich, der für den größten Kreis von Unternehmen aufgestellt wird. Wird der Konzernabschluss für den größten Kreis von Unternehmen nicht nach den in Satz 1 genannten Vorschriften aufgestellt, ist der Gesamtumsatz nach Maßgabe der den Umsatzerlösen vergleichbaren Posten des Konzernabschlusses zu ermitteln. Ist ein Jahres- oder Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar, ist der Jahres- oder Konzernabschluss für das unmittelbar vorausgehende Geschäftsjahr maßgeblich; ist auch dieser nicht verfügbar, kann der Gesamtumsatz geschätzt werden.
 
 (4) Verwaltungsbehörde im Sinn des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 2a das Bundesamt für Justiz, in den Fällen des Absatzes 2 die Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
 (5) Die Absätze 1 bis 4 sind auf Kreditinstitute im Sinn des § 340 und auf Versicherungsunternehmen im Sinn des § 341 Abs. 1 nicht anzuwenden.
 
 (+++ § 334: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
+
+Zweiter Titel Ordnungsgelder
+----------------------------
+
+### 
 
 ### § 335 Festsetzung von Ordnungsgeld
 
@@ -4308,7 +4510,7 @@ den Gesellschaftern einen Vorschlag für die Bestellung eines Abschlussprüfers 
 2.  
 § 325a über die Pflicht zur Offenlegung der Rechnungslegungsunterlagen der Hauptniederlassung
 
-nicht befolgen, ist wegen des pflichtwidrigen Unterlassens der rechtzeitigen Offenlegung vom Bundesamt für Justiz (Bundesamt) ein Ordnungsgeldverfahren nach den Absätzen 2 bis 6 durchzuführen; im Fall der Nummer 2 treten die in § 13e Abs. 2 Satz 4 Nr. 3 genannten Personen, sobald sie angemeldet sind, an die Stelle der Mitglieder des vertretungsberechtigten Organs der Kapitalgesellschaft. Das Ordnungsgeldverfahren kann auch gegen die Kapitalgesellschaft durchgeführt werden, für die die Mitglieder des vertretungsberechtigten Organs die in Satz 1 Nr. 1 und 2 genannten Pflichten zu erfüllen haben. Dem Verfahren steht nicht entgegen, dass eine der Offenlegung vorausgehende Pflicht, insbesondere die Aufstellung des Jahres- oder Konzernabschlusses oder die unverzügliche Erteilung des Prüfauftrags, noch nicht erfüllt ist. Das Ordnungsgeld beträgt mindestens zweitausendfünfhundert und höchstens fünfundzwanzigtausend Euro. Eingenommene Ordnungsgelder fließen dem Bundesamt zu.
+nicht befolgen, ist wegen des pflichtwidrigen Unterlassens der rechtzeitigen Offenlegung vom Bundesamt für Justiz (Bundesamt) ein Ordnungsgeldverfahren nach den Absätzen 2 bis 6 durchzuführen; im Fall der Nummer 2 treten die in § 13e Absatz 2 Satz 5 Nummer 3 genannten Personen, sobald sie angemeldet sind, an die Stelle der Mitglieder des vertretungsberechtigten Organs der Kapitalgesellschaft. Das Ordnungsgeldverfahren kann auch gegen die Kapitalgesellschaft durchgeführt werden, für die die Mitglieder des vertretungsberechtigten Organs die in Satz 1 Nr. 1 und 2 genannten Pflichten zu erfüllen haben. Dem Verfahren steht nicht entgegen, dass eine der Offenlegung vorausgehende Pflicht, insbesondere die Aufstellung des Jahres- oder Konzernabschlusses oder die unverzügliche Erteilung des Prüfauftrags, noch nicht erfüllt ist. Das Ordnungsgeld beträgt mindestens zweitausendfünfhundert und höchstens fünfundzwanzigtausend Euro. Eingenommene Ordnungsgelder fließen dem Bundesamt zu.
 
 (1a) Ist die Kapitalgesellschaft kapitalmarktorientiert im Sinne des § 264d, beträgt das Ordnungsgeld höchstens den höheren der folgenden Beträge:
 
@@ -4316,7 +4518,7 @@ nicht befolgen, ist wegen des pflichtwidrigen Unterlassens der rechtzeitigen Off
 zehn Millionen Euro,
 
 2.  
-5 Prozent des jährlichen Gesamtumsatzes, den die juristische Person oder Personenvereinigung im der Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt hat, oder
+5 Prozent des jährlichen Gesamtumsatzes, den die Kapitalgesellschaft im der Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt hat, oder
 
 3.  
 das Zweifache des aus der unterlassenen Offenlegung gezogenen wirtschaftlichen Vorteils; der wirtschaftliche Vorteil umfasst erzielte Gewinne und vermiedene Verluste und kann geschätzt werden.
@@ -4340,7 +4542,7 @@ im Falle von Versicherungsunternehmen der sich aus dem auf das Versicherungsunte
 3.  
 im Übrigen der Betrag der Umsatzerlöse nach § 277 Absatz 1 oder der Nettoumsatzerlöse nach Maßgabe des auf das Unternehmen anwendbaren nationalen Rechts im Einklang mit Artikel 2 Nummer 5 der Richtlinie 2013/34/EU.
 
-Handelt es sich bei der juristischen Person oder Personenvereinigung um ein Mutterunternehmen oder um eine Tochtergesellschaft, so ist anstelle des Gesamtumsatzes der Kapitalgesellschaft der jeweilige Gesamtbetrag in dem Konzernabschluss des Mutterunternehmens maßgeblich, der für den größten Kreis von Unternehmen aufgestellt wird. Wird der Konzernabschluss für den größten Kreis von Unternehmen nicht nach den in Satz 1 genannten Vorschriften aufgestellt, ist der Gesamtumsatz nach Maßgabe der den in Satz 1 Nummer 1 bis 3 vergleichbaren Posten des Konzernabschlusses zu ermitteln. Ist ein Jahresabschluss oder Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar, ist der Jahres- oder Konzernabschluss für das unmittelbar vorausgehende Geschäftsjahr maßgeblich; ist auch dieser nicht verfügbar, kann der Gesamtumsatz geschätzt werden.
+Handelt es sich bei der Kapitalgesellschaft um ein Mutterunternehmen oder um ein Tochterunternehmen im Sinne von § 290, ist anstelle des Gesamtumsatzes der Kapitalgesellschaft der Gesamtumsatz im Konzernabschluss des Mutterunternehmens maßgeblich, der für den größten Kreis von Unternehmen aufgestellt wird. Wird der Konzernabschluss für den größten Kreis von Unternehmen nicht nach den in Satz 1 genannten Vorschriften aufgestellt, ist der Gesamtumsatz nach Maßgabe der den in Satz 1 Nummer 1 bis 3 vergleichbaren Posten des Konzernabschlusses zu ermitteln. Ist ein Jahresabschluss oder Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar, ist der Jahres- oder Konzernabschluss für das unmittelbar vorausgehende Geschäftsjahr maßgeblich; ist auch dieser nicht verfügbar, kann der Gesamtumsatz geschätzt werden.
 
 (1c) Soweit dem Bundesamt Ermessen bei der Höhe eines Ordnungsgeldes zusteht, hat es auch frühere Verstöße der betroffenen Person zu berücksichtigen.
 
@@ -4391,6 +4593,11 @@ Bei der Herabsetzung sind nur Umstände zu berücksichtigen, die vor der Entsche
 (+++ § 335a: Zur Anwendung vgl. § 45 Abs. 3 Satz 3, § 123 Abs. 1 Satz 2 u. § 160 Abs. 1 KAGB +++)
 (+++ § 335a Abs. 3: Zur erstmaligen Anwendung vgl. Art. 70 Abs. 3 Satz 2 HGBEG +++)
 
+Dritter Titel Gemeinsame Vorschriften für Straf-, Bußgeld- und Ordnungsgeldverfahren
+------------------------------------------------------------------------------------
+
+### 
+
 ### § 335b Anwendung der Straf- und Bußgeld- sowie der Ordnungsgeldvorschriften auf bestimmte offene Handelsgesellschaften und Kommanditgesellschaften
 
 Die Strafvorschriften der §§ 331 bis 333a, die Bußgeldvorschrift des § 334 sowie die Ordnungsgeldvorschrift des § 335 gelten auch für offene Handelsgesellschaften und Kommanditgesellschaften im Sinn des § 264a Abs. 1. Das Verfahren nach § 335 ist in diesem Fall gegen die persönlich haftenden Gesellschafter oder gegen die Mitglieder der vertretungsberechtigten Organe der persönlich haftenden Gesellschafter zu richten. Es kann auch gegen die offene Handelsgesellschaft oder gegen die Kommanditgesellschaft gerichtet werden. § 335a ist entsprechend anzuwenden.
@@ -4418,10 +4625,10 @@ Dritter Abschnitt Ergänzende Vorschriften für eingetragene Genossenschaften
 § 264 Absatz 1 Satz 4 erster Halbsatz und Absatz 1a, 2,
 
 2.  
-die §§ 265 bis 289, mit Ausnahme von § 277 Absatz 3 Satz 1 und § 285 Nummer 17,
+die §§ 265 bis 289e, mit Ausnahme von § 277 Absatz 3 Satz 1 und § 285 Nummer 17,
 
 3.  
-§ 289a Absatz 4 nach Maßgabe des § 9 Absatz 3 und 4 des Genossenschaftsgesetzes.
+§ 289f Absatz 4 nach Maßgabe des § 9 Absatz 3 und 4 des Genossenschaftsgesetzes.
 
 Sonstige Vorschriften, die durch den Geschäftszweig bedingt sind, bleiben unberührt. Genossenschaften, die die Merkmale für Kleinstkapitalgesellschaften nach § 267a Absatz 1 erfüllen (Kleinstgenossenschaften), dürfen auch die Erleichterungen für Kleinstkapitalgesellschaften nach näherer Maßgabe des § 337 Absatz 4 und § 338 Absatz 4 anwenden.
 
@@ -4528,6 +4735,10 @@ Zweiter Titel Jahresabschluß, Lagebericht, Zwischenabschluß
 
 (1) Kreditinstitute, auch wenn sie nicht in der Rechtsform einer Kapitalgesellschaft betrieben werden, haben auf ihren Jahresabschluß die für große Kapitalgesellschaften geltenden Vorschriften des Ersten Unterabschnitts des Zweiten Abschnitts anzuwenden, soweit in den Vorschriften dieses Unterabschnitts nichts anderes bestimmt ist. Kreditinstitute haben außerdem einen Lagebericht nach den für große Kapitalgesellschaften geltenden Bestimmungen aufzustellen.
 
+(1a) Ein Kreditinstitut hat seinen Lagebericht um eine nichtfinanzielle Erklärung zu erweitern, wenn es in entsprechender Anwendung des § 267 Absatz 3 Satz 1 und Absatz 4 bis 5 als groß gilt und im Jahresdurchschnitt mehr als 500 Arbeitnehmer beschäftigt. Wenn die nichtfinanzielle Erklärung einen besonderen Abschnitt des Lageberichts bildet, darf das Kreditinstitut auf die an anderer Stelle im Lagebericht enthaltenen nichtfinanziellen Angaben verweisen. § 289b Absatz 2 bis 4 und die §§ 289c bis 289e sind entsprechend anzuwenden.
+
+(1b) Ein Kreditinstitut, das nach Absatz 1 in Verbindung mit § 289f Absatz 1 eine Erklärung zur Unternehmensführung zu erstellen hat, hat darin Angaben nach § 289f Absatz 2 Nummer 6 aufzunehmen, wenn es in entsprechender Anwendung des § 267 Absatz 3 Satz 1 und Absatz 4 bis 5 als groß gilt.
+
 (2) § 265 Abs. 6 und 7, §§ 267, 268 Abs. 4 Satz 1, Abs. 5 Satz 1 und 2, §§ 276, 277 Abs. 1, 2, 3 Satz 1, § 284 Absatz 2 Nummer 3, § 285 Nr. 8 und 12, § 288 sind nicht anzuwenden. An Stelle von § 247 Abs. 1, §§ 251, 266, 268 Absatz 7, §§ 275, 284 Absatz 3, § 285 Nummer 1, 2, 4, 9 Buchstabe c und Nummer 27 sind die durch Rechtsverordnung erlassenen Formblätter und anderen Vorschriften anzuwenden. § 246 Abs. 2 ist nicht anzuwenden, soweit abweichende Vorschriften bestehen. § 264 Abs. 3 und § 264b sind mit der Maßgabe anzuwenden, daß das Kreditinstitut unter den genannten Voraussetzungen die Vorschriften des Vierten Unterabschnitts des Zweiten Abschnitts nicht anzuwenden braucht. § 285 Nummer 31 ist nicht anzuwenden; unter den Posten „außerordentliche Erträge“ und „außerordentliche Aufwendungen“ sind Erträge und Aufwendungen auszuweisen, die außerhalb der gewöhnlichen Geschäftstätigkeit anfallen. Im Anhang sind diese Posten hinsichtlich ihres Betrags und ihrer Art zu erläutern, soweit die ausgewiesenen Beträge für die Beurteilung der Ertragslage nicht von untergeordneter Bedeutung sind.
 
 (3) Sofern Kreditinstitute einer prüferischen Durchsicht zu unterziehende Zwischenabschlüsse zur Ermittlung von Zwischenergebnissen im Sinne des Artikels 26 Absatz 2 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABI. L 176 vom 27.6.2013, S. 1) aufstellen, sind auf diese die für den Jahresabschluss geltenden Rechnungslegungsgrundsätze anzuwenden. Die Vorschriften über die Bestellung des Abschlussprüfers sind auf die prüferische Durchsicht entsprechend anzuwenden. Die prüferische Durchsicht ist so anzulegen, dass bei gewissenhafter Berufsausübung ausgeschlossen werden kann, dass der Zwischenabschluss in wesentlichen Belangen den anzuwendenden Rechnungslegungsgrundsätzen widerspricht. Der Abschlussprüfer hat das Ergebnis der prüferischen Durchsicht in einer Bescheinigung zusammenzufassen. § 320 und § 323 gelten entsprechend.
@@ -4633,11 +4844,23 @@ Fünfter Titel Konzernabschluß, Konzernlagebericht, Konzernzwischenabschluß
 
 (1) Kreditinstitute, auch wenn sie nicht in der Rechtsform einer Kapitalgesellschaft betrieben werden, haben unabhängig von ihrer Größe einen Konzernabschluß und einen Konzernlagebericht nach den Vorschriften des Zweiten Unterabschnitts des Zweiten Abschnitts über den Konzernabschluß und Konzernlagebericht aufzustellen, soweit in den Vorschriften dieses Unterabschnitts nichts anderes bestimmt ist. Zusätzliche Anforderungen auf Grund von Vorschriften, die wegen der Rechtsform bestehen, bleiben unberührt.
 
-(2) Auf den Konzernabschluß sind, soweit seine Eigenart keine Abweichung bedingt, die §§ 340a bis 340g über den Jahresabschluß und die für die Rechtsform und den Geschäftszweig der in den Konzernabschluß einbezogenen Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes geltenden Vorschriften entsprechend anzuwenden, soweit sie für große Kapitalgesellschaften gelten. Die §§ 293, 298 Absatz 1, § 314 Abs. 1 Nr. 1, 3, 6 Buchstabe c und Nummer 23 sind nicht anzuwenden. In den Fällen des § 315a Abs. 1 finden von den in Absatz 1 genannten Vorschriften nur die §§ 290 bis 292, 315a Anwendung; die Sätze 1 und 2 dieses Absatzes sowie § 340j sind nicht anzuwenden. Soweit § 315a Abs. 1 auf die Bestimmung des § 314 Abs. 1 Nr. 6 Buchstabe c verweist, tritt an deren Stelle die Vorschrift des § 34 Abs. 2 Nr. 2 in Verbindung mit § 37 der Kreditinstituts-Rechnungslegungsverordnung in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3658) *in der jeweils geltenden Fassung*. Im Übrigen findet die Kreditinstituts-Rechnungslegungsverordnung in den Fällen des § 315a Abs. 1 keine Anwendung.
+(2) Auf den Konzernabschluß sind, soweit seine Eigenart keine Abweichung bedingt, die §§ 340a bis 340g über den Jahresabschluß und die für die Rechtsform und den Geschäftszweig der in den Konzernabschluß einbezogenen Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes geltenden Vorschriften entsprechend anzuwenden, soweit sie für große Kapitalgesellschaften gelten. Die §§ 293, 298 Absatz 1, § 314 Abs. 1 Nr. 1, 3, 6 Buchstabe c und Nummer 23 sind nicht anzuwenden. In den Fällen des § 315e Abs. 1 finden von den in Absatz 1 genannten Vorschriften nur die §§ 290 bis 292, 315e Anwendung; die Sätze 1 und 2 dieses Absatzes sowie § 340j sind nicht anzuwenden. Soweit § 315e Absatz 1 auf § 314 Absatz 1 Nummer 6 Buchstabe c verweist, tritt an dessen Stelle § 34 Absatz 2 Nummer 2 in Verbindung mit § 37 der Kreditinstituts-Rechnungslegungsverordnung in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3658), die zuletzt durch Artikel 8 Absatz 13 des Gesetzes vom 17. Juli 2015 (BGBl. I S. 1245) geändert worden ist, in der jeweils geltenden Fassung. Im Übrigen findet die Kreditinstituts-Rechnungslegungsverordnung in den Fällen des § 315e Absatz 1 keine Anwendung.
 
 (3) Als Kreditinstitute im Sinne dieses Titels gelten auch Mutterunternehmen, deren einziger Zweck darin besteht, Beteiligungen an Tochterunternehmen zu erwerben sowie die Verwaltung und Verwertung dieser Beteiligungen wahrzunehmen, sofern diese Tochterunternehmen ausschließlich oder überwiegend Kreditinstitute sind.
 
 (4) Sofern Kreditinstitute einer prüferischen Durchsicht zu unterziehende Konzernzwischenabschlüsse zur Ermittlung von Konzernzwischenergebnissen im Sinne des Artikels 26 Absatz 2 in Verbindung mit Artikel 11 der Verordnung (EU) Nr. 575/2013 aufstellen, sind auf diese die für den Konzernabschluss geltenden Rechnungslegungsgrundsätze anzuwenden. Die Vorschriften über die Bestellung des Abschlussprüfers sind auf die prüferische Durchsicht entsprechend anzuwenden. Die prüferische Durchsicht ist so anzulegen, dass bei gewissenhafter Berufsausübung ausgeschlossen werden kann, dass der Zwischenabschluss in wesentlichen Belangen den anzuwendenden Rechnungslegungsgrundsätzen widerspricht. Der Abschlussprüfer hat das Ergebnis der prüferischen Durchsicht in einer Bescheinigung zusammenzufassen. § 320 und § 323 gelten entsprechend.
+
+(5) Ein Kreditinstitut, das ein Mutterunternehmen (§ 290) ist, hat den Konzernlagebericht um eine nichtfinanzielle Konzernerklärung zu erweitern, wenn auf die in den Konzernabschluss einzubeziehenden Unternehmen die folgenden Merkmale zutreffen:
+
+1.  
+sie erfüllen die in § 293 Absatz 1 Satz 1 Nummer 1 oder 2 geregelten Voraussetzungen für eine größenabhängige Befreiung nicht und
+
+2.  
+bei ihnen sind insgesamt im Jahresdurchschnitt mehr als 500 Arbeitnehmer beschäftigt.
+
+§ 267 Absatz 4 bis 5, § 298 Absatz 2, § 315b Absatz 2 bis 4 und § 315c sind entsprechend anzuwenden. Wenn die nichtfinanzielle Konzernerklärung einen besonderen Abschnitt des Konzernlageberichts bildet, darf das Kreditinstitut auf die an anderer Stelle im Konzernlagebericht enthaltenen nichtfinanziellen Angaben verweisen.
+
+(6) Ein Kreditinstitut, das nach Absatz 1 in Verbindung mit § 315d eine Konzernerklärung zur Unternehmensführung zu erstellen hat, hat darin Angaben nach § 315d in Verbindung mit § 289f Absatz 2 Nummer 6 aufzunehmen, wenn es in entsprechender Anwendung des § 267 Absatz 3 Satz 1 und Absatz 4 bis 5 als groß gilt.
 
 (+++ § 340i: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
@@ -4787,10 +5010,10 @@ f)
 des § 308 Abs. 1 Satz 3, des § 313 oder des § 314 über die im Konzernanhang zu machenden Angaben,
 
 3.  
-bei der Aufstellung des Lageberichts einer Vorschrift des § 289 oder des § 289a über den Inhalt des Lageberichts,
+bei der Aufstellung des Lageberichts oder der Erstellung eines gesonderten nichtfinanziellen Berichts einer Vorschrift der §§ 289, 289a, 340a Absatz 1a, auch in Verbindung mit § 289b Absatz 2 oder 3 oder mit den §§ 289c, 289d oder § 289e Absatz 2, oder des § 340a Absatz 1b in Verbindung mit § 289f über den Inhalt des Lageberichts oder des gesonderten nichtfinanziellen Berichts,
 
 4.  
-bei der Aufstellung des Konzernlageberichts einer Vorschrift des § 315 Absatz 1, 2, 4 oder Absatz 5 über den Inhalt des Konzernlageberichts,
+bei der Aufstellung des Konzernlageberichts oder der Erstellung eines gesonderten nichtfinanziellen Konzernberichts einer Vorschrift der §§ 315, 315a, 340i Absatz 5, auch in Verbindung mit § 315b Absatz 2 oder 3 oder § 315c, oder des § 340i Absatz 6 in Verbindung mit § 315d über den Inhalt des Konzernlageberichts oder des gesonderten nichtfinanziellen Konzernberichts,
 
 5.  
 bei der Offenlegung, Veröffentlichung oder Vervielfältigung einer Vorschrift des § 328 über Form oder Inhalt oder
@@ -4819,7 +5042,26 @@ den Gesellschaftern oder der sonst für die Bestellung des Abschlussprüfers zus
 2.  
 als Mitglied eines nach § 340k Absatz 5 in Verbindung mit § 324 Absatz 1 Satz 1 eingerichteten Prüfungsausschusses eines CRR-Kreditinstituts im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, das eine Sparkasse ist, die Unabhängigkeit der in § 340k Absatz 3 Satz 2 zweiter Halbsatz genannten Personen nicht nach Maßgabe des Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 der Verordnung (EU) Nr. 537/2014 in Verbindung mit § 340k Absatz 3 Satz 2 oder nach Maßgabe des Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 überwacht.
 
-(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden. Ist das Kreditinstitut kapitalmarktorientiert im Sinne des § 264d, beträgt die Geldbuße in den Fällen des Absatzes 1 höchstens den höheren der folgenden Beträge:
+
+1.  
+zwei Millionen Euro oder
+
+2.  
+das Zweifache des aus der Ordnungswidrigkeit gezogenen wirtschaftlichen Vorteils, wobei der wirtschaftliche Vorteil erzielte Gewinne und vermiedene Verluste umfasst und geschätzt werden kann.
+
+(3a) Wird gegen ein Kreditinstitut, das kapitalmarktorientiert im Sinne des § 264d ist, in den Fällen des Absatzes 1 eine Geldbuße nach § 30 des Gesetzes über Ordnungswidrigkeiten verhängt, beträgt diese Geldbuße höchstens den höchsten der folgenden Beträge:
+
+1.  
+zehn Millionen Euro,
+
+2.  
+5 Prozent des jährlichen Gesamtumsatzes, den das Kreditinstitut im der Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt hat oder
+
+3.  
+das Zweifache des aus der Ordnungswidrigkeit gezogenen wirtschaftlichen Vorteils, wobei der wirtschaftliche Vorteil erzielte Gewinne und vermiedene Verluste umfasst und geschätzt werden kann.
+
+(3b) Als Gesamtumsatz ist anstelle des Betrags der Umsatzerlöse der sich aus dem auf das Kreditinstitut anwendbaren nationalen Recht im Einklang mit Artikel 27 Nummer 1, 3, 4, 6 und 7 oder Artikel 28 Buchstabe B Nummer 1, 2, 3, 4 und 7 der Richtlinie 86/635/EWG des Rates vom 8. Dezember 1986 über den Jahresabschluss und den konsolidierten Abschluss von Banken und anderen Finanzinstituten (ABl. L 372 vom 31.12.1986, S. 1; L 316 vom 23.11.1988, S. 51), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist, ergebende Gesamtbetrag, abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern, maßgeblich. Handelt es sich bei dem Kreditinstitut um ein Mutterunternehmen oder um ein Tochterunternehmen im Sinne des § 290, ist anstelle des Gesamtumsatzes des Kreditinstituts der jeweilige Gesamtbetrag im Konzernabschluss des Mutterunternehmens maßgeblich, der für den größten Kreis von Unternehmen aufgestellt wird. Wird der Konzernabschluss für den größten Kreis von Unternehmen nicht nach den in Satz 1 genannten Vorschriften aufgestellt, ist der Gesamtumsatz nach Maßgabe der Posten des Konzernabschlusses zu ermitteln, die mit den von Satz 1 erfassten Posten vergleichbar sind. Ist ein Jahres- oder Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar, ist der Jahres- oder Konzernabschluss für das unmittelbar vorausgehende Geschäftsjahr maßgeblich; ist auch dieser nicht verfügbar, kann der Gesamtumsatz geschätzt werden.
 
 (4) Verwaltungsbehörde im Sinn des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 2a die Bundesanstalt für Finanzdienstleistungsaufsicht, in den Fällen des Absatzes 2 die Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
@@ -4867,6 +5109,10 @@ Zweiter Titel Jahresabschluß, Lagebericht
 ### § 341a Anzuwendende Vorschriften
 
 (1) Versicherungsunternehmen haben einen Jahresabschluß und einen Lagebericht nach den für große Kapitalgesellschaften geltenden Vorschriften des Ersten Unterabschnitts des Zweiten Abschnitts in den ersten vier Monaten des Geschäftsjahres für das vergangene Geschäftsjahr aufzustellen und dem Abschlußprüfer zur Durchführung der Prüfung vorzulegen; die Frist des § 264 Abs. 1 Satz 3 gilt nicht. Ist das Versicherungsunternehmen eine Kapitalgesellschaft im Sinn des § 325 Abs. 4 Satz 1 und nicht zugleich im Sinn des § 327a, beträgt die Frist nach Satz 1 vier Monate.
+
+(1a) Ein Versicherungsunternehmen hat seinen Lagebericht um eine nichtfinanzielle Erklärung zu erweitern, wenn es in entsprechender Anwendung des § 267 Absatz 3 Satz 1 und Absatz 4 bis 5 als groß gilt und im Jahresdurchschnitt mehr als 500 Arbeitnehmer beschäftigt. Wenn die nichtfinanzielle Erklärung einen besonderen Abschnitt des Lageberichts bildet, darf das Versicherungsunternehmen auf die an anderer Stelle im Lagebericht enthaltenen nichtfinanziellen Angaben verweisen. § 289b Absatz 2 bis 4 und die §§ 289c bis 289e sind entsprechend anzuwenden.
+
+(1b) Ein Versicherungsunternehmen, das nach Absatz 1 in Verbindung mit § 289f Absatz 1 eine Erklärung zur Unternehmensführung zu erstellen hat, hat darin Angaben nach § 289f Absatz 2 Nummer 6 aufzunehmen, wenn es in entsprechender Anwendung des § 267 Absatz 3 Satz 1 und Absatz 4 bis 5 als groß gilt.
 
 (2) § 265 Abs. 6, §§ 267, 268 Abs. 4 Satz 1, Abs. 5 Satz 1 und 2, §§ 276, 277 Abs. 1 und 2, § 285 Nr. 8 Buchstabe a und § 288 sind nicht anzuwenden. Anstelle von § 247 Abs. 1, §§ 251, 265 Abs. 7, §§ 266, 268 Absatz 7, §§ 275, 284 Absatz 3, § 285 Nummer 4 und 8 Buchstabe b sowie § 286 Abs. 2 sind die durch Rechtsverordnung erlassenen Formblätter und anderen Vorschriften anzuwenden. § 246 Abs. 2 ist nicht anzuwenden, soweit abweichende Vorschriften bestehen. § 264 Abs. 3 und § 264b sind mit der Maßgabe anzuwenden, daß das Versicherungsunternehmen unter den genannten Voraussetzungen die Vorschriften des Vierten Unterabschnitts des Zweiten Abschnitts nicht anzuwenden braucht. § 285 Nr. 3a gilt mit der Maßgabe, daß die Angaben für solche finanzielle Verpflichtungen nicht zu machen sind, die im Rahmen des Versicherungsgeschäfts entstehen. § 285 Nummer 31 ist nicht anzuwenden; unter den Posten „außerordentliche Erträge“ und „außerordentliche Aufwendungen“ sind Erträge und Aufwendungen auszuweisen, die außerhalb der gewöhnlichen Geschäftstätigkeit anfallen. Im Anhang sind diese Posten hinsichtlich ihres Betrags und ihrer Art zu erläutern, soweit die ausgewiesenen Beträge für die Beurteilung der Ertragslage nicht von untergeordneter Bedeutung sind.
 
@@ -4981,11 +5227,23 @@ Fünfter Titel Konzernabschluß, Konzernlagebericht
 
 ### § 341j Anzuwendende Vorschriften
 
-(1) Auf den Konzernabschluß und den Konzernlagebericht sind die Vorschriften des Zweiten Unterabschnitts des Zweiten Abschnitts über den Konzernabschluß und den Konzernlagebericht und, soweit die Eigenart des Konzernabschlusses keine Abweichungen bedingt, die §§ 341a bis 341h über den Jahresabschluß sowie die für die Rechtsform und den Geschäftszweig der in den Konzernabschluß einbezogenen Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes geltenden Vorschriften entsprechend anzuwenden, soweit sie für große Kapitalgesellschaften gelten. Die §§ 293, 298 Absatz 1 sowie § 314 Absatz 1 Nummer 3 und 23 sind nicht anzuwenden. § 314 Abs. 1 Nr. 2a gilt mit der Maßgabe, daß die Angaben für solche finanzielle Verpflichtungen nicht zu machen sind, die im Rahmen des Versicherungsgeschäfts entstehen. In den Fällen des § 315a Abs. 1 finden abweichend von Satz 1 nur die §§ 290 bis 292, 315a Anwendung; die Sätze 2 und 3 dieses Absatzes und Absatz 2, § 341i Abs. 3 Satz 2 sowie die Bestimmungen der Versicherungsunternehmens-Rechnungslegungsverordnung vom 8. November 1994 (BGBl. I S. 3378) und der Pensionsfonds-Rechnungslegungsverordnung vom 25. Februar 2003 (BGBl. I S. 246) in ihren jeweils geltenden Fassungen sind nicht anzuwenden.
+(1) Auf den Konzernabschluß und den Konzernlagebericht sind die Vorschriften des Zweiten Unterabschnitts des Zweiten Abschnitts über den Konzernabschluß und den Konzernlagebericht und, soweit die Eigenart des Konzernabschlusses keine Abweichungen bedingt, die §§ 341a bis 341h über den Jahresabschluß sowie die für die Rechtsform und den Geschäftszweig der in den Konzernabschluß einbezogenen Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes geltenden Vorschriften entsprechend anzuwenden, soweit sie für große Kapitalgesellschaften gelten. Die §§ 293, 298 Absatz 1 sowie § 314 Absatz 1 Nummer 3 und 23 sind nicht anzuwenden. § 314 Abs. 1 Nr. 2a gilt mit der Maßgabe, daß die Angaben für solche finanzielle Verpflichtungen nicht zu machen sind, die im Rahmen des Versicherungsgeschäfts entstehen. In den Fällen des § 315e Abs. 1 finden abweichend von Satz 1 nur die §§ 290 bis 292, 315e Anwendung; die Sätze 2 und 3 dieses Absatzes und Absatz 2, § 341i Abs. 3 Satz 2 sowie die Bestimmungen der Versicherungsunternehmens-Rechnungslegungsverordnung vom 8. November 1994 (BGBl. I S. 3378) und der Pensionsfonds-Rechnungslegungsverordnung vom 25. Februar 2003 (BGBl. I S. 246) in ihren jeweils geltenden Fassungen sind nicht anzuwenden.
 
 (2) § 304 Abs. 1 braucht nicht angewendet zu werden, wenn die Lieferungen oder Leistungen zu üblichen Marktbedingungen vorgenommen worden sind und Rechtsansprüche der Versicherungsnehmer begründet haben.
 
 (3) Auf Versicherungsunternehmen, die nicht Aktiengesellschaften, Kommanditgesellschaften auf Aktien oder kleinere Vereine sind, ist § 170 Abs. 1 und 3 des Aktiengesetzes entsprechend anzuwenden.
+
+(4) Ein Versicherungsunternehmen, das ein Mutterunternehmen (§ 290) ist, hat den Konzernlagebericht um eine nichtfinanzielle Konzernerklärung zu erweitern, wenn auf die in den Konzernabschluss einzubeziehenden Unternehmen die folgenden Merkmale zutreffen:
+
+1.  
+sie erfüllen die in § 293 Absatz 1 Satz 1 Nummer 1 oder 2 geregelten Voraussetzungen für eine größenabhängige Befreiung nicht und
+
+2.  
+bei ihnen sind insgesamt im Jahresdurchschnitt mehr als 500 Arbeitnehmer beschäftigt.
+
+§ 267 Absatz 4 bis 5, § 298 Absatz 2, § 315b Absatz 2 bis 4 und § 315c sind entsprechend anzuwenden. Wenn die nichtfinanzielle Erklärung einen besonderen Abschnitt des Konzernlageberichts bildet, darf das Versicherungsunternehmen auf die an anderer Stelle im Konzernlagebericht enthaltenen nichtfinanziellen Angaben verweisen.
+
+(5) Ein Versicherungsunternehmen, das nach Absatz 1 in Verbindung mit § 315d eine Konzernerklärung zur Unternehmensführung zu erstellen hat, hat darin Angaben nach § 315d in Verbindung mit § 289f Absatz 2 Nummer 6 aufzunehmen, wenn es in entsprechender Anwendung des § 267 Absatz 3 Satz 1 und Absatz 4 bis 5 als groß gilt.
 
 (+++ § 341j: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
@@ -5089,10 +5347,10 @@ f)
 des § 308 Abs. 1 Satz 3, des § 313 oder des § 314 in Verbindung mit § 341j Abs. 1 Satz 2 oder 3 über die im Konzernanhang zu machenden Angaben,
 
 3.  
-bei der Aufstellung des Lageberichts einer Vorschrift des § 289 oder des § 289a über den Inhalt des Lageberichts,
+bei der Aufstellung des Lageberichts oder der Erstellung eines gesonderten nichtfinanziellen Berichts einer Vorschrift der §§ 289, 289a, 341a Absatz 1a, auch in Verbindung mit § 289b Absatz 2 oder 3 oder mit den §§ 289c, 289d oder § 289e Absatz 2, oder des § 341a Absatz 1b in Verbindung mit § 289f über den Inhalt des Lageberichts oder des gesonderten nichtfinanziellen Berichts,
 
 4.  
-bei der Aufstellung des Konzernlageberichts einer Vorschrift des § 315 Absatz 1, 2, 4 oder Absatz 5 über den Inhalt des Konzernlageberichts,
+bei der Aufstellung des Konzernlageberichts oder der Erstellung eines gesonderten nichtfinanziellen Konzernberichts einer Vorschrift der §§ 315, 315a, 341j Absatz 4, auch in Verbindung mit § 315b Absatz 2 oder 3 oder § 315c, oder des § 341j Absatz 5 in Verbindung mit § 315d über den Inhalt des Konzernlageberichts oder des gesonderten nichtfinanziellen Konzernberichts,
 
 5.  
 bei der Offenlegung, Veröffentlichung oder Vervielfältigung einer Vorschrift des § 328 über Form oder Inhalt oder
@@ -5115,7 +5373,26 @@ eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer Prüfungs
 3.  
 den Gesellschaftern oder der sonst für die Bestellung des Abschlussprüfers zuständigen Stelle einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht entspricht.
 
-(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden. Ist das Versicherungsunternehmen kapitalmarktorientiert im Sinne des § 264d, beträgt die Geldbuße in den Fällen des Absatzes 1 höchstens den höheren der folgenden Beträge:
+
+1.  
+zwei Millionen Euro oder
+
+2.  
+das Zweifache des aus der Ordnungswidrigkeit gezogenen wirtschaftlichen Vorteils, wobei der wirtschaftliche Vorteil erzielte Gewinne und vermiedene Verluste umfasst und geschätzt werden kann.
+
+(3a) Wird gegen ein Versicherungsunternehmen, das kapitalmarktorientiert im Sinne des § 264d ist, in den Fällen des Absatzes 1 eine Geldbuße nach § 30 des Gesetzes über Ordnungswidrigkeiten verhängt, beträgt diese Geldbuße höchstens den höchsten der folgenden Beträge:
+
+1.  
+zehn Millionen Euro,
+
+2.  
+5 Prozent des jährlichen Gesamtumsatzes, den das Versicherungsunternehmen im der Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt hat oder
+
+3.  
+das Zweifache des aus der Ordnungswidrigkeit gezogenen wirtschaftlichen Vorteils, wobei der wirtschaftliche Vorteil erzielte Gewinne und vermiedene Verluste umfasst und geschätzt werden kann.
+
+(3b) Als Gesamtumsatz ist anstelle des Betrags der Umsatzerlöse der sich aus dem auf das Versicherungsunternehmen anwendbaren nationalen Recht im Einklang mit Artikel 63 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluss und den konsolidierten Abschluss von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist, ergebende Gesamtbetrag, abzüglich der Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern, maßgeblich. Handelt es sich bei dem Versicherungsunternehmen um ein Mutterunternehmen oder um ein Tochterunternehmen im Sinne des § 290, ist anstelle des Gesamtumsatzes des Versicherungsunternehmens der jeweilige Gesamtbetrag im Konzernabschluss des Mutterunternehmens maßgeblich, der für den größten Kreis von Unternehmen aufgestellt wird. Wird der Konzernabschluss für den größten Kreis von Unternehmen nicht nach der in Satz 1 genannten Vorschrift aufgestellt, ist der Gesamtumsatz nach Maßgabe der Posten des Konzernabschlusses zu ermitteln, die mit den von Satz 1 erfassten Posten vergleichbar sind. Ist ein Jahres- oder Konzernabschluss für das maßgebliche Geschäftsjahr nicht verfügbar, ist der Jahres- oder Konzernabschluss für das unmittelbar vorausgehende Geschäftsjahr maßgeblich; ist auch dieser nicht verfügbar, kann der Gesamtumsatz geschätzt werden.
 
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 2a die Bundesanstalt für Finanzdienstleistungsaufsicht für die ihrer Aufsicht unterliegenden Versicherungsunternehmen und Pensionsfonds. Unterliegt ein Versicherungsunternehmen und Pensionsfonds der Aufsicht einer Landesbehörde, so ist diese in den Fällen der Absätze 1 und 2a zuständig. In den Fällen des Absatzes 2 ist die Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle zuständig.
 
@@ -5364,7 +5641,7 @@ Beratung des Bundesministeriums der Justiz und für Verbraucherschutz bei Gesetz
 Vertretung der Bundesrepublik Deutschland in internationalen Standardisierungsgremien und
 
 4.  
-Erarbeitung von Interpretationen der internationalen Rechnungslegungsstandards im Sinn des § 315a Abs. 1.
+Erarbeitung von Interpretationen der internationalen Rechnungslegungsstandards im Sinn des § 315e Absatz 1.
 
 Es darf jedoch nur eine solche Einrichtung anerkannt werden, die aufgrund ihrer Satzung gewährleistet, daß die Empfehlungen und Interpretationen unabhängig und ausschließlich von Rechnungslegern in einem Verfahren entwickelt und beschlossen werden, das die fachlich interessierte Öffentlichkeit einbezieht. Soweit Unternehmen oder Organisationen von Rechnungslegern Mitglied einer solchen Einrichtung sind, dürfen die Mitgliedschaftsrechte nur von Rechnungslegern ausgeübt werden.
 
@@ -7586,8 +7863,6 @@ Erster Unterabschnitt Schiffsmiete
 ----------------------------------
 
 ### 
-
-### (XXXX) §§ 553 bis 554 (weggefallen)
 
 ### § 553 Schiffsmietvertrag
 
