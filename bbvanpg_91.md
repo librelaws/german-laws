@@ -2,7 +2,7 @@ Gesetz über die Anpassung von Dienst- und Versorgungsbezügen in Bund und Länd
 ==================================================================================================
 
 Stand  
-Geändert durch Art. 57 G v. 19.2.2006 I 334
+Zuletzt geändert durch Art. 28 G v. 8.7.2016 I 1594
 
 ### 
 
@@ -84,9 +84,7 @@ Art 10
 Art 10
 ------
 
-### § 3 Rückkehr zum einheitlichen Verordnungsrang
-
-Die auf Artikel 1 §§ 3 und 4, Artikel 2 § 2 und Artikel 10 § 1 beruhenden Teile der dort geänderten Verordnungen können auf Grund der jeweils einschlägigen Ermächtigung in Verbindung mit dieser Vorschrift durch Verordnung geändert oder aufgehoben werden.
+### § 3 (weggefallen)
 
 Art 10
 ------
@@ -104,7 +102,7 @@ Art 10
 
 (2)
 
-(3) Die auf Grund der Änderung des § 26 Abs. 1 des Bundesbesoldungsgesetzes und die nach § 1 Nr. 11 der Verordnung zu § 26 Abs. 4 Nr. 1 des Bundesbesoldungsgesetzes möglichen Stellenumwandlungen können in den jeweiligen Besoldungsgruppen zu einem Viertel im Jahr 1992 und zu je einem weiteren Viertel in den Folgejahren vorgenommen werden.
+(3) (weggefallen)
 
 Art. 10 § 5 Abs. 1: Nach Maßgabe der Entscheidungsformel mit Art. 33 Abs. 5 GG unvereinbar gem. BVerfGE v. 24.11.1998; 1999 I 371 - 2 BvL 26/91 u.a. -
 
