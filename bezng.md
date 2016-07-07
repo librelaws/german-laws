@@ -2,7 +2,7 @@ Gesetz zur Zusammenführung und Neugliederung der Bundeseisenbahnen (BEZNG)
 ==========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 15 Abs. 112 G v. 5.2.2009 I 160
+Zuletzt geändert durch Art. 109 G v. 8.7.2016 I 1594
 
 ### 
 
@@ -74,7 +74,7 @@ die Verwaltung und Verwertung der Liegenschaften, die im Sinne des § 20 Abs. 1 
 
 (5) Die Erfüllung der Aufgaben des Bundeseisenbahnvermögens ist öffentlicher Dienst.
 
-(6) Im übrigen wird die Verwaltungsorganisation des Bundeseisenbahnvermögens nach Eintragung der Deutsche Bahn Aktiengesellschaft in das Handelsregister durch eine Verwaltungsordnung geregelt, soweit das Gesetz über die Eisenbahnverkehrsverwaltung des Bundes nichts anderes bestimmt. Die Verwaltungsordnung, die der Präsident aufstellt, bedarf der Zustimmung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung.
+(6) Im übrigen wird die Verwaltungsorganisation des Bundeseisenbahnvermögens nach Eintragung der Deutsche Bahn Aktiengesellschaft in das Handelsregister durch eine Verwaltungsordnung geregelt, soweit das Gesetz über die Eisenbahnverkehrsverwaltung des Bundes nichts anderes bestimmt. Die Verwaltungsordnung, die der Präsident aufstellt, bedarf der Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur.
 
 ### § 7 Personalwesen
 
@@ -82,9 +82,9 @@ die Verwaltung und Verwertung der Liegenschaften, die im Sinne des § 20 Abs. 1 
 
 (2) Die im Zeitpunkt der Zusammenführung bei den in § 1 genannten Sondervermögen bestehenden Tarifverträge für die Angestellten, Arbeiter und Auszubildenden gelten bis zum Inkrafttreten neuer Tarifverträge nach Absatz 3 weiter. Soweit ein Tarifvertrag im Zeitpunkt der Zusammenführung ohne Nachwirkung seine Geltung verliert, werden die durch Rechtsnormen dieses Tarifvertrages geregelten Rechte und Pflichten bis zum Inkrafttreten neuer Tarifverträge Inhalt der betroffenen Arbeitsverhältnisse.
 
-(3) Die Vergütungen, Löhne und Arbeitsbedingungen der Angestellten, Arbeiter und Auszubildenden im Bereich des Bundeseisenbahnvermögens werden durch Tarifverträge geregelt, die mit den zuständigen Gewerkschaften zu schließen sind. Soweit die Vereinbarungen wegen ihrer grundsätzlichen Bedeutung geeignet sind, die Gestaltung der Lohn- und Arbeitsbedingungen in anderen Zweigen der Bundesverwaltung zu beeinflussen, sind sie im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung, dem Bundesministerium der Finanzen und dem Bundesministerium des Innern abzuschließen. Das Einvernehmen gilt als hergestellt, wenn das Bundesministerium für Verkehr, Bau und Stadtentwicklung nicht binnen einer Frist von einem Monat, gerechnet vom Eingang des Antrages auf Abschluß einer Tarifvereinbarung, entschieden hat.
+(3) Die Vergütungen, Löhne und Arbeitsbedingungen der Angestellten, Arbeiter und Auszubildenden im Bereich des Bundeseisenbahnvermögens werden durch Tarifverträge geregelt, die mit den zuständigen Gewerkschaften zu schließen sind. Soweit die Vereinbarungen wegen ihrer grundsätzlichen Bedeutung geeignet sind, die Gestaltung der Lohn- und Arbeitsbedingungen in anderen Zweigen der Bundesverwaltung zu beeinflussen, sind sie im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur, dem Bundesministerium der Finanzen und dem Bundesministerium des Innern abzuschließen. Das Einvernehmen gilt als hergestellt, wenn das Bundesministerium für Verkehr und digitale Infrastruktur nicht binnen einer Frist von einem Monat, gerechnet vom Eingang des Antrages auf Abschluß einer Tarifvereinbarung, entschieden hat.
 
-(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, für die Beamten, die im Zeitpunkt unmittelbar vor der Eintragung der Deutsche Bahn Aktiengesellschaft in das Handelsregister Beamte des Bundeseisenbahnvermögens sind und gemäß § 12 Abs. 1, 2 und 3 des Deutsche Bahn Gründungsgesetzes zu dieser Gesellschaft beurlaubt oder ihr zugewiesen sind, durch Rechtsverordnung
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, für die Beamten, die im Zeitpunkt unmittelbar vor der Eintragung der Deutsche Bahn Aktiengesellschaft in das Handelsregister Beamte des Bundeseisenbahnvermögens sind und gemäß § 12 Abs. 1, 2 und 3 des Deutsche Bahn Gründungsgesetzes zu dieser Gesellschaft beurlaubt oder ihr zugewiesen sind, durch Rechtsverordnung
 
 1.  
 im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium der Finanzen nach Maßgabe des § 26 Abs. 1 Nr. 1 des Bundesbeamtengesetzes die Laufbahnen beim Bundeseisenbahnvermögen selbständig zu gestalten und Ausnahmeregelungen zu treffen,
@@ -94,9 +94,9 @@ im Einvernehmen mit dem Bundesministerium des Innern für die zugewiesenen Beamt
 
 soweit es durch die Eigenart des Eisenbahnbetriebes dieser Gesellschaft begründet ist.
 
-(5) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung ohne Zustimmung des Bundesrates für die in Absatz 4 genannten Beamten die besonderen Vorschriften für die einzelnen Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) in sinngemäßer Anwendung des § 26 Abs. 1 Nr. 2 des Bundesbeamtengesetzes zu erlassen.
+(5) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern durch Rechtsverordnung ohne Zustimmung des Bundesrates für die in Absatz 4 genannten Beamten die besonderen Vorschriften für die einzelnen Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) in sinngemäßer Anwendung des § 26 Abs. 1 Nr. 2 des Bundesbeamtengesetzes zu erlassen.
 
-(6) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann auf Vorschlag des Präsidenten des Bundeseisenbahnvermögens im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium der Finanzen ergänzende Bestimmungen über die Reise- und Umzugskosten der Beamten, die der Deutsche Bahn Aktiengesellschaft gemäß § 12 Abs. 2 und 3 des Deutsche Bahn Gründungsgesetzes zugewiesen sind, erlassen, soweit die Eigenart des Eisenbahnbetriebes es erfordert.
+(6) Das Bundesministerium für Verkehr und digitale Infrastruktur kann auf Vorschlag des Präsidenten des Bundeseisenbahnvermögens im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium der Finanzen ergänzende Bestimmungen über die Reise- und Umzugskosten der Beamten, die der Deutsche Bahn Aktiengesellschaft gemäß § 12 Abs. 2 und 3 des Deutsche Bahn Gründungsgesetzes zugewiesen sind, erlassen, soweit die Eigenart des Eisenbahnbetriebes es erfordert.
 
 ### § 8 Personalvertretung
 
@@ -120,9 +120,9 @@ soweit es durch die Eigenart des Eisenbahnbetriebes dieser Gesellschaft begründ
 
 ### § 10 Vorgesetzte
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung ist oberster Dienstvorgesetzter und Vorgesetzter des Präsidenten des Bundeseisenbahnvermögens. Der Präsident ist oberster Dienstvorgesetzter der Beamten und Vorgesetzter aller Beamten, Angestellten und Arbeiter des Bundeseisenbahnvermögens.
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur ist oberster Dienstvorgesetzter und Vorgesetzter des Präsidenten des Bundeseisenbahnvermögens. Der Präsident ist oberster Dienstvorgesetzter der Beamten und Vorgesetzter aller Beamten, Angestellten und Arbeiter des Bundeseisenbahnvermögens.
 
-(2) Der Präsident des Bundeseisenbahnvermögens ist oberste Dienstbehörde. Beamtenrechtliche Entscheidungen über Bundesbeamte mit festen Gehältern und Gehältern der obersten Besoldungsgruppe der Besoldungsordnungen ergehen im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung nach Maßgabe der Verwaltungsordnung. Die Verwaltungsordnung bestimmt die Dienstposten, deren Besetzung der Zustimmung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung bedarf.
+(2) Der Präsident des Bundeseisenbahnvermögens ist oberste Dienstbehörde. Beamtenrechtliche Entscheidungen über Bundesbeamte mit festen Gehältern und Gehältern der obersten Besoldungsgruppe der Besoldungsordnungen ergehen im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur nach Maßgabe der Verwaltungsordnung. Die Verwaltungsordnung bestimmt die Dienstposten, deren Besetzung der Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur bedarf.
 
 ### § 11 Verwendung auf anderen Dienstposten
 
@@ -148,7 +148,7 @@ es erfordern. Dienstliche Gründe im Sinne der Nummern 1 und 2 sind solche, die 
 
 (2) (weggefallen)
 
-(3) Anstelle der Bundesbahn-Ausführungsbehörde für Unfallversicherung wird eine rechtlich selbständige Eisenbahn-Unfallkasse geschaffen. Der Eisenbahn-Unfallkasse wird gegen Kostenerstattung durch die Mitgliedsunternehmen die Aufgabe der Prävention mit Ausnahme des Erlasses von Verwaltungsvorschriften über die Sicherheit und den Gesundheitsschutz bei der Arbeit für die Beamten des Bundeseisenbahnvermögens, auch soweit sie nach Maßgabe des § 12 des Deutsche Bahn Gründungsgesetzes der Deutsche Bahn Aktiengesellschaft oder den nach § 2 Abs. 1 und § 3 Abs. 3 des genannten Gesetzes ausgegliederten Gesellschaften zugewiesen sind, übertragen. Die Aufsicht über die Durchführung der der Unfallkasse übertragenen Aufgabe führt das Bundesministerium für Verkehr, Bau und Stadtentwicklung; insoweit finden die Vorschriften über die Selbstverwaltung der Träger der Sozialversicherung keine Anwendung. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung regelt das Nähere, insbesondere den Umfang der Erstattung von Personal- und Sachkosten und sonstigen Ausgaben durch die Mitgliedsunternehmen, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
+(3) (weggefallen)
 
 (4) Die Zuständigkeiten der Bundesbahn-Betriebskrankenkasse sowie der Reichsbahn-Betriebskrankenkasse, auch für den Fall der Vereinigung der beiden Kassen zur Bahnbetriebskrankenkasse, erstrecken sich auf die Deutsche Bahn Aktiengesellschaft.
 
@@ -192,11 +192,11 @@ nicht übersteigen.
 
 (2) Das Bundeseisenbahnvermögen stellt für jedes Kalenderjahr rechtzeitig vor dessen Beginn einen Wirtschaftsplan auf. In ihn sind die erwarteten Erlöse und Aufwendungen einzustellen, insbesondere aus der Abrechnung der Personalkosten nach den §§ 21 und 22 des Deutsche Bahn Gründungsgesetzes sowie aus der Verwertung von Liegenschaften. Der Wirtschaftsplan umfaßt ferner einen Stellenplan. Der Wirtschaftsplan ist in Einnahmen und Ausgaben auszugleichen. Für die Aufstellung und Ausführung des Wirtschaftsplans sowie für die Zahlungen, Buchführung und Rechnungslegung gelten die Vorschriften der Bundeshaushaltsordnung entsprechend.
 
-(3) Der Wirtschaftsplan bedarf der Genehmigung durch das Bundesministerium für Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium der Finanzen. Das gleiche gilt für wesentliche Änderungen während des Kalenderjahres. Abweichungen im Stellenplan bedürfen stets der Genehmigung durch das Bundesministerium für Verkehr, Bau und Stadtentwicklung und das Bundesministerium der Finanzen.
+(3) Der Wirtschaftsplan bedarf der Genehmigung durch das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium der Finanzen. Das gleiche gilt für wesentliche Änderungen während des Kalenderjahres. Abweichungen im Stellenplan bedürfen stets der Genehmigung durch das Bundesministerium für Verkehr und digitale Infrastruktur und das Bundesministerium der Finanzen.
 
-(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann mit Einwilligung des Bundesministeriums der Finanzen zulassen, daß das Bundeseisenbahnvermögen die zur Durchführung seiner Aufgaben und zur Erfüllung rechtlich begründeter Verpflichtungen unvermeidbaren Ausgaben leistet, wenn der Wirtschaftsplan zu Beginn des neuen Kalenderjahres noch nicht genehmigt ist.
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur kann mit Einwilligung des Bundesministeriums der Finanzen zulassen, daß das Bundeseisenbahnvermögen die zur Durchführung seiner Aufgaben und zur Erfüllung rechtlich begründeter Verpflichtungen unvermeidbaren Ausgaben leistet, wenn der Wirtschaftsplan zu Beginn des neuen Kalenderjahres noch nicht genehmigt ist.
 
-(5) Verfügungen über Grundstücke und grundstücksgleiche Rechte, deren Wert im Einzelfall 10 Millionen Deutsche Mark übersteigt, bedürfen der Genehmigung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung und des Bundesministeriums der Finanzen.
+(5) Verfügungen über Grundstücke und grundstücksgleiche Rechte, deren Wert im Einzelfall 5 Millionen Euro übersteigt, bedürfen der Genehmigung des Bundesministeriums für Verkehr und digitale Infrastruktur und des Bundesministeriums der Finanzen.
 
 ### § 17 Schuldurkunden
 
@@ -208,7 +208,7 @@ nicht übersteigen.
 
 (1) Das Bundeseisenbahnvermögen stellt am Schluß eines jeden Kalenderjahres die Jahresrechnung für das Sondervermögen auf. Die Jahresrechnung muß den Bestand des Sondervermögens einschließlich der Forderungen und Verbindlichkeiten erkennen lassen sowie die Einnahmen und Ausgaben nachweisen.
 
-(2) Das Bundeseisenbahnvermögen berichtet dem Bundesministerium für Verkehr, Bau und Stadtentwicklung jährlich über seine Tätigkeit, und zwar gegliedert nach
+(2) Das Bundeseisenbahnvermögen berichtet dem Bundesministerium für Verkehr und digitale Infrastruktur jährlich über seine Tätigkeit, und zwar gegliedert nach
 
 1.  
 Personaleinsatz und Personalkosten,
@@ -219,7 +219,7 @@ Verwaltung der Verbindlichkeiten,
 3.  
 Verwertung von Grundstücken.
 
-(3) Das Bundeseisenbahnvermögen ist verpflichtet, dem Bundesministerium für Verkehr, Bau und Stadtentwicklung auf Verlangen Auskunft über die wesentlichen Vorgänge in der Verwaltung und Wirtschaftsführung des Bundeseisenbahnvermögens zu erteilen.
+(3) Das Bundeseisenbahnvermögen ist verpflichtet, dem Bundesministerium für Verkehr und digitale Infrastruktur auf Verlangen Auskunft über die wesentlichen Vorgänge in der Verwaltung und Wirtschaftsführung des Bundeseisenbahnvermögens zu erteilen.
 
 ### § 19 Haushalts- und Wirtschaftsprüfung
 
@@ -229,13 +229,13 @@ Der Bundesrechnungshof prüft die Haushalts- und Wirtschaftsführung des Bundese
 
 (1) Die Bundesrepublik Deutschland (Bundeseisenbahnvermögen) ist berechtigt und verpflichtet, der nach § 1 Abs. 1 des Deutsche Bahn Gründungsgesetzes zu gründenden Deutsche Bahn Aktiengesellschaft aus dem Bestand des Sondervermögens "Bundeseisenbahnvermögen" alle Liegenschaften (Grundstücke, Teile hiervon, grundstücksgleiche Rechte, beschränkte dingliche Rechte) sowie sonstiges Vermögen zu übertragen, soweit dies für das Erbringen von Eisenbahnverkehrsleistungen sowie für das Betreiben der Eisenbahninfrastruktur notwendig (bahnnotwendig) ist. Im übrigen sind die nicht zinspflichtigen Verbindlichkeiten sowie die durch dingliche Rechte an den zu übertragenden Liegenschaften gesicherten Verbindlichkeiten des Bundeseisenbahnvermögens auf die Deutsche Bahn Aktiengesellschaft zu übertragen. Die Deutsche Bahn Aktiengesellschaft wird verpflichtet, unter den Voraussetzungen des § 26 Liegenschaften weiter zu übertragen.
 
-(2) Sind zum Bundeseisenbahnvermögen gehörende Liegenschaften nicht unmittelbar und ausschließlich bahnnotwendig, so ist die Bundesrepublik Deutschland (Bundeseisenbahnvermögen) berechtigt und verpflichtet, der Deutsche Bahn Aktiengesellschaft solche Liegenschaften insoweit zu übertragen, als die Bahnnotwendigkeit nachgewiesen ist. Bis zur Übertragung gemäß Satz 1 erhält die Deutsche Bahn Aktiengesellschaft die Liegenschaften unentgeltlich zur Nutzung mit der Maßgabe, über Veränderungen an diesen Liegenschaften dem Bundesministerium für Verkehr, Bau und Stadtentwicklung zu berichten. Das Nähere regelt eine Vereinbarung zwischen der Deutsche Bahn Aktiengesellschaft und dem Bundeseisenbahnvermögen, die der Genehmigung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium der Finanzen bedarf.
+(2) Sind zum Bundeseisenbahnvermögen gehörende Liegenschaften nicht unmittelbar und ausschließlich bahnnotwendig, so ist die Bundesrepublik Deutschland (Bundeseisenbahnvermögen) berechtigt und verpflichtet, der Deutsche Bahn Aktiengesellschaft solche Liegenschaften insoweit zu übertragen, als die Bahnnotwendigkeit nachgewiesen ist. Bis zur Übertragung gemäß Satz 1 erhält die Deutsche Bahn Aktiengesellschaft die Liegenschaften unentgeltlich zur Nutzung mit der Maßgabe, über Veränderungen an diesen Liegenschaften dem Bundesministerium für Verkehr und digitale Infrastruktur zu berichten. Das Nähere regelt eine Vereinbarung zwischen der Deutsche Bahn Aktiengesellschaft und dem Bundeseisenbahnvermögen, die der Genehmigung des Bundesministeriums für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium der Finanzen bedarf.
 
 (3) Nicht bahnnotwendige Liegenschaften, insbesondere das nicht betrieblichen Zwecken dienende ehemalige Reichsbahnvermögen (Vorratsvermögen) in Berlin (West), verbleiben beim Bundeseisenbahnvermögen.
 
-(4) Die Bundesrepublik Deutschland garantiert, daß die Summe der entsprechend den §§ 7 und 9 des D-Markbilanzgesetzes in der Fassung der Bekanntmachung vom 18. April 1991 (BGBl. I S. 971, 1951), das zuletzt durch Artikel 3 des Gesetzes vom 21. Dezember 1992, (BGBl. I S. 2133) geändert worden ist, bewerteten bahnnotwendigen Liegenschaften mindestens fünf Milliarden Deutsche Mark beträgt, wobei nur der reine Grundstückswert berücksichtigt ist. Die Garantie erstreckt sich nicht auf die in § 26 genannten Liegenschaften. § 9 Abs. 1 Satz 2 des D-Markbilanzgesetzes ist mit der Maßgabe entsprechend anzuwenden, daß die Wertverhältnisse zum Stichtag der Eröffnungsbilanz der Deutsche Bahn Aktiengesellschaft maßgebend sind. Die Garantie erlischt spätestens am 31. Dezember 2001.
+(4) (weggefallen)
 
-(5) Die Garantie nach Absatz 4 erlischt, wenn die Summe der nach den §§ 21 und 23 Abs. 1 Satz 1 übergegangenen und der nach § 23 Abs. 1 Satz 2 übertragenen Liegenschaften, wobei nur der reine Grundstückswert zu berücksichtigen ist, 5 Milliarden Deutsche Mark übersteigt. Die Garantie erlischt spätestens am 31. Dezember 2001.
+(5) (weggefallen)
 
 ### § 21 Vermögensübergang
 
@@ -251,7 +251,7 @@ Liegenschaften des Bundeseisenbahnvermögens, die unmittelbar und ausschließlic
 
 (4) Die auf Grund von Verfügungen nach Absatz 1 Satz 1 veräußerten Liegenschaften sowie der hierbei erzielte Erlös sind dem Bundeseisenbahnvermögen mitzuteilen. Die Deutsche Bahn Aktiengesellschaft ist verpflichtet, einen Betrag in Höhe des Erlöses, mindestens aber in Höhe des Wertes des Vermögensgegenstandes, dem Bundeseisenbahnvermögen auszuzahlen, wenn ihm der Gegenstand durch einen vollziehbaren Übergabebescheid zugeordnet wird.
 
-(5) Die in Absatz 1 Satz 1 genannte Anlage kann durch Rechtsverordnung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium der Justiz geändert werden, um andere Rechtsvorgänger der Bundesrepublik Deutschland Bundeseisenbahnvermögen, der Bundesrepublik Deutschland Sondervermögen "Deutsche Bundesbahn" oder der Deutschen Reichsbahn aufzunehmen.
+(5) Die in Absatz 1 Satz 1 genannte Anlage kann durch Rechtsverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz geändert werden, um andere Rechtsvorgänger der Bundesrepublik Deutschland Bundeseisenbahnvermögen, der Bundesrepublik Deutschland Sondervermögen "Deutsche Bundesbahn" oder der Deutschen Reichsbahn aufzunehmen.
 
 ### § 23 Feststellung des Übergangs und Vornahme der Übertragung
 
@@ -281,11 +281,11 @@ Die Schiedsstelle kann auch angerufen werden, wenn das Bundeseisenbahnvermögen 
 
 (2) Soweit der Antrag begründet ist, entscheidet die Schiedsstelle durch Schiedsspruch, welche Liegenschaften in welchem Umfang übertragen werden. Der Schiedsspruch steht einem vollziehbaren Übergabebescheid gleich; § 23 Abs. 3 gilt sinngemäß.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz durch Rechtsverordnung in Anlehnung an die Vorschriften des Zehnten Buches der Zivilprozeßordnung das Verfahren der Schiedsstelle und deren Besetzung zu regeln. In dieser Rechtsverordnung kann auch geregelt werden, ob und in welcher Höhe eine Vergütung gezahlt wird.
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung in Anlehnung an die Vorschriften des Zehnten Buches der Zivilprozeßordnung das Verfahren der Schiedsstelle und deren Besetzung zu regeln. In dieser Rechtsverordnung kann auch geregelt werden, ob und in welcher Höhe eine Vergütung gezahlt wird.
 
 ### § 25 Verwaltungsvorschriften
 
-Verwaltungsvorschriften zur Durchführung der §§ 20 bis 24 erläßt das Bundesministerium für Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium der Finanzen.
+Verwaltungsvorschriften zur Durchführung der §§ 20 bis 24 erläßt das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium der Finanzen.
 
 ### § 26 Übertragung von Liegenschaften auf Dritte
 
@@ -305,7 +305,7 @@ eine Vereinbarung mit Aufgabenträgern über das Erbringen von Verkehrsleistunge
 -  
 der Aufgabenträger das Erbringen von Verkehrsleistungen im Schienenpersonennahverkehr für mindestens 15 Jahre und das Betreiben der Eisenbahninfrastruktur für mindestens 30 Jahre garantiert.
 
-(3) Die Übertragung der Liegenschaften sowie der durch dingliche Rechte an diesen Liegenschaften gesicherten Verbindlichkeiten erfolgt durch Vertrag, der der Zustimmung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung bedarf.
+(3) Die Übertragung der Liegenschaften sowie der durch dingliche Rechte an diesen Liegenschaften gesicherten Verbindlichkeiten erfolgt durch Vertrag, der der Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur bedarf.
 
 (4) Die Liegenschaften sind im übrigen kostenfrei zu übertragen, es sei denn, die Deutsche Bahn Aktiengesellschaft hat nach Abschluß der Verfahren nach den §§ 22 bis 24 Investitionen getätigt; in diesem Fall hat der Aufgabenträger die anteiligen Abschreibungen und Zinsen zu übernehmen.
 
@@ -339,7 +339,7 @@ Rechtsverordnungen auf Grund dieses Gesetzes bedürfen nicht der Zustimmung des 
 
 ### § 30 Auflösung des Bundeseisenbahnvermögens
 
-(1) Die Bundesregierung wird ermächtigt, frühestens zehn Jahre nach Inkrafttreten dieses Gesetzes das Bundeseisenbahnvermögen aufzulösen und die von ihm noch wahrgenommenen Aufgaben auf das Eisenbahn-Bundesamt, das Bundesministerium für Verkehr, Bau und Stadtentwicklung oder die Bundesschuldenverwaltung zu übertragen.
+(1) Die Bundesregierung wird ermächtigt, frühestens zehn Jahre nach Inkrafttreten dieses Gesetzes das Bundeseisenbahnvermögen aufzulösen und die von ihm noch wahrgenommenen Aufgaben auf das Eisenbahn-Bundesamt, das Bundesministerium für Verkehr und digitale Infrastruktur oder die Bundesschuldenverwaltung zu übertragen.
 
 (2) Die nach § 17 des Deutsche Bahn Gründungsgesetzes gebildeten besonderen Personalvertretungen, Jugend- und Auszubildendenvertretungen sowie Schwerbehindertenvertretungen bestehen bei Auflösung des Bundeseisenbahnvermögens nach Absatz 1 bei der Stelle fort, der die Aufgaben des Bundeseisenbahnvermögens übertragen werden.
 
