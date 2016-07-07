@@ -2,7 +2,7 @@ Gesetz zur Gleichstellung stillgelegter und landwirtschaftlich genutzter Fläche
 ===================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 26 G v. 9.12.2010 I 193
+Zuletzt geändert durch Art. 97 G v. 8.7.2016 I 1594
 
 ### 
 
@@ -18,7 +18,7 @@ für den Anbau von Kurzumtriebswäldern genutzt oder
 2.  
 nicht mehr für die Erzeugung genutzt werden,
 
-soweit diese Flächen für die Nutzung von Zahlungsansprüchen für die einheitliche Betriebsprämie angemeldet worden sind.
+soweit diese Flächen für die Nutzung von Zahlungsansprüchen für die einheitliche Betriebsprämie oder die Basisprämie angemeldet worden sind.
 
 (2) Die für die Landwirtschaft in anderen Rechtsgebieten geltenden Rechtsvorschriften, insbesondere im Bereich des Bürgerlichen Rechts, des Grundstücksverkehrsrechts, des Landpachtverkehrsrechts, des Baurechts, des Naturschutzrechts, der Statistik und des Wasserrechts, finden auf diesen Flächen weiterhin Anwendung. § 1 Abs. 4 Satz 3 und § 21 Abs. 4 des Gesetzes über die Alterssicherung der Landwirte bleiben unberührt.
 
