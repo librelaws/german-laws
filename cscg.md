@@ -2,7 +2,7 @@ Gesetz zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container ()
 ==========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 11 V v. 31.10.2006 I 2407
+Zuletzt geändert durch Art. 12 G v. 8.7.2016 I 1594
 
 ### 
 
@@ -20,13 +20,13 @@ Dem in Genf am 5. Dezember 1972 von der Bundesrepublik Deutschland unterzeichnet
 
 ### Art 2
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, Änderungen der Anlagen des Übereinkommens nach dessen Artikel X, die die Verwirklichung neuer technischer Erkenntnisse hinsichtlich der Sicherheit der dem internationalen Verkehr dienenden Container oder die das anzuwendende technische oder verwaltungsmäßige Verfahren betreffen, durch Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu setzen.
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Änderungen der Anlagen des Übereinkommens nach dessen Artikel X, die die Verwirklichung neuer technischer Erkenntnisse hinsichtlich der Sicherheit der dem internationalen Verkehr dienenden Container oder die das anzuwendende technische oder verwaltungsmäßige Verfahren betreffen, durch Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu setzen.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ferner ermächtigt, ein Verfahren gemäß Artikel IV des Übereinkommens für die Prüfung, Besichtigung und Zulassung der Container entsprechend den in dem Übereinkommen festgelegten Kriterien durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben.
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ferner ermächtigt, ein Verfahren gemäß Artikel IV des Übereinkommens für die Prüfung, Besichtigung und Zulassung der Container entsprechend den in dem Übereinkommen festgelegten Kriterien durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben.
 
-(3) Container ohne gültiges CSC-Sicherheits-Zulassungsschild (Regel 1 der Anlage I des Übereinkommens) dürfen nicht in den oder aus dem Geltungsbereich dieses Gesetzes befördert werden. Satz 1 findet von dem Zeitpunkt an Anwendung, den das Bundesministerium für Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung mit Zustimmung des Bundesrates festlegt.
+(3) Container ohne gültiges CSC-Sicherheits-Zulassungsschild (Regel 1 der Anlage I des Übereinkommens) dürfen nicht in den oder aus dem Geltungsbereich dieses Gesetzes befördert werden. Satz 1 findet von dem Zeitpunkt an Anwendung, den das Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung mit Zustimmung des Bundesrates festlegt.
 
-(4) Die zur Ausführung des Übereinkommens, dieses Gesetzes und der auf ihm beruhenden Rechtsverordnungen erforderlichen Allgemeinen Verwaltungsvorschriften erläßt das Bundesministerium für Verkehr, Bau und Stadtentwicklung mit Zustimmung des Bundesrates. Der Zustimmung des Bundesrates bedarf es nicht, soweit die Allgemeinen Verwaltungsvorschriften an Bundesbehörden gerichtet sind.
+(4) Die zur Ausführung des Übereinkommens, dieses Gesetzes und der auf ihm beruhenden Rechtsverordnungen erforderlichen Allgemeinen Verwaltungsvorschriften erläßt das Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung des Bundesrates. Der Zustimmung des Bundesrates bedarf es nicht, soweit die Allgemeinen Verwaltungsvorschriften an Bundesbehörden gerichtet sind.
 
 ### Art 3
 
@@ -40,11 +40,11 @@ Dem in Genf am 5. Dezember 1972 von der Bundesrepublik Deutschland unterzeichnet
 
 (5) (weggefallen)
 
-(6) Absatz 5 gilt entsprechend für die Bundeswehr.
+(6) Für die Zulassung und die Kontrolle der Überprüfungen nach Regel 2 der Anlage I des Übereinkommens von Containern, die für die Bundeswehr hergestellt werden oder ihr Eigentum sind, ist die Bundeswehr zuständig.
 
 (7) Die Zulassungsbehörde kann sich bei Prüfung und Besichtigung (Artikel IV Abs. 1 und Regel 3 bis 9 der Anlage I des Übereinkommens) der Container (Artikel II Nr. 1 des Übereinkommens) der technischen Hilfe des Germanischen Lloyds sowie der amtlich anerkannten Sachverständigen oder Prüfer für den Kraftfahrzeugverkehr bedienen.
 
-(8) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Stellen als technische Hilfe im Sinne von Absatz 7 zuzulassen, wenn und soweit dies für eine ordnungsgemäße Zulassung notwendig ist.
+(8) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Stellen als technische Hilfe im Sinne von Absatz 7 zuzulassen, wenn und soweit dies für eine ordnungsgemäße Zulassung notwendig ist.
 
 (9) Werden Tankcontainer für die Beförderung gefährlicher Güter nach den Vorschriften über die Beförderung gefährlicher Güter zugelassen, so ist die dafür zuständige Behörde abweichend von den Absätzen 2, 5 und 6 auch für die Erteilung und Entziehung der Zulassung nach diesem Gesetz zuständig; die übrigen Aufgaben nach diesem Gesetz - ausgenommen die nach Artikel 4 - werden dann für diese Tankcontainer von den Behörden und Stellen wahrgenommen, die für die entsprechenden Aufgaben nach den Vorschriften über die Beförderung gefährlicher Güter zuständig sind.
 
@@ -68,7 +68,7 @@ Dem in Genf am 5. Dezember 1972 von der Bundesrepublik Deutschland unterzeichnet
 
 (5) Die Überprüfungen nach Absatz 1 entbinden den Eigentümer nicht von der Verantwortung, jederzeit Schäden zu beseitigen, die aus Sicherheitsgründen unverzüglich behoben werden müssen.
 
-(6) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, daß über die gemäß Regel 2 der Anlage I des Übereinkommens vorgeschriebenen Überprüfungen der Container vom Eigentümer Vermerke angefertigt, aufbewahrt und der Kontrollbehörde auf Verlangen vorgelegt werden, wenn dies zur Gewährleistung der ordnungsgemäßen Unterhaltung und der vorgeschriebenen Überprüfungen der Container erforderlich ist. Unter dieser Voraussetzung kann dem Eigentümer mit Hauptniederlassung oder Sitz im Geltungsbereich dieses Gesetzes aufgegeben werden, die seiner Unterhaltungspflicht unterliegenden Container unter Angabe von Zulassungsland und Zulassungsbezeichnung der Kontrollbehörde mitzuteilen; es kann verlangt werden, daß sich die Sichtkontrolle auch auf das Innere des Containers zu erstrecken hat.
+(6) Das Bundesministerium für Verkehr und digitale Infrastruktur kann durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, daß über die gemäß Regel 2 der Anlage I des Übereinkommens vorgeschriebenen Überprüfungen der Container vom Eigentümer Vermerke angefertigt, aufbewahrt und der Kontrollbehörde auf Verlangen vorgelegt werden, wenn dies zur Gewährleistung der ordnungsgemäßen Unterhaltung und der vorgeschriebenen Überprüfungen der Container erforderlich ist. Unter dieser Voraussetzung kann dem Eigentümer mit Hauptniederlassung oder Sitz im Geltungsbereich dieses Gesetzes aufgegeben werden, die seiner Unterhaltungspflicht unterliegenden Container unter Angabe von Zulassungsland und Zulassungsbezeichnung der Kontrollbehörde mitzuteilen; es kann verlangt werden, daß sich die Sichtkontrolle auch auf das Innere des Containers zu erstrecken hat.
 
 ### Art 6
 
@@ -159,11 +159,11 @@ einer Rechtsverordnung nach Artikel 5 Abs. 6 zuwiderhandelt, soweit sie für ein
 
 ### Art 8
 
-(1) Für Amtshandlungen, Prüfungen und Besichtigungen nach diesem Gesetz und nach den auf diesem Gesetz beruhenden Rechtsverordnungen werden von demjenigen, der die Amtshandlung veranlaßt oder zu dessen Gunsten sie vorgenommen wird, Kosten (Gebühren und Auslagen) erhoben. Kostengläubiger ist der Rechtsträger, dessen Behörde die Amtshandlung vornimmt, bei Auslagen auch der Rechtsträger, bei dessen Behörde die Auslagen entstanden sind. Das Verwaltungskostengesetz findet Anwendung.
+(1) Für Amtshandlungen, Prüfungen und Besichtigungen nach diesem Gesetz und nach den auf diesem Gesetz beruhenden Rechtsverordnungen werden von demjenigen, der die Amtshandlung veranlaßt oder zu dessen Gunsten sie vorgenommen wird, Kosten (Gebühren und Auslagen) erhoben. Kostengläubiger ist der Rechtsträger, dessen Behörde die Amtshandlung vornimmt, bei Auslagen auch der Rechtsträger, bei dessen Behörde die Auslagen entstanden sind. Das Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung findet Anwendung.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, die gebührenpflichtigen Tatbestände mit Zustimmung des Bundesrates durch Rechtsverordnung näher zu bestimmen und dabei feste Gebührensätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, daß zwischen der den Verwaltungsaufwand berücksichtigenden Höhe der Gebühr einerseits und der Bedeutung, dem wirtschaftlichen Wert oder dem sonstigen Nutzen der Amtshandlung andererseits ein angemessenes Verhältnis besteht. Die Gebühren dürfen bei der Entziehung der Zulassung von Containern achthundert Deutsche Mark, in allen übrigen Fällen fünfhundert Deutsche Mark nicht überschreiten.
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, die gebührenpflichtigen Tatbestände mit Zustimmung des Bundesrates durch Rechtsverordnung näher zu bestimmen und dabei feste Gebührensätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, daß zwischen der den Verwaltungsaufwand berücksichtigenden Höhe der Gebühr einerseits und der Bedeutung, dem wirtschaftlichen Wert oder dem sonstigen Nutzen der Amtshandlung andererseits ein angemessenes Verhältnis besteht. Die Gebühren dürfen bei der Entziehung der Zulassung von Containern 400 Euro, in allen übrigen Fällen 250 Euro nicht überschreiten.
 
-(3) In der Rechtsverordnung nach Absatz 2 können die Kostengläubigerschaft, der Umfang der zu erstattenden Auslagen, eine Vorschußpflicht, die Fälligkeit und die Verjährung der Kostenansprüche, die Befreiung von der Kostenpflicht, insbesondere für Unternehmen mit Betriebssitz außerhalb des Geltungsbereiches dieses Gesetzes soweit die Gegenseitigkeit verbürgt ist, sowie das Erhebungsverfahren abweichend vom Verwaltungskostengesetz geregelt werden.
+(3) In der Rechtsverordnung nach Absatz 2 können die Kostengläubigerschaft, der Umfang der zu erstattenden Auslagen, eine Vorschußpflicht, die Fälligkeit und die Verjährung der Kostenansprüche, die Befreiung von der Kostenpflicht, insbesondere für Unternehmen mit Betriebssitz außerhalb des Geltungsbereiches dieses Gesetzes soweit die Gegenseitigkeit verbürgt ist, sowie das Erhebungsverfahren abweichend vom Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung geregelt werden.
 
 ### Art 9
 
@@ -179,4 +179,4 @@ einer Rechtsverordnung nach Artikel 5 Abs. 6 zuwiderhandelt, soweit sie für ein
 
 (2) Der Tag, an dem das Übereinkommen nach seinem Artikel VIII für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird ermächtigt, den Wortlaut des Übereinkommens und der Anlagen in der jeweils gültigen Fassung bekanntzumachen.
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, den Wortlaut des Übereinkommens und der Anlagen in der jeweils gültigen Fassung bekanntzumachen.
