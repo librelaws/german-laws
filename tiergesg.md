@@ -2,7 +2,7 @@ Gesetz zur Vorbeugung vor und Bekämpfung von Tierseuchen (TierGesG)
 ===================================================================
 
 Stand  
-Zuletzt geändert durch Art. 8 Abs. 12 G v. 3.12.2015 I 2178
+Zuletzt geändert durch Art. 4 Abs. 85 G v. 18.7.2016 I 1666
 
 ### 
 
