@@ -2,7 +2,10 @@ Erste Verordnung zur Durchführung des Gesetzes über die Änderung von Familien
 ==================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 15 G v. 3.12.2001 I 3306
+Zuletzt geändert durch Art. 4 Abs. 47 G v. 18.7.2016 I 1666
+
+Sonst  
+Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
 
 ### 
 
