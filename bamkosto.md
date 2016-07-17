@@ -1,8 +1,14 @@
 Kostenverordnung für Nutzleistungen der Bundesanstalt für Materialforschung und -prüfung ()
 ===========================================================================================
 
+Aufh  
+V aufgeh. durch Art. 4 Abs. 63 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Stand  
-Zuletzt geändert durch Art. 1 V v. 1.12.2010 I 1821
+Zuletzt geändert durch Art. 1 V v. 13.3.2018 I 373
+
+Sonst  
+V ursprünglich aufgeh. durch Art. 4 Abs. 66 G v. 7.8.2013 I 3154 mWv 14.8.2018; Art. 4 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666
 
 ### 
 
@@ -18,7 +24,7 @@ Auf Grund des § 28 Abs. 2 und 3 des Gesetzes über explosionsgefährliche Stoff
 
 ### § 1 Anwendungsbereich
 
-Die Bundesanstalt für Materialprüfung (Bundesanstalt) erhebt für ihre Nutzleistungen Kosten (Gebühren und Auslagen) nach dieser Kostenverordnung.
+Die Bundesanstalt für Materialprüfung (Bundesanstalt) erhebt für ihre Nutzleistungen Gebühren und Auslagen nach dieser Kostenverordnung.
 
 ### § 1a Gebühr in besonderen Fällen
 
@@ -89,73 +95,57 @@ bei der Prüfung von Gegenständen, die aus dem Ausland zugesandt werden, die au
 4.  
 Aufwendungen für Lieferungen und Leistungen Dritter.
 
-### § 10 Kostenschuldner
+### § 10 Gebührenschuldner
 
-(1) Zur Zahlung der Kosten ist verpflichtet,
+(1) Zur Zahlung der Gebühren ist verpflichtet,
 
 1.  
 wer die Nutzleistung beantragt,
 
 2.  
-wer die Kosten durch eine gegenüber der Bundesanstalt abgegebene oder ihr mitgeteilte Erklärung übernommen hat,
+wer die Gebühren durch eine gegenüber der Bundesanstalt abgegebene oder ihr mitgeteilte Erklärung übernommen hat,
 
 3.  
-wer für die Kostenschuld eines anderen kraft Gesetzes haftet.
+wer für die Gebührenschuld eines anderen kraft Gesetzes haftet.
 
-(2) Mehrere Kostenschuldner haften als Gesamtschuldner.
+(2) Mehrere Gebührenschuldner haften als Gesamtschuldner.
 
-### § 11 Festsetzung der Kosten, Fälligkeit und Vorschuß
+### § 11 Festsetzung der Gebühren, Fälligkeit und Vorschuss
 
-(1) Die Kosten werden durch schriftlichen Bescheid festgesetzt. Aus dem Bescheid muß mindestens hervorgehen
+(1) Die Gebühren werden durch schriftlichen Bescheid festgesetzt. Aus dem Bescheid muss mindestens hervorgehen:
 
 1.  
-der Kostenschuldner,
+der Gebührenschuldner,
 
 2.  
-die kostenpflichtige Nutzleistung,
+die gebührenpflichtige Nutzleistung,
 
 3.  
-die Höhe der als Gebühren und Auslagen zu zahlenden Beträge,
+die Höhe der als Gebühren zu zahlenden Beträge,
 
 4.  
-die Rechtsgrundlage für die Erhebung der Gebühren und Auslagen sowie deren Berechnung,
+die Rechtsgrundlage für die Erhebung der Gebühren sowie deren Berechnung,
 
 5.  
-wo, wann und wie die Gebühren und Auslagen zu zahlen sind.
+wo, wann und wie die Gebühren zu zahlen sind.
 
-(2) Die Kosten werden mit der Bekanntgabe der Kostenentscheidung an den Kostenschuldner fällig, wenn nicht die Bundesanstalt einen späteren Zeitpunkt bestimmt.
+(2) Die Gebühren werden mit der Bekanntgabe der Gebührenfestsetzung an den Gebührenschuldner fällig, wenn nicht die Bundesanstalt einen späteren Zeitpunkt bestimmt.
 
-(3) Die Erbringung einer Nutzleistung kann von der Zahlung eines angemessenen Vorschusses oder von einer angemessenen Sicherheitsleistung bis zur Höhe der voraussichtlich entstehenden Kosten abhängig gemacht werden.
+(3) Die Erbringung einer Nutzleistung kann von der Zahlung eines angemessenen Vorschusses oder von einer angemessenen Sicherheitsleistung bis zur Höhe der voraussichtlich entstehenden Gebühren abhängig gemacht werden.
 
-(4) Die Aushändigung eines Gutachtens oder die Bekanntgabe der Prüfungsergebnisse kann zurückgestellt werden, bis die durch die Nutzleistung erwachsenen Kosten bezahlt sind.
+(4) Die Aushändigung eines Gutachtens oder die Bekanntgabe der Prüfungsergebnisse kann zurückgestellt werden, bis die durch die Nutzleistung erwachsenen Gebühren bezahlt sind.
 
 ### § 12 Stundung, Niederschlagung und Erlaß
 
-Auf die Stundung, die Niederschlagung und den Erlaß von Forderungen der Bundesanstalt auf Zahlung von Kosten nach dieser Kostenordnung sind die Vorschriften der Bundeshaushaltsordnung entsprechend anzuwenden.
+Auf die Stundung, die Niederschlagung und den Erlaß von Forderungen der Bundesanstalt auf Zahlung von Gebühren nach dieser Kostenordnung sind die Vorschriften der Bundeshaushaltsordnung entsprechend anzuwenden.
 
-### § 13 Verzugszinsen
-
-Die Kosten sind während des Zahlungsverzugs des Kostenschuldners mit 3 vom Hundert über dem jeweiligen Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs, mindestens jedoch mit 6 vom Hundert für das Jahr zu verzinsen.
-
-### § 14 Verjährung
-
-(1) Der Anspruch auf Zahlung von Kosten verjährt nach drei Jahren, spätestens mit dem Ablauf des vierten Jahres nach der Entstehung. Die Verjährung beginnt mit Ablauf des Kalenderjahrs, in dem der Anspruch fällig geworden ist. Mit dem Ablauf dieser Frist erlischt der Anspruch.
-
-(2) Die Verjährung ist gehemmt, solange der Anspruch innerhalb der letzten sechs Monate der Frist wegen höherer Gewalt nicht verfolgt werden kann.
-
-(3) Die Verjährung wird unterbrochen durch schriftliche Zahlungsaufforderung, durch Zahlungsaufschub, durch Stundung, durch Aussetzung der Vollziehung, durch Sicherheitsleistung, durch eine Vollstreckungsmaßnahme, durch Vollstreckungsaufschub, durch Anmeldung im Konkurs und durch Ermittlungen der Bundesanstalt über Wohnsitz oder Aufenthalt des Zahlungspflichtigen.
-
-(4) Mit Ablauf des Kalenderjahrs, in dem die Unterbrechung endet, beginnt eine neue Verjährung.
-
-(5) Die Verjährung wird nur in Höhe des Betrags unterbrochen, auf den sich die Unterbrechungshandlung bezieht.
-
-(6) Wird eine Kostenentscheidung angefochten, so erlöschen Ansprüche aus ihr nicht vor Ablauf von sechs Monaten, nachdem die Kostenentscheidung unanfechtbar geworden ist oder das Verfahren sich auf andere Weise erledigt hat.
+### (XXXX) §§ 13 und 14 (weggefallen)
 
 ### § 15 Erstattung
 
-(1) Überzahlte oder zu Unrecht erhobene Kosten sind unverzüglich zu erstatten, zu Unrecht erhobene Kosten jedoch nur, soweit eine Kostenentscheidung noch nicht unanfechtbar geworden ist; nach diesem Zeitpunkt können zu Unrecht erhobene Kosten nur aus Billigkeitsgründen erstattet werden.
+(1) Überzahlte oder zu Unrecht erhobene Gebühren sind unverzüglich zu erstatten, zu Unrecht erhobene Gebühren jedoch nur, soweit eine Gebührenfestsetzung noch nicht unanfechtbar geworden ist; nach diesem Zeitpunkt können zu Unrecht erhobene Gebühren nur aus Billigkeitsgründen erstattet werden.
 
-(2) Der Erstattungsanspruch erlischt durch Verjährung, wenn er nicht bis zum Ablauf des dritten Kalenderjahrs geltend gemacht wird, das auf die Entstehung des Anspruchs folgt; die Verjährung beginnt jedoch nicht vor der Unanfechtbarkeit der Kostenentscheidung.
+(2) Der Erstattungsanspruch erlischt durch Verjährung, wenn er nicht bis zum Ablauf des dritten Kalenderjahrs geltend gemacht wird, das auf die Entstehung des Anspruchs folgt; die Verjährung beginnt jedoch nicht vor der Unanfechtbarkeit der Gebührenfestsetzung.
 
 ### § 16
 
@@ -171,236 +161,74 @@ Der Bundesminister für Wirtschaft
 
 ### Anlage (zu § 2)
 
-(Fundstelle: BGBl. I 2010, 1821 - 1822)
+(Fundstelle: BGBl. I 2018, 373)
 
-Für Nutzleistungen der Organisationseinheiten (Fachgruppen) der BAM werden die nachstehend aufgeführten Stundensätze berechnet:
+Für Nutzleistungen der Organisationseinheiten (Abteilungen) der BAM werden die nachstehend aufgeführten Stundensätze berechnet:
 
 Organisationseinheit
-(OE)
+Abteilung
 
 Bezeichnung der Organisationseinheit
 
 Stundensatz
-Euro
+in Euro
 
-I.1
+1
 
-Anorganisch-chemische Analytik; Referenzmaterialien
+Analytische Chemie; Referenzmaterialien
 
-119
+126 
 
-I.2
+2
 
-Organisch-chemische Analytik; Referenzmaterialien
+Chemische Sicherheitstechnik
 
-119
+154 
 
-I.3
+3
 
-Strukturanalytik, Polymeranalytik
+Gefahrgutumschließungen
 
-119
+133 
 
-I.4
+4
 
-Prozessanalytik
+Material und Umwelt
 
-119
+137 
 
-I.5
+5
 
-Bioanalytik
+Werkstofftechnik
 
-119
+149 
 
-II.1
+6
 
-Gase, Gasanlagen
+Materialschutz und Oberflächentechnik
 
- 90
+131 
 
-II.2
+7
 
-Reaktionsfähige Stoffe und Stoffsysteme
+Bauwerkssicherheit
 
-121
+115 
 
-II.3
+8
 
-Explosivstoffe
+Zerstörungsfreie Prüfung
 
-137
+132 
 
-III.1
+9
 
-Gefahrgutverpackungen
+Komponentensicherheit
 
- 91
+132 
 
-III.2
+S
 
-Gefahrguttanks und Unfallmechanik
+Qualitätsinfrastruktur
 
- 86
-
-III.3
-
-Sicherheit von Transportbehältern
-
-107
-
-III.4
-
-Sicherheit von Lagerbehältern
-
-107
-
-IV.1
-
-Biologie im Umwelt- und Materialschutz
-
- 96
-
-IV.2
-
-Umweltrelevante Material- und Produkteigenschaften
-
- 92
-
-IV.3
-
-Abfallbehandlung und Altlastensanierung
-
-122
-
-V.1
-
-Struktur und Gefüge von Werkstoffen
-
-144
-
-V.2
-
-Werkstoffmechanik
-
-104
-
-V.3
-
-Betriebsfestigkeit und Bauteilsicherheit
-
-134
-
-V.4
-
-Hochleistungskeramik
-
-101
-
-V.5
-
-Sicherheit gefügter Bauteile
-
-101
-
-V.6
-
-Mechanik der Polymerwerkstoffe
-
- 95
-
-VI.1
-
-Korrosion und Korrosionsschutz
-
- 92
-
-VI.2
-
-Rastersondenmikroskopie, Tribologie und Verschleißschutz
-
- 88
-
-VI.3
-
-Beständigkeit von Polymeren
-
-102
-
-VI.4
-
-Oberflächentechnologien
-
-141
-
-VI.5
-
-Polymeroberflächen
-
-105
-
-VII.1
-
-Baustoffe
-
-124
-
-VII.2
-
-Ingenieurbau
-
-137
-
-VII.3
-
-Brandingenieurwesen
-
-104
-
-VIII.1
-
-Mess- und Prüftechnik; Sensorik
-
-104
-
-VIII.2
-
-Zerstörungsfreie Schadensdiagnose und Umweltmessverfahren
-
- 83
-
-VIII.3
-
-Radiologische Verfahren
-
- 93
-
-VIII.4
-
-Akustische und Elektromagnetische Verfahren
-
- 83
-
-VIII.5
-
-Mikro-ZfP
-
- 83
-
-S.1
-
-Qualität im Prüfwesen
-
- 97
-
-S.2
-
-Akkreditierung und Konformitätsbewertung
-
- 97
-
-S.3
-
-Internationaler Technologietransfer
-
-  97.
+138 
