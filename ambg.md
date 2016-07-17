@@ -2,7 +2,10 @@ Allgemeines Magnetschwebebahngesetz (AMbG)
 ==========================================
 
 Stand  
-Zuletzt geändert durch Art. 4 Abs. 20 G v. 29.7.2009 I 2258
+Zuletzt geändert durch Art. 4 Abs. 115 G v. 18.7.2016 I 1666
+
+Sonst  
+Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
 
 ### 
 
@@ -40,11 +43,11 @@ die Ausübung hoheitlicher Befugnisse sowie von Aufsichts- und Mitwirkungsrechte
 4.  
 die fachliche Untersuchung von Störungen im Magnetschwebebahnbetrieb.
 
-(3) Für Amtshandlungen des Eisenbahn-Bundesamtes werden Kosten (Gebühren und Auslagen) erhoben. Bis zum Inkrafttreten der Rechtsverordnung nach § 10 Abs. 1 Nr. 7 sind die Gebühren im Einzelfall an Hand des mit der Amtshandlung verbundenen Verwaltungsaufwandes und der Bedeutung des wirtschaftlichen Wertes oder des sonstigen Nutzens der Amtshandlung für den Gebührenschuldner unter Berücksichtigung der wirtschaftlichen Verhältnisse des Gebührenschuldners festzusetzen.
+(3) Für individuell zurechenbare öffentliche Leistungen des Eisenbahn-Bundesamtes werden Gebühren und Auslagen erhoben. Bis zum Inkrafttreten der Rechtsverordnung nach § 10 Absatz 1 Nummer 7 sind die Gebühren im Einzelfall anhand des mit der individuell zurechenbaren öffentlichen Leistung verbundenen Verwaltungsaufwandes und der Bedeutung des wirtschaftlichen Wertes oder des sonstigen Nutzens dieser Leistung für den Gebührenschuldner unter Berücksichtigung der wirtschaftlichen Verhältnisse des Gebührenschuldners festzusetzen.
 
-(4) Die Aufgaben der technischen Aufsicht über Betriebsanlagen und Fahrzeuge von Magnetschwebebahnunternehmen können durch Rechtsverordnung des Bundesministeriums für Verkehr, Bau und Stadtentwicklung einer anderen öffentlichen oder privaten Einrichtung übertragen werden. Diese unterliegt der Rechtsaufsicht durch das Eisenbahn-Bundesamt.
+(4) Die Aufgaben der technischen Aufsicht über Betriebsanlagen und Fahrzeuge von Magnetschwebebahnunternehmen können durch Rechtsverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur einer anderen öffentlichen oder privaten Einrichtung übertragen werden. Diese unterliegt der Rechtsaufsicht durch das Eisenbahn-Bundesamt.
 
-(5) Die Einhaltung von Arbeitsschutzvorschriften wird von den nach diesen Vorschriften zuständigen Behörden überwacht. Für Fahrzeuge von Magnetschwebebahnunternehmen und deren Anlagen, die unmittelbar der Sicherstellung des Betriebsablaufs dienen, kann das Bundesministerium für Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des Bundesrates die Zuständigkeit auf das Eisenbahn-Bundesamt übertragen.
+(5) Die Einhaltung von Arbeitsschutzvorschriften wird von den nach diesen Vorschriften zuständigen Behörden überwacht. Für Fahrzeuge von Magnetschwebebahnunternehmen und deren Anlagen, die unmittelbar der Sicherstellung des Betriebsablaufs dienen, kann das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des Bundesrates die Zuständigkeit auf das Eisenbahn-Bundesamt übertragen.
 
 ### § 5 Erteilung und Versagung der Genehmigung
 
@@ -69,7 +72,7 @@ und damit die Gewähr für eine sichere Betriebsführung bieten.
 
 (1) Die Genehmigungsbehörde hat die Genehmigung zu widerrufen, wenn eine der Voraussetzungen des § 5 Abs. 2 nicht mehr vorliegt.
 
-(2) Auf Verlangen der Genehmigungsbehörde hat das Magnetschwebebahnunternehmen den Nachweis zu führen, daß die ihm gesetzlich obliegenden arbeitsrechtlichen, sozialrechtlichen und steuerrechtlichen Verpflichtungen erfüllt werden. Die Finanzbehörden dürfen den Genehmigungsbehörden Mitteilung über die wiederholte Nichterfüllung der steuerrechtlichen Verpflichtungen oder die Abgabe der eidesstattlichen Versicherung nach § 284 der Abgabenordnung machen. Die Mitteilung der Finanzbehörden darf nur für Zwecke eines Widerrufsverfahrens verwendet werden.
+(2) Auf Verlangen der Genehmigungsbehörde hat das Magnetschwebebahnunternehmen den Nachweis zu führen, daß die ihm gesetzlich obliegenden arbeitsrechtlichen, sozialrechtlichen und steuerrechtlichen Verpflichtungen erfüllt werden. Die Finanzbehörden dürfen den Genehmigungsbehörden Mitteilung über die wiederholte Nichterfüllung der steuerrechtlichen Verpflichtungen oder die Abgabe der Vermögensauskunft nach § 284 der Abgabenordnung machen. Die Mitteilung der Finanzbehörden darf nur für Zwecke eines Widerrufsverfahrens verwendet werden.
 
 ### § 7 Beförderungspflicht
 
@@ -120,7 +123,7 @@ Die Aufsichtsbehörde kann von Magnetschwebebahnunternehmen und den im Geschäft
 
 ### § 10 Rechtsverordnungen
 
-(1) Zur Gewährleistung der Sicherheit und Ordnung im Magnetschwebebahnverkehr oder zum Schutz von Leben und Gesundheit der Arbeitnehmer wird das Bundesministerium für Verkehr, Bau und Stadtentwicklung ermächtigt, für öffentliche Magnetschwebebahnen Rechtsverordnungen zu erlassen, die
+(1) Zur Gewährleistung der Sicherheit und Ordnung im Magnetschwebebahnverkehr oder zum Schutz von Leben und Gesundheit der Arbeitnehmer wird das Bundesministerium für Verkehr und digitale Infrastruktur ermächtigt, für öffentliche Magnetschwebebahnen Rechtsverordnungen zu erlassen, die
 
 1.  
 allgemeine Bedingungen für die Beförderung von Personen durch Magnetschwebebahnen in Übereinstimmung mit den Vorschriften des Handelsrechts regeln,
@@ -141,9 +144,9 @@ die Erteilung, Einschränkung und Entziehung der Erlaubnis zum Führen von Magne
 die Ausbildung und die Anforderungen an die Befähigung und Eignung des Magnetschwebebahnbetriebspersonals und die Bestellung, Bestätigung und Prüfung von Betriebsleitern sowie deren Aufgaben und Befugnisse, einschließlich des Verfahrens zur Erlangung von Erlaubnissen und Berechtigungen und deren Entziehung oder Beschränkung betreffen,
 
 7.  
-die Kosten (Gebühren und Auslagen) für Amtshandlungen des Eisenbahn-Bundesamtes nach diesem Gesetz betreffen.
+die Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen des Eisenbahn-Bundesamtes nach diesem Gesetz betreffen.
 
-(2) Zur Gewährleistung des Schutzes von Leben und Gesundheit des Fahrpersonals sowie des Personals, das unmittelbar in der betrieblichen Abwicklung der Beförderung eingesetzt ist, wird das Bundesministerium für Verkehr, Bau und Stadtentwicklung ermächtigt, Rechtsverordnungen zu erlassen über
+(2) Zur Gewährleistung des Schutzes von Leben und Gesundheit des Fahrpersonals sowie des Personals, das unmittelbar in der betrieblichen Abwicklung der Beförderung eingesetzt ist, wird das Bundesministerium für Verkehr und digitale Infrastruktur ermächtigt, Rechtsverordnungen zu erlassen über
 
 1.  
 Arbeitszeiten, Fahrzeiten und deren Unterbrechungen sowie Schichtzeiten,
@@ -166,7 +169,7 @@ die Zulässigkeit abweichender tarifvertraglicher Regelungen über Arbeitszeiten
 
 ### § 11 Allgemeine Verwaltungsvorschriften
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales zur Durchführung der auf Grund des § 10 Abs. 2 erlassenen Rechtsverordnungen Allgemeine Verwaltungsvorschriften erlassen, insbesondere über die Ahndung von Ordnungswidrigkeiten.
+Das Bundesministerium für Verkehr und digitale Infrastruktur kann im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales zur Durchführung der auf Grund des § 10 Abs. 2 erlassenen Rechtsverordnungen Allgemeine Verwaltungsvorschriften erlassen, insbesondere über die Ahndung von Ordnungswidrigkeiten.
 
 ### § 12 Ordnungswidrigkeiten
 
