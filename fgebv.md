@@ -1,8 +1,14 @@
 Frequenzgebührenverordnung (FGebV)
 ==================================
 
+Aufh  
+V aufgeh. durch Art. 4 Abs. 100 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Stand  
-Zuletzt geändert durch Art. 1 V v. 6.2.2012 I 130
+Zuletzt geändert durch Art. 1 V v. 24.9.2013 I 3710
+
+Sonst  
+V aufgeh. durch Art. 4 Abs. 104 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 104 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 ### 
 
@@ -129,6 +135,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | B.9.17   |
 | B.9.18   |
 | B.9.19   |
+| B.10     |
+| B.10.1   |
+| B.10.2   |
+| B.10.3   |
 | C        |
 | C.1      |
 | C.2      |
@@ -147,3 +157,14 @@ Theoretische Versorgungsfläche:Die Theoretische Versorgungsfläche ist eine Ber
 
   
 berechnet werden. Durch Addition der 36 Flächenelemente ergibt sich die Theoretische Versorgungsfläche einer Sendeanlage in qkm. Anteile von Flächenelementen, die aus Gebieten der Nord- und Ostsee bzw. ausländischem Hoheitsgebiet bestehen, werden nicht angerechnet.Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU-R P.370 für 50 % Zeit- und 50 % Ortswahrscheinlichkeit. Die Geländerauhigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in welchem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen (R) kleiner 10 km werden die Ausbreitungskurven verwandt, welche zurzeit auch in den Anlagen 1a und 2a der Richtlinien 176 TR 22 bzw. 5 R 22 zu finden sind.Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren eine Summenfeldstärke des Netzes berechnet. Die Theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.Für Maßnahmen zur Erhöhung der Empfangsfeldstärke, die in einem Gleichwellennetz zu keiner Vergrößerung der Theoretischen Versorgungsfläche dieses Netzes führen, werden keine Zuteilungsgebühren erhoben.
+
+|              |                                                                |
+|--------------|----------------------------------------------------------------|
+| <sup>1</sup> | Die Höhe der Gebühr wird nach der angegebenen Formel bestimmt. |
+|              | Hierbei sind:                                                  |
+|              | *B*                                                            |
+|              | *EW<sub>Region</sub>*                                          |
+|              | *EW<sub>BRD</sub>*                                             |
+|              | *t*                                                            |
+
+
