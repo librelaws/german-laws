@@ -2,7 +2,7 @@ Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder
 =======================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 14.8.2013 I 3259
+Zuletzt geändert durch Art. 4 Abs. 111 G v. 18.7.2016 I 1666
 
 ### 
 
