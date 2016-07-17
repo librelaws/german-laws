@@ -2,10 +2,13 @@ Verordnung über Gebühren für Amtshandlungen der Bundesanstalt für Landwirtsc
 ========================================================================================================================
 
 Aufh  
-V aufgeh. durch Art. 4 Abs. 92 G v. 7.8.2013 I 3154 mWv 14.8.2018
+V aufgeh. durch Art. 4 Abs. 89 G v. 18.7.2016 I 1666 mWv 1.10.2021
 
 Stand  
 geändert durch Art. 2 Abs. 116 G v. 7.8.2013 I 3154
+
+Sonst  
+V ursprünglich aufgeh. durch Art. 4 Abs. 75 G v. 7.8.2013 I 3154 mWv 14.8.2018; Art. 4 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666
 
 ### 
 
