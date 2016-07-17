@@ -1,23 +1,22 @@
-Gebührenverordnung der Berufsgenossenschaft für Transport und Verkehrswirtschaft (BGVGebV)
-==========================================================================================
+Gebührenverordnung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation (BGVGebV)
+========================================================================================================
 
 Aufh  
-V aufgeh. durch Art. 4 Abs. 128 G v. 18.7.2016 I 1666 mWv 1.10.2021
+V aufgeh. durch Art. 4 Abs. 128 iVm Art. 5 Abs. 6 G v. 18.7.2016 I 1666 mWv 1.10.2021
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 1 V v. 14.8.2014 I 1383
+Zuletzt geändert durch Art. 3 V v. 7.3.2018 I 237
 
 Sonst  
 Gem. § 6 Abs. 2 dieser V tritt Abschn. I Buchst. I (Nr. 0750) der Anlage zu § 2 Abs. 1 mWv 1.8.2018 außer Kraft
-
-Hinweis  
-Änderung durch Art. 5 Abs. 6 G v. 18.7.2016 I 1666 (Nr. 35) noch nicht berücksichtigt
 
 ### 
 
 ```
 (+++ Textnachweis ab: 1.8.2013 +++)
 ```
+
+Amtliche Überschrift: IdF d. Art. 2 Nr. 1 V v. 20.2.2018 I 210 mWv 1.3.2018
 
 ### Eingangsformel
 
@@ -34,7 +33,7 @@ des § 12 Absatz 2 in Verbindung mit Absatz 4 des Gefahrgutbeförderungsgesetzes
 
 ### § 1 Anwendungsbereich
 
-(1) Die Berufsgenossenschaft für Transport und Verkehrswirtschaft (Berufsgenossenschaft) erhebt für die Durchführung von Amtshandlungen und individuell zurechenbaren öffentlichen Leistungen auf den Gebieten der Schiffssicherheit, der Verhütung der Meeresverschmutzung durch Schiffe und der Besetzung der Schiffe Gebühren und Auslagen nach dieser Verordnung.
+(1) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation (Berufsgenossenschaft) erhebt für die Durchführung von Amtshandlungen und individuell zurechenbaren öffentlichen Leistungen auf den Gebieten der Schiffssicherheit, der Verhütung der Meeresverschmutzung durch Schiffe und der Besetzung der Schiffe Gebühren und Auslagen nach dieser Verordnung.
 
 (2) Verpflichtungen zur Zahlung von Entgelt für Tätigkeiten einer anerkannten Klassifikationsgesellschaft nach Anlage 2 Abschnitt B Nummer 3.1 der Schiffssicherheitsverordnung vom 18. September 1998 (BGBl. I S. 3013, 3023), die zuletzt durch Artikel 2 § 11 der Verordnung vom 20. Dezember 2012 (BGBl. I S. 2802) geändert worden ist, in der jeweils geltenden Fassung werden durch diese Verordnung nicht berührt.
 
@@ -68,9 +67,11 @@ Soweit Amtshandlungen vor dem 1. August 2013 bereits beantragt oder begonnen wur
 
 (2) Abschnitt I Buchstabe I (Nummer 0750) der Anlage zu § 2 Absatz 1 tritt am 31. Juli 2018 außer Kraft.
 
-(3) Diese Verordnung tritt am 14. August 2018 außer Kraft.
+(3) Diese Verordnung tritt am 1. Oktober 2021 außer Kraft.
 
 ### Anlage (zu § 2 Absatz 1)Gebührenverzeichnis
+
+(BGBl. I 2013, 2715 — 2719)
 
 Lfd. Nr.
 
@@ -78,7 +79,7 @@ Gebührentatbestand
 
 Gebühr in Euro
 
-Führt die Berufsgenossenschaft für Transport und Verkehrswirtschaft die für die Erteilung eines der in den Abschnitten I, II und III Buchstabe B genannten Dokumente erforderliche Besichtigung oder Überprüfung an Bord selbst durch, tritt die Gebühr nach Nummer 5001 hinzu.
+Führt die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation die für die Erteilung eines der in den Abschnitten I, II und III Buchstabe B genannten Dokumente erforderliche Besichtigung oder Überprüfung an Bord selbst durch, tritt die Gebühr nach Nummer 5001 hinzu.
 
 **I.
 Amtshandlungen und individuell zurechenbare öffentliche Leistungen
@@ -248,9 +249,7 @@ Bestätigungsvermerke
 
 0750
 
-Regelmäßiger Bestätigungsvermerk der jährlichen Besichtigung für Zeugnisse nach den Buchstaben A bis F, H, die vor dem Inkrafttreten dieser Verordnung ausgestellt worden sind
-
-145
+(weggefallen)
 
 J.
 
@@ -398,14 +397,17 @@ Erteilung eines vorläufigen SMC
 
 **II.
 Individuell zurechenbare öffentliche Leistungen
-auf dem Gebiet der Verhütung der Meeresverschmutzung
-durch Schiffe nach dem Internationalen
+auf dem Gebiet der Verhütung der Meeresver-
+schmutzung durch Schiffe nach dem Internationalen
 Übereinkommen von 1973 und Protokoll von 1978 zur Verhütung
 der Meeresverschmutzung durch Schiffe (MARPOL 73/78), dem
 SOLAS-Übereinkommen von 1974/88, dem Internationalen Übereinkommen
-von 2001 über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme
-auf Schiffen, dem Internationalen Übereinkommen von 2004 zur Kontrolle und Behandlung von
-Ballastwasser und Sedimenten von Schiffen und der Schiffssicherheitsverordnung 1998**
+von 2001 über die Beschränkung des Einsatzes schädlicher Bewuchs-
+schutzsysteme auf Schiffen, dem Internationalen Übereinkommen von 2004 zur Kontrolle und Behandlung
+von Ballastwasser und Sedimenten von Schiffen und der Schiffssicherheitsverordnung 1998
+und auf dem Gebiet des Schiffsrecyclings nach der Verordnung (EU) Nr. 1257/2013 und des Internationalen
+Übereinkommens von Hongkong von 2009 über das sichere und umweltgerechte
+Recycling von Schiffen (Übereinkommen von Hongkong)**
 
 A.
 
@@ -589,7 +591,7 @@ Genehmigung des bordeigenen Notfallplanes (SOPEP/SMPEP)
 
 2580
 
-Genehmigung der Einleitrate von unbehandeltem Abwasser
+Genehmigung der Einleitrate von unbehandeltem Abwasser.
 
 115
 
@@ -632,6 +634,42 @@ Zulassung des Ballastwasser-Behandlungsplans
 2604
 
 Genehmigung von Änderungen im Sinne der Anlage Regel E-1 Absatz 10 des Ballastwasser-Übereinkommens
+
+nach Zeitaufwand
+
+2605
+
+Erteilung der Inventarbescheinigung nach Erstbesichtigung
+
+745
+
+2606
+
+Erteilung der Inventarbescheinigung nach Erneuerungsbesichtigung
+
+515
+
+2607
+
+Verlängerung der Geltungsdauer der Inventarbescheinigung
+
+115
+
+2608
+
+Erteilung der Recyclingfähigkeitsbescheinigung
+
+515
+
+2609
+
+Verlängerung der Geltungsdauer der Recyclingfähigkeitsbescheinigung
+
+115
+
+2610
+
+Genehmigungen und Prüfungen nach der Verordnung (EU) Nr. 1257/2013 und/oder nach dem Übereinkommen von Hongkong
 
 nach Zeitaufwand
 
@@ -783,3 +821,9 @@ nach Zeitaufwand
 Durchführung von Besichtigungen und Überprüfungen an Bord für die Erteilung der in den Abschnitten I, II und III Buchstabe B genannten Dokumente
 
 nach Zeitaufwand
+
+5002
+
+Zulassung eines Sachverständigen für Traditionsschiffe
+
+1 000
