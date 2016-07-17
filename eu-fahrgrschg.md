@@ -2,13 +2,10 @@ EU-Fahrgastrechte-Schifffahrt-Gesetz (EU-FahrgRSchG)
 ====================================================
 
 Stand  
-Zuletzt geändert durch Art. 20 G v. 19.2.2016 I 254
+Zuletzt geändert Art. 4 Abs. 131 G v. 18.7.2016 I 1666
 
-Hinweis  
-Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 (Nr. 35) noch nicht berücksichtigt
-
-Hinweis  
-Änderung durch Art. 4 Abs. 131 G v. 18.7.2016 I 1666 (Nr. 35) noch nicht berücksichtigt
+Sonst  
+Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
 
 ### 
 
