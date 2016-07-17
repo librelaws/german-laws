@@ -2,13 +2,10 @@ Gesetz über Personalausweise und den elektronischen Identitätsnachweis (PAuswG
 ===============================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 20.6.2015 I 970
+Zuletzt geändert durch Art. 4 Abs. 1 G v. 18.7.2016 I 1666
 
 Sonst  
-Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 (Nr. 35) ist berücksichtigt
-
-Hinweis  
-Änderung durch Art. 4 Abs. 1 G v. 18.7.2016 I 1666 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
 
 ### 
 
