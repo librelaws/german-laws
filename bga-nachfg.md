@@ -2,7 +2,10 @@ Gesetz über Nachfolgeeinrichtungen des Bundesgesundheitsamtes (BGA-NachfG)
 ==========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 4 G v. 22.3.2004 I 454
+Zuletzt geändert durch Art. 4 Abs. 3 G v. 18.7.2016 I 1666
+
+Sonst  
+Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
 
 ### 
 
@@ -90,13 +93,13 @@ gesundheitliche Fragen des Transports gentechnisch veränderter Organismen und P
 
 Soweit die Bundesinstitute Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums, zu dessen Geschäftsbereich sie gehören, wahrnehmen, unterstehen sie den fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde.
 
-### § 6 Kostenerhebung
+### § 6 Gebühren- und Auslagenerhebung
 
-(1) Für Amtshandlungen, insbesondere für Genehmigungen, Eintragungen, Zulassungen, Prüfungen, Untersuchungen, Bescheinigungen, Beglaubigungen, Akteneinsicht sowie Auskünfte des Bundesinstitutes für Arzneimittel und Medizinprodukte und des Robert Koch-Institutes werden Kosten (Gebühren und Auslagen) erhoben. Spezielle gesetzliche Kostenregelungen bleiben unberührt.
+(1) Für individuell zurechenbare öffentliche Leistungen, insbesondere für Genehmigungen, Eintragungen, Zulassungen, Prüfungen, Untersuchungen, Bescheinigungen, Beglaubigungen, Akteneinsicht sowie Auskünfte des Bundesinstitutes für Arzneimittel und Medizinprodukte und des Robert Koch-Institutes, werden Gebühren und Auslagen erhoben. Spezielle gesetzliche Gebührenregelungen bleiben unberührt.
 
-(2) Das Bundesministerium, zu dessen Geschäftsbereich das jeweilige Bundesinstitut gehört, wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates für die Amtshandlungen der in den §§ 1 und 2 genannten Bundesinstitute die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Höhe der Gebühren bestimmt sich jeweils nach dem durchschnittlichen Personal- und Sachaufwand; daneben kann die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen der Amtshandlung für den Gebührenschuldner angemessen berücksichtigt werden.
+(2) Das Bundesministerium, zu dessen Geschäftsbereich das jeweilige Bundesinstitut gehört, wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates für die individuell zurechenbare öffentliche Leistungen der in den §§ 1 und 2 genannten Bundesinstitute die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Höhe der Gebühren bestimmt sich jeweils nach dem durchschnittlichen Personal- und Sachaufwand; daneben kann die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen der Leistung für den Gebührenschuldner angemessen berücksichtigt werden.
 
-(3) Das Verwaltungskostengesetz findet Anwendung.
+(3) (weggefallen)
 
 ### § 7 Übernahme der Beamten und Arbeitnehmer
 
