@@ -2,10 +2,7 @@ Telemediengesetz (TMG)
 ======================
 
 Stand  
-Zuletzt geändert durch Art. 4 G v. 17.7.2015 I 1324
-
-Hinweis  
-Änderung durch Art. 1 G v. 21.7.2016 I 1766 (Nr. 36) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 1 G v. 21.7.2016 I 1766
 
 ### 
 
