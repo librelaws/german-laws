@@ -2,10 +2,10 @@ Futtermittelverordnung ()
 =========================
 
 Neuf  
-Neugefasst durch Bek. v. 15.10.2015 I 1687
+Neugefasst durch Bek. v. 29.08.2016 I 2004
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 23.11.2015 BAnz AT 30.11.2015 V2
+Zuletzt geändert durch Art. 2 V v. 18.7.2018 I 1219
 
 ### 
 
@@ -77,7 +77,8 @@ Richtlinie 2010/6/EU der Kommission vom 9. Februar 2010 zur Änderung des Anhang
 
 ```
 (+++ Textnachweis ab: 15.4.1981 +++)
-(+++ Zur Anwendung vgl. § 37c +++) 
+(+++ Zur Anwendung vgl. § 37c +++)
+(+++ Zur Anwendung vgl. § 52 F 29.8.2016 +++)
 (+++ Zur Anwendung im Beitrittsgebiet vgl. V v. 28.9.1990 I 2117 (EGRÜblV) u.
      V v. 18.12.1990 I 2915 (EGRechtÜblV) +++)
 (+++ Amtliche Hinweise des Normgebers auf EG-Recht:
@@ -256,39 +257,40 @@ Richtlinie 2010/6/EU der Kommission vom 9. Februar 2010 zur Änderung des Anhang
        EGRL 82/2008       (CELEX Nr: 32008L0082)
        EGRL 8/2009        (CELEX Nr: 32009L0008)
        EGRL 141/2009      (CELEX Nr: 32009L0141)
-       EURL 6/2010        (CELEX Nr: 32010L0006) vgl. Bek. v. 5.7.2013 I 2242  
+       EURL 6/2010        (CELEX Nr: 32010L0006) vgl. Bek. v. 5.7.2013 I 2242
+                                                 iVm Bek. v. 29.8.2016 I 2004  
+  
                                                                            +++)
 ```
+
+Abschnitt 1 Allgemeine Bestimmungen
+-----------------------------------
+
+### 
 
 ### § 1 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
 
 1.  
-nicht der Lebensmittelgewinnung dienendes Tier: nicht der Lebensmittelgewinnung dienendes Tier im Sinne des Artikels 3 Absatz 2 Buchstabe d der Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung 2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1, L 192 vom 22.7.2011, S. 71), die zuletzt durch die Verordnung (EU) Nr. 939/2010 (ABl. L 277 vom 21.10.2010, S. 4) geändert worden ist,
+nicht der Lebensmittelgewinnung dienendes Tier: nicht der Lebensmittelgewinnung dienendes Tier im Sinne des Artikels 3 Absatz 2 Buchstabe d der Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung 2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1, L 192 vom 22.7.2011, S. 71), die zuletzt durch die Verordnung (EU) 2017/2279 (ABl. L 328 vom 12.12.2017, S. 3) geändert worden ist,
 
 2.  
-Pelztier: Pelztier im Sinne des Artikels 3 Absatz 2 Buchstabe e der Verordnung (EG) Nr. 767/2009,
-
-3.  
 Heimtier: Heimtier im Sinne des Artikels 3 Absatz 2 Buchstabe f der Verordnung (EG) Nr. 767/2009,
 
-4.  
+3.  
 Ergänzungsfuttermittel: Ergänzungsfuttermittel im Sinne des Artikels 3 Absatz 2 Buchstabe j der Verordnung (EG) Nr. 767/2009,
 
-5.  
-Milchaustausch-Futtermittel: Milchaustausch-Futtermittel im Sinne des Artikels 3 Absatz 2 Buchstabe l der Verordnung (EG) Nr. 767/2009,
-
-6.  
+4.  
 Futtermittel für besondere Ernährungszwecke: Futtermittel für besondere Ernährungszwecke im Sinne des Artikels 3 Absatz 2 Buchstabe o der Verordnung (EG) Nr. 767/2009,
 
-7.  
+5.  
 Inhaltsstoffe: Stoffe – außer Futtermittelzusatzstoffen, Mittelrückständen und unerwünschten Stoffen –, die in einem Einzelfuttermittel oder Mischfuttermittel enthalten sind und seinen Futterwert beeinflussen, es sei denn, dass diese Beeinflussung nur unerheblich ist,
 
-8.  
+6.  
 Pestizidrückstände: Pestizidrückstände im Sinne des Artikels 3 Absatz 2 Buchstabe c der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1) in der jeweils geltenden Fassung,
 
-9.  
+7.  
 EG-Zulassungsverordnung: Verordnung der Europäischen Gemeinschaft oder der Europäischen Union nach
 
 a)  
@@ -297,19 +299,19 @@ Artikel 3, 9g Absatz 5, Artikel 9h Absatz 3 oder Artikel 9i Absatz 3 der Richtli
 b)  
 Artikel 3 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates vom 22. September 2003 über Zusatzstoffe zur Verwendung in der Tierernährung (ABl. L 268 vom 18.10.2003, S. 29, L 192 vom 29.5.2004, S. 34, L 98 vom 13.4.2007, S. 29) in der jeweils geltenden Fassung,
 
-10.  
+8.  
 Einfuhr: Einfuhr im Sinne des Artikels 2 Unterabsatz 2 Nummer 15 der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1, L 191 vom 28.5.2004, S. 1, L 204 vom 4.8.2007, S. 29) in der jeweils geltenden Fassung,
 
-11.  
+9.  
 Mitgliedstaat: ein Staat, der der Europäischen Union angehört,
 
-12.  
+10.  
 Vertragsstaat: ein Staat, der – ohne Mitglied der Europäischen Union zu sein – Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist,
 
-13.  
+11.  
 Drittland: Staat, der nicht Mitgliedstaat oder Vertragsstaat ist,
 
-14.  
+12.  
 Fernabsatzvertrag: Vertrag, bei dem
 
 a)  
@@ -320,52 +322,33 @@ eine natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die wed
 
 für die Vertragsverhandlungen und den Vertragsschluss ausschließlich Fernkommunikationsmittel verwenden, es sei denn, dass der Vertragsschluss nicht im Rahmen eines für den Fernabsatz organisierten Vertriebs- oder Dienstleistungssystems erfolgt,
 
-15.  
+13.  
 Fernkommunikationsmittel: Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines Vertrages eingesetzt werden können, ohne dass die Vertragsparteien gleichzeitig körperlich anwesend sind, wie Briefe, Kataloge, Telekopien, E-Mails oder Telemedien.
 
 (+++ Vgl. Anwendungsregelung zu § 37c +++)
 
-### § 2 Probenahme
+Abschnitt 2 Verkehr mit Futtermitteln
+-------------------------------------
 
-Wird eine im Rahmen der amtlichen Überwachung gebildete Endprobe eines Futtermittels bei demjenigen zurückgelassen, der nicht der Hersteller des beprobten Futtermittels ist, hat derjenige die Endprobe sachgerecht zu lagern und aufzubewahren.
+### 
 
-(+++ Vgl. Anwendungsregelung zu § 37c +++)
+Unterabschnitt 1 Verwendungszwecke für Diätfuttermittel
+-------------------------------------------------------
 
-### § 3 Analysemethoden
+### 
 
-Sind für die amtliche Untersuchung von Futtermitteln keine Analysemethoden nach
+### § 2 Verwendungszwecke für Diätfuttermittel
 
-1.  
-Artikel 11 Absatz 1 einleitender Satzteil oder
+Für Diätfuttermittel werden die in Anlage 1 Spalte 1 aufgeführten besonderen Ernährungszwecke festgesetzt, soweit in einem unmittelbar geltenden Rechtsakt der Europäischen Union auf Grund des Artikels 10 Absatz 5 der Verordnung (EG) Nr. 767/2009 in Anhang I Teil B der Richtlinie 2008/38/EG der Kommission vom 5. März 2008 mit dem Verzeichnis der Verwendungen von Futtermitteln für besondere Ernährungszwecke (ABl. L 62 vom 6.3.2008, S. 9, L 175 vom 4.7.2015, S. 126) in der jeweils geltenden Fassung keine besonderen Ernährungszwecke ergänzt oder gestrichen oder dort keine wesentlichen ernährungsphysiologischen Merkmale ergänzt, gestrichen oder geändert werden.
 
-2.  
-Artikel 11 Absatz 1 Buchstabe a, soweit sich dieser auf international anerkannte Regeln oder Protokolle bezieht,
+Unterabschnitt 2 Kennzeichnung und Inverkehrbringen
+---------------------------------------------------
 
-der Verordnung (EG) Nr. 882/2004 vorgeschrieben, ist die amtliche Untersuchung nach Analysemethoden durchzuführen, die vom Bundesamt für Verbraucherschutz und Lebensmittelsicherheit nach § 64 Absatz 2 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches veröffentlicht worden sind. Soweit keine Methoden nach Satz 1 veröffentlicht worden sind, ist die amtliche Untersuchung nach den Methoden aus dem Handbuch der Landwirtschaftlichen Versuchs- und Untersuchungsmethodik (VDLUFA-Methodenbuch), Band III „Die chemische Untersuchung von Futtermitteln“, 7. Ergänzungslieferung 2007, oder aus dem Handbuch Band VII „Umweltanalytik“, 3. Auflage 2008, des Verbandes Deutscher Landwirtschaftlicher Untersuchungs- und Forschungsanstalten (VDLUFA) durchzuführen. Bezugsquelle der Methodenbücher ist der VDLUFA-Verlag, Obere Langgasse 40, D-67346 Speyer. Sofern keine Methoden nach Satz 2 vorliegen, muss die amtliche Untersuchung nach anderen dem Artikel 11 Absatz 1 Buchstabe b der Verordnung (EG) Nr. 882/2004 entsprechenden Verfahren durchgeführt werden.
+### 
 
-### § 4 Untersuchung von Futtermitteln auf Pestizidrückstände
+### § 3 Inverkehrbringen bestimmter Diätfuttermittel
 
-Bei der amtlichen Untersuchung von Futtermitteln auf Pestizidrückstände sind
-
-1.  
-die in der amtlichen Sammlung von Untersuchungsverfahren nach § 64 Absatz 2 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches aufgeführten Analysemethoden oder, soweit dort keine Analysemethoden aufgeführt sind, die in der amtlichen Sammlung von Untersuchungsverfahren nach § 64 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches für stoffgleiche Lebensmittel aufgeführten Analysemethoden,
-
-2.  
-die in der Richtlinie 2002/63/EG der Kommission vom 11. Juli 2002 zur Festlegung gemeinschaftlicher Probenahmeverfahren zur amtlichen Kontrolle von Pestizidrückständen in und auf Erzeugnissen pflanzlichen und tierischen Ursprungs und zur Aufhebung der Richtlinie 79/700/EWG (ABl. L 187 vom 16.7.2002, S. 30) in der jeweils geltenden Fassung festgelegten Probenahmeverfahren
-
-anzuwenden. Soweit für bestimmte Stoffe nach Satz 1 Nummer 2 kein Probenahmeverfahren vorgeschrieben ist, hat die Probenahme nach einem geeigneten Verfahren, insbesondere nach den Vorschriften der Verordnung (EG) Nr. 152/2009 der Kommission vom 27. Januar 2009 zur Festlegung der Probenahmeverfahren und Analysemethoden für die amtliche Untersuchung von Futtermitteln (ABl. L 54 vom 26.2.2009, S. 1) in der jeweils geltenden Fassung oder den in der amtlichen Sammlung von Untersuchungsverfahren nach § 64 Absatz 1 des Lebensmittel- und Futtermittelgesetzbuches für stoffgleiche Lebensmittel aufgeführten Probenahmeverfahren, zu erfolgen.
-
-### (XXXX) §§ 5 bis 9 (weggefallen)
-
-### § 9a Verwendungszwecke für Diätfuttermittel
-
-Für Diätfuttermittel werden die in Anlage 2a Spalte 1 aufgeführten besonderen Ernährungszwecke festgesetzt, soweit in einem unmittelbar geltenden Rechtsakt der Europäischen Union auf Grund des Artikels 10 Absatz 5 der Verordnung (EG) Nr. 767/2009 in Anhang I Teil B der Richtlinie 2008/38/EG der Kommission vom 5. März 2008 mit dem Verzeichnis der Verwendungen von Futtermitteln für besondere Ernährungszwecke (ABl. L 62 vom 6.3.2008, S. 9) in der jeweils geltenden Fassung keine besonderen Ernährungszwecke ergänzt oder gestrichen oder dort keine wesentlichen ernährungsphysiologischen Merkmale ergänzt, gestrichen oder geändert werden.
-
-(+++ Vgl. Anwendungsregelung zu § 37c +++)
-
-### § 10 Inverkehrbringen bestimmter Diätfuttermittel
-
-(1) Ein Diätfuttermittel darf zu einem durch die Verordnung (EU) Nr. 1070/2010 der Kommission vom 22. November 2010 zur Änderung der Richtlinie 2008/38/EG durch Aufnahme der Unterstützung des Gelenkstoffwechsels bei Osteoarthritis bei Hunden und Katzen als besonderer Ernährungszweck in das Verzeichnis der Verwendungszwecke (ABl. L 306 vom 23.11.2010, S. 42) in Anhang I Teil B der Richtlinie 2008/38/EG festgesetzten besonderen Ernährungszweck nur in den Verkehr gebracht werden, wenn es die jeweiligen ergänzenden Anforderungen
+(1) Ein Diätfuttermittel darf zu einem durch die Verordnung (EU) Nr. 1070/2010 der Kommission vom 22. November 2010 zur Änderung der Richtlinie 2008/38/EG durch Aufnahme der Unterstützung des Gelenkstoffwechsels bei Osteoarthrose bei Hunden und Katzen als besonderer Ernährungszweck in das Verzeichnis der Verwendungszwecke (ABl. L 306 vom 23.11.2010, S. 42, L 273 vom 17.10.2015, S. 15) in Anhang I Teil B der Richtlinie 2008/38/EG festgesetzten besonderen Ernährungszweck nur in den Verkehr gebracht werden, wenn es die jeweiligen ergänzenden Anforderungen
 
 1.  
 des Anhangs I Teil A Nummer 1, 2, 4, 5, 7 und 8 und
@@ -375,7 +358,7 @@ des Anhangs I Teil A Nummer 3 und 6
 
 der Richtlinie 2008/38/EG in der am 13. Dezember 2014 geltenden Fassung erfüllt.
 
-(2) Ein Diätfuttermittel darf zu einem durch die Verordnung (EU) Nr. 5/2014 der Kommission vom 6. Januar 2014 zur Änderung der Richtlinie 2008/38/EG mit dem Verzeichnis der Verwendungen von Futtermitteln für besondere Ernährungszwecke (ABl. L 2 vom 7.1.2014, S. 3) in Anhang I Teil B der Richtlinie 2008/38/EG festgesetzten besonderen Ernährungszweck nur in den Verkehr gebracht werden, wenn es die jeweiligen ergänzenden Anforderungen
+(2) Ein Diätfuttermittel darf zu einem durch die Verordnung (EU) Nr. 5/2014 der Kommission vom 6. Januar 2014 zur Änderung der Richtlinie 2008/38/EG mit dem Verzeichnis der Verwendungen von Futtermitteln für besondere Ernährungszwecke (ABl. L 2 vom 7.1.2014, S. 3, L 175 vom 4.7.2015, S. 127) in Anhang I Teil B der Richtlinie 2008/38/EG festgesetzten besonderen Ernährungszweck nur in den Verkehr gebracht werden, wenn es die jeweiligen ergänzenden Anforderungen
 
 1.  
 des Anhangs I Teil A Nummer 1, 2, 4, 5, 7 und 8 und
@@ -383,9 +366,9 @@ des Anhangs I Teil A Nummer 1, 2, 4, 5, 7 und 8 und
 2.  
 des Anhangs I Teil A Nummer 3 und 6
 
-der Richtlinie 2008/38/EG in der am 13. Dezember 2014 geltenden Fassung erfüllt. Dabei sind der festgesetzte besondere Ernährungszweck „Gewichtszunahme, Rekonvaleszenz“ und der festgesetzte besondere Ernährungszweck „Stabilisierung der physiologischen Verdauung“ in der Fassung der Verordnung (EU) Nr. 1123/2014 der Kommission vom 22. Oktober 2014 zur Änderung der Richtlinie 2008/38/EG mit dem Verzeichnis der Verwendungen von Futtermitteln für besondere Ernährungszwecke (ABl. L 304 vom 23.10.2014, S. 81) anzuwenden.
+der Richtlinie 2008/38/EG in der am 13. Dezember 2014 geltenden Fassung erfüllt. Dabei sind der festgesetzte besondere Ernährungszweck „Ernährungsphysiologische Wiederherstellung, Rekonvaleszenz“ und der festgesetzte besondere Ernährungszweck „Stabilisierung der physiologischen Verdauung“ in der Fassung der Verordnung (EU) Nr. 1123/2014 der Kommission vom 22. Oktober 2014 zur Änderung der Richtlinie 2008/38/EG mit dem Verzeichnis der Verwendungen von Futtermitteln für besondere Ernährungszwecke (ABl. L 304 vom 23.10.2014, S. 81, L 175 vom 4.7.2015, S. 126) anzuwenden.
 
-(3) Ein Diätfuttermittel darf zu einem durch die Verordnung (EU) Nr. 1123/2014 der Kommission vom 22. Oktober 2014 zur Änderung der Richtlinie 2008/38/EG mit dem Verzeichnis der Verwendungen von Futtermitteln für besondere Ernährungszwecke (ABl. L 304 vom 23.10.2014, S. 81) in Anhang I Teil B der Richtlinie 2008/38/EG festgesetzten besonderen Ernährungszweck nur in den Verkehr gebracht werden, wenn es die jeweiligen ergänzenden Anforderungen
+(3) Ein Diätfuttermittel darf zu einem durch die Verordnung (EU) Nr. 1123/2014 der Kommission vom 22. Oktober 2014 zur Änderung der Richtlinie 2008/38/EG mit dem Verzeichnis der Verwendungen von Futtermitteln für besondere Ernährungszwecke (ABl. L 304 vom 23.10.2014, S. 81, L 175 vom 4.7.2015, S. 126) in Anhang I Teil B der Richtlinie 2008/38/EG festgesetzten besonderen Ernährungszweck nur in den Verkehr gebracht werden, wenn es die jeweiligen ergänzenden Anforderungen
 
 1.  
 des Anhangs I Teil A Nummer 1, 2, 4, 5, 7 und 8 und
@@ -393,17 +376,17 @@ des Anhangs I Teil A Nummer 1, 2, 4, 5, 7 und 8 und
 2.  
 des Anhangs I Teil A Nummer 3 und 6
 
-der Richtlinie 2008/38/EG in der am 13. Dezember 2014 geltenden Fassung erfüllt. Satz 1 gilt nicht für den durch die Verordnung (EU) Nr. 1123/2014 festgesetzten besonderen Ernährungszweck „Gewichtszunahme, Rekonvaleszenz“ und den durch die Verordnung (EU) Nr. 1123/2014 festgesetzten besonderen Ernährungszweck „Stabilisierung der physiologischen Verdauung“.
+der Richtlinie 2008/38/EG in der am 13. Dezember 2014 geltenden Fassung erfüllt. Satz 1 gilt nicht für den durch die Verordnung (EU) Nr. 1123/2014 festgesetzten besonderen Ernährungszweck „Ernährungsphysiologische Wiederherstellung, Rekonvaleszenz“ und den durch die Verordnung (EU) Nr. 1123/2014 festgesetzten besonderen Ernährungszweck „Stabilisierung der physiologischen Verdauung“.
 
-### § 11 Kennzeichnung bestimmter Futtermittel
+### § 4 Kennzeichnung bestimmter Futtermittel
 
 (1) Diätfuttermittel dürfen nur in den Verkehr gebracht werden, wenn angegeben sind:
 
 1.  
-die Gehalte an den in Anlage 2a Spalte 4 aufgeführten Inhaltsstoffen und der Gehalt an Energie, sofern diese Angabe nach Anlage 2a Spalte 4 vorgesehen ist, und
+die Gehalte an den in Anlage 1 Spalte 4 aufgeführten Inhaltsstoffen und der Gehalt an Energie, sofern diese Angabe nach Anlage 1 Spalte 4 vorgesehen ist, und
 
 2.  
-die Einzelfuttermittel oder Futtermittelzusatzstoffe nach Anlage 2a Spalte 5, die für die ernährungsphysiologischen Merkmale nach Anlage 2a Spalte 2 wesentlich sind.
+die Einzelfuttermittel oder Futtermittelzusatzstoffe nach Anlage 1 Spalte 5, die für die ernährungsphysiologischen Merkmale nach Anlage 1 Spalte 2 wesentlich sind.
 
 Diät-Ergänzungsfuttermittel dürfen ferner nur in den Verkehr gebracht werden, wenn Hinweise auf eine ausgewogene Zusammensetzung der Tagesration angegeben sind.
 
@@ -425,9 +408,7 @@ die Menge der darin enthaltenen nicht proteinhaltigen Stickstoffverbindungen, au
 
 (4) Ergänzungsfuttermittel für Kälber oder Schaf- oder Ziegenlämmer, die Ammoniumsulfat enthalten, dürfen nur mit dem Hinweis in den Verkehr gebracht werden, dass der Gehalt an Ammoniumsulfat in der täglichen Ration 0,5 vom Hundert nicht überschreiten darf.
 
-(+++ Vgl. Anwendungsregelung zu § 37c +++)
-
-### § 12 Kennzeichnung von Futtermitteln bei Fernabsatzverträgen
+### § 5 Kennzeichnung von Futtermitteln bei Fernabsatzverträgen
 
 Ein Futtermittel darf durch Fernkommunikationsmittel nur zum Verkauf angeboten werden, wenn die für das jeweilige Futtermittel erforderlichen Kennzeichnungsangaben nach
 
@@ -439,9 +420,9 @@ Artikel 19 der Verordnung (EG) Nr. 767/2009
 
 vor dem Abschluss eines Fernabsatzvertrags auf dem Trägermaterial des jeweiligen Fernabsatzgeschäfts erscheinen oder vor dem Abschluss eines Fernabsatzvertrags auf andere angemessene Weise bekannt gegeben werden.
 
-### § 13 Angaben
+### § 6 Angaben
 
-(1) Werden bei Mischfuttermitteln Angaben über den Gehalt an Energie gemacht, so sind diese Angaben nach den Schätzgleichungen in Anlage 4 Teil 1, soweit dort für die jeweilige Tierart eine Schätzgleichung festgeschrieben ist, zu berechnen. Die Nettoenergie-Laktation und die umsetzbare Energie sind, bezogen auf die Originalsubstanz, in Megajoule je Kilogramm (MJ/kg) mit einer Dezimalstelle anzugeben. Angaben über den Gehalt an Energie nach Satz 1 gelten noch als richtig, wenn die festgestellten Gehalte die angegebenen Gehalte um nicht mehr als nachstehend aufgeführt unterschreiten:
+(1) Werden bei Mischfuttermitteln Angaben über den Gehalt an Energie gemacht, so sind diese Angaben nach den Schätzgleichungen in Anlage 2 Teil 1, soweit dort für die jeweilige Tierart eine Schätzgleichung festgeschrieben ist, zu berechnen. Die Nettoenergie-Laktation und die umsetzbare Energie sind, bezogen auf die Originalsubstanz, in Megajoule je Kilogramm (MJ/kg) mit einer Dezimalstelle anzugeben. Angaben über den Gehalt an Energie nach Satz 1 gelten noch als richtig, wenn die festgestellten Gehalte die angegebenen Gehalte um nicht mehr als nachstehend aufgeführt unterschreiten:
 
 1.  
 Umsetzbare Energie: 0,4 Megajoule je Kilogramm,
@@ -449,25 +430,15 @@ Umsetzbare Energie: 0,4 Megajoule je Kilogramm,
 2.  
 Nettoenergie-Laktation: 0,25 Megajoule je Kilogramm.
 
-(2) Werden bei Futtermitteln für besondere Ernährungszwecke für nicht der Lebensmittelgewinnung dienende Tiere Angaben über den Gehalt an Energie gemacht, so sind diese Angaben nach den Schätzgleichungen in Anlage 4 Teil 2, soweit dort für die jeweilige Tierart eine Schätzgleichung festgeschrieben ist, zu berechnen. Sie sind als umsetzbare Energie in Megajoule je Kilogramm (MJ/kg) mit einer Dezimalstelle anzugeben. Angaben über den Gehalt an Energie nach Satz 1 gelten noch als richtig, wenn die festgestellten Gehalte um nicht mehr als 15 vom Hundert von den angegebenen Gehalten abweichen.
+(2) Bei Mischfuttermitteln für nicht der Lebensmittelgewinnung dienende Tiere mit Ausnahme von Pelztieren im Sinne des Artikels 3 Absatz 2 Buchstabe e der Verordnung (EG) Nr. 767/2009 kann anstelle der spezifischen Bezeichnung eines Einzelfuttermittels nach Artikel 17 Absatz 1 Buchstabe e der Verordnung (EG) Nr. 767/2009 die Gruppe nach Anlage 3 angegeben werden, zu der das jeweilige Einzelfuttermittel gehört, soweit in einem unmittelbar geltenden Rechtsakt der Europäischen Union auf Grund des Artikels 17 Absatz 4 der Verordnung (EG) Nr. 767/2009 keine abweichenden Regelungen getroffen sind.
 
-(3) Bei Mischfuttermitteln für nicht der Lebensmittelgewinnung dienende Tiere mit Ausnahme von Pelztieren kann anstelle der spezifischen Bezeichnung eines Einzelfuttermittels nach Artikel 17 Absatz 1 Buchstabe e der Verordnung (EG) Nr. 767/2009 die Gruppe nach Anlage 2b angegeben werden, zu der das jeweilige Einzelfuttermittel gehört, soweit in einem unmittelbar geltenden Rechtsakt der Europäischen Union auf Grund des Artikels 17 Absatz 4 der Verordnung (EG) Nr. 767/2009 keine abweichenden Regelungen getroffen sind.
+### § 7 Kennzeichnung
 
-(+++ Vgl. Anwendungsregelung zu § 37c +++)
+Ergänzungsfuttermittel, für die in Anhang I der Richtlinie 2002/32/EG des Europäischen Parlaments und des Rates vom 7. Mai 2002 über unerwünschte Stoffe in der Tierernährung (ABl. L 140 vom 30.5.2002, S. 10), die zuletzt durch die Verordnung (EU) 2017/2229 (ABl. L 319 vom 5.12.2017, S. 6) geändert worden ist, keine Höchstgehalte an unerwünschten Stoffen festgesetzt sind, dürfen, wenn der für entsprechende Alleinfuttermittel festgesetzte Höchstgehalt überschritten wird, nur mit einem Hinweis in den Verkehr gebracht werden, aus dem sich der Anteil des Ergänzungsfuttermittels an der Tagesration ergibt, bei dessen Einhaltung die für ein entsprechendes Alleinfuttermittel in Anhang I der Richtlinie 2002/32/EG festgesetzten Höchstgehalte nicht überschritten werden.
 
-### (XXXX) §§ 14 und 15 (weggefallen)
+### § 8 Unerwünschte Stoffe
 
-### § 16 Zugelassene Futtermittelzusatzstoffe
-
-In der Europäischen Union zugelassene Futtermittelzusatzstoffe sind im Gemeinschaftsregister der Futtermittelzusatzstoffe nach der Verordnung (EG) Nr. 1831/2003 aufgeführt.
-
-Amtlicher Hinweis: http://ec.europa.eu/food/food/animalnutrition/feedadditives/registeradditives\_en.htm
-
-### (XXXX) §§ 16a bis 22 (weggefallen)
-
-### § 23 Unerwünschte Stoffe
-
-(1) Es ist verboten, ein Futtermittel mit einem Gehalt an einem unerwünschten Stoff, der den in Anhang I der Richtlinie 2002/32/EG des Europäischen Parlaments und des Rates vom 7. Mai 2002 über unerwünschte Stoffe in der Tierernährung (ABl. L 140 vom 30.5.2002, S. 10), die zuletzt durch die Verordnung (EU) 2015/186 (ABl. L 31 vom 7.2.2015, S. 11) geändert worden ist, festgesetzten Höchstgehalt überschreitet,
+(1) Es ist verboten, ein Futtermittel mit einem Gehalt an einem unerwünschten Stoff, der den in Anhang I der Richtlinie 2002/32/EG festgesetzten Höchstgehalt überschreitet,
 
 1.  
 in den Verkehr zu bringen,
@@ -480,21 +451,11 @@ zu Verdünnungszwecken mit dem gleichen oder einem anderen Futtermittel zu misch
 
 (2) Wird ein Futtermittel mit einem Gehalt an einem unerwünschten Stoff, der den in Anhang I der Richtlinie 2002/32/EG festgesetzten Höchstgehalt übersteigt, einer geeigneten Behandlung zur Verminderung oder Entfernung (Reinigung) oder zur Inaktivierung (Dekontamination) des unerwünschten Stoffes unterzogen, darf der Gehalt an diesem Stoff nach der Behandlung den in Anhang I der Richtlinie 2002/32/EG festgesetzten Höchstgehalt nicht überschreiten.
 
-(+++ § 23: Zur Anwendung vgl. §§ 37 u. 37c +++)
-
-### § 23a Aktionsgrenzwerte für unerwünschte Stoffe
+### § 9 Aktionsgrenzwerte für unerwünschte Stoffe
 
 Die Aktionsgrenzwerte für unerwünschte Stoffe sind in Anhang II der Richtlinie 2002/32/EG festgesetzt.
 
-### § 24 Kennzeichnung
-
-Ergänzungsfuttermittel, für die in Anhang I der Richtlinie 2002/32/EG keine Höchstgehalte an unerwünschten Stoffen festgesetzt sind, dürfen, wenn der für entsprechende Alleinfuttermittel festgesetzte Höchstgehalt überschritten wird, nur mit einem Hinweis in den Verkehr gebracht werden, aus dem sich der Anteil des Ergänzungsfuttermittels an der Tagesration ergibt, bei dessen Einhaltung die für ein entsprechendes Alleinfuttermittel in Anhang I der Richtlinie 2002/32/EG festgesetzten Höchstgehalte nicht überschritten werden.
-
-(+++ Vgl. Anwendungsregelung zu §§ 37 u. 37c +++)
-
-### (XXXX) §§ 24a und 24b (weggefallen)
-
-### § 24c Ausnahmen
+### § 10 Ausnahmen
 
 (1) Abweichend von
 
@@ -504,23 +465,15 @@ Artikel 18 Absatz 1 der Verordnung (EG) Nr. 396/2005 und
 2.  
 dem Verbot des § 21 Absatz 3 Satz 1 Nummer 3 des Lebensmittel- und Futtermittelgesetzbuches
 
-darf ein in Spalte 2 des Anhangs VII der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1), die zuletzt durch die Verordnung (EU) 2015/868 (ABl. L 145 vom 10.6.2015, S. 1) geändert worden ist, bezeichnetes Futtermittel, das mit einem in Spalte 1 des Anhangs VII der Verordnung (EG) Nr. 396/2005 genannten Wirkstoff als Begasungsmittel nach der Ernte behandelt worden ist und dessen Gehalt an einem dieser Wirkstoffe deshalb den für den Wirkstoff jeweils nach der Verordnung (EG) Nr. 396/2005 festgelegten Rückstandshöchstgehalt überschreitet, an einen Betrieb nach Satz 2 abgegeben werden. Der Betrieb, an den ein Futtermittel im Sinne des Satzes 1 abgegeben werden darf, muss das Futtermittel so behandeln oder herstellen, dass bei der Abgabe des so behandelten oder hergestellten Futtermittels an den Endverwender der Gehalt an dem Wirkstoff den nach der Verordnung (EG) Nr. 396/2005 jeweils festgelegten Rückstandshöchstgehalt nicht überschreitet.
+darf ein in Spalte 2 des Anhangs VII der Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1), die zuletzt durch die Verordnung (EU) 2016/143 (ABl. L 28 vom 4.2.2016, S. 12) geändert worden ist, bezeichnetes Futtermittel, das mit einem in Spalte 1 des Anhangs VII der Verordnung (EG) Nr. 396/2005 genannten Wirkstoff als Begasungsmittel nach der Ernte behandelt worden ist und dessen Gehalt an einem dieser Wirkstoffe deshalb den für den Wirkstoff jeweils nach der Verordnung (EG) Nr. 396/2005 festgelegten Rückstandshöchstgehalt überschreitet, an einen Betrieb nach Satz 2 abgegeben werden. Der Betrieb, an den ein Futtermittel im Sinne des Satzes 1 abgegeben werden darf, muss das Futtermittel so behandeln oder herstellen, dass bei der Abgabe des so behandelten oder hergestellten Futtermittels an den Endverwender der Gehalt an dem Wirkstoff den nach der Verordnung (EG) Nr. 396/2005 jeweils festgelegten Rückstandshöchstgehalt nicht überschreitet.
 
-(2) Ein Futtermittel im Sinne des Absatzes 1 Satz 1 darf nur abgegeben werden, wenn es unter Angabe der Bezeichnung des Wirkstoffs oder der Wirkstoffe durch folgende Angaben gekennzeichnet ist: „Futtermittel enthält überhöhte Rückstände an ............... (Einsetzen: Bezeichnung des jeweiligen Wirkstoffs oder der jeweiligen Wirkstoffe). Nicht zur Verfütterung abgeben.“
+(2) Ein Futtermittel im Sinne des Absatzes 1 Satz 1 darf nur abgegeben werden, wenn es unter Angabe der Bezeichnung des Wirkstoffs oder der Wirkstoffe durch folgende Angaben gekennzeichnet ist: „Futtermittel enthält überhöhte Rückstände an …………… (Einsetzen: Bezeichnung des jeweiligen Wirkstoffs oder der jeweiligen Wirkstoffe). Nicht zur Verfütterung abgeben.“
 
-### § 25 Verbotene Stoffe
+### § 11 Verbotene Stoffe
 
 Es ist verboten, ein Futtermittel, das den Anforderungen nach Artikel 6 Absatz 1 der Verordnung (EG) Nr. 767/2009 nicht entspricht, in den Verkehr zu bringen oder zu verfüttern.
 
-(+++ Vgl. Anwendungsregelung zu § 37c +++)
-
-### § 26 Fütterungsvorschriften
-
-Einzelfuttermittel oder Mischfuttermittel, für die in Anhang I der Richtlinie 2002/32/EG höhere Gehalte an unerwünschten Stoffen als für entsprechende Alleinfuttermittel festgesetzt sind, dürfen nur zusammen mit anderen Einzelfuttermitteln oder Mischfuttermitteln verfüttert werden; dabei dürfen in der Tagesration für entsprechende Alleinfuttermittel für die jeweilige Tierart oder Tierkategorie festgesetzte Höchstgehalte in der Tagesration nicht überschritten werden. Entsprechendes gilt für Einzelfuttermittel und Ergänzungsfuttermittel, für die in Anhang I der Richtlinie 2002/32/EG keine Höchstgehalte festgesetzt sind.
-
-(+++ Vgl. Anwendungsregelung zu §§ 37 u. 37c +++)
-
-### § 27 Inverkehrbringens- und Verfütterungsverbote
+### § 12 Inverkehrbringensverbote
 
 Es ist verboten,
 
@@ -530,15 +483,61 @@ ein Futtermittel, das den Anforderungen nach Artikel 4 Absatz 3 in Verbindung mi
 2.  
 ein Einzelfuttermittel oder ein Ergänzungsfuttermittel, das den Anforderungen nach Artikel 8 in Verbindung mit Artikel 32 Absatz 2 der Verordnung (EG) Nr. 767/2009 nicht entspricht, in den Verkehr zu bringen.
 
-(+++ Vgl. Anwendungsregelung zu § 37c +++)
+Unterabschnitt 3 Futtermittelzusatzstoffe
+-----------------------------------------
 
-### § 27a Ausnahmen vom Verfütterungsverbot
+### 
 
-In Anhang IV Kapitel II Buchstabe e Satz 1 der Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147 vom 31.5.2001, S. 1), die zuletzt durch die Verordnung (EU) Nr. 56/2013 (ABl. L 21 vom 24.1.2013, S. 3) geändert worden ist, genannte Futtermittel dürfen an Nutztiere verfüttert werden, soweit eine von der zuständigen Behörde vorgenommene Risikobewertung ergeben hat, dass in ihnen im Rahmen einer futtermittelrechtlichen Untersuchung nachgewiesene Knochenspuren keine Bedenken im Hinblick auf die Übertragung transmissibler spongiformer Enzephalopathien hervorrufen.
+### § 13 Zugelassene Futtermittelzusatzstoffe
 
-### § 28 Zulassungsbedürftige Betriebe
+In der Europäischen Union zugelassene Futtermittelzusatzstoffe sind im Gemeinschaftsregister der Futtermittelzusatzstoffe nach der Verordnung (EG) Nr. 1831/2003 aufgeführt.
 
-(1) Betriebe, die Futtermittel dekontaminieren, müssen von der zuständigen Behörde zugelassen worden sein.
+Amtlicher Hinweis: http://ec.europa.eu/food/food/animalnutrition/feedadditives/registeradditives\_en.htm
+
+Unterabschnitt 4 Fütterung
+--------------------------
+
+### 
+
+### § 14 Fütterungsvorschriften
+
+Einzelfuttermittel oder Mischfuttermittel, für die in Anhang I der Richtlinie 2002/32/EG höhere Gehalte an unerwünschten Stoffen als für entsprechende Alleinfuttermittel festgesetzt sind, dürfen nur zusammen mit anderen Einzelfuttermitteln oder Mischfuttermitteln verfüttert werden; dabei dürfen in der Tagesration für entsprechende Alleinfuttermittel für die jeweilige Tierart oder Tierkategorie festgesetzte Höchstgehalte in der Tagesration nicht überschritten werden. Entsprechendes gilt für Einzelfuttermittel und Ergänzungsfuttermittel, für die in Anhang I der Richtlinie 2002/32/EG keine Höchstgehalte festgesetzt sind.
+
+### § 15 Ausnahmen vom Verfütterungsverbot
+
+In Anhang IV Kapitel II Buchstabe e Satz 1 der Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147 vom 31.5.2001, S. 1), die zuletzt durch die Verordnung (EU) 2017/893 (ABl. L 138 vom 25.5.2017, S. 92) geändert worden ist, genannte Futtermittel dürfen an Nutztiere verfüttert werden, soweit eine von der zuständigen Behörde vorgenommene Risikobewertung ergeben hat, dass in ihnen im Rahmen einer futtermittelrechtlichen Untersuchung nachgewiesene Knochenspuren keine Bedenken im Hinblick auf die Übertragung transmissibler spongiformer Enzephalopathien hervorrufen.
+
+Unterabschnitt 5 Mitwirkung des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
+--------------------------------------------------------------------------------------------
+
+### 
+
+### § 16 Mitwirkung
+
+(1) Das Bundesamt wirkt mit bei:
+
+1.  
+der Aufnahme eines Einzelfuttermittels in den Anhang der Verordnung (EU) Nr. 68/2013 der Kommission vom 16. Januar 2013 zum Katalog der Einzelfuttermittel (ABl. L 29 vom 30.1.2013, S. 1) in der jeweils geltenden Fassung,
+
+2.  
+der Prüfung von Leitlinien für eine gute Verfahrenspraxis im Futtermittelsektor nach Artikel 20 und 22 der Verordnung (EG) Nr. 183/2005.
+
+(2) Das Bundesamt wirkt ferner mit bei der Koordinierung der Erstellung
+
+1.  
+von Kontrollplänen insbesondere nach Artikel 44 der Verordnung (EG) Nr. 882/2004 sowie
+
+2.  
+sonstiger nach den gemeinschaftsrechtlichen oder den unionsrechtlichen Vorschriften von den Mitgliedstaaten durchzuführender Untersuchungs- und Erhebungsprogramme des Futtermittelsektors.
+
+Unterabschnitt 6 Anforderungen an Betriebe
+------------------------------------------
+
+### 
+
+### § 17 Zulassungsbedürftige Betriebe
+
+(1) (weggefallen)
 
 (2) Betriebe, die Grünfutter, Lebensmittel oder Lebensmittelreste zum Zwecke der Herstellung eines Einzelfuttermittels oder Mischfuttermittels unter direkter Einwirkung der Verbrennungsgase trocknen, müssen von der zuständigen Behörde zugelassen worden sein.
 
@@ -548,7 +547,7 @@ In Anhang IV Kapitel II Buchstabe e Satz 1 der Verordnung (EG) Nr. 999/2001 des 
 für Betriebe, die aus rohen Fetten pflanzlichen Ursprungs oder aus rohen Ölen pflanzlichen Ursprungs hergestellte raffinierte Öle in den Verkehr bringen,
 
 2.  
-für dort bezeichnete Betriebe, die nach Artikel 10 Nummer 3 Satz 1 in Verbindung mit Anhang II Abschnitt Einrichtungen und Ausrüstungen Nummer 10 der Verordnung (EG) Nr. 183/2005 des Europäischen Parlaments und des Rates vom 12. Januar 2005 mit Vorschriften für die Futtermittelhygiene (ABl. L 35 vom 8.2.2005, S. 1, L 50 vom 23.2.2008, S. 71), die zuletzt durch die Verordnung (EU) Nr. 225/2012 (ABl. L 77 vom 16.3.2012, S. 1) geändert worden ist, der Zulassung bedürfen.
+für dort bezeichnete Betriebe, die nach Artikel 10 Nummer 3 Satz 1 in Verbindung mit Anhang II Abschnitt Einrichtungen und Ausrüstungen Nummer 10 der Verordnung (EG) Nr. 183/2005 des Europäischen Parlaments und des Rates vom 12. Januar 2005 mit Vorschriften für die Futtermittelhygiene (ABl. L 35 vom 8.2.2005, S. 1, L 50 vom 23.2.2008, S. 71), die zuletzt durch die Verordnung (EU) 2015/1905 (ABl. L 278 vom 23.10.2015, S. 5) geändert worden ist, der Zulassung bedürfen.
 
 (4) Sofern
 
@@ -571,19 +570,19 @@ soweit sie ihren Sitz in einem Vertragsstaat haben nach Feststellung dieses Vert
 
 (5) Die Zulassung von Betrieben nach der Verordnung (EG) Nr. 183/2005 des Europäischen Parlaments und des Rates vom 12. Januar 2005 mit Vorschriften für die Futtermittelhygiene (ABl. L 35 vom 8.2.2005, S. 1, L 50 vom 23.2.2008, S. 71) in der jeweils geltenden Fassung bleibt unberührt.
 
-### § 29 Zulassung
+### § 18 Zulassung
 
-(1) Zulassungsbedürftige Betriebe nach § 28 Absatz 1 werden auf Antrag für die beabsichtigte Tätigkeit von der für den Betriebsort zuständigen Behörde zugelassen, wenn sie der Behörde durch ein Gutachten eines vereidigten Sachverständigen oder eines öffentlich-rechtlichen oder unter öffentlicher Aufsicht stehenden Untersuchungs- und Forschungsinstitutes nachgewiesen haben, dass die angewendeten Dekontaminationsverfahren geeignet sind, die Erzeugnisse so zu dekontaminieren, dass sie den Vorschriften des Futtermittelrechts entsprechen. Soweit nach Artikel 8 der Richtlinie 2002/32/EG bestimmte Dekontaminationsverfahren vorgeschrieben werden, sind diese von den in § 28 Absatz 1 genannten Betrieben anzuwenden.
+(1) (weggefallen)
 
-(2) Zulassungsbedürftige Betriebe nach § 28 Absatz 2 werden auf Antrag für die beabsichtigte Tätigkeit von der für den Betriebsort zuständigen Behörde zugelassen, sofern sich aus dem Antrag ergibt, dass
+(2) Zulassungsbedürftige Betriebe nach § 17 Absatz 2 werden auf Antrag für die beabsichtigte Tätigkeit von der für den Betriebsort zuständigen Behörde zugelassen, sofern sich aus dem Antrag ergibt, dass
 
 1.  
-die Anforderungen nach Anlage 7a erfüllt sind und
+die Anforderungen nach Anlage 4 erfüllt sind und
 
 2.  
-sichergestellt ist, dass die sich aus § 29a ergebenden Pflichten erfüllt werden.
+sichergestellt ist, dass die sich aus § 19 ergebenden Pflichten erfüllt werden.
 
-(3) Zulassungsbedürftige Betriebe nach § 28 Absatz 3 werden auf Antrag für die beabsichtigte Tätigkeit von der zuständigen Behörde zugelassen, wenn der Inverkehrbringer sich mit dem Antrag verpflichtet, ein Verzeichnis nach Maßgabe der folgenden Sätze zu führen und fünf Jahre aufzubewahren. In dem Verzeichnis sind die von ihm erworbenen in Satz 3 bezeichneten Stoffe, die als als Erzeugnis zu dienen bestimmt gekennzeichnet sind, unter Angabe des Tages des Erwerbes sowie unter Angabe der Menge aufzuzeichnen. Stoffe im Sinne des Satzes 2 sind
+(3) Zulassungsbedürftige Betriebe nach § 17 Absatz 3 werden auf Antrag für die beabsichtigte Tätigkeit von der zuständigen Behörde zugelassen, wenn der Inverkehrbringer sich mit dem Antrag verpflichtet, ein Verzeichnis nach Maßgabe der folgenden Sätze zu führen und fünf Jahre aufzubewahren. In dem Verzeichnis sind die von ihm erworbenen in Satz 3 bezeichneten Stoffe, die als als Erzeugnis zu dienen bestimmt gekennzeichnet sind, unter Angabe des Tages des Erwerbes sowie unter Angabe der Menge aufzuzeichnen. Stoffe im Sinne des Satzes 2 sind
 
 1.  
 aus Fetten pflanzlichen oder tierischen Ursprungs, Ölen pflanzlichen oder tierischen Ursprungs oder Fettsäuren pflanzlichen oder tierischen Ursprungs hergestellte
@@ -611,15 +610,15 @@ Fischöl, auch gehärtet.
 
 Soweit der Inverkehrbringer in Satz 3 bezeichnete Stoffe erwirbt, die als nicht als Erzeugnis zu dienen bestimmt gekennzeichnet sind, sind diese Stoffe unter Angabe des Tages des Erwerbes sowie unter Angabe der Menge zusätzlich in dem Verzeichnis nach Satz 1 aufzuzeichnen, um einen Abgleich der Aufzeichnungen nach Satz 2 zu ermöglichen. Die Aufbewahrungsfrist beginnt mit dem Ablauf des Jahres, in dem die jeweilige Aufzeichnung gemacht worden ist.
 
-(4) Zulassungsbedürftige Betriebe nach § 28 Absatz 4 Satz 2 Nummer 1 werden auf Antrag von der für den Betriebsort zuständigen Behörde zugelassen. Der Vertreter des Herstellers nach § 28 Absatz 4 Satz 2 Nummer 1 hat mit dem Antrag
+(4) Zulassungsbedürftige Betriebe nach § 17 Absatz 4 Satz 2 Nummer 1 werden auf Antrag von der für den Betriebsort zuständigen Behörde zugelassen. Der Vertreter des Herstellers nach § 17 Absatz 4 Satz 2 Nummer 1 hat mit dem Antrag
 
 1.  
 zu erklären, dass er sich vergewissert hat, dass der in dem Drittland ansässige Hersteller die dem Kapitel I des Anhangs der Richtlinie 95/69/EG entsprechenden Voraussetzungen erfüllt, und
 
 2.  
-sich zu verpflichten, ein Verzeichnis der in § 28 Absatz 4 Satz 1 genannten Futtermittel zu führen, die er in der Europäischen Union in den Verkehr bringt.
+sich zu verpflichten, ein Verzeichnis der in § 17 Absatz 4 Satz 1 genannten Futtermittel zu führen, die er in der Europäischen Union in den Verkehr bringt.
 
-(5) Die Zulassung nach den Absätzen 1 bis 4 ist zu versagen, wenn Tatsachen die Annahme rechtfertigen, dass
+(5) Die Zulassung nach den Absätzen 2 bis 4 ist zu versagen, wenn Tatsachen die Annahme rechtfertigen, dass
 
 1.  
 der Betriebsinhaber die erforderliche Zuverlässigkeit oder
@@ -636,16 +635,16 @@ nicht besitzt. Die erforderliche Zuverlässigkeit nach Satz 1 besitzt insbesonde
 (8) Die zuständige Behörde kann zur Erfüllung der sich
 
 1.  
-aus Absatz 1 Satz 1, Absatz 3 und 4 Satz 2 Nummer 2,
+aus Absatz 3 und 4 Satz 2 Nummer 2,
 
 2.  
 aus Artikel 13 Absatz 1 und 2 Satz 1 bis 3 und Artikel 16 der Verordnung (EG) Nr. 183/2005
 
 ergebenden Anforderungen und Pflichten nach Erteilung der Zulassung erforderliche Anordnungen treffen. Sie kann die Zulassung auch nachträglich mit Auflagen verbinden.
 
-### § 29a Besondere Pflichten für Trocknungsbetriebe
+### § 19 Besondere Pflichten für Trocknungsbetriebe
 
-Betriebe nach § 28 Absatz 2 müssen durch eine prozessbegleitende Dokumentation nachweisen, dass ein Eintrag unerwünschter Stoffe in das Trockengut so weit ausgeschlossen ist, dass das Trockengut nach Beendigung des Trocknungsverfahrens die in Anhang I der Richtlinie 2002/32/EG festgesetzten Höchstgehalte an unerwünschten Stoffen, insbesondere an Dioxinen, Furanen, Blei und Arsen, einhält und die Voraussetzungen für das Inverkehrbringen und Verfüttern nach § 17 Absatz 2 des Lebensmittel- und Futtermittelgesetzbuches erfüllt. Hierzu sind insbesondere
+Betriebe nach § 17 Absatz 2 müssen durch eine prozessbegleitende Dokumentation nachweisen, dass ein Eintrag unerwünschter Stoffe in das Trockengut so weit ausgeschlossen ist, dass das Trockengut nach Beendigung des Trocknungsverfahrens die in Anhang I der Richtlinie 2002/32/EG festgesetzten Höchstgehalte an unerwünschten Stoffen, insbesondere an Dioxinen, Furanen, Blei und Arsen, einhält und die Voraussetzungen für das Inverkehrbringen und Verfüttern nach § 17 Absatz 2 des Lebensmittel- und Futtermittelgesetzbuches erfüllt. Hierzu sind insbesondere
 
 1.  
 das Trockengut in angemessenen, regelmäßigen Abständen auf die je nach verwendetem Brennmaterial potenziellen Einträge an unerwünschten Stoffen zu überprüfen,
@@ -659,12 +658,12 @@ Rückstellproben jeder einzelnen Partie oder, bei fortlaufender Produktion, aus 
 4.  
 Aufzeichnungen über die Prozessführung anzufertigen und mindestens zwei Jahre aufzubewahren.
 
-### § 30 Registrierungsbedürftige Betriebe
+### § 20 Registrierungsbedürftige Betriebe
 
 Sofern
 
 1.  
-Futtermittelzusatzstoffe, für die nach dem Anhang der jeweiligen EG-Zulassungsverordnung oder EU-Zulassungsverordnung in der Spalte „Höchstgehalt“ oder Anlage 3 Spalte 6 der Futtermittelverordnung in der bis zum 23. März 2007 geltenden Fassung, sofern diese Futtermittelzusatzstoffe nicht durch eine EG-Zulassungsverordnung oder EU-Zulassungsverordnung zugelassen sind, ein Höchstgehalt festgesetzt worden ist, ausgenommen Futtermittelzusatzstoffe nach § 28 Absatz 4 Satz 1 Nummer 1,
+Futtermittelzusatzstoffe, für die nach dem Anhang der jeweiligen EG-Zulassungsverordnung oder EU-Zulassungsverordnung in der Spalte „Höchstgehalt“ oder Anlage 3 Spalte 6 der Futtermittelverordnung in der bis zum 23. März 2007 geltenden Fassung, sofern diese Futtermittelzusatzstoffe nicht durch eine EG-Zulassungsverordnung oder EU-Zulassungsverordnung zugelassen sind, ein Höchstgehalt festgesetzt worden ist, ausgenommen Futtermittelzusatzstoffe nach § 17 Absatz 4 Satz 1 Nummer 1,
 
 2.  
 Vormischungen mit Antioxidantien, für die nach dem Anhang der jeweiligen EG-Zulassungsverordnung oder EU-Zulassungsverordnung in der Spalte „Höchstgehalt“ oder nach Anlage 3 Spalte 6 der Futtermittelverordnung in der bis zum 23. März 2007 geltenden Fassung, sofern diese Futtermittelzusatzstoffe nicht durch eine EG-Zulassungsverordnung oder EU-Zulassungsverordnung zugelassen sind, ein Höchstgehalt festgesetzt worden ist, mit Vitaminen, ausgenommen Vitamin A und D, Carotinoiden oder Xanthophyllen, Enzymen, Mikroorganismen oder Verbindungen von Spurenelementen, ausgenommen Kupfer und Selen,
@@ -686,19 +685,9 @@ als Vertreter des Herstellers von der zuständigen Behörde registriert worden s
 2.  
 falls sie ihren Sitz in einem Vertragsstaat haben nach Feststellung dieses Vertragsstaates als Vertreter des Herstellers die Voraussetzungen im Sinne des Kapitels II des Anhangs der Richtlinie 95/69/EG erfüllen.
 
-### § 30a Anzeigebedürftige Betriebe
+### § 21 Registrierung
 
-(1) Wer gewerbsmäßig Futtermittel für Heimtiere in den Verkehr bringen will, hat dies vor Beginn des Betriebes der nach Landesrecht zuständigen Behörde anzuzeigen.
-
-(2) Absatz 1 gilt nicht für die Abgabe von Futtermitteln für Heimtiere in verkaufsfertig bezogenen Fertigpackungen im Sinne der Fertigpackungsverordnung.
-
-(3) Wer gewerbsmäßig ortsfeste oder bewegliche Anlagen zur Herstellung von Futtermitteln anderen überlassen will, hat dies vor Beginn des Betriebes der nach Landesrecht zuständigen Behörde anzuzeigen. Bei beweglichen Anlagen ist auch die Behörde zu benachrichtigen, in deren Bereich die Anlage eingesetzt wird.
-
-(4) Die Absätze 1 und 3 gelten nur, soweit ein dort bezeichneter Betrieb keiner Zulassungs- oder Registrierungspflicht nach der Verordnung (EG) Nr. 183/2005 unterliegt.
-
-### § 31 Registrierung
-
-(1) Registrierungsbedürftige Betriebe nach § 30 werden auf Antrag für die jeweils beabsichtigte Tätigkeit von der für den Betriebsort zuständigen Behörde registriert.
+(1) Registrierungsbedürftige Betriebe nach § 20 werden auf Antrag für die jeweils beabsichtigte Tätigkeit von der für den Betriebsort zuständigen Behörde registriert.
 
 (2) Die Registrierung nach Absatz 1 ist zu versagen, wenn Tatsachen die Annahme rechtfertigen, dass
 
@@ -710,13 +699,13 @@ der für die Herstellung und Qualitätssicherung im Betrieb jeweils Verantwortli
 
 nicht besitzt. Die erforderliche Zuverlässigkeit nach Satz 1 besitzt insbesondere derjenige nicht, der gröblich gegen lebensmittel-, futtermittel- oder arzneimittelrechtliche Vorschriften verstoßen hat. Der Nachweis der erforderlichen Sachkenntnis des für die Herstellung und Qualitätssicherung jeweils Verantwortlichen wird erbracht durch den Nachweis für die beabsichtigte Tätigkeit ausreichender Kenntnisse auf den Gebieten des Futtermittelrechts, der Verfahrenstechnik und der Tierernährung.
 
-(3) Der Vertreter des Herstellers nach § 30 Satz 2 Nummer 1 hat mit dem Antrag
+(3) Der Vertreter des Herstellers nach § 20 Satz 2 Nummer 1 hat mit dem Antrag
 
 1.  
 zu erklären, dass er sich vergewissert hat, dass der in dem Drittland ansässige Hersteller die sich aus dem Kapitel II des Anhangs der Richtlinie 95/69/EG ergebenden Anforderungen und Pflichten erfüllt, und
 
 2.  
-sich zu verpflichten, ein Verzeichnis der in § 30 Satz 1 genannten Zusatzstoffe, Vormischungen und Mischfuttermittel zu führen, die er in der Europäischen Union in den Verkehr bringt.
+sich zu verpflichten, ein Verzeichnis der in § 20 Satz 1 genannten Zusatzstoffe, Vormischungen und Mischfuttermittel zu führen, die er in der Europäischen Union in den Verkehr bringt.
 
 (4) Änderungen hinsichtlich der dem Antrag zugrunde liegenden Angaben sind der zuständigen Behörde vom Antragsteller unverzüglich mitzuteilen. Satz 1 findet auf bereits registrierte Betriebe entsprechende Anwendung.
 
@@ -724,61 +713,67 @@ sich zu verpflichten, ein Verzeichnis der in § 30 Satz 1 genannten Zusatzstoffe
 
 (6) Die zuständige Behörde kann zur Erfüllung der sich aus Absatz 3 ergebenden Anforderungen und Pflichten nach Erteilung der Registrierung die erforderlichen Anordnungen treffen. Sie kann die Registrierung auch nachträglich mit Auflagen verbinden.
 
-### § 31a (weggefallen)
+### § 22 Anzeigebedürftige Betriebe
 
-### § 31b Zulassungs- und Registrierungs-Kennnummer
+(1) Wer gewerbsmäßig Futtermittel für Heimtiere in den Verkehr bringen will, hat dies vor Beginn des Betriebes der nach Landesrecht zuständigen Behörde anzuzeigen.
+
+(2) Absatz 1 gilt nicht für die Abgabe von Futtermitteln für Heimtiere in verkaufsfertig bezogenen Fertigpackungen.
+
+(3) Wer gewerbsmäßig ortsfeste oder bewegliche Anlagen zur Herstellung von Futtermitteln anderen überlassen will, hat dies vor Beginn des Betriebes der nach Landesrecht zuständigen Behörde anzuzeigen. Bei beweglichen Anlagen ist auch die Behörde zu benachrichtigen, in deren Bereich die Anlage eingesetzt wird.
+
+(4) Die Absätze 1 und 3 gelten nur, soweit ein dort bezeichneter Betrieb keiner Zulassungs- oder Registrierungspflicht nach der Verordnung (EG) Nr. 183/2005 unterliegt.
+
+### § 23 Zulassungs- und Registrierungs-Kennnummer
 
 Die zuständige Behörde erteilt dem Betrieb
 
 1.  
-mit der Zulassung nach § 29 eine Zulassungs-Kennnummer und
+mit der Zulassung nach § 18 eine Zulassungs-Kennnummer und
 
 2.  
-mit der Registrierung nach § 31 eine Registrierungs-Kennnummer.
+mit der Registrierung nach § 21 eine Registrierungs-Kennnummer.
 
-### § 31c (weggefallen)
+### § 24 Rücknahme, Widerruf, Ruhen und Erlöschen der Zulassung und der Registrierung
 
-### § 32 Rücknahme, Widerruf, Ruhen und Erlöschen der Zulassung und der Registrierung
+(1) (weggefallen)
 
-(1) Die Zulassung von Betrieben nach § 29 Absatz 1 ist zurückzunehmen, wenn eine Voraussetzung nach § 29 Absatz 1 Satz 1 oder Absatz 5 nicht gegeben war. Sie ist zu widerrufen, wenn nachträglich eine der Voraussetzungen nach § 29 Absatz 1 Satz 1 oder Absatz 5 weggefallen ist.
-
-(2) Die Zulassung von Betrieben nach § 29 Absatz 2 ist zurückzunehmen, wenn eine Voraussetzung nach § 29 Absatz 2 oder 5 nicht gegeben war. Sie ist zu widerrufen, wenn
+(2) Die Zulassung von Betrieben nach § 18 Absatz 2 ist zurückzunehmen, wenn eine Voraussetzung nach § 18 Absatz 2 oder 5 nicht gegeben war. Sie ist zu widerrufen, wenn
 
 1.  
-nachträglich eine Voraussetzung nach § 29 Absatz 2 Nummer 1 oder Absatz 5 weggefallen ist oder
+nachträglich eine Voraussetzung nach § 18 Absatz 2 Nummer 1 oder Absatz 5 weggefallen ist oder
 
 2.  
-eine der in § 29a aufgeführten Pflichten nicht erfüllt wird.
+eine der in § 19 aufgeführten Pflichten nicht erfüllt wird.
 
-(3) Die Zulassung von Betrieben nach § 29 Absatz 3 Satz 1 ist zurückzunehmen, wenn eine der Voraussetzungen nach § 29 Absatz 5 nicht gegeben war. Sie ist zu widerrufen, wenn
+(3) Die Zulassung von Betrieben nach § 18 Absatz 3 Satz 1 ist zurückzunehmen, wenn eine der Voraussetzungen nach § 18 Absatz 5 nicht gegeben war. Sie ist zu widerrufen, wenn
 
 1.  
-nachträglich eine Voraussetzung nach § 29 Absatz 5 weggefallen ist oder
+nachträglich eine Voraussetzung nach § 18 Absatz 5 weggefallen ist oder
 
 2.  
-eine der in § 29 Absatz 3 aufgeführten Pflichten nicht erfüllt wird.
+eine der in § 18 Absatz 3 aufgeführten Pflichten nicht erfüllt wird.
 
-(4) Die Zulassung von Betrieben nach § 29 Absatz 4 ist zurückzunehmen, wenn eine Voraussetzung nach § 29 Absatz 5 nicht gegeben war. Sie ist zu widerrufen, wenn
+(4) Die Zulassung von Betrieben nach § 18 Absatz 4 ist zurückzunehmen, wenn eine Voraussetzung nach § 18 Absatz 5 nicht gegeben war. Sie ist zu widerrufen, wenn
 
 1.  
-nachträglich eine Voraussetzung nach § 29 Absatz 5 weggefallen ist oder
+nachträglich eine Voraussetzung nach § 18 Absatz 5 weggefallen ist oder
 
 2.  
-die in § 29 Absatz 4 Satz 2 Nummer 2 aufgeführte Pflicht nicht erfüllt wird.
+die in § 18 Absatz 4 Satz 2 Nummer 2 aufgeführte Pflicht nicht erfüllt wird.
 
-(5) Die Registrierung von Betrieben nach § 31 Absatz 1 ist zurückzunehmen, wenn eine Voraussetzung nach § 31 Absatz 2 nicht gegeben war. Sie ist zu widerrufen, wenn
+(5) Die Registrierung von Betrieben nach § 21 Absatz 1 ist zurückzunehmen, wenn eine Voraussetzung nach § 21 Absatz 2 nicht gegeben war. Sie ist zu widerrufen, wenn
 
 1.  
-nachträglich eine Voraussetzung nach § 31 Absatz 2 weggefallen ist oder
+nachträglich eine Voraussetzung nach § 21 Absatz 2 weggefallen ist oder
 
 2.  
-die in § 31 Absatz 3 Nummer 2 aufgeführte Pflicht nicht erfüllt wird.
+die in § 21 Absatz 3 Nummer 2 aufgeführte Pflicht nicht erfüllt wird.
 
 (6) Anstelle der Rücknahme oder des Widerrufs soll die zuständige Behörde das Ruhen der Zulassung oder Registrierung anordnen, wenn Tatsachen die Annahme rechtfertigen, dass der Grund für die Rücknahme oder den Widerruf innerhalb einer angemessenen Frist beseitigt wird.
 
 (7) Die Zulassung oder Registrierung erlischt, wenn nach Feststellung der zuständigen Behörde der Betrieb die Tätigkeit, die der Zulassung oder Registrierung zugrunde liegt, länger als zwei Jahre nicht ausgeübt hat.
 
-### § 33 Bekanntmachung
+### § 25 Bekanntmachung
 
 (1) Die nach Landesrecht zuständigen Behörden teilen dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (Bundesamt)
 
@@ -789,28 +784,28 @@ die Zulassung von Betrieben nach Artikel 10 der Verordnung (EG) Nr. 183/2005,
 die Registrierung von Betrieben nach Artikel 9 der Verordnung (EG) Nr. 183/2005,
 
 3.  
-die Zulassung von Betrieben nach § 29,
+die Zulassung von Betrieben nach § 18,
 
 4.  
-die Registrierung von Betrieben nach § 31
+die Registrierung von Betrieben nach § 21
 
 sowie die Rücknahme, den Widerruf, das Ruhen, das Erlöschen und die Änderungen hinsichtlich der Tätigkeit, für die die Zulassung oder Registrierung erteilt worden ist, mit. Das Bundesamt gibt die registrierten Betriebe nach Satz 1 Nummer 2 und 4 und die zugelassenen Betriebe nach Satz 1 Nummer 3 bekannt.
 
 (2) Das Bundesamt gibt ferner die Fundstelle des Verzeichnisses der Kommission gemäß Artikel 19 Absatz 6 der Verordnung (EG) Nr. 183/2005 bekannt.
 
-### § 33a Status anerkannter, registrierter und angezeigter Betriebe
+### § 26 Status anerkannter, registrierter und angezeigter Betriebe
 
 (1) Betriebe nach
 
 1.  
-§ 28 Absatz 1 oder 3 Satz 2 Nummer 1, die nach § 29 Absatz 1 der Futtermittelverordnung in der bis zum 23. März 2007 geltenden Fassung anerkannt waren,
+§ 17 Absatz 3 Satz 2 Nummer 1, die nach § 29 Absatz 1 der Futtermittelverordnung in der bis zum 23. März 2007 geltenden Fassung anerkannt waren,
 
 2.  
-§ 28 Absatz 2, die nach § 31 Absatz 1a der Futtermittelverordnung in der bis zum 23. März 2007 geltenden Fassung registriert waren,
+§ 17 Absatz 2, die nach § 31 Absatz 1a der Futtermittelverordnung in der bis zum 23. März 2007 geltenden Fassung registriert waren,
 
-gelten als nach § 29 zugelassen.
+gelten als nach § 18 zugelassen.
 
-(2) Betriebe nach § 30 Satz 2 Nummer 1, die nach § 31 Absatz 1 Satz 1 der Futtermittelverordnung in der bis zum 23. März 2007 geltenden Fassung registriert waren, gelten als nach § 31 registriert.
+(2) Betriebe nach § 20 Satz 2 Nummer 1, die nach § 31 Absatz 1 Satz 1 der Futtermittelverordnung in der bis zum 23. März 2007 geltenden Fassung registriert waren, gelten als nach § 21 registriert.
 
 (3) Betriebe, denen eine
 
@@ -820,17 +815,45 @@ Anerkennungs-Kennnummer nach § 31b Nummer 1 der Futtermittelverordnung in der b
 2.  
 Registrierungs-Kennnummer nach § 31b Nummer 2 der Futtermittelverordnung in der bis zum 23. März 2007 geltenden Fassung erteilt worden ist, behalten diese Nummer, bis ihnen eine neue Registrierungs-Kennnummer erteilt worden ist.
 
-(4) Betriebe nach § 30a Absatz 1 oder 3 Satz 1, die sich nach dem nach § 1 Absatz 1 Satz 1 Nummer 7 des Gesetzes über den Übergang auf das neue Lebensmittel- und Futtermittelrecht in der bis zum 6. September 2005 geltenden Fassung weiter anzuwendenden § 17 Absatz 1 Nummer 1 oder 3 und Absatz 2 Satz 1 des Futtermittelgesetzes angezeigt haben, gelten als angezeigt nach § 30a.
+(4) Betriebe nach § 22 Absatz 1 oder 3 Satz 1, die sich nach dem nach § 1 Absatz 1 Satz 1 Nummer 7 des Gesetzes über den Übergang auf das neue Lebensmittel- und Futtermittelrecht in der bis zum 6. September 2005 geltenden Fassung weiter anzuwendenden § 17 Absatz 1 Nummer 1 oder 3 und Absatz 2 Satz 1 des Futtermittelgesetzes angezeigt haben, gelten als angezeigt nach § 22.
 
-### § 34 Aufbewahrung von Buchführungsunterlagen
+Abschnitt 3 Überwachung
+-----------------------
+
+### 
+
+### § 27 Lagerung und Aufbewahrung einer zurückgelassenen Endprobe
+
+Wird eine im Rahmen der amtlichen Überwachung gebildete Endprobe eines Futtermittels bei demjenigen zurückgelassen, der nicht der Hersteller des beprobten Futtermittels ist, hat derjenige die Endprobe sachgerecht zu lagern und aufzubewahren.
+
+### § 28 Analysemethoden
+
+Sind für die amtliche Untersuchung von Futtermitteln keine Analysemethoden nach
+
+1.  
+Artikel 11 Absatz 1 einleitender Satzteil oder
+
+2.  
+Artikel 11 Absatz 1 Buchstabe a, soweit sich dieser auf international anerkannte Regeln oder Protokolle bezieht,
+
+der Verordnung (EG) Nr. 882/2004 vorgeschrieben, ist die amtliche Untersuchung nach Analysemethoden durchzuführen, die vom Bundesamt für Verbraucherschutz und Lebensmittelsicherheit nach § 64 Absatz 2 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches veröffentlicht worden sind. Soweit keine Methoden nach Satz 1 veröffentlicht worden sind, ist die amtliche Untersuchung nach den Methoden aus dem Handbuch der Landwirtschaftlichen Versuchs- und Untersuchungsmethodik (VDLUFA-Methodenbuch), Band III „Die chemische Untersuchung von Futtermitteln“, 8. Ergänzungslieferung 2012, oder aus dem Handbuch Band VII „Umweltanalytik“, 4. Auflage 2011, des Verbandes Deutscher Landwirtschaftlicher Untersuchungs- und Forschungsanstalten (VDLUFA) durchzuführen. Bezugsquelle der Methodenbücher ist der VDLUFA-Verlag, Obere Langgasse 40, D-67346 Speyer. Sofern keine Methoden nach Satz 2 vorliegen, muss die amtliche Untersuchung nach anderen dem Artikel 11 Absatz 1 Buchstabe b der Verordnung (EG) Nr. 882/2004 entsprechenden Verfahren durchgeführt werden.
+
+### § 29 Untersuchung von Futtermitteln auf Pestizidrückstände
+
+Bei der amtlichen Untersuchung von Futtermitteln auf Pestizidrückstände sind die in der amtlichen Sammlung von Untersuchungsverfahren nach § 64 Absatz 2 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches aufgeführten Analysemethoden oder, soweit dort keine Analysemethoden aufgeführt sind, die in der amtlichen Sammlung von Untersuchungsverfahren nach § 64 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches für stoffgleiche Lebensmittel aufgeführten Analysemethoden anzuwenden.
+
+### § 30 Aufbewahrung von Buchführungsunterlagen
 
 (1) Wer gewerbsmäßig ortsfeste oder bewegliche Anlagen zur Herstellung von Futtermitteln anderen überlässt, hat über die Überlassung Buch zu führen.
 
 (2) Die Buchführungspflichtigen nach Absatz 1 oder nach Artikel 5 Absatz 1 in Verbindung mit Anhang I oder Artikel 5 Absatz 2 in Verbindung mit Anhang II der Verordnung (EG) Nr. 183/2005 haben die Bücher, Buchführungsunterlagen, Dokumentationen und Dateien fünf Jahre aufzubewahren. Vorschriften, die eine längere Aufbewahrungspflicht vorsehen, bleiben unberührt.
 
-### § 34a (weggefallen)
+Abschnitt 4 Verbringen in das und aus dem Inland
+------------------------------------------------
 
-### § 34b Einfuhrverbote
+### 
+
+### § 31 Einfuhrverbote
 
 (1) Die Einfuhr von Futtermitteln tierischen Ursprungs aus der Volksrepublik China ist verboten.
 
@@ -846,11 +869,9 @@ ein im ersten Anstrich in Teil II des Anhangs der Entscheidung 2002/994/EG genan
 
 enthält. Die Analyseergebnisse der Untersuchung sind in der Bescheinigung anzugeben.
 
-(4) Für Erzeugnisse, die vor dem 29. Juli 2008 eingeführt worden sind, ist abweichend von Absatz 3 Satz 2 Nummer 2 eine dort genannte Feststellung im Rahmen der Untersuchung nicht erforderlich. Ein Erzeugnis im Sinne des Satzes 1, das ohne die dort genannte Feststellung eingeführt worden ist, darf erstmals nur in den Verkehr gebracht werden, wenn der in der Europäischen Union niedergelassene für das erstmalige Inverkehrbringen des Erzeugnisses Verantwortliche es auf seine Kosten darauf hin untersucht hat oder hat untersuchen lassen, dass es Malachitgrün oder Kristallviolett oder deren jeweiligen Metaboliten nicht enthält.
+(4) (weggefallen)
 
-### § 34c (weggefallen)
-
-### § 34d Einfuhrregelungen für Guarkernmehl
+### § 32 Einfuhrregelungen für Guarkernmehl
 
 (1) Ein
 
@@ -860,66 +881,17 @@ in Artikel 1 Absatz 1 der Durchführungsverordnung (EU) 2015/175 der Kommission 
 2.  
 in Artikel 1 Absatz 2 der Durchführungsverordnung (EU) 2015/175 bezeichnetes Mischfuttermittel
 
-darf nur eingeführt werden, wenn es über einen in Anlage 9 genannten Eingangsort in das Inland verbracht wird.
+darf nur eingeführt werden, wenn es über einen in Anlage 5 genannten Eingangsort in das Inland verbracht wird.
 
 (2) Abweichend von Artikel 5 Absatz 1 der Durchführungsverordnung (EU) 2015/175 ist die Einfuhr eines in Artikel 1 Absatz 1 oder Absatz 2 der Durchführungsverordnung (EU) 2015/175 genannten Futtermittels, das vor dem 26. Februar 2015 aus seinem Ursprungsland verbracht worden ist, zulässig, soweit es
 
 1.  
-über einen in Anlage 9 genannten Eingangsort in das Inland verbracht wird und
+über einen in Anlage 5 genannten Eingangsort in das Inland verbracht wird und
 
 2.  
 nachweislich einer Genusstauglichkeitsbescheinigung nach Artikel 2 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 258/2010 der Kommission vom 25. März 2010 zum Erlass von Sondervorschriften für die Einfuhr von Guarkernmehl, dessen Ursprung oder Herkunft Indien ist, wegen des Risikos einer Kontamination mit Pentachlorphenol und Dioxinen sowie zur Aufhebung der Entscheidung 2008/352/EG (ABl. L 80 vom 26.3.2010, S. 28) keinen Gehalt an Pentachlorphenol enthält, der 0,01 mg/kg überschreitet.
 
-### § 35 Ausnahmen von Verbringungsverboten
-
-(1) Abweichend von § 53 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches dürfen Futtermittel in das Inland verbracht werden, soweit sie
-
-1.  
-unter zollamtlicher Überwachung befördert werden,
-
-2.  
-in Zolllagern, Freilagern oder Lagern in Freizonen gelagert werden,
-
-3.  
-veredelt und umgewandelt werden, solange sich die Futtermittel unter zollamtlicher Überwachung befinden.
-
-Satz 1 gilt nicht für Futtermittel, die den Verboten des § 17 Absatz 1 Satz 1 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches oder des Artikels 15 Absatz 1 in Verbindung mit Absatz 2 erster Anstrich der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EG) Nr. 596/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 (ABl. L 188 vom 18.7.2009, S. 14) geändert worden ist, nicht entsprechen.
-
-(2) Waren im Sinne von Absatz 1 Satz 1 Nummer 3 unterliegen den Vorschriften des § 57 Absatz 4 des Lebensmittel- und Futtermittelgesetzbuches.
-
-### § 35a Eingangsstellen, Anmeldepflicht
-
-(1) Die Einfuhr von Futtermitteln, die nur von nach Artikel 10 Nummer 1 Buchstabe a oder b der Verordnung (EG) Nr. 183/2005 oder nach § 29 Absatz 4 Satz 1 zugelassenen Betrieben in den Verkehr gebracht werden dürfen, aus einem Drittland ist nur über Zollstellen mit zugeordneten Grenzkontrollstellen (Eingangsstellen) zulässig. Die tierseuchen- und pflanzenschutzrechtlichen Einfuhrvorschriften bleiben unberührt.
-
-(2) Derjenige, der Futtermittel nach Absatz 1 aus einem Drittland einführt, hat dies spätestens einen Werktag vor deren Eintreffen an der vorgesehenen Eingangsstelle der für die Eingangsstelle zuständigen Behörde anzumelden.
-
-(3) Sendungen von Futtermitteln nach Artikel 3 Buchstabe c der Verordnung (EG) Nr. 669/2009 der Kommission vom 24. Juli 2009 zur Durchführung der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates im Hinblick auf verstärkte amtliche Kontrollen bei der Einfuhr bestimmter Futtermittel und Lebensmittel nicht tierischen Ursprungs und zur Änderung der Entscheidung 2006/504/EG (ABl. L 194 vom 25.7.2009, S. 11) in der jeweils geltenden Fassung dürfen aus Drittländern nur über einen in Deutschland für Futtermittel benannten Eingangsort im Sinne des Artikels 3 Buchstabe b der Verordnung (EG) Nr. 669/2009 in das Inland gebracht werden, soweit die jeweilige Sendung nicht bereits über einen von einem anderen Mitgliedstaat nach Artikel 3 Buchstabe b der Verordnung (EG) Nr. 669/2009 benannten Eingangsort in das Gebiet der Europäischen Union gebracht worden ist. Die Veröffentlichung der Liste der benannten Eingangsorte nach Artikel 5 Satz 1 der Verordnung (EG) Nr. 669/2009 erfolgt durch das Bundesamt.
-
-### § 35b Dokumentenprüfung, Nämlichkeitskontrolle, Warenuntersuchung
-
-(1) Soweit auf Grund der Verordnung (EG) Nr. 882/2004 oder eines auf Grund der Verordnung (EG) Nr. 882/2004 erlassenen Rechtsaktes der Europäischen Gemeinschaft oder der Europäischen Union bei der Einfuhr von Futtermitteln
-
-1.  
-eine Dokumentenprüfung oder eine Nämlichkeitskontrolle durchzuführen ist, ist diese von den vom Bundesministerium der Finanzen bestimmten Zollstellen (Zollstellen),
-
-2.  
-eine Warenuntersuchung durchzuführen ist, ist diese von den für die Futtermittelüberwachung zuständigen Behörden in Abstimmung mit den Zollstellen
-
-durchzuführen.
-
-(2) Die Durchfuhr von Futtermitteln erfolgt unter zollamtlicher Überwachung, soweit möglich in Form des Zollverschlusses.
-
-### § 35c Bescheinigungen
-
-(1) Die Bescheinigung nach § 55 Absatz 2 des Lebensmittel- und Futtermittelgesetzbuches ist als Teil der Warenbegleitpapiere bis zur Überführung der Futtermittel in den zollrechtlich freien Verkehr mitzuführen.
-
-(2) Werden Futtermittel aus einem Drittland über andere Mitgliedstaaten zur Einfuhr in das Inland verbracht, so ist der zuständigen Behörde die von dem zuerst berührten Mitgliedstaat bei dem Verbringen ausgestellte Bescheinigung über die durchgeführten futtermittelrechtlichen Kontrollen vorzulegen. Die zuständige Behörde kann eine deutsche Übersetzung der Bescheinigung verlangen.
-
-### § 35d Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten
-
-Die Befugnis zum Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten zur Aufklärung und Verfolgung von Verstößen gegen futtermittelrechtliche Vorschriften wird den zuständigen obersten Landesbehörden übertragen. Sie unterrichten das Bundesministerium über Mitteilungen an andere Mitgliedstaaten.
-
-### § 35e Verbote auf Grund von Schutzmaßnahmen der Europäischen Gemeinschaft
+### § 33 Verbote auf Grund von Schutzmaßnahmen der Europäischen Gemeinschaft
 
 (1) Futtermittel, die in Drittländern hergestellt oder behandelt worden sind, dürfen nicht eingeführt oder sonst verbracht werden, soweit die Voraussetzungen des Absatzes 2 erfüllt sind.
 
@@ -943,129 +915,174 @@ das Bundesministerium jeweils den maßgeblichen Rechtsakt im Bundesanzeiger beka
 
 (4) Bekanntmachungen nach Absatz 2 Nummer 2 werden mit Beginn des Tages, der auf ihre Veröffentlichung folgt, wirksam, soweit in der Bekanntmachung kein späterer Zeitpunkt bestimmt ist.
 
-### § 35f Mitwirkung
+### § 34 Ausnahmen von Verbringungsverboten
 
-(1) Das Bundesamt wirkt mit bei:
-
-1.  
-der Aufnahme eines Einzelfuttermittels in den Anhang der Verordnung (EU) Nr. 68/2013 der Kommission vom 16. Januar 2013 zum Katalog der Einzelfuttermittel (ABl. L 29 vom 30.1.2013, S. 1) in der jeweils geltenden Fassung,
-
-2.  
-der Prüfung von Leitlinien für eine gute Verfahrenspraxis im Futtermittelsektor nach Artikel 20 und 22 der Verordnung (EG) Nr. 183/2005.
-
-(2) Das Bundesamt wirkt ferner mit bei der Koordinierung der Erstellung
+(1) Abweichend von § 53 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches dürfen Futtermittel in das Inland verbracht werden, soweit sie
 
 1.  
-von Kontrollplänen insbesondere nach Artikel 44 der Verordnung (EG) Nr. 882/2004 sowie
+unter zollamtlicher Überwachung befördert werden,
 
 2.  
-sonstiger nach den gemeinschaftsrechtlichen oder den unionsrechtlichen Vorschriften von den Mitgliedstaaten durchzuführender Untersuchungs- und Erhebungsprogramme des Futtermittelsektors.
+in Zolllagern oder Lagern in Freizonen gelagert werden,
 
-### § 35g Straftaten
+3.  
+veredelt und umgewandelt werden, solange sich die Futtermittel unter zollamtlicher Überwachung befinden.
 
-Nach § 58 Absatz 3, 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147 vom 31.5.2001, S. 1), die zuletzt durch die Verordnung (EU) Nr. 56/2013 (ABl. L 21 vom 24.1.2013, S. 3) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
+Satz 1 gilt nicht für Futtermittel, die den Verboten des § 17 Absatz 1 Satz 1 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches oder des Artikels 15 Absatz 1 in Verbindung mit Absatz 2 erster Anstrich der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1), die zuletzt durch die Verordnung (EG) Nr. 596/2009 des Europäischen Parlaments und des Rates vom 18. Juni 2009 (ABl. L 188 vom 18.7.2009, S. 14) geändert worden ist, nicht entsprechen.
+
+(2) Waren im Sinne von Absatz 1 Satz 1 Nummer 3 unterliegen den Vorschriften des § 57 Absatz 4 des Lebensmittel- und Futtermittelgesetzbuches.
+
+### § 35 Eingangsstellen, Anmeldepflicht
+
+(1) Die Einfuhr von Futtermitteln, die nur von nach Artikel 10 Nummer 1 Buchstabe a oder b der Verordnung (EG) Nr. 183/2005 oder nach § 18 Absatz 4 Satz 1 zugelassenen Betrieben in den Verkehr gebracht werden dürfen, aus einem Drittland ist nur über Zollstellen mit zugeordneten Grenzkontrollstellen (Eingangsstellen) zulässig. Die tierseuchen- und pflanzenschutzrechtlichen Einfuhrvorschriften bleiben unberührt.
+
+(2) Derjenige, der Futtermittel nach Absatz 1 aus einem Drittland einführt, hat dies spätestens einen Werktag vor deren Eintreffen an der vorgesehenen Eingangsstelle der für die Eingangsstelle zuständigen Behörde anzumelden.
+
+(3) Sendungen von Futtermitteln nach Artikel 3 Buchstabe c der Verordnung (EG) Nr. 669/2009 der Kommission vom 24. Juli 2009 zur Durchführung der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates im Hinblick auf verstärkte amtliche Kontrollen bei der Einfuhr bestimmter Futtermittel und Lebensmittel nicht tierischen Ursprungs und zur Änderung der Entscheidung 2006/504/EG (ABl. L 194 vom 25.7.2009, S. 11) in der jeweils geltenden Fassung dürfen aus Drittländern nur über einen in Deutschland für Futtermittel benannten Eingangsort im Sinne des Artikels 3 Buchstabe b der Verordnung (EG) Nr. 669/2009 in das Inland gebracht werden, soweit die jeweilige Sendung nicht bereits über einen von einem anderen Mitgliedstaat nach Artikel 3 Buchstabe b der Verordnung (EG) Nr. 669/2009 benannten Eingangsort in das Gebiet der Europäischen Union gebracht worden ist. Die Veröffentlichung der Liste der benannten Eingangsorte nach Artikel 5 Satz 1 der Verordnung (EG) Nr. 669/2009 erfolgt durch das Bundesamt.
+
+### § 36 Dokumentenprüfung, Nämlichkeitskontrolle, Warenuntersuchung
+
+(1) Soweit auf Grund der Verordnung (EG) Nr. 882/2004 oder eines auf Grund der Verordnung (EG) Nr. 882/2004 erlassenen Rechtsaktes der Europäischen Gemeinschaft oder der Europäischen Union bei der Einfuhr von Futtermitteln
+
+1.  
+eine Dokumentenprüfung oder eine Nämlichkeitskontrolle durchzuführen ist, ist diese von den vom Bundesministerium der Finanzen bestimmten Zollstellen (Zollstellen),
+
+2.  
+eine Warenuntersuchung durchzuführen ist, ist diese von den für die Futtermittelüberwachung zuständigen Behörden in Abstimmung mit den Zollstellen
+
+durchzuführen.
+
+(2) Die Durchfuhr von Futtermitteln erfolgt unter zollamtlicher Überwachung, soweit möglich in Form des Zollverschlusses.
+
+### § 37 Bescheinigungen
+
+(1) Die Bescheinigung nach § 55 Absatz 2 des Lebensmittel- und Futtermittelgesetzbuches ist als Teil der Warenbegleitpapiere bis zur Überführung der Futtermittel in den zollrechtlich freien Verkehr mitzuführen.
+
+(2) Werden Futtermittel aus einem Drittland über andere Mitgliedstaaten zur Einfuhr in das Inland verbracht, so ist der zuständigen Behörde die von dem zuerst berührten Mitgliedstaat bei dem Verbringen ausgestellte Bescheinigung über die durchgeführten futtermittelrechtlichen Kontrollen vorzulegen. Die zuständige Behörde kann eine deutsche Übersetzung der Bescheinigung verlangen.
+
+Abschnitt 5 Straftaten und Ordnungswidrigkeiten
+-----------------------------------------------
+
+### 
+
+Unterabschnitt 1 Straftaten bei bestimmten Zuwiderhandlungen gegen die Futtermittelverordnung
+---------------------------------------------------------------------------------------------
+
+### 
+
+### § 38 Straftaten
+
+Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer
+
+1.  
+entgegen § 31 Absatz 1 ein Futtermittel einführt,
+
+2.  
+entgegen § 32 Absatz 1 einen dort genannten Stoff, der für den Verzehr durch Tiere bestimmt ist, oder ein dort genanntes Mischfuttermittel einführt oder
+
+3.  
+entgegen § 33 Absatz 1 ein Futtermittel einführt oder sonst verbringt.
+
+Unterabschnitt 2 Straftaten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 999/2001
+---------------------------------------------------------------------------------------------------
+
+### 
+
+### § 39 Straftaten
+
+Nach § 58 Absatz 3, 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147 vom 31.5.2001, S. 1), die zuletzt durch die Verordnung (EU) 2017/893 (ABl. L 138 vom 25.5.2017, S. 92) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  
 entgegen Artikel 7 Absatz 1, auch in Verbindung mit Artikel 7 Absatz 2, ein tierisches Protein an einen Wiederkäuer oder ein dort genanntes Erzeugnis tierischen Ursprungs an ein anderes dort genanntes Tier verfüttert,
 
 2.  
-als derjenige, der Futtermittel herstellt, behandelt, in den Verkehr bringt oder verfüttert, entgegen Anhang IV Kapitel V Abschnitt B Nummer 1 ein dort genanntes Futtermittel nicht richtig transportiert,
+als derjenige, der Futtermittel herstellt, behandelt, in den Verkehr bringt oder verfüttert, entgegen Anhang IV Kapitel V Abschnitt B Nummer 1 ein dort genanntes Futtermittel nicht richtig transportiert oder nicht richtig lagert,
 
 3.  
-entgegen Anhang IV Kapitel V Abschnitt C ein dort genanntes Mischfuttermittel herstellt,
+entgegen Anhang IV Kapitel V Abschnitt C Nummer 1 oder 2 ein dort genanntes Mischfuttermittel herstellt oder
 
 4.  
-entgegen Anhang IV Kapitel V Abschnitt D ein dort genanntes Futtermittel verwendet oder lagert oder
+entgegen Anhang IV Kapitel V Abschnitt D ein dort genanntes Futtermittel verwendet oder lagert.
 
-5.  
-entgegen Anhang IV Kapitel V Abschnitt E Nummer 1 Satz 1 ein dort genanntes Protein oder ein dort genanntes Produkt ausführt.
+Unterabschnitt 3 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Futtermittelverordnung
+-------------------------------------------------------------------------------------------------------
 
-### § 36 Straftaten
+### 
 
-Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer
+### § 40 Ordnungswidrigkeiten
 
-1.  
-entgegen § 34b Absatz 1 ein Futtermittel einführt,
-
-2.  
-(weggefallen)
-
-3.  
-entgegen § 34d Absatz 1 einen dort genannten Stoff, der für den Verzehr durch Tiere bestimmt ist, oder ein dort genanntes Mischfuttermittel einführt oder
-
-4.  
-entgegen § 35e Absatz 1 ein Futtermittel einführt oder sonst verbringt.
-
-### § 36a Ordnungswidrigkeiten
-
-(1) Wer eine in § 36 bezeichnete Handlung fahrlässig begeht, handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und Futtermittelgesetzbuches ordnungswidrig.
+(1) Wer eine in § 38 bezeichnete Handlung fahrlässig begeht, handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und Futtermittelgesetzbuches ordnungswidrig.
 
 (2) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
 1.  
-entgegen § 10 Absatz 1 Nummer 2, Absatz 2 Satz 1 Nummer 2 oder Absatz 3 Satz 1 Nummer 2 ein Diätfuttermittel in den Verkehr bringt,
+entgegen § 3 Absatz 1 Nummer 2, Absatz 2 Satz 1 Nummer 2 oder Absatz 3 Satz 1 Nummer 2 ein Diätfuttermittel in den Verkehr bringt,
 
 2.  
-entgegen § 11 oder § 24 ein dort genanntes Futtermittel in den Verkehr bringt, das nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise gekennzeichnet ist,
-
-2a.  
-entgegen § 12 ein Futtermittel zum Verkauf anbietet,
+entgegen § 4 oder § 7 ein dort genanntes Futtermittel in den Verkehr bringt, das nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise gekennzeichnet ist,
 
 3.  
-entgegen § 23 Absatz 1 Nummer 1 ein Futtermittel in den Verkehr bringt,
+entgegen § 5 ein Futtermittel zum Verkauf anbietet,
 
 4.  
-entgegen § 23 Absatz 1 Nummer 2 ein Futtermittel verfüttert,
+entgegen § 8 Absatz 1 Nummer 1 ein Futtermittel in den Verkehr bringt,
 
 5.  
-entgegen § 23 Absatz 1 Nummer 3 ein Futtermittel mischt,
+entgegen § 8 Absatz 1 Nummer 2 ein Futtermittel verfüttert,
 
 6.  
-entgegen § 25 ein Futtermittel in den Verkehr bringt oder verfüttert,
+entgegen § 8 Absatz 1 Nummer 3 ein Futtermittel mischt,
 
 7.  
-entgegen § 26 Futtermittel verfüttert,
+entgegen § 11 ein Futtermittel in den Verkehr bringt oder verfüttert,
 
 8.  
-entgegen § 27 Nummer 1 ein Futtermittel in den Verkehr bringt,
+entgegen § 12 Nummer 1 ein Futtermittel in den Verkehr bringt,
 
 9.  
-entgegen § 27 Nummer 2 ein dort genanntes Futtermittel in den Verkehr bringt,
+entgegen § 12 Nummer 2 ein dort genanntes Futtermittel in den Verkehr bringt,
 
 10.  
+entgegen § 14 Futtermittel verfüttert,
+
+11.  
 ohne Zulassung nach
 
 a)  
-§ 28 Absatz 1 Futtermittel dekontaminiert,
+§ 17 Absatz 2 Grünfutter, Lebensmittel oder Lebensmittelreste zum Zwecke der Herstellung eines Einzelfuttermittels oder Mischfuttermittels trocknet,
 
 b)  
-§ 28 Absatz 2 Grünfutter, Lebensmittel oder Lebensmittelreste zum Zwecke der Herstellung eines Einzelfuttermittels oder Mischfuttermittels trocknet,
-
-c)  
-§ 28 Absatz 3 Fette, Öle, Fettsäuren, mit Glycerin veresterte Fettsäuren, Mono- und Diglyceride von Fettsäuren oder Salze von Fettsäuren lose in den Verkehr bringt,
-
-11.  
-einer vollziehbaren Anordnung nach § 29 Absatz 8 Satz 1 oder § 31 Absatz 6 Satz 1 oder einer vollziehbaren Auflage nach § 29 Absatz 7 oder 8 Satz 2 oder § 31 Absatz 5 oder 6 Satz 2 zuwiderhandelt,
+§ 17 Absatz 3 Fette, Öle, Fettsäuren, mit Glycerin veresterte Fettsäuren, Mono- und Diglyceride von Fettsäuren oder Salze von Fettsäuren lose in den Verkehr bringt,
 
 12.  
-entgegen § 30a Absatz 1 oder 3 Satz 1 eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet oder
+einer vollziehbaren Anordnung nach § 18 Absatz 8 Satz 1 oder § 21 Absatz 6 Satz 1 oder einer vollziehbaren Auflage nach § 18 Absatz 7 oder 8 Satz 2 oder § 21 Absatz 5 oder 6 Satz 2 zuwiderhandelt,
 
 13.  
-entgegen § 34 Absatz 1 nicht, nicht richtig oder nicht vollständig Buch führt oder entgegen § 34 Absatz 2 Satz 1 Bücher, Buchführungsunterlagen, Dokumentationen oder Dateien nicht oder nicht mindestens fünf Jahre aufbewahrt.
+entgegen § 22 Absatz 1 oder 3 Satz 1 eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet oder
+
+14.  
+entgegen § 30 Absatz 1 nicht, nicht richtig oder nicht vollständig Buch führt oder entgegen § 30 Absatz 2 Satz 1 Bücher, Buchführungsunterlagen, Dokumentationen oder Dateien nicht oder nicht mindestens fünf Jahre aufbewahrt.
 
 (3) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
 1.  
-entgegen § 28 Absatz 4 Satz 1 oder § 30 Satz 1 einen Futtermittelzusatzstoff, eine Vormischung, ein Einzelfuttermittel oder ein Mischfuttermittel einführt oder
+entgegen § 17 Absatz 4 Satz 1 oder § 20 Satz 1 einen Futtermittelzusatzstoff, eine Vormischung, ein Einzelfuttermittel oder ein Mischfuttermittel einführt oder
 
 2.  
-entgegen § 35a Absatz 2 eine Anmeldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+entgegen § 35 Absatz 2 eine Anmeldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-(+++ § 36a: Zur Anwendung vgl. § 37c +++)
+Unterabschnitt 4 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-### § 36b Ordnungswidrigkeiten
+### 
 
-(1) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates vom 22. September 2003 über Zusatzstoffe zur Verwendung in der Tierernährung (ABl. L 268 vom 18.10.2003, S. 29, L 192 vom 29.5.2004, S. 34, L 98 vom 13.4.2007, S. 29), die zuletzt durch die Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 (ABl. L 229 vom 1.9.2009, S. 1, L 192 vom 22.7.2011, S. 71) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
+### § 40a Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 999/2001
+
+Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Anhang IV Kapitel V Abschnitt E Nummer 2 Satz 1 der Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147 vom 31.5.2001, S. 1), die zuletzt durch die Verordnung (EU) 2017/893 (ABl. L 138 vom 25.5.2017, S. 92) geändert worden ist, ein dort genanntes Produkt, soweit es sich um ein Futtermittel handelt, ausführt.
+
+### § 41 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1831/2003
+
+(1) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates vom 22. September 2003 über Zusatzstoffe zur Verwendung in der Tierernährung (ABl. L 268 vom 18.10.2003, S. 29, L 192 vom 29.5.2004, S. 34, L 98 vom 13.4.2007, S. 29), die zuletzt durch die Verordnung (EU) 2015/2294 (ABl. L 324 vom 10.12.2015, S. 3) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  
 entgegen Artikel 3 Absatz 1 einen Futtermittelzusatzstoff in Verkehr bringt, verarbeitet oder verwendet,
@@ -1076,7 +1093,11 @@ entgegen Artikel 10 Absatz 3 in Verbindung mit Artikel 16 Absatz 1 Satz 1 und Ab
 3.  
 entgegen Artikel 16 Absatz 1 Satz 1 in Verbindung mit Absatz 3 und 4 eine Vormischung von Zusatzstoffen in Verkehr bringt.
 
-(2) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Verordnung (EG) Nr. 183/2005 des Europäischen Parlaments und des Rates vom 12. Januar 2005 mit Vorschriften für die Futtermittelhygiene (ABl. L 35 vom 8.2.2005, S. 1, L 50 vom 23.2.2008, S. 71), die zuletzt durch die Verordnung (EU) 2015/1905 (ABl. L 278 vom 23.10.2015, S. 5) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
+(2) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 16 Absatz 5, auch in Verbindung mit Artikel 10 Absatz 3, der Verordnung (EG) Nr. 1831/2003 einen Futtermittelzusatzstoff oder eine Vormischung in Verkehr bringt.
+
+### § 42 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 183/2005
+
+Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Verordnung (EG) Nr. 183/2005 des Europäischen Parlaments und des Rates vom 12. Januar 2005 mit Vorschriften für die Futtermittelhygiene (ABl. L 35 vom 8.2.2005, S. 1, L 50 vom 23.2.2008, S. 71), die zuletzt durch die Verordnung (EU) 2015/1905 (ABl. L 278 vom 23.10.2015, S. 5) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  
 entgegen Artikel 5
@@ -1085,10 +1106,36 @@ a)
 Absatz 1 die Bestimmungen des Anhangs I Teil A Abschnitt II Nummer 1 Satz 2 auf Verlangen der zuständigen Behörde,
 
 b)  
-Absatz 2 die Bestimmungen des Anhangs II Abschnitt Einrichtungen und Ausrüstungen Nummer 7 Satz 1 oder Nummer 10, Abschnitt Herstellung Nummer 2, 5 Satz 2, Nummer 7 oder Nummer 8, Abschnitt Qualitätskontrolle Nummer 4 Satz 1 oder Satz 3, Abschnitt Dioxinüberwachung von Ölen, Fetten und daraus hergestellten Erzeugnissen Nummer 1, auch in Verbindung mit Nummer 2 Buchstabe a Ziffer i, Buchstabe b, c Ziffer i, ii oder iii, Buchstabe d Ziffer i oder ii, Buchstabe e Ziffer i oder ii, Buchstabe f Satz 1 Ziffer i oder iii oder Buchstabe g Ziffer i oder iii, Nummer 5 Unterabsatz 1 in Verbindung mit Unterabsatz 2 Satz 1, Nummer 5 Unterabsatz 3 Satz 1 oder Nummer 7, Abschnitt Lagerung und Beförderung Nummer 1 erster Halbsatz, Nummer 3 oder Nummer 7 Satz 1, 2 oder Satz 3 oder Abschnitt Dokumentation Nummer 1 oder
+Absatz 2 die Bestimmungen des Anhangs II
+
+aa)  
+Abschnitt Einrichtungen und Ausrüstungen Nummer 7 Satz 1 oder Nummer 10,
+
+bb)  
+Abschnitt Herstellung Nummer 2, 5 Satz 2, Nummer 7 oder Nummer 8,
+
+cc)  
+Abschnitt Qualitätskontrolle Nummer 4 Satz 1 oder Satz 3,
+
+dd)  
+Abschnitt Dioxinüberwachung von Ölen, Fetten und daraus hergestellten Erzeugnissen Nummer 1, auch in Verbindung mit Nummer 2 Buchstabe a Ziffer i, Buchstabe b, c Ziffer i, ii oder iii, Buchstabe d Ziffer i oder ii, Buchstabe e Ziffer i oder ii, Buchstabe f Satz 1 Ziffer i oder iii, Buchstabe g Ziffer i oder iii oder Buchstabe h Ziffer i, Nummer 5 Unterabsatz 1 in Verbindung mit Unterabsatz 2 Satz 1, Nummer 5 Unterabsatz 3 Satz 1 oder Nummer 7,
+
+ee)  
+Abschnitt Lagerung und Beförderung Nummer 1 erster Halbsatz, Nummer 3 oder Nummer 7 Satz 1, 2 oder Satz 3 oder
+
+ff)  
+Abschnitt Dokumentation Nummer 1
+
+oder
 
 c)  
-Absatz 5 die Bestimmungen des Anhangs III Abschnitt Vorschriften für Stall- und Fütterungseinrichtungen Satz 3 oder Abschnitt Fütterung Nummer 1 Satz 1 oder Nummer 2 Satz 3
+Absatz 5 die Bestimmungen des Anhangs III
+
+aa)  
+Abschnitt Vorschriften für Stall- und Fütterungseinrichtungen Satz 3 oder
+
+bb)  
+Abschnitt Fütterung Nummer 1 Satz 1 oder Nummer 2 Satz 3
 
 nicht erfüllt,
 
@@ -1104,7 +1151,13 @@ entgegen Artikel 11 eine Tätigkeit ohne Registrierung oder Zulassung ausübt od
 5.  
 entgegen Artikel 23 Absatz 1 nicht sicherstellt, dass Futtermittel aus Drittländern nur unter den dort genannten Bedingungen eingeführt werden.
 
-(3) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung 2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1, L 192 vom 22.7.2011, S. 71), die zuletzt durch die Verordnung (EU) Nr. 939/2010 (ABl. L 277 vom 21.10.2010, S. 4) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
+### § 43 Ordnungswidrigkeiten bei Zuwiderhandlungen gegen die Verordnung (EG) Nr. 669/2009
+
+Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 6 Unterabsatz 2 der Verordnung (EG) Nr. 669/2009 der Kommission vom 24. Juli 2009 zur Durchführung der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates im Hinblick auf verstärkte amtliche Kontrollen bei der Einfuhr bestimmter Futtermittel und Lebensmittel nicht tierischen Ursprungs und zur Änderung der Entscheidung 2006/504/EG (ABl. L 194 vom 25.7.2009, S. 11), die zuletzt durch die Durchführungsverordnung (EU) 2017/2298 (ABl. L 329 vom 13.12.2017, S. 26) geändert worden ist, als Futtermittelunternehmer oder als sein Vertreter ein dort genanntes Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
+
+### § 44 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EG) Nr. 767/2009
+
+(1) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Verordnung (EG) Nr. 767/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über das Inverkehrbringen und die Verwendung von Futtermitteln, zur Änderung der Verordnung (EG) Nr. 1831/2003 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 79/373/EWG des Rates, 80/511/EWG der Kommission, 82/471/EWG des Rates, 83/228/EWG des Rates, 93/74/EWG des Rates, 93/113/EG des Rates und 96/25/EG des Rates und der Entscheidung 2004/217/EG der Kommission (ABl. L 229 vom 1.9.2009, S. 1, L 192 vom 22.7.2011, S. 71), die zuletzt durch die Verordnung (EU) 2017/2279 (ABl. L 328 vom 12.12.2017, S. 3) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  
 entgegen Artikel 4 Absatz 2 Unterabsatz 1 Buchstabe a als Futtermittelunternehmer, der ein Futtermittel in den Verkehr bringt, nicht sicherstellt, dass das Futtermittel den dort genannten Anforderungen entspricht,
@@ -1142,19 +1195,27 @@ entgegen Artikel 9 ein Futtermittel für besondere Ernährungszwecke in den Verk
 als Futtermittelunternehmer, der ein Futtermittel durch Fernkommunikationsmittel zum Verkauf anbietet, entgegen Artikel 11 Absatz 3 Satz 2 eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig bereitstellt oder
 
 6.  
-entgegen Artikel 15, auch in Verbindung mit Artikel 16 Absatz 1 Buchstabe a oder Buchstabe b Halbsatz 1 und Absatz 2, Artikel 17 Absatz 1 Buchstabe a bis d Satz 1 und Buchstabe e, dieser auch in Verbindung mit Artikel 17 Absatz 2, und Buchstabe f, Artikel 18 oder Artikel 20 Absatz 1 ein dort genanntes Futtermittel in den Verkehr bringt.
+entgegen Artikel 15, auch in Verbindung mit
 
-(4) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 16 Absatz 5, auch in Verbindung mit Artikel 10 Absatz 3, der Verordnung (EG) Nr. 1831/2003 einen Futtermittelzusatzstoff oder eine Vormischung in Verkehr bringt.
+a)  
+Artikel 16 Absatz 1 Buchstabe a oder Buchstabe b erster Halbsatz und Absatz 2,
 
-(5) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 6 Unterabsatz 2 der Verordnung (EG) Nr. 669/2009 der Kommission vom 24. Juli 2009 zur Durchführung der Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates im Hinblick auf verstärkte amtliche Kontrollen bei der Einfuhr bestimmter Futtermittel und Lebensmittel nicht tierischen Ursprungs und zur Änderung der Entscheidung 2006/504/EG (ABl. L 194 vom 25.7.2009, S. 11), die zuletzt durch die Durchführungsverordnung (EU) 2015/1607 (ABl. L 249 vom 25.9.2015, S. 7) geändert worden ist, als Futtermittelunternehmer oder als sein Vertreter ein dort genanntes Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
+b)  
+Artikel 17 Absatz 1 Buchstabe a bis d Satz 1 oder Buchstabe e, dieser auch in Verbindung mit Absatz 2, oder Buchstabe f,
 
-(6) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 23 Absatz 1 Satz 1 der Verordnung (EG) Nr. 767/2009, auch in Verbindung mit Satz 2, ein Einzelfuttermittel oder ein Mischfuttermittel in den Verkehr bringt.
+c)  
+Artikel 18 oder
 
-(7) (weggefallen)
+d)  
+Artikel 20 Absatz 1,
 
-(8) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig als Futtermittelunternehmer oder als sein Vertreter entgegen Artikel 9 Absatz 2 Unterabsatz 2 der Durchführungsverordnung (EU) Nr. 322/2014 der Kommission vom 28. März 2014 zum Erlass von Sondervorschriften für die Einfuhr von Lebens-und Futtermitteln, deren Ursprung oder Herkunft Japan ist, nach dem Unfall im Kernkraftwerk Fukushima (ABl. L 95 vom 29.3.2014, S. 1), die durch die Durchführungsverordnung (EU) 2015/328 (ABl. L 58 vom 3.3.2015, S. 50) geändert worden ist, ein dort genanntes Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
+ein dort genanntes Futtermittel in den Verkehr bringt.
 
-(9) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Durchführungsverordnung (EU) Nr. 884/2014 der Kommission vom 13. August 2014 zur Festlegung besonderer Bedingungen für die Einfuhr bestimmter Futtermittel und Lebensmittel aus bestimmten Drittländern wegen des Risikos einer Aflatoxin-Kontamination und zur Aufhebung der Verordnung (EG) Nr. 1152/2009 (ABl. L 242 vom 14.8.2014, S. 4) verstößt, indem er als Futtermittelunternehmer oder als sein Vertreter vorsätzlich oder fahrlässig
+(2) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 23 Absatz 1 Satz 1 der Verordnung (EG) Nr. 767/2009, auch in Verbindung mit Satz 2, ein Einzelfuttermittel oder ein Mischfuttermittel in den Verkehr bringt.
+
+### § 45 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Durchführungsverordnung (EU) Nr. 884/2014
+
+Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Durchführungsverordnung (EU) Nr. 884/2014 der Kommission vom 13. August 2014 zur Festlegung besonderer Bedingungen für die Einfuhr bestimmter Futtermittel und Lebensmittel aus bestimmten Drittländern wegen des Risikos einer Aflatoxin-Kontamination und zur Aufhebung der Verordnung (EG) Nr. 1152/2009 (ABl. L 242 vom 14.8.2014, S. 4), die durch die Durchführungsverordnung (EU) 2016/2106 (ABl. L 327 vom 2.12.2016, S. 44) geändert worden ist, verstößt, indem er als Futtermittelunternehmer oder als sein Vertreter vorsätzlich oder fahrlässig
 
 1.  
 entgegen Artikel 7 Absatz 2 das dort genannte Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt oder
@@ -1162,49 +1223,48 @@ entgegen Artikel 7 Absatz 2 das dort genannte Dokument nicht, nicht richtig, nic
 2.  
 entgegen Artikel 7 Absatz 4 Satz 1 in Verbindung mit Satz 2 die zuständige Behörde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig informiert.
 
-(10) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 7 Absatz 2 Satz 2 der Durchführungsverordnung (EU) 2015/175 der Kommission vom 5. Februar 2015 zur Festlegung von Sondervorschriften für die Einfuhr von Guarkernmehl, dessen Ursprung oder Herkunft Indien ist, wegen des Risikos einer Kontamination mit Pentachlorphenol und Dioxinen (ABl. L 30 vom 6.2.2015, S. 10) als Futtermittelunternehmer oder als sein Vertreter ein dort genanntes Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
+### § 46 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Durchführungsverordnung (EU) 2015/175
 
-(+++ § 36b Abs. 2 Nr. 1 Buchst. b: Zur Anwendung vgl. § 37c Abs. 3 +++)
+Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig als Futtermittelunternehmer oder als sein Vertreter entgegen Artikel 7 Absatz 2 Satz 2 der Durchführungsverordnung (EU) 2015/175 der Kommission vom 5. Februar 2015 zur Festlegung von Sondervorschriften für die Einfuhr von Guarkernmehl, dessen Ursprung oder Herkunft Indien ist, wegen des Risikos einer Kontamination mit Pentachlorphenol und Dioxinen (ABl. L 30 vom 6.2.2015, S. 10) ein dort genanntes Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
-### § 37 Übergangsregelungen
+### § 46a Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Verordnung (EU) 2015/786
 
-Betriebe nach § 28 Absatz 2a, die am 16. September 2012 bereits aus Fetten pflanzlichen oder tierischen Ursprungs, Ölen pflanzlichen oder tierischen Ursprungs oder Fettsäuren pflanzlichen oder tierischen Ursprungs hergestellte Fette, Öle, Fettsäuren, mit Glycerin veresterte Fettsäuren, Mono- und Diglyceride von Fettsäuren oder Salze von Fettsäuren, die sie jeweils nicht selbst hergestellt haben, als Einzelfuttermittel lose in den Verkehr bringen, gelten als vorläufig zugelassen. Die vorläufige Zulassung erlischt,
+Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 6 Absatz 1 Satz 1 der Verordnung (EU) 2015/786 der Kommission vom 19. Mai 2015 zur Festlegung von Kriterien für die Zulässigkeit von Entgiftungsverfahren, denen zur Tierernährung bestimmte Erzeugnisse unterzogen werden, gemäß der Richtlinie 2002/32/EG des Europäischen Parlaments und des Rates (ABl. L 125 vom 21.5.2015, S. 10) nicht dafür sorgt, dass ein dort genannter Betrieb zugelassen ist.
 
-1.  
-wenn sie die Zulassung nicht bis zum 1. Januar 2013 beantragt haben und
+### § 47 Ordnungswidrigkeiten bei bestimmten Zuwiderhandlungen gegen die Durchführungsverordnung (EU) 2016/6
 
-2.  
-im Fall rechtzeitiger Antragstellung mit Eintritt der Unanfechtbarkeit der Entscheidung über den Antrag.
+Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig als Futtermittelunternehmer oder als sein Vertreter entgegen Artikel 9 Absatz 2 Unterabsatz 2 der Durchführungsverordnung (EU) 2016/6 der Kommission vom 5. Januar 2016 mit besonderen Bedingungen für die Einfuhr von Lebens- und Futtermitteln, deren Ursprung oder Herkunft Japan ist, nach dem Unfall im Kernkraftwerk Fukushima und zur Aufhebung der Durchführungsverordnung (EU) Nr. 322/2014 (ABl. L 3 vom 6.1.2016, S. 5), die durch die Durchführungsverordnung (EU) 2017/2058 (ABl. L 294 vom 11.11.2017, S. 29) geändert worden ist, ein dort genanntes Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
-Der Antrag ist innerhalb von sechs Monaten nach Eingang bei der zuständigen Behörde zu bescheiden. Abweichend von Satz 3 kann der Antrag auch später beschieden werden, wenn die zuständige Behörde dem Antragsteller eine Frist zur Beibringung erforderlicher Unterlagen eingeräumt hat, die nach dem in Satz 3 genannten Zeitpunkt abläuft.
+Abschnitt 6 Schlussbestimmungen
+-------------------------------
 
-### § 37a Technische Festlegungen
+### 
+
+### § 48 Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten
+
+Die Befugnis zum Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten zur Aufklärung und Verfolgung von Verstößen gegen futtermittelrechtliche Vorschriften wird den zuständigen obersten Landesbehörden übertragen. Sie unterrichten das Bundesministerium über Mitteilungen an andere Mitgliedstaaten.
+
+### § 49 Technische Festlegungen
 
 Soweit in dieser Verordnung auf DIN-Normen Bezug genommen wird, sind diese im Beuth Verlag GmbH, 10772 Berlin, erschienen. Sie sind beim Deutschen Patent- und Markenamt archivmäßig gesichert niedergelegt.
 
-### § 37b Nicht mehr anzuwendende Vorschriften
+### § 49a Übergangsregelungen
 
-Die in § 1 Absatz 1 Satz 2 des Gesetzes über den Übergang auf das neue Lebensmittel- und Futtermittelrecht genannten Vorschriften sind nicht mehr anzuwenden.
+Futtermittel dürfen noch bis zum 31. August 2020 mit Etiketten, die den Anforderungen des § 6 Absatz 2 der Futtermittelverordnung in der am 30. Juli 2018 geltenden Fassung genügen, gekennzeichnet werden. Futtermittel, die mit Etiketten, die den Anforderungen des § 6 Absatz 2 in der am 30. Juli 2018 geltenden Fassung genügen, gekennzeichnet sind, dürfen noch in den Verkehr gebracht werden, bis die Bestände aufgebraucht sind.
 
-### § 37c Weitere Anwendung von Vorschriften
+### § 50 Weitere Anwendung von Vorschriften
 
-(1) Auf Sachverhalte, die vor dem 1. September 2010 entstanden sind, sind die §§ 1 bis 9, 9a, 10 bis 15, 18, 19, 24, 25 und 26 Absatz 1, §§ 27, 36 und die Anlagen 1, 1a, 2, 2a, 4 und 6 in der bis zum 31. August 2010 geltenden Fassung hinsichtlich der Verfolgung von Straftaten und Ordnungswidrigkeiten weiter anzuwenden.
+(1) Auf Sachverhalte, die vor dem 12. November 2015 entstanden sind, ist § 36b Absatz 2 Nummer 1 Buchstabe b in der bis zum 30. November 2015 geltenden Fassung hinsichtlich der Verfolgung von Ordnungswidrigkeiten weiter anzuwenden.
 
-(2) Auf Sachverhalte, die vor dem 26. Juli 2011 entstanden sind, sind die §§ 23, 24, 26 und § 36a Absatz 2 Nummer 6 sowie die Anlage 5 mit Ausnahme der Spalte 4 in der bis zum 25. Juli 2011 geltenden Fassung hinsichtlich der Verfolgung von Ordnungswidrigkeiten weiter anzuwenden.
+(2) § 39 Nummer 3 ist in der am 19. Juli 2017 geltenden Fassung bis zum Ablauf des 31. Dezember 2017 weiter anzuwenden.
 
-(3) Auf Sachverhalte, die vor dem 12. November 2015 entstanden sind, ist § 36b Absatz 2 Nummer 1 Buchstabe b in der bis zum 30. November 2015 geltenden Fassung hinsichtlich der Verfolgung von Ordnungswidrigkeiten weiter anzuwenden.
-
-### § 38 Inkrafttreten, Übergangsregelungen
+### § 51 Inkrafttreten, Übergangsregelungen
 
 (Inkrafttreten; Außerkrafttreten bisheriger Vorschriften)
 
-### Anlage 1 (weggefallen)
+### Anlage 1 (zu §§ 2 und 4 Absatz 1 Satz 1)Verzeichnis der für Diätfuttermittel festgesetzten Verwendungszwecke
 
-### (XXXX) Anlage 1a und 2 (weggefallen)
-
-### Anlage 2a (zu § 11 Absatz 1 Satz 1)Verzeichnis der für Diätfuttermittel festgesetzten Verwendungszwecke
-
-(Fundstelle: BGBl. I 2015, 1704 - 1709; bzgl. einzelner Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2016, 2020- 2025)
 
 Vorbemerkungen
 
@@ -1485,7 +1545,7 @@ Methionin
 Cholin
 n-3-Fettsäuren (falls zugesetzt)
 
-Einzelfuttermittel als Protein- und Faserquelle, leicht verdauliche Kohlenhydrate
+Einzelfuttermittel als Protein- und Fasequelle, leicht verdauliche Kohlenhydrate
 (ggf. Angabe ihrer Bearbeitung)
 
 zunächst bis zu 6 Monaten
@@ -1813,7 +1873,7 @@ b)
 Bei Futtermitteln für Katzen kann der Angabe des besonderen Ernährungszweckes die Angabe „Erkrankung der unteren Harnwege bei Katzen“ oder „Felines Urologisches Syndrom – FUS“ hinzugefügt werden.
 
 Verringerung der **Tetaniegefahr**
-– Hypomagnesämie –
+– Hypomagnesiämie –
 
 hoher Magnesiumgehalt, leicht verfügbare Kohlenhydrate, mittlerer Proteingehalt, niedriger Kaliumgehalt
 
@@ -1919,11 +1979,161 @@ Angabe in der Gebrauchsanweisung: „Es wird empfohlen, vor der Verfütterung od
 
 Diese Position ist bis zum 29. Juli 2008 in der am 9. Juni 2008 geltenden Fassung anzuwenden.Diese Position ist bis zum 1. Dezember 2008 in der am 9. Juni 2008 geltenden Fassung anzuwenden; Futtermittel in Fertigpackungen, die der ab dem 2. Dezember 2008 geltenden Fassung nicht entsprechen und die bis zum 1. Dezember 2008 erstmals in den Verkehr gebracht worden sind, dürfen weiter in den Verkehr gebracht werden.
 
-(+++ Zur Anwendungsregelung vgl. § 37c +++)
+### Anlage 2 (zu § 6 Absatz 1)Schätzgleichungen zur Berechnung des Energiegehaltes von Mischfuttermitteln
 
-### Anlage 2b (zu § 13 Absatz 3 Satz 1)Gruppen von Einzelfuttermitteln, deren Angabe die Angabe von Einzelfuttermitteln bei der Kennzeichnung von Mischfuttermitteln für Heimtiere ersetzt
+(Fundstelle: BGBl. I 2016, 2026)
 
-(Fundstelle: BGBl. I 2015, 1710)
+Verwendete Abkürzungen
+
+GE  
+= Bruttoenergie
+
+ME  
+= umsetzbare Energie
+
+MJ/kg  
+= Megajoule je Kilogramm
+
+NEL  
+= Nettoenergie-Laktation
+
+v. H.  
+= vom Hundert
+
+g  
+= Gramm
+
+ml  
+= Milliliter
+
+mg  
+= Milligramm
+
+T  
+= Trockenmasse
+
+Tierart
+
+Mischfuttermittel
+
+Schätzgleichung
+
+1
+
+2
+
+3
+
+Rinder,
+Schafe,
+Ziegen
+
+alle
+
+ME in MJ/kg T = 7,17
+
+– (g/kg T)
+
+Rohasche
+
+× 0,01171
+
++ (g/kg T)
+
+Rohprotein
+
+× 0,00712
+
++ (g/kg T)
+
+Rohfett
+
+× 0,01657
+
++ (g/kg T)
+
+Stärke
+
+× 0,00200
+
+– (g/kg T)
+
+Säure-Detergenzien-Faser, aschefrei
+
+× 0,00202
+
++ ml
+
+Gasbildung in 200 mg Trockenmasse
+
+× 0,06463
+
+Schweine
+
+alle
+
+ME<sub>s</sub> in MJ/kg =
+
+   (g/kg)
+
+Rohprotein
+
+× 0,021503
+
++ (g/kg)
+
+Rohfett
+
+× 0,032497
+
+– (g/kg)
+
+Rohfaser
+
+× 0,021071
+
++ (g/kg)
+
+Stärke
+
+× 0,016309
+
++ (g/kg)
+
+organischer Rest (berechnet als Differenz zwischen der organischen Substanz und der Summe aus Rohprotein, Rohfett, Rohfaser und Stärke (jeweils in g/kg))
+
+× 0,014701
+
+Soll die Angabe in NEL in MJ/kg erfolgen, ist wie folgt umzurechnen:
+NEL = 0,6 \[1 + 0,004 (q – 57)\]x ME; wobei q = ME x 100/GE.
+Dafür ist der GE-Gehalt im Bombenkalorimeter zu bestimmen oder wie folgt zu berechnen:
+GE (MJ/kg) =
+
+<table>
+<tbody>
+<tr class="odd">
+<td>(g/kg)<br />
++ (g/kg)<br />
++ (g/kg)<br />
++ (g/kg)</td>
+<td>Rohprotein<br />
+Rohfett<br />
+Rohfaser<br />
+N-freie Extraktstoffe</td>
+<td>x 0,0239<br />
+x 0,0398<br />
+x 0,0201<br />
+x 0,0175.</td>
+</tr>
+</tbody>
+</table>
+
+Zu bestimmen nach HCI-Aufschluss nach Anhang III Buchstabe H der Verordnung (EG) Nr. 152/2009.Zu bestimmen nach dem polarimetrischen Verfahren nach Anhang III Buchstabe L der Verordnung (EG) Nr. 152/2009.Die Bestimmungsmethode ist folgender Quelle zu entnehmen:
+Steingass, H., K. H. Menke (1986): Übersichten Tierernährung, Band 14, S. 251, DLG-Verlag, Frankfurt/Main.
+
+### Anlage 3 (zu § 6 Absatz 2)Gruppen von Einzelfuttermitteln, deren Angabe die Angabe von Einzelfuttermitteln bei der Kennzeichnung von Mischfuttermitteln für nicht der Lebensmittelgewinnung dienende Tiere mit Ausnahme von Pelztieren ersetzt
+
+(Fundstelle: BGBl. I 2016, 2027)
 
 Gruppe
 
@@ -2043,229 +2253,12 @@ Bäckereierzeugnisse
 
 Alle Erzeugnisse aus der Backwarenherstellung, insbesondere Brot, Kuchen, Kekse sowie Teigwaren
 
-### Anlage 3 (weggefallen)
+### Anlage 4 (zu § 18 Absatz 2)Anforderungen und Pflichten für Betriebe gemäß § 17 Absatz 2
 
-### Anlage 4 (zu § 13 Absatz 1 und 2)Schätzgleichungen zur Berechnung des Energiegehaltes von Mischfuttermitteln
-
-(Fundstelle: BGBl. I 2015, 1712)
-
-Verwendete Abkürzungen
-
-GE  
-= Bruttoenergie
-
-ME  
-= umsetzbare Energie
-
-MJ/kg  
-= Megajoule je Kilogramm
-
-NEL  
-= Nettoenergie-Laktation
-
-v. H.  
-= vom Hundert
-
-g  
-= Gramm
-
-ml  
-= Milliliter
-
-mg  
-= Milligramm
-
-T  
-= Trockenmasse
-
-Tierart
-
-Mischfuttermittel
-
-Schätzgleichung
-
-1
-
-2
-
-3
-
-**Teil 1. Schätzgleichungen nach § 13 Absatz 1**
-
-Rinder,
-Schafe,
-Ziegen
-
-alle
-
-ME in MJ/kg T = 7,17
-
-– (g/kg T)
-
-Rohasche
-
-× 0,01171
-
-+ (g/kg T)
-
-Rohprotein
-
-× 0,00712
-
-+ (g/kg T)
-
-Rohfett
-
-× 0,01657
-
-+ (g/kg T)
-
-Stärke
-
-× 0,00200
-
-– (g/kg T)
-
-Säure-Detergenzien-Faser, aschefrei
-
-× 0,00202
-
-+ ml
-
-Gasbildung in 200 mg Trockenmasse
-
-× 0,06463
-
-Schweine
-
-alle
-
-ME<sub>s</sub> in MJ/kg =
-
-   (g/kg)
-
-Rohprotein
-
-× 0,021503
-
-+ (g/kg)
-
-Rohfett<sup>2</sup>
-
-× 0,032497
-
-– (g/kg)
-
-Rohfaser
-
-× 0,021071
-
-+ (g/kg)
-
-Stärke<sup>3</sup>
-
-× 0,016309
-
-+ (g/kg)
-
-organischer Rest (berechnet als Differenz zwischen der organischen Substanz und der Summe aus Rohprotein, Rohfett, Rohfaser und Stärke (jeweils in g/kg))
-
-× 0,014701
-
-**Teil 2. Schätzgleichungen nach § 13 Absatz 2**
-
-Hunde,
-Katzen
-
-Futtermittel für besondere Ernährungszwecke, ausgenommen Futtermittel für besondere Ernährungszwecke für Katzen mit einem Feuchtigkeitsgehalt von mehr als 14 v. H.
-
-ME in MJ/kg =
-
-   g
-
-Rohprotein
-
-x 0,01464
-
-+ g
-
-Rohfett<sup>2</sup>
-
-x 0,03556
-
-+ g
-
-N-freie Extraktstoffe
-
-x 0,01464
-
-Katzen
-
-Futtermittel für besondere Ernährungszwecke mit einem Feuchtigkeitsgehalt von mehr als 14 v. H.
-
-ME in MJ/kg =
-
-   g
-
-Rohprotein
-
-x 0,01632
-
-+ g
-
-Rohfett<sup>2</sup>
-
-x 0,03222
-
-+ g
-
-N-freie Extraktstoffe
-
-x 0,01255
-
-– 0,2092
-
-Soll die Angabe in NEL in MJ/kg erfolgen, ist wie folgt umzurechnen:
-NEL = 0,6 \[1 + 0,004 (q – 57)\]x ME; wobei q = ME x 100/GE.
-Dafür ist der GE-Gehalt im Bombenkalorimeter zu bestimmen oder wie folgt zu berechnen:
-GE (MJ/kg) =
-
-<table>
-<tbody>
-<tr class="odd">
-<td>(g/kg)<br />
-+ (g/kg)<br />
-+ (g/kg)<br />
-+ (g/kg)</td>
-<td>Rohprotein<br />
-Rohfett<br />
-Rohfaser<br />
-N-freie Extraktstoffe</td>
-<td>x 0,0239<br />
-x 0,0398<br />
-x 0,0201<br />
-x 0,0175.</td>
-</tr>
-</tbody>
-</table>
-
-Zu bestimmen nach HCI-Aufschluss nach Anhang III Buchstabe H der Verordnung (EG) Nr. 152/2009.Zu bestimmen nach dem polarimetrischen Verfahren nach Anhang III Buchstabe L der Verordnung (EG) Nr. 152/2009.Die Bestimmungsmethode ist folgender Quelle zu entnehmen:
-Steingass, H., K. H. Menke (1986): Übersichten Tierernährung, Band 14, S. 251, DLG-Verlag, Frankfurt/Main.
-
-### Anlage 5 (weggefallen)
-
-### Anlage 5a (weggefallen)
-
-### Anlage 6 (weggefallen)
-
-### Anlage 7 (weggefallen)
-
-### Anlage 7a (zu § 29 Absatz 2)Anforderungen und Pflichten für Betriebe gemäß § 28 Absatz 2
-
-(Fundstelle: BGBl. I 2015, 1714)
+(Fundstelle: BGBl. I 2016, 2028)
 
 1.  
-Anforderungen an Räume und EinrichtungenBetriebe nach § 28 Absatz 2 müssen Betriebsräume haben, die nach Art, Größe und Einrichtungen so beschaffen sind, dass in ihnen eine ordnungsgemäße Trocknung der Futtermittel sowie eine Prüfung und sachgerechte Lagerung der Futtermittel möglich ist. Die Räume müssen in einem ordnungsgemäßen baulichen und hygienischen Zustand, insbesondere sauber, trocken und gut belüftet, sein.
+Anforderungen an Räume und EinrichtungenBetriebe nach § 17 Absatz 2 müssen Betriebsräume haben, die nach Art, Größe und Einrichtungen so beschaffen sind, dass in ihnen eine ordnungsgemäße Trocknung der Futtermittel sowie eine Prüfung und sachgerechte Lagerung der Futtermittel möglich ist. Die Räume müssen in einem ordnungsgemäßen baulichen und hygienischen Zustand, insbesondere sauber, trocken und gut belüftet, sein.
 
 2.  
 Anforderungen an die TrocknungsanlageDie zur Trocknung von Futtermitteln verwendete Anlage muss so eingerichtet sein, dass
@@ -2287,11 +2280,9 @@ Anforderungen an die TrocknungDurch eine anlagenspezifische Prozessführung muss
 4.  
 AusnahmenDas Gutachten nach Nummer 2 Satz 2 zum Nachweis der Voraussetzungen nach Nummer 2 Satz 1 Buchstabe a und nach Nummer 3 Satz 3 ist entbehrlich bei Trocknungsanlagen mit Feuerungen, die mit Erdgas, Heizöl EL oder naturbelassenem Holz befeuert werden und deren Feuerungsanlagen die Anforderungen der Nummern 5.4.1.2.1, 5.4.1.2.2 und 5.4.1.2.3 der Technischen Anleitung zur Reinhaltung der Luft – TA Luft – in der jeweils geltenden Fassung einhalten, wobei die Emissionswerte auf einen Sauerstoffgehalt von 17 % bezogen werden können. Für Feuerungsanlagen, die mit naturbelassenem Holz befeuert werden, gilt Satz 1 nur, soweit der verwendete Brennstoff die im Normblatt DIN 51731, Ausgabe Oktober 1996, genannten Grenzwerte für Spurenstoffe einhält.Das Gutachten nach Nummer 2 Satz 2 zum Nachweis der Voraussetzungen nach Nummer 2 Satz 1 Buchstabe b und c ist entbehrlich, soweit für die Anlage eine Genehmigung nach dem Bundes-Immissionsschutzgesetz vorliegt, in der die Anforderungen nach Nummer 2 Satz 1 Buchstabe b und c berücksichtigt sind, oder eine Genehmigung nach dem Bundes-Immissionsschutzgesetz vorliegt und die Anforderungen nach Nummer 2 Satz 1 Buchstabe b und c im Rahmen einer Zertifizierung nach den Grundsätzen des Systems der Gefahrenanalyse und Überwachung kritischer Kontrollpunkte (HACCP) oder der ISO 9002 nachgewiesen werden.
 
-### Anlage 8 (weggefallen)
+### Anlage 5 (zu § 32 Absatz 1 und 2)Liste der nach Artikel 3 Absatz 2 der Durchführungsverordnung (EU) 2015/175 in Deutschland für Futtermittel benannten Eingangsorte
 
-### Anlage 9 (zu § 34d Absatz 1 und 2)Liste der nach Artikel 3 Absatz 2 der Durchführungsverordnung (EU) 2015/175 in Deutschland für Futtermittel benannten Eingangsorte
-
-(Fundstelle: BGBl. I 2015, 1716)
+(Fundstelle: BGBl. I 2016, 2029)
 
 Land
 
