@@ -2,10 +2,7 @@ Verordnung über Allgemeine Bedingungen für die Grundversorgung von Haushaltsku
 ====================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 22.10.2014 I 1631
-
-Hinweis  
-Änderung durch Art. 11 G v. 19.2.2016 I 254 (Nr. 9) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 10 G v. 29.8.2016 I 2034
 
 ### 
 
@@ -183,7 +180,7 @@ Teil 3 Aufgaben und Rechte des Grundversorgers
 
 ### § 8 Messeinrichtungen
 
-(1) Das vom Grundversorger gelieferte Gas wird durch die Messeinrichtungen nach § 21b des Energiewirtschaftsgesetzes festgestellt.
+(1) Das vom Grundversorger gelieferte Gas wird durch die Messeinrichtungen nach den Vorschriften des Messstellenbetriebsgesetzes festgestellt.
 
 (2) Der Grundversorger ist verpflichtet, auf Verlangen des Kunden jederzeit eine Nachprüfung der Messeinrichtungen durch eine Eichbehörde oder eine staatlich anerkannte Prüfstelle im Sinne des § 40 Absatz 3 des Mess- und Eichgesetzes zu veranlassen. Stellt der Kunde den Antrag auf Prüfung nicht bei dem Grundversorger, so hat er diesen zugleich mit der Antragstellung zu benachrichtigen. Die Kosten der Prüfung nach Satz 1 fallen dem Grundversorger zur Last, falls die Abweichung die gesetzlichen Verkehrsfehlergrenzen überschreitet, sonst dem Kunden.
 
