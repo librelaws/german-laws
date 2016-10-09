@@ -2,7 +2,7 @@ Neununddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgeset
 ================================================================================================================================================================
 
 Stand  
-Geändert durch Art. 87 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 1 V v. 10.10.2016 I 2244
 
 ### 
 
@@ -682,18 +682,11 @@ ist sicherzustellen, soweit dies mit verhältnismäßigen Maßnahmen, insbesonde
 
 ### § 26 Erhalten der bestmöglichen Luftqualität
 
-In Gebieten und Ballungsräumen, in denen
+(1) In Gebieten und Ballungsräumen, in denen die Werte von Schwefeldioxid, Stickstoffdioxid, Partikel PM<sub>10</sub>, Partikel PM<sub>2,5</sub>, Blei, Benzol und Kohlenmonoxid in der Luft unter den jeweiligen Immissionsgrenzwerten liegen, halten die zuständigen Behörden die Werte dieser Schadstoffe unterhalb dieser Grenzwerte. In Gebieten und Ballungsräumen, in denen die Werte von Arsen, Kadmium, Nickel und Benzo\[*a*\]pyren in der Luft unter den jeweiligen in § 10 festgelegten Zielwerten liegen, halten die zuständigen Behörden die Werte dieser Schadstoffe unterhalb dieser Zielwerte.
 
-1.  
-die Werte von Schwefeldioxid, Stickstoffdioxid, Partikel PM<sub>10</sub>, Partikel PM<sub>2,5</sub>, Blei, Benzol und Kohlenmonoxid in der Luft unter den jeweiligen Immissionsgrenzwerten liegen,
+(2) In Gebieten und Ballungsräumen, in denen die Ozonwerte die langfristigen Ziele erreichen, halten die zuständigen Behörden die Werte unterhalb der langfristigen Ziele, soweit Faktoren wie der grenzüberschreitende Charakter der Ozonbelastung und die meteorologischen Gegebenheiten dies zulassen.
 
-2.  
-die Ozonwerte die langfristigen Ziele erreichen oder
-
-3.  
-die Werte von Arsen, Kadmium, Nickel und Benzo\[*a*\]-pyren unter den jeweiligen Zielwerten liegen,
-
-bemühen sich die zuständigen Behörden darum, die bestmögliche Luftqualität unterhalb dieser Werte, die mit einer nachhaltigen Entwicklung in Einklang zu bringen ist, aufrechtzuerhalten und berücksichtigen dies bei allen relevanten Planungen.
+(3) Die zuständigen Behörden bemühen sich darum, die bestmögliche Luftqualität, die mit einer nachhaltigen Entwicklung in Einklang zu bringen ist, aufrechtzuerhalten. Sie berücksichtigen dieses Ziel bei allen für die Luftqualität relevanten Planungen.
 
 Teil 5 Pläne
 ------------
@@ -717,6 +710,8 @@ Die genannten Pläne können zusätzlich gezielte Maßnahmen zum Schutz empfindl
 (3) Diese Luftreinhaltepläne müssen mindestens die in Anlage 13 aufgeführten Angaben umfassen und können Maßnahmen nach den §§ 22 und 28 enthalten.
 
 (4) Müssen für mehrere Schadstoffe Luftreinhaltepläne ausgearbeitet oder durchgeführt werden, so arbeiten die zuständigen Behörden gegebenenfalls für alle betreffenden Schadstoffe einen integrierten Luftreinhalteplan aus und führen ihn durch.
+
+(5) Die zuständigen Behörden stellen, soweit möglich, die Übereinstimmung der Luftreinhaltepläne mit den Lärmaktionsplänen nach § 47d des Bundes-Immissionsschutzgesetzes und mit dem Programm zur Verminderung der Ozonwerte und zur Einhaltung der Emissionshöchstmengen nach § 34 sicher, um die entsprechenden Umweltziele zu erreichen.
 
 ### § 28 Pläne für kurzfristige Maßnahmen
 
@@ -752,7 +747,7 @@ Luftreinhaltepläne.
 
 Diese Informationen sind kostenlos über leicht zugängliche Medien einschließlich des Internets oder jede andere geeignete Form der Telekommunikation zur Verfügung zu stellen; sie müssen den Bestimmungen der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates vom 14. März 2007 zur Schaffung einer Geodateninfrastruktur in der Europäischen Gemeinschaft (INSPIRE) (ABl. L 108 vom 25.4.2007, S. 1) entsprechen.
 
-(2) Die zuständigen Behörden veröffentlichen Jahresberichte für die Schadstoffe Schwefeldioxid, Stickstoffdioxid, Partikel PM<sub>10</sub>, Partikel PM<sub>2,5</sub>, Blei, Benzol, Ozon und Kohlenmonoxid.
+(2) Die zuständigen Behörden veröffentlichen Jahresberichte für die von dieser Verordnung erfassten Schadstoffe. Die Jahresberichte enthalten eine Zusammenfassung der Überschreitungen von Grenzwerten, Zielwerten und langfristigen Zielen, Informationsschwellen und Alarmschwellen in den relevanten Mittelungszeiträumen gemäß den §§ 2 bis 10. Anhand der in den Jahresberichten enthaltenen Daten werden die Auswirkungen der Überschreitungen von den zuständigen Behörden zusammenfassend bewertet.
 
 (3) Werden die in § 2 oder § 3 festgelegten Alarmschwellen oder die in § 9 festgelegte Alarmschwelle oder Informationsschwelle überschritten, informieren die zuständigen Behörden die Öffentlichkeit über Rundfunk, Fernsehen, Zeitungen oder Internet gemäß der in Anlage 14 festgelegten Maßnahmen.
 
@@ -1057,23 +1052,40 @@ Beschreibung der Ergebnisse, einschließlich der Unsicherheiten, insbesondere de
 5.  
 Bevölkerung, die potenziell einem Wert ausgesetzt ist, der über dem zum Schutz der menschlichen Gesundheit festgelegten Immissionsgrenzwert liegt.
 
-**C.**  
+ **C.**  
 **Qualitätssicherung bei der Beurteilung der Luftqualität – Validierung der Daten**
 
 1.  
 Um zu gewährleisten, dass die Messungen genau sind und die Datenqualitätsziele gemäß Abschnitt A eingehalten werden, müssen die zuständigen Behörden Folgendes sicherstellen:
 
 a)  
-Alle Messungen, die im Zusammenhang mit der Beurteilung der Luftqualität gemäß den §§ 13 und 17 vorgenommen werden, können im Einklang mit den Anforderungen in Abschnitt 5.6.2.2 der Norm ISO/IEC 17025:2005 zurückverfolgt werden.
+Alle Messungen, die im Zusammenhang mit der Beurteilung der Luftqualität gemäß den §§ 13 und 17 durchgeführt werden, können im Einklang mit den Anforderungen der harmonisierten Norm gemäß Buchstabe d an die Kompetenz von Prüf- und Kalibrierlaboratorien zurückverfolgt werden.
 
 b)  
-Die Einrichtungen, die Netze und Einzelstationen betreiben, verfügen über ein Qualitätssicherungs- und Qualitätskontrollsystem, das eine regelmäßige Wartung der Messgeräte vorsieht, um deren Präzision zu gewährleisten.
+Die Einrichtungen, die Netze und Einzelstationen zur Messung der Luftqualität betreiben, verfügen über ein Qualitätssicherungs- und Qualitätskontrollsystem, das eine regelmäßige Wartung der Messgeräte vorsieht, um kontinuierlich deren Präzision zu gewährleisten. Dieses System wird bei Bedarf, zumindest jedoch alle fünf Jahre, von den von den zuständigen Behörden beauftragten nationalen Referenzlaboratorien überprüft.
 
 c)  
-Für die Datenerfassung und Berichterstattung wird ein Qualitätssicherungs- und Qualitätskontrollverfahren eingeführt. Die mit dieser Aufgabe betrauten Einrichtungen nehmen aktiv an den entsprechenden gemeinschaftsweiten Qualitätssicherungsprogrammen teil.
+Für die Datenerfassung und Berichterstattung wird ein Qualitätssicherungs- und Qualitätskontrollverfahren eingeführt. Die Einrichtungen, die mit Qualitätssicherungs- und Qualitätskontrollverfahren betraut sind, nehmen aktiv an den entsprechenden unionsweiten Qualitätssicherungsprogrammen teil.
 
 d)  
-Die von den zuständigen Behörden beauftragten nationalen Laboratorien, die an gemeinschaftsweiten Ringversuchen zu den mit dieser Verordnung regulierten Schadstoffen teilnehmen, sind gemäß der Norm DIN/EN/ISO/IEC 17025:2005 bis 2010 für die in Anlage 6 aufgeführten Referenzmethoden akkreditiert. Diese Laboratorien müssen an der Koordinierung der gemeinschaftlichen, von der Kommission durchgeführten Qualitätssicherungsprogramme für die Hoheitsgebiete der Mitgliedstaaten der Europäischen Union beteiligt sein. Sie koordinieren außerdem auf einzelstaatlicher Ebene die Anwendung von Referenzmethoden sowie den Nachweis der Gleichwertigkeit anderer Methoden als Referenzmethoden.
+Die nationalen Referenzlaboratorien werden von den zuständigen Behörden mit der Überprüfung der Qualitätssicherungs- und Kontrollsysteme beauftragt. Sie werden für die in Anlage 6 aufgeführten Referenzmethoden akkreditiert, und zwar zumindest für die Schadstoffe, deren Konzentrationen in einem oder mehreren Gebieten oder Ballungsräumen über der unteren Beurteilungsschwelle liegen. Die Akkreditierung erfolgt nach der relevanten harmonisierten Norm zu den allgemeinen Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien, auf die im Amtsblatt der Europäischen Union gemäß Artikel 2 Nummer 9 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) verwiesen wird. Die beauftragten nationalen Referenzlaboratorien arbeiten eng mit den zuständigen Behörden zusammen. Sie koordinieren in Deutschland
+
+aa)  
+die von der Gemeinsamen Forschungsstelle der Kommission durchgeführten unionsweiten Qualitätssicherungsprogramme,
+
+bb)  
+die ordnungsgemäße Anwendung von Referenzmethoden und
+
+cc)  
+den Nachweis der Gleichwertigkeit anderer Methoden als Referenzmethoden.
+
+Nationale Referenzlaboratorien, die Vergleichsprüfungen auf nationaler Ebene durchführen, sollen nach der relevanten harmonisierten Norm für Eignungsprüfungen, DIN EN ISO/IEC 17043:2010, Ausgabe Mai 2014, ebenfalls akkreditiert werden.
+
+e)  
+Die nationalen Referenzlaboratorien nehmen mindestens alle drei Jahre an den von der Gemeinsamen Forschungsstelle der Kommission durchgeführten unionsweiten Qualitätssicherungsprogrammen teil. Sind die Ergebnisse dieser Beteiligung unbefriedigend, so sollen die nationalen Referenzlaboratorien bei der nächsten Vergleichsprüfung nachweislich Abhilfe schaffen und darüber der Gemeinsamen Forschungsstelle einen Bericht vorlegen.
+
+f)  
+Die nationalen Referenzlaboratorien unterstützen die Tätigkeit des von der Kommission errichteten Europäischen Netzes nationaler Referenzlaboratorien.
 
 2.  
 Alle nach § 31 übermittelten Daten sind gültig, sofern sie nicht als vorläufig gekennzeichnet sind.
@@ -1166,7 +1178,7 @@ Obere
 Beurteilungsschwelle
 
 70 % des Immissionsgrenzwerts (35 µg/m<sup>3</sup>
-dürfen nicht öfter als siebenmal im Kalenderjahr überschritten werden)
+dürfen nicht öfter als fünfunddreißigmal im Kalenderjahr überschritten werden)
 
 70 % des Immissions-grenzwerts (28 µg/m<sup>3</sup>)
 
@@ -1176,7 +1188,7 @@ Untere
 Beurteilungsschwelle
 
 50 % des Immissionsgrenzwerts (25 µg/m<sup>3</sup>
-dürfen nicht öfter als siebenmal im Kalenderjahr überschritten werden)
+dürfen nicht öfter als fünfunddreißigmal im Kalenderjahr überschritten werden)
 
 50 % des Immissions-grenzwerts (20 µg/m<sup>3</sup>)
 
@@ -1286,35 +1298,11 @@ Schutz der Vegetation und der natürlichen Ökosysteme
 
 Die Probenahmestellen, an denen Messungen zum Schutz der Vegetation und der natürlichen Ökosysteme vorgenommen werden, sollten mehr als 20 Kilometer von Ballungsräumen beziehungsweise mehr als 5 Kilometer von anderen bebauten Flächen, Industrieanlagen oder Autobahnen oder Hauptstraßen mit einem täglichen Verkehrsaufkommen von mehr als 50 000 Fahrzeugen entfernt gelegen sein. Dies bedeutet, dass der Ort der Probenahmestelle so zu wählen ist, dass die Luftproben für die Luftqualität einer Fläche von mindestens 1 000 Quadratkilometer repräsentativ sind. Die zuständigen Behörden können auf Grund der geographischen Gegebenheiten oder im Interesse des Schutzes besonders schutzbedürftiger Bereiche vorsehen, dass eine Probenahmestelle in geringerer Entfernung gelegen oder für die Luftqualität einer kleineren Fläche repräsentativ ist.Es ist zu berücksichtigen, dass die Luftqualität auf Inseln beurteilt werden muss.
 
-**C.**  
-**Kleinräumige Ortsbestimmung der Probenahmestellen**Soweit möglich ist Folgendes zu berücksichtigen:Der Luftstrom um den Messeinlass darf in einem Umkreis von mindestens 270° nicht beeinträchtigt werden und es dürfen keine Hindernisse vorhanden sein, die den Luftstrom in der Nähe der Probenahmeeinrichtung beeinflussen, das heißt Gebäude, Balkone, Bäume und andere Hindernisse sollen einige Meter entfernt sein und die Probenahmestellen für die Luftqualität an der Baufluchtlinie müssen mindestens 0,5 Meter vom nächsten Gebäude entfernt sein.Im Allgemeinen muss sich der Messeinlass in einer Höhe zwischen 1,5 Meter (Atemzone) und 4 Meter über dem Boden befinden. Eine höhere Lage des Einlasses (bis zu 8 Meter) kann unter Umständen angezeigt sein. Ein höher gelegener Einlass kann auch angezeigt sein, wenn die Messstation für eine größere Fläche repräsentativ ist.Der Messeinlass darf nicht in nächster Nähe von Emissionsquellen angebracht werden, um die unmittelbare Einleitung von Emissionen, die nicht mit der Umgebungsluft vermischt sind, zu vermeiden.Die Abluftleitung der Probenahmestelle ist so zu legen, dass ein Wiedereintritt der Abluft in den Messeinlass vermieden wird.Bei allen Schadstoffen müssen verkehrsbezogene Probenahmestellen mindestens 25 Meter vom Rand verkehrsreicher Kreuzungen und höchstens 10 Meter vom Fahrbahnrand entfernt sein.Die folgenden Faktoren können ebenfalls berücksichtigt werden:
+ **C.**  
+**Kleinräumige Ortsbestimmung der Probenahmestellen**Soweit möglich ist Folgendes zu berücksichtigen:Der Luftstrom um den Messeinlass darf nicht beeinträchtigt werden, das heißt, bei Probenahmestellen an der Baufluchtlinie soll die Luft in einem Bogen von mindestens 270° oder 180° frei strömen.Im Umfeld des Messeinlasses dürfen keine Hindernisse vorhanden sein, die den Luftstrom beeinflussen, das heißt, der Messeinlass soll einige Meter von Gebäuden, Balkonen, Bäumen und anderen Hindernissen entfernt sein und Probenahmestellen, die Werte liefern, die für die Luftqualität an der Baufluchtlinie repräsentativ sind, sollen mindestens 0,5 Meter vom nächsten Gebäude entfernt sein.Der Messeinlass muss sich grundsätzlich in einer Höhe zwischen 1,5 Meter (Atemzone) und 4 Meter über dem Boden befinden. Ein höher gelegener Einlass kann angezeigt sein, wenn die Messstation Werte liefert, die für ein großes Gebiet repräsentativ sind. Abweichungen sollen umfassend dokumentiert werden.Der Messeinlass darf nicht in nächster Nähe von Emissionsquellen angebracht werden, um die unmittelbare Einleitung von Emissionen, die nicht mit der Umgebungsluft vermischt sind, zu vermeiden.Die Abluftleitung der Probenahmestelle ist so zu legen, dass ein Wiedereintritt der Abluft in den Messeinlass vermieden wird.Bei allen Schadstoffen dürfen verkehrsbezogene Probenahmestellen zur Messung höchstens 10 Meter vom Fahrbahnrand entfernt sein; vom Fahrbahnrand verkehrsreicher Kreuzungen müssen sie mindestens 25 Meter entfernt sein. Als verkehrsreiche Kreuzung gilt eine Kreuzung, die den Verkehrsstrom unterbricht und gegenüber den restlichen Straßenabschnitten Emissionsschwankungen (durch Stop-and-go-Verkehr) verursacht.Die folgenden Faktoren können ebenfalls berücksichtigt werden: Störquellen, Sicherheit, Zugänglichkeit, Stromversorgung und Telefonleitungen, Sichtbarkeit der Messstation in der Umgebung, Sicherheit der Öffentlichkeit und des Betriebspersonals, Vorteile einer Zusammenlegung der Probenahmestellen für verschiedene Schadstoffe, Anforderungen der Bauleitplanung.Jede Abweichung von den Kriterien dieses Abschnitts ist nach den Verfahrensvorschriften gemäß Abschnitt D umfassend zu dokumentieren.
 
-–  
-Störquellen,
-
-–  
-Sicherheit,
-
-–  
-Zugänglichkeit,
-
-–  
-Stromversorgung und Telefonleitungen,
-
-–  
-Sichtbarkeit der Messstation in der Umgebung,
-
-–  
-Sicherheit der Öffentlichkeit und des Betriebspersonals,
-
-–  
-Vorteile einer Zusammenlegung der Probenahmestellen für verschiedene Schadstoffe,
-
-–  
-Anforderungen der Bauleitplanung.
-
-**D.**  
-**Dokumentation und Überprüfung der Ortswahl**Die Verfahren für die Ortswahl sind in der Einstufungsphase vollständig zu dokumentieren, zum Beispiel mit Fotografien der Umgebung in den Haupthimmelsrichtungen und einer detaillierten Karte. Die Ortswahl ist regelmäßig zu überprüfen und jeweils erneut zu dokumentieren, damit sichergestellt ist, dass die Kriterien für die Wahl weiterhin Gültigkeit haben.
+  **D.**  
+**Dokumentation und Überprüfung der Ortswahl**Die für die Beurteilung der Luftqualität zuständigen Behörden dokumentieren für alle Gebiete und Ballungsräume umfassend die Verfahren für die Wahl der Standorte für Probenahmestellen. Sie zeichnen Grundlageninformationen für die Netzplanung und die Wahl der Standorte für Probenahmestellen auf. Die Dokumentation umfasst auch Fotografien der Umgebung in den Haupthimmelsrichtungen und detaillierte Karten. Die Dokumentation für Gebiete oder Ballungsräume, in denen die Informationen aus Probenahmestellen für ortsfeste Messungen durch solche aus Modellrechnungen oder orientierenden Messungen ergänzt werden, umfasst auch die Einzelheiten dieser zusätzlichen Methoden sowie Angaben über die Art und Weise der Erfüllung der Kriterien gemäß § 14 Absatz 3.Die Dokumentation wird erforderlichenfalls aktualisiert und mindestens alle fünf Jahre überprüft, um sicherzustellen, dass Auswahlkriterien, Netzplanung und Messstellenstandorte stets aktuell und dauerhaft optimal sind. Die Dokumentation wird der Kommission auf Anfrage innerhalb von drei Monaten übermittelt.
 
 ### Anlage 4 (zu § 13)Messungen an Messstationen für den ländlichen Hintergrund (konzentrationsunabhängig)
 
@@ -1591,7 +1579,7 @@ Im Fall von Inselgebieten sollte die Zahl der Probenahmestellen für ortsfeste M
 
 Für NO<sub>2</sub>, Partikel, Benzol und Kohlenmonoxid: einschließlich mindestens einer Messstation für städtische Hintergrundquellen und einer Messstation für den Verkehr, sofern sich dadurch die Anzahl der Probenahmestellen nicht erhöht. Im Fall dieser Schadstoffe darf die Gesamtzahl der Messstationen für städtische Hintergrundquellen von der Anzahl der Messstationen für den Verkehr in jedem Land nicht um mehr als den Faktor 2 abweichen. Die Messstationen, an denen der Immissionsgrenzwert für PM<sub>10</sub> im Zeitraum der letzten drei Jahre mindestens einmal überschritten wurde, werden beibehalten, sofern nicht auf Grund besonderer Umstände, insbesondere aus Gründen der Raumentwicklung, eine Verlagerung der Stationen erforderlich ist.Werden PM<sub>2,5</sub> und PM<sub>10</sub> im Einklang mit § 16 an derselben Messstation gemessen, so ist diese als zwei gesonderte Probenahmestellen anzusehen. Die nach Abschnitt A Nummer 1 erforderliche Gesamtzahl der Probenahmestellen für PM<sub>2,5</sub> und PM<sub>10</sub> in jedem Land darf nicht um mehr als den Faktor 2 differieren und die Zahl der Messstationen für PM<sub>2,5</sub> für städtische Hintergrundquellen in Ballungsräumen und städtischen Gebieten muss die Anforderungen von Abschnitt B erfüllen.
 
-### Anlage 6 (zu den §§ 1, 16 und 19)Referenzmethoden für die Beurteilung der Werte für Schwefeldioxid, Stickstoffdioxid und Stickstoffoxide, Partikel (PM10 und PM2,5), Blei, Benzol, Kohlenmonoxid und Ozon
+### Anlage 6 (zu den §§ 1, 16 und 19)Referenzmethoden für die Beurteilung der Konzentrationen von Schwefeldioxid, Stickstoffdioxid und Stickstoffoxiden, Partikeln (PM10 und PM2,5), Blei, Benzol, Kohlenmonoxid und Ozon
 
 (Fundstelle: BGBl. I 2010, 1086 - 1087)
 
@@ -1599,28 +1587,28 @@ Für NO<sub>2</sub>, Partikel, Benzol und Kohlenmonoxid: einschließlich mindest
 **Referenzmessmethoden**
 
 1.  
-Referenzmethode zur Messung der SchwefeldioxidkonzentrationAls Referenzmethode zur Messung der Schwefeldioxidkonzentration gilt die Methode, die in DIN EN 14212:2005 (Juni 2005) „Luftqualität – Messverfahren zur Bestimmung der Konzentration von Schwefeldioxid mit Ultraviolett-Fluoreszenz“ beschrieben ist.
+Referenzmethode zur Messung der SchwefeldioxidkonzentrationAls Referenzmethode zur Messung der Schwefeldioxidkonzentration gilt die Methode, die in DIN EN 14212:2012, Ausgabe November 2012, August 2014, „Außenluft – Messverfahren zur Bestimmung der Konzentration von Schwefeldioxid mit Ultraviolett-Fluoreszenz“ beschrieben ist.
 
 2.  
-Referenzmethode zur Messung der Konzentration von Stickstoffdioxid und StickstoffoxidenAls Referenzmethode zur Messung von Stickstoffdioxid und Stickstoffoxiden gilt die Methode, die in DIN EN 14211:2005 (Juni 2005) „Luftqualität – Messverfahren zur Bestimmung der Konzentration von Stickstoffdioxid und Stickstoffmonoxid mit Chemilumineszenz“ beschrieben ist.
+Referenzmethode zur Messung der Konzentration von Stickstoffdioxid und StickstoffoxidenAls Referenzmethode zur Messung von Stickstoffdioxid und Stickstoffoxiden gilt die Methode, die in DIN EN 14211:2012, Ausgabe November 2012, „Außenluft – Messverfahren zur Bestimmung der Konzentration von Stickstoffdioxid und Stickstoffmonoxid mit Chemilumineszenz“ beschrieben ist.
 
 3.  
 Referenzmethode für die Probenahme und Messung der Konzentration von BleiAls Referenzmethode zur Probenahme von Blei gilt die in Nummer 4 beschriebene Methode. Als Referenzmethode zur Messung der Bleikonzentration gilt die Methode, die in DIN EN 14902:2005 (Oktober 2005) „Außenluftbeschaffenheit – Standardisiertes Verfahren zur Bestimmung von Pb/Cd/As/Ni als Bestandteil der PM<sub>10</sub>-Fraktion des Schwebstaubes“ beschrieben ist.
 
 4.  
-Referenzmethode für die Probenahme und Messung der Konzentration von PM<sub>10</sub>Als Referenzmethode für die Probenahme und Messung der Konzentration von PM<sub>10</sub> gilt die Methode, die in DIN EN 12341:1999 (März 1999) „Luftbeschaffenheit – Ermittlung der PM<sub>10</sub>-Fraktion von Schwebstaub – Referenzmethode und Feldprüfverfahren zum Nachweis der Gleichwertigkeit von Messverfahren und Referenzmessmethode“ beschrieben ist.
+Referenzmethode für die Probenahme und Messung der Konzentration von PM<sub>10</sub>Als Referenzmethode für die Probenahme und Messung der Konzentration von PM<sub>10</sub> gilt die Methode, die in DIN EN 12341:2014, Ausgabe August 2014, „Außenluft – Gravimetrisches Standardmessverfahren für die Bestimmung der PM<sub>10</sub>- oder PM<sub>2,5</sub>-Massenkonzentration des Schwebstaubes“ beschrieben ist.
 
 5.  
-Referenzmethode für die Probenahme und Messung der Konzentration von PM<sub>2,5</sub>Als Referenzmethode für die Probenahme und Messung der Konzentration von PM<sub>2,5</sub> gilt die Methode, die in DIN EN 14907:2005 (November 2005) „Luftbeschaffenheit – Gravimetrisches Standardmessverfahren für die Bestimmung der PM<sub>2,5</sub>-Massenfraktion des Schwebstaubs“ beschrieben ist.
+Referenzmethode für die Probenahme und Messung der Konzentration von PM<sub>2,5</sub>Als Referenzmethode für die Probenahme und Messung der Konzentration von PM<sub>2,5</sub> gilt die Methode, die in DIN EN 12341:2014, Ausgabe August 2014, „Außenluft – Gravimetrisches Standardmessverfahren für die Bestimmung der PM<sub>10</sub>- oder PM<sub>2,5</sub>-Massenkonzentration des Schwebstaubes“ beschrieben ist.
 
 6.  
 Referenzmethode für die Probenahme und Messung der Konzentration von BenzolAls Referenzmethode für die Messung der Benzolkonzentration gilt die Methode, die in DIN EN 14662:2005 (August 2005) „Luftbeschaffenheit – Standardverfahren zur Bestimmung von Benzolkonzentrationen (Teile 1, 2 und 3)“ beschrieben ist.
 
 7.  
-Referenzmethode für die Messung der KohlenmonoxidkonzentrationAls Referenzmethode für die Messung der Kohlenmonoxidkonzentration gilt die Methode, die in DIN EN 14626:2005 (Juli 2005) „Luftqualität – Messverfahren zur Bestimmung der Konzentration von Kohlenmonoxid mit nicht-dispersiver Infrarot-Photometrie“ beschrieben ist.
+Referenzmethode für die Messung der KohlenmonoxidkonzentrationAls Referenzmethode für die Messung der Kohlenmonoxidkonzentration gilt die Methode, die in DIN EN 14626:2012, Ausgabe Dezember 2012, „Außenluft – Messverfahren zur Bestimmung der Konzentration von Kohlenmonoxid mit nicht-dispersiver Infrarot-Photometrie“ beschrieben ist.
 
 8.  
-Referenzmethoden für die Messung der OzonkonzentrationAls Referenzmethode für die Messung der Ozonkonzentration gilt die Methode, die in DIN EN 14625:2005 (Juli 2005) „Luftqualität – Messverfahren zur Bestimmung der Konzentration von Ozon mit Ultraviolett-Photometrie“ beschrieben ist.
+Referenzmethoden für die Messung der OzonkonzentrationAls Referenzmethode für die Messung der Ozonkonzentration gilt die Methode, die in DIN EN 14625:2012, Ausgabe Dezember 2012, „Außenluft – Messverfahren zur Bestimmung der Konzentration von Ozon mit Ultraviolett-Photometrie“ beschrieben ist.
 
 **B.**  
 **Nachweis der Gleichwertigkeit**Sollen andere Methoden angewendet werden, muss dokumentiert werden, dass damit gleichwertige Ergebnisse wie mit den unter Abschnitt A genannten Methoden erzielt werden. Bei Partikeln kann eine andere Methode angewendet werden, wenn dokumentiert wird, dass diese einen konstanten Bezug zur Referenzmethode aufweist. In diesem Fall müssen die mit dieser Methode erzielten Ergebnisse korrigiert werden, damit diese den Ergebnissen entsprechen, die bei der Anwendung der Referenzmethode erzielt worden wären.
@@ -1628,11 +1616,11 @@ Referenzmethoden für die Messung der OzonkonzentrationAls Referenzmethode für 
 **C.**  
 **Normzustand**Beim Volumen gasförmiger Schadstoffe ist als Normzustand eine Temperatur von 293 Kelvin und ein atmosphärischer Druck von 101,3 Kilopascal zu Grunde zu legen. Bei Partikeln und in Partikeln zu analysierenden Stoffen (zum Beispiel Blei) werden für die Angabe des Probenvolumens die Umgebungsbedingungen Lufttemperatur und Luftdruck am Tag der Messungen zu Grunde gelegt.
 
-**D.**  
-**Neue Messeinrichtungen**Alle zur Durchführung dieser Richtlinie erworbenen neuen Messeinrichtungen müssen ab dem 11. Juni 2010 der Referenzmethode oder einer gleichwertigen Methode entsprechen.Alle bei ortsfesten Messungen verwendeten Messeinrichtungen müssen ab dem 11. Juni 2013 der Referenzmethode oder einer gleichwertigen Methode entsprechen.
+ **D.**  
+**Anerkennung der Daten anderer Mitgliedstaaten**Für den Nachweis, dass die Messgeräte die Leistungsanforderungen der in Abschnitt A aufgeführten Referenzmethoden erfüllen, akzeptieren die zuständigen Behörden ausführliche Prüfberichte anderer Mitgliedstaaten der Europäischen Union, sofern die Prüflaboratorien nach dem relevanten harmonisierten Standard für Prüf- und Kalibrierlaboratorien nach Anlage 1 Abschnitt C Nummer 1 Buchstabe d akkreditiert wurden.Die zuständigen Behörden stellen die Prüfberichte und alle Prüfergebnisse anderen zuständigen Behörden oder den von ihnen benannten Stellen zur Verfügung.Prüfberichte müssen nachweisen, dass die Messgeräte alle Leistungsanforderungen erfüllen, wenn bestimmte Umwelt- und Standortbedingungen typisch für einen bestimmten Mitgliedstaat sind und außerhalb des Spektrums der Bedingungen liegen, für das das Gerät in einem anderen Mitgliedstaat bereits geprüft und typgenehmigt wurde.
 
 **E.**  
-**Gegenseitige Anerkennung der Daten**Bei der im Rahmen der Eignungsprüfung durchgeführten Prüfung, ob die Messeinrichtungen die Leistungsanforderungen der in Abschnitt A aufgeführten Referenzmethoden erfüllen, akzeptieren die in § 30 genannten zuständigen Behörden und Stellen die Prüfberichte, die in anderen Mitgliedstaaten der Europäischen Union von Laboratorien erstellt wurden, die nach der Norm DIN/EN/ISO/IEC 17025:2005 zur Durchführung der betreffenden Prüfungen zugelassen sind.
+(weggefallen)
 
 ### Anlage 7 (zu § 9)Zielwerte und langfristige Ziele für Ozon
 
@@ -1701,7 +1689,7 @@ höchster Acht-
 stundenmittelwert pro Tag
 
 120 µg/m<sup>3</sup> dürfen an höchstens 25 Tagen
-im Kalenderjahr überschritten werden, gemittelt über drei Jahre<sup>1</sup>)
+im Kalenderjahr überschritten werden, gemittelt über drei Jahre<sup>2</sup>)
 
 1.1.2010
 
@@ -1889,17 +1877,13 @@ Probenahmestellen sollten möglichst für ähnliche Standorte repräsentativ sei
 Einwohnerzahl
 (× 1 000)
 
-Ballungsräume
-(städtische und
-vorstädtische Gebiete)
+Ballungsraum
 
-Sonstige Gebiete
-(vorstädtische und
-ländliche Gebiete)<sup>1</sup>)
+Andere Gebiete<sup>1</sup>
 
 Ländlicher Hintergrund
 
-&lt;   250
+&lt;  250
 
 1
 
@@ -1907,7 +1891,7 @@ Ländlicher Hintergrund
 (als mittlere Dichte für
 alle Gebiete pro Land)
 
-&lt;   500
+&lt;  500
 
 1
 
@@ -1945,16 +1929,14 @@ alle Gebiete pro Land)
 
 &gt; 3 750
 
-1 zusätzliche Station
-je Bevölkerung von 2 Mio.
+1 zusätzliche Station je 2 Mio. Einwohner
 
-1 zusätzliche Station
-je Bevölkerung von 2 Mio.
+1 zusätzliche Station je 2 Mio. Einwohner
 
 **B.**  
 **Mindestzahl der Probenahmestellen für ortsfeste Messungen in Gebieten und Ballungsräumen, in denen die langfristigen Ziele erreicht werden**Die Zahl der Ozon-Probenahmestellen muss in Verbindung mit den zusätzlichen Beurteilungsmethoden – wie Luftqualitätsmodellierung und mit am gleichen Standort durchgeführten Stickstoffdioxidmessungen – ausreichen, um den Trend der Ozonbelastung zu prüfen und zu untersuchen, ob die langfristigen Ziele erreicht wurden. Die Zahl der Stationen in Ballungsräumen und in anderen Gebieten kann auf ein Drittel der in Abschnitt A angegebenen Zahl verringert werden. Wenn die Informationen aus ortsfesten Stationen die einzige Informationsquelle darstellen, muss zumindest eine Messstation beibehalten werden. Hat dies in Gebieten, in denen zusätzliche Beurteilungsmethoden eingesetzt werden, zur Folge, dass in einem Gebiet keine Station mehr vorhanden ist, so ist durch Koordinierung mit den Stationen der benachbarten Gebiete sicherzustellen, dass ausreichend beurteilt werden kann, ob die langfristigen Ziele hinsichtlich der Ozonwerte erreicht werden. Die Anzahl der Stationen im ländlichen Hintergrund muss 1 Station je 100 000 Quadratkilometer betragen.
 
-Mindestens eine Station in vorstädtischen Gebieten, in denen die Exposition der Bevölkerung am stärksten sein dürfte. In Ballungsräumen müssen mindestens 50 % der Stationen in Vorstadtgebieten liegen.Eine Station je 25 000 km<sup>2</sup> in orographisch stark gegliedertem Gelände wird empfohlen.
+Amtliche Anmerkung: Mindestens eine Station in Gebieten, in denen die Bevölkerung voraussichtlich der höchsten Ozonkonzentration ausgesetzt ist. In Ballungsräumen müssen mindestens 50 Prozent der Stationen in Vorstadtgebieten liegen.Amtliche Anmerkung: Eine Station je 25 000 km<sup>2</sup> in orografisch stark gegliedertem Gelände wird empfohlen.
 
 ### Anlage 10 (zu § 18)Messung von Ozonvorläuferstoffen
 
@@ -2142,6 +2124,8 @@ Kalenderjahr
 
 100 %
 
+<sup>1</sup>)
+
 PM<sub>10</sub>
 
 Tag
@@ -2190,7 +2174,7 @@ Reduktionsziel in Prozent
 
  0 %
 
-= 8,5 – &lt; 13
+&gt; 8,5 – &lt; 13
 
 10 %
 
@@ -2202,7 +2186,7 @@ Reduktionsziel in Prozent
 
 20 %
 
-&gt; 22
+≥ 22
 
 Alle angemessenen Maßnahmen,
 um das Ziel von 18 µg/m<sup>3</sup> zu erreichen
@@ -2339,7 +2323,16 @@ b)
 festgestellte Wirkungen
 
 8.  
-Angaben zu den Maßnahmen oder Vorhaben, die nach dem Inkrafttreten der Richtlinie 2008/50/EG am 11. Juni 2008 zur Verminderung der Verschmutzung beschlossen oder entsprechend Anhang XV Abschnitt B Nummer 3 der Richtlinie 2008/50/EG berücksichtigt wurden
+Angaben zu den Maßnahmen oder Vorhaben, die nach dem Inkrafttreten der Richtlinie 2008/50/EG am 11. Juni 2008 zur Verminderung der Verschmutzung beschlossen oder entsprechend Anhang XV Abschnitt B Nummer 3 der Richtlinie 2008/50/EG berücksichtigt wurden:
+
+a)  
+Auflistung und Beschreibung aller in den Vorhaben genannten Maßnahmen
+
+b)  
+Zeitplan für die Durchführung
+
+c)  
+Schätzung der angestrebten Verbesserung der Luftqualität und des für die Verwirklichung dieser Ziele veranschlagten Zeitraums
 
 9.  
 Angaben zu den geplanten oder langfristig angestrebten Maßnahmen oder Vorhaben
@@ -2621,15 +2614,16 @@ Arsen,
 Kadmium
 und Nickel
 
-Polyzyklische aromatische Kohlenwasserstoffe außer
-Benzo\[*a*\]pyren,
-gesamtes
-gasförmiges Quecksilber
+Polyzyklische aromatische
+Kohlenwasserstoffe
+außer Benzo\[*a*\]pyren,
+gesamtes gasförmiges
+Quecksilber
 
 Gesamt-
 ablagerung
 
-– Unsicherheitsgrad
+– Unsicherheit
 
 Ortsfeste und
 orientierende Messungen
@@ -2642,7 +2636,7 @@ orientierende Messungen
 
 70 %
 
-Modell
+Modellierung
 
 60 %
 
@@ -2662,17 +2656,15 @@ Modell
 
 90 %
 
-– Mindestzeiterfassung:
+– Mindestzeiterfassung
 
-ortsfeste Messungen
+Ortsfeste Messungen
 
 33 %
 
 50 %
 
-–
-
-orientierende Messungen
+Orientierende Messungen\*<sup>,</sup>
 
 14 %
 
@@ -2693,7 +2685,7 @@ den ISO 5725:1994-Verfahren und
 3.  
 den Hinweisen des CEN-Berichts über Luftqualität – Ansatz für die Einschätzung des Unsicherheitsgrads bei Referenzmethoden zur Messung der Luftqualität (CR 14377:2002 E).
 
-Die Prozentsätze für die Unsicherheit werden für einzelne Messungen angegeben, die über typische Probenahmezeiten hinweg gemittelt werden, und zwar für einen Vertrauensbereich von 95 Prozent. Die Unsicherheit der Messungen gilt für den Bereich des entsprechenden Zielwerts. Ortsfeste und orientierende Messungen müssen gleichmäßig über das Jahr verteilt werden, um zu vermeiden, dass die Ergebnisse verfälscht werden.Die Anforderungen an Mindestdatenerfassung und Mindestzeiterfassung berücksichtigen nicht den Verlust von Daten auf Grund einer regelmäßigen Kalibrierung oder der normalen Wartung der Instrumente. Eine 24-stündige Probenahme ist bei der Messung von Benzo\[*a*\]pyren und anderen polyzyklischen aromatischen Kohlenwasserstoffen erforderlich. Einzelproben, die während eines Zeitraums von bis zu einem Monat genommen werden, können mit der gebotenen Vorsicht als Sammelprobe zusammengefasst und analysiert werden, vorausgesetzt, die angewandte Methode gewährleistet stabile Proben für diesen Zeitraum. Die drei verwandten Stoffe Benzo-\[*b*\]fluoranthen, Benzo\[*j*\]fluoranthen und Benzo\[*k*\]fluoranthen lassen sich nur schwer analytisch trennen. In diesen Fällen können sie als Summe gemeldet werden. Empfohlen wird eine 24-stündige Probenahme auch für die Messung der Arsen-, Kadmium- und Nickelkonzentrationen. Die Probenahmen müssen gleichmäßig über die Wochentage und das Jahr verteilt sein. Für die Messung der Ablagerungsraten werden über das Jahr verteilte monatliche oder wöchentliche Proben empfohlen.Die zuständigen Behörden dürfen anstelle einer „bulk-Probenahme“ nur dann eine „wet-only-Probenahme“ verwenden, wenn sie nachweisen können, dass der Unterschied zwischen diesen nicht mehr als 10 Prozent ausmacht. Die Ablagerungsraten sollten generell in Mikrogramm pro Quadratmeter (µg/m<sup>2</sup>) pro Tag angegeben werden.Die zuständigen Behörden können die Mindestzeiterfassung der in der Tabelle angegebenen Werte unterschreiten, jedoch nicht weniger als 14 Prozent bei ortsfesten Messungen und 6 Prozent bei orientierenden Messungen, sofern sie nachweisen können, dass die Unsicherheit bei einem Vertrauensbereich von 95 Prozent für den Jahresdurchschnitt, berechnet auf der Grundlage der Datenqualitätsziele in der Tabelle gemäß ISO 11222:2002 – „Ermittlung der Unsicherheit von zeitlichen Mittelwerten von Luftbeschaffenheitsmessungen“ eingehalten wird.
+Die Prozentsätze für die Unsicherheit werden für einzelne Messungen angegeben, die über typische Probenahmezeiten hinweg gemittelt werden, und zwar für einen Vertrauensbereich von 95 Prozent. Die Unsicherheit der Messungen gilt für den Bereich des entsprechenden Zielwerts. Ortsfeste und orientierende Messungen müssen gleichmäßig über das Jahr verteilt werden, um zu vermeiden, dass die Ergebnisse verfälscht werden.Die Anforderungen an Mindestdatenerfassung und Mindestzeiterfassung berücksichtigen nicht den Verlust von Daten auf Grund einer regelmäßigen Kalibrierung oder der normalen Wartung der Instrumente. Eine 24-stündige Probenahme ist bei der Messung von Benzo\[*a*\]pyren und anderen polyzyklischen aromatischen Kohlenwasserstoffen erforderlich. Einzelproben, die während eines Zeitraums von bis zu einem Monat genommen werden, können mit der gebotenen Vorsicht als Sammelprobe zusammengefasst und analysiert werden, vorausgesetzt, die angewandte Methode gewährleistet stabile Proben für diesen Zeitraum. Die drei verwandten Stoffe Benzo-\[*b*\]fluoranthen, Benzo\[*j*\]fluoranthen und Benzo\[*k*\]fluoranthen lassen sich nur schwer analytisch trennen. In diesen Fällen können sie als Summe gemeldet werden. Die Probenahmen müssen gleichmäßig über die Wochentage und das Jahr verteilt sein. Für die Messung der Ablagerungsraten werden über das Jahr verteilte monatliche oder wöchentliche Proben empfohlen. Die Vorschriften für Einzelproben gemäß den vorhergehenden sieben Sätzen gelten auch für Arsen, Kadmium, Nickel und das gesamte gasförmige Quecksilber. Die Entnahme von Teilproben aus PM<sub>10</sub>-Filtern zur anschließenden Untersuchung auf Metalle ist zulässig, sofern erwiesen ist, dass die Teilprobe für die Gesamtprobe repräsentativ ist und die Nachweiseffizienz beim Abgleich mit den relevanten Datenqualitätszielen nicht beeinträchtigt wird. In Abweichung zur 24-stündigen Probenahme zur Untersuchung des Metallgehalts von PM<sub>10</sub> nach der DIN EN 12341:2014, Ausgabe August 2014, und den Bestimmungen zur Messdauer nach Abschnitt 9.3 der DIN EN 15852:2010, Ausgabe November 2010, ist eine wöchentliche Probenahme zulässig, sofern die Erfassungseigenschaften dadurch nicht beeinträchtigt werden.Die zuständigen Behörden dürfen anstelle einer „bulk-Probenahme“ nur dann eine „wet-only-Probenahme“ verwenden, wenn sie nachweisen können, dass der Unterschied zwischen diesen nicht mehr als 10 Prozent ausmacht. Die Ablagerungsraten sollten generell in Mikrogramm pro Quadratmeter (µg/m<sup>2</sup>) pro Tag angegeben werden.Die zuständigen Behörden können die Mindestzeiterfassung der in der Tabelle angegebenen Werte unterschreiten, jedoch nicht weniger als 14 Prozent bei ortsfesten Messungen und 6 Prozent bei orientierenden Messungen, sofern sie nachweisen können, dass die Unsicherheit bei einem Vertrauensbereich von 95 Prozent für den Jahresdurchschnitt, berechnet auf der Grundlage der Datenqualitätsziele in der Tabelle gemäß ISO 11222:2002 – „Ermittlung der Unsicherheit von zeitlichen Mittelwerten von Luftbeschaffenheitsmessungen“ eingehalten wird.
 
 **B.**  
 **Anforderungen an Modelle zur Beurteilung der Luftqualität**Werden Modelle zur Beurteilung der Luftqualität verwendet, sind Hinweise auf Beschreibungen des Modells und Informationen über die Unsicherheit zusammenzustellen. Die Unsicherheit von Modellen wird als die maximale Abweichung der gemessenen und berechneten Werte über ein ganzes Jahr definiert, wobei der genaue Zeitpunkt des Auftretens dieser Abweichungen nicht berücksichtigt wird.
@@ -2704,7 +2696,7 @@ Die Prozentsätze für die Unsicherheit werden für einzelne Messungen angegeben
 **D.**  
 **Standardbedingungen**Für Stoffe, die in der PM<sub>10</sub>-Fraktion zu analysieren sind, bezieht sich das Probenahmevolumen auf die Umgebungsbedingungen.
 
-Orientierende Messungen sind Messungen, die weniger häufig vorgenommen werden, jedoch die anderen Datenqualitätsziele erfüllen.DIN ISO 5725-1: Genauigkeit (Richtigkeit und Präzision) von Messverfahren und Messergebnissen — Teil 1: Allgemeine Grundlagen und Begriffe; Ausgabedatum: 11.1997
+Amtliche Anmerkung: Über das Jahr verteilt, um unterschiedlichen klimatischen und durch menschliche Aktivitäten bedingten Verhältnissen Rechnung zu tragen.Orientierende Messungen sind Messungen, die weniger häufig vorgenommen werden, jedoch die anderen Datenqualitätsziele erfüllen.DIN ISO 5725-1: Genauigkeit (Richtigkeit und Präzision) von Messverfahren und Messergebnissen — Teil 1: Allgemeine Grundlagen und Begriffe; Ausgabedatum: 11.1997
 DIN ISO 5725-1: Berichtigung 1 Berichtigungen zu DIN ISO 5725-1: 1997-11 Ausgabedatum: 09.1998
 DIN ISO 5725-2: Genauigkeit (Richtigkeit und Präzision) von Messverfahren und Messergebnissen — Teil 2: Grundlegende Methode für Ermittlung der Wiederhol- und Vergleichpräzision eines vereinheitlichten Messverfahrens, Ausgabedatum: 12.2002
 DIN ISO 5725-3: Genauigkeit (Richtigkeit und Präzision) von Messverfahren und Messergebnissen — Teil 3: Präzisionsmaße eines vereinheitlichten Messverfahrens unter Zwischenbedingungen; Ausgabedatum: 02.2003
@@ -2718,16 +2710,16 @@ DIN ISO 5725-6: Genauigkeit (Richtigkeit und Präzision) von Messverfahren und M
 (Fundstelle: BGBl. I 2010, 1103)
 
 **A.**  
-**Referenzmethode für die Probenahme und Analyse von Arsen, Kadmium und Nickel in der Luft**Als Referenzmethode für die Probenahme und Analyse von Arsen, Kadmium und Nickel in der Luft gilt die Methode, die in DIN EN 14902:2005, berichtigt 2007 „Außenluftbeschaffenheit – Standardisiertes Verfahren zur Bestimmung von Pb/Cd/As/Ni als Bestandteil der PM<sub>10</sub>-Fraktion des Schwebstaubes“, beschrieben ist.Die zuständigen Behörden können auch jede andere Methode anwenden, die nachweislich zu Ergebnissen führt, die der vorstehend genannten Methode entsprechen.
+**Referenzmethode für die Probenahme und Analyse von Arsen, Kadmium und Nickel in der Luft**Als Referenzmethode für die Analyse von Arsen, Kadmium und Nickel in der Luft gilt die Methode, die in DIN EN 14902:2005, berichtigt 2007 „Außenluftbeschaffenheit – Standardisiertes Verfahren zur Bestimmung von Pb/Cd/As/Ni als Bestandteil der PM<sub>10</sub>-Fraktion des Schwebstaubes“, beschrieben ist.Die zuständigen Behörden können auch jede andere Methode anwenden, die nachweislich zu Ergebnissen führt, die der vorstehend genannten Methode entsprechen. Als Referenzmethode für die Probenahme von Arsen, Kadmium und Nickel in der Luft gilt die Methode, die in DIN EN 12341:2014, Ausgabe August 2014, beschrieben ist.
 
 **B.**  
-**Referenzmethode für die Probenahme und Analyse polyzyklischer aromatischer Kohlenwasserstoffe in der Luft**Als Referenzmethode für die Probenahme und Analyse Benzo\[a\]pyren in der Luft gilt die Methode, die in DIN EN 15549:2008 „Luftbeschaffenheit – Messverfahren zur Bestimmung der Konzentration von Benzo\[*a*\]pyren in Luft“ beschrieben ist.Solange keine genormte CEN-Methode für die Messung der anderen in § 20 Absatz 8 genannten polyzyklischen aromatischen Kohlenwasserstoffe vorliegt, können die zuständigen Behörden genormte nationale Methoden oder genormte ISO-Methoden wie die ISO-Norm 12884:2000 anwenden.Die zuständigen Behörden können auch jede andere Methode anwenden, die nachweislich zu Ergebnissen führt, die der vorstehend genannten Methode entsprechen.
+**Referenzmethode für die Probenahme und Analyse polyzyklischer aromatischer Kohlenwasserstoffe in der Luft**Als Referenzmethode für die Analyse von Benzo\[a\]pyren in der Luft gilt die Methode, die in DIN EN 15549:2008 „Luftbeschaffenheit – Messverfahren zur Bestimmung der Konzentration von Benzo\[*a*\]pyren in Luft“ beschrieben ist.Solange keine genormte CEN-Methode für die Messung der anderen in § 20 Absatz 8 genannten polyzyklischen aromatischen Kohlenwasserstoffe vorliegt, können die zuständigen Behörden genormte nationale Methoden oder genormte ISO-Methoden wie die ISO-Norm 12884:2000 anwenden.Die zuständigen Behörden können auch jede andere Methode anwenden, die nachweislich zu Ergebnissen führt, die der vorstehend genannten Methode entsprechen. Als Referenzmethode für die Probenahme polyzyklischer aromatischer Kohlenwasserstoffe in der Luft gilt die Methode, die in DIN EN 12341:2014, Ausgabe August 2014, beschrieben ist.
 
 **C.**  
-**Referenzmethode für die Probenahme und Analyse von Quecksilber in der Luft**Die Referenzmethode für die Messung der Immissionskonzentrationen des gesamten gasförmigen Quecksilbers wird eine automatisierte Methode sein, die auf der Atomabsorptionsspektrometrie oder der Atomfluoreszenzspektrometrie beruht. Solange keine genormte CEN-Methode vorliegt, können die zuständigen Behörden genormte nationale Methoden oder genormte ISO-Methoden anwenden.Die zuständigen Behörden können auch jede andere Methode anwenden, die nachweislich zu Ergebnissen führt, die der vorstehend genannten Methode entsprechen.
+**Referenzmethode für die Probenahme und Analyse von Quecksilber in der Luft**Als Referenzmethode für die Bestimmung des gesamten gasförmigen Quecksilbers in der Luft gilt die Methode, die in der DIN EN 15852:2010, Ausgabe November 2010, beschrieben ist.Die zuständigen Behörden können auch jede andere Methode anwenden, die nachweislich zu Ergebnissen führt, die der vorstehend genannten Methode entsprechen.
 
-**D.**  
-**Referenzmethode für die Probenahme und Analyse der Ablagerung von Arsen, Kadmium, Quecksilber, Nickel und polyzyklischen aromatischen Kohlenwasserstoffen**Die Referenzmethode für Probenahmen zur Bestimmung der Ablagerung von Arsen, Kadmium, Nickel, Quecksilber und polyzyklischen aromatischen Kohlenwasserstoffen beruht auf der Verwendung zylinderförmiger Ablagerungssammler mit Standardabmessungen. Die Bestimmungen der DIN EN 15841 (April 2010) Luftbeschaffenheit – Messverfahren zur Bestimmung von Arsen, Cadmium, Blei und Nickel in atmosphärischer Deposition; Deutsche Fassung EN 15841:2009 sind zu beachten. Solange und soweit keine genormte CEN-Methode vorliegt, können die zuständigen Behörden genormte nationale Methoden anwenden.
+ **D.**  
+**Referenzmethode für die Probenahme und Analyse der Ablagerung von Arsen, Kadmium, Quecksilber, Nickel und polyzyklischen aromatischen Kohlenwasserstoffen**Als Referenzmethode für die Bestimmung der Ablagerung von Arsen, Kadmium und Nickel gilt die Methode, die in der DIN EN 15841:2010, Ausgabe April 2010, beschrieben ist.Als Referenzmethode für die Bestimmung der Ablagerung von Quecksilber gilt die Methode, die in der DIN EN 15853:2010, Ausgabe November 2010, „Außenluftbeschaffenheit – Standardisiertes Verfahren zur Bestimmung der Quecksilberdeposition“ beschrieben ist.Als Referenzmethode für die Bestimmung der Ablagerung von Benzo\[*a*\]pyren und den anderen polyzyklischen Kohlenwasserstoffen gemäß § 20 Absatz 8 gilt die Methode, die in der DIN EN 15980:2011, Ausgabe August 2011, „Luftqualität – Bestimmung der Deposition von Benz\[*a*\]anthracen, Benzo\[*b*\]fluoranthen, Benzo\[*j*\]fluoranthen, Benzo\[*k*\]fluoranthen, Benzo\[*a*\]pyren, Dibenz\[*a*,*h*\]anthracen und Indeno\[*1*,*2*,*3-cd*\]pyren“ beschrieben ist.
 
 **E.**  
 **Referenzmethoden zur Erstellung von Luftqualitätsmodellen**Für die Erstellung von Luftqualitätsmodellen lassen sich zurzeit keine Referenzmethoden festlegen.
