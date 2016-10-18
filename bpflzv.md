@@ -1,17 +1,16 @@
-Verordnung über einen Vorschuss für Beamtinnen und Beamte bei Inanspruchnahme von Familienpflegezeit (BPflZV)
-=============================================================================================================
+Verordnung über einen Vorschuss bei der Inanspruchnahme von Familienpflegezeit oder Pflegezeit (PflZV)
+======================================================================================================
 
 Stand  
-Geändert durch Art. 9 Abs. 1 G v. 6.3.2015 I 250
-
-Hinweis  
-Änderung durch Art. 5 G v. 19.10.2016 I 2362 (Nr. 50) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 5 G v. 19.10.2016 I 2362
 
 ### 
 
 ```
 (+++ Textnachweis ab: 27.7.2013 +++)
 ```
+
+Überschrift: IdF d. Art. 5 Nr. 1 G v. 19.10.2016 I 2362 mWv 28.10.2016
 
 ### Eingangsformel
 
