@@ -2,7 +2,10 @@ Bundesdisziplinargesetz (BDG)
 =============================
 
 Stand  
-Zuletzt geändert durch Art. 8 G v. 6.3.2015 I 250
+Zuletzt geändert durch Art. 3 G v. 19.10.2016 I 2362
+
+Sonst  
+Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 (Nr. 35) ist berücksichtigt
 
 ### 
 
@@ -55,6 +58,7 @@ Das G wurde als Artikel 1 G 2031-4/1 v. 8.7.2001 I 1510 (BDNOG) vom Bundestag ge
 | § 27             |
 | § 28             |
 | § 29             |
+| § 29a            |
 | § 30             |
 | § 31             |
 |                  |
@@ -438,6 +442,21 @@ Der Beamte hat Schriftstücke, Zeichnungen, bildliche Darstellungen und Aufzeich
 (1) Die Vorlage von Personalakten und anderen Behördenunterlagen mit personenbezogenen Daten sowie die Erteilung von Auskünften aus diesen Akten und Unterlagen an die mit Disziplinarvorgängen befassten Stellen und die Verarbeitung oder Nutzung der so erhobenen personenbezogenen Daten im Disziplinarverfahren sind, soweit nicht andere Rechtsvorschriften dem entgegenstehen, auch gegen den Willen des Beamten oder anderer Betroffener zulässig, wenn und soweit die Durchführung des Disziplinarverfahrens dies erfordert und überwiegende Belange des Beamten, anderer Betroffener oder der ersuchten Stellen nicht entgegenstehen.
 
 (2) Zwischen den Dienststellen eines oder verschiedener Dienstherrn sowie zwischen den Teilen einer Dienststelle sind Mitteilungen über Disziplinarverfahren, über Tatsachen aus Disziplinarverfahren und über Entscheidungen der Disziplinarorgane sowie die Vorlage hierüber geführter Akten zulässig, wenn und soweit dies zur Durchführung des Disziplinarverfahrens, im Hinblick auf die künftige Übertragung von Aufgaben oder Ämtern an den Beamten oder im Einzelfall aus besonderen dienstlichen Gründen unter Berücksichtigung der Belange des Beamten oder anderer Betroffener erforderlich ist.
+
+### § 29a Informationen nach Maßgabe des Artikels 56a der Richtlinie 2005/36/EG
+
+Nach Maßgabe des Artikels 56a der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22, L 271 vom 16.10.2007, S. 18, L 93 vom 4.4.2008, S. 28, L 33 vom 3.2.2009, S. 49), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132) geändert worden ist, unterrichten die Dienststellen die zuständigen Behörden der Mitgliedstaaten der Europäischen Union über Entscheidungen der Disziplinarorgane über die
+
+1.  
+Entfernung aus dem Beamtenverhältnis nach § 5 Absatz 1 Nummer 5 in Verbindung mit § 10 Absatz 1,
+
+2.  
+Einstellung eines Disziplinarverfahrens, wenn das Disziplinarverfahren wegen Beendigung des Beamtenverhältnisses nach § 41 Absatz 1 des Bundesbeamtengesetzes nicht zu Ende geführt wird, und
+
+3.  
+Einstellung eines Disziplinarverfahrens, wenn die Beamtin oder der Beamte auf Verlangen nach § 33 des Bundesbeamtengesetzes aus dem Beamtenverhältnis entlassen wird und das Disziplinarverfahren voraussichtlich zur Entfernung aus dem Beamtenverhältnis geführt hätte.
+
+Der Zeitraum nach Artikel 56a Absatz 2 Satz 2 Buchstabe e der Richtlinie 2005/36/EG nach Satz 1 ist der Zeitraum bis zum Erreichen der für die jeweilige Laufbahn maßgeblichen gesetzlichen Altersgrenze für den Eintritt in den Ruhestand, längstens jedoch 15 Jahre.
 
 ### § 30 Abschließende Anhörung
 
