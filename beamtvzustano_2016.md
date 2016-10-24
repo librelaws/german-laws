@@ -1,8 +1,8 @@
 Anordnung zur Übertragung von Zuständigkeiten auf den Gebieten der Versorgung der Beamtinnen und Beamten und der Richterinnen und Richter des Bundes sowie des Versorgungsausgleichs (BeamtVZustAnO)
 ====================================================================================================================================================================================================
 
-Hinweis  
-Änderung durch Art. 1 AnO v. 25.10.2016 I 2522 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Stand  
+Geändert durch Art. 1 AnO v. 25.10.2016 I 2522
 
 Sonst  
 Ersetzt AnO 2030-14-196 v. 13.9.2013 I 3619 (BeamtVZustAnO 2013)
@@ -2139,38 +2139,7 @@ Erlass des Widerspruchsbescheids zuständig
 
 Generalzolldirektion
 
-21.1
-Prüfungsämter
-des Bundes
-
-Bundesrechnungshof
-
-Service-
-Center
-
-Service-
-Center
-
-Service-
-Center
-
-Service-
-Center
-
-Service-
-Center
-
-Aktive: wie 2,
-Versorgungsempfänger:
-Service-Center
-
-Service-
-Center
-
-Service-
-Center
-
-Generalzolldirektion
+21.1 (weggefallen)
 
 **22.
 Ministerinnen/Minister der letzten
@@ -2458,8 +2427,7 @@ Center
 Generalzolldirektion
 
 **31.
-Die oder der Beauftragte für den Datenschutz und die Infor-
-mationsfreiheit**
+Die oder der Beauftragte für den Datenschutz und die Informationsfreiheit**
 
 Service-
 Center
