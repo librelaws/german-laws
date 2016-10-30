@@ -2,7 +2,7 @@ Verordnung über die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin ()
 =========================================================================
 
 Stand  
-Geändert durch Art. 1 V v. 12.5.2004 I 931
+Zuletzt geändert durch Art. 1 V v. 31.10.2016 I 2493
 
 ### 
 
@@ -131,31 +131,25 @@ In der Zwischenprüfung soll der Prüfling zeigen, dass er technologische, mathe
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im Teil A der Prüfung in höchstens insgesamt 14 Stunden zwei praktische Aufgaben, die sich auf ein Projekt beziehen sollen, bearbeiten. Mindestens eine Aufgabe ist rechnergestützt zu fertigen. Eine der Aufgaben ist zu dokumentieren sowie dem Prüfungsausschuss in einem Fachgespräch von höchstens 15 Minuten zu erläutern. Dem Prüfling ist vor der Prüfung Gelegenheit zu geben, das System zur rechnergestützten Zeichnungserstellung, an dem er geprüft wird, in einem angemessenen Zeitraum kennen zu lernen. Die praktischen Aufgaben sind unter Berücksichtigung des Schwerpunktes nach § 5 Abs. 1 Satz 1 aus zwei der nachfolgenden Bereiche zu entnehmen. Die Bereiche, aus denen die Aufgaben entnommen werden, sind vom Prüfling festzulegen. Es kommen folgende Bereiche in Betracht:
+(2) Der Prüfling soll im Teil A der Prüfung in höchstens insgesamt 14 Stunden zwei praktische Aufgaben, die sich auf ein Projekt beziehen sollen, bearbeiten. Mindestens eine Aufgabe ist rechnergestützt zu fertigen. Eine der Aufgaben ist zu dokumentieren sowie dem Prüfungsausschuss in einem Fachgespräch von höchstens 15 Minuten zu erläutern. Dem Prüfling ist vor der Prüfung Gelegenheit zu geben, das System zur rechnergestützten Zeichnungserstellung, an dem er geprüft wird, in einem angemessenen Zeitraum kennen zu lernen. Die praktischen Aufgaben sind unter Berücksichtigung des Schwerpunktes nach § 5 Absatz 1 Satz 1 aus zwei der nachfolgenden Bereiche zu entnehmen. Die Bereiche, aus denen die Aufgaben entnommen werden, sind vom Prüfling festzulegen. Es kommen folgende Bereiche in Betracht:
 
 1.  
 im Schwerpunkt Architektur:
 
 a)  
-Erstellen von Planunterlagen zur Baueingabe nach Entwurfsskizzen,
+Erstellen von Planunterlagen zur Baueingabe nach Entwurfsskizzen und
 
 b)  
-Erstellen von Ausführungsunterlagen für den Rohbau und
-
-c)  
-Erstellen von Ausführungsunterlagen für den Ausbau;
+Erstellen von Ausführungsunterlagen für den Rohbau und Ausbau;
 
 2.  
 im Schwerpunkt Ingenieurbau:
 
 a)  
-Erstellen eines Schalplanes oder einer Rohbauzeichnung für ein Tragwerk,
+Erstellen einer Rohbauzeichnung für ein Tragwerk und
 
 b)  
-Erstellen einer Bewehrungszeichnung und
-
-c)  
-Erstellen von Ausführungsunterlagen für den Stahl- oder Holzbau;
+Erstellen einer Bewehrungszeichnung;
 
 3.  
 im Schwerpunkt Tief-, Straßen- und Landschaftsbau:
@@ -276,9 +270,9 @@ Durch die Ausführung von Teil B der Prüfung soll der Prüfling zeigen, dass er
 
 (2) Auf Berufsausbildungsverhältnisse, die am 17. Mai 2004 bestehen, ist § 9 Abs. 2 in der bis zum 17. Mai 2004 geltenden Fassung weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Verordnung in der am 18. Mai 2004 geltenden Fassung.
 
-### § 11 Inkrafttreten, Außerkrafttreten
+### § 11 Weitere Übergangsregelung
 
-Diese Verordnung tritt am 1. August 2002 in Kraft.
+Berufsausbildungsverhältnisse, die am 1. August 2017 bereits bestehen, können nach den Vorschriften dieser Verordnung in der ab dem 1. August 2017 geltenden Fassung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
 ### Anlage (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
 
