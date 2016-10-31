@@ -2,13 +2,7 @@ Gesetz zur Ausführung der Verordnung (EG) Nr. 1013/2006 des Europäischen Parla
 ==========================================================================================================================================================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 4 Abs. 31 G v. 18.7.2016 I 1666
-
-Sonst  
-Mittelbare Änderung durch Art. 2 u. Art. 5 Abs. 9 G v. 18.7.2016 I 1666 ist berücksichtigt
-
-Hinweis  
-Änderung durch Art. 1 G v. 1.11.2016 I 2452 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 1 G v. 1.11.2016 I 2452
 
 ### 
 
@@ -324,7 +318,7 @@ Die zuständige Behörde kann im Einzelfall die erforderlichen Anordnungen zur D
 
 (1) Für die Übermittlung von Informationen nach Artikel 13 des Basler Übereinkommens an das Sekretariat des Basler Übereinkommens ist das Umweltbundesamt zuständig. Auf Anfrage übermitteln die Länder dem Umweltbundesamt rechtzeitig auf elektronischem Weg die Informationen, die nach Artikel 13 des Basler Übereinkommens erforderlich sind. Dazu gehören insbesondere die Informationen zur Fertigung des Berichts nach Artikel 13 Abs. 3 des Basler Übereinkommens, vor allem die Angaben im Notifizierungsformular. Das Umweltbundesamt übermittelt der Kommission eine Kopie dieses Berichts gemäß Artikel 51 Abs. 1 der Verordnung (EG) Nr. 1013/2006.
 
-(2) Für die Erstellung des Berichts gemäß Artikel 51 Abs. 2 der Verordnung (EG) Nr. 1013/2006 und die Übermittlung an die Kommission ist das Umweltbundesamt zuständig. Auf Anfrage übermitteln die Länder, die Generalzolldirektion und das Bundesamt für Güterverkehr dem Umweltbundesamt rechtzeitig auf elektronischem Weg die Informationen, die zur Fertigung dieses Berichts gemäß Anhang IX der Verordnung (EG) Nr. 1013/2006 erforderlich sind.
+(2) Für die Erstellung des Berichts gemäß Artikel 51 Abs. 2 Satz 1 der Verordnung (EG) Nr. 1013/2006 und die Übermittlung an die Kommission ist das Umweltbundesamt zuständig. Auf Anfrage übermitteln die Länder, die Generalzolldirektion und das Bundesamt für Güterverkehr dem Umweltbundesamt rechtzeitig auf elektronischem Weg die Informationen, die zur Fertigung dieses Berichts gemäß Anhang IX der Verordnung (EG) Nr. 1013/2006 erforderlich sind. Das Umweltbundesamt veröffentlicht den in Artikel 51 Absatz 2 Satz 2 der Verordnung (EG) Nr. 1013/2006 genannten Abschnitt dieses Berichts zusammen mit zweckmäßigen Erläuterungen dazu innerhalb eines Monats nach der Übermittlung dieses Berichts an die Kommission auf seiner Webseite.
 
 ### § 17 Zollstellen
 
