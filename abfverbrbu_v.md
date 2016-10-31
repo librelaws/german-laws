@@ -2,10 +2,7 @@ Verordnung zur Durchsetzung von Vorschriften in Rechtsakten der Europäischen Ge
 ==========================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 16.2.2016 I 240
-
-Hinweis  
-Änderung durch Art. 3 G v. 1.11.2016 I 2452 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 3 G v. 1.11.2016 I 2452
 
 ### 
 
