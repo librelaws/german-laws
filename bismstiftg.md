@@ -2,7 +2,7 @@ Gesetz über die Errichtung einer Otto-von-Bismarck-Stiftung ()
 ==============================================================
 
 Stand  
-Geändert durch Art. 79 V v. 29.10.2001 I 2785
+Zuletzt geändert durch Art. 1 G v. 1.11.2016 I 2450
 
 ### 
 
@@ -33,7 +33,10 @@ Einrichtung und Unterhaltung einer Forschungs- und Dokumentationsstelle in Aumü
 Veröffentlichung von Archivbeständen und wissenschaftlichen Untersuchungen;
 
 5.  
-Veranstaltungen im Sinne des Stiftungszweckes.
+Veranstaltungen im Sinne des Stiftungszweckes;
+
+6.  
+museale und wissenschaftliche Betreuung des Bismarck-Museums in Schönhausen (Elbe).
 
 ### § 3 Stiftungsvermögen
 
