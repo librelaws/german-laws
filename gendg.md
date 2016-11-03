@@ -2,7 +2,7 @@ Gesetz über genetische Untersuchungen bei Menschen (GenDG)
 ==========================================================
 
 Stand  
-Geändert durch Art. 2 Abs. 31 u. Art. 4 Abs. 18 G v. 7.8.2013 I 3154
+Zuletzt geändert durch Art. 2 Abs. 1 G v. 4.11.2016 I 2460
 
 ### 
 
@@ -430,7 +430,7 @@ Für die Aufklärung und die Einwilligung des Vertreters gelten Absatz 1 Satz 1 
 
 (5) § 11 Abs. 2 bis 4 über die Mitteilung der Ergebnisse und § 13 über die Verwendung und Vernichtung der Proben gelten entsprechend; § 12 über die Aufbewahrung und Vernichtung der Ergebnisse gilt entsprechend mit der Maßgabe, dass die Ergebnisse der genetischen Untersuchung 30 Jahre aufzubewahren sind.
 
-(6) Eine vorgeburtliche genetische Untersuchung zur Klärung der Abstammung darf abweichend von § 15 Abs. 1 Satz 1 nur durch Ärztinnen oder Ärzte vorgenommen werden, wenn nach ärztlicher Erkenntnis an der Schwangeren eine rechtswidrige Tat nach den §§ 176 bis 179 des Strafgesetzbuchs begangen worden ist und dringende Gründe für die Annahme sprechen, dass die Schwangerschaft auf der Tat beruht.
+(6) Eine vorgeburtliche genetische Untersuchung zur Klärung der Abstammung darf abweichend von § 15 Abs. 1 Satz 1 nur durch Ärztinnen oder Ärzte vorgenommen werden, wenn nach ärztlicher Erkenntnis an der Schwangeren eine rechtswidrige Tat nach den §§ 176 bis 178 des Strafgesetzbuchs begangen worden ist und dringende Gründe für die Annahme sprechen, dass die Schwangerschaft auf der Tat beruht.
 
 (7) Der nach den Absätzen 1, 2 und 3 Satz 1 Nr. 2 erforderlichen Einwilligung steht eine rechtskräftige gerichtliche Entscheidung nach § 1598a Abs. 2 des Bürgerlichen Gesetzbuchs gleich. In diesem Falle ist eine Ablehnung nach Absatz 3 Satz 1 Nr. 1 unbeachtlich. Die Vorschriften über die Feststellung der Abstammung im Rahmen eines gerichtlichen Verfahrens bleiben unberührt.
 
