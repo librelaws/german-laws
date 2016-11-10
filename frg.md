@@ -2,7 +2,7 @@ Fremdrentengesetz (FRG)
 =======================
 
 Stand  
-Zuletzt geändert durch Art. 13 Abs. 9 G v. 12.4.2012 I 579
+Zuletzt geändert durch Art. 7 G v. 11.11.2016 I 2500
 
 ### 
 
@@ -162,11 +162,11 @@ einen Arbeitsunfall erlitten haben oder bei denen auf Grund einer während diese
 
 (1) Zuständig für die Feststellung und Gewährung der Leistungen ist der Träger der Unfallversicherung, der nach der Art des Unternehmens, in dem sich der Arbeitsunfall ereignet hat, zuständig wäre, wenn sich der Arbeitsunfall dort, wo sich der Berechtigte in der Bundesrepublik Deutschland zur Zeit der Anmeldung des Anspruchs gewöhnlich aufhält, ereignet hätte. Sind mehrere Hinterbliebene vorhanden, so bestimmt sich die Zuständigkeit nach dem gewöhnlichen Aufenthaltsort des hinterbliebenen Ehegatten. Ist ein solcher nicht vorhanden, so ist der gewöhnliche Aufenthaltsort der jüngsten Waise maßgebend. Im übrigen bestimmt sich die Zuständigkeit nach dem gewöhnlichen Aufenthaltsort des Hinterbliebenen, der zuerst einen Anspruch anmeldet.
 
-(2) Ergibt sich nach Absatz 1 die Zuständigkeit einer landwirtschaftlichen Berufsgenossenschaft oder eines Unfallversicherungsträgers der öffentlichen Hand, so ist die Unfallkasse des Bundes zuständig.
+(2) Ergibt sich nach Absatz 1 die Zuständigkeit der landwirtschaftlichen Berufsgenossenschaft oder eines Unfallversicherungsträgers der öffentlichen Hand, so ist die Unfallversicherung Bund und Bahn zuständig.
 
-(3) Die Unfallkasse des Bundes ist zuständig für die Feststellung und Gewährung von Leistungen an Umsiedler im Sinne des § 1 Abs. 2 Nr. 2 des Bundesvertriebenengesetzes, die einen Anspruch auf Zahlung einer Rente aus der gesetzlichen Unfallversicherung ihres Herkunftslands haben.
+(3) Die Unfallversicherung Bund und Bahn ist zuständig für die Feststellung und Gewährung von Leistungen an Umsiedler im Sinne des § 1 Abs. 2 Nr. 2 des Bundesvertriebenengesetzes, die einen Anspruch auf Zahlung einer Rente aus der gesetzlichen Unfallversicherung ihres Herkunftslands haben.
 
-§ 9 Abs. 1 Satz 1 (früher Abs. 1): Mit d. GG vereinbar gem. BVerfGE v. 24.7.1962 I 591
+§ 9 Abs. 1 Satz 1 (früher Abs. 1 einziger Text): Mit d. GG vereinbar gem. BVerfGE v. 24.7.1962 I 591; idF d. Art. 14 Nr. 8 Buchst. a G v. 25.7.1991 I 1606 mWv 1.1.1992
 
 ### § 10
 
@@ -178,7 +178,7 @@ einen Arbeitsunfall erlitten haben oder bei denen auf Grund einer während diese
 
 (2) Der Berechtigte hat dem zuständigen Träger der gesetzlichen Unfallversicherung unverzüglich anzuzeigen, wenn ihm eine der in Absatz 1 genannten Stellen eine Rente oder eine andere Leistung gewährt.
 
-(3)
+(3) (weggefallen)
 
 ### § 12
 
@@ -241,7 +241,7 @@ die von Zeit- oder Berufssoldaten oder vergleichbaren Personen zurückgelegt wor
 
 (2) § 16 gilt auch für die vor dem 9. Mai 1945 in den ehemaligen deutschen Ostgebieten verrichtete Beschäftigung eines Deutschen im Sinne des Artikels 116 Abs. 1 des Grundgesetzes oder eines früheren deutschen Staatsangehörigen im Sinne des Artikels 116 Abs. 2 Satz 1 des Grundgesetzes, jedoch nur für eine Beschäftigung außerhalb des öffentlichen Dienstes, die nach den reichsgesetzlichen Vorschriften wegen der Gewährleistung von Versorgungsanwartschaften versicherungsfrei gewesen ist. Auf die in § 1 Buchstaben b und d genannten Personen und deren Hinterbliebene findet § 16 keine Anwendung.
 
-(3)
+(3) (weggefallen)
 
 ### § 17a
 
@@ -280,9 +280,9 @@ Hinterbliebene der in Buchstabe a genannten Personen bezüglich der Gewährung v
 
 (1) Die Beitragszeit wird in ihrem ursprünglichen Umfang angerechnet, wenn sie sich bei einem Wechsel des Versicherungsträgers verringert hat.
 
-(2)
+(2) (weggefallen)
 
-(3) Beitragszeiten, die während des Bezugs einer Altersrente zurückgelegt sind, werden bis zur Vollendung des 65. Lebensjahres angerechnet; dies gilt auch für Beitragszeiten, die während des Bezugs einer Leistung zurückgelegt sind, die anstelle einer Altersrente erbracht wird.
+(3) Beitragszeiten, die während des Bezugs einer Altersrente zurückgelegt sind, werden bis zum Erreichen der Regelaltersgrenze angerechnet; dies gilt auch für Beitragszeiten, die während des Bezugs einer Leistung zurückgelegt sind, die anstelle einer Altersrente erbracht wird.
 
 (4) Sind Tagesbeiträge entrichtet, so wird für je sieben Tagesbeiträge eine Woche als Beitragszeit angerechnet; ein verbleibender Rest gilt als volle Beitragswoche.
 
@@ -372,7 +372,7 @@ Für den Beginn einer Rente gilt § 99 Abs. 1 des Sechsten Buches Sozialgesetzbu
 
 (2) Der Berechtigte hat dem zuständigen Träger der gesetzlichen Rentenversicherungen unverzüglich anzuzeigen, wenn ihm eine der in Absatz 1 genannten Stellen eine Rente oder eine andere Leistung gewährt.
 
-(3)
+(3) (weggefallen)
 
 ### Anlage 1 Definitionen der Leistungsgruppen
 
