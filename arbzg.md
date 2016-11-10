@@ -2,10 +2,7 @@ Arbeitszeitgesetz (ArbZG)
 =========================
 
 Stand  
-Zuletzt geändert durch Art. 3 Abs. 6 G v. 20.4.2013 I 868
-
-Hinweis  
-Änderung durch Art. 12a G v. 11.11.2016 I 2500 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 12a G v. 11.11.2016 I 2500
 
 ### 
 
