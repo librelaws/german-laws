@@ -2,7 +2,7 @@ Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch Lärm und Vibra
 ===========================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 V v. 19.7.2010 I 960
+Zuletzt geändert durch Art. 2 V v. 15.11.2016 I 2531
 
 ### 
 
@@ -86,9 +86,11 @@ mechanische Schwingungen, die bei Übertragung auf den gesamten Körper Gefährd
 
 (6) Der Tages-Vibrationsexpositionswert A(8) ist der über die Zeit nach Nummer 1.1 des Anhangs für Hand-Arm-Vibrationen und nach Nummer 2.1 des Anhangs für Ganzkörper-Vibrationen gemittelte Vibrationsexpositionswert bezogen auf eine Achtstundenschicht.
 
-(7) Der Stand der Technik ist der Entwicklungsstand fortschrittlicher Verfahren, Einrichtungen oder Betriebsweisen, der die praktische Eignung einer Maßnahme zum Schutz der Gesundheit und zur Sicherheit der Beschäftigten gesichert erscheinen lässt. Bei der Bestimmung des Standes der Technik sind insbesondere vergleichbare Verfahren, Einrichtungen oder Betriebsweisen heranzuziehen, die mit Erfolg in der Praxis erprobt worden sind. Gleiches gilt für die Anforderungen an die Arbeitsmedizin und die Arbeitshygiene.
+(7) Fachkundig ist, wer über die erforderlichen Fachkenntnisse zur Ausübung einer in dieser Verordnung bestimmten Aufgabe verfügt. Die Anforderungen an die Fachkunde sind abhängig von der jeweiligen Art der Aufgabe. Zu den Anforderungen zählen eine entsprechende Berufsausbildung oder Berufserfahrung jeweils in Verbindung mit einer zeitnah ausgeübten einschlägigen beruflichen Tätigkeit sowie die Teilnahme an spezifischen Fortbildungsmaßnahmen.
 
-(8) Den Beschäftigten stehen Schülerinnen und Schüler, Studierende und sonstige in Ausbildungseinrichtungen tätige Personen, die bei ihren Tätigkeiten Lärm und Vibrationen ausgesetzt sind, gleich.
+(8) Der Stand der Technik ist der Entwicklungsstand fortschrittlicher Verfahren, Einrichtungen oder Betriebsweisen, der die praktische Eignung einer Maßnahme zum Schutz der Gesundheit und zur Sicherheit der Beschäftigten gesichert erscheinen lässt. Bei der Bestimmung des Standes der Technik sind insbesondere vergleichbare Verfahren, Einrichtungen oder Betriebsweisen heranzuziehen, die mit Erfolg in der Praxis erprobt worden sind. Gleiches gilt für die Anforderungen an die Arbeitsmedizin und die Arbeitshygiene.
+
+(9) Den Beschäftigten stehen Schülerinnen und Schüler, Studierende und sonstige in Ausbildungseinrichtungen tätige Personen, die bei ihren Tätigkeiten Lärm und Vibrationen ausgesetzt sind, gleich.
 
 Abschnitt 2 Ermittlung und Bewertung der Gefährdung; Messungen
 --------------------------------------------------------------
@@ -355,7 +357,7 @@ Abschnitt 6 Ausnahmen, Straftaten und Ordnungswidrigkeiten, Übergangsvorschrift
 
 ### § 15 Ausnahmen
 
-(1) Die zuständige Behörde kann auf schriftlichen Antrag des Arbeitgebers Ausnahmen von den Vorschriften der §§ 7 und 10 zulassen, wenn die Durchführung der Vorschrift im Einzelfall zu einer unverhältnismäßigen Härte führen würde und die Abweichung mit dem Schutz der Beschäftigten vereinbar ist. Diese Ausnahmen können mit Nebenbestimmungen verbunden werden, die unter Berücksichtigung der besonderen Umstände gewährleisten, dass die sich daraus ergebenden Gefährdungen auf ein Minimum reduziert werden. Diese Ausnahmen sind spätestens nach vier Jahren zu überprüfen; sie sind aufzuheben, sobald die Umstände, die sie gerechtfertigt haben, nicht mehr gegeben sind. Der Antrag des Arbeitgebers muss Angaben enthalten zu
+(1) Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag des Arbeitgebers Ausnahmen von den Vorschriften der §§ 7 und 10 zulassen, wenn die Durchführung der Vorschrift im Einzelfall zu einer unverhältnismäßigen Härte führen würde und die Abweichung mit dem Schutz der Beschäftigten vereinbar ist. Diese Ausnahmen können mit Nebenbestimmungen verbunden werden, die unter Berücksichtigung der besonderen Umstände gewährleisten, dass die sich daraus ergebenden Gefährdungen auf ein Minimum reduziert werden. Diese Ausnahmen sind spätestens nach vier Jahren zu überprüfen; sie sind aufzuheben, sobald die Umstände, die sie gerechtfertigt haben, nicht mehr gegeben sind. Der Antrag des Arbeitgebers muss Angaben enthalten zu
 
 1.  
 der Gefährdungsbeurteilung einschließlich deren Dokumentation,
