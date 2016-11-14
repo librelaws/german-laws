@@ -2,7 +2,7 @@ Verordnung zur arbeitsmedizinischen Vorsorge (ArbMedVV)
 =======================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 23.10.2013 I 3882
+Zuletzt geändert Art. 3 Abs. 1 V v. 15.11.2016 I 2549
 
 ### 
 
@@ -275,7 +275,7 @@ a)
 der Arbeitsplatzgrenzwert für den Gefahrstoff nach der Gefahrstoffverordnung nicht eingehalten wird,
 
 b)  
-eine wiederholte Exposition nicht ausgeschlossen werden kann und der Gefahrstoff ein krebserzeugender oder erbgutverändernder Stoff oder eine Zubereitung der Kategorie 1 oder 2 im Sinne der Gefahrstoffverordnung ist oder die Tätigkeiten mit dem Gefahrstoff als krebserzeugende Tätigkeiten oder Verfahren Kategorie 1 oder 2 im Sinne der Gefahrstoffverordnung bezeichnet werden oder
+eine wiederholte Exposition nicht ausgeschlossen werden kann und der Gefahrstoff ein krebserzeugender oder keimzellmutagener Stoff der Kategorie 1A oder 1B oder ein krebserzeugendes oder keimzellmutagenes Gemisch der Kategorie 1A oder 1B im Sinne der Gefahrstoffverordnung ist oder die Tätigkeiten mit dem Gefahrstoff als krebserzeugende Tätigkeiten oder Verfahren Kategorie 1A oder 1B im Sinne der Gefahrstoffverordnung bezeichnet werden oder
 
 c)  
 der Gefahrstoff hautresorptiv ist und eine Gesundheitsgefährdung durch Hautkontakt nicht ausgeschlossen werden kann;
@@ -334,10 +334,10 @@ d)
 Tätigkeiten mit einem Gefahrstoff, sofern der Gefahrstoff nicht in Absatz 1 Nummer 1 genannt ist, eine wiederholte Exposition nicht ausgeschlossen werden kann und
 
 aa)  
-der Gefahrstoff ein krebserzeugender oder erbgutverändernder Stoff oder eine Zubereitung der Kategorie 1 oder 2 im Sinne der Gefahrstoffverordnung ist oder
+der Gefahrstoff ein krebserzeugender oder keimzellmutagener Stoff der Kategorie 1A oder 1B oder ein krebserzeugendes oder keimzellmutagenes Gemisch der Kategorie 1A oder 1B im Sinne der Gefahrstoffverordnung ist oder
 
 bb)  
-die Tätigkeiten mit dem Gefahrstoff als krebserzeugende Tätigkeiten oder Verfahren Kategorie 1 oder 2 im Sinne der Gefahrstoffverordnung bezeichnet werden,
+die Tätigkeiten mit dem Gefahrstoff als krebserzeugende Tätigkeiten oder Verfahren Kategorie 1A oder 1B im Sinne der Gefahrstoffverordnung bezeichnet werden,
 
 e)  
 Feuchtarbeit von regelmäßig mehr als zwei Stunden je Tag,
@@ -369,10 +369,10 @@ Tätigkeiten mit Exposition gegenüber sonstigen atemwegssensibilisierend oder h
 Tätigkeiten mit Exposition gegenüber einem Gefahrstoff, sofern
 
 a)  
-der Gefahrstoff ein krebserzeugender oder erbgutverändernder Stoff oder eine Zubereitung der Kategorie 1 oder 2 im Sinne der Gefahrstoffverordnung ist oder
+der Gefahrstoff ein krebserzeugender oder keimzellmutagener Stoff der Kategorie 1A oder 1B oder ein krebserzeugendes oder keimzellmutagenes Gemisch der Kategorie 1A oder 1B im Sinne der Gefahrstoffverordnung ist oder
 
 b)  
-die Tätigkeiten mit dem Gefahrstoff als krebserzeugende Tätigkeiten oder Verfahren Kategorie 1 oder 2 im Sinne der Gefahrstoffverordnung bezeichnet werden;
+die Tätigkeiten mit dem Gefahrstoff als krebserzeugende Tätigkeiten oder Verfahren Kategorie 1A oder 1B im Sinne der Gefahrstoffverordnung bezeichnet werden;
 
 2.  
 Tätigkeiten mit Exposition gegenüber Blei oder anorganischen Bleiverbindungen;
