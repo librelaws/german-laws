@@ -747,13 +747,24 @@ Grenzwert für ein Aufblitzen oder eine schnell wechselnde Bildabfolge. Ein Aufb
 Es gibt nicht mehr als drei allgemeine Blitze („general flash“) und/oder nicht mehr als drei rote Blitze („red flash“) innerhalb einer Sekunde.
 
 –  
-Der zusammenhängende Bereich von gleichzeitig auftauchenden Blitzen belegt nicht mehr als die Gesamtsumme von 0,006 Steradianten innerhalb eines Gesichtsfeldes von 10 Grad auf dem Bildschirm (25 % beliebiger 10-Grad-Sichtfelder auf dem Bildschirm) bei einem für die Betrachtung eines Bildschirms typischen Abstand.Dabei gelten folgende Definitionen:**Allgemeiner Blitz („general flash“):**Ein Paar von entgegengesetzten Änderungen der relativen Luminanz um 10 % oder mehr als die maximale relative Luminanz, wobei die relative Luminanz der dunkleren Bilder unter 0,80 liegt und wobei „ein Paar von entgegenwirkenden Änderungen“ ein Anstieg gefolgt von einem Rückgang bzw. ein Rückgang gefolgt von einem Anstieg ist.**Roter Blitz („red flash“):**Ein beliebiges Paar von entgegengesetzten Übergängen, die ein gesättigtes Rot mit sich bringen.**Ausnahme:**Ein Aufblitzen, welches ein feines ausgewogenes Muster darstellt (wie z. B. ein weißes Rauschen oder ein wechselndes Schachbrettmuster, bei dem die Quadrate auf einer Seite kleiner als 0,1 Grad sind) überschreitet die Schwellenwerte nicht.**Anmerkungen:**Für allgemeine Software oder Webinhalte liefert der Gebrauch eines auf dem angezeigten Bildschirmbereich beliebig platzierten 341 x 256 Pixel großen Rechtecks bei einer Bildschirmauflösung von 1024 x 768 Pixel einen guten Schätzwert eines 10-Grad-Sichtfeldes für Standard-Bildschirmgrößen und Standard-Entfernungen der Augen zum Bildschirm (z. B. 15- bis 17-Zoll-Bildschirm bei 59 bis 66 cm Entfernung). Da höher auflösende Bildschirme den Inhalt in gleicher Weise mit kleineren und schärferen Bildern wiedergeben, wird die geringere Auflösung für die Definition der Grenzwerte verwendet.Ein „Übergang“ ist der Wechsel in der relativen Leuchtdichte (oder relativen Farbsättigung bei roten Blitzen) zwischen angrenzenden Höchst- und Tiefstwerten im Kurvenverlauf der relativen Leuchtdichtemessung (oder der relativen Farbsättigungsmessung bei roten Blitzen) in Abhängigkeit zur Zeit. Ein Blitz besteht aus zwei entgegengesetzten Übergängen.Die gegenwärtige Arbeitsdefinition für „ein beliebiges Paar von entgegengesetzten Übergängen, die ein gesättigtes Rot mit sich bringen“, lautet:
+Der zusammenhängende Bereich von gleichzeitig auftauchenden Blitzen belegt nicht mehr als die Gesamtsumme von 0,006 Steradianten innerhalb eines Gesichtsfeldes von 10 Grad auf dem Bildschirm (25 % beliebiger 10-Grad-Sichtfelder auf dem Bildschirm) bei einem für die Betrachtung eines Bildschirms typischen Abstand.
+Dabei gelten folgende Definitionen:
+**Allgemeiner Blitz („general flash“):**
+Ein Paar von entgegengesetzten Änderungen der relativen Luminanz um 10 % oder mehr als die maximale relative Luminanz, wobei die relative Luminanz der dunkleren Bilder unter 0,80 liegt und wobei „ein Paar von entgegenwirkenden Änderungen“ ein Anstieg gefolgt von einem Rückgang bzw. ein Rückgang gefolgt von einem Anstieg ist.
+**Roter Blitz („red flash“):**
+Ein beliebiges Paar von entgegengesetzten Übergängen, die ein gesättigtes Rot mit sich bringen.
+**Ausnahme:**
+Ein Aufblitzen, welches ein feines ausgewogenes Muster darstellt (wie z. B. ein weißes Rauschen oder ein wechselndes Schachbrettmuster, bei dem die Quadrate auf einer Seite kleiner als 0,1 Grad sind) überschreitet die Schwellenwerte nicht.
+**Anmerkungen:**
+Für allgemeine Software oder Webinhalte liefert der Gebrauch eines auf dem angezeigten Bildschirmbereich beliebig platzierten 341 x 256 Pixel großen Rechtecks bei einer Bildschirmauflösung von 1024 x 768 Pixel einen guten Schätzwert eines 10-Grad-Sichtfeldes für Standard-Bildschirmgrößen und Standard-Entfernungen der Augen zum Bildschirm (z. B. 15- bis 17-Zoll-Bildschirm bei 59 bis 66 cm Entfernung). Da höher auflösende Bildschirme den Inhalt in gleicher Weise mit kleineren und schärferen Bildern wiedergeben, wird die geringere Auflösung für die Definition der Grenzwerte verwendet.
+Ein „Übergang“ ist der Wechsel in der relativen Leuchtdichte (oder relativen Farbsättigung bei roten Blitzen) zwischen angrenzenden Höchst- und Tiefstwerten im Kurvenverlauf der relativen Leuchtdichtemessung (oder der relativen Farbsättigungsmessung bei roten Blitzen) in Abhängigkeit zur Zeit. Ein Blitz besteht aus zwei entgegengesetzten Übergängen.
+Die gegenwärtige Arbeitsdefinition für „ein beliebiges Paar von entgegengesetzten Übergängen, die ein gesättigtes Rot mit sich bringen“, lautet:
 
 –  
-wenn für entweder einen oder beide Zustände eines jeden Überganges gilt: R / (R + G + B) &gt;= 0,8,
+wenn für entweder einen oder beide Zustände eines jeden Überganges gilt: R / (R + G + B) ≥ 0,8,
 
 –  
-und wenn für beide Zustände eines jeden Überganges der Wechsel in den Werten von (R – G – B) x 320 &gt; 20 \[negative Werte von (R – G – B) x 320 werden auf 0 gesetzt\] ist.
+und wenn für beide Zustände eines jeden Überganges der Wechsel in den Werten von (R – G – B) x 320 ≥ 20 \[negative Werte von (R – G – B) x 320 werden auf 0 gesetzt\] ist.
 
 –  
 R-, G- und B-Werte reichen – wie in der Definition für die „relative Luminanz“ angegeben – von 0 bis 1.
@@ -894,13 +905,13 @@ L = 0,2126 \* **R** + 0,7152 \* **G** + 0,0722 \* **B**
 Dabei sind **R**, **G** und **B** wie folgt definiert:
 
 –  
-wenn R<sub>sRGB</sub> &lt;= 0,03928 dann **R** = R<sub>sRGB</sub> / 12,92 sonst **R** = \[(R<sub>sRGB</sub> + 0,055) / 1,055\]<sup>2.4</sup>
+wenn R<sub>sRGB</sub> ≦ 0,03928 dann **R** = R<sub>sRGB</sub> / 12,92 sonst **R** = \[(R<sub>sRGB</sub> + 0,055) / 1,055\]<sup>2.4</sup>
 
 –  
-wenn G<sub>sRGB</sub> &lt;= 0,03928 dann **G** = G<sub>sRGB</sub> / 12,92 sonst **G** = \[(G<sub>sRGB</sub> + 0,055) / 1,055\]<sup>2.4</sup>
+wenn G<sub>sRGB</sub> ≦ 0,03928 dann **G** = G<sub>sRGB</sub> / 12,92 sonst **G** = \[(G<sub>sRGB</sub> + 0,055) / 1,055\]<sup>2.4</sup>
 
 –  
-wenn B<sub>sRGB</sub> &lt;= 0,03928 dann **B** = B<sub>sRGB</sub> / 12,92 sonst **B** = \[(B<sub>sRGB</sub> + 0,055) / 1,055\]<sup>2.4</sup>
+wenn B<sub>sRGB</sub> ≦ 0,03928 dann **B** = B<sub>sRGB</sub> / 12,92 sonst **B** = \[(B<sub>sRGB</sub> + 0,055) / 1,055\]<sup>2.4</sup>
 
 und dabei R<sub>sRGB</sub>, G<sub>sRGB</sub>, und B<sub>sRGB</sub> definiert sind als:
 
