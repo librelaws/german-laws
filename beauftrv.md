@@ -2,7 +2,7 @@ Verordnung zur Beauftragung von Luftsportverbänden (BeauftrV)
 =============================================================
 
 Stand  
-Zuletzt geändert durch Art. 4 V v. 18.1.2010 I 11
+Zuletzt geändert durch Art. 5 V v. 12.12.2016 I 2864
 
 ### 
 
@@ -16,10 +16,10 @@ Auf Grund des § 31c und des § 31d Abs. 2 Satz 3 des Luftverkehrsgesetzes in de
 
 ### § 1
 
-Der im Vereinsregister des Amtsgerichts Braunschweig, unter der Nummer 200069 eingetragene Deutsche Aero Club e.V. wird beauftragt, die folgenden öffentlichen Aufgaben im Zusammenhang mit der Benutzung des Luftraums durch Luftsportgeräte wahrzunehmen:
+Der im Vereinsregister des Amtsgerichts Braunschweig unter der Nummer 200069 eingetragene Deutsche Aero Club e.V. wird beauftragt, die folgenden öffentlichen Aufgaben im Zusammenhang mit der Benutzung des Luftraums durch Luftsportgeräte wahrzunehmen:
 
 1.  
-Erteilung der Muster- und Verkehrszulassung von Ultraleichtflugzeugen,
+Erteilung der Muster- und Verkehrszulassung von Ultraleichtflugzeugen und Ultraleichthubschraubern,
 
 2.  
 Erteilung der Erlaubnisse und Berechtigungen für das Luftfahrtpersonal dieser Luftsportgeräte,
@@ -34,14 +34,14 @@ Aufsicht über den Betrieb von Luftsportgeräten auf Flugplätzen und Geländen,
 Erhebung von Kosten nach der Kostenverordnung der Luftfahrtverwaltung in der jeweils gültigen Fassung,
 
 6.  
-die Wahrnehmung der Aufgaben entsprechend der Nummern 2 bis 5 für ein- oder zweisitzige Luftsportgeräte mit einem nicht fest mit dem Luftfahrzeug verbundenen Motor und mit einer höchstzulässigen Leermasse von 120 Kilogramm einschließlich Gurtzeug und Rettungsgerät.
+die Aufgaben entsprechend den Nummern 2 bis 5 für motorisierte Luftsportgeräte nach § 1 Absatz 4 Nummer 1 der Luftverkehrs-Zulassungs-Ordnung.
 
 ### § 2
 
 Der im Vereinsregister des Amtsgerichts München unter der Nummer 10635 eingetragene Deutsche Ultraleichtflugverband e.V. wird beauftragt, die folgenden öffentlichen Aufgaben im Zusammenhang mit der Benutzung des Luftraums durch Luftsportgeräte wahrzunehmen:
 
 1.  
-Erteilung der Muster- und Verkehrszulassung von Ultraleichtflugzeugen,
+Erteilung der Muster- und Verkehrszulassung von Ultraleichtflugzeugen und Ultraleichthubschraubern,
 
 2.  
 Erteilung der Erlaubnisse und Berechtigungen für das Luftfahrtpersonal dieser Luftsportgeräte,
@@ -56,7 +56,7 @@ Aufsicht über den Betrieb von Luftsportgeräten auf Flugplätzen und Geländen,
 Erhebung von Kosten nach der Kostenverordnung der Luftfahrtverwaltung in der jeweils gültigen Fassung,
 
 6.  
-die Wahrnehmung der Aufgaben entsprechend der Nummern 2 bis 5 für ein- oder zweisitzige Luftsportgeräte mit einem nicht fest mit dem Luftfahrzeug verbundenen Motor und mit einer höchstzulässigen Leermasse von 120 Kilogramm einschließlich Gurtzeug und Rettungsgerät.
+die Aufgaben entsprechend den Nummern 2 bis 5 für motorisierte Luftsportgeräte nach § 1 Absatz 4 Nummer 1 der Luftverkehrs-Zulassungs-Ordnung.
 
 ### § 3
 
@@ -79,7 +79,7 @@ Erhebung von Kosten nach der Kostenverordnung der Luftfahrtverwaltung in der jew
 
 ### § 3a
 
-Die in den §§ 1 und 3 genannten Vereine werden beauftragt, die folgenden öffentlichen Aufgaben im Zusammenhang mit der Benutzung des Luftraums durch Gleitflugzeuge (§ 1 Abs. 4 Luftverkehrs-Zulassungs-Ordnung) wahrzunehmen:
+Die in den §§ 1 und 3 genannten Vereine werden beauftragt, die folgenden öffentlichen Aufgaben im Zusammenhang mit der Benutzung des Luftraums durch nicht motorisierte, aerodynamisch gesteuerte Luftsportgeräte mit einer höchstzulässigen Leermasse bis 120 Kilogramm wahrzunehmen:
 
 1.  
 Erteilung der Erlaubnisse und Berechtigungen für das Luftfahrtpersonal dieser Luftsportgeräte,
@@ -141,10 +141,10 @@ Erhebung von Kosten nach der Kostenverordnung der Luftfahrtverwaltung in der jew
 
 ### § 6
 
-Die Rechts- und Fachaufsicht über die in den §§ 1 bis 4a beauftragten Luftsportverbände wird auf das Luftfahrt-Bundesamt übertragen. Soweit Einzelfragen der Luftsportgeräteverwaltung durch einen Beauftragten grundsätzlicher Klärung bedürfen, werden diese vom Luftfahrt-Bundesamt dem Bundesministerium für Verkehr, Bau und Stadtentwicklung zur Entscheidung vorgelegt.
+Die Rechts- und Fachaufsicht über die in den §§ 1 bis 4a beauftragten Luftsportverbände wird auf das Luftfahrt-Bundesamt übertragen. Soweit Einzelfragen der Luftsportgeräteverwaltung durch einen Beauftragten grundsätzlicher Klärung bedürfen, werden diese vom Luftfahrt-Bundesamt dem Bundesministerium für Verkehr und digitale Infrastruktur zur Entscheidung vorgelegt.
 
 ### § 7
 
-(1) Mit dem Inkrafttreten dieser Verordnung werden alle bisher vom Bundesministerium für Verkehr, Bau und Stadtentwicklung erteilten Anerkennungen und Beauftragungen mit gleichem oder ähnlichem Inhalt in bezug auf Luftsportgeräte gegenstandslos.
+(1) Mit dem Inkrafttreten dieser Verordnung werden alle bisher vom Bundesministerium für Verkehr und digitale Infrastruktur erteilten Anerkennungen und Beauftragungen mit gleichem oder ähnlichem Inhalt in bezug auf Luftsportgeräte gegenstandslos.
 
 (2) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
