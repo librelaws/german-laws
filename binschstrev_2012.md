@@ -2,13 +2,10 @@ Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung (BinSchStrEV)
 =============================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 § 8 V v. 20.12.2012 I 2802
+Zuletzt geändert durch Art. 2 § 1 V v. 16.12.2016 I 2948
 
 Hinweis  
-Änderung durch Art. 2 § 3 V v. 30.5.2014 I 610 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 1 V v. 13.2.2015 I 142 (Nr. 6) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Änderung durch Art. 2 § 7 V v. 21.9.2018 I 1398 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -39,23 +36,21 @@ Abschnitt 1 Allgemeines
 
 ### § 1 Anwendungsbereich
 
-(1) Die in der Anlage enthaltene Binnenschifffahrtsstraßen-Ordnung gilt auf den in Anhang I der Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S. 2450) in der jeweils geltenden und anzuwendenden Fassung bezeichneten Wasserstraßen des Bundes mit Ausnahme von Rhein, Mosel, Donau, Elbe im Hamburger Hafen, Seeschifffahrtsstraßen sowie mit Ausnahme von Eder- und Diemeltalsperre.
+(1) Die in der Anlage enthaltene Binnenschifffahrtsstraßen-Ordnung gilt auf den in Anhang I der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung bezeichneten Wasserstraßen des Bundes mit Ausnahme von Rhein, Mosel, Donau, Elbe im Hamburger Hafen, Seeschifffahrtsstraßen sowie mit Ausnahme von Eder- und Diemeltalsperre.
 
-(2) Die §§ 1.07, 1.10 Nummer 1 Buchstabe a, b, c, e, f, h bis l, s, Nummer 2 bis 6, § 1.12 Nummer 3 Satz 1, Nummer 4, §§ 1.14, 1.16, 2.01, 2.03, 4.05 Nummer 1 bis 3, § 4.06 Nummer 1 Satz 1, § 6.32 Nummer 1 und § 28.01 – soweit die Regelungen zum Ölkontrollbuch und zur Sammlung und Abgabe von Schiffsabfällen betroffen sind – gelten auch für die Fahrt eines Fahrzeugs, das kein Seeschiff ist, auf Wasserstraßen der Zonen 1 und 2 nach Anhang I der Binnenschiffsuntersuchungsordnung.
-
-Die Anlage zu dieser Verordnung wird als Anlageband zu dieser Ausgabe des Bundesgesetzblatts ausgegeben. Abonnenten des Bundesgesetzblatts Teil I wird der Anlageband auf Anforderung gemäß den Bezugsbedingungen des Verlags übersandt. Außerhalb des Abonnements erfolgt die Lieferung gegen Kostenerstattung.
+(2) § 1.07 Nummer 1, 2, 3 Satz 1 bis 5, Nummer 4 bis 6, § 1.10 Nummer 1 Buchstabe a, b, c, e, f, h bis l, s, Nummer 2 bis 6, § 1.12 Nummer 3 Satz 1, Nummer 4, §§ 1.14, 1.16, 2.01, 2.03, 4.05 Nummer 1 bis 3, § 4.06 Nummer 1 Satz 1, § 6.32 Nummer 1 und § 28.01 – soweit die Regelungen zum Ölkontrollbuch und zur Sammlung und Abgabe von Schiffsabfällen betroffen sind – gelten auch für die Fahrt eines Fahrzeugs, das kein Seeschiff ist, auf Wasserstraßen der Zonen 1 und 2 nach Anhang I der Binnenschiffsuntersuchungsordnung.
 
 ### § 2 Zuständige Behörden
 
-(1) Zuständige Behörden im Sinne der Binnenschifffahrtsstraßen-Ordnung sind die Wasser- und Schifffahrtsdirektionen als Strom- und Schifffahrtspolizeibehörden. Diese können die Zuständigkeit hinsichtlich örtlicher Verhältnisse ihren nachgeordneten Stellen übertragen.
+(1) Zuständige Behörde im Sinne der Binnenschifffahrtsstraßen-Ordnung ist die Generaldirektion Wasserstraßen und Schifffahrt als Strom- und Schifffahrtspolizeibehörde. Diese kann die Zuständigkeit hinsichtlich örtlicher Verhältnisse ihren nachgeordneten Stellen übertragen.
 
 (2) Wasserschutzpolizei im Sinne der Binnenschifffahrtsstraßen-Ordnung sind nach Maßgabe der mit den Ländern nach § 1 Absatz 1 Nummer 2 Halbsatz 2 des Binnenschifffahrtsaufgabengesetzes geschlossenen Vereinbarungen die Polizeikräfte der Länder.
 
-(3) Schiffsuntersuchungskommissionen sind die Schiffsuntersuchungskommissionen der Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt bei der Wasser- und Schifffahrtsdirektion Südwest nach § 3 Absatz 1 der Binnenschiffsuntersuchungsordnung.
+(3) Untersuchungskommissionen sind die Untersuchungskommissionen der Generaldirektion Wasserstraßen und Schifffahrt nach § 4 der Binnenschiffsuntersuchungsordnung.
 
 ### § 3 Rechtsverordnung mit vorübergehender Geltungsdauer
 
-Den Wasser- und Schifffahrtsdirektionen wird jeweils für ihren Zuständigkeitsbereich die Befugnis nach § 3 Absatz 1, auch in Verbindung mit Absatz 2 und 6, und § 3 Absatz 4, auch in Verbindung mit Absatz 6, des Binnenschifffahrtsaufgabengesetzes übertragen, durch Rechtsverordnung zu Versuchszwecken oder bis zu einer Änderung eine von der Binnenschifffahrtsstraßen-Ordnung abweichende Regelung bis zur Dauer von drei Jahren zu treffen.
+Der Generaldirektion Wasserstraßen und Schifffahrt wird die Befugnis nach § 3 Absatz 1, auch in Verbindung mit Absatz 2 und 6, und § 3 Absatz 4, auch in Verbindung mit Absatz 6, des Binnenschifffahrtsaufgabengesetzes übertragen, durch Rechtsverordnung zu Versuchszwecken oder bis zu einer Änderung eine von der Binnenschifffahrtsstraßen-Ordnung abweichende Regelung bis zur Dauer von drei Jahren zu treffen.
 
 ### § 4 Auflagen
 
@@ -159,13 +154,13 @@ entgegen § 1.02 Nummer 4 während der Fahrt oder während des Betriebes nicht a
 entgegen § 1.02 Nummer 5 Satz 3 Halbsatz 1, auch in Verbindung mit Satz 4, eine Anweisung des Schiffsführers des Schleppverbandes nicht befolgt,
 
 3.  
-entgegen § 1.07 Nummer 5 Satz 2 nicht sicherstellt, dass
+entgegen § 1.07 Nummer 3 Satz 2 den dort genannten Nachweis nicht oder nicht rechtzeitig erbringt,
 
-a)  
-die Ladung die Stabilität seines Fahrzeugs oder die Festigkeit des Schiffskörpers nicht gefährdet oder
+3a.  
+entgegen § 1.07 Nummer 6 Buchstabe a nicht sicherstellt, dass die Ladung die Stabilität des Fahrzeugs oder die Festigkeit des Schiffskörpers nicht gefährdet,
 
-b)  
-bei der Beförderung von Containern vor Fahrtantritt die besondere Überprüfung der Stabilität nach § 1.07 Nummer 3 vorgenommen wird,
+3b.  
+entgegen § 1.07 Nummer 6 Buchstabe b nicht sicherstellt, dass die Stabilität eines Fahrzeugs, das Container befördert, jederzeit gewährleistet ist,
 
 4.  
 entgegen § 1.08 Nummer 4 Satz 2 ein Fahrgastschiff führt, obwohl die nach § 1.08 Nummer 4 Satz 1 vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
@@ -239,19 +234,16 @@ b)
 der vorgeschriebene Führer eines Verbandes nicht oder nicht rechtzeitig bestimmt wird,
 
 2.  
-entgegen § 1.07 Nummer 6 die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt,
+entgegen § 1.07 Nummer 7 Buchstabe a die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, das tiefer als bis zur Unterkante der Einsenkungsmarken abgeladen ist,
 
-a)  
-das tiefer als bis zur Unterkante der Einsenkungsmarken abgeladen ist,
+2a.  
+entgegen § 1.07 Nummer 7 Buchstabe b die Inbetriebnahme eines Fahrzeugs, das zur Beförderung von Fahrgästen bestimmt ist, anordnet oder zulässt,
 
-b)  
-das, sofern es zur Beförderung von Fahrgästen bestimmt ist, mehr als die in der Fahrtauglichkeitsbescheinigung eingetragene Anzahl der Fahrgäste an Bord hat,
+2b.  
+entgegen § 1.07 Nummer 7 Buchstabe c die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, dessen Ladung die Stabilität des Fahrzeugs oder die Festigkeit des Schiffskörpers gefährdet,
 
-c)  
-dessen Ladung die Stabilität des Fahrzeugs oder die Festigkeit des Schiffskörpers gefährdet oder
-
-d)  
-ohne dass bei der Beförderung von Containern vor Fahrtantritt die besondere Überprüfung der Stabilität nach § 1.07 Nummer 3 vorgenommen worden ist,
+2c.  
+entgegen § 1.07 Nummer 7 Buchstabe d die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, obwohl der dort genannte Nachweis nicht oder nicht rechtzeitig erbracht werden kann,
 
 3.  
 entgegen § 1.08 Nummer 4 Satz 1 nicht sicherstellt, dass auf einem Fahrgastschiff die unter Nummer 44 der Fahrtauglichkeitsbescheinigung eingetragenen Einzelrettungsmittel für Fahrgäste in einer der Verteilung der Fahrgäste entsprechenden Anzahl für Erwachsene und Kinder an Bord vorhanden sind,
@@ -317,10 +309,10 @@ entgegen § 14.29 Nummer 2 Buchstabe a nicht sicherstellt, dass das von ihm gef�
 entgegen § 15.29 Nummer 2 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa nicht sicherstellt, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband
 
 a)  
-die zugelassenen Höchstabmessungen oder Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.5, 1.9, 1.10, 1.12.1, 1.12.3 bis 1.12.7.1, 1.13.1 bis 1.14.2.1 oder 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1,
+die zugelassenen Höchstabmessungen oder Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.2, 1.5.4 bis 1.5.6, 1.9, 1.10, 1.12.1, 1.12.3 bis 1.12.7.1, 1.13.1 bis 1.14.2.1 oder 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1,
 
 b)  
-die zugelassenen Höchstabmessungen oder Abladetiefen nach § 15.02 Nummer 1.5.6, 1.8.2, 1.8.3 oder 1.12.2, jeweils auch in Verbindung mit Nummer 2 Satz 2,
+die zugelassenen Höchstabmessungen oder Abladetiefen nach § 15.02 Nummer 1.5.3, 1.8.2, 1.8.3 oder 1.12.2, jeweils auch in Verbindung mit Nummer 2 Satz 2,
 
 c)  
 die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.6, 1.11, 1.12.7.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 oder 1.14.5, jeweils auch in Verbindung mit Nummer 2 Satz 1, oder
@@ -428,10 +420,10 @@ entgegen § 14.29 Nummer 3 die Inbetriebnahme eines Fahrzeugs oder Verbandes ano
 entgegen § 15.29 Nummer 3 Buchstabe a Doppelbuchstabe aa die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt,
 
 a)  
-dessen zugelassene Höchstabmessungen oder Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.5, 1.9, 1.10, 1.12.1, 1.12.3 bis 1.12.7.1, 1.13.1 bis 1.14.2.1 oder 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1,
+dessen zugelassene Höchstabmessungen oder Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.2, 1.5.4 bis 1.5.6, 1.9, 1.10, 1.12.1, 1.12.3 bis 1.12.7.1, 1.13.1 bis 1.14.2.1 oder 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1,
 
 b)  
-dessen zugelassene Höchstabmessungen oder Abladetiefen nach § 15.02 Nummer 1.5.6, 1.8.2, 1.8.3 oder 1.12.2, jeweils auch in Verbindung mit Nummer 2 Satz 2,
+dessen zugelassene Höchstabmessungen oder Abladetiefen nach § 15.02 Nummer 1.5.3, 1.8.2, 1.8.3 oder 1.12.2, jeweils auch in Verbindung mit Nummer 2 Satz 2,
 
 c)  
 dessen zugelassene Höchstabmessungen nach § 15.02 Nummer 1.6, 1.11, 1.12.7.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 oder 1.14.5, jeweils auch in Verbindung mit Nummer 2 Satz 1, oder
@@ -553,7 +545,7 @@ entgegen § 19.29 Nummer 1 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, da
 entgegen § 20.29 Nummer 1 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das Fahrzeug oder der Verband die zugelassene Höchstgeschwindigkeit nach § 20.04 Nummer 1, auch in Verbindung mit Nummer 2, nicht überschreitet,
 
 12.  
-entgegen § 21.29 Nummer 1 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das Fahrzeug oder der Verband die zugelassene Höchstgeschwindigkeit nach § 21.04 Nummer 1 bis 3 oder 4 Satz 1, jeweils auch in Verbindung mit Nummer 5 nicht überschreitet,
+entgegen § 21.29 Nummer 1 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das Fahrzeug oder der Verband die zugelassene Höchstgeschwindigkeit nach § 21.04 Nummer 1 bis 3 oder 4 Satz 1, jeweils auch in Verbindung mit Nummer 5, nicht überschreitet,
 
 13.  
 entgegen § 22.29 Nummer 1 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das Fahrzeug oder der Verband die zugelassene Höchstgeschwindigkeit nach § 22.04 Nummer 1 bis 3 oder 4 Satz 1, jeweils auch in Verbindung mit Nummer 5, nicht überschreitet,
@@ -986,15 +978,45 @@ entgegen § 26.29 Nummer 1 Buchstabe b Doppelbuchstabe dd die Vorschriften über
 entgegen § 4.06 Nummer 3 nicht sicherstellt, dass auf dem Fahrzeug Radar nur nach den in § 4.06 Nummer 1 Satz 1, auch in Verbindung mit Satz 2, genannten Anforderungen benutzt wird oder
 
 13.  
-entgegen § 4.07 Nummer 3 nicht sicherstellt, dass auf einem Fahrzeug AIS nur nach den in § 4.07 Nummer 1 in Verbindung mit Nummer 2 genannten Anforderungen genutzt wird.
+entgegen § 4.07 Nummer 9 Buchstabe a nicht sicherstellt, dass das Inland AIS Gerät ständig eingeschaltet ist,
+
+14.  
+entgegen § 4.07 Nummer 9 Buchstabe b nicht sicherstellt, dass die in das Inland AIS Gerät eingegebenen Daten zu jedem Zeitpunkt den tatsächlichen Daten des Fahrzeugs oder Verbandes entsprechen,
+
+15.  
+entgegen § 4.07 Nummer 9 Buchstabe c nicht sicherstellt, dass das Inland AIS Gerät in dem in § 4.07 Nummer 2 Satz 3 genannten Fall ausgeschaltet ist oder
+
+16.  
+entgegen § 4.07 Nummer 9 Buchstabe d nicht sicherstellt, dass in dem in § 4.07 Nummer 3 Satz 1 genannten Fall ein Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte genutzt wird.
 
 (3) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
 1.  
-entgegen § 4.05 Nummer 8 Buchstabe a nicht sicherstellt, dass die Sprechfunkanlagen seines Fahrzeugs oder seiner schwimmende Anlage den Vorschriften nach § 4.05 Nummer 1 Satz 1 Buchstabe a und b entsprechen oder
+entgegen § 4.05 Nummer 8 Buchstabe a nicht sicherstellt, dass die Sprechfunkanlagen seines Fahrzeugs oder seiner schwimmende Anlage den Vorschriften nach § 4.05 Nummer 1 Satz 1 Buchstabe a und b entsprechen,
 
 2.  
-entgegen § 4.05 Nummer 8 Buchstabe b nicht sicherstellt, dass sein Fahrzeug mit den nach § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1 vorgeschriebenen Sprechfunkanlagen ausgerüstet ist.
+entgegen § 4.05 Nummer 8 Buchstabe b nicht sicherstellt, dass sein Fahrzeug mit den nach § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1 vorgeschriebenen Sprechfunkanlagen ausgerüstet ist,
+
+3.  
+entgegen § 4.07 Nummer 10 Buchstabe a Doppelbuchstabe aa nicht sicherstellt, dass das von ihm geführte Fahrzeug
+
+a)  
+mit einem Inland AIS Gerät nach § 4.07 Nummer 1 Satz 1 ausgestattet ist,
+
+b)  
+in dem in § 4.07 Nummer 3 Satz 1 genannten Fall mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist oder
+
+c)  
+in dem in § 4.07 Nummer 8 genannten Fall mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist,
+
+4.  
+entgegen § 4.07 Nummer 10 Buchstabe a Doppelbuchstabe bb nicht sicherstellt, dass das Inland AIS Gerät den in § 4.07 Nummer 1 Satz 1 oder Nummer 6 Satz 1 jeweils genannten Vorschriften entspricht,
+
+5.  
+entgegen § 4.07 Nummer 10 Buchstabe a Doppelbuchstabe cc nicht sicherstellt, dass die in § 4.07 Nummer 4 genannten Daten nach Fahrtantritt unverzüglich und vollständig übermittelt oder die in § 4.07 Nummer 5 genannten Daten nach Auftreten einer Änderung unverzüglich und vollständig aktualisiert werden oder
+
+6.  
+entgegen § 4.07 Nummer 10 Buchstabe b in dem in § 4.07 Nummer 8 genannten Fall die Sprechfunkanlage nicht auf Empfang schaltet.
 
 (4) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Eigentümer oder Ausrüster
 
@@ -1005,10 +1027,25 @@ entgegen § 4.05 Nummer 9 Buchstabe a die Inbetriebnahme eines Fahrzeugs oder Ve
 entgegen § 4.05 Nummer 9 Buchstabe b die Inbetriebnahme eines Fahrzeugs oder einer schwimmenden Anlage anordnet oder zulässt, obwohl dessen oder deren Sprechfunkanlagen nicht den Vorschriften nach § 4.05 Nummer 1 Satz 1 Buchstabe a und b entsprechen oder nicht gemäß den Vorschriften nach § 4.05 Nummer 1 Satz 2 betrieben werden,
 
 3.  
-entgegen § 4.06 Nummer 4 Buchstabe a die Radarfahrt eines Fahrzeugs oder Verbandes anordnet oder zulässt, obwohl es oder er nicht mit einem für die Binnenschifffahrt geeigneten Radargerät und einem Gerät zur Anzeige der Wendegeschwindigkeit des Fahrzeugs nach § 4.06 Nummer 1 Satz 1 Buchstabe a, im Falle eines Kleinfahrzeugs oder eines Verbandes, der nur aus Kleinfahrzeugen besteht, darüber hinaus nicht mit einer Sprechfunkanlage nach § 4.06 Nummer 1 Satz 2 ausgerüstet ist oder
+entgegen § 4.06 Nummer 4 Buchstabe a die Radarfahrt eines Fahrzeugs oder Verbandes anordnet oder zulässt, obwohl es oder er nicht mit einem für die Binnenschifffahrt geeigneten Radargerät und einem Gerät zur Anzeige der Wendegeschwindigkeit des Fahrzeugs nach § 4.06 Nummer 1 Satz 1 Buchstabe a, im Falle eines Kleinfahrzeugs oder eines Verbandes, der nur aus Kleinfahrzeugen besteht, darüber hinaus nicht mit einer Sprechfunkanlage nach § 4.06 Nummer 1 Satz 2 ausgerüstet ist,
 
 4.  
-entgegen § 4.06 Nummer 4 Buchstabe b die Radarfahrt eines Fahrzeugs oder Verbandes anordnet oder zulässt, obwohl es oder er nicht mit einer geeigneten Person nach § 4.06 Nummer 1 Satz 1 Buchstabe b besetzt ist.
+entgegen § 4.06 Nummer 4 Buchstabe b die Radarfahrt eines Fahrzeugs oder Verbandes anordnet oder zulässt, obwohl es oder er nicht mit einer geeigneten Person nach § 4.06 Nummer 1 Satz 1 Buchstabe b besetzt ist,
+
+5.  
+entgegen § 4.07 Nummer 11 Buchstabe a die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, obwohl das Fahrzeug
+
+a)  
+nicht mit einem Inland AIS Gerät nach § 4.07 Nummer 1 Satz 1 ausgestattet ist,
+
+b)  
+in dem in § 4.07 Nummer 3 Satz 1 genannten Fall nicht mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist oder
+
+c)  
+in dem in § 4.07 Nummer 8 genannten Fall nicht mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist oder
+
+6.  
+entgegen § 4.07 Nummer 11 Buchstabe b die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, obwohl das Inland AIS Gerät den in § 4.07 Nummer 1 Satz 1 oder Nummer 6 Satz 1 jeweils genannten Vorschriften nicht entspricht.
 
 ### § 13 Bewehrung der allgemeinen Vorschriften über das Verhalten im Verkehr
 
@@ -1734,7 +1771,7 @@ entgegen § 28.03 Nummer 1 Buchstabe b nicht dafür sorgt, dass bei separater Be
 entgegen § 28.03 Nummer 1 Buchstabe c nicht dafür sorgt, dass der Bunkervorgang überwacht wird,
 
 5.  
-entgegen § 28.03 Nummer 1 Buchstabe d nicht dafür sorgt, dass eine der Einrichtungen nach Anhang II § 8.05 Nummer 10 der Binnenschiffsuntersuchungsordnung genutzt wird,
+entgegen § 28.03 Nummer 1 Buchstabe d nicht dafür sorgt, dass eine dort genannte Einrichtung genutzt wird,
 
 6.  
 entgegen § 28.03 Nummer 2 nicht dafür sorgt, dass die für den Bunkervorgang verantwortlichen Personen die dort genannten Festlegungen treffen, oder
