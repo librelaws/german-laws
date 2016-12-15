@@ -2,14 +2,17 @@ Binnenschifffahrtsstraßen-Ordnung (BinSchStrO)
 ==============================================
 
 Stand  
-Geändert durch Art. 9 V v. 2.10.2012 I 2102
+Zuletzt geändert durch Art. 2 § 2 V v. 16.12.2016 I 2948
+
+Hinweis  
+Änderung durch Art. 2 § 8 V v. 21.9.2018 I 1398 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L 204 vom 21.7.1998, S. 37), die zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S. 81) geändert worden ist, sind beachtet worden.
 
 ```
-(+++ Nachgewiesener Text noch nicht dokumentarisch bearbeitet +++)
+(+++ Textnachweis ab: 1.2.2012 +++)
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Beachtung der
        EGRL 34/98              (CELEX Nr: 31998L0034) +++)
@@ -198,7 +201,7 @@ Schiffseichung</strong></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td> Abschnitt II . Nacht- und Tagbezeichnung</td>
+<td> Abschnitt II. Nacht- und Tagbezeichnung</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -328,7 +331,7 @@ Schiffseichung</strong></td>
 </tr>
 <tr class="even">
 <td><strong>Schallzeichen der Fahrzeuge;<br />
-Sprechfunk, Navigationsgeräte</strong></td>
+Sprechfunk; Informations- und Navigationsgeräte</strong></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -364,7 +367,7 @@ Sprechfunk, Navigationsgeräte</strong></td>
 <td></td>
 </tr>
 <tr class="even">
-<td> Abschnitt III. Navigationsgeräte</td>
+<td> Abschnitt III. Informations- und Navigationsgeräte</td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -2584,6 +2587,12 @@ auf Fahrzeugen</strong></td>
 <tr class="even">
 <td>Anlage 8</td>
 </tr>
+<tr class="odd">
+<td>Anlage 9</td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -2601,7 +2610,7 @@ Kapitel 1 Allgemeine Bestimmungen
 
 ### § 1.01 Begriffsbestimmungen
 
-In dieser Verordnung gelten als
+In dieser Verordnung gelten als:
 
 1.  
 „Fahrzeug”:
@@ -2660,7 +2669,7 @@ ein Fahrzeug, das dem Übersetzverkehr von einem Ufer zum anderen auf der Wasser
 ein Fahrzeug, dessen Schiffskörper, ohne Ruder und Bugspriet, eine größte Länge von weniger als 20,00 m aufweist, einschließlich Segelsurfbrett, Amphibienfahrzeug, Luftkissenfahrzeug und Tragflügelboot, ausgenommen
 
 a)  
-ein Fahrzeug, das nach seiner nach § 6 der Binnenschiffsuntersuchungsordnung erteilten Fahrtauglichkeitsbescheinigung (Fahrtauglichkeitsbescheinigung) zugelassen ist, andere Fahrzeuge, die nicht Kleinfahrzeuge sind, zu schleppen, zu schieben oder längsseits gekuppelt mitzuführen,
+ein Fahrzeug, das nach seiner nach § 7 der Binnenschiffsuntersuchungsordnung erteilten Fahrtauglichkeitsbescheinigung (Fahrtauglichkeitsbescheinigung) zugelassen ist, andere Fahrzeuge, die nicht Kleinfahrzeuge sind, zu schleppen, zu schieben oder längsseits gekuppelt mitzuführen,
 
 b)  
 ein Fahrzeug, das zur Beförderung von mehr als zwölf Fahrgästen zugelassen ist,
@@ -2680,117 +2689,113 @@ ein Fahrzeug, das nur unter Segel fährt; ein Fahrzeug, das unter Segel fährt u
 
 16.  
 „Fahrgastschiff”:
-ein Fahrzeug, das zur Beförderung von Fahrgästen gebaut oder eingerichtet ist;
+ein Fahrzeug, das zur Beförderung von Fahrgästen gebaut und eingerichtet ist;
 
 17.  
 „Tagesausflugschiff”:
 ein Fahrgastschiff ohne Kabinen für die Übernachtung von Fahrgästen;
 
 18.  
-„Personenbarkasse”:
-ein nach Anhang X Kapitel 5 der Binnenschiffsuntersuchungsordnung zugelassenes Fahrzeug zur Beförderung von Fahrgästen gegen Entgelt;
+„Fahrgastboot“:
+ein nach Anhang II Kapitel 7 der Binnenschiffsuntersuchungsordnung zugelassenes und eingerichtetes Fahrzeug zur Beförderung von Fahrgästen;
 
 19.  
-„Zeesboot”:
-ein nach Anhang X Kapitel 8 der Binnenschiffsuntersuchungsordnung zugelassenes Fahrgastschiff;
+„Personenbarkasse“:
+ein nach Anhang II Kapitel 5 der Binnenschiffsuntersuchungsordnung zugelassenes Fahrzeug zur Beförderung von Fahrgästen;
 
 20.  
-„Taxiboot”:
-ein nach Anhang X Kapitel 9 der Binnenschiffsuntersuchungsordnung zugelassenes Fahrgastschiff;
+„Sportfahrzeug”:
+ein Fahrzeug, das für Sport- oder Erholungszwecke verwendet wird und kein Fahrgastschiff oder Fahrgastboot ist;
 
 21.  
-„Sportfahrzeug”:
-ein Fahrzeug, das für Sport- oder Erholungszwecke verwendet wird und kein Fahrgastschiff ist;
-
-22.  
 „Vorspann”:
 ein Fahrzeug mit Maschinenantrieb, das an der Spitze eines Fahrzeugs oder Verbandes Schleppunterstützung leistet;
 
-23.  
+22.  
 „stillliegend”:
 ein Fahrzeug, ein Schwimmkörper oder eine schwimmende Anlage, das, der oder die unmittelbar oder mittelbar vor Anker liegt oder am Ufer festgemacht ist;
 
-24.  
+23.  
 „fahrend“ oder „in Fahrt befindlich“:
 ein Fahrzeug, ein Schwimmkörper oder eine schwimmende Anlage, das, der oder die weder unmittelbar noch mittelbar ankert, unmittelbar noch mittelbar am Ufer festgemacht ist oder festgefahren ist;
 
-25.  
+24.  
 „Ankern“:
 das Halten eines Fahrzeugs auf dem Wasser in Position mit Hilfe eines Gegenstandes, der an einem Seil oder einer Kette befestigt ist und durch sein Gewicht oder seine Form am Grund haftet;
 
-26.  
+25.  
 „Länge/Breite eines Fahrzeugs, eines Verbandes“:
-die Länge oder Breite über alles im Sinne des Anhangs II § 1.01 Nummer 56 und 59 der Binnenschiffsuntersuchungsordnung;
+die Länge oder Breite über alles im Sinne des Artikels 1.01 Nummer 4.17 und 4.20 ES-TRIN;
 
-27.  
+26.  
 „Radarfahrt“:
 eine Fahrt bei unsichtigem Wetter mit Radar;
 
-28.  
+27.  
 „unsichtiges Wetter“:
 ein Zustand, bei dem die Sicht durch Nebel, Schneefall, heftige Regengüsse oder andere ähnliche Ursachen eingeschränkt ist;
 
-29.  
+28.  
 „Nacht“:
 der Zeitraum zwischen Sonnenuntergang und Sonnenaufgang;
 
-30.  
+29.  
 „Tag“:
 der Zeitraum zwischen Sonnenaufgang und Sonnenuntergang;
 
-31.  
+30.  
 „weißes Licht“, „rotes Licht“, „grünes Licht“, „gelbes Licht“ und „blaues Licht“:
 ein Licht, dessen Farbe den Anforderungen der Tabelle 2 der Norm DIN EN 14744:2006-01 entspricht;
 
-32.  
+31.  
 „starkes Licht“, „helles Licht“ und „gewöhnliches Licht“:
 ein Licht, dessen Stärke den Anforderungen der Tabelle 1 der Norm DIN EN 14744:2006-01 entspricht;
 
-33.  
+32.  
 „Funkellicht“:
 ein Licht, dessen Anzahl regelmäßiger Lichterscheinungen der Anforderung der Zeile 1 der Tabelle 3 der Norm DIN EN 14744:2006-01 entspricht;
 
-34.  
+33.  
 „kurzer Ton“:
 ein Ton von etwa einer Sekunde Dauer;
 
-35.  
+34.  
 „langer Ton“:
 ein Ton von etwa vier Sekunden Dauer, wobei die Pause zwischen zwei aufeinanderfolgenden Tönen etwa eine Sekunde beträgt;
 
-36.  
+35.  
 „Folge sehr kurzer Töne“:
 eine Folge von mindestens sechs Tönen von je etwa einer viertel Sekunde Dauer, wobei die Pausen zwischen den aufeinanderfolgenden Tönen ebenfalls etwa eine viertel Sekunde betragen;
 
-37.  
+36.  
 „Fahrwasser“:
 der Teil der Wasserstraße, der den örtlichen Umständen nach vom durchgehenden Schiffsverkehr benutzt wird;
 
-38.  
+37.  
 „Fahrrinne“:
 der Teil des Fahrwassers, in dem für den durchgehenden Schiffsverkehr bestimmte Breiten und Tiefen vorhanden sind, deren Erhaltung im Rahmen des Möglichen und Zumutbaren angestrebt wird;
 
-39.  
+38.  
 „rechte Seite/linke Seite“:
 die „rechte Seite“ oder „linke Seite“ des Fahrwassers/der Fahrrinne, bezogen auf die Richtung „Talfahrt“;
 
-40.  
+39.  
 „zu Berg“ oder „Bergfahrt“:
 auf einem Fluss die Richtung zur Quelle, auf einem Schifffahrtskanal die Richtung, die im zweiten Teil dieser Verordnung für die einzelnen Binnenschifffahrtsstraßen als „Bergfahrt“ bezeichnet ist, ferner die Fahrt von der Hafeneinfahrt in den Hafen;
 
-41.  
+40.  
 „zu Tal“ oder „Talfahrt“:
 die der Richtung „zu Berg“ oder der „Bergfahrt“ entgegengesetzte Richtung;
 
-42.  
+41.  
 „Stoffnummer“:
 Nummer zur Kennzeichnung von Stoffen, denen noch keine UN-Nummer zugeordnet wurde oder die nicht einer Sammelbezeichnung mit UN-Nummer zugeordnet werden können, entsprechend ADN in der jeweils geltenden Fassung. Diese vierstellige Zahl beginnt mit der Ziffer 9;
 
-43.  
+42.  
 „UN-Nummer“:
 vierstellige Zahl als Nummer zur Kennzeichnung von Stoffen oder Gegenständen entsprechend ADN in der jeweils geltenden Fassung;
 
-44.  
+43.  
 „Anlage“:
 bundeseigene
 
@@ -2800,25 +2805,29 @@ Schifffahrtsanlage, insbesondere eine Schleuse, ein Schleusenkanal, ein Wehr ode
 b)  
 wasserbauliche Anlage, insbesondere eine Grundschwelle, eine Buhne, ein Parallelwerk, ein Deckwerk, ein Leitdamm oder eine Brücke;
 
-45.  
+44.  
 „Kilometerangabe (km-Angabe)“:
 bei einer Streckenangabe schließt der Kilometerendpunkt die jeweilige Kilometerangabe ein und der Kilometeranfangspunkt die jeweilige Kilometerangabe aus;
 
-46.  
+45.  
 „diensttuende Mindestbesatzung“:
-die Besatzung nach Anhang XI der Binnenschiffsuntersuchungsordnung oder nach den §§ 3.15 bis 3.23 der Anlage 1 zu Artikel 1 Satz 2 der Rheinschiffspersonaleinführungsverordnung vom 16. Dezember 2011 (BGBl. 2011 II S. 1300) in der jeweils geltenden und anzuwendenden Fassung, die sich nicht in der Ruhezeit befindet;
+die Besatzung nach Anhang VI der Binnenschiffsuntersuchungsordnung oder nach den §§ 3.15 bis 3.23 der Anlage 1 zu Artikel 1 Satz 2 der Rheinschiffspersonaleinführungsverordnung vom 16. Dezember 2011 (BGBl. 2011 II S. 1300) in der jeweils geltenden und anzuwendenden Fassung, die sich nicht in der Ruhezeit befindet;
+
+46.  
+„Inland ECDIS Gerät“:
+ein Gerät, das auf einem Fahrzeug eingebaut ist und im Sinne des Standards „Schiffsverfolgung und Aufspürung in der Binnenschifffahrt (Beschluss 2006-I-21)“ der Zentralkommission für die Rheinschifffahrt genutzt wird;
 
 47.  
 „Inland AIS Gerät“:
-ein Gerät, das auf einem Fahrzeug eingebaut ist und im Sinne des Standards „Schiffsverfolgung und Aufspürung in der Binnenschifffahrt (Beschluss 2006-I-21)“ der Zentralkommission für die Rheinschifffahrt genutzt wird;
+ein Gerät zur Darstellung von elektronischen Binnenschifffahrtskarten, das in den zwei Betriebsarten Informationsmodus oder Navigationsmodus betrieben werden kann;
 
 48.  
 „ADN“:
 die dem Europäischen Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) vom 26. Mai 2000 in der Anlage beigefügte Verordnung (BGBl. 2007 II S. 1906, 1908 – Anlageband), die zuletzt durch Artikel 1 der Verordnung vom 17. Dezember 2010 (BGBl. 2010 II S. 1550) geändert worden ist, in der jeweils geltenden Fassung;
 
 49.  
-„Binnenschiffsuntersuchungsordnung“:
-Verordnung über die Schiffssicherheit in der Binnenschifffahrt vom 6. Dezember 2008 (BGBl. I S. 2450), die zuletzt durch Artikel 38 Absatz 2 der Verordnung vom 16. Dezember 2011 (BGBl. 2012 I S. 2) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung;
+„Binnenschiffsuntersuchungsordnung":
+Verordnung über die Schiffssicherheit in der Binnenschifffahrt vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung;
 
 50.  
 „Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins“:
@@ -2834,7 +2843,11 @@ Regionale Vereinbarung vom 6. April 2000 über den Binnenschifffahrtsfunk (BGBl.
 
 53.  
 „Binnenschifffahrt-Sprechfunkverordnung“:
-Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der Binnenschifffahrt und den Erwerb des UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk vom 18. Dezember 2002 (BGBl. I S. 4569; 2003 I S. 130), die zuletzt durch § 38 Absatz 6 der Verordnung vom 16. Dezember 2011 (BGBl. 2012 I S. 2) geändert worden ist, in der jeweils geltenden Fassung.
+Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der Binnenschifffahrt und den Erwerb des UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk vom 18. Dezember 2002 (BGBl. I S. 4569; 2003 I S. 130), die zuletzt durch § 38 Absatz 6 der Verordnung vom 16. Dezember 2011 (BGBl. 2012 I S. 2) geändert worden ist, in der jeweils geltenden Fassung;
+
+54.  
+„ES-TRIN“:
+Europäischer Standard der technischen Vorschriften für Binnenschiffe in der Edition 2017/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 7. März 2018 (BAnz AT 13.03.2018 B4)).
 
 Die Norm ist bei der Beuth-Verlag GmbH erschienen und beim Deutschen Patent- und Markenamt in München archivmäßig gesichert.
 
@@ -2856,7 +2869,7 @@ Der Schiffsführer muss während der Fahrt an Bord sein, auf einem schwimmenden 
 Der Schiffsführer ist, unbeschadet der Verantwortung anderer Personen, für die Befolgung dieser Verordnung verantwortlich. Der Führer eines Verbandes ist für die Befolgung der für diesen geltenden Bestimmungen verantwortlich; insoweit steht er dem Schiffsführer gleich. In einem Schleppverband hat der Schiffsführer eines geschleppten Fahrzeugs die Anweisungen des Führers des Schleppverbandes zu befolgen; er hat jedoch auch ohne solche Anweisungen alle Maßnahmen zu treffen, die für die sichere Führung seines Fahrzeugs durch die Umstände geboten sind. Das Gleiche gilt für die Schiffsführer gekuppelter Fahrzeuge, die nicht zugleich Führer des Verbandes sind.
 
 6.  
-Ist für ein stilliegendes Fahrzeug oder einen stillliegenden Schwimmkörper eine Person als Wache oder als Aufsicht nach § 7.08 bestellt, tritt diese Person an die Stelle des Schiffsführers.
+Ist für ein *stilliegendes*Fahrzeug oder einen stillliegenden Schwimmkörper eine Person als Wache oder als Aufsicht nach § 7.08 bestellt, tritt diese Person an die Stelle des Schiffsführers.
 
 7.  
 Der Schiffsführer darf nicht durch Übermüdung, Einwirkung von Alkohol, Medikamenten, Drogen oder aus einem anderen Grund beeinträchtigt sein. Bei 0,25 mg/l oder mehr Alkohol in der Atemluft oder bei 0,5 Promille oder mehr Alkohol im Blut oder einer Alkoholmenge im Körper, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, ist es dem Schiffsführer verboten, das Fahrzeug zu führen.
@@ -2866,6 +2879,8 @@ Der Schiffsführer hat vor Fahrtantritt die erforderlichen Reisevorbereitungen z
 
 9.  
 Der Eigentümer und der Ausrüster haben jeweils sicherzustellen, dass ein Fahrzeug oder ein Schwimmkörper unter der Führung einer hierfür geeigneten Person steht und der Führer eines Verbandes rechtzeitig bestimmt wird.
+
+§ 1.02 Nr. 6 Kursivdruck: Müsste richtig „stillliegendes" lauten
 
 ### § 1.03 Pflichten der Besatzung und sonstiger Personen an Bord
 
@@ -2921,31 +2936,43 @@ Ein Fahrzeug darf nicht tiefer als bis zur Unterkante der Einsenkungsmarken abge
 Die Ladung darf die Stabilität eines Fahrzeugs und die Festigkeit des Schiffskörpers nicht gefährden.
 
 3.  
-Bei einem Fahrzeug, das Container befördert, muss vor Antritt der Fahrt eine besondere Überprüfung der Stabilität in folgenden Fällen vorgenommen werden:
+Die Stabilität eines Fahrzeugs, das Container befördert, muss jederzeit gewährleistet sein. Der Schiffsführer hat auf Verlangen nachzuweisen, dass eine Stabilitätsprüfung vor Beginn des Ladens und Löschens sowie vor Fahrtantritt durchgeführt wurde. Die Stabilitätsprüfung kann manuell oder mit Hilfe eines Ladungsrechners erfolgen. Das Ergebnis der Stabilitätsprüfung und der aktuelle Stauplan sind an Bord mitzuführen und müssen jederzeit lesbar gemacht werden können. Das Fahrzeug muss außerdem die Stabilitätsunterlagen nach Artikel 27.01 ES-TRIN mitführen. Eine Stabilitätsprüfung ist bei einem Fahrzeug, das Container befördert, nicht erforderlich, wenn das Fahrzeug in seiner Breite
 
 a)  
-bei einem Fahrzeug mit einer Breite von weniger als 9,50 m, wenn die Container in mehr als einer Lage geladen sind,
+höchstens drei Reihen Container laden kann und es vom Laderaumboden aus nur mit einer Lage Containern beladen ist oder
 
 b)  
-bei einem Fahrzeug mit einer Breite von 9,50 m bis unter 11,00 m, wenn die Container in mehr als zwei Lagen geladen sind und
-
-c)  
-bei einem Fahrzeug mit einer Breite von 11,00 m oder mehr,
-
-aa)  
-wenn die Container in mehr als drei Breiten und mehr als zwei Lagen geladen sind, oder
-
-bb)  
-wenn die Container in mehr als drei Lagen geladen sind.
+vier und mehr Reihen Container laden kann und es ausschließlich mit Containern in höchstens zwei Lagen vom Laderaumboden aus beladen ist.
 
 4.  
 Ein Fahrzeug, das zur Beförderung von Fahrgästen bestimmt ist, darf nicht mehr als die in seiner Fahrtauglichkeitsbescheinigung eingetragene Anzahl der Fahrgäste an Bord haben.
 
 5.  
-Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils sicherzustellen, dass ein Fahrzeug nicht tiefer als bis zur Unterkante der Einsenkungsmarken abgeladen ist und ein Fahrzeug, das zur Beförderung von Fahrgästen bestimmt ist, nicht mehr als die in seiner Fahrtauglichkeitsbescheinigung eingetragene Anzahl der Fahrgäste an Bord hat. Darüber hinaus hat der Schiffsführer sicherzustellen, dass die Ladung die Stabilität des Fahrzeugs und die Festigkeit des Schiffskörpers nicht gefährdet und bei der Beförderung von Containern vor Fahrtantritt die besondere Überprüfung der Stabilität nach Nummer 4 vorgenommen wird.
+Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils sicherzustellen, dass ein Fahrzeug nicht tiefer als bis zur Unterkante der Einsenkungsmarken abgeladen ist und ein Fahrzeug, das zur Beförderung von Fahrgästen bestimmt ist, nicht mehr als die in seiner Fahrtauglichkeitsbescheinigung eingetragene Anzahl der Fahrgäste an Bord hat.
 
 6.  
-Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs nur anordnen oder zulassen, wenn das Fahrzeug nicht tiefer als bis zur Unterkante der Einsenkungsmarken abgeladen ist, ein Fahrzeug, das zur Beförderung von Fahrgästen bestimmt ist, nicht mehr als die in seiner Fahrtauglichkeitsbescheinigung eingetragene Anzahl der Fahrgäste an Bord hat, die Ladung die Stabilität des Fahrzeugs und die Festigkeit des Schiffskörpers nicht gefährdet und bei der Beförderung von Containern vor Fahrtantritt die besondere Überprüfung der Stabilität nach Nummer 4 vorgenommen wird.
+Der Schiffsführer hat sicherzustellen, dass
+
+a)  
+die Ladung die Stabilität des Fahrzeugs und die Festigkeit des Schiffskörpers nicht gefährdet,
+
+b)  
+die Stabilität eines Fahrzeugs, das Container befördert, jederzeit gewährleistet ist,
+
+7.  
+Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs nur anordnen oder zulassen, wenn
+
+a)  
+das Fahrzeug nicht tiefer als bis zur Unterkante der Einsenkungsmarken abgeladen ist,
+
+b)  
+ein Fahrzeug, das zur Beförderung von Fahrgästen bestimmt ist, nicht mehr als die in seiner Fahrtauglichkeitsbescheinigung eingetragene Anzahl der Fahrgäste an Bord hat,
+
+c)  
+die Ladung die Stabilität des Fahrzeugs und die Festigkeit des Schiffskörpers nicht gefährdet und
+
+d)  
+der Nachweis nach Nummer 3 Satz 2 in Verbindung mit Satz 3 auf Verlangen erbracht werden kann.
 
 ### § 1.08 Bau, Ausrüstung und Besatzung der Fahrzeuge
 
@@ -2959,7 +2986,7 @@ Die Besatzung eines Fahrzeugs muss nach Zahl und Eignung ausreichen, um die Sich
 Die Voraussetzungen nach den Nummern 1 und 2 gelten als erfüllt, wenn das Fahrzeug mit einer Fahrtauglichkeitsbescheinigung versehen ist, Bau und Ausrüstung des Fahrzeugs den Angaben der Fahrtauglichkeitsbescheinigung entsprechen und Besatzung und Betrieb den Vorschriften der Binnenschiffsuntersuchungsordnung genügen.
 
 4.  
-Unbeschadet der Nummer 3 müssen der Eigentümer und der Ausrüster jeweils sicherstellen, dass die unter Nummer 44 in der Fahrtauglichkeitsbescheinigung eingetragenen Einzelrettungsmittel für Fahrgäste in einer der Verteilung der Fahrgäste entsprechenden Anzahl für Erwachsene und für Kinder an Bord vorhanden sind, wobei für Kinder bis zu 30 kg Körpergewicht oder einem Alter bis zu sechs Jahren nur Feststoffwesten nach in § 10.05 Nummer 2 das Anhangs II der Binnenschiffsuntersuchungsordnung genannten Normen zulässig sind. Der Schiffsführer darf ein Fahrgastschiff nur führen, wenn die Einzelrettungsmittel nach Satz 1 in ausreichender Anzahl und in der vorgeschriebenen Art an Bord vorhanden sind.
+Unbeschadet der Nummer 3 müssen der Eigentümer und der Ausrüster jeweils sicherstellen, dass die unter Nummer 44 in der Fahrtauglichkeitsbescheinigung eingetragenen Einzelrettungsmittel für Fahrgäste in einer der Verteilung der Fahrgäste entsprechenden Anzahl für Erwachsene und für Kinder an Bord vorhanden sind, wobei für Kinder bis zu 30 kg Körpergewicht oder einem Alter bis zu sechs Jahren nur Feststoffwesten nach in Artikel 13.08 Nummer 2 ES-TRIN genannten Normen zulässig sind. Der Schiffsführer darf ein Fahrgastschiff nur führen, wenn die Einzelrettungsmittel nach Satz 1 in ausreichender Anzahl und in der vorgeschriebenen Art an Bord vorhanden sind.
 
 ### § 1.09 Besetzung des Ruders
 
@@ -3095,11 +3122,16 @@ Elisabethfehnkanal</td>
 <td></td>
 </tr>
 <tr class="odd">
+<td>Stichkanal Osnabrück</td>
+<td>1,56 (Brücke 72) – 6,05 (Brücke 76)</td>
+<td></td>
+</tr>
+<tr class="even">
 <td>Stör-Wasserstraße</td>
 <td>20,00 – 44,70</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Storkower Gewässer</td>
 <td>0,00 – 2,70 (Langer See)<br />
 3,90 – 7,00 (Wolziger See)</td>
@@ -3107,7 +3139,7 @@ Elisabethfehnkanal</td>
 Person im Alter von mindestens<br />
 18 Jahren</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Teupitzer Gewässer</td>
 <td>0,00 – 6,63 (Huschtesee,<br />
 Schmöldesee, Hölzerner See)</td>
@@ -3115,7 +3147,7 @@ Schmöldesee, Hölzerner See)</td>
 Person im Alter von mindestens<br />
 18 Jahren</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Wasserstraße Kleiner Wend-<br />
 see – Wusterwitzer See</td>
 <td>1,50 (Großer Wusterwitzer See,<br />
@@ -3123,27 +3155,27 @@ Straßenbrücke Plaue –<br />
 Wusterwitz) – km 3,93</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Werra</td>
 <td>0,78 – 89,00</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Weser</td>
 <td>0,00 – 204,30</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Zernsdorfer Lanke</td>
 <td>0,00 – 3,00</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Ziegelsee</td>
 <td>26,50 – 30,37</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -3166,7 +3198,7 @@ b)
 das Fahrzeug eine Länge von 5 m nicht überschreitet und mit einer Antriebsmaschine mit einer effektiven Nutzleistung von höchstens 3,68 kW ausgerüstet ist.
 
   
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung macht die Spitzenverbände nach Satz 1 Buchstabe a Doppelbuchstabe aa im Verkehrsblatt bekannt. Insofern ist der Rudergänger Schiffsführer.
+Das Bundesministerium für Verkehr und digitale Infrastruktur macht die Spitzenverbände nach Satz 1 Buchstabe a Doppelbuchstabe aa im Verkehrsblatt bekannt. Insofern ist der Rudergänger Schiffsführer.
 
 ### § 1.10 Mitführen von Urkunden und sonstigen Unterlagen
 
@@ -3174,64 +3206,64 @@ Das Bundesministerium für Verkehr, Bau und Stadtentwicklung macht die Spitzenve
 Folgende Urkunden und sonstige Unterlagen müssen sich an Bord befinden, soweit sie auf Grund besonderer Vorschriften vorgeschrieben sind:
 
 a)  
-die Fahrtauglichkeitsbescheinigung oder die als Ersatz zugelassene Urkunde,
+die Fahrtauglichkeitsbescheinigung oder die als Ersatz zugelassene Urkunde;
 
 b)  
-das Befähigungszeugnis oder die sonstige Erlaubnis zum Führen von Fahrzeugen und das Streckenzeugnis des Schiffsführers sowie für die anderen Mitglieder der Besatzung der ordnungsgemäß ausgefüllte Qualifikationsnachweis oder das Befähigungszeugnis oder die sonstige Erlaubnis zum Führen von Fahrzeugen und das Streckenzeugnis,
+das Befähigungszeugnis oder die sonstige Erlaubnis zum Führen von Fahrzeugen und das Streckenzeugnis des Schiffsführers sowie für die anderen Mitglieder der Besatzung der ordnungsgemäß ausgefüllte Qualifikationsnachweis oder das Befähigungszeugnis oder die sonstige Erlaubnis zum Führen von Fahrzeugen und das Streckenzeugnis;
 
 c)  
-das ordnungsgemäß ausgefüllte Bordbuch oder Fahrtenbuch,
+das ordnungsgemäß ausgefüllte Bordbuch oder Fahrtenbuch;
 
 d)  
-die Bescheinigung über die Ausgabe der Bordbücher,
+die Bescheinigung über die Ausgabe der Bordbücher;
 
 e)  
-das ordnungsgemäß ausgefüllte Ölkontrollbuch,
+das ordnungsgemäß ausgefüllte Ölkontrollbuch;
 
 f)  
-der Eichschein des Fahrzeugs,
+der Eichschein des Fahrzeugs;
 
 g)  
-die Bescheinigung über Einbau und Funktion des Fahrtenschreibers sowie die vorgeschriebenen Aufzeichnungen des Fahrtenschreibers,
+die Bescheinigung über Einbau und Funktion des Fahrtenschreibers sowie die vorgeschriebenen Aufzeichnungen des Fahrtenschreibers;
 
 h)  
-die Bescheinigung über Einbau und Funktion von Radaranlagen und Wendeanzeiger,
+die Bescheinigung über Einbau und Funktion von Radaranlagen und Wendeanzeiger;
 
 i)  
-das Radarpatent oder ein anderes nach der Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins als gleichwertig anerkanntes Zeugnis; diese Dokumente sind an Bord nicht erforderlich, wenn die Schifferpatentkarte die Eintragung „Radar“ oder ein anderes nach der Binnenschifferpatentverordnung zugelassenes Zeugnis des Schiffsführers die entsprechende Eintragung enthält,
+das Radarpatent oder ein anderes nach der Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins als gleichwertig anerkanntes Zeugnis; diese Dokumente sind an Bord nicht erforderlich, wenn die Schifferpatentkarte die Eintragung „Radar“ oder ein anderes nach der Binnenschifferpatentverordnung zugelassenes Zeugnis des Schiffsführers die entsprechende Eintragung enthält;
 
 j)  
-die Urkunde „Frequenzzuteilung“,
+die Urkunde „Frequenzzuteilung“ oder die Urkunde „Zuteilungsurkunde“;
 
 k)  
-ein Sprechfunkzeugnis für den Binnenschifffahrtsfunk,
+ein Sprechfunkzeugnis für den Binnenschifffahrtsfunk;
 
 l)  
-ein Abdruck des Handbuchs Binnenschifffahrtsfunk, Allgemeiner Teil und Regionaler Teil Deutschland für die befahrene Wasserstraße, in der jeweils geltenden Fassung; als Abdruck gilt auch eine elektronische Textfassung, wenn sie jederzeit lesbar gemacht werden kann,
+ein Abdruck des Handbuchs Binnenschifffahrtsfunk, Allgemeiner Teil und Regionaler Teil Deutschland für die befahrene Wasserstraße, in der jeweils geltenden Fassung; als Abdruck gilt auch eine elektronische Textfassung, wenn sie jederzeit lesbar gemacht werden kann;
 
 m)  
-die Urkunden für Schiffsdampfkessel und sonstige Druckbehälter,
+die Urkunden für Schiffsdampfkessel und sonstige Druckbehälter;
 
 n)  
-die Bescheinigung für Flüssiggasanlagen,
+die Bescheinigung für Flüssiggasanlagen;
 
 o)  
-die Unterlagen über elektrische Anlagen,
+die Unterlagen über elektrische Anlagen;
 
 p)  
-die Prüfbescheinigung über tragbare Feuerlöscher und fest installierte Feuerlöschanlagen,
+die Prüfbescheinigung über fest installierte Feuerlöschanlagen;
 
 q)  
-die Prüfbescheinigung über Krane,
+die Prüfbescheinigung über Krane;
 
 r)  
-die nach ADN Unterabschnitt 8.1.2.1, 8.1.2.2 und 8.1.2.3 erforderlichen Urkunden,
+die nach ADN Unterabschnitt 8.1.2.1, 8.1.2.2 und 8.1.2.3 erforderlichen Urkunden;
 
 s)  
-bei Containerbeförderung die von der Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt geprüften Stabilitätsunterlagen des Fahrzeugs, einschließlich Stauplan oder Ladungsliste für den jeweiligen Beladungsfall und das Ergebnis der Stabilitätsberechnung für den jeweiligen, einen früheren vergleichbaren oder einen standardisierten Beladungsfall jeweils unter Angabe des verwendeten Berechnungsverfahrens,
+bei Containerbeförderung die von der Generaldirektion Wasserstraßen und Schifffahrt geprüften Stabilitätsunterlagen des Fahrzeugs, einschließlich des Ergebnisses der Stabilitätsprüfung und des aktuellen Stauplans; das Ergebnis der Stabilitätsprüfung und der aktuelle Stauplan können auch elektronisch mitgeführt werden, wenn sie jederzeit lesbar gemacht werden können;
 
 t)  
-die Bescheinigung über Dauer und örtliche Begrenzung der Baustelle, auf der das Baustellenfahrzeug eingesetzt werden darf,
+die Bescheinigung über Dauer und örtliche Begrenzung der Baustelle, auf der das Baustellenfahrzeug eingesetzt werden darf;
 
 u)  
 die Urkunde über das Kennzeichen für Kleinfahrzeuge oder die für das als Ersatz anerkannte Kennzeichen ausgestellte Bescheinigung.
@@ -3328,16 +3360,16 @@ Nummer 2 gilt auch für ein anderes Fahrzeug ohne Antriebsmaschine, das nicht ü
 Auf einem schwimmenden Gerät brauchen die Schiffspapiere nach Nummer 1 Buchstabe a nicht mitgeführt zu werden, wenn an ihm eine Metalltafel nach Maßgabe der Nummer 2 angebracht ist.
 
 5.  
-Auf einem Baustellenfahrzeug nach Anhang II der Binnenschiffsuntersuchungsordnung, auf dem weder ein Steuerhaus noch eine Wohnung vorhanden ist, brauchen die Schiffspapiere nach Nummer 1 Buchstabe a und f nicht an Bord mitgeführt zu werden. Der Eigentümer und Ausrüster haben jeweils dafür zu sorgen, dass diese jedoch jederzeit im Bereich der Baustelle verfügbar sind.
+Auf einem Baustellenfahrzeug nach ES-TRIN, auf dem weder ein Steuerhaus noch eine Wohnung vorhanden ist, brauchen die Schiffspapiere nach Nummer 1 Buchstabe a und f nicht an Bord mitgeführt zu werden. Der Eigentümer und Ausrüster haben jeweils dafür zu sorgen, dass diese jedoch jederzeit im Bereich der Baustelle verfügbar sind.
 
 6.  
-Auf einem schwimmenden Gerät oder einem Baustellenfahrzeug nach Anhang II der Binnenschiffsuntersuchungsordnung brauchen die Schiffspapiere nach Nummer 1 Buchstabe a, b und f im Baustellenbereich nicht an Bord mitgeführt zu werden. Der Eigentümer und der Ausrüster haben jeweils dafür zu sorgen, dass diese jedoch jederzeit im Bereich der Baustelle verfügbar sind.
+Auf einem schwimmenden Gerät oder einem Baustellenfahrzeug nach ES-TRIN brauchen die Schiffspapiere nach Nummer 1 Buchstabe a, b und f im Baustellenbereich nicht an Bord mitgeführt zu werden. Der Eigentümer und der Ausrüster haben jeweils dafür zu sorgen, dass diese jedoch jederzeit im Bereich der Baustelle verfügbar sind.
 
 7.  
 Der Schiffsführer hat sicherzustellen, dass die Urkunden, das Bordbuch und die sonstigen Unterlagen nach Nummer 1 Buchstabe a bis c, e bis n, s und t an Bord mitgeführt und auf Verlangen den zur Kontrolle befugten Personen ausgehändigt werden.
 
 8.  
-Der Eigentümer und der Ausrüster haben jeweils dafür zu sorgen, dass die Urkunden, das Bordbuch und sonstigen Unterlagen nach Nummer 1 Buchstabe a, e, f bis h, j, l, m, n, s und t an Bord mitgeführt werden.
+Der Eigentümer und der Ausrüster haben jeweils dafür zu sorgen, dass die Urkunden und sonstigen Unterlagen nach Nummer 1 Buchstabe a, e, f bis h, j, l, m, n, s und t sowie das Bordbuch an Bord mitgeführt werden.
 
 ### § 1.11 Mitführen der Binnenschifffahrtsstraßen-Ordnung
 
@@ -3358,10 +3390,10 @@ Ein Gegenstand, der eine Gefährdung, eine Beschädigung, eine Behinderung oder 
 Ein aufgeholter Anker darf nicht unter den Boden oder den Kiel des Fahrzeugs reichen.
 
 3.  
-Hat ein Fahrzeug oder ein Schwimmkörper einen Gegenstand verloren und kann die Schifffahrt dadurch behindert oder gefährdet werden, muss der Schiffsführer dies unverzüglich der nächsten Dienststelle der Wasser- und Schifffahrtsverwaltung des Bundes oder der nächsten Dienststelle der Wasserschutzpolizei mitteilen und dabei die Stelle des Verlustes so genau wie möglich angeben. Ferner hat er die Stelle nach Möglichkeit zu kennzeichnen.
+Hat ein Fahrzeug oder ein Schwimmkörper einen Gegenstand verloren und kann die Schifffahrt dadurch behindert oder gefährdet werden, muss der Schiffsführer dies unverzüglich der nächsten Dienststelle der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der nächsten Dienststelle der Wasserschutzpolizei mitteilen und dabei die Stelle des Verlustes so genau wie möglich angeben. Ferner hat er die Stelle nach Möglichkeit zu kennzeichnen.
 
 4.  
-Trifft der Schiffsführer eines Fahrzeugs während der Fahrt in einer Wasserstraße ein störendes Hindernis an, muss er dies unverzüglich der nächsten Dienststelle der Wasser- und Schifffahrtsverwaltung des Bundes oder der nächsten Dienststelle der Wasserschutzpolizei mitteilen; er hat dabei die Stelle, wo das Hindernis angetroffen wurde, so genau wie möglich anzugeben.
+Trifft der Schiffsführer eines Fahrzeugs während der Fahrt in einer Wasserstraße ein störendes Hindernis an, muss er dies unverzüglich der nächsten Dienststelle der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der nächsten Dienststelle der Wasserschutzpolizei mitteilen; er hat dabei die Stelle, wo das Hindernis angetroffen wurde, so genau wie möglich anzugeben.
 
 5.  
 Der Schiffsführer hat dafür zu sorgen, dass ein Gegenstand, der eine Gefährdung, eine Beschädigung, eine Behinderung oder eine Beeinträchtigung im Sinne des § 1.04 verursachen kann, nicht über die Bordwand eines Fahrzeugs, eines Schwimmkörpers oder einer schwimmenden Anlage hinausragt und ein aufgeholter Anker nicht unter den Boden oder den Kiel eines Fahrzeugs reicht.
@@ -3372,14 +3404,14 @@ Der Schiffsführer hat dafür zu sorgen, dass ein Gegenstand, der eine Gefährdu
 Es ist verboten, ein Schifffahrtszeichen, insbesondere eine Tonne, eine Schwimmstange, eine Bake, oder ein Wahrschaufloß mit einem Schifffahrtszeichen, zum Festmachen oder Verholen zu benutzen, es zu beschädigen oder unbrauchbar zu machen.
 
 2.  
-Hat ein Schiffsführer mit dem von ihm geführten Fahrzeug oder Schwimmkörper ein Schifffahrtszeichen von seinem Platz verschoben oder eine zur Bezeichnung der Wasserstraße dienende Einrichtung beschädigt, muss er dies unverzüglich der nächsten Dienststelle der Wasser- und Schifffahrtsverwaltung des Bundes oder der nächsten Dienststelle der Wasserschutzpolizei mitteilen.
+Hat ein Schiffsführer mit dem von ihm geführten Fahrzeug oder Schwimmkörper ein Schifffahrtszeichen von seinem Platz verschoben oder eine zur Bezeichnung der Wasserstraße dienende Einrichtung beschädigt, muss er dies unverzüglich der nächsten Dienststelle der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der nächsten Dienststelle der Wasserschutzpolizei mitteilen.
 
 3.  
-Jeder Schiffsführer ist verpflichtet, die nächste Dienststelle der Wasser- und Schifffahrtsverwaltung des Bundes oder die nächste Dienststelle der Wasserschutzpolizei unverzüglich zu benachrichtigen, wenn er durch Unfälle verursachte oder sonstige Veränderungen an den Schifffahrtszeichen, insbesondere Erlöschen eines Lichtes, falsche Lage einer Tonne oder Zerstörung eines Zeichens, feststellt.
+Jeder Schiffsführer ist verpflichtet, die nächste Dienststelle der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder die nächste Dienststelle der Wasserschutzpolizei unverzüglich zu benachrichtigen, wenn er durch Unfälle verursachte oder sonstige Veränderungen an den Schifffahrtszeichen, insbesondere Erlöschen eines Lichtes, falsche Lage einer Tonne oder Zerstörung eines Zeichens, feststellt.
 
 ### § 1.14 Beschädigung der Wasserstraße oder von Anlagen
 
-Hat ein Schiffsführer mit dem von ihm geführten Fahrzeug oder Schwimmkörper die Wasserstraße oder eine Anlage beschädigt, muss er dies unverzüglich der nächsten Dienststelle der Wasser- und Schifffahrtsverwaltung des Bundes oder der nächsten Dienststelle der Wasserschutzpolizei mitteilen.
+Hat ein Schiffsführer mit dem von ihm geführten Fahrzeug oder Schwimmkörper die Wasserstraße oder eine Anlage beschädigt, muss er dies unverzüglich der nächsten Dienststelle der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der nächsten Dienststelle der Wasserschutzpolizei mitteilen.
 
 ### § 1.15 Verbot des Einbringens von Gegenständen undanderen Stoffen in die Wasserstraße
 
@@ -3387,7 +3419,7 @@ Hat ein Schiffsführer mit dem von ihm geführten Fahrzeug oder Schwimmkörper d
 Es ist verboten, einen festen Gegenstand oder anderen Stoff, der geeignet ist, die Schifffahrt oder sonstige Benutzer der Wasserstraße zu behindern oder zu gefährden, in die Wasserstraße zu werfen, zu gießen oder auf andere Weise einzubringen oder einzuleiten.
 
 2.  
-Ist ein derartiger Gegenstand oder anderer Stoff frei geworden oder droht er frei zu werden, muss der Schiffsführer unverzüglich die nächste Dienststelle der Wasser- und Schifffahrtsverwaltung des Bundes oder die nächste Dienststelle der Wasserschutzpolizei unterrichten; er hat dabei die Stelle des Vorfalls und die Art des Gegenstandes oder der Flüssigkeit so genau wie möglich anzugeben.
+Ist ein derartiger Gegenstand oder anderer Stoff frei geworden oder droht er frei zu werden, muss der Schiffsführer unverzüglich die nächste Dienststelle der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder die nächste Dienststelle der Wasserschutzpolizei unterrichten; er hat dabei die Stelle des Vorfalls und die Art des Gegenstandes oder der Flüssigkeit so genau wie möglich anzugeben.
 
 ### § 1.16 Rettung und Hilfeleistung
 
@@ -3403,7 +3435,7 @@ Nach einem Schiffsunfall hat jeder Beteiligte sich über die Unfallfolgen zu ver
 ### § 1.17 Festgefahrene oder gesunkene Fahrzeuge; Anzeige von Unfällen
 
 1.  
-Der Schiffsführer eines festgefahrenen oder gesunkenen Fahrzeugs oder eines festgefahrenen oder gesunkenen Schwimmkörpers muss so bald es ihm möglich ist für die Benachrichtigung der nächsten Dienststelle der Wasser- und Schifffahrtsverwaltung des Bundes oder der nächsten Dienststelle der Wasserschutzpolizei sorgen. Er oder das von ihm bestimmte Mitglied der Besatzung muss an Bord oder in der Nähe der Unfallstelle bleiben, bis Beschäftigte der Strom- und Schifffahrtspolizeibehörde, einer nachgeordneten Dienststelle oder der Wasserschutzpolizei ihm gestatten, sich zu entfernen.
+Der Schiffsführer eines festgefahrenen oder gesunkenen Fahrzeugs oder eines festgefahrenen oder gesunkenen Schwimmkörpers muss so bald es ihm möglich ist für die Benachrichtigung der nächsten Dienststelle der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der nächsten Dienststelle der Wasserschutzpolizei sorgen. Er oder das von ihm bestimmte Mitglied der Besatzung muss an Bord oder in der Nähe der Unfallstelle bleiben, bis Beschäftigte der Strom- und Schifffahrtspolizeibehörde, einer nachgeordneten Dienststelle oder der Wasserschutzpolizei ihm gestatten, sich zu entfernen.
 
 2.  
 Sofern es nicht offensichtlich unnötig ist, muss der Schiffsführer eines festgefahrenen oder gesunkenen Fahrzeugs oder Schwimmkörpers unbeschadet des § 3.25 unverzüglich für eine Wahrschau der herankommenden Fahrzeuge oder Schwimmkörper an geeigneten Stellen und in einer solchen Entfernung von der Unfallstelle sorgen, dass diese rechtzeitig die erforderlichen Maßnahmen treffen können.
@@ -3412,7 +3444,7 @@ Sofern es nicht offensichtlich unnötig ist, muss der Schiffsführer eines festg
 Ereignet sich der Unfall im Sinne der Nummer 1 oder des § 1.16 in einer Schleuse nach § 6.28 Nummer 1, muss der Schiffsführer die Schleusenaufsicht unverzüglich benachrichtigen.
 
 4.  
-Ereignet sich der Unfall im Sinne der Nummer 1 oder des § 1.16 oder eine Störung des Verkehrs oder des Betriebes im Bereich einer selbstbedienten oder automatisierten Schleuse, muss der Schiffsführer unverzüglich die nächste Dienststelle der Wasser- und Schifffahrtsverwaltung des Bundes oder die nächste Dienststelle der Wasserschutzpolizei benachrichtigen.
+Ereignet sich der Unfall im Sinne der Nummer 1 oder des § 1.16 oder eine Störung des Verkehrs oder des Betriebes im Bereich einer selbstbedienten oder automatisierten Schleuse, muss der Schiffsführer unverzüglich die nächste Dienststelle der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder die nächste Dienststelle der Wasserschutzpolizei benachrichtigen.
 
 5.  
 Die Nummern 1 bis 4 gelten auch, wenn infolge eines Unfalls die Sicherheit und Leichtigkeit des Schiffsverkehrs beeinträchtigt wird.
@@ -3470,7 +3502,7 @@ Eine sportliche Veranstaltung, Wasserfestlichkeit oder sonstige Veranstaltung, d
 ### § 1.24 Sonderregelung für Fahrzeugeim öffentlichen Dienst und für Wasserrettungsfahrzeuge
 
 1.  
-Ein Fahrzeug der Wasser- und Schifffahrtsverwaltung des Bundes, der Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei, des Bundeskriminalamtes, der Streitkräfte, des Zolldienstes, der Feuerwehr, des Zivil- und Katastrophenschutzes, der Wasserwirtschaftsverwaltungen oder der Fischereiaufsicht der Länder sind von der Beachtung der Binnenschifffahrtsstraßen-Ordnung befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben unter gebührender Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist.
+Ein Fahrzeug der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei, des Bundeskriminalamtes, der Streitkräfte, des Zolldienstes, der Feuerwehr, des Zivil- und Katastrophenschutzes, der Wasserwirtschaftsverwaltungen oder der Fischereiaufsicht der Länder sind von der Beachtung der Binnenschifffahrtsstraßen-Ordnung befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben unter gebührender Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist.
 
 2.  
 Dies gilt auch für ein Wasserrettungsfahrzeug einer öffentlich-rechtlichen Anstalt oder Körperschaft oder einer als gemeinnützig anerkannten Körperschaft im Rettungseinsatz.
@@ -3522,10 +3554,10 @@ Sein Heimat- oder Registerort.
 Der Name des Heimat- oder Registerortes ist entweder auf beiden Seiten oder am Heck des Fahrzeugs anzubringen; ihm folgt der Buchstabe oder die Buchstabengruppe des Staates, in dem der Heimat- oder Registerort liegt (Anlage 1).
 
 c)  
-Seine einheitliche europäische Schiffsnummer, die aus acht arabischen Ziffern besteht. Die drei ersten Ziffern dienen der Bezeichnung des Staates und der Ausgabestelle dieser einheitlichen europäischen Schiffsnummer. Diese Kennzeichnung ist nur für ein Fahrzeug verbindlich, dem eine einheitliche europäische Schiffsnummer erteilt worden ist, jedoch nicht für ein Fahrgastschiff, eine Fähre, ein Sportfahrzeug, ein schwimmendes Gerät, ein Fahrzeug der Überwachungsbehörden oder ein Feuerlöschboot.
+Seine einheitliche europäische Schiffsnummer, die aus acht arabischen Ziffern besteht. Die drei ersten Ziffern dienen der Bezeichnung des Staates und der Ausgabestelle der einheitlichen europäischen Schiffsnummer. Diese Kennzeichnung ist nur für ein Fahrzeug verbindlich, dem eine einheitliche europäische Schiffsnummer erteilt worden ist.
 
 d)  
-Sofern eine einheitliche europäische Schiffsnummer nicht erteilt ist, seine amtliche Schiffsnummer, die aus sieben arabischen Ziffern besteht, denen ein Kleinbuchstabe folgen kann. Die beiden ersten Ziffern dienen der Bezeichnung des Staates und der Ausgabestelle dieser amtlichen Schiffsnummer. Diese Kennzeichnung ist nur für ein Fahrzeug verbindlich, dem eine amtliche Schiffsnummer erteilt worden ist, jedoch nicht für ein Fahrgastschiff, eine Fähre, ein Sportfahrzeug, ein schwimmendes Gerät, ein Fahrzeug der Überwachungsbehörden oder ein Feuerlöschboot.
+Sofern eine einheitliche europäische Schiffsnummer nicht erteilt ist, seine amtliche Schiffsnummer, die aus sieben arabischen Ziffern besteht, denen ein Kleinbuchstabe folgen kann. Die beiden ersten Ziffern dienen der Bezeichnung des Staates und der Ausgabestelle der amtlichen Schiffsnummer. Diese Kennzeichnung ist nur für ein Fahrzeug verbindlich, dem eine amtliche Schiffsnummer erteilt worden ist.
 
   
 Die einheitliche europäische Schiffsnummer und die amtliche Schiffsnummer sind nach Maßgabe der in Satz 1 Buchstabe a genannten Anforderungen anzubringen. Die Sätze 1 und 2 gelten nicht für ein Kleinfahrzeug oder ein Seeschiff.
@@ -3534,7 +3566,7 @@ Die einheitliche europäische Schiffsnummer und die amtliche Schiffsnummer sind 
 Darüber hinaus muss an jedem Fahrzeug, das zur
 
 a)  
-Güterbeförderung bestimmt ist, die Tragfähigkeit in Tonnen nach außen sichtbar auf beiden Seiten des Fahrzeugs entweder auf dem Schiffskörper oder auf dauerhaft befestigten Platten oder Schildern;
+Güterbeförderung bestimmt ist, die Tragfähigkeit in Tonnen nach außen sichtbar auf beiden Seiten des Fahrzeugs entweder auf dem Schiffskörper oder auf dauerhaft befestigten Platten oder Schildern,
 
 b)  
 Beförderung von Fahrgästen bestimmt ist, die höchstzulässige Anzahl der Fahrgäste an Bord nach außen an gut sichtbarer Stelle
@@ -3564,6 +3596,9 @@ Der Name und die Anschrift des Eigentümers sind an der Innen- oder Außenseite 
 
 2.  
 Ein Beiboot eines Fahrzeugs muss jedoch an der Innen- oder Außenseite nur ein Kennzeichen tragen, das die Feststellung des Eigentümers gestattet.
+
+3.  
+Für ein Fahrgastboot gilt § 2.01.
 
 ### § 2.03 Schiffseichung
 
@@ -3692,7 +3727,7 @@ Die in diesem Kapitel vorgeschriebenen Bezeichnungen sind in Anlage 3 abgebildet
 Soweit nichts anderes bestimmt ist, müssen die in dieser Verordnung vorgeschriebenen Lichter von allen Seiten sichtbar sein und ein gleichmäßiges, ununterbrochenes Licht werfen.
 
 2.  
-Es dürfen nur Signalleuchten verwendet werden, deren Lichter in horizontaler Ausstrahlung, Farbe und Stärke den Bestimmungen dieser Verordnung entsprechen und deren Gehäuse und Zubehör das Zulassungskennzeichen tragen, das nach der Richtlinie 96/98/EG des Rates vom 20. Dezember 1996 über Schiffsausrüstung (ABl. L 46 vom 17.2.1997, S. 25), die zuletzt durch die Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom 18.7.2009, S. 14) geändert worden ist, vorgeschrieben ist oder den Anforderungen des Anhangs XII Artikel 4 § 7.05 in Verbindung mit Anhang IX der Binnenschiffsuntersuchungsordnung entsprechen. Signalleuchten, deren Gehäuse, Zubehör und Lichtquellen den Anforderungen der am 30. Juni 2011 geltenden Fassung der Binnenschifffahrtsstraßen-Ordnung entsprechen, dürfen weiterhin verwendet werden.
+Es dürfen nur Signalleuchten verwendet werden, deren Lichter in horizontaler Ausstrahlung, Farbe und Stärke den Bestimmungen dieser Verordnung und den Anforderungen des Artikels 7.05 ES-TRIN entsprechen. Signalleuchten, die den Anforderungen der am 30. Juni 2011 oder am 31. Dezember 2012 oder am 6. Oktober 2018 geltenden Fassung der Binnenschifffahrtsstraßen-Ordnung entsprechen, dürfen weiterhin verwendet werden.
 
 3.  
 Die Nachtbezeichnung eines stillliegenden nicht motorisierten Fahrzeugs braucht nicht den Anforderungen der Nummer 2 zu entsprechen; sie muss jedoch bei klarer Sicht und dunklem Hintergrund eine Tragweite von mindestens 1 000,00 m haben.
@@ -5393,7 +5428,7 @@ dessen Nachtbezeichnung die Tragweite nach § 3.02 Nummer 3 hat.
 Der Schiffsführer hat sicherzustellen, dass die auf dem Fahrzeug verwendeten
 
 a)  
-Flaggen, Tafeln und Wimpel den Anforderungen nach § 3.03 Nummer 1 bis 3 entsprechen und
+Flaggen, Tafeln und Wimpel den Anforderungen nach § 3.03 Nummer 1 bis 3, § 3.31 Nummer 1 Satz 3 und § 3.32 Nummer 1 Satz 3 entsprechen und
 
 b)  
 Zylinder, Bälle und Kegel den Anforderungen nach § 3.04 Nummer 2 und 3 entsprechen.
@@ -5420,7 +5455,7 @@ c)
 des Stillliegens seitlich nebeneinander nach § 3.33 Nummer 1, auch in Verbindung mit Nummer 2,
 
   
-hingewiesen wird.
+in der jeweils vorgeschriebenen Weise hingewiesen wird.
 
 10.  
 Der Schiffsführer, Eigentümer und Ausrüster haben jeweils sicherzustellen, dass auf dem Schwimmkörper oder der schwimmenden Anlage bei Nacht beim Stillliegen die in § 3.23 Satz 1 vorgeschriebene Bezeichnung geführt wird.
@@ -5446,8 +5481,8 @@ dessen Signalleuchten den in § 3.02 Nummer 2 genannten Vorschriften entsprechen
 c)  
 dessen Nachtbezeichnung die nach § 3.02 Nummer 3 Halbsatz 2 vorgeschriebene Tragweite hat.
 
-Kapitel 4 Schallzeichen der Fahrzeuge, Sprechfunk, Navigationsgeräte
---------------------------------------------------------------------
+Kapitel 4 Schallzeichen der Fahrzeuge; Sprechfunk; Informations- und Navigationsgeräte
+--------------------------------------------------------------------------------------
 
 ### 
 
@@ -5535,7 +5570,7 @@ c)
 der Binnenschifffahrt-Sprechfunkverordnung
 
   
-betrieben werden. Funkmeldungen und Funkabsprachen sind in deutscher Sprache auszuführen. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung gibt den aktuellen Stand des Handbuchs Binnenschifffahrtsfunk im Verkehrsblatt bekannt.
+betrieben werden. Funkmeldungen und Funkabsprachen sind in deutscher Sprache auszuführen. Das Bundesministerium für Verkehr und digitale Infrastruktur gibt den aktuellen Stand des Handbuchs Binnenschifffahrtsfunk im Verkehrsblatt bekannt.
 
 2.  
 Ein Fahrzeug mit Maschinenantrieb, ausgenommen ein Kleinfahrzeug, eine Fähre oder ein schwimmendes Gerät, darf nur fahren, wenn es mit zwei betriebssicheren Sprechfunkanlagen ausgerüstet ist. Während der Fahrt muss eine Sprechfunkanlage in dem Verkehrskreis Schiff-Schiff und die andere Sprechfunkanlage in dem Verkehrskreis Nautische Information ständig sende- und empfangsbereit sein. Der Verkehrskreis Nautische Information darf nur zur Übermittlung oder zum Empfang von Nachrichten auf anderen Kanälen kurzfristig verlassen werden.
@@ -5573,8 +5608,8 @@ das Fahrzeug oder der Verband mit den nach Nummer 2 Satz 1 und Nummer 3 Satz 1 v
 b)  
 die Sprechfunkanlagen des Fahrzeugs oder der schwimmenden Anlage den Vorschriften nach Nummer 1 Satz 1 Buchstabe a und b entsprechen und gemäß den Vorschriften nach Nummer 1 Satz 2 betrieben werden.
 
-Abschnitt III. Navigationsgeräte
---------------------------------
+Abschnitt III. Informations- und Navigationsgeräte
+--------------------------------------------------
 
 ### 
 
@@ -5584,10 +5619,10 @@ Abschnitt III. Navigationsgeräte
 Ein Fahrzeug darf nur dann Radar benutzen, wenn
 
 a)  
-es mit einem Radargerät und einem Gerät zur Anzeige der Wendegeschwindigkeit des Fahrzeugs nach Anhang II § 7.06 der Binnenschiffsuntersuchungsordnung ausgerüstet ist; dabei müssen die Geräte in gutem Betriebszustand sein und einem von der Fachstelle der Wasser- und Schifffahrtsverwaltung für Verkehrstechniken beim Wasser- und Schifffahrtsamt Koblenz oder von den zuständigen Behörden eines anderen Rheinuferstaates oder Belgiens zugelassenen schiffssicherheitstechnischen Baumuster entsprechen; eine nicht frei fahrende Fähre braucht jedoch nicht mit einem Gerät zur Anzeige der Wendegeschwindigkeit ausgerüstet zu sein;
+es mit einem Radargerät und einem Gerät zur Anzeige der Wendegeschwindigkeit des Fahrzeugs nach Artikel 7.06 ES-TRIN ausgerüstet ist; dabei müssen die Geräte in gutem Betriebszustand sein und einem von der vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachten Stelle oder von den zuständigen Behörden eines anderen Rheinuferstaates oder Belgiens zugelassenen schiffssicherheitstechnischen Baumuster entsprechen; eine nicht frei fahrende Fähre braucht jedoch nicht mit einem Gerät zur Anzeige der Wendegeschwindigkeit ausgerüstet zu sein,
 
 b)  
-sich an Bord eine Person befindet, die ein Patent nach der Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins oder ein vom Bundesministerium für Verkehr, Bau und Stadtentwicklung als gleichwertig anerkanntes und im Verkehrsblatt bekannt gemachtes Radarzeugnis besitzt.
+sich an Bord eine Person befindet, die ein Patent nach der Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins oder ein vom Bundesministerium für Verkehr und digitale Infrastruktur als gleichwertig anerkanntes und im Verkehrsblatt bekannt gemachtes Radarzeugnis besitzt.
 
   
 Ein Kleinfahrzeug muss außerdem mit einer in gutem Betriebszustand befindlichen Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet sein. Unbeschadet des § 1.09 Nummer 3 kann jedoch am Tag bei guter Sicht abweichend von Satz 1 Buchstabe b Radar zu Ausbildungszwecken verwendet werden, auch wenn sich eine Person nach Satz 1 Buchstabe b nicht an Bord befindet.
@@ -5610,16 +5645,169 @@ das Fahrzeug oder der Verband mit einer geeigneten Person nach Nummer 1 Satz 1 B
   
 ist.
 
-### § 4.07 Inland AIS Geräte
+### § 4.07 Inland AIS und Inland ECDIS
+
+Auf den Wasserstraßen **Neckar**, **Main**, **Main-Donau-Kanal**, **Ruhr**, **Rhein-Herne-Kanal**, **Wesel-Datteln-Kanal**, **Datteln-Hamm-Kanal**, **Dortmund-Ems-Kanal**, **Küstenkanal**, **Mittellandkanal** einschließlich der Stichkanäle, **Elbe-Seiten-Kanal**, **Elbe-Havel-Kanal** einschließlich Großer Wendsee mit Niegripper Verbindungskanal und Pareyer Verbindungskanal, **Weser** von km 204,40 bis km 366,70 und UWe-km 0,00 bis UWe-km 1,375, **Elbe**, **Saar** von km 0,00 bis km 87,20, **Spree-Oder-Wasserstraße** von km 0,00 bis km 18,25 einschließlich Ruhlebener Altarm, **Berlin-Spandauer-Schifffahrtskanal** mit Westhafen-Verbindungskanal, Westhafenkanal und Charlottenburger Verbindungskanal, **Untere Havel-Wasserstraße** von km 0,00 bis km 67,82 und von km 146,20 bis km 148,48 mit Großer Wannsee und **Havel-Oder-Wasserstraße** mit Verbindungskanal Hohensaaten Ost, Verbindungskanal Schwedter Querfahrt und Veltener Stichkanal gelten die folgenden Regelungen zu Inland AIS und Inland ECDIS:
 
 1.  
-Ein Fahrzeug, ausgenommen ein Seeschiff und ein Kleinfahrzeug, das überwiegend die Seewasserstraßen befährt, darf nur dann AIS nutzen, wenn es mit einem Inland AIS Gerät ausgerüstet ist. Das Gerät muss in gutem Betriebszustand sein und einem von der Behörde eines Rheinuferstaates oder Belgiens nach dem Test Standard für Inland AIS (Beschluss der Zentralkommission für die Rheinschifffahrt 2007-I-15) zugelassenen Typ entsprechen. Ein Kleinfahrzeug muss außerdem mit einer in gutem Betriebszustand befindlichen Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet sein.
+Ein Fahrzeug muss mit einem Inland AIS Gerät nach Artikel 7.06 Nummer 3 ES-TRIN ausgestattet sein. Das Inland AIS Gerät muss in einem guten Betriebszustand sein. Die Sätze 1 und 2 gelten nicht für
+
+a)  
+ein Fahrzeug von Schubverbänden und gekuppelten Fahrzeugen, ausgenommen das Fahrzeug, das die Hauptantriebskraft stellt,
+
+b)  
+ein Kleinfahrzeug,
+
+c)  
+einen Schubleichter ohne eigenen Antrieb,
+
+d)  
+ein schwimmendes Gerät ohne eigenen Antrieb,
+
+e)  
+eine Fähre, soweit diese von der Verpflichtung zur Ausrüstung mit einer Sprechfunkanlage nach § 4.05 Nummer 3 befreit ist.
 
 2.  
-Ein Fahrzeug darf AIS nur dann nutzen, wenn die in das AIS Gerät eingegebenen Parameter den tatsächlichen Parametern des Fahrzeugs zu jedem Zeitpunkt entsprechen.
+Das Inland AIS Gerät muss ständig eingeschaltet sein und die eingegebenen Daten müssen zu jedem Zeitpunkt den tatsächlichen Daten des Fahrzeugs oder Verbandes entsprechen. Satz 1 gilt nicht,
+
+a)  
+wenn die zuständige Behörde eine Ausnahme für Wasserflächen, die von der Fahrrinne baulich getrennt sind, gewährt hat,
+
+b)  
+für ein Fahrzeug der Polizei, wenn die Übermittlung von AIS Daten die Erfüllung polizeilicher Aufgaben gefährden würde.
+
+Ein Fahrzeug nach Nummer 1 Satz 3 Buchstabe a muss ein an Bord vorhandenes Inland AIS Gerät ausschalten, solange das Fahrzeug Teil des Verbandes ist.
 
 3.  
-Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils sicherzustellen, dass auf dem Fahrzeug AIS nur nach den in Nummer 1 in Verbindung mit Nummer 2 genannten Anforderungen genutzt wird.
+Ein Fahrzeug, das mit einem Inland AIS Gerät ausgerüstet sein muss, muss zusätzlich mit einem Inland ECDIS Gerät im Informationsmodus nach Maßgabe der Sätze 2 und 3, das mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein und dieses muss zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte genutzt werden. Das Inland ECDIS Gerät im Informationsmodus und die elektronische Binnenschifffahrtskarte müssen den Anforderungen der Durchführungsverordnung (EU) Nr. 909/2013 der Kommission vom 10. September 2013 zu den technischen Spezifikationen für das System zur elektronischen Darstellung von Binnenschifffahrtskarten und von damit verbundenen Informationen (Inland ECDIS) gemäß der Richtlinie 2005/44/EG des Europäischen Parlaments und des Rates (ABl. L 258 vom 28.9.2013 S. 1) entsprechen. Das Inland ECDIS Gerät im Informationsmodus muss in einem guten Betriebszustand sein. Die Sätze 1 bis 3 gelten nicht für eine Fähre.
+
+4.  
+Es müssen folgende Daten nach Kapitel 2 des Standards Schiffsverfolgung und -aufspürung in der Binnenschifffahrt unverzüglich nach Fahrtantritt übermittelt werden:
+
+a)  
+User Identifier (Maritime Mobile Service Identity, MMSI);
+
+b)  
+Schiffsname;
+
+c)  
+Schiffstyp oder Verbandsgattung;
+
+d)  
+einheitliche europäische Schiffsnummer (ENI), oder, für die Seeschiffe sofern keine ENI erteilt wurde, die IMO Nummer;
+
+e)  
+Länge über alles des Fahrzeugs oder Verbandes mit einer Genauigkeit von 0,1 m;
+
+f)  
+Breite über alles des Fahrzeugs oder Verbandes mit einer Genauigkeit von 0,1 m;
+
+g)  
+Position im Kartenstandard WGS 84;
+
+h)  
+Geschwindigkeit über Grund;
+
+i)  
+Kurs über Grund;
+
+j)  
+Zeitangabe der elektronischen Positionsermittlung;
+
+k)  
+Navigationsstatus nach Anlage 9;
+
+l)  
+Bezugspunkt der Positionsinformation auf dem Fahrzeug mit einer Genauigkeit von 1 m nach Anlage 9.
+
+5.  
+Der Schiffsführer muss folgende Daten unverzüglich nach Auftreten einer Änderung umgehend aktualisieren:
+
+a)  
+Länge über alles mit einer Genauigkeit von 0,1 m nach Anlage 9;
+
+b)  
+Breite über alles mit einer Genauigkeit von 0,1 m nach Anlage 9;
+
+c)  
+Verbandsgattung;
+
+d)  
+Navigationsstatus nach Anlage 9;
+
+e)  
+Bezugspunkt der Positionsinformation auf dem Fahrzeug mit einer Genauigkeit von 1 m nach Anlage 9.
+
+6.  
+Ein Kleinfahrzeug, das AIS nutzt, darf nur ein Inland AIS Gerät nach Artikel 7.06 Nummer 3 ES-TRIN, ein nach den Vorschriften der IMO typzugelassenes AIS Gerät der Klasse A oder ein AIS Gerät der Klasse B verwenden. AIS Geräte der Klasse B müssen den einschlägigen Anforderungen der Empfehlung ITU-R M.1371, der Richtlinie 1999/5/EG (RTTE) und der internationalen Norm IEC 62287-1 und 2 (einschließlich DSC Kanalmanagement) entsprechen. Das AIS Gerät muss in einem guten Betriebszustand sein und die in das AIS Gerät eingegebenen Daten müssen zu jedem Zeitpunkt den tatsächlichen Daten des Fahrzeugs oder Verbandes entsprechen.
+
+7.  
+Ein Kleinfahrzeug, dem keine einheitliche europäische Schiffsnummer (ENI) erteilt wurde, braucht die Daten nach Nummer 4 Buchstabe d nicht zu übermitteln.
+
+8.  
+Ein Kleinfahrzeug, das AIS nutzt, muss zusätzlich mit einer in einem guten Betriebszustand befindlichen und auf Empfang geschalteten Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet sein.
+
+9.  
+Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils sicherzustellen, dass
+
+a)  
+das Inland AIS Gerät ständig eingeschaltet ist,
+
+b)  
+die in das Inland AIS Gerät eingegebenen Daten zu jedem Zeitpunkt den tatsächlichen Daten des Fahrzeugs oder Verbandes entsprechen,
+
+c)  
+das Inland AIS Gerät in dem in Nummer 2 Satz 3 genannten Fall ausgeschaltet ist und
+
+d)  
+in dem in Nummer 3 Satz 1 genannten Fall ein Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, zusammen mit einer elektronischen Binnenschifffahrtskarte genutzt wird.
+
+10.  
+Der Schiffsführer hat
+
+a)  
+sicherzustellen, dass
+
+aa)  
+das von ihm geführte Fahrzeug
+
+aaa)  
+mit einem Inland AIS Gerät nach Nummer 1 Satz 1 ausgestattet ist,
+
+bbb)  
+in dem in Nummer 3 Satz 1 genannten Fall mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist und
+
+ccc)  
+in dem in Nummer 8 genannten Fall mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist,
+
+bb)  
+das Inland AIS Gerät den in Nummer 1 Satz 1 und Nummer 6 Satz 1 jeweils genannten Vorschriften entspricht und
+
+cc)  
+die in Nummer 4 genannten Daten nach Fahrtantritt vollständig übermittelt und die in Nummer 5 genannten Daten nach Auftreten einer Änderung unverzüglich und vollständig aktualisiert werden und
+
+b)  
+in dem in Nummer 8 genannten Fall die Sprechfunkanlage auf Empfang zu schalten.
+
+11.  
+Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs nur anordnen oder zulassen, wenn
+
+a)  
+das Fahrzeug
+
+aa)  
+mit einem Inland AIS Gerät nach Nummer 1 Satz 1 ausgestattet ist,
+
+bb)  
+in dem in Nummer 3 Satz 1 genannten Fall mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist und
+
+cc)  
+in dem in Nummer 8 genannten Fall mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist und
+
+b)  
+das Inland AIS Gerät den in Nummer 1 Satz 1 und Nummer 6 Satz 1 jeweils genannten Vorschriften entspricht.
+
+Amtlicher Hinweis: die Normen entsprechen den Normen DIN EN 62287-1 und DIN EN 62287-2.
 
 Kapitel 5 Schifffahrtszeichen und Bezeichnung der Wasserstraße
 --------------------------------------------------------------
@@ -5790,13 +5978,13 @@ Die hellblaue Tafel muss einen weißen Rand von mindestens 5,00 cm Breite haben,
 Ist zu befürchten, dass die Absicht des Bergfahrers von dem Talfahrer nicht verstanden worden ist, muss der Bergfahrer folgende Zeichen geben:
 
 a)  
-„einen kurzen Ton“, wenn die Vorbeifahrt an Backbord stattfinden soll,
+„einen kurzen Ton“, wenn die Vorbeifahrt an Backbord stattfinden soll;
 
 b)  
 „zwei kurze Töne“, wenn die Vorbeifahrt an Steuerbord stattfinden soll.
 
 5.  
-Unbeschadet des § 6.05 muss der Talfahrer den Weg nehmen, den ihm der Bergfahrer nach den vorstehenden Bestimmungen weist; er muss die Sichtzeichen nach Nummer 3 und die Schallzeichen nach Nummer 4 erwidern, die der Bergfahrer an sie gerichtet hat.
+Unbeschadet des § 6.05 muss der Talfahrer den Weg nehmen, den ihm der Bergfahrer nach den vorstehenden Bestimmungen weist; er muss die Sichtzeichen nach Nummer 3 und die Schallzeichen nach Nummer 4 erwidern, die der Bergfahrer an ihn gerichtet hat.
 
 amtlicher Hinweis: Vorschrift gilt weder für ein Kleinfahrzeug oder einen Verband im Sinne des § 6.02 Nummer 1 Satz 1 noch ist sie ihm gegenüber anzuwenden.
 
@@ -6902,7 +7090,7 @@ mit dem in § 3.14 Nummer 7 genannten Fahrzeug geschleust werden.
 Zwischen Bug und Heck der gemeinsam geschleusten Fahrzeuge nach Satz 2 muss ein Mindestabstand von 10,00 m eingehalten werden.
 
 12.  
-Ein Fahrzeug oder ein Verband, das oder der die Bezeichnung nach § 3.14 Nummer 1 führt, darf nicht zusammen mit einem Fahrgastschiff, das Fahrgäste an Bord hat, geschleust werden.
+Ein Fahrzeug oder ein Verband, das oder der die Bezeichnung nach § 3.14 Nummer 1 führt, darf nicht zusammen mit einem Fahrgastschiff, das Fahrgäste an Bord hat, oder einem Sportfahrzeug im Sinne des § 34 Absatz 1 der Binnenschiffsuntersuchungsordnung, das Fahrgäste an Bord hat, geschleust werden.
 
 13.  
 Eine Schleuse, die zur Bedienung durch das Schiffspersonal nicht besonders eingerichtet ist, darf nur mit Erlaubnis der Schleusenaufsicht bedient werden.
@@ -7027,13 +7215,13 @@ Ist im Schleusenbereich ein Startplatz eingerichtet, wird er gegen die übrigen 
 Ein zur Schleusung anstehendes Fahrzeug muss vorbehaltlich der Regelung nach Nummer 2 so weit aufschließen, dass es unverzüglich nach dem Zeichen zur Einfahrt in die Schleuse einfahren kann. Versäumt ein Fahrzeug das Aufrücken, verliert es für die anstehende Schleusung seinen Rang. Ein Fahrzeug, das auf das Zeichen zur Einfahrt nicht schleusungsbereit ist, wird so lange zurückgestellt, bis es seine Vorbereitungen beendet hat.
 
 4.  
-Ein Fahrzeug der Wasser- und Schifffahrtsverwaltung des Bundes, ein Fahrzeug, das zur Ausübung von Hoheitsaufgaben unterwegs ist oder ein schwer beschädigtes Fahrzeug haben vor allen übrigen Fahrzeugen das Recht auf Schleusung außer der Reihe (Schleusenvorrang); das Gleiche gilt für ein Rettungs- oder Feuerlöschfahrzeug auf der Fahrt zur Unfallstelle.
+Ein Fahrzeug der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, ein Fahrzeug, das zur Ausübung von Hoheitsaufgaben unterwegs ist oder ein schwer beschädigtes Fahrzeug haben vor allen übrigen Fahrzeugen das Recht auf Schleusung außer der Reihe (Schleusenvorrang); das Gleiche gilt für ein Rettungs- oder Feuerlöschfahrzeug auf der Fahrt zur Unfallstelle.
 
 5.  
 Auf Verlangen werden mit Vorrang in nachstehender Reihenfolge vor anderen als den in Nummer 4 genannten Fahrzeugen geschleust:
 
 a)  
-ein Tagesausflugschiff, das nach einem festen Fahrplan nach § 9.01 fährt,
+ein Tagesausflugschiff, das nach einem festen Fahrplan nach § 9.01 fährt, und das kein Fahrgastboot ist;
 
 b)  
 ein Fahrzeug mit Erlaubnis der zuständigen Behörde.
@@ -7090,7 +7278,7 @@ Die Nummern 1 und 2 gelten nicht für geschobene Fahrzeuge in einem Schubverband
 ### § 6.32 Mit Radar fahrende Fahrzeuge
 
 1.  
-Ein Fahrzeug darf nur mit Radar fahren, wenn sich eine Person, die neben dem für die Fahrzeugart und die zu befahrende Strecke erforderlichen Befähigungszeugnis ein Patent nach der Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins oder ein vom Bundesministerium für Verkehr, Bau und Stadtentwicklung als gleichwertig anerkanntes und im Verkehrsblatt bekannt gemachtes Radarzeugnis besitzt, und eine zweite Person, die mit der Verwendung von Radar in der Schifffahrt hinreichend vertraut ist, ständig im Steuerhaus aufhalten. Wenn in der Fahrtauglichkeitsbescheinigung vermerkt ist, dass das Fahrzeug über einen Radareinmannsteuerstand verfügt, muss sich die zweite Person nicht ständig im Steuerhaus aufhalten.
+Ein Fahrzeug darf nur mit Radar fahren, wenn sich eine Person, die neben dem für die Fahrzeugart und die zu befahrende Strecke erforderlichen Befähigungszeugnis ein Patent nach der Verordnung über die Erteilung von Radarpatenten auf den Bundeswasserstraßen außerhalb des Rheins oder ein vom Bundesministerium für Verkehr und digitale Infrastruktur als gleichwertig anerkanntes und im Verkehrsblatt bekannt gemachtes Radarzeugnis besitzt, und eine zweite Person, die mit der Verwendung von Radar in der Schifffahrt hinreichend vertraut ist, ständig im Steuerhaus aufhalten. Wenn in der Fahrtauglichkeitsbescheinigung vermerkt ist, dass das Fahrzeug über einen Radareinmannsteuerstand verfügt, muss sich die zweite Person nicht ständig im Steuerhaus aufhalten.
 
 2.  
 Bei der Begegnung und der Vorbeifahrt ist folgendes zu beachten:
@@ -7136,7 +7324,7 @@ Sobald ein Fahrzeug über Sprechfunk von einem anderen Fahrzeug angerufen wird, 
 Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit dem kein Sprechfunkkontakt zustande kommt, muss es,
 
 a)  
-wenn es sich in der Nähe eines Ufers befindet, an diesem Ufer bleiben und dort, falls erforderlich, bis zur Beendigung der Vorbeifahrt anhalten;
+wenn es sich in der Nähe eines Ufers befindet, an diesem Ufer bleiben und dort, falls erforderlich, bis zur Beendigung der Vorbeifahrt anhalten,
 
 b)  
 wenn es gerade von einem Ufer zum anderen wechselt, die Fahrrinne so weit und so schnell wie möglich freimachen.
@@ -7161,7 +7349,7 @@ Sobald ein Fahrzeug über Sprechfunk von einem anderen Fahrzeug angerufen wird, 
 Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit dem kein Sprechfunkkontakt zustande kommt, muss es
 
 a)  
-wenn es sich in der Nähe eines Ufers befindet, an diesem Ufer bleiben und dort, falls erforderlich, bis zur Beendigung der Vorbeifahrt anhalten;
+wenn es sich in der Nähe eines Ufers befindet, an diesem Ufer bleiben und dort, falls erforderlich, bis zur Beendigung der Vorbeifahrt anhalten,
 
 b)  
 wenn es gerade von einem Ufer zum anderen wechselt, das Fahrwasser so weit und so schnell wie möglich freimachen.
@@ -7186,7 +7374,7 @@ Abschnitt VII. Pflichten
 ### § 6.35 Verhaltenspflichten
 
 1.  
-Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils die in § 6.02 Nummer 1 Satz 1 Buchstabe a, auch in Verbindung mit Satz 3, Buchstabe b und Nummer 3, § 6.02a Nummer 1, 2, 3 Satz 1 und 2, Nummer 4 Satz 1, auch in Verbindung mit Satz 2, Nummer 5 Satz 1 und 2 und Nummer 6, jeweils auch in Verbindung mit Nummer 7, § 6.03 Nummer 1 und 3, jeweils auch in Verbindung mit Nummer 2, § 6.03a Nummer 1, § 6.04 Nummer 1, 2, 3 Satz 1, 3 und 4, Nummer 4 und 5, § 6.05 Nummer 1 Satz 2 und Nummer 2 bis 4, §§ 6.07, 6.08 Nummer 1 Satz 1 und 3, §§ 6.09, 6.10, 6.11 Nummer 1 und 2 Halbsatz 1, §§ 6.12, 6.13 Nummer 1 bis 3, 4 Satz 1, §§ 6.14, 6.15, 6.16 Nummer 1 Satz 1 und 2, Nummer 2, 3, 5 Satz 2 und Nummer 6, § 6.17 Nummer 1 und 2, § 6.18 Nummer 1 und 2 Satz 2, § 6.19 Nummer 1, § 6.20 Nummer 1 und 3, § 6.22 Nummer 1 Satz 1 und Nummer 2 und 3, §§ 6.22a, 6.23, 6.24 Nummer 1 und 2 Buchstabe a, § 6.25 Nummer 1 und 2 Satz 2 Halbsatz 2, § 6.26 Nummer 1 bis 3 und Nummer 5, § 6.27 Nummer 1 Satz 1, Nummer 2 Satz 1, auch in Verbindung mit Satz 2, Nummer 3 und 4, § 6.28 Nummer 2 bis 7, Nummer 8 Satz 1 bis 3, 6 und 7, Nummer 9 bis 14, jeweils auch in Verbindung mit § 6.29a, § 6.28a Nummer 1, auch in Verbindung mit § 6.29a, § 6.28a Nummer 2 Satz 7, Nummer 3 Satz 2 und 3 und Nummer 5, jeweils auch in Verbindung mit Nummer 4 und § 6.29a, § 6.29 Nummer 1 Satz 2, Nummer 2 Satz 2, 4 und 7, Nummer 3 Satz 1, Nummer 5 Satz 2 und Nummer 7 Satz 5, jeweils auch in Verbindung mit § 6.29a, § 6.30 Nummer 1 bis 5, § 6.31 Nummer 1 und 2, jeweils auch in Verbindung mit Nummer 3 Satz 2, §§ 6.33 und 6.34 Nummer 1 bis 7 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten im Verkehr einzuhalten oder sicherzustellen, dass diese eingehalten werden.
+Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils die in § 6.02 Nummer 1 Satz 1 Buchstabe a, auch in Verbindung mit Satz 3, Buchstabe b und Nummer 3, § 6.02a Nummer 1, 2, 3 Satz 1 und 2, Nummer 4 Satz 1, auch in Verbindung mit Satz 2, Nummer 5 Satz 1 und 2 und Nummer 6, jeweils auch in Verbindung mit Nummer 7, § 6.03 Nummer 1 und 3, jeweils auch in Verbindung mit Nummer 2, § 6.03a Nummer 1, § 6.04 Nummer 1, 2, 3 Satz 1, 3 und 4, Nummer 4 und 5, § 6.05 Nummer 1 Satz 2 und Nummer 2 bis 4, §§ 6.07, 6.08 Nummer 1 Satz 1 und 3, §§ 6.09, 6.10, 6.11 Nummer 1 und 2 Halbsatz 1, §§ 6.12, 6.13 Nummer 1 bis 3, 4 Satz 1, §§ 6.14, 6.15, 6.16 Nummer 1 Satz 1 und 2, Nummer 2, 3, 5 Satz 2 und Nummer 6, § 6.17 Nummer 1 und 2, § 6.18 Nummer 1 und 2 Satz 2, § 6.19 Nummer 1, § 6.20 Nummer 1 und 3, § 6.22 Nummer 1 Satz 1 und Nummer 2 und 3, §§ 6.22a, 6.23, 6.24 Nummer 1 und 2 Buchstabe a, § 6.25 Nummer 1 und 2 Satz 2 Halbsatz 2, § 6.26 Nummer 1 bis 3 und Nummer 5, § 6.27 Nummer 1 Satz 1, Nummer 2 Satz 1, auch in Verbindung mit Satz 2, Nummer 3 und 4, § 6.28 Nummer 2 bis 7, Nummer 8 Satz 1 bis 3, 6 und 7, Nummer 9 bis 14, jeweils auch in Verbindung mit § 6.29a, § 6.28a Nummer 1, auch in Verbindung mit § 6.29a, § 6.28a Nummer 2 Satz 7, Nummer 3 Satz 2 und 3 und Nummer 5, jeweils auch in Verbindung mit Nummer 4 und § 6.29a, § 6.29 Nummer 1 Satz 2, Nummer 2 Satz 2, 4 und 7, Nummer 3 Satz 1, Nummer 5 Satz 2 und Nummer 7 Satz 5, jeweils auch in Verbindung mit § 6.29a, § 6.30 Nummer 1 bis 5, § 6.31 Nummer 1 und 2, jeweils auch in Verbindung mit Nummer 3 Satz 2, §§ 6.33 und 6.34 Nummer 1 bis 7, jeweils auch in Verbindung mit Nummer 8 Satz 1, vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten im Verkehr einzuhalten oder sicherzustellen, dass diese eingehalten werden.
 
 2.  
 Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils sicherzustellen, dass die Tafel und die Leuchte des Funkellichts nach § 6.04 Nummer 3 Satz 1 Buchstabe a und b jeweils den Anforderungen nach § 6.04 Nummer 3 Satz 2 entsprechen.
@@ -7195,7 +7383,7 @@ Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit v
 Der Schiffsführer hat die in § 6.21 Nummer 1 bis 3 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über die Zusammenstellung der Verbände einzuhalten oder sicherzustellen, dass diese eingehalten werden.
 
 4.  
-Der Schiffsführer hat die in § 6.28 Nummer 16 und 17 Satz 2, jeweils auch in Verbindung mit § 6.29a, § 6.29 Nummer 2 Satz 5 und Nummer 7 Satz 4, jeweils auch in Verbindung mit § 6.29a, § 6.32 Nummer 1 Satz 1 und Nummer 2 und 3 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten im Verkehr einzuhalten oder sicherzustellen, dass diese eingehalten werden.
+Der Schiffsführer hat die in § 6.28 Nummer 15, 16 und 17 Satz 2, jeweils auch in Verbindung mit § 6.29a, § 6.29 Nummer 2 Satz 5 und Nummer 7 Satz 4, jeweils auch in Verbindung mit § 6.29a, § 6.32 Nummer 1 Satz 1 und Nummer 2 und 3 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten im Verkehr einzuhalten oder sicherzustellen, dass diese eingehalten werden.
 
 5.  
 Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn die in § 6.21 Nummer 1 bis 3 vorgesehenen Gebote oder Verbote über die Zusammenstellung der Verbände eingehalten werden können.
@@ -7973,7 +8161,7 @@ Bei der Ausführung der Maßnahmen nach den Nummern 3 bis 5 sind Strömung und W
 Die Maßnahmen nach den Nummern 3 bis 5, jeweils in Verbindung mit Nummer 6, sind auf einem Fahrzeug auch dann zu ergreifen, wenn das Bleib-weg-Signal am Ufer ausgelöst wird.
 
 8.  
-Der Schiffsführer, der das Bleib-weg-Signal wahrnimmt, muss hiervon nach den gegebenen Möglichkeiten die nächste Dienststelle der Wasser- und Schifffahrtsverwaltung des Bundes oder die nächste Dienststelle der Wasserschutzpolizei sofort unterrichten.
+Der Schiffsführer, der das Bleib-weg-Signal wahrnimmt, muss hiervon nach den gegebenen Möglichkeiten die nächste Dienststelle der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder die nächste Dienststelle der Wasserschutzpolizei sofort unterrichten.
 
 ### § 8.10 Bade- und Schwimmverbot
 
@@ -7998,10 +8186,10 @@ im Arbeitsbereich von schwimmenden Geräten,
 <tr class="odd">
 <td><dl>
 <dt>d)</dt>
-<dd>an einer durch das Tafelzeichen A.19 bezeichneten Stelle.
+<dd>an einer durch das Tafelzeichen A.20 bezeichneten Stelle.
 </dd>
 </dl></td>
-<td><img src="bgbl1_2012_j0001_0198_ab1.jpg" /></td>
+<td>A.20<img src="bgbl1_2014_j0610-1_0310.jpg" width="86" height="86" /></td>
 </tr>
 </tbody>
 </table>
@@ -8068,9 +8256,6 @@ Diese Flagge muss an einer geeigneten Stelle und so hoch geführt werden, dass s
 
 ### § 8.13 Verbot des Kitesurfens
 
-1.  
-Jede Betätigung, bei der eine Person, von einem Drachen oder Fallschirm gezogen, auf einem Surfboard, auf Wasserskiern oder auf sonstigen Gegenständen über das Wasser gleitet (Kitesurfen), ist verboten.
-
 <table>
 <colgroup>
 <col width="50%" />
@@ -8079,16 +8264,19 @@ Jede Betätigung, bei der eine Person, von einem Drachen oder Fallschirm gezogen
 <tbody>
 <tr class="odd">
 <td><dl>
-<dt>2.</dt>
-<dd>Auf Wasserstraßen im Bereich der Wasser- und Schifffahrtsdirektion<br />
-Ost kann die Wasser- und Schifffahrtsdirektion das Kitesurfen ganz<br />
-oder teilweise erlauben, soweit die übrige Schifffahrt nicht beein-<br />
-trächtigt wird. Die im Bereich der Wasser- und Schifffahrtsdirektion<br />
-Ost für das Kitesurfen freigegebenen Strecken werden durch das<br />
-nachstehende Tafelzeichen E.24 gekennzeichnet:
+<dt>1.</dt>
+<dd>Jede Betätigung, bei der eine Person, von einem Drachen oder Fallschirm gezogen, auf einem Surfboard, auf Wasserskiern oder auf sonstigen Gegenständen über das Wasser gleitet (Kitesurfen), ist verboten.
 </dd>
 </dl></td>
-<td><img src="bgbl1_2012_j0001_0202_ab1.jpg" /></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><dl>
+<dt>2.</dt>
+<dd>Auf Wasserstraßen im Anwendungsbereich der Kapitel 21, 22 und 24 kann die Generaldirektion Wasserstraßen und Schifffahrt das Kitesurfen ganz oder teilweise erlauben, soweit die übrige Schifffahrt nicht beeinträchtigt wird. Die für das Kitesurfen freigegebenen Strecken werden durch das nebenstehende Tafelzeichen E.24 gekennzeichnet:
+</dd>
+</dl></td>
+<td>E.24 <img src="bgbl1_2016_j1257-1_0010.jpg" width="300" height="300" /></td>
 </tr>
 </tbody>
 </table>
@@ -8102,7 +8290,7 @@ Der Schiffsführer, die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit vera
 Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben die in § 8.07 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über die Sprechverbindung auf einem Verband einzuhalten oder sicherzustellen, dass diese eingehalten werden.
 
 3.  
-Der Schiffsführer hat die in § 8.02 Nummer 1 Satz 1 und Nummer 2 Satz 1, § 8.04 Nummer 1 und 2 Halbsatz 1 und § 8.06 Nummer 1, auch in Verbindung mit Nummer 4, Nummer 2 und 3 vorgesehenen Gebote oder Verbote über die Fortbewegung eines Verbandes einzuhalten oder sicherzustellen, dass diese eingehalten werden.
+Der Schiffsführer hat die in § 8.02 Nummer 1 Satz 1 und Nummer 2 Satz 1, § 8.03, § 8.04 Nummer 1 und 2 Halbsatz 1 und § 8.06 Nummer 1, auch in Verbindung mit Nummer 4, Nummer 2 und 3 vorgesehenen Gebote oder Verbote über die Fortbewegung eines Verbandes einzuhalten oder sicherzustellen, dass diese eingehalten werden.
 
 4.  
 Der Schiffsführer hat die in § 8.05 vorgesehenen Gebote über die Fortbewegung eines Schubleichters außerhalb eines Schubverbandes einzuhalten oder sicherzustellen, dass diese eingehalten werden.
@@ -8120,13 +8308,13 @@ Die die Fischerei ausübende Person hat sicherzustellen, dass ein Fanggerät der
 Die für die Durchführung von Taucherarbeiten verantwortliche Person hat sicherzustellen, dass die Stelle, von der aus Taucherarbeiten durchgeführt werden, die Bezeichnung nach § 8.12 führt.
 
 9.  
-Der Eigentümer und der Ausrüster dürfen jeweils die Fortbewegung eines Verbandes nur anordnen oder zulassen, wenn die in § 8.02 Nummer 1 Satz 1 und Nummer 2 Satz 1, § 8.04 Nummer 1 und 2 Halbsatz 1 und § 8.06 Nummer 1, auch in Verbindung mit Nummer 4, Nummer 2 und 3 vorgesehenen Gebote oder Verbote über das Verhalten bei der Fortbewegung eines Verbandes eingehalten werden.
+Der Eigentümer und der Ausrüster dürfen jeweils die Fortbewegung eines Verbandes nur anordnen oder zulassen, wenn die in § 8.02 Nummer 1 Satz 1 und Nummer 2 Satz 1, § 8.03, § 8.04 Nummer 1 und 2 Halbsatz 1 und § 8.06 Nummer 1, auch in Verbindung mit Nummer 4, Nummer 2 und 3 vorgesehenen Gebote oder Verbote über das Verhalten bei der Fortbewegung eines Verbandes eingehalten werden.
 
 10.  
 Der Eigentümer und der Ausrüster dürfen jeweils die Fortbewegung eines Schubleichters außerhalb eines Schubverbandes nur anordnen oder zulassen, wenn die in § 8.05 vorgesehenen Gebote über die Fortbewegung eines Schubleichters außerhalb eines Schubverbandes eingehalten werden.
 
 11.  
-Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs nach § 8.09 Nummer 1 Buchstabe a oder b nur anordnen oder zulassen, wenn es entsprechend ausgerüstet ist, um das Bleib-weg-Signal nach § 8.09 Nummer 2 geben zu können.
+Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs nach § 8.09 Nummer 1 Satz 1 Buchstabe a oder b nur anordnen oder zulassen, wenn es entsprechend ausgerüstet ist, um das Bleib-weg-Signal nach § 8.09 Nummer 2 geben zu können.
 
 Kapitel 9 Fahrgastschifffahrt
 -----------------------------
@@ -8211,9 +8399,9 @@ Der Schiffsführer hat sicherzustellen, dass die Vorschriften über die Sicherhe
 7.  
 Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs nur dann anordnen oder zulassen, wenn die Besatzung und das Personal regelmäßig in ihren Aufgaben nach der Sicherheitsrolle nach Nummer 1 unterwiesen worden sind.
 
-### § 9.08 Personenbarkassen
+### § 9.08 Personenbarkassen und Sportfahrzeuge im Sinne des § 34 Absatz 1 der Binnenschiffsuntersuchungsordnung
 
-Die §§ 9.01, 9.02, 9.04, 9.05 und 9.06 sind auf eine Personenbarkasse entsprechend anzuwenden.
+Die §§ 9.01, 9.02, 9.04, 9.05 und 9.06 sind auf eine Personenbarkasse entsprechend anzuwenden. Die §§ 9.02, 9.04, 9.05 und 9.06 sind auf ein Sportfahrzeug im Sinne des § 34 Absatz 1 der Binnenschiffsuntersuchungsordnung entsprechend anzuwenden.
 
 Zweiter Teil Zusätzliche Bestimmungen für einzelne Binnenschifffahrtsstraßen
 ----------------------------------------------------------------------------
@@ -8347,7 +8535,7 @@ a)
 muss ein Bergfahrer seine Fahrt so einrichten, dass er beim Durchfahren der Fahrwasserenge zwischen km 146,60 bis km 148,00 (Steinbruch Kleiningersheim) einem Talfahrer nicht begegnet. Er muss, wenn eine Begegnung anders nicht vermieden werden kann, unterhalb der Fahrwasserenge anhalten, bis der Talfahrer diese durchfahren hat;
 
 b)  
-muss ein Bergfahrer oberhalb der Schleuse Pleidelsheim (bei km 146,00) mehrmals bis zur Fahrwasserenge die Talfahrer anrufen und auffordern, ihm Art, Name, Standort und Fahrtrichtung des Fahrzeugs mitzuteilen. Meldet sich kein Talfahrer, darf er in die Fahrwasserenge einfahren;
+muss ein Bergfahrer oberhalb der Schleuse Hessigheim (bei km 146,00) mehrmals bis zur Fahrwasserenge die Talfahrer anrufen und auffordern, ihm Art, Name, Standort und Fahrtrichtung des Fahrzeugs mitzuteilen. Meldet sich kein Talfahrer, darf er in die Fahrwasserenge einfahren;
 
 c)  
 muss ein Talfahrer bei km 148,50 und danach mehrmals bis zur Fahrwasserenge Art, Name, Standort und Fahrtrichtung seines Fahrzeugs ansagen. Dieselben Angaben muss er ansagen, wenn er von einem Bergfahrer angesprochen wird.
@@ -8373,7 +8561,7 @@ In allen Bereichen nach den Nummern 1 bis 4 hat der Berg- und Talfahrer zur Gew�
 
 ### § 10.07 Überholen
 
-(keine besonderen Vorschriften) 91
+(keine besonderen Vorschriften)
 
 ### § 10.08 Wenden
 
@@ -8700,7 +8888,7 @@ Das Befahren der Binnenschifffahrtsstraße oberhalb km 201,49 ist verboten. Satz
 
 (keine besonderen Vorschriften)
 
-### § 10.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+### § 10.29 Verhaltenspflichten des Schiffsführers,der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 1.  
 Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils
@@ -8820,7 +9008,7 @@ Als Verband im Sinne der Nummer 1 gelten nur ein Schubverband und gekuppelte Fah
 Die Fahrrinnentiefe
 
 a)  
-entspricht von der Mainmündung bis zur Schleusengruppe Kostheim der Fahrrinnentiefe der angrenzenden Rheinstrecke;
+entspricht von der Mainmündung bis zur Schleusengruppe Kostheim der Fahrrinnentiefe der angrenzenden Rheinstrecke,
 
 b)  
 beträgt
@@ -9143,7 +9331,7 @@ Das Befahren der Binnenschifffahrtsstraße unterhalb km 387,40 bis oberhalb der 
 
 (keine besonderen Vorschriften)
 
-### § 11.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+### § 11.29 Verhaltenspflichten des Schiffsführers,der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 1.  
 Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils
@@ -9229,7 +9417,7 @@ Kapitel 12 Main-Donau-Kanal
 Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 1.  
-dem **Main-Donau-Kanal** (MDK) von der Abzweigung aus dem Main (Ma-km 384,07) bis zur Einmündung in die Donau (Do) bei Kelheim (MDK-km 170,78/Do-km 2 411,54) einschließlich Regnitz vom Main bis unterhalb der Schleuse Bamberg und von oberhalb des Hochwassersperrtores Neuses bis unterhalb der Schleuse Hausen sowie Altmühl von unterhalb der Schleuse Dietfurt bis zur Donau;
+dem **Main-Donau-Kanal** (MDK) von der Abzweigung aus dem Main (Ma-km 384,07) bis zur Einmündung in die Donau (Do) bei Kelheim (MDK-km 170,78/Do-km 2 411,54) einschließlich Regnitz vom Main bis unterhalb der Schleuse Bamberg und von oberhalb des Hochwassersperrtores Neuses bis unterhalb der Schleuse Hausen sowie Altmühl von unterhalb der Schleuse Dietfurt bis zur Donau,
 
 2.  
 der **Regnitz** (Re)
@@ -9583,7 +9771,7 @@ Ein Schubleichter darf an der Spitze eines Verbandes nur eingesetzt werden, wenn
 
 (keine besonderen Vorschriften)
 
-### § 12.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+### § 12.29 Verhaltenspflichten des Schiffsführers,der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 1.  
 Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils
@@ -9717,7 +9905,19 @@ m</td>
 </tr>
 <tr class="even">
 <td>1.2</td>
-<td>km 137,30 (Lahnmündung) bis km 136,83<br />
+<td>km 137,30 (Lahnmündung) bis km 137,05 (Hafen Oberlahnstein)</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Fahrzeug/Verband</td>
+<td>135,00</td>
+<td>11,45</td>
+</tr>
+<tr class="even">
+<td>1.3</td>
+<td>km 137,05 bis km 136,83<br />
 (Eisenbahnbrücke Lahnstein)</td>
 <td></td>
 <td></td>
@@ -9729,7 +9929,7 @@ m</td>
 <td>11,45</td>
 </tr>
 <tr class="even">
-<td>1.3</td>
+<td>1.4</td>
 <td>km 136,83 bis km 134,10 (Unterwasser Schleuse Ahl)</td>
 <td></td>
 <td></td>
@@ -9741,7 +9941,7 @@ m</td>
 <td>5,80</td>
 </tr>
 <tr class="even">
-<td>1.4</td>
+<td>1.5</td>
 <td>km 134,10 bis km 70,00 (Steeden)</td>
 <td></td>
 <td></td>
@@ -9868,7 +10068,7 @@ Die zuständige Behörde kann abweichend von Nummer 2 Ausnahmen zulassen.
 
 (keine besonderen Vorschriften)
 
-### § 13.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
+### § 13.18 Durchfahren der Brücken, Sperrwerke,Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
 
@@ -9912,7 +10112,7 @@ Die zuständige Behörde kann abweichend von Nummer 2 Ausnahmen zulassen.
 
 (keine besonderen Vorschriften)
 
-### § 13.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+### § 13.29 Verhaltenspflichten des Schiffsführers,der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 1.  
 Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils
@@ -10113,7 +10313,7 @@ Ein Fahrzeug, ein Verband oder ein Sondertransport nach § 1.21, das oder der au
 
 (keine besonderen Vorschriften)
 
-### § 14.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
+### § 14.18 Durchfahren der Brücken, Sperrwerke,Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
 
@@ -10157,7 +10357,7 @@ Eine frei fahrende Fähre mit Maschinenantrieb, die im Übersetzverkehr keine L�
 
 (keine besonderen Vorschriften)
 
-### § 14.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+### § 14.29 Verhaltenspflichten des Schiffsführers,der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 1.  
 Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils
@@ -10202,46 +10402,48 @@ Kapitel 15 Norddeutsche Kanäle
 Die Vorschriften dieses Kapitels gelten auf den **Norddeutschen Kanälen**. Hierzu gehören im Sinne dieses Kapitels
 
 1.  
-die **Ruhr** (Ru) von der Mündung in den Rhein (Ru-km 0,00/Rh-km 780,14) bis oberhalb der Schlossbrücke in Mülheim (Ru-km 12,21), die vom Rhein bis zum Verbindungskanal als zweite Einmündung des Rhein-Herne-Kanals gilt;
+die **Ruhr** (Ru) von der Mündung in den Rhein (Ru-km 0,00/Rh-km 780,14) bis oberhalb der Schlossbrücke in Mülheim (Ru-km 12,21), die vom Rhein bis zum Verbindungskanal als zweite Einmündung des Rhein-Herne-Kanals gilt,
 
 2.  
-der **Rhein-Herne-Kanal** (RHK) von der Abzweigung aus dem Ruhrorter Hafen, Einmündung des Beckens C (RHK-km 0,16), bis zur Einmündung in den Dortmund-Ems-Kanal (DEK) bei dem unteren Vorhafen des alten Hebewerkes Henrichenburg (RHK-km 45,60/DEK-km 15,45) mit Verbindungskanal zur Ruhr;
+der **Rhein-Herne-Kanal** (RHK) von der Abzweigung aus dem Ruhrorter Hafen, Einmündung des Beckens C (RHK-km 0,16), bis zur Einmündung in den Dortmund-Ems-Kanal (DEK) bei dem unteren Vorhafen des alten Hebewerkes Henrichenburg (RHK-km 45,60/DEK-km 15,45) mit Verbindungskanal zur Ruhr,
 
 3.  
-der **Wesel-Datteln-Kanal** (WDK) von der Abzweigung aus dem Rhein (WDK-km 0,24/Rh-km 813,24) bis zur Einmündung in den Dortmund-Ems-Kanal bei Datteln (WDK-km 60,23/DEK-km 21,33);
+der **Wesel-Datteln-Kanal** (WDK) von der Abzweigung aus dem Rhein (WDK-km 0,24/Rh-km 813,24) bis zur Einmündung in den Dortmund-Ems-Kanal bei Datteln (WDK-km 60,23/DEK-km 21,33),
 
 4.  
-der **Datteln-Hamm-Kanal** (DHK) von der Abzweigung aus dem Dortmund-Ems-Kanal bei Datteln (DHK-km 0,06/DEK-km 19,51) bis Schmehausen (DHK-km 47,20);
+der **Datteln-Hamm-Kanal** (DHK) von der Abzweigung aus dem Dortmund-Ems-Kanal bei Datteln (DHK-km 0,06/DEK-km 19,51) bis Schmehausen (DHK-km 47,20),
 
 5.  
-der **Dortmund-Ems-Kanal** (DEK) mit Ersten Fahrten vom Hafen Dortmund (DEK-km 1,44) und von der Einmündung des Rhein-Herne-Kanals bei Henrichenburg (DEK-km 15,45/RHK-km 45,60) bis zur Mündung in die Ems (Verbindungslinie bei Papenburg zwischen dem ehemaligen Diemer Schöpfwerk und dem Deichdurchlass bei Halte- DEK-km 225,82) einschließlich **Ems** von Gleesen (DEK-km 138,26) bis Hanekenfähr (DEK-km 139,99), **Hase** von der Einmündung in den Dortmund-Ems-Kanal (DEK-km 165,93) bis zur Mündung in die Ems (DEK-km 166,59) und **Ems** von Meppen (DEK-km 166,59) bis Papenburg (DEK-km 225,82) mit den Altkanälen Ems-Hase-Kanal Hanekenfähr und Ems-Hase-Kanal Meppen;
+der **Dortmund-Ems-Kanal** (DEK) mit Ersten Fahrten vom Hafen Dortmund (DEK-km 1,44) und von der Einmündung des Rhein-Herne-Kanals bei Henrichenburg (DEK-km 15,45/RHK-km 45,60) bis zur Mündung in die Ems (Verbindungslinie bei Papenburg zwischen dem ehemaligen Diemer Schöpfwerk und dem Deichdurchlass bei Halte- DEK-km 225,82) einschließlich **Ems** von Gleesen (DEK-km 138,26) bis Hanekenfähr (DEK-km 139,99), **Hase** von der Einmündung in den Dortmund-Ems-Kanal (DEK-km 165,93) bis zur Mündung in die Ems (DEK-km 166,59) und **Ems** von Meppen (DEK-km 166,59) bis Papenburg (DEK-km 225,82) mit den Altkanälen Ems-Hase-Kanal Hanekenfähr und Ems-Hase-Kanal Meppen,
 
 6.  
-die **Ems** (Em) von oberhalb der Eisenbahnbrücke südlich Rheine (Em-km 44,77) bis zur Einmündung in den Dortmund-Ems-Kanal bei Gleesen (Em-km 82,65/DEK-km 138,25) und von der Abzweigung aus dem Dortmund-Ems-Kanal bei Haneckenfähr (Em-km 84,41/DEK-km 139,97) bis zur Einmündung in den Dortmund-Ems-Kanal bei Meppen (Em-km 124,10/DEK-km 166,59);
+die **Ems** (Em) von oberhalb der Eisenbahnbrücke südlich Rheine (Em-km 44,77) bis zur Einmündung in den Dortmund-Ems-Kanal bei Gleesen (Em-km 82,65/DEK-km 138,25) und von der Abzweigung aus dem Dortmund-Ems-Kanal bei *Haneckenfähr*(Em-km 84,41/DEK-km 139,97) bis zur Einmündung in den Dortmund-Ems-Kanal bei Meppen (Em-km 124,10/DEK-km 166,59),
 
 7.  
-die **Hase** (Ha) von oberhalb der Einmündung des Ems-Hase-Kanals (Ha-km 165,02) bis zur Einmündung in den Dortmund-Ems-Kanal (Ha-km 165,94);
+die **Hase** (Ha) von oberhalb der Einmündung des Ems-Hase-Kanals (Ha-km 165,02) bis zur Einmündung in den Dortmund-Ems-Kanal (Ha-km 165,94),
 
 8.  
-der **Küstenkanal** (KüK) von 140,00 m unterhalb der Amalienbrücke in Oldenburg (KüK-km 0,00), einschließlich **Hunte** von der Einmündung des Landesgewässers Hunte bis 140,00 m unterhalb der Amalienbrücke in Oldenburg, bis zur Einmündung in den Dortmund-Ems-Kanal (Ems) bei Dörpen (KüK-km 69,63/DEK-km 202,55) mit Stichkanal Dörpen von km 64,47 bis km 65,36 (Abzweigung aus dem Küstenkanal bei KüK-km 64,16);
+der **Küstenkanal** (KüK) von 140,00 m unterhalb der Amalienbrücke in Oldenburg (KüK-km 0,00), einschließlich **Hunte** von der Einmündung des Landesgewässers Hunte bis 140,00 m unterhalb der Amalienbrücke in Oldenburg, bis zur Einmündung in den Dortmund-Ems-Kanal (Ems) bei Dörpen (KüK-km 69,63/DEK-km 202,55) mit Stichkanal Dörpen von km 64,47 bis km 65,36 (Abzweigung aus dem Küstenkanal bei KüK-km 64,16),
 
 9.  
-der **Elisabethfehnkanal** (EFK) von der Abzweigung aus dem Küstenkanal bei Kampe (EFK-km 0,04/KüK-km 29,30) bis zur Einmündung in die Sagter Ems (EFK-km 14,83);
+der **Elisabethfehnkanal** (EFK) von der Abzweigung aus dem Küstenkanal bei Kampe (EFK-km 0,04/KüK-km 29,30) bis zur Einmündung in die Sagter Ems (EFK-km 14,83),
 
 10.  
-die **Leda** (Ld) von der Einmündung der Sagter Ems (Ld-km 0,56) bis zur Einfahrt in den Vorhafen der Seeschleuse Leer (Ld-km 22,94) und die **Sagter Ems** (SEm) von der Einmündung des Elisabethfehnkanals (SEm-km 0,00) bis zur Leda (Ld-km 0,56);
+die **Leda** (Ld) von der Einmündung der Sagter Ems (Ld-km 0,56) bis zur Einfahrt in den Vorhafen der Seeschleuse Leer (Ld-km 22,94) und die **Sagter Ems** (SEm) von der Einmündung des Elisabethfehnkanals (SEm-km 0,00) bis zur Leda (Ld-km 0,56),
 
 11.  
-der **Ems-Seitenkanal** (EmK) von der Abzweigung aus der Ems in Oldersum (UEm-km 30,34/EmK-km 256,28) bis zum Unterhaupt der Borßumer Schleuse in Emden (EmK-km 265,34);
+der **Ems-Seitenkanal** (EmK) von der Abzweigung aus der Ems in Oldersum (UEm-km 30,34/EmK-km 256,28) bis zum Unterhaupt der Borßumer Schleuse in Emden (EmK-km 265,34),
 
 12.  
-der **Mittellandkanal** (MLK) von der Abzweigung aus dem Dortmund-Ems-Kanal bei Bergeshövede (MLK-km 0,01/DEK-km 108,36) bis zur Einmündung in den Elbe-Havel-Kanal bei Hohenwarthe (MLK/EHK-km 325,70) mit Erste Fahrten, Stichkanal Ibbenbüren bis km 1,11, Stichkanal Osnabrück bis km 13,00, Verbindungskanal Nord zur Weser, Verbindungskanal Süd zur Weser, Stichkanal Hannover-Linden bis km 10,75 nebst Verbindungskanal zur Leine, Stichkanal Misburg bis km 0,92, Stichkanal Hildesheim bis km 14,40, Stichkanal Salzgitter bis km 17,96, Rothenseer Verbindungskanal (zur Elbe);
+der **Mittellandkanal** (MLK) von der Abzweigung aus dem Dortmund-Ems-Kanal bei Bergeshövede (MLK-km 0,01/DEK-km 108,36) bis zur Einmündung in den Elbe-Havel-Kanal bei Hohenwarthe (MLK/EHK-km 325,70) mit Erste Fahrten, Stichkanal Ibbenbüren bis km 1,11, Stichkanal Osnabrück bis km 13,01, Verbindungskanal Nord zur Weser, Verbindungskanal Süd zur Weser, Stichkanal Hannover-Linden bis km 10,75 nebst Verbindungskanal zur Leine, Stichkanal Misburg bis km 0,92, Stichkanal Hildesheim bis km 14,40, Stichkanal Salzgitter bis km 17,96, Rothenseer Verbindungskanal (zur Elbe),
 
 13.  
 der **Elbe-Seitenkanal** (ESK) von der Abzweigung aus dem Mittellandkanal bei Edesbüttel (ESK-km 0,04/MLKkm 233,65) bis zur Einmündung in die Elbe (El) bei Artlenburg (ESK-km 115,18/El-km 572,97) und
 
 14.  
 der **Elbe-Havel-Kanal** (EHK) von dem Übergang aus dem Mittellandkanal bei Hohenwarthe (MLK/EHK-km 325,70) bis zum Abzweig aus der Unteren Havel-Wasserstraße (EHK-km 380,90) einschließlich Großer Wendsee mit Niegripper Verbindungskanal (zur Elbe), Niegripper Altkanal bis km 0,45, Pareyer Verbindungskanal (zur Elbe) nebst Baggerelbe, Bergzower Altkanal (BAK) von BAK-km 28,62 bis zur Einmündung in den Elbe-Havel-Kanal (BAK-km 30,04/EHK-km 355,16), Altenplathower Altkanal, Roßdorfer Altkanal, Woltersdorfer Altkanal, Wasserstraße Kleiner Wendsee-Wusterwitzer See (WWW) von der Einmündung in den Elbe-Havel-Kanal (WWW-km 0,50/EHKkm 378,99) bis Wusterwitz (WWW-km 3,93).
+
+§ 15.01 Nr. 6: Kursivdruck müsste richtig „Hanekenfähr“ lauten
 
 ### § 15.02 Abmessungen der Fahrzeuge und Verbände, Abladetiefe
 
@@ -10302,7 +10504,7 @@ Verband
 
 3,00
 
-— die zulässige Abladetiefe darf überschritten werden, wenn der Wasserstand des Rheins eine größere Abladetiefe gestattet, die Vorschrift des § 1.07 Nummer 1 bleibt unberührt; die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 290 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –
+— die zulässige Abladetiefe darf überschritten werden, wenn der Wasserstand des Rheins eine größere Abladetiefe gestattet, die Vorschrift des § 1.07 Nummer 1 bleibt unberührt; die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 298 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –
 
 1.1.3
 
@@ -10326,7 +10528,7 @@ Verband
 
 3,00
 
-— die zulässige Abladetiefe darf überschritten werden, wenn der Wasserstand des Rheins eine größere Abladetiefe gestattet, die Vorschrift des § 1.07 Nummer 1 bleibt unberührt; die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 290 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –
+— die zulässige Abladetiefe darf überschritten werden, wenn der Wasserstand des Rheins eine größere Abladetiefe gestattet, die Vorschrift des § 1.07 Nummer 1 bleibt unberührt; die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 298 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –
 
 1.1.4
 
@@ -10350,7 +10552,7 @@ Verband
 
 3,00
 
-— die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 290 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –
+— die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Ruhrort unter die Marke 298 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –
 
 1.1.5
 
@@ -10462,19 +10664,19 @@ Verband
 
 3,00
 
-— die zulässigen Abladetiefen verringern sich, wenn der Wasserstand des Rheins am Pegel Ruhrort
+– die zulässigen Abladetiefen verringern sich, wenn der Wasserstand des Rheins am Pegel Ruhrort
 
 a)  
-bei einer Abladetiefe von 3,00 m unter die Marke 260,
+bei einer Abladetiefe von 3,00 m unter die Marke 268,
 
 b)  
-bei einer Abladetiefe von 2,80 m unter die Marke 240,
+bei einer Abladetiefe von 2,80 m unter die Marke 248,
 
 c)  
-bei einer Abladetiefe von 2,60 m unter die Marke 220 und
+bei einer Abladetiefe von 2,60 m unter die Marke 228 und
 
 d)  
-bei einer Abladetiefe von 2,50 m unter die Marke 210 sinkt,
+bei einer Abladetiefe von 2,50 m unter die Marke 218 sinkt,
 
 um das Maß des jeweiligen Absinkens des Wasserstandes –
 
@@ -10552,7 +10754,7 @@ Verband
 
 — von km 0,24 (Rhein) bis km 0,90 (Rhein-Lippe-Hafen) darf die zulässige Abladetiefe überschritten werden, wenn der Wasserstand des Rheins eine größere Abladetiefe gestattet; die Vorschrift des § 1.07 Nummer 1 bleibt unberührt,
 
-von km 0,24 bis km 1,85 (Schleuse Friedrichsfeld) verringert sich die zulässige Abladetiefe, wenn der Wasserstand des Rheins am Pegel Wesel unter die Marke 200 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –
+von km 0,24 bis km 1,85 (Schleuse Friedrichsfeld) verringert sich die zulässige Abladetiefe, wenn der Wasserstand des Rheins am Pegel Wesel unter die Marke 222 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –
 
 soweit nachfolgend nicht etwas anderes festgelegt ist
 
@@ -10569,7 +10771,7 @@ Verband
 
 2,80
 
-— die zulässige Abladetiefe darf überschritten werden, wenn der Wasserstand des Rheins eine größere Abladetiefe gestattet, die Vorschrift des § 1.07 Nummer 1 bleibt unberührt; die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Wesel unter die Marke 200 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –
+— die zulässige Abladetiefe darf überschritten werden, wenn der Wasserstand des Rheins eine größere Abladetiefe gestattet, die Vorschrift des § 1.07 Nummer 1 bleibt unberührt; die zulässige Abladetiefe verringert sich, wenn der Wasserstand des Rheins am Pegel Wesel unter die Marke 222 sinkt, um das Maß des jeweiligen Absinkens des Wasserstandes –
 
 Ein Fahrzeug oder ein Schubverband mit jeweils einer Länge von mehr als 90,00 m oder einer Breite von mehr als 9,65 m oder mit einer Abladetiefe von mehr als 2,50 m darf nur fahren, wenn es oder er mit einer aktiven Bugsteuereinrichtung oder einem Zweischraubenantrieb und einer Sprechverbindung zwischen Steuerstand und Spitze des Fahrzeugs oder Verbandes ausgerüstet ist.
 
@@ -10787,6 +10989,10 @@ Fahrzeug
 
 je nach Wasserstand
 
+1.7
+
+ohne Inhalt
+
 1.8
 
 **Küstenkanal**
@@ -10963,19 +11169,31 @@ Schubverband
 
 **Stichkanal Osnabrück**
 
+1.12.3.1.1
+
+km 0,00 bis km 13,01
+
 Fahrzeug/Schubverband
-
-82,00
-
-9,00
-
-2,20
 
 82,00
 
 9,60
 
-2,00
+2,30
+
+soweit nachfolgend nicht etwas anderes festgelegt ist
+
+1.12.3.1.2
+
+km 0,00 bis km 12,25 (Einfahrt in den Ölhafen)
+
+Fahrzeug/Schubverband
+
+82,00
+
+9,60
+
+2,80
 
 1.12.3.2
 
@@ -11155,7 +11373,7 @@ Schubverband
 
 1.12.7.1
 
-Erste Fahrt Rothensee mit Schiffshebewerk (ehemalige Bezeichnung: Alte Fahrt): km 320,30R (oberer Vorhafen Schiffshebewerk Rothensee) bis km 320,65R (unterer Vorhafen Schiffshebewerk Rothensee)
+Rothenseer Verbindungskanal Altstrecke mit Schiffshebewerk Rothensee km 0,12 bis km 1,00
 
 Fahrzeug/Verband
 
@@ -11173,7 +11391,7 @@ Fahrzeug/Verband
 
 1.12.7.2
 
-Rothenseer Verbindungskanal mit Schiffsschleuse (ehemalige Bezeichnung: Neue Fahrt): km 319,59R (oberer Vorhafen Schleuse Rothensee) bis km 323,60R (Einfahrt in den Hafen)
+Rothenseer Verbindungskanal mit Schiffsschleuse km 0,19 bis km 3,96 (Einfahrt in den Hafen)
 
 a)  
 Fahrzeug
@@ -11185,7 +11403,7 @@ Fahrzeug
 je nach Fahrrinnentiefe
 
 b)  
-Schubverband
+Verband
 
 185,00
 
@@ -11193,11 +11411,11 @@ Schubverband
 
 je nach Fahrrinnentiefe
 
-— die Fahrrinnentiefe richtet sich vom unteren Vorhafen der Schleuse Rothensee und vom unteren Vorhafen des Schiffshebewerkes Rothensee bis zur Einmündung in die Elbe nach dem Wasserstand; die geringste Fahrrinnentiefe wird von der zuständigen Behörde täglich bekannt gemacht; bei der Wahl der Abladetiefe sind die bekannt gemachten Fahrrinnentiefen und die aktuelle Wasserstandsentwicklung zu berücksichtigen –
+– die Fahrrinnentiefe richtet sich vom unteren Vorhafen der Schleuse Rothensee und vom unteren Vorhafen des Schiffshebewerkes Rothensee bis zur Einmündung in die Elbe nach dem Wasserstand; die geringste Fahrrinnentiefe wird von der zuständigen Behörde täglich bekannt gemacht; bei der Wahl der Abladetiefe sind die bekannt gemachten Fahrrinnentiefen und die aktuelle Wasserstandsentwicklung zu berücksichtigen –
 
 1.12.7.3
 
-km 323,60R (Einfahrt in den Hafen) bis km 325,12 (Elbe)
+km 3,96 (Einfahrt in den Hafen) bis km 5,53 (Elbe)
 
 a)  
 Fahrzeug
@@ -11223,7 +11441,7 @@ je nach Fahrrinnentiefe
 
 je nach Fahrrinnentiefe
 
-— die Fahrrinnentiefe richtet sich vom unteren Vorhafen der Schleuse Rothensee und vom unteren Vorhafen des Schiffshebewerkes Rothensee bis zur Einmündung in die Elbe nach dem Wasserstand; die geringste Fahrrinnentiefe wird von der zuständigen Behörde täglich bekannt gemacht; bei der Wahl der Abladetiefe sind die bekannt gemachten Fahrrinnentiefen und die aktuelle Wasserstandsentwicklung zu berücksichtigen –
+– die Fahrrinnentiefe richtet sich vom unteren Vorhafen der Schleuse Rothensee und vom unteren Vorhafen des Schiffshebewerkes Rothensee bis zur Einmündung in die Elbe nach dem Wasserstand; die geringste Fahrrinnentiefe wird von der zuständigen Behörde täglich bekannt gemacht; bei der Wahl der Abladetiefe sind die bekannt gemachten Fahrrinnentiefen und die aktuelle Wasserstandsentwicklung zu berücksichtigen –
 
 1.13
 
@@ -11562,7 +11780,7 @@ b)
 in den Mündungsstrecken der **Ruhr** von km 0,00 bis km 0,80 und des **Wesel-Datteln-Kanals** von km 0,24 bis km 0,90 bis zu einer Breite von 22,90 m,
 
 c)  
-auf dem **Rothenseer Verbindungskanal** von der Einfahrt in den Hafen (km 323,60R) bis zur Elbe (km 325,12),
+auf dem **Rothenseer Verbindungskanal** von der Einfahrt in den Hafen (km 3,96) bis zur Elbe (km 5,53),
 
 d)  
 auf dem **Niegripper Verbindungskanal** von der Elbe (km 1,50) bis zur Schleuse Niegripp.
@@ -11864,7 +12082,7 @@ bb)
 ist vorauszusehen, dass eine Begegnung mit einem zu Tal fahrenden Fahrzeug oder einem zu Tal fahrenden Verband stattfinden würde, muss das zu Berg fahrende Fahrzeug oder der zu Berg fahrende Verband unterhalb der Strecken anhalten, bis das zu Tal fahrende Fahrzeug oder der zu Tal fahrende Verband diese durchfahren hat;
 
 cc)  
-ist ein zu Berg fahrendes Fahrzeug oder ein zu Berg fahrender Verband bereits vorher in die Strecken hineingefahren, so muss das zu Tal fahrende Fahrzeug oder der zu Tal fahrende Verband oberhalb der Strecken anhalten, bis das zu Berg fahrende Fahrzeug oder der zu Berg fahrende Verband diese durchfahren hat.
+ist ein zu Berg fahrendes Fahrzeug oder ein zu Berg fahrender Verband bereits vorher in die Strecken hineingefahren, so muss das zu Tal fahrende Fahrzeug oder der zu Tal fahrende Verband oberhalb der Strecken anhalten, bis das zu Berg fahrende Fahrzeug oder der zu Berg fahrende Verband diese durchfahren hat;
 
 b)  
 |                        |                          |
@@ -12042,8 +12260,8 @@ auf dem **Wesel-Datteln-Kanal**, dem **Küstenkanal** mit dem **Stichkanal Dörp
 
 |                                     |
 |-------------------------------------|
-| 1,70 m bei einer Breite von 6,25 m, |
-| 1,40 m bei einer Breite bis 8,20 m, |
+| 1,70 m bei einer Breite von 6,25 m; |
+| 1,40 m bei einer Breite bis 8,20 m; |
 | 1,30 m bei einer Breite bis 9,50 m; |
 
 f)  
@@ -12051,9 +12269,9 @@ auf dem **Rothenseer Verbindungskanal** und dem **Elbe-Havel-Kanal**, wenn ein F
 
 |                                                                 |
 |-----------------------------------------------------------------|
-| 1,70 m bei einer Breite bis 6,20 m und einer Länge bis 42,00 m, |
-| 1,60 m bei einer Breite bis 6,25 m und einer Länge bis 53,00 m, |
-| 1,40 m bei einer Breite bis 8,25 m und einer Länge bis 80,00 m, |
+| 1,70 m bei einer Breite bis 6,20 m und einer Länge bis 42,00 m; |
+| 1,60 m bei einer Breite bis 6,25 m und einer Länge bis 53,00 m; |
+| 1,40 m bei einer Breite bis 8,25 m und einer Länge bis 80,00 m; |
 | 1,30 m bei einer Breite bis 8,25 m und einer Länge bis 82,00 m. |
 
 4.  
@@ -12287,7 +12505,7 @@ Ein Fahrzeug, ein Verband oder ein Sondertransport nach § 1.21, das oder der au
 
 (keine besonderen Vorschriften)
 
-### § 15.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
+### § 15.18 Durchfahren der Brücken, Sperrwerke,Wehre, Schleusen und einzelner Stromstrecken
 
 1.  
 An der Hase-Hubbrücke in Meppen werden die Signallichter nach § 6.26 Nummer 4 und 5 nur gezeigt, wenn die Durchfahrtshöhe von 4,25 m durch steigende Wasserstände unterschritten wird. Die Durchfahrtshöhe wird an den Brückenpegeln angezeigt.
@@ -12319,14 +12537,7 @@ Alle Anhänge eines Schleppverbandes müssen das Hecklicht führen. Dieses ist, 
 
 ### § 15.22 Regelungen über den Verkehr
 
-1.  
-Ein motorgetriebenes Kleinfahrzeug darf die **Kanalbrücke des Mittellandkanals** (km 321,25 bis km 322,40) nur zusammen und hinter einem Fahrzeug der Berufsschifffahrt befahren, unabhängig von seiner Ausstattung mit Funk. Satz 1 gilt nicht für ein in § 1.24 genanntes Fahrzeug.
-
-2.  
-Abweichend von Nummer 1 Satz 1 kann von der Schleusenaufsicht der Schleuse Hohenwarthe das Befahren der **Kanalbrücke des Mittellandkanals** (km 321,25 bis km 322,40) auch einem einzeln fahrenden Fahrzeug genehmigt werden.
-
-3.  
-Das Befahren der **Kanalbrücke des Mittellandkanals** von km 320,58 bis km 322,84 mit einem muskelkraftbetriebenen Fahrzeug ist verboten.
+(keine besonderen Vorschriften)
 
 ### § 15.23 Regelungen zum Sprechfunk
 
@@ -12364,7 +12575,7 @@ Das Befahren der Altkanäle **Ems-Hase-Kanal, Hanekenfähr und Meppen,** der **E
 
 (keine besonderen Vorschriften)
 
-### § 15.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+### § 15.29 Verhaltenspflichten des Schiffsführers,der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 1.  
 Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils
@@ -12391,12 +12602,9 @@ cc)
 das Wenden nach § 15.08,
 
 dd)  
-die Durchfahrt und das Verhalten beim Durchfahren des Sperrwerks Leda nach § 15.18 Nummer 4,
+die Durchfahrt und das Verhalten beim Durchfahren des Sperrwerks Leda nach § 15.18 Nummer 4 und
 
 ee)  
-das Befahren der Kanalbrücke des Mittellandkanals von km 321,25 bis km 322,40 nach § 15.22 Nummer 1 Satz 1 und
-
-ff)  
 den Sprechfunk auf einer Seilfähre nach § 15.23 Satz 1 in Verbindung mit § 4.05 Nummer 3
 
 einzuhalten oder sicherzustellen, dass diese eingehalten werden, und
@@ -12414,7 +12622,7 @@ aa)
 das von ihm geführte Fahrzeug oder der von ihm geführte Verband
 
 aaa)  
-die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.5, 1.9, 1.10, 1.12.1, 1.12.3 bis 1.12.7.1, 1.13.1 bis 1.14.2.1 und 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1, die zugelassenen Höchstabmessungen oder Abladetiefen nach § 15.02 Nummer 1.5.6, 1.8.2, 1.8.3 und 1.12.2, jeweils auch in Verbindung mit Nummer 2 Satz 2, die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.6, 1.11, 1.12.7.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5, jeweils auch in Verbindung mit Nummer 2 Satz 1, und die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.8.1, auch in Verbindung mit Nummer 2 Satz 2, und
+die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.2, 1.5.4 bis 1.5.6, 1.9, 1.10, 1.12.1, 1.12.3 bis 1.12.7.1, 1.13.1 bis 1.14.2.1 und 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1, die zugelassenen Höchstabmessungen oder Abladetiefen nach § 15.02 Nummer 1.5.3, 1.8.2, 1.8.3 und 1.12.2, jeweils auch in Verbindung mit Nummer 2 Satz 2, die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.6, 1.11, 1.12.7.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5, jeweils auch in Verbindung mit Nummer 2 Satz 1, und die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.8.1, auch in Verbindung mit Nummer 2 Satz 2, und
 
 bbb)  
 die zugelassenen Abladetiefen nach § 15.02 Nummer 1.6, 1.8.1, 1.11, 1.12.7.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5
@@ -12451,12 +12659,9 @@ das Führen eines Schubleichters nach § 15.26 Nummer 1 Satz 1
 einzuhalten oder sicherzustellen, dass diese eingehalten werden,
 
 c)  
-das in § 15.20 Satz 1 vorgesehene Verbot, zu segeln, zu beachten oder sicherzustellen, dass dieses beachtet wird,
+das in § 15.20 Satz 1 vorgesehene Verbot, zu segeln, zu beachten oder sicherzustellen, dass dieses beachtet wird und
 
 d)  
-das in § 15.22 Nummer 3 vorgesehene Verbot, die Kanalbrücke des Mittellandkanals von km 320,58 bis km 322,84 mit einem muskelkraftbetriebenen Kleinfahrzeug zu befahren, zu beachten oder sicherzustellen, dass dieses beachtet wird, und
-
-e)  
 das in § 15.27 Satz 1 vorgesehene Verbot, die dort angegebenen Binnenschifffahrtsstraßen zu befahren, zu beachten oder sicherzustellen, dass dieses beachtet wird.
 
 3.  
@@ -12466,7 +12671,7 @@ a)
 das Fahrzeug oder der Verband
 
 aa)  
-die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.5, 1.9, 1.10, 1.12.1, 1.12.3 bis 1.12.7.1, 1.13.1 bis 1.14.2.1 und 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1, die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.5.6, 1.8.2, 1.8.3 und 1.12.2, jeweils auch in Verbindung mit Nummer 2 Satz 2, die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.6, 1.11, 1.12.7.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5, jeweils auch in Verbindung mit Nummer 2 Satz 1, und die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.8.1, auch in Verbindung mit Nummer 2 Satz 2, und
+die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.1.1 bis 1.5.2, 1.5.4 bis 1.5.6, 1.9, 1.10, 1.12.1, 1.12.3 bis 1.12.7.1, 1.13.1 bis 1.14.2.1 und 1.14.3.2 bis 1.14.4, jeweils auch in Verbindung mit Nummer 2 Satz 1, die zugelassenen Höchstabmessungen und Abladetiefen nach § 15.02 Nummer 1.5.3, 1.8.2, 1.8.3 und 1.12.2, jeweils auch in Verbindung mit Nummer 2 Satz 2, die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.6, 1.11, 1.12.7.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5, jeweils auch in Verbindung mit Nummer 2 Satz 1, und die zugelassenen Höchstabmessungen nach § 15.02 Nummer 1.8.1, auch in Verbindung mit Nummer 2 Satz 2, und
 
 bb)  
 die zugelassenen Abladetiefen nach § 15.02 Nummer 1.6, 1.8.1, 1.11, 1.12.7.2, 1.12.7.3, 1.14.2.2, 1.14.3.1 und 1.14.5
@@ -12490,25 +12695,28 @@ Kapitel 16 Wesergebiet
 Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 1.  
-der **Weser** (We) von Hann. Münden (We-km 0,00) bis zur Nordwestkante der Eisenbahnbrücke in Bremen (UWe-km 1,375) mit **Kleiner Weser** in Bremen bis zur unterstromigen Kante der Wehranlage am Teerhof;
+der **Weser** (We) von Hann. Münden (We-km 0,00) bis zur Nordwestkante der Eisenbahnbrücke in Bremen (UWe-km 1,375) mit **Kleiner Weser** in Bremen bis zur unterstromigen Kante der Wehranlage am Teerhof,
 
 2.  
-der **Werra** (Wr) von Falken (Wr-km 0,78) bis zum Anfang der Weser (Wr-km 89,00);
+der **Werra** (Wr) von Falken (Wr-km 0,78) bis zum Anfang der Weser (Wr-km 89,00),
 
 3.  
-der **Fulda** (Fu) von Mecklar (Fu-km 0,00) bis zum Anfang der Weser (Fu-km 108,78);
+der **Fulda** (Fu) von Mecklar (Fu-km 0,00) bis zum Anfang der Weser (Fu-km 108,78),
 
 4.  
-der **Aller** (Al) vom Mühlenwehr in Celle (Al-km 0,25) bis zur Mündung in die Weser (Al-km 117,16/We-km 326,40);
+der **Aller** (Al) vom Mühlenwehr in Celle (Al-km 0,25) bis zur Mündung in die Weser (Al-km 117,17/We-km 326,40),
 
 5.  
-der **Leine** (Le) von km 20,50 bis zum Wehr Herrenhausen (km 22,78) und von km 110,00 (bei Einmündung Schleusenkanal Hademstorf) bis zur Mündung in die Aller (Le-km 112,08/Al-km 52,26);
+dem **Verbindungskanal zur Leine** (VKL) von VKL-km 0,16 bis zur Mündung in die Leine (VKL-km 1,77/Le-km 22,29),
 
 6.  
-der **Ihme** vom Schnellen Graben (SGr-km 17,31) bis km 20,50 mit Verbindungskanal zur Leine;
+der **Leine** (Le) von Le-km 20,89 (Ihmemündung) bis zum Wehr Herrenhausen (Le-km 22,79) und von Le-km 110,00 (bei Einmündung Schleusenkanal Hademstorf) bis zur Mündung in die Aller (Le-km 112,08/Al-km 52,26),
 
 7.  
-dem **Schnellen Graben** (SGr) vom Unterwasser des Wehres (SGr-km 16,75) bis zur Einmündung in die Ihme (SGr-km 17,31).
+der **Ihme** vom Schnellen Graben (SGr-km 17,31) bis zur Ihmemündung (Ihme-km 20,89) und
+
+8.  
+dem **Schnellen Graben** (SGr) vom Unterwasser des Wehres (SGr-km 16,76) bis zur Einmündung in die Ihme (SGr-km/Ihme-km 17,31).
 
 ### § 16.02 Abmessungen der Fahrzeuge und Verbände, Fahrrinnentiefe und Abladetiefe
 
@@ -12613,7 +12821,7 @@ mit besonderer Erlaubnis 1,40 m
 
 4.1
 
-km 0,25 (Celle) bis km 117,16 (Allermündung)
+km 0,25 (Celle) bis km 117,17 (Allermündung)
 
 Fahrzeug/Schubverband
 
@@ -12627,7 +12835,7 @@ soweit nachfolgend nicht etwas anderes festgelegt ist
 
 4.2
 
-km 110,74 (Eisenbahnbrücke in Verden) bis km 117,16
+km 110,74 (Eisenbahnbrücke in Verden) bis km 117,17
 
 Fahrzeug/Schubverband
 
@@ -12638,50 +12846,6 @@ Fahrzeug/Schubverband
 je nach Wasserstand
 
 5.
-
-**Leine**
-
-5.1
-
-km 20,89 bis km 22,78 (Verbindungskanal zur Leine oberhalb des Wehrs Herrenhausen)
-
-Fahrzeug/Schubverband
-
-73,00
-
-9,50
-
-je nach Wasserstand
-
-5.2
-
-Leine von km 110,00 (Einmündung Schleusenkanal Hademstorf der Aller) bis km 112,08 (Leinemündung)
-
-Fahrzeug/Schubverband
-
-58,00
-
-9,50
-
-je nach Wasserstand
-
-6.
-
-**Ihme**
-
-6.1
-
-km 20,50 bis km 20,89 (Ihmemündung)
-
-Fahrzeug/Schubverband
-
-73,00
-
-9,50
-
-je nach Wasserstand
-
-6.2
 
 **Verbindungskanal zur Leine bis zur Leineabstiegsschleuse**
 
@@ -12697,7 +12861,49 @@ Abladetiefe 2,20
 
 9,50
 
-Abladetiefe 2,00.
+Abladetiefe 2,00
+
+6.
+
+**Leine**
+
+6.1
+
+km 20,89 (Ihmemündung) bis km 22,29 (Mündung Verbindungskanal zur Leine)
+
+Fahrzeug/Schubverband
+
+73,00
+
+9,50
+
+je nach Wasserstand
+
+6.2
+
+km 110,00 (Einmündung Schleusenkanal Hademstorf der Aller) bis km 112,08 (Leinemündung)
+
+Fahrzeug/Schubverband
+
+58,00
+
+9,50
+
+je nach Wasserstand
+
+7.
+
+**Ihme**
+
+km 20,50 bis km 20,89 (Ihmemündung)
+
+Fahrzeug/Schubverband
+
+73,00
+
+9,50
+
+je nach Wasserstand.
 
 ### § 16.03 Zusammenstellung der Verbände
 
@@ -12740,7 +12946,7 @@ Fahrzeuge, ausgenommen Kleinfahrzeuge, dürfen nur zum Abschleppen eines beschä
 <tr class="even">
 <td></td>
 <td>a)</td>
-<td>auf der <strong>Mittelweser</strong> in den Schleusenkanälen und auf dem <strong>Verbindungskanal zur Leine</strong></td>
+<td>auf der <strong>Mittelweser</strong> in den Schleusenkanälen und von km 360,50 bis UWe-km 1,375 (Bereich der Bremer Weserschleuse bis Eisenbahnbrücke in Bremen) sowie auf dem <strong>Verbindungskanal zur Leine</strong></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -12750,7 +12956,7 @@ Fahrzeuge, ausgenommen Kleinfahrzeuge, dürfen nur zum Abschleppen eines beschä
 <tr class="even">
 <td></td>
 <td></td>
-<td>von km 0,00 bis km 1,40 (Stadtgebiet Hann. Münden),</td>
+<td>von km    0,00 bis km    1,40 (Stadtgebiet Hann. Münden),</td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -12770,7 +12976,7 @@ Fahrzeuge, ausgenommen Kleinfahrzeuge, dürfen nur zum Abschleppen eines beschä
 <tr class="even">
 <td></td>
 <td></td>
-<td>von km 362,00 bis UWe-km 1,38 (unterhalb der Schleuse Bremen bis Eisenbahnbrücke in Bremen), <strong>Mittelweser</strong> oberhalb und unterhalb der Wehre (Wehrarme) von den Abzweigungen bis zu den Einmündungen der zugehörigen Schleusenkanäle</td>
+<td>auf der <strong>Mittelweser</strong> oberhalb und unterhalb der Wehre (Wehrarme) von den Abzweigungen bis zu den Einmündungen der zugehörigen Schleusenkanäle</td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -12876,7 +13082,7 @@ Die in den Nummern 1 und 2 genannten Hochwassermarken werden durch folgende Wass
 |     | Nethemündung – Forst                                    | Höxter            |                 |
 |     | Forst – Emmermündung                                    | Bodenwerder       |                 |
 |     | Emmermündung – Rinteln                                  | Hameln-Wehrbergen |                 |
-|     | Rinteln – Minden – Südabstieg We-km 204,47              | Hameln-Wehrbergen |                 |
+|     | Rinteln – Minden – Südabstieg We-km 204,47              | Rinteln           |                 |
 | b)  | Mittelweser                                             |                   |                 |
 |     | Strecke                                                 | Richtpegel        | Hochwassermarke |
 |     |                                                         |                   | I               |
@@ -12885,8 +13091,8 @@ Die in den Nummern 1 und 2 genannten Hochwassermarken werden durch folgende Wass
 |     | Schleuse Schlüsselburg – Schleuse Landesbergen          | Stolzenau         | 500 cm          |
 |     | Schleuse Landesbergen – Schleuse Drakenburg             | Liebenau          | 490 cm          |
 |     | Schleuse Drakenburg – Schleuse Dörverden                | Drakenburg        | 650 cm          |
-|     | Schleuse Dörverden – Schleuse Langwedel                 | Dörverden         | 675 cm          |
-|     | Schleuse Langwedel – Schleuse Bremen-Hemelingen         | Intschede         | 580 cm          |
+|     | Schleuse Dörverden – Schleuse Langwedel                 | Dörverden         | 660 cm          |
+|     | Schleuse Langwedel – Schleuse Bremen-Hemelingen         | Intschede         | 560 cm          |
 
 ### § 16.12 Schifffahrt bei Eis
 
@@ -12975,13 +13181,13 @@ Unterbricht ein Fahrzeug, Verband oder Sondertransport nach § 1.21 die Fahrt in
 
 ### § 16.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
-Die Durchfahrtshöhe einer Brücke auf der **Mittelweser** und den dazugehörigen Schleusenkanälen in den Stauhaltungen Petershagen, Schlüsselburg, Landesbergen, Drakenburg, Dörverden, Langwedel und Hemelingen beträgt ab Minden – Südabstieg (We-km 204,47) bis zum Oberwasser der Schleuse Bremen-Hemeligen beim Höchsten Schifffahrtswasserstand (HSW) an den Richtpegeln für die einzelnen Stauhaltungen 4,50 m.
+Die Durchfahrtshöhe einer Brücke auf der **Mittelweser** und den dazugehörigen Schleusenkanälen in den Stauhaltungen Petershagen, Schlüsselburg, Landesbergen, Drakenburg, Dörverden, Langwedel und Hemelingen beträgt ab Minden – Südabstieg (We-km 204,47) bis zum Oberwasser der Schleuse Bremen-Hemeligen beim Höchsten Schifffahrtswasserstand (HSW) an den Richtpegeln für die einzelnen Stauhaltungen 4,50 m. Abweichend von Satz 1 beträgt die Durchfahrtshöhe der neuen Kanalbrücke Minden (Weser Brücke 27E) bei einem Höchsten Schifffahrtswasserstand (HSW) am Richtpegel Porta 4,39 m.
 
 ### § 16.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
 (keine besonderen Vorschriften)
 
-### § 16.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
+### § 16.18 Durchfahren der Brücken, Sperrwerke,Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
 
@@ -13084,10 +13290,10 @@ a)
 sicherzustellen, dass das von ihm geführte Fahrzeug oder der von ihm geführte Verband
 
 aa)  
-die zugelassenen Höchstabmessungen nach § 16.02 und die zugelassenen Abladetiefen nach § 16.02 Nummer 3 und 6.2 und
+die zugelassenen Höchstabmessungen nach § 16.02 und die zugelassenen Abladetiefen nach § 16.02 Nummer 3 und 5 und
 
 bb)  
-die zugelassenen Abladetiefen nach § 16.02 Nummer 1, 4, 5 und 6.1
+die zugelassenen Abladetiefen nach § 16.02 Nummer 1, 4, 6 und 7
 
 nicht überschreitet,
 
@@ -13109,10 +13315,10 @@ das in § 16.27 Satz 1 vorgesehene Verbot, die dort angegebenen Binnenschifffahr
 Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn das Fahrzeug oder der Verband
 
 a)  
-die zugelassenen Höchstabmessungen nach § 16.02 und die zugelassenen Abladetiefen nach § 16.02 Nummer 3 und 6.2 und
+die zugelassenen Höchstabmessungen nach § 16.02 und die zugelassenen Abladetiefen nach § 16.02 Nummer 3 und 5 und
 
 b)  
-die zugelassenen Abladetiefen nach § 16.02 Nummer 1, 4, 5 und 6.1
+die zugelassenen Abladetiefen nach § 16.02 Nummer 1, 4, 6 und 7
 
 nicht überschreitet.
 
@@ -13510,7 +13716,7 @@ Auf der **Elbe** beträgt die Mindestgeschwindigkeit gegenüber dem Ufer für ei
 
 ### § 17.09 Ankern
 
-(keine besonderen Vorschriften)
+(siehe § 17.18 Nummer 6 Satz 3)
 
 ### § 17.10 Stillliegen
 
@@ -13629,7 +13835,7 @@ bei Verkehr in Berg- und Talfahrt:ein gelbes Licht,
 b)  
 bei Verkehr in nur eine Richtung:zwei gelbe Lichter übereinander.
 
-### § 17.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
+### § 17.18 Durchfahren der Brücken, Sperrwerke,Wehre, Schleusen und einzelner Stromstrecken
 
 1.  
 Die **Magdeburger Stromstrecke** von km 324,50 bis km 327,20 ist bei Wasserständen unter 400 cm am Pegel Magdeburg eine Fahrwasserenge.
@@ -13729,18 +13935,21 @@ b)
 die Vorschriften über
 
 aa)  
-das Verhalten bei Eis nach § 17.12,
+die Schifffahrt bei Hochwasser nach § 17.11 Nummer 1 und ein nach dieser Vorschrift angeordnetes Verbot der Schifffahrt,
 
 bb)  
-das Verhalten beim Durchfahren der Schleusengruppe Geesthacht nach § 17.18 Nummer 6 Satz 1 und 2,
+das Verhalten bei Eis nach § 17.12,
 
 cc)  
-die Vorschrift über die Einfahrt in und die Ausfahrt aus dem Rothenseer Verbindungskanal nach § 17.22 Nummer 4 und
+das Verhalten beim Durchfahren der Schleusengruppe Geesthacht nach § 17.18 Nummer 6 Satz 1 und 2,
 
 dd)  
+die Vorschrift über die Einfahrt in und die Ausfahrt aus dem Rothenseer Verbindungskanal nach § 17.22 Nummer 4 und
+
+ee)  
 den Sprechfunk auf einer Seilfähre nach § 17.23 in Verbindung mit § 4.05 Nummer 3
 
-einzuhalten oder sicherzustellen, dass diese eingehalten werden.
+einzuhalten oder sicherzustellen, dass diese Vorschriften oder ein angeordnetes Verbot der Schifffahrt eingehalten werden.
 
 2.  
 Der Schiffsführer hat
@@ -13900,7 +14109,7 @@ Ein Fahrzeug von mehr als 15,00 m Länge darf nur an einer durch das Tafelzeiche
 
 ### § 18.16 Höhe der Brücken, sonstigen festen Überbauten und Freileitungen
 
-(keine besonderen Vorschriften)
+Die niedrigste Durchfahrtshöhe unter der ungeöffneten Klappbrücke Wittorf beträgt bei einem Wasserstand von 5,00 m am Pegel Wittorf 1,40 m.
 
 ### § 18.17 Kennzeichnung der Brücken- und Wehrdurchfahrten
 
@@ -13908,7 +14117,7 @@ Ein Fahrzeug von mehr als 15,00 m Länge darf nur an einer durch das Tafelzeiche
 
 ### § 18.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
 
-(keine besonderen Vorschriften)
+Die Klappbrücken Wittorf und Bardowick werden nur nach Anmeldung geöffnet.
 
 ### § 18.19 Benutzung der Schleusen, Bootsschleusen und Bootsumsetzanlagen
 
@@ -13944,13 +14153,13 @@ Ein Fahrzeug von mehr als 15,00 m Länge darf nur an einer durch das Tafelzeiche
 
 ### § 18.27 Verkehrsbeschränkungen der Schifffahrt
 
-Das Befahren der **Ilmenau** von der Nordwestkante der Brausebrücke an der Abtsmühle in Lüneburg (km 0,00) bis Warburg (km 0,50) ist verboten. Satz 1 gilt nicht für ein Kleinfahrzeug ohne Antriebsmaschine.
+Das Befahren der **Ilmenau** von der Nordwestkante der Brausebrücke an der Abtsmühle in Lüneburg (km 0,00) bis Warburg (km 0,50) ist verboten. Die zuständige Behörde kann im Einzelfall Ausnahmen zulassen. Satz 1 gilt nicht für ein Kleinfahrzeug ohne Antriebsmaschine.
 
 ### § 18.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
 
-### § 18.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+### § 18.29 Verhaltenspflichten des Schiffsführers,der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 1.  
 Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils
@@ -14094,12 +14303,13 @@ Fahrzeuge, ausgenommen Kleinfahrzeuge, dürfen, mit Ausnahme im Hafen Lauenburg,
 | 1.  | Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt für ein Fahrzeug oder einen Verband, ausgenommen Kleinfahrzeuge, mit jeweils |                                                                                                                                                                            |
 |     | a)                                                                                                                                          | einer Abladetiefe von nicht mehr als 1,20 m und einer Breite von nicht mehr als 8,30 m                                                                                     |
 |     | b)                                                                                                                                          | einer Abladetiefe von nicht mehr als 1,20 m und einer Breite von mehr als 8,30 m oder mit einer Abladetiefe von mehr als 1,20 m und einer Breite von nicht mehr als 8,30 m |
+|     | c)                                                                                                                                          | einer Abladetiefe von mehr als 1,20 m und einer Breite von mehr als 8,30 m                                                                                                 |
 | 2.  | Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt für ein Kleinfahrzeug                                                        | 10 km/h.                                                                                                                                                                   |
 | 3.  | Die Mindestgeschwindigkeit gegenüber dem Ufer beträgt für ein Fahrzeug oder einen Verband, ausgenommen Kleinfahrzeuge,                      | 5 km/h.                                                                                                                                                                    |
 
 ### § 19.05 Bergfahrt
 
-(keine besonderen Vorschriften)
+Als Bergfahrt auf dem **Elbe-Lübeck-Kanal** gilt die Fahrt in Richtung Elbe.
 
 ### § 19.06 Begegnen
 
@@ -14172,7 +14382,7 @@ Die Durchfahrtshöhen können sich durch Wasserstandsschwankungen verringern.
 
 (keine besonderen Vorschriften)
 
-### § 19.18 Durchfahren der Brücken, Sperrwerke, Wehre, Schleusen und einzelner Stromstrecken
+### § 19.18 Durchfahren der Brücken, Sperrwerke,Wehre, Schleusen und einzelner Stromstrecken
 
 (keine besonderen Vorschriften)
 
@@ -14216,7 +14426,7 @@ Das Segeln ist verboten. Die zuständige Behörde kann auf der **Kanaltrave** im
 
 (keine besonderen Vorschriften)
 
-### § 19.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
+### § 19.29 Verhaltenspflichten des Schiffsführers,der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 1.  
 Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils
@@ -14365,10 +14575,10 @@ m</td>
 </table>
 
   
-Ein Fahrzeug oder ein Verband mit jeweils einer Länge von mehr als 90,00 m darf nur fahren, wenn es oder er mit einer aktiven Bugsteuereinrichtung ausgerüstet ist. Ein Fahrzeug mit einer Länge von mehr als 110,00 m darf nur fahren, wenn es in Bau, Ausrüstung und Antrieb den Anforderungen des Anhangs II Kapitel 22a der Binnenschiffsuntersuchungsordnung, auch in Verbindung mit § 1 Absatz 8 der Binnenschiffsuntersuchungsordnung, entspricht; dieses Fahrzeug muss
+Ein Fahrzeug oder ein Verband mit jeweils einer Länge von mehr als 90,00 m darf nur fahren, wenn es oder er mit einer aktiven Bugsteuereinrichtung ausgerüstet ist. Ein Fahrzeug mit einer Länge von mehr als 110,00 m darf nur fahren, wenn es in Bau, Ausrüstung und Antrieb den Anforderungen des Kapitels 28 ES-TRIN entspricht; dieses Fahrzeug muss
 
 a)  
-in der Fahrtauglichkeitsbescheinigung unter der Nummer 52 einen Eintrag haben, dass es den besonderen Anforderungen nach Anhang II § 22a.05 Nummer 2 Buchstabe a bis d der Binnenschiffsuntersuchungsordnung genügt,
+in der Fahrtauglichkeitsbescheinigung unter der Nummer 52 einen Eintrag haben, dass es den besonderen Anforderungen nach Artikel 28.04 Nummer 2 Buchstabe a bis e ES-TRIN genügt,
 
 b)  
 den Nachweis über die Schwimmfähigkeit, die Trimmlage und die Stabilität (Kentersicherheit) der getrennten Schiffsteile mitführen,
@@ -14379,7 +14589,7 @@ bei der Benutzung von Schifffahrtsanlagen besondere Vorsicht walten lassen und e
 <!-- -->
 
   
-darf den Maschinenantrieb sowie die Bugstrahlanlage nicht über das nautisch erforderliche Maß hinaus benutzen. Der Nachweis nach Satz 3 Halbsatz 2 Buchstabe b ist auf Verlangen der Wasserschutzpolizei und den Bediensteten der zuständigen Behörde zur Kontrolle auszuhändigen. Eine von der zuständigen Behörde erteilte und am 31. Dezember 2009 gültige Sondererlaubnis für ein Fahrzeug mit einer Länge von mehr als 110,00 m, das nicht den Anforderungen des Anhangs II Kapitel 22a der Binnenschiffsuntersuchungsordnung, auch in Verbindung mit § 1 Absatz 8 der Binnenschiffsuntersuchungsordnung, entspricht, bleibt mit den erteilten Auflagen auf dem jeweiligen Stromabschnitt weiterhin gültig. Diese Sondererlaubnis ist an Bord mitzuführen und auf Verlangen der Wasserschutzpolizei und den Bediensteten der zuständigen Behörde zur Kontrolle auszuhändigen.
+darf den Maschinenantrieb sowie die Bugstrahlanlage nicht über das nautisch erforderliche Maß hinaus benutzen. Der Nachweis nach Satz 3 Halbsatz 2 Buchstabe b ist auf Verlangen der Wasserschutzpolizei und den Bediensteten der zuständigen Behörde zur Kontrolle auszuhändigen. Eine von der zuständigen Behörde erteilte und am 31. Dezember 2009 gültige Sondererlaubnis für ein Fahrzeug mit einer Länge von mehr als 110,00 m, das nicht den Anforderungen des Kapitels 28 ES-TRIN entspricht, bleibt mit den erteilten Auflagen auf dem jeweiligen Stromabschnitt weiterhin gültig. Diese Sondererlaubnis ist an Bord mitzuführen und auf Verlangen der Wasserschutzpolizei und den Bediensteten der zuständigen Behörde zur Kontrolle auszuhändigen.
 
 <!-- -->
 
@@ -14807,8 +15017,8 @@ die Sondererlaubnis nach § 20.02 Nummer 1 Satz 5
   
 an Bord mitgeführt werden.
 
-Kapitel 21 Spree-Oder-Wasserstraße,&lt;BR /&gt;Berliner und Brandenburger Wasserstraßen
----------------------------------------------------------------------------------------
+Kapitel 21 Spree-Oder-Wasserstraße,Berliner und Brandenburger Wasserstraßen
+---------------------------------------------------------------------------
 
 ### 
 
@@ -14817,7 +15027,7 @@ Kapitel 21 Spree-Oder-Wasserstraße,&lt;BR /&gt;Berliner und Brandenburger Wasse
 Die Vorschriften dieses Kapitels gelten auf folgenden Wasserstraßen:
 
 1.  
-der **Spree-Oder-Wasserstraße** (SOW) von der Abzweigung aus der Havel-Oder-Wasserstraße (HOW) bei Spandau (SOW-km 0,15/HOW-km 0,13) bis zur Einmündung in die Oder (SOW-km 130,16/Od-km 553,40) einschließlich Untere Spree, Berliner Spree, Treptower Spree, Dahme (Langer See), Oder-Spree-Kanal und Fürstenwalder Spree mit Ruhlebener Altarm, Landwehrkanal, Spreekanal/Kupfergraben, Rummelsburger See, Müggelspree (MgS) von der Einmündung in die Spree-Oder-Wasserstraße bei Köpenick (SOW-km 32,85) bis MgS-km 11,85 einschließlich Großer Müggelsee, Kleiner Müggelsee, Die Bänke und vom Unterwasser des Wehres Große Tränke (MgS-km 44,85) bis zur Abzweigung aus der Spree-Oder-Wasserstraße (MgS-km 45,10/SOW-km 69,05), Große Krampe, Wasserstraße Seddinsee und Gosener Kanal (WSG), Gosener Graben, Dehmsee-Einfahrt bis km 0,35, Drahendorfer Spree bis km 0,38, Kersdorfer See-Einfahrt bis km 0,12, Neuhauser Speisekanal bis zum Ende des unteren Schleusenvorhafens Neuhaus (km 2,81), Klein Müllroser See bis zur Mündung der Schlaube (km 0,40), Brieskower Kanal bis km 0,55,
+der **Spree-Oder-Wasserstraße** (SOW) von der Abzweigung aus der Havel-Oder-Wasserstraße (HOW) bei Spandau (SOW-km 0,15/HOW-km 0,13) bis zur Einmündung in die Oder (SOW-km 130,17/Od-km 553,40) einschließlich Untere Spree, Berliner Spree, Treptower Spree, Dahme (Langer See), Oder-Spree-Kanal und Fürstenwalder Spree mit Ruhlebener Altarm, Landwehrkanal, Spreekanal/Kupfergraben, Rummelsburger See, Müggelspree (MgS) von der Einmündung in die Spree-Oder-Wasserstraße bei Köpenick (SOW-km 32,85) bis MgS-km 11,85 einschließlich Großer Müggelsee, Kleiner Müggelsee, Die Bänke und vom Unterwasser des Wehres Große Tränke (MgS-km 44,85) bis zur Abzweigung aus der Spree-Oder-Wasserstraße (MgS-km 45,10/SOW-km 69,05), Große Krampe, Wasserstraße Seddinsee und Gosener Kanal (WSG), Gosener Graben, Dehmsee-Einfahrt bis km 0,35, Drahendorfer Spree bis km 0,38, Kersdorfer See-Einfahrt bis km 0,12, Neuhauser Speisekanal bis zum Ende des unteren Schleusenvorhafens Neuhaus (km 2,81), Klein Müllroser See bis zur Mündung der Schlaube (km 0,40), Brieskower Kanal bis km 0,55,
 
 2.  
 dem **Berlin-Spandauer Schifffahrtskanal** (BSK) von der Abzweigung aus der Havel-Oder-Wasserstraße (Spandauer Havel, BSK-km 0,42/HOW-km 3,37) bis zur Einmündung in die Spree-Oder-Wasserstraße, Humboldthafen (BSK-km 12,20/SOW-km 14,52), mit Westhafen-Verbindungskanal, Westhafenkanal nebst Charlottenburger Verbindungskanal (zur Spree),
@@ -14826,7 +15036,7 @@ dem **Berlin-Spandauer Schifffahrtskanal** (BSK) von der Abzweigung aus der Have
 dem **Teltowkanal** (TeK) von der Abzweigung aus der Unteren Havel-Wasserstraße (Potsdamer Havel-km 28,37) bis zur Einmündung in die Spree-Oder-Wasserstraße (Dahme, TeK-km 37,84/SOW-km 35,12) einschließlich Glienicker Lake, Griebnitzsee und Kleinmachnower See mit Griebnitzkanal (einschließlich Stölpchensee, Pohlesee und Kleiner Wannsee), Zehlendorfer Stichkanal, Britzer Verbindungskanal (zur Spree),
 
 4.  
-den **Rüdersdorfer Gewässern** (RüG) von der Einmündung des Gosener Kanals (RüG-km -0,50/WSG-km 5,73) bis Tasdorf (RüG-km 10,48) einschließlich Dämeritzsee, Flakensee, Kalksee, Stolpgraben, Hohler See und Strausberger Mühlenfließ, Stichkanal Langerhanskanal einschließlich Kriensee mit Löcknitz bis km 10,64 (einschließlich Werlsee, Peetzsee und Möllensee) und
+den **Rüdersdorfer Gewässern** (RüG) von der Einmündung des Gosener Kanals (RüG-km-0,50/WSG-km 5,73) bis Tasdorf (RüG-km 10,48) einschließlich Dämeritzsee, Flakensee, Kalksee, Stolpgraben, Hohler See und Strausberger Mühlenfließ, Stichkanal Langerhanskanal einschließlich Kriensee mit Löcknitz bis km 10,64 (einschließlich Werlsee, Peetzsee und Möllensee) und
 
 5.  
 der **Dahme-Wasserstraße** (DaW) von der Einmündung in die Spree-Oder-Wasserstraße bei Schmöckwitz (DaW-km 0,06/SOW-km 43,99) bis oberhalb der Einmündung der Teupitzer Gewässer (DaW-km 26,04 bei Prieros) einschließlich Zeuthener See, Sellenzugsee, Krimnicksee, Krüpelsee und Dolgensee mit Wernsdorfer Seenkette bis km 8,20 (einschließlich Großer Zug, Krossinsee und Wernsdorfer See, Möllenzugsee, Notte bis km 0,99, Zernsdorfer Lanke), Storkower Gewässer (Langer See, Wolziger See, Storkower Kanal, Storkower See und Scharmützelsee), Teupitzer Gewässer (Huschtesee, Schmöldesee, Hölzerner See, Klein Köriser See, Kleiner und Großer Moddersee, Schulzensee, Zemminsee, Schweriner See und Teupitzer See).
@@ -14875,7 +15085,7 @@ m</td>
 </tr>
 <tr class="odd">
 <td>1.1.1</td>
-<td>km 0,15 (Spreemündung) bis km 130,16 (Oder)</td>
+<td>km 0,15 (Spreemündung) bis km 130,17 (Oder)</td>
 <td></td>
 <td></td>
 <td></td>
@@ -14923,7 +15133,7 @@ m</td>
 </tr>
 <tr class="odd">
 <td>1.1.2</td>
-<td>km 0,15 bis km 6,34</td>
+<td>km 0,15 bis km 6,61</td>
 <td></td>
 <td></td>
 <td></td>
@@ -14955,7 +15165,7 @@ m</td>
 </tr>
 <tr class="odd">
 <td>1.1.3</td>
-<td>km 6,34 bis km 20,70</td>
+<td>km 6,61 bis km 20,70</td>
 <td></td>
 <td></td>
 <td></td>
@@ -14978,7 +15188,7 @@ m</td>
 <td>2,00</td>
 </tr>
 <tr class="even">
-<td></td>
+<td>– von km 6,61 bis km 9,11 und von km 14,52 bis km 20,70 darf ein Fahrzeug mit einer Länge von mehr als 80,00 m und nicht mehr als 82,00 m und einer Breite von mehr als 9,00 m und nicht mehr als 9,50 m fahren, wenn es eine Abladetiefe von 1,90 m nicht überschreitet und mit einer aktiven Bugsteuereinrichtung ausgerüstet ist –</td>
 <td></td>
 <td></td>
 <td></td>
@@ -15005,20 +15215,23 @@ m</td>
 <td></td>
 <td>b)</td>
 <td>Verband</td>
-<td>91,00</td>
-<td>9,00</td>
-<td>2,10</td>
+<td>91,00<br />
+125,00</td>
+<td>9,00<br />
+8,25</td>
+<td>2,10<br />
+2,10</td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
-<td>125,00</td>
-<td>8,25</td>
-<td>2,10</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td>– ein Fahrzeug mit einer Länge von mehr als 80,00 m und nicht mehr als 82,00 m und einer Breite von mehr als 9,00 m und nicht mehr als 9,50 m darf fahren, wenn es eine Abladetiefe von 1,90 m nicht überschreitet und mit einer aktiven Bugsteuereinrichtung ausgerüstet ist –</td>
 <td></td>
 <td></td>
 <td></td>
@@ -15045,20 +15258,23 @@ m</td>
 <td></td>
 <td>b)</td>
 <td>Verband</td>
-<td>125,00</td>
-<td>9,00</td>
-<td>2,10</td>
+<td>125,00<br />
+156,00</td>
+<td>9,00<br />
+8,25</td>
+<td>2,10<br />
+2,10</td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
-<td>156,00</td>
-<td>8,25</td>
-<td>2,10</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td>– ein Fahrzeug mit einer Länge von mehr als 80,00 m und nicht mehr als 82,00 m und einer Breite von mehr als 9,00 m und nicht mehr als 9,50 m darf fahren, wenn es eine Abladetiefe von 1,90 m nicht überschreitet und mit einer aktiven Bugsteuereinrichtung ausgerüstet ist –</td>
 <td></td>
 <td></td>
 <td></td>
@@ -15667,7 +15883,7 @@ bis km 11,85 (Dämeritzsee)</td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td>– ein Fahrzeug mit einer Länge von mehr als 80,00 m und nicht mehr als 82,00 m und einer Breite von mehr als 9,00 m und nicht mehr als 9,50 m darf fahren, wenn es eine Abladetiefe von 1,90 m nicht überschreitet und mit einer aktiven Bugsteuereinrichtung ausgerüstet ist –</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16124,7 +16340,7 @@ bis km 11,85 (Dämeritzsee)</td>
 </tr>
 <tr class="odd">
 <td>1.5.2</td>
-<td>km 0,00 bis km 8,65</td>
+<td>km 0,07 bis km 8,65</td>
 <td></td>
 <td></td>
 <td></td>
@@ -16516,20 +16732,21 @@ Die zuständige Behörde kann abweichend von Nummer 2 Satz 1 Ausnahmen zulassen.
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
 | 1.  | Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt für ein Fahrzeug oder einen Verband, ausgenommen Kleinfahrzeuge ohne Maschinenantrieb, auf                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                    |          |
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                    |          |
-|     | a)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | der **Spree-Oder-Wasserstraße** von der Spreemündung (km 0,15) bis zur Einmündung in die Oder (km 130,16)                                                                                                          | 10 km/h, |
-|     | b)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | der **Müggelspree**                                                                                                                                                                                                |          |
+|     | a)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | der **Spree-Oder-Wasserstraße** von der Spreemündung (km 0,15) bis zur Einmündung in die Oder (km 130,17)                                                                                                          | 10 km/h, |
+|     | b)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | dem **Landwehrkanal**                                                                                                                                                                                              | 6 km/h,  |
+|     | c)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | der **Müggelspree**                                                                                                                                                                                                |          |
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | von der Einmündung in die Spree-Oder-Wasserstraße (km 0,00) bis zum Westende des Großen Müggelsees (km 4,00) und vom Ostende des Großen Müggelsees (km 7,00) bis zur Abzweigung aus dem Dämeritzsee (km 11,38)     | 10 km/h, |
-|     | c)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | dem **Berlin-Spandauer Schifffahrtskanal**                                                                                                                                                                         |          |
+|     | d)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | dem **Berlin-Spandauer Schifffahrtskanal**                                                                                                                                                                         |          |
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | von der Abzweigung aus der Havel-Oder-Wasserstraße (km 0,42) bis zur Schleusengruppe Plötzensee (km 7,45)                                                                                                          | 10 km/h, |
-|     | d)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | der **Glienicker Lake** und dem **Griebnitzsee** des Teltowkanals                                                                                                                                                  | 10 km/h, |
-|     | e)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | den **Rüdersdorfer Gewässern**                                                                                                                                                                                     | 10 km/h, |
-|     | f)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | der **Löcknitz**                                                                                                                                                                                                   | 10 km/h, |
-|     | g)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | der **Dahme-Wasserstraße**                                                                                                                                                                                         | 10 km/h, |
-|     | h)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | den **Storkower Gewässern**                                                                                                                                                                                        | 10 km/h, |
-|     | i)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | den **Teupitzer Gewässern**                                                                                                                                                                                        | 10 km/h, |
-|     | j)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | den übrigen Kanälen                                                                                                                                                                                                | 10 km/h, |
-|     | k)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | einem Stichkanal, einem Nebenarm oder einem Altarm                                                                                                                                                                 | 5 km/h,  |
-|     | l)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | einem See oder einer seeartigen Erweiterung mit jeweils einer Gewässerbreite von mehr als 250,00 m                                                                                                                 | 12 km/h. |
+|     | e)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | der **Glienicker Lake** und dem **Griebnitzsee** des Teltowkanals                                                                                                                                                  | 10 km/h, |
+|     | f)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | den **Rüdersdorfer Gewässern**                                                                                                                                                                                     | 10 km/h, |
+|     | g)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | der **Löcknitz**                                                                                                                                                                                                   | 10 km/h, |
+|     | h)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | der **Dahme-Wasserstraße**                                                                                                                                                                                         | 10 km/h, |
+|     | i)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | den **Storkower Gewässern**                                                                                                                                                                                        | 10 km/h, |
+|     | j)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | den **Teupitzer Gewässern**                                                                                                                                                                                        | 10 km/h, |
+|     | k)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | den übrigen Kanälen                                                                                                                                                                                                | 10 km/h, |
+|     | l)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | einem Stichkanal, einem Nebenarm oder einem Altarm                                                                                                                                                                 | 5 km/h,  |
+|     | m)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | einem See oder einer seeartigen Erweiterung mit jeweils einer Gewässerbreite von mehr als 250,00 m                                                                                                                 | 12 km/h. |
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                    |          |
 | 2.  | Abweichend von Nummer 1 Buchstabe a beträgt die zulässige Höchstgeschwindigkeit gegenüber dem Ufer für ein Fahrzeug mit einer Breite von mehr als 8,25 m und einer Abladetiefe von mehr als 1,75 m oder für einen Verband mit einer Breite von mehr als 8,25 m und einer Abladetiefe von mehr als 1,85 m von der Schleuse Wernsdorf (km 47,60) bis Spreenhagen (km 62,50), von der Schleuse Kersdorf (km 89,70) bis Abzweig Neuhauser Speisekanal (km 96,00) und von Schlaubehammer (km 108,00) bis Schleuse Eisenhüttenstadt (km 127,30) | 6 km/h.                                                                                                                                                                                                            |          |
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                    |          |
@@ -16544,7 +16761,7 @@ Die zuständige Behörde kann abweichend von Nummer 2 Satz 1 Ausnahmen zulassen.
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                    |          |
 |     | Als ufernaher Schutzstreifen gilt eine 100,00 m breite parallel zur Uferlinie (Land-Wasser-Übergang) verlaufende Wasserfläche.                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                    |          |
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                    |          |
-| 5.  | Die zuständige Behörde kann abweichend von den Nummern 1 bis 3 im Einzelfall für ein Fahrgastschiff, das nach einem festen Fahrplan nach § 9.01 verkehrt, für einzelne Strecken oder aus einem besonderen Anlass für ein Fahrgastschiff oder ein Aufsichtsboot eines Sportvereins oder -verbandes höhere Geschwindigkeiten zulassen, wenn dadurch der Zustand und die Benutzung der Wasserstraße sowie der übrige Schiffsverkehr nicht über Gebühr beeinträchtigt werden.                                                                 |                                                                                                                                                                                                                    |          |
+| 5.  | Die zuständige Behörde kann abweichend von den Nummern 1 bis 4 im Einzelfall für ein Fahrgastschiff, das nach einem festen Fahrplan nach § 9.01 verkehrt, für einzelne Strecken oder aus einem besonderen Anlass für ein Fahrgastschiff oder ein Aufsichtsboot eines Sportvereins oder -verbandes höhere Geschwindigkeiten zulassen, wenn dadurch der Zustand und die Benutzung der Wasserstraße sowie der übrige Schiffsverkehr nicht über Gebühr beeinträchtigt werden.                                                                 |                                                                                                                                                                                                                    |          |
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                    |          |
 | 6.  | Die Mindestgeschwindigkeit gegenüber dem Ufer beträgt für ein Fahrzeug oder einen Verband, ausgenommen Kleinfahrzeuge,                                                                                                                                                                                                                                                                                                                                                                                                                    | 4 km/h.                                                                                                                                                                                                            |          |
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                    |          |
@@ -16753,7 +16970,7 @@ Ein Kleinfahrzeug darf abweichend von Nummer 1 überholen und überholt werden.
 
 ### § 21.08 Wenden
 
-Ein Fahrgastschiff, das auf der**Spree-Oder-Wasserstraße** im Bereich des unteren Vorhafens der Schleuse Mühlendamm (km 17,80) wenden will, muss das geplante Wendemanöver der Funkstelle „Mühlendamm Schleuse“ über UKW-Sprechfunkkanal 20 vor Einfahrt in den Schleusenvorhafenbereich anzeigen.
+Ein Fahrgastschiff, das auf der **Spree-Oder-Wasserstraße** im Bereich des unteren Vorhafens der Schleuse Mühlendamm (km 17,80) wenden will, muss das geplante Wendemanöver der Funkstelle „Mühlendamm Schleuse“ über UKW-Sprechfunkkanal 20 vor Einfahrt in den Schleusenvorhafenbereich anzeigen.
 
 ### § 21.09 Ankern
 
@@ -16768,7 +16985,7 @@ Das Stillliegen an den mit Tafelzeichen E.5, E.6 oder E.7 (Anlage 7) gekennzeich
 Auf den innerstädtischen Wasserstraßen in Berlin, die durch die Schleusengruppe Plötzensee, die Schleusengruppe Charlottenburg, die Schleusengruppe Mühlendamm und die Oberschleuse begrenzt werden, darf ein Fahrzeug nur mit Erlaubnis der zuständigen Behörde länger als zwei Wochen stillliegen. Das gilt nicht für ein Fahrgastschiff an seinem genehmigten Liegeplatz.
 
 3.  
-Abweichend von Nummer 2 ist auf der Spree-Oder-Wasserstraße von der Mündung in die Untere Havel-Wasserstraße (km 0,00) bis zur Oberbaumbrücke (km 20,70) das Stillliegen außerhalb der durch die Tafelzeichen E.5 bis E.5.15 gekennzeichneten Liegestellen verboten.
+Abweichend von Nummer 2 ist auf der Spree-Oder-Wasserstraße von der Mündung in die Untere Havel-Wasserstraße (km 0,00) bis zur Stralauer Spitze (km 23,65) das Stillliegen außerhalb der durch die Tafelzeichen E.5 bis E.5.15 gekennzeichneten Liegestellen verboten.
 
 4.  
 Auf einem See oder einer seeartigen Erweiterung ist § 7.01 Nummer 1 Satz 1 unter der Voraussetzung, dass die durchgehende Schifffahrt nicht behindert wird, nicht anzuwenden.
@@ -16945,12 +17162,15 @@ Die zuständige Behörde kann ein Fahrzeug oder einen Verband mit einer von Numm
 ### § 21.27 Verkehrsbeschränkungen der Schifffahrt
 
 1.  
-Das Befahren der **Müggelspree** (MgS) vom Unterwasser des Wehres Große Tränke (km 44,85) bis zur Abzweigung aus der Spree-Oder-Wasserstraße (MgS-km 45,10), der Dehmsee-Einfahrt bis km 0,35, der Drahendorfer Spree bis km 0,38, der Kerdorfer See-Einfahrt bis km 0,12, des Brieskower Kanals bis km 0,55, des Zehlendorfer Stichkanals und der Wernsdorfer Seenkette von km 6,30 bis km 8,60 ist verboten. Satz 1 gilt nicht für ein Kleinfahrzeug.
+Das Befahren der **Müggelspree** (MgS) vom Unterwasser des Wehres Große Tränke (km 44,85) bis zur Abzweigung aus der Spree-Oder-Wasserstraße (MgS-km 45,10), der Dehmsee-Einfahrt bis km 0,35, der Drahendorfer Spree bis km 0,38, der *Kerdorfer*See-Einfahrt bis km 0,12, des Brieskower Kanals bis km 0,55, des Zehlendorfer Stichkanals und der Wernsdorfer Seenkette von km 6,30 bis km 8,60 ist verboten. Satz 1 gilt nicht für ein Kleinfahrzeug.
 
 2.  
-Auf dem **Berlin-Spandauer Schifffahrtskanal** vom Westhafen (km 8,35) bis zur Mündung in die Spree-Oder-Wasserstraße (km 12,20) darf ein Sportfahrzeug nicht fahren.
+Das Befahren des **Landwehrkanals** in der Bergfahrt ist verboten. Satz 1 gilt nicht für ein Fahrzeug ohne Antriebsmaschine und für ein Fahrzeug mit einer in Tätigkeit gesetzten Antriebsmaschine, deren größte nichtüberschreitbare Nutzleistung weniger als 3,69 kW beträgt.
 
 3.  
+Auf dem **Berlin-Spandauer Schifffahrtskanal** vom Westhafen (km 8,35) bis zur Mündung in die Spree-Oder-Wasserstraße (km 12,20) darf ein Sportfahrzeug nicht fahren.
+
+4.  
 Auf folgenden Seen und seenartigen Erweiterungen:
 
 a)  
@@ -16971,20 +17191,22 @@ e)
   
 darf ein Sportfahrzeug mit in Betrieb gesetztem Verbrennungsmotor während der Zeit von 22:00 Uhr bis 05:00 Uhr nicht fahren. Ein Sportfahrzeug, das seinen ständigen Liegeplatz am Ufer eines der Seen oder am Ufer einer der seenartigen Erweiterungen hat, darf diesen auf kürzestem Weg aufsuchen.
 
-4.  
+5.  
 Das Befahren der **Müggelspree** von Müggelhort (km 7,44) bis Dämeritzsee (km 11,38) sowie der **Wernsdorfer Seenkette** ist nur einem Fahrgastschiff, einem einzeln fahrenden Schlepper oder Schubschiff oder einem Kleinfahrzeug gestattet.
 
-5.  
+6.  
 Auf dem **Großen Müggelsee** darf ein Sportfahrzeug mit in Betrieb gesetztem Verbrennungsmotor die gekennzeichnete Fahrrinne nicht verlassen. Ein Sportfahrzeug, das seinen ständigen Liegeplatz am Ufer des Sees hat, darf diesen auf kürzestem Weg zur bezeichneten Fahrrinne verlassen oder aufsuchen.
 
-6.  
+7.  
 Die zuständige Behörde kann im Einzelfall von den Verboten und Einschränkungen nach Nummer 1 Satz 1, Nummer 2, 3 Satz 1, Nummer 4 und 5 ganz oder teilweise befreien. Der Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung ist an Bord mitzuführen und auf Verlangen den zur Kontrolle befugten Personen auszuhändigen.
+
+§ 21.27 Nr. 1: Kursivdruck müsste richtig „Kersdorf“ lauten
 
 ### § 21.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
 
-### § 21.29 Verhaltenspflichten des Schiffsführers,der Besatzung an Bord, des Eigentümers und des Ausrüsters
+### § 21.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 1.  
 Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils
@@ -16993,7 +17215,7 @@ a)
 sicherzustellen, dass das Fahrzeug oder der Verband
 
 aa)  
-die zugelassene Höchstgeschwindigkeit nach § 21.04 Nummer 1 bis 3, jeweils auch in Verbindung mit Nummer 5, und Nummer 4 Satz 1 nicht überschreitet und
+die zugelassene Höchstgeschwindigkeit nach § 21.04 Nummer 1 bis 3 und 4 Satz 1, jeweils auch in Verbindung mit Nummer 5, nicht überschreitet und
 
 bb)  
 die geforderte Mindestgeschwindigkeit nach § 21.04 Nummer 6 nicht unterschreitet und
@@ -17032,13 +17254,16 @@ bb)
 auf dem von ihm geführten Fahrzeug oder Verband in dem in § 21.02 Nummer 1.3.1 und 1.3.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist,
 
 cc)  
-auf dem von ihm geführten Fahrzeug in dem in § 21.02 Nummer 1.5.2 und 1.5.3 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist,
+auf dem von ihm geführten Fahrzeug in dem in § 21.02 Nummer 1.1.3, 1.1.4, 1.1.5, 1.2.3, 1.5.2 und 1.5.3 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist,
 
 dd)  
-auf dem von ihm geführten Sportfahrzeug, von dem aus Sporttauchen betrieben wird, die Bezeichnung nach § 21.21 geführt wird und
+auf dem von ihm geführten Sportfahrzeug, von dem aus Sporttauchen betrieben wird, die Bezeichnung nach § 21.21 geführt wird,
 
 ee)  
-der Bug eines von ihm geführten einzeln fahrenden oder schleppenden Fahrzeugs mit Pontonform der Form nach § 21.26 Nummer 1 Satz 1 entspricht,
+der Bug eines von ihm geführten einzeln fahrenden oder schleppenden Fahrzeugs mit Pontonform der Form nach § 21.26 Nummer 1 Satz 1 entspricht und
+
+ff)  
+der Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung nach § 21.27 Nummer 7 Satz 2 an Bord mitgeführt und auf Verlangen den zur Kontrolle befugten Personen ausgehändigt wird,
 
 b)  
 die Vorschriften über
@@ -17068,22 +17293,28 @@ e)
 die Sonderbestimmungen für Kleinfahrzeuge nach § 21.24 Nummer 1 bis 4 und 6 Satz 1 zu beachten oder sicherzustellen, dass diese beachtet werden,
 
 f)  
-das in § 21.27 Nummer 1 Satz 1 und Nummer 2 jeweils vorgesehene Verbot, die dort jeweils angegebenen Binnenschifffahrtsstraßen zu befahren, zu beachten oder sicherzustellen, dass dieses jeweils beachtet wird, und
+das in § 21.27 Nummer 1 Satz 1, Nummer 2 Satz 1 und Nummer 3 jeweils vorgesehene Verbot, die dort jeweils angegebenen Binnenschifffahrtsstraßen zu befahren, zu beachten oder sicherzustellen, dass dieses jeweils beachtet wird, und
 
 g)  
-die Verkehrsbeschränkungen nach § 21.27 Nummer 3 Satz 1, Nummer 4 und 5 Satz 1 zu beachten oder sicherzustellen, dass diese beachtet werden.
+die Verkehrsbeschränkungen nach § 21.27 Nummer 4 Satz 1, Nummer 5 und 6 Satz 1 zu beachten oder sicherzustellen, dass diese beachtet werden.
 
 3.  
-Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn
+Der Eigentümer und der Ausrüster
 
 a)  
+dürfen jeweils die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn
+
+aa)  
 das Fahrzeug oder der Verband die zugelassenen Höchstabmessungen und Abladetiefen nach § 21.02 Nummer 1 nicht überschreitet,
 
-b)  
+bb)  
 auf dem Fahrzeug oder Verband in dem in § 21.02 Nummer 1.3.1 und 1.3.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist und
 
-c)  
-auf dem Fahrzeug in dem in § 21.02 Nummer 1.5.2 und 1.5.3 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist.
+cc)  
+auf dem Fahrzeug in dem in § 21.02 Nummer 1.1.3, 1.1.4, 1.1.5, 1.2.3, 1.5.2 und 1.5.3 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist und
+
+b)  
+müssen jeweils dafür sorgen, dass der Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung nach § 21.27 Nummer 7 Satz 2 an Bord mitgeführt wird.
 
 Kapitel 22 Untere Havel-Wasserstraße und Havelkanal
 ---------------------------------------------------
@@ -18778,16 +19009,25 @@ f)
 ein Wasserrettungsfahrzeug nach § 1.24 Nummer 2 im Rettungseinsatz oder bei einer Kontrollfahrt,
 
 g)  
-ein Fahrzeug der Bundespolizei oder
+ein Fahrzeug der Bundespolizei,
 
 h)  
-ein Fahrzeug der Bundeswehr
+ein Fahrzeug der Bundeswehr,
+
+i)  
+ein Fahrzeug, das wasserbauliche Arbeiten durchführt,
+
+j)  
+ein Fahrzeug, das Transporte im Zusammenhang mit wasserbaulichen Arbeiten durchführt oder
+
+k)  
+ein Fischereifahrzeug
 
   
-auf der **Unteren Havel-Wasserstraße** von der Einmündung der Rathenower Have (km 104,20) bis zur Abzweigung des Stadtgrabens Havelberg (km 145,06) und der **Hohennauener Wasserstraße** nach Maßgabe des Satzes 2 fahren. Die zuständige Behörde kann das Befahren nach Satz 1 einschränken oder unter Auflagen stellen, wenn der Zustand der in Satz 1 genannten Strecken oder deren Benutzung dies erfordern.
+auf der **Unteren Havel-Wasserstraße** von der Einmündung der Rathenower Havel (km 104,20) bis zur Abzweigung des Stadtgrabens Havelberg (km 145,06) und der **Hohennauener Wasserstraße** nach Maßgabe der Sätze 2 bis 7 fahren. Die zuständige Behörde kann das Befahren nach Satz 1 einschränken oder unter Auflagen stellen, wenn der Zustand der in Satz 1 genannten Strecken oder deren Benutzung dies erfordern. Bei der Talfahrt hat die Einfahrt in die Hohennauener Wasserstraße durch ein Aufdrehmanöver über Backbord unterhalb der Einfahrt mit Abgabe eines Schallsignals (lang, kurz, kurz) zu erfolgen. Die Ausfahrt hat mit Kurs über Steuerbord zu erfolgen. Nach einem Aufdrehmanöver über Backbord unter Abgabe des entsprechenden Schallsignals kann die Bergfahrt aufgenommen werden. Begegnungen an Brücken über die Hohennauener Wasserstraße haben nach den Regeln über das Begegnen in engen Fahrwassern nach § 6.07 zu erfolgen. Die Sätze 3 bis 6 gelten nur für Sportfahrzeuge mit Maschinenantrieb, die führerscheinfrei oder mit einer Charterbescheinigung nach der Binnenschifffahrt-Sportbootvermietungsverordnung geführt werden dürfen.
 
 3.  
-Die Abladetiefe auf der **Unteren Havel-Wasserstraße** von der Einmündung der Rathenower Havel (km 104,20) bis zur Abzweigung des Stadtgrabens Havelberg (km 145,06) richtet sich nach der Fahrrinnentiefe. Die geringste Fahrrinnentiefe für die Strecke nach Satz 1 wird von der zuständigen Behörde täglich bekannt gemacht. Die höchstzulässige Abladetiefe auf der Strecke nach Satz 1 beträgt in Abhängigkeit von der Fahrrinnentiefe 1,40 m; dies gilt nicht für die Fahrzeuge nach Nummer 2 Satz 1 Buchstabe a bis h.
+Die Abladetiefe auf der **Unteren Havel-Wasserstraße** von der Einmündung der Rathenower Havel (km 104,20) bis zur Abzweigung des Stadtgrabens Havelberg (km 145,06) richtet sich nach der Fahrrinnentiefe. Die geringste Fahrrinnentiefe für die Strecke nach Satz 1 wird von der zuständigen Behörde täglich bekannt gemacht. Die höchstzulässige Abladetiefe auf der Strecke nach Satz 1 beträgt in Abhängigkeit von der Fahrrinnentiefe 1,40 m; dies gilt nicht für die Fahrzeuge nach Nummer 2 Satz 1 Buchstabe a bis k.
 
 4.  
 Die Abladetiefe auf der Hohennauener Wasserstraße richtet sich nach der Fahrrinnentiefe. Die geringste Fahrrinnentiefe wird von der zuständigen Behörde in Abhängigkeit vom Pegelstand festgesetzt und bekannt gemacht. Die höchstzulässige Abladetiefe beträgt 1,40 m; dies gilt nicht für die Fahrzeuge nach Nummer 2 Satz 1 Buchstabe a bis h.
@@ -18822,7 +19062,9 @@ Einem Kleinfahrzeug ist das Stillliegen ohne Erlaubnis der zuständigen Behörde
 Ein Kleinfahrzeug soll, sofern möglich, nur an den Enden einer Liegestelle stillliegen.
 
 6.  
-Ein unbemanntes Kleinfahrzeug darf nur an einer genehmigten Liegestelle stilliegen. Abweichend von Satz 1 darf ein unbemanntes Kleinfahrzeug an einer ungenehmigten Liegestelle bis zu einem Tag stillliegen. Satz 2 gilt nicht auf der **Unteren Havel-Wasserstraße** von km 0,00 bis km 4,00.
+Ein unbemanntes Kleinfahrzeug darf nur an einer genehmigten Liegestelle *stilliegen*. Abweichend von Satz 1 darf ein unbemanntes Kleinfahrzeug an einer ungenehmigten Liegestelle bis zu einem Tag stillliegen. Satz 2 gilt nicht auf der **Unteren Havel-Wasserstraße** von km 0,00 bis km 4,00.
+
+§ 22.24 Nr. 6 Kursivdruck: Müsste richtig „stillliegen" lauten
 
 ### § 22.25 Befahren der Altwässer, Kanäle und einzelner Wasserstraßen
 
@@ -18868,7 +19110,7 @@ Die zuständige Behörde kann im Einzelfall von den Verboten und Einschränkunge
 
 (keine besonderen Vorschriften)
 
-### § 22.29 Verhaltenspflichten des Schiffsführers,der Besatzung an Bord, des Eigentümers und des Ausrüsters
+### § 22.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 1.  
 Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils
@@ -18919,10 +19161,13 @@ bb)
 auf dem von ihm geführten Fahrzeug in dem in § 22.02 Nummer 1.1.2, 1.1.2.4, 1.1.2.5, 1.1.4.1, 1.1.5.2 und 1.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist,
 
 cc)  
-auf dem von ihm geführten Sportfahrzeug, von dem aus Sporttauchen betrieben wird, die Bezeichnung nach § 22.21 geführt wird und
+auf dem von ihm geführten Sportfahrzeug, von dem aus Sporttauchen betrieben wird, die Bezeichnung nach § 22.21 geführt wird,
 
 dd)  
-der Bug eines von ihm geführten einzeln fahrenden oder schleppenden Fahrzeugs mit Pontonform der Form nach § 22.26 Nummer 1 Satz 1 entspricht,
+der Bug eines von ihm geführten einzeln fahrenden oder schleppenden Fahrzeugs mit Pontonform der Form nach § 22.26 Nummer 1 Satz 1 entspricht und
+
+ee)  
+der Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung nach § 22.27 Nummer 8 Satz 2 an Bord mitgeführt und auf Verlangen den zur Kontrolle befugten Personen ausgehändigt wird,
 
 b)  
 die Vorschriften über
@@ -18943,31 +19188,39 @@ c)
 das in § 22.20 vorgesehene Verbot, zu segeln, zu beachten oder sicherzustellen, dass dieses beachtet wird,
 
 d)  
-die Sonderbestimmungen für Kleinfahrzeuge nach § 22.24 Nummer 1, 2, 4 und 6 zu beachten oder sicherzustellen, dass diese beachtet werden,
+die Verkehrsregelungen nach § 22.22 Nummer 2 Satz 3, 4, 5 und 6, jeweils in Verbindung mit Satz 7, zu beachten oder sicherzustellen, dass diese beachtet werden,
 
 e)  
-das in § 22.27 Nummer 1 und 2 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebenen Binnenschifffahrtsstraßen zu befahren, zu beachten, oder sicherzustellen, dass dieses jeweils beachtet wird, und
+die Sonderbestimmungen für Kleinfahrzeuge nach § 22.24 Nummer 1, 2, 4 und 6 zu beachten oder sicherzustellen, dass diese beachtet werden,
 
 f)  
+das in § 22.27 Nummer 1 und 2 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebenen Binnenschifffahrtsstraßen zu befahren, zu beachten, oder sicherzustellen, dass dieses jeweils beachtet wird, und
+
+g)  
 die Verkehrsbeschränkungen nach § 22.27 Nummer 3 Satz 1 und Nummer 4 bis 7 zu beachten oder sicherzustellen, dass diese beachtet werden.
 
 3.  
-Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn
+Der Eigentümer und der Ausrüster
 
 a)  
-das Fahrzeug oder der Verband
+dürfen jeweils die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn
 
 aa)  
+das Fahrzeug oder der Verband
+
+aaa)  
 die zugelassenen Höchstabmessungen nach § 22.02 Nummer 1 und § 22.22 Nummer 1 Satz 1 und Nummer 2 Satz 1 Buchstabe a, jeweils auch in Verbindung mit Nummer 6, und die zugelassenen Abladetiefen nach § 22.02 Nummer 1.1.3, 1.1.4.2, 1.1.5 bis 1.1.10 und 1.2 und § 22.22 Nummer 4 Satz 3 Halbsatz 1, auch in Verbindung mit Nummer 6, und
 
-bb)  
+bbb)  
 die zugelassenen Abladetiefen nach § 22.02 Nummer 1.1.1, 1.1.2 und 1.1.4.1 und § 22.22 Nummer 3 Satz 1 in Verbindung mit Satz 2 und 3 Halbsatz 1 und auch in Verbindung mit Nummer 6
 
-  
 nicht überschreitet und
 
+bb)  
+auf dem Fahrzeug in dem in § 22.02 Nummer 1.1.2, 1.1.2.4, 1.1.2.5, 1.1.4.1, 1.1.5.2 und 1.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist, und
+
 b)  
-auf dem Fahrzeug in dem in § 22.02 Nummer 1.1.2, 1.1.2.4, 1.1.2.5, 1.1.4.1, 1.1.5.2 und 1.2 jeweils genannten Fall die dort jeweils angegebene Ausrüstung vorhanden ist.
+müssen jeweils dafür sorgen, dass der Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung nach § 22.27 Nummer 8 Satz 2 an Bord mitgeführt wird.
 
 Kapitel 23 Havel-Oder-Wasserstraße
 ----------------------------------
@@ -19258,7 +19511,7 @@ m</td>
 <td>Fahrzeug</td>
 <td>82,00</td>
 <td>9,50</td>
-<td></td>
+<td>2,00</td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -19266,23 +19519,7 @@ m</td>
 <td>Verband</td>
 <td>147,00</td>
 <td>9,50</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>– die Abladetiefe richtet sich nach dem Wasserstand und wird von der zuständigen Behörde als Tauchtiefe gesondert festgesetzt und bekannt gemacht; diese Tauchtiefe darf nicht überschritten werden –</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1,80</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -19302,42 +19539,26 @@ m</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>a)</td>
-<td>Fahrzeug</td>
+<td>Verband</td>
 <td>82,00</td>
 <td>11,45</td>
 <td>1,65</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>b)</td>
-<td>Verband</td>
+<td></td>
 <td>100,00</td>
 <td>10,45</td>
 <td>1,65</td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td>147,00</td>
 <td>9,50</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>– sofern die Abladetiefe nicht bestimmt ist, richtet sich diese nach dem Wasserstand und wird von der zuständigen Behörde als Tauchtiefe gesondert festgesetzt und bekannt gemacht; diese Tauchtiefe darf nicht überschritten werden –</td>
-<td></td>
-<td></td>
-<td></td>
+<td>1,80</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -19362,7 +19583,7 @@ m</td>
 <td>Fahrzeug</td>
 <td>82,00</td>
 <td>9,50</td>
-<td></td>
+<td>2,00</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -19370,14 +19591,14 @@ m</td>
 <td>Verband</td>
 <td>91,00</td>
 <td>9,50</td>
-<td></td>
+<td>2,00</td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td>120,00</td>
 <td>9,00</td>
-<td></td>
+<td>2,00</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -19385,23 +19606,7 @@ m</td>
 <td></td>
 <td>135,00</td>
 <td>8,25</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>– die Abladetiefe richtet sich nach dem Wasserstand und wird von der zuständigen Behörde als Tauchtiefe gesondert festgesetzt und bekannt gemacht; diese Tauchtiefe darf nicht überschritten werden –</td>
-<td></td>
-<td></td>
-<td></td>
+<td>2,00</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -19413,14 +19618,6 @@ m</td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td>1.1.8</td>
 <td>km 92,89 bis km 123,50 (Abzweig Schwedter Querfahrt)</td>
 <td></td>
@@ -19428,7 +19625,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>a)</td>
 <td>Fahrzeug</td>
@@ -19436,7 +19633,7 @@ m</td>
 <td>9,50</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>b)</td>
 <td>Verband</td>
@@ -19444,7 +19641,7 @@ m</td>
 <td>9,50</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td>120,00</td>
@@ -19452,7 +19649,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td>135,00</td>
@@ -19460,7 +19657,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -19468,7 +19665,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>– die Abladetiefe richtet sich nach dem Wasserstand und wird von der zuständigen Behörde als Tauchtiefe gesondert festgesetzt und bekannt gemacht; diese Tauchtiefe darf nicht überschritten werden; ein Verband mit einer Länge von nicht mehr als 156,00 m und einer Breite von nicht mehr als 8,25 m darf fahren, wenn der Wasserstand am Außenpegel der Westschleuse Hohensaaten mehr als 115 cm beträgt –</td>
 <td></td>
@@ -19476,7 +19673,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -19484,7 +19681,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1.1.9</td>
 <td>km 123,50 bis km 134,96</td>
 <td></td>
@@ -19492,7 +19689,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>a)</td>
 <td>Fahrzeug</td>
@@ -19500,7 +19697,7 @@ m</td>
 <td>9,50</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>b)</td>
 <td>Verband</td>
@@ -19508,7 +19705,7 @@ m</td>
 <td>9,50</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -19516,7 +19713,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>– die Abladetiefe richtet sich nach dem Wasserstand und wird von der zuständigen Behörde als Tauchtiefe gesondert festgesetzt und bekannt gemacht; diese Tauchtiefe darf nicht überschritten werden –</td>
 <td></td>
@@ -19524,14 +19721,6 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
@@ -19541,6 +19730,14 @@ m</td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>1.1.10</td>
 <td><strong>Verbindungskanal Hohensaaten Ost</strong></td>
 <td></td>
@@ -19548,7 +19745,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>a)</td>
 <td>Fahrzeug</td>
@@ -19556,7 +19753,7 @@ m</td>
 <td>11,45</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -19564,7 +19761,7 @@ m</td>
 <td>10,45</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>b)</td>
 <td>Verband</td>
@@ -19572,7 +19769,7 @@ m</td>
 <td>11,45</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -19580,7 +19777,7 @@ m</td>
 <td>10,45</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -19588,7 +19785,7 @@ m</td>
 <td>9,50</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -19596,7 +19793,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>– die Abladetiefe richtet sich nach der Fahrrinnentiefe; die geringste Fahrrinnentiefe wird von der zuständigen Behörde täglich bekannt gemacht –</td>
 <td></td>
@@ -19604,7 +19801,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -19612,7 +19809,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1.1.11</td>
 <td><strong>Tegeler See</strong></td>
 <td></td>
@@ -19620,7 +19817,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>a)</td>
 <td>Fahrzeug</td>
@@ -19628,7 +19825,7 @@ m</td>
 <td>9,00</td>
 <td>2,00</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>b)</td>
 <td>Verband</td>
@@ -19636,7 +19833,7 @@ m</td>
 <td>9,00</td>
 <td>2,00</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -19644,7 +19841,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>– ein Fahrzeug oder ein Schubverband mit jeweils einer Länge von mehr als 80,00 m und nicht mehr als 82,00 m und einer Breite von mehr als 9,00 m und nicht mehr als 9,50 m darf fahren, wenn es oder er eine Abladetiefe von 1,90 m nicht überschreitet und mit einer aktiven Bugsteuereinrichtung ausgerüstet ist –</td>
 <td></td>
@@ -19652,7 +19849,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -19660,7 +19857,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1.1.12</td>
 <td><strong>Veltener Stichkanal</strong></td>
 <td></td>
@@ -19668,7 +19865,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>a)</td>
 <td>Fahrzeug</td>
@@ -19676,7 +19873,7 @@ m</td>
 <td>9,50</td>
 <td>1,90</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>b)</td>
 <td>Schubverband</td>
@@ -19684,7 +19881,7 @@ m</td>
 <td>9,50</td>
 <td>1,90</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td>91,00</td>
@@ -19692,7 +19889,7 @@ m</td>
 <td>2,00</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -19700,7 +19897,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>1.1.13</td>
 <td><strong>Oranienburger Kanal</strong></td>
 <td></td>
@@ -19708,7 +19905,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>km 21,01 (Havel-Oder-Wasserstraße) bis km 28,77 (Kanalkreuz)</td>
 <td></td>
@@ -19716,7 +19913,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>Fahrzeug/Verband</td>
 <td>41,50</td>
@@ -19724,7 +19921,7 @@ m</td>
 <td>1,30</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -19732,7 +19929,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>1.1.14</td>
 <td><strong>Oranienburger Havel</strong></td>
 <td></td>
@@ -19740,7 +19937,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -19748,7 +19945,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>1.1.14.1</td>
 <td>km 0,13 (Havel-Oder-Wasserstraße) bis km 2,81</td>
 <td></td>
@@ -19756,7 +19953,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>Fahrzeug</td>
 <td>20,00</td>
@@ -19764,7 +19961,7 @@ m</td>
 <td>1,40</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -19772,7 +19969,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>soweit nachfolgend nicht etwas anderes festgelegt ist</td>
 <td></td>
@@ -19780,7 +19977,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -19788,7 +19985,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1.1.14.2</td>
 <td>km 0,13 bis km 1,83</td>
 <td></td>
@@ -19796,7 +19993,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>Fahrzeug/Verband</td>
 <td>41,50</td>
@@ -19804,7 +20001,7 @@ m</td>
 <td>1,40</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -19812,7 +20009,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>1.1.15</td>
 <td><strong>Malzer Kanal (bei Malz)</strong></td>
 <td></td>
@@ -19820,7 +20017,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>km 35,54 (Havel-Oder-Wasser straße) bis km 35,16 (Oberwasser Schleuse Malz)</td>
 <td></td>
@@ -19828,7 +20025,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>a)</td>
 <td>Fahrzeug</td>
@@ -19836,7 +20033,7 @@ m</td>
 <td>9,50</td>
 <td>1,75</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>b)</td>
 <td>Verband</td>
@@ -19844,7 +20041,7 @@ m</td>
 <td>9,50</td>
 <td>1,75</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td>91,00</td>
@@ -19852,7 +20049,7 @@ m</td>
 <td>1,85</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -19860,7 +20057,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>1.1.16</td>
 <td><strong>Finowkanal</strong></td>
 <td></td>
@@ -19868,7 +20065,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>Fahrzeug/Verband</td>
 <td>41,50</td>
@@ -19876,7 +20073,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -19884,7 +20081,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>– die Abladetiefe richtet sich nach dem Wasserstand und wird von der zuständigen Behörde als Tauchtiefe gesondert festgesetzt und bekannt gemacht; diese Tauchtiefe darf nicht überschritten werden –</td>
 <td></td>
@@ -19892,7 +20089,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -19900,7 +20097,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1.1.17</td>
 <td><strong>Werbelliner Gewässer</strong></td>
 <td></td>
@@ -19908,7 +20105,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -19916,7 +20113,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1.1.17.1</td>
 <td>km 2,73 bis km 20,00</td>
 <td></td>
@@ -19924,7 +20121,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>Fahrzeug/Verband</td>
 <td>25,00</td>
@@ -19932,7 +20129,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -19940,7 +20137,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>– von km 3,38 bis km 10,48 darf ein Fahrzeug oder ein Schubverband mit jeweils einer Länge von mehr als 25,00 m und nicht mehr als 32,50 m fahren, wenn es oder er mit einer aktiven Bugsteuereinrichtung ausgerüstet ist –</td>
 <td></td>
@@ -19948,7 +20145,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -19956,7 +20153,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>soweit nachfolgend nicht etwas anderes festgelegt ist</td>
 <td></td>
@@ -19964,7 +20161,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -19972,7 +20169,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>1.1.17.2</td>
 <td>km 2,73 bis km 3,15</td>
 <td></td>
@@ -19980,7 +20177,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>Fahrzeug/Verband</td>
 <td>41,50</td>
@@ -19988,7 +20185,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -19996,7 +20193,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1.1.17.3</td>
 <td>km 10,48 bis km 20,00</td>
 <td></td>
@@ -20004,7 +20201,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>Fahrzeug/Verband</td>
 <td>41,50</td>
@@ -20012,16 +20209,8 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
-<td>Die Abladetiefe richtet sich in Nummer 1.1.17 nach dem Wasserstand und wird von der zuständigen Behörde als Tauchtiefe gesondert festgesetzt und bekannt gemacht. Diese Tauchtiefe darf nicht überschritten werden.</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -20029,7 +20218,7 @@ m</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td>Die Abladetiefe richtet sich in Nummer 1.1.17 nach dem Wasserstand auf der Grundlage von Tauchtiefen. Diese betragen</td>
 <td></td>
 <td></td>
 <td></td>
@@ -20037,6 +20226,46 @@ m</td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td>– von km 2,73 bis km 3,20 und von km 3,40 bis km 6,10 jeweils 120 cm bei einem Wasserstand von 829 cm am Oberpegel des Schiffshebewerkes Niederfinow;</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>– von km 6,10 bis km 8,70 120 cm bei einem Wasserstand von 400 cm am Oberpegel der Schleuse Rosenbeck;</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>– von km 8,70 bis km 10,48 120 cm bei einem Wasserstand von 400 cm am Oberpegel der Schleuse Eichhorst;</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>– von km 10,48 bis km 20,00 140 cm.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Sinkt der Wasserstand an den jeweiligen Bezugspegeln, verringert sich die Tauchtiefe entsprechend. Von km 3,20 bis km 3,40 wird die Tauchtiefe von der zuständigen Behörde festgesetzt und bekannt gemacht. Die Tauchtiefen dürfen nicht überschritten werden.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>1.1.18</td>
 <td><strong>Wriezener Alte Oder</strong></td>
 <td></td>
@@ -20044,12 +20273,20 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>Fahrzeug/Verband</td>
 <td>67,00</td>
 <td>8,25</td>
-<td>1,75</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Die Abladetiefe richtet sich nach dem Wasserstand auf der Grundlage einer Tauchtiefe von 150 cm bei einem Wasserstand von 199 cm am Pegel Hohensaaten West Binnen. Sinkt der Wasserstand am Bezugspegel, verringert sich die Tauchtiefe entsprechend. Die Tauchtiefe darf nicht überschritten werden.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -20380,7 +20617,7 @@ Die zuständige Behörde kann im Einzelfall von den Verboten oder Einschränkung
 
 (keine besonderen Vorschriften)
 
-### § 23.29 Verhaltenspflichten des Schiffsführers,der Besatzung an Bord, des Eigentümers und des Ausrüsters
+### § 23.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 1.  
 Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils
@@ -20422,12 +20659,11 @@ aa)
 das von ihm geführte Fahrzeug oder der von ihm geführte Verband
 
 aaa)  
-die zugelassenen Höchstabmessungen und Abladetiefen nach § 23.02 Nummer 1.1.1 bis 1.1.4, 1.1.6 Buchstabe a und b, Buchstabe b hinsichtlich der ersten Verbandsabmessung, Nummer 1.1.11 bis 1.1.15 und 1.1.18 und die zugelassenen Höchstabmessungen nach § 23.02 Nummer 1.1.5, 1.1.6 Buchstabe b hinsichtlich der zweiten Verbandsabmessung, Nummer 1.1.7 bis 1.1.10, 1.1.16, 1.1.17 und 1.1.19 und
+die zugelassenen Höchstabmessungen und Abladetiefen nach § 23.02 Nummer 1.1.1 bis 1.1.7 und 1.1.11 bis 1.1.15 und die zugelassenen Höchstabmessungen nach § 23.02 Nummer 1.1.8 bis 1.1.10 und 1.1.16 bis 1.1.19 und
 
 bbb)  
-die zugelassenen Abladetiefen nach § 23.02 Nummer 1.1.5, 1.1.6 Buchstabe b hinsichtlich der zweiten Verbandsabmessung, Nummer 1.1.7 bis 1.1.10, 1.1.16, 1.1.17 und 1.1.19
+die zugelassenen Abladetiefen nach § 23.02 Nummer 1.1.8 bis 1.1.10 und 1.1.16 bis 1.1.19
 
-  
 nicht überschreitet,
 
 bb)  
@@ -20446,7 +20682,7 @@ aa)
 die Zusammenstellung der Verbände nach § 23.03 Nummer 1, 2 Satz 1 oder Nummer 3 und
 
 bb)  
-das Stillliegen nach § 23.10 Nummer 2 Satz 1 und § 23.22 Nummer 3 Satz 1
+das Stillliegen nach § 23.10 Nummer 2 Satz 1 und Nummer 3 Satz 1
 
   
 einzuhalten oder sicherzustellen, dass diese eingehalten werden,
@@ -20473,12 +20709,11 @@ aa)
 das Fahrzeug oder der Verband
 
 aaa)  
-die zugelassenen Höchstabmessungen oder Abladetiefen nach § 23.02 Nummer 1.1.1 bis 1.1.4, 1.1.6 Buchstabe a und b, Buchstabe b hinsichtlich der ersten Verbandsabmessung, Nummer 1.1.11 bis 1.1.15 und 1.1.18 und die zugelassenen Höchstabmessungen nach § 23.02 Nummer 1.1.5, 1.1.6 Buchstabe b hinsichtlich der zweiten Verbandsabmessung, Nummer 1.1.7 bis 1.1.10, 1.1.16, 1.1.17 und 1.1.19 und
+die zugelassenen Höchstabmessungen und Abladetiefen nach § 23.02 Nummer 1.1.1 bis 1.1.7 und 1.1.11 bis 1.1.15 und die zugelassenen Höchstabmessungen nach § 23.02 Nummer 1.1.8 bis 1.1.10 und 1.1.16 bis 1.1.19 und
 
 bbb)  
-die zugelassenen Abladetiefen nach § 23.02 Nummer 1.1.5, 1.1.6 Buchstabe b hinsichtlich der zweiten Verbandsabmessung, Nummer 1.1.7 bis 1.1.10, 1.1.16, 1.1.17 und 1.1.19
+die zugelassenen Abladetiefen nach § 23.02 Nummer 1.1.8 bis 1.1.10 und 1.1.16 bis 1.1.19
 
-  
 nicht überschreitet und
 
 bb)  
@@ -20503,7 +20738,7 @@ dem **Malzer Kanal** (MzK) von der Einmündung in die Havel-Oder-Wasserstraße (
 der **Oberen Havel-Wasserstraße** (OHW) vom Abzweig Langer Trödel (OHW-km 0,00/MzK-km 46,90) bis Neustrelitz (Nordostende Zierker See bei OHW-km 94,41) einschließlich Vosskanal, Obere Havel (Stolpsee, Schwedtsee, Baalensee, Röblinsee, Menowsee, Ziernsee, Ostteil des Ellbogensees, Großer und Kleiner Priepertsee, Westteil des Wangnitzsees, Finowsee, Westteil des Drewensees, Woblitzsee und Zierker See) mit Wentow-Gewässer nebst Fahrt nach Tornow und Tornowfließ (einschließlich Wentowkanal, Großer und Kleiner Wentowsee), Templiner Gewässer (Templiner Wasser, Kuhwallsee, Kleiner Lankensee, Röddelinsee, Templiner Kanal, Templiner See, Bruchsee, Fährsee und Zaarsee nebst Großer Lankensee und Gleuensee (Gleuenfließ)), Lychener Gewässer (Haussee, Woblitz, Großer Lychensee und Stadtsee), Quassower Havel von der Einmündung in den Woblitzsee bei km 87,23 bis Unterwasser Schleuse Zwenzow (km 92,09) einschließlich Großer Labussee,
 
 3.  
-der **Müritz-Havel-Wasserstraße** (MHW) von der Einmündung in die Obere Havel-Wasserstraße (MHW-km 0,00/Ellbogensee bei Priepert, OHW-km 72,45) bis zur Abzweigung aus der Müritz-Elde-Wasserstraße (MHW-km 32,02/ Kleine Müritz, bei MEW-km 171,68) einschließlich Westteil des Ellbogensees, Nordteil des Großen Pälitzsees, Nordteil des Kleinen Pälitzsees, Canower See, Labussee, Kleiner Peetschsee, Nordteil des Großen Peetschsees, Ostteil des Vilzsees, Mössensee, Zotzensee und Mirower Kanal (Ragunsee, Sumpfsee) mit Südwestteil des Großen Pälitzsees, Rheinsberger Gewässer (Südteil des Kleinen Pälitzsees, Wolfsbrucher Schleusenkanal, Prebelowsee, Prebelowkanal, Tietzowsee, Hüttenkanal, Schlabornsee, Schlabornkanal, Rheinsberger See, Rheinsberger Kanal und Grienericksee) nebst Dollgowkanal und Dollgowsee, Zechliner Gewässer (Zootzenkanal, Zootzensee, Repenter Kanal, Großer Zechliner See, Zechliner Kanal, Schwarzer See), Großer Peetschsee, Westteil des Vilzsees und Mirower Adlersee bis Holmer Kamp (km 3,06), Mirower See, Bolter Kanal von dem Oberwasser der ehemaligen Schleuse Bolt bei km 2,07 bis zur Abzweigung aus der Müritz-Elde-Wasserstraße (Müritz) und
+der **Müritz-Havel-Wasserstraße** (MHW) von der Einmündung in die Obere Havel-Wasserstraße (MHW-km 0,00/Ellbogensee bei Priepert, OHW-km 72,45) bis zur Abzweigung aus der Müritz-Elde-Wasserstraße (MHW-km 32,02/ Kleine Müritz, bei MEW-km 171,68) einschließlich Westteil des Ellbogensees, Nordteil des Großen Pälitzsees, Nordteil des Kleinen Pälitzsees, Canower See, Labussee, Kleiner Peetschsee, Nordteil des Großen Peetschsees, Ostteil des Vilzsees, Mössensee, Zotzensee und Mirower Kanal (Ragunsee, Sumpfsee) mit Südwestteil des Großen Pälitzsees, Rheinsberger Gewässer (Südteil des Kleinen Pälitzsees, Wolfsbrucher Schleusenkanal, Prebelowsee, Prebelowkanal, Tietzowsee, Hüttenkanal, Schlabornsee, Schlabornkanal, Rheinsberger See, Rheinsberger Kanal und Grienericksee) nebst Dollgowkanal und Dollgowsee, Zechliner Gewässer (Zootzenkanal, Zootzensee, Repenter Kanal, Großer Zechliner See, Zechliner Kanal, Schwarzer See), Großer Peetschsee, Westteil des Vilzsees und Mirower Adlersee bis Holmer Kamp (km 3,06), Mirower See, Bolter Kanal von dem Oberwasser der ehemaligen Schleuse Bolt bei km 1,97 bis zur Abzweigung aus der Müritz-Elde-Wasserstraße (Müritz) und
 
 4.  
 der **Müritz-Elde-Wasserstraße** (MEW) von der Einmündung des Elde-Seitenkanals in die Elbe (MEW-km 0,00/ El-km 504,08) bis Buchholz (MEW-km 180,00) einschließlich Elde-Seitenkanal und Mecklenburgische Oberseen (Plauer See, Petersdorfer See, Malchower See, Fleesensee, Kölpinsee, Müritz) mit Verbindungskanal Elde-Dreieck, Stör-Wasserstraße (StW-Störkanal, Stör und Schweriner See (von der Einmündung des Stangengrabens in den Schweriner See (Innensee, bei StW-km 25,29) bis zur Abzweigung des Wickendorfer Kanals/Langen Grabens aus dem Schweriner Außensee bei StW-km 30,34) nebst Ziegelsee).
@@ -20568,7 +20803,7 @@ m</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td></td>
+<td>Die Abladetiefe richtet sich nach dem Wasserstand auf der Grundlage einer Tauchtiefe von 160 cm. Diese Tauchtiefe darf nicht überschritten werden.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -20576,21 +20811,13 @@ m</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>Die Abladetiefe richtet sich nach dem Wasserstand und wird von der zuständigen Behörde als Tauchtiefe festgesetzt und bekannt gemacht. Diese Tauchtiefe darf nicht überschritten werden.</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>1.2</td>
 <td><strong>Obere Havel-Wasserstraße</strong></td>
 <td></td>
@@ -20598,17 +20825,9 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td>1.2.1</td>
-<td>Mzk-km 46,90 (Abzweig langer Trödel, OHW-km 0,00) bis OHW-km 94,41 (Nordostende Zierker See, Neustrelitz)</td>
+<td>MzK-km 46,90 (Abzweig langer Trödel, OHW-km 0,00) bis OHW-km 94,41 (Nordostende Zierker See, Neustrelitz)</td>
 <td></td>
 <td></td>
 <td></td>
@@ -20624,23 +20843,7 @@ m</td>
 </tr>
 <tr class="even">
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
 <td>soweit nachfolgend nicht etwas anderes festgelegt ist</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -20671,14 +20874,6 @@ m</td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td>1.2.3</td>
 <td>km 14,60 bis km 22,00</td>
 <td></td>
@@ -20686,7 +20881,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>a)</td>
 <td>Fahrzeug</td>
@@ -20694,20 +20889,12 @@ m</td>
 <td>8,25</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>b)</td>
 <td>Verband</td>
 <td>82,00</td>
 <td>8,25</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -20752,21 +20939,13 @@ m</td>
 </tr>
 <tr class="even">
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
 <td>– ein Schubverband darf nur mit nicht mehr als einem geschobenen Fahrzeug verkehren –</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -20774,7 +20953,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1.2.5</td>
 <td><strong>Templiner Gewässer</strong></td>
 <td></td>
@@ -20782,7 +20961,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -20790,7 +20969,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1.2.5.1</td>
 <td>km 0,00 bis km 22,00</td>
 <td></td>
@@ -20798,19 +20977,11 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>Fahrzeug</td>
 <td>27,00</td>
 <td>4,70</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -20823,14 +20994,6 @@ m</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>1.2.5.2</td>
 <td>km 0,00 bis km 9,50</td>
 <td></td>
@@ -20838,19 +21001,11 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>Fahrzeug/Verband</td>
 <td>41,60</td>
 <td>4,70</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -20872,21 +21027,13 @@ m</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
 <td>– ein Schubverband darf nur mit nicht mehr als einem geschobenen Fahrzeug verkehren –</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -20894,7 +21041,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>1.2.6</td>
 <td><strong>Lychener Gewässer</strong></td>
 <td></td>
@@ -20902,7 +21049,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>Fahrzeug/Verband</td>
 <td>41,60</td>
@@ -20910,40 +21057,80 @@ m</td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td>1.2.7</td>
+<td><strong>Quassower Havel</strong></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td>1.2.7</td>
-<td>Quassower Havel</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td></td>
 <td>Fahrzeug/Verband</td>
 <td>41,60</td>
-<td>4,60</td>
+<td>4,60.</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Die Abladetiefe richtet sich in Nummer 1.2 nach dem Wasserstand auf der Grundlage von Tauchtiefen. Diese betragen</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td></td>
+<td>– von OHW-km 0,00 bis OHW-km 22,00 160 cm;</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td>Die Abladetiefe richtet sich nach dem Wasserstand und wird von der zuständigen Behörde als Tauchtiefe festgesetzt und bekannt gemacht. Diese Tauchtiefe darf nicht überschritten werden.</td>
+<td></td>
+<td>– von OHW-km 22,00 bis OHW-km 94,41 140 cm;</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>– auf den Wentow-Gewässern 120 cm bei einem Wasserstand von 275 cm am Oberpegel Schleuse Marienthal;</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>– auf den Templiner Gewässern und den Lychener Gewässern jeweils 120 cm;</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>– auf der Quassower Havel von km 87,23 (Woblitzsee) bis km 90,75 (Großer Labussee) 90 cm. Sinkt der Wasserstand am Oberpegel Wesenberg auf 260 cm oder am Unterpegel Voßwinkel auf 174 cm, beträgt die Tauchtiefe 80 cm. Sinkt der Wasserstand an den Bezugspegeln weiter, verringert sich die Tauchtiefe entsprechend.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Soweit die Tauchtiefen nicht in Satz 3 festgelegt sind, werden diese von der zuständigen Behörde festgesetzt und bekannt gemacht. Die Tauchtiefen dürfen nicht überschritten werden.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -20967,14 +21154,6 @@ m</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td>1.3.1</td>
 <td>km 0,00 (Einmündung in die Obere Havel-Wasserstraße) bis km 32,02 (Abzweigung aus der Müritz-Elde-Wasserstraße)</td>
 <td></td>
@@ -20982,19 +21161,11 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>Fahrzeug/Verband</td>
 <td>41,60</td>
 <td>5,10</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -21091,11 +21262,11 @@ m</td>
 <td>b)</td>
 <td>Verband</td>
 <td>41,60</td>
-<td>4,60</td>
+<td>4,60.</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td>Die Abladetiefe richtet sich in Nummer 1.3 nach dem Wasserstand auf der Grundlage von Tauchtiefen. Diese betragen</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21103,8 +21274,8 @@ m</td>
 <td></td>
 </tr>
 <tr class="even">
-<td>Die Abladetiefe richtet sich nach dem Wasserstand und wird von der zuständigen Behörde als Tauchtiefe festgesetzt und bekannt gemacht. Diese Tauchtiefe darf nicht überschritten werden.</td>
 <td></td>
+<td>– von MHW-km 0,00 bis MHW-km 32,02 und auf den Rheinsberger Gewässern jeweils 140 cm;</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21112,6 +21283,22 @@ m</td>
 </tr>
 <tr class="odd">
 <td></td>
+<td>– auf den Zechliner Gewässern 100 cm;</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>– vom Schlabornsee bis zum Dollgowsee 110 cm.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Soweit die Tauchtiefen nicht in Satz 3 festgelegt sind, werden diese von der zuständigen Behörde festgesetzt und bekannt gemacht. Die Tauchtiefen dürfen nicht überschritten werden.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -21119,6 +21306,14 @@ m</td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>1.4</td>
 <td><strong>Müritz-Elde-Wasserstraße mit Verbindungskanal Elde-Dreieck</strong></td>
 <td></td>
@@ -21126,7 +21321,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -21134,7 +21329,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>1.4.1</td>
 <td>km 0,00 (Elbe) bis km 180,00</td>
 <td></td>
@@ -21142,7 +21337,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>Fahrzeug/Verband</td>
 <td>41,60</td>
@@ -21150,7 +21345,7 @@ m</td>
 <td>1,20</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -21158,7 +21353,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>soweit nachfolgend nicht etwas anderes festgelegt ist</td>
 <td></td>
@@ -21166,7 +21361,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -21174,7 +21369,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1.4.2</td>
 <td>km 120,05 bis km 180,00 (Buchholz)</td>
 <td></td>
@@ -21182,7 +21377,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>Fahrzeug/Verband</td>
 <td>41,60</td>
@@ -21190,7 +21385,7 @@ m</td>
 <td>1,40</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -21198,7 +21393,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>1.4.3</td>
 <td><strong>Stör-Wasserstraße</strong></td>
 <td></td>
@@ -21206,7 +21401,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -21214,7 +21409,7 @@ m</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>1.4.3.1</td>
 <td>km 0,00 (Müritz-Elde-Wasserstraße)<br />
 bis km 44,90 (bei Hohen Viecheln)</td>
@@ -21223,7 +21418,7 @@ bis km 44,90 (bei Hohen Viecheln)</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>Fahrzeug/Verband</td>
 <td>41,60</td>
@@ -21231,7 +21426,7 @@ bis km 44,90 (bei Hohen Viecheln)</td>
 <td>1,20</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -21239,7 +21434,7 @@ bis km 44,90 (bei Hohen Viecheln)</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>soweit nachfolgend nicht etwas anderes festgelegt ist</td>
 <td></td>
@@ -21247,7 +21442,7 @@ bis km 44,90 (bei Hohen Viecheln)</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -21255,7 +21450,7 @@ bis km 44,90 (bei Hohen Viecheln)</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1.4.3.2</td>
 <td>km 19,71 bis km 44,70 (bei Hohen Viecheln)</td>
 <td></td>
@@ -21263,7 +21458,7 @@ bis km 44,90 (bei Hohen Viecheln)</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>Fahrzeug/Verband</td>
 <td>41,60</td>
@@ -21290,23 +21485,23 @@ Die zuständige Behörde kann abweichend von Nummer 2 Satz 1 Ausnahmen zulassen.
 
 ### § 24.04 Fahrgeschwindigkeit
 
-|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                      |          |     |
-|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-----|
-| 1.  | Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt für ein Fahrzeug oder einen Verband, ausgenommen Kleinfahrzeuge ohne Maschinenantrieb,                                                                                                                                                                                                                                                                                                | 6 km/h.  |     |
-|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                      |          |     |
-| 2.  | Abweichend von Nummer 1 beträgt die zulässige Höchstgeschwindigkeit gegenüber dem Ufer für ein Kleinfahrzeug mit Maschinenantrieb                                                                                                                                                                                                                                                                                                                    | 9 km/h.  |     |
-|     | Satz 1 gilt nicht auf den **Wentow-Gewässern** von km 0,00 bis km 2,00 (Wentowkanal), auf den **Templiner Gewässern** von km 0,00 bis km 22,00, auf dem **Dollgowkanal**, auf den Kanälen der **Zechliner Gewässer**, auf dem **Bolter Kanal**, auf der **Müritz-Elde-Wasserstraße** von km 0,00 bis km 121,00 und auf der **Stör-Wasserstraße** von km 0,00 bis km 19,90.                                                                           |          |     |
-|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                      |          |     |
-| 3.  | Abweichend von Nummer 1 beträgt die zulässige Höchstgeschwindigkeit gegenüber dem Ufer für ein Fahrzeug oder einen Verband, ausgenommen Kleinfahrzeuge ohne Maschinenantrieb, auf dem **Malzer Kanal** und auf der **Oberen Havel-Wasserstraße** von km 0,00 bis km 23,50                                                                                                                                                                            | 9 km/h.  |     |
-|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                      |          |     |
-| 4.  | Abweichend von Nummer 1, 2 Satz 1 und Nummer 3 beträgt die zulässige Höchstgeschwindigkeit gegenüber dem Ufer für ein Fahrzeug oder einen Verband auf einem See oder einer seeartigen Erweiterung mit jeweils einer Gewässerbreite von mehr als 250,00 m                                                                                                                                                                                             | 12 km/h. |     |
-|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                      |          |     |
-| 5.  | Abweichend von Nummer 1, 2 Satz 1 und Nummer 3 beträgt die zulässige Höchstgeschwindigkeit gegenüber dem Ufer für ein Sportfahrzeug mit Maschinenantrieb auf einem See oder einer seeartigen Erweiterung mit jeweils einer Gewässerbreite von mehr als 250,00 m außerhalb des ufernahen Schutzstreifens                                                                                                                                              | 25 km/h. |     |
-|     | Als ufernaher Schutzstreifen gilt eine 100,00 m breite parallel zur Uferlinie (Land-WasserÜbergang) verlaufende Wasserfläche.                                                                                                                                                                                                                                                                                                                        |          |     |
-|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                      |          |     |
-| 6.  | Die zuständige Behörde kann abweichend von den Nummern 1 und 4 im Einzelfall für ein Fahrgastschiff, das nach einem festen Fahrplan nach § 9.01 verkehrt, für einzelne Strecken oder aus einem besonderen Anlass für ein Fahrgastschiff oder ein Aufsichtsboot der Sportvereine oder -verbände höhere Geschwindigkeiten zulassen, wenn dadurch der Zustand der Wasserstraße sowie der übrige Schiffsverkehr nicht über Gebühr beeinträchtigt werden. |          |     |
-|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                      |          |     |
-| 7.  | Die Mindestgeschwindigkeit gegenüber dem Ufer beträgt für ein Fahrzeug oder einen Verband, ausgenommen Kleinfahrzeuge, auf der **Oberen Havel-Wasserstraße** von der Einmündung in die Havel-Oder-Wasserstraße bis km 23,50                                                                                                                                                                                                                          | 4 km/h.  |     |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                         |          |     |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-----|
+| 1.  | Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt für ein Fahrzeug oder einen Verband, ausgenommen Kleinfahrzeuge ohne Maschinenantrieb,                                                                                                                                                                                                                                                                                                   | 6 km/h.  |     |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                         |          |     |
+| 2.  | Abweichend von Nummer 1 beträgt die zulässige Höchstgeschwindigkeit gegenüber dem Ufer für ein Kleinfahrzeug mit Maschinenantrieb                                                                                                                                                                                                                                                                                                                       | 9 km/h.  |     |
+|     | Satz 1 gilt nicht auf den **Wentow-Gewässern** von km 0,00 bis km 2,00 (Wentowkanal), auf den **Templiner Gewässern** von km 0,00 bis km 22,00, auf dem **Dollgowkanal**, auf den Kanälen der **Zechliner Gewässer**, auf dem **Bolter Kanal**, auf der **Müritz-Elde-Wasserstraße** von km 0,00 bis km 121,00 und auf der **Stör-Wasserstraße** von km 0,00 bis km 19,90.                                                                              |          |     |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                         |          |     |
+| 3.  | Abweichend von Nummer 1 beträgt die zulässige Höchstgeschwindigkeit gegenüber dem Ufer für ein Fahrzeug oder einen Verband, ausgenommen Kleinfahrzeuge ohne Maschinenantrieb, auf dem **Malzer Kanal** und auf der **Oberen Havel-Wasserstraße** von km 0,00 bis km 23,50                                                                                                                                                                               | 9 km/h.  |     |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                         |          |     |
+| 4.  | Abweichend von Nummer 1, 2 Satz 1 und Nummer 3 beträgt die zulässige Höchstgeschwindigkeit gegenüber dem Ufer für ein Fahrzeug oder einen Verband auf einem See oder einer seeartigen Erweiterung mit jeweils einer Gewässerbreite von mehr als 250,00 m                                                                                                                                                                                                | 12 km/h. |     |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                         |          |     |
+| 5.  | Abweichend von Nummer 1, 2 Satz 1 und Nummer 3 beträgt die zulässige Höchstgeschwindigkeit gegenüber dem Ufer für ein Sportfahrzeug mit Maschinenantrieb auf einem See oder einer seeartigen Erweiterung mit jeweils einer Gewässerbreite von mehr als 250,00 m außerhalb des ufernahen Schutzstreifens                                                                                                                                                 | 25 km/h. |     |
+|     | Als ufernaher Schutzstreifen gilt eine 100,00 m breite parallel zur Uferlinie (Land-Wasser-Übergang) verlaufende Wasserfläche.                                                                                                                                                                                                                                                                                                                          |          |     |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                         |          |     |
+| 6.  | Die zuständige Behörde kann abweichend von den Nummern 1, 4 und 5 im Einzelfall für ein Fahrgastschiff, das nach einem festen Fahrplan nach § 9.01 verkehrt, für einzelne Strecken oder aus einem besonderen Anlass für ein Fahrgastschiff oder ein Aufsichtsboot der Sportvereine oder -verbände höhere Geschwindigkeiten zulassen, wenn dadurch der Zustand der Wasserstraße sowie der übrige Schiffsverkehr nicht über Gebühr beeinträchtigt werden. |          |     |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                         |          |     |
+| 7.  | Die Mindestgeschwindigkeit gegenüber dem Ufer beträgt für ein Fahrzeug oder einen Verband, ausgenommen Kleinfahrzeuge, auf der **Oberen Havel-Wasserstraße** von der Einmündung in die Havel-Oder-Wasserstraße bis km 23,50                                                                                                                                                                                                                             | 4 km/h.  |     |
 
 ### § 24.05 Bergfahrt
 
@@ -21438,7 +21633,7 @@ e)
 von der Ausfahrt des Kölpinsees (km 147,00) bis zur Einfahrt der Müritz (km 149,50),
 
 2.  
-**Stör-Wasserstraße** von der Müritz-Elde-Wasserstraße (km 0,00) bis zum Schwedter See (km 19,87) ist verboten.
+**Stör-Wasserstraße** von der Müritz-Elde-Wasserstraße (km 0,00) bis zum Schweriner See (km 19,87) ist verboten.
 
 ### § 24.21 Bezeichnung der Fahrzeuge
 
@@ -21504,7 +21699,7 @@ Während der Fahrt muss die Sprechfunkanlage nach Nummer 1 im Verkehrskreis Schi
 ### § 24.27 Verkehrsbeschränkungen der Schifffahrt
 
 1.  
-Das Befahren des **Bolter Kanals** (Alte-Müritz-Havel-Wasserstraße) von km 0,06 bis km 1,92 ist verboten. Dies gilt nicht für ein Kleinfahrzeug mit einer Länge von nicht mehr als 10,00 m und einem Tiefgang von nicht mehr als 0,60 m.
+Das Befahren des **Bolter Kanals** (Alte-Müritz-Havel-Wasserstraße) von km 0,06 bis km 1,97 ist verboten. Dies gilt nicht für ein Kleinfahrzeug mit einer Länge von nicht mehr als 10,00 m und einem Tiefgang von nicht mehr als 0,60 m.
 
 2.  
 Das Befahren des **Wehrarmes Wesenberg** ist zwischen der Mündung der Schwaanhavel und dem Wehr Wesenberg verboten.
@@ -21513,13 +21708,13 @@ Das Befahren des **Wehrarmes Wesenberg** ist zwischen der Mündung der Schwaanha
 Das Befahren des **Tornowfließes** ist für ein Fahrzeug mit Maschinenantrieb verboten.
 
 4.  
-Das Befahren des **Ziegelsees** von der Einmündung des Stangengrabens in den Schweriner Innensee bis zur Abzweigung des Wickendorfer Kanals aus dem Schweriner Außensee ist verboten. Satz 1 gilt nicht für ein Kleinfahrzeug.
+Das Befahren des **Wickendorfer Kanals/Langen Grabens** vom Ziegelsee bis zum Schweriner Außensee ist verboten. Satz 1 gilt nicht für ein Kleinfahrzeug mit einem Tiefgang von nicht mehr als 0,60 m.
 
 ### § 24.28 Benutzung der Wasserstraßen
 
 (keine besonderen Vorschriften)
 
-### § 24.29 Verhaltenspflichten des Schiffsführers,der Besatzung an Bord, des Eigentümers und des Ausrüsters
+### § 24.29 Verhaltenspflichten des Schiffsführers, der Besatzung an Bord, des Eigentümers und des Ausrüsters
 
 1.  
 Der Schiffsführer und die nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person haben jeweils
@@ -21528,7 +21723,7 @@ a)
 sicherzustellen, dass das Fahrzeug oder der Verband
 
 aa)  
-die zugelassene Höchstgeschwindigkeit nach § 24.04 Nummer 1, auch in Verbindung mit Nummer 6, und Nummer 2 Satz 1, Nummer 3 und 4, Nummer 4 auch in Verbindung mit Nummer 6, und Nummer 5 Satz 1 nicht überschreitet und
+die zugelassene Höchstgeschwindigkeit nach § 24.04 Nummer 1, auch in Verbindung mit Nummer 6, und Nummer 2 Satz 1, Nummer 3, 4, 5 Satz 1, Nummer 4 und 5 Satz 1 jeweils auch in Verbindung mit Nummer 6, nicht überschreitet und
 
 bb)  
 die geforderte Mindestgeschwindigkeit nach § 24.04 Nummer 7 nicht unterschreitet und
@@ -21555,7 +21750,15 @@ a)
 sicherzustellen, dass
 
 aa)  
-das von ihm geführte Fahrzeug oder der von ihm geführte Verband die zugelassenen Höchstabmessungen und Abladetiefen nach § 24.02 Nummer 1 nicht überschreitet und
+das von ihm geführte Fahrzeug oder der von ihm geführte Verband
+
+aaa)  
+die zugelassenen Höchstabmessungen nach § 24.02 Nummer 1 und die zugelassenen Abladetiefen nach § 24.02 Nummer 1.4 und
+
+bbb)  
+die zugelassenen Abladetiefen nach § 24.02 Nummer 1.1 bis 1.3
+
+nicht überschreitet und
 
 bb)  
 auf dem von ihm geführten Sportfahrzeug, von dem aus Sporttauchen betrieben wird, die Bezeichnung nach § 24.21 geführt wird,
@@ -21579,7 +21782,15 @@ d)
 das in § 24.27 Nummer 1 Satz 1 und Nummer 2, 3 und 4 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebene Binnenschifffahrtsstraße zu befahren, zu beachten oder sicherzustellen, dass dieses beachtet wird.
 
 3.  
-Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn das Fahrzeug oder der Verband die zugelassenen Höchstabmessungen und Abladetiefen nach § 24.02 Nummer 1 nicht überschreitet.
+Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn das Fahrzeug oder der Verband
+
+a)  
+die zugelassenen Höchstabmessungen nach § 24.02 Nummer 1 und die zugelassenen Abladetiefen nach § 24.02 Nummer 1.4 und
+
+b)  
+die zugelassenen Abladetiefen nach § 24.02 Nummer 1.1 bis 1.3
+
+nicht überschreitet.
 
 Kapitel 25 Saale und Saale-Leipzig-Kanal
 ----------------------------------------
@@ -22031,8 +22242,8 @@ das in § 25.27 Satz 1 vorgesehene Verbot, die dort angegebene Binnenschifffahrt
 3.  
 Der Eigentümer und der Ausrüster dürfen jeweils die Inbetriebnahme eines Fahrzeugs oder Verbandes nur anordnen oder zulassen, wenn das Fahrzeug oder der Verband die zugelassenen Höchstabmessungen nach § 25.02 Nummer 1 und die zugelassene Abladetiefe nach § 25.02 Nummer 2 Satz 3 nicht überschreitet.
 
-Kapitel 26 Grenzgewässer Oder, Westoder und Lausitzer Neiße
------------------------------------------------------------
+Kapitel 26 Grenzgewässer Oder,Westoder und Lausitzer Neiße
+----------------------------------------------------------
 
 ### 
 
@@ -22992,7 +23203,7 @@ eingestellt werden.
 |     |                                                                                                                                                                        |          |
 | 2.  | Abweichend von Nummer 1 beträgt die zulässige Höchstgeschwindigkeit gegenüber dem Ufer für ein Sportfahrzeug mit Maschinenantrieb auf dem Kummerower See außerhalb des |          |
 |     | ufernahen Schutzstreifens                                                                                                                                              | 25 km/h. |
-|     | Als ufernaher Schutzstreifen gilt eine 100,00 m breite, parallel zur Uferlinie (Land-WasserÜbergang) verlaufende Wasserfläche.                                         |          |
+|     | Als ufernaher Schutzstreifen gilt eine 100,00 m breite, parallel zur Uferlinie (Land-Wasser-Übergang) verlaufende Wasserfläche.                                        |          |
 |     |                                                                                                                                                                        |          |
 | 3.  | Die Mindestgeschwindigkeit gegenüber dem Ufer beträgt für ein Fahrzeug oder einen Verband, ausgenommen ein Kleinfahrzeug,                                              | 4 km/h.  |
 
@@ -23084,7 +23295,7 @@ eingestellt werden.
 
 (keine besonderen Vorschriften)
 
-### § 27.27 Verkehrsbehinderungen der Schifffahrt
+### § 27.27 Verkehrsbeschränkungen
 
 (keine besonderen Vorschriften)
 
@@ -23148,13 +23359,13 @@ c)
 der Bunkervorgang überwacht und
 
 d)  
-eine der Einrichtungen nach Anhang II § 8.05 Nummer 10 der Binnenschiffsuntersuchungsordnung genutzt wird.
+eine der Einrichtungen nach Artikel 8.05 Nummer 10 ES-TRIN genutzt wird.
 
 2.  
 Der Schiffsführer hat weiter dafür zu sorgen, dass die für den Bunkervorgang verantwortlichen Personen der Bunkerstelle und des Fahrzeugs vor Beginn des Bunkervorgangs folgendes festgelegt haben:
 
 a)  
-die Sicherstellung der Funktionsfähigkeit des Systems nach Anhang II § 8.05 Nummer 10 der Binnenschiffsuntersuchungsordnung und einer Sprechverbindung zwischen Schiff und Bunkerstelle,
+die Sicherstellung der Funktionsfähigkeit des Systems nach Artikel 8.05 Nummer 11 ES-TRIN und einer Sprechverbindung zwischen Schiff und Bunkerstelle,
 
 b)  
 die zu bunkernde Menge je Tank und Einfüllleistung, insbesondere im Hinblick auf mögliche Tankentlüftungsprobleme,
@@ -24886,10 +25097,7 @@ Abschnitt I — Hauptzeichen
 <td>A.1</td>
 <td>Verbot der Durchfahrt und Sperrung der Schifffahrt<br />
 – allgemeines Verbotszeichen –<br />
-(§ 3.25 Nummer 1 Satz 1 Buchstabe b Doppelbuchstabe bb Drei-<br />
-fachbuchstabe aaa, § 6.08 Nummer 2 Satz 1 Buchstabe a, § 6.16<br />
-Nummer 4, § 6.22 Nummer 1, § 6.22a Nummer 2, § 6.25 Nummer 1, § 6.27<br />
-Nummer 1 und § 6.28a Nummer 4)</td>
+(§ 3.25 Nummer 1 Satz 1 Buchstabe b Doppelbuchstabe bb Dreifachbuchstabe aaa, § 6.08 Nummer 2 Satz 1 Buchstabe a, § 6.16 Nummer 4, § 6.22 Nummer 1, § 6.22a Nummer 2, § 6.25 Nummer 1, § 6.27 Nummer 1 und § 6.28a Nummer 4)</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -24936,8 +25144,7 @@ Nummer 1 und § 6.28a Nummer 4)</td>
 </tr>
 <tr class="even">
 <td>A.1a</td>
-<td>Gesperrte Wasserflächen; jedoch für ein Kleinfahrzeug ohne<br />
-Antriebsmaschine befahrbar.<br />
+<td>Gesperrte Wasserflächen; jedoch für ein Kleinfahrzeug ohne Antriebsmaschine befahrbar.<br />
 (§ 6.22 Nummer 2)</td>
 <td></td>
 </tr>
@@ -24969,10 +25176,7 @@ Antriebsmaschine befahrbar.<br />
 </tr>
 <tr class="even">
 <td>A.3</td>
-<td>Überholverbot für Verbände untereinander und zwischen einem<br />
-Verband und gekuppelten Fahrzeugen. Satz 1 gilt nicht, wenn einer<br />
-der Verbände ein Schubverband ist, dessen Länge 110,00 m<br />
-und dessen Breite 12,00 m nicht überschreiten.<br />
+<td>Überholverbot für Verbände untereinander und zwischen einem Verband und gekuppelten Fahrzeugen. Satz 1 gilt nicht, wenn einer der Verbände ein Schubverband ist, dessen Länge 110,00 m und dessen Breite 12,00 m nicht überschreiten.<br />
 (§ 6.11 Nummer 2)</td>
 <td><img src="bgbl1_2012_j0001_0328_ab1.jpg" /></td>
 </tr>
@@ -25020,8 +25224,7 @@ und dessen Breite 12,00 m nicht überschreiten.<br />
 </tr>
 <tr class="odd">
 <td>A.5.1</td>
-<td>Stillliegeverbot auf der Wasserfläche, deren Breite, gemessen vom<br />
-Aufstellungsort, auf dem Tafelzeichen in Metern angegeben ist<br />
+<td>Stillliegeverbot auf der Wasserfläche, deren Breite, gemessen vom Aufstellungsort, auf dem Tafelzeichen in Metern angegeben ist<br />
 (§ 7.02 Nummer 1 Buchstabe k)</td>
 <td><img src="bgbl1_2012_j0001_0331_ab1.jpg" /></td>
 </tr>
@@ -25037,9 +25240,7 @@ Aufstellungsort, auf dem Tafelzeichen in Metern angegeben ist<br />
 </tr>
 <tr class="even">
 <td>A.6</td>
-<td>Ankerverbot und Verbot des Schleifenlassens von Ankern, Trossen<br />
-oder Ketten auf der Seite der Wasserstraße, auf der das Tafelzeichen<br />
-steht<br />
+<td>Ankerverbot und Verbot des Schleifenlassens von Ankern, Trossen oder Ketten auf der Seite der Wasserstraße, auf der das Tafelzeichen steht<br />
 (§ 6.18 Nummer 2 Satz 2 und § 7.03 Nummer 1 Buchstabe b)</td>
 <td><img src="bgbl1_2012_j0001_0332_ab1.jpg" /></td>
 </tr>
@@ -25055,8 +25256,7 @@ steht<br />
 </tr>
 <tr class="odd">
 <td>A.7</td>
-<td>Festmacheverbot am Ufer auf der Seite der Wasserstraße, auf der<br />
-das Tafelzeichen steht<br />
+<td>Festmacheverbot am Ufer auf der Seite der Wasserstraße, auf der das Tafelzeichen steht<br />
 (§ 7.04 Nummer 1 Buchstabe b)</td>
 <td><img src="bgbl1_2012_j0001_0333_ab1.jpg" /></td>
 </tr>
@@ -25120,8 +25320,7 @@ das Tafelzeichen steht<br />
 </tr>
 <tr class="odd">
 <td>A.11</td>
-<td>Verbot der Einfahrt, die Vorbereitungen zur<br />
-Fortsetzung der Fahrt sind jedoch zu treffen<br />
+<td>Verbot der Einfahrt, die Vorbereitungen zur Fortsetzung der Fahrt sind jedoch zu treffen<br />
 (§ 6.28a Nummer 2 Satz 1 Buchstabe c)</td>
 <td><img src="bgbl1_2012_j0001_0337_ab1.jpg" /></td>
 </tr>
@@ -25197,8 +25396,7 @@ Fortsetzung der Fahrt sind jedoch zu treffen<br />
 </tr>
 <tr class="even">
 <td>A.16</td>
-<td>Fahrverbot für ein Fahrzeug, das weder mit Maschinenantrieb<br />
-noch unter Segel fährt</td>
+<td>Fahrverbot für ein Fahrzeug, das weder mit Maschinenantrieb noch unter Segel fährt</td>
 <td><img src="bgbl1_2012_j0001_0342_ab1.jpg" /></td>
 </tr>
 <tr class="odd">
@@ -25243,69 +25441,77 @@ noch unter Segel fährt</td>
 </tr>
 <tr class="odd">
 <td>A.19</td>
+<td>(ohne Inhalt)</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>A.20</td>
 <td>Bade- und Schwimmverbot<br />
 (§ 8.10 Nummer 1 Buchstabe d)</td>
 <td><img src="bgbl1_2012_j0001_0345_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><strong>B.</strong></td>
 <td><strong>Gebotszeichen</strong></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>B.1</td>
 <td>Gebot, die durch den Pfeil angezeigte Richtung einzuschlagen<br />
 (§ 6.12)</td>
 <td><img src="bgbl1_2012_j0001_0346_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>B.2</td>
 <td>a)</td>
-<td>Gebot, auf die Fahrwasserseite hinüberzufahren, die auf der<br />
-Backbordseite des Fahrzeugs liegt<br />
+<td>Gebot, auf die Fahrwasserseite hinüberzufahren, die auf der Backbordseite des Fahrzeugs liegt<br />
 (§ 6.12)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>b)</td>
-<td>Gebot, auf die Fahrwasserseite hinüberzufahren, die auf der<br />
-Steuerbordseite des Fahrzeugs liegt<br />
+<td>Gebot, auf die Fahrwasserseite hinüberzufahren, die auf der Steuerbordseite des Fahrzeugs liegt<br />
 (§ 6.12)</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -25313,28 +25519,26 @@ Steuerbordseite des Fahrzeugs liegt<br />
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>B.3</td>
 <td>a)</td>
-<td>Gebot, die Fahrwasserseite zu halten, die auf der Backbord-<br />
-seite des Fahrzeugs liegt<br />
+<td>Gebot, die Fahrwasserseite zu halten, die auf der Backbordseite des Fahrzeugs liegt<br />
 (§ 6.12)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>b)</td>
-<td>Gebot, die Fahrwasserseite zu halten, die auf der Steuerbord-<br />
-seite des Fahrzeugs liegt<br />
+<td>Gebot, die Fahrwasserseite zu halten, die auf der Steuerbordseite des Fahrzeugs liegt<br />
 (§ 6.12)</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -25342,167 +25546,157 @@ seite des Fahrzeugs liegt<br />
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>B.4</td>
 <td>a)</td>
 <td>Gebot, das Fahrwasser nach Backbord zu überqueren<br />
 (§ 6.12)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>b)</td>
 <td>Gebot, das Fahrwasser nach Steuerbord zu überqueren<br />
 (§ 6.12)</td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>B.5</td>
 <td>Gebot, unter bestimmten Bedingungen anzuhalten<br />
-(§ 6.26 Nummer 2 Satz 2, § 6.28 Nummer 2 Satz 2 und<br />
-§ 6.29 Nummer 2 Satz 1)</td>
+(§ 6.26 Nummer 2 Satz 2, § 6.28 Nummer 2 Satz 2 und § 6.29 Nummer 2 Satz 1)</td>
 <td><img src="bgbl1_2012_j0001_0353_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>B.6</td>
-<td>Gebot, die angegebene Geschwindigkeit gegenüber dem Ufer<br />
-(in km/h) nicht zu überschreiten</td>
+<td>Gebot, die angegebene Geschwindigkeit gegenüber dem Ufer (in km/h) nicht zu überschreiten</td>
 <td><img src="bgbl1_2012_j0001_0354_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>B.7</td>
 <td>Gebot, Schallzeichen zu geben</td>
 <td><img src="bgbl1_2012_j0001_0355_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>B.8</td>
 <td>Gebot, besondere Vorsicht walten zu lassen<br />
 (§ 6.08 Nummer 2 Satz 2)</td>
 <td><img src="bgbl1_2012_j0001_0356_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>B.9</td>
 <td>a)</td>
-<td>Gebot, nur dann in die Hauptwasserstraße einzufahren oder sie<br />
-zu überqueren, wenn dadurch ein Fahrzeug auf der Hauptwasserstraße<br />
-nicht gezwungen wird, seinen Kurs oder seine<br />
-Geschwindigkeit zu ändern<br />
+<td>Gebot, nur dann in die Hauptwasserstraße einzufahren oder sie zu überqueren, wenn dadurch ein Fahrzeug auf der Hauptwasserstraße nicht gezwungen wird, seinen Kurs oder seine Geschwindigkeit zu ändern<br />
 (§ 6.16 Nummer 3)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>b)</td>
 <td>wie vor</td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>B.10</td>
-<td>Gebot, bei diesem von Land gegebenen „Bleib-Weg-Signal“ die<br />
-unter § 8.09 Nummer 3 bis 5, jeweils in Verbindung mit Nummer 6,<br />
-genannten Maßnahmen zu ergreifen; das Schallzeichen besteht<br />
-aus einer mindestens 15 Minuten langen ununterbrochenen Wieder-<br />
-holung abwechselnd eines kurzen und eines langen Tons, das<br />
-Lichtzeichen entspricht dem nach § 4.01 Nummer 2.</td>
+<td>Gebot, bei diesem von Land gegebenen „Bleib-Weg-Signal“ die unter § 8.09 Nummer 3 bis 5, jeweils in Verbindung mit Nummer 6, genannten Maßnahmen zu ergreifen; das Schallzeichen besteht aus einer mindestens 15 Minuten langen ununterbrochenen Wiederholung abwechselnd eines kurzen und eines langen Tons, das Lichtzeichen entspricht dem nach § 4.01 Nummer 2.</td>
 <td><img src="bgbl1_2012_j0001_0359_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>B.11</td>
 <td>a)</td>
 <td>Gebot, Sprechfunk zu benutzen<br />
-(§ 4.05 Nummer 4)</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+(§ 4.05 Nummer 6)</td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td>b)</td>
 <td>Gebot, Sprechfunk auf dem angegebenen Kanal zu benutzen<br />
-(§ 4.05 Nummer 4)<br />
+(§ 4.05 Nummer 6)<br />
 Beispiel: Kanal 11</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -25510,218 +25704,210 @@ Beispiel: Kanal 11</td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><strong>C.</strong></td>
 <td><strong>Zeichen für Einschränkungen</strong></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>C.1</td>
 <td>Die Fahrwassertiefe ist begrenzt.</td>
 <td><img src="bgbl1_2012_j0001_0364_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>C.2</td>
 <td>Die lichte Höhe über dem Wasserspiegel ist begrenzt.</td>
 <td><img src="bgbl1_2012_j0001_0365_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>C.3</td>
 <td>Die Breite der Durchfahrtsöffnung oder des Fahrwassers ist<br />
 begrenzt.</td>
 <td><img src="bgbl1_2012_j0001_0366_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>C.4</td>
-<td>Es bestehen Schifffahrtsbeschränkungen; sie sind auf einem zu-<br />
-sätzlichen Schild unter dem Schifffahrtszeichen angegeben.</td>
+<td>Es bestehen Schifffahrtsbeschränkungen; sie sind auf einem zusätzlichen Schild unter dem Schifffahrtszeichen angegeben.</td>
 <td><img src="bgbl1_2012_j0001_0367_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>C.5</td>
-<td>Das Fahrwasser ist am rechten (linken) Ufer eingeengt; die Zahl<br />
-auf dem Zeichen gibt den Abstand in Metern an, in dem sich ein<br />
-Fahrzeug vom Tafelzeichen entfernt halten muss.</td>
+<td>Das Fahrwasser ist am rechten (linken) Ufer eingeengt; die Zahl auf dem Zeichen gibt den Abstand in Metern an, in dem sich ein Fahrzeug vom Tafelzeichen entfernt halten muss.</td>
 <td><img src="bgbl1_2012_j0001_0368_ab1.jpg" /></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><img src="bgbl1_2012_j0001_0369_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><strong>D.</strong></td>
 <td><strong>Empfehlende Zeichen</strong></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>D.1</td>
 <td>Empfohlene Durchfahrtsöffnung</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>a)</td>
 <td>für Verkehr in beiden Richtungen;<br />
-(§ 6.25 Nummer 2 Satz 1 Buchstabe a und § 6.27 Nummer 2<br />
-Satz 2)</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
+(§ 6.25 Nummer 2 Satz 1 Buchstabe a und § 6.27 Nummer 2 Satz 2)</td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td>b)</td>
 <td>für Verkehr nur in Richtung, in der die Zeichen sichtbar sind<br />
 (in der anderen Richtung untersagt).<br />
-(§ 6.25 Nummer 2 Satz 1 Buchstabe b und § 6.27 Nummer 2<br />
-Satz 2)</td>
+(§ 6.25 Nummer 2 Satz 1 Buchstabe b und § 6.27 Nummer 2 Satz 2)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><img src="bgbl1_2012_j0001_0372_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>D.2</td>
-<td>Empfehlung, sich in dem durch die Tafeln begrenzten Raum zu<br />
-halten<br />
+<td>Empfehlung, sich in dem durch die Tafeln begrenzten Raum zu halten<br />
 (§ 6.24 Nummer 2 Buchstabe b)</td>
 <td><img src="bgbl1_2012_j0001_0373_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>D.3</td>
 <td>Empfehlung, in die Richtung des Pfeils zu fahren;</td>
 <td><img src="bgbl1_2012_j0001_0374_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>in der Richtung vom festen Signallicht zum Gleichtaktsignallicht zu fahren.</td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><strong>E.</strong></td>
 <td><strong>Hinweiszeichen</strong></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>E.1</td>
 <td>Erlaubnis zur Durchfahrt (allgemeine Zeichen)<br />
-(§ 3.25 Nummer 1 Buchstabe a Doppelbuchstabe bb Dreifach-<br />
-buchstabe aaa, § 6.08 Nummer 2 Satz 1 Buchstabe b, § 6.27<br />
-Nummer 2 Satz 1 und § 6.28a Nummer 4)</td>
+(§ 3.25 Nummer 1 Buchstabe a Doppelbuchstabe bb Dreifachbuchstabe aaa, § 6.08 Nummer 2 Satz 1 Buchstabe b, § 6.27 Nummer 2 Satz 1 und § 6.28a Nummer 4)</td>
 <td><img src="bgbl1_2012_j0001_0376_ab1.jpg" /></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -25729,221 +25915,215 @@ Nummer 2 Satz 1 und § 6.28a Nummer 4)</td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.2</td>
 <td>Kreuzung einer Hochspannungsleitung</td>
 <td><img src="bgbl1_2012_j0001_0377_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.3</td>
 <td>Hinweis auf ein Wehr</td>
 <td><img src="bgbl1_2012_j0001_0378_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.4a</td>
 <td>Nicht frei fahrende Fähre</td>
 <td><img src="bgbl1_2012_j0001_0379_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.4b</td>
 <td>Frei fahrende Fähre</td>
 <td><img src="bgbl1_2012_j0001_0380_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.5</td>
-<td>Erlaubnis zum Stillliegen auf der Seite der Wasserstraße, auf der<br />
-das Zeichen steht<br />
+<td>Erlaubnis zum Stillliegen auf der Seite der Wasserstraße, auf der das Zeichen steht<br />
 (§ 7.05 Nummer 1)</td>
 <td><img src="bgbl1_2012_j0001_0381_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.5.1</td>
-<td>Erlaubnis zum Stillliegen auf der Wasserfläche, deren Breite,<br />
-gemessen vom Aufstellungsort, auf dem Tafelzeichen in Metern<br />
-angegeben ist<br />
+<td>Erlaubnis zum Stillliegen auf der Wasserfläche, deren Breite, gemessen vom Aufstellungsort, auf dem Tafelzeichen in Metern angegeben ist<br />
 (§ 7.05 Nummer 2)</td>
 <td><img src="bgbl1_2012_j0001_0382_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.5.2</td>
-<td>Erlaubnis zum Stillliegen auf der Wasserfläche zwischen den zwei<br />
-Entfernungen, die, gemessen vom Aufstellungsort, auf dem Tafelzeichen<br />
-in Metern angegeben sind<br />
+<td>Erlaubnis zum Stillliegen auf der Wasserfläche zwischen den zwei Entfernungen, die, gemessen vom Aufstellungsort, auf dem Tafelzeichen in Metern angegeben sind<br />
 (§ 7.05 Nummer 3)</td>
 <td><img src="bgbl1_2012_j0001_0383_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.5.3</td>
-<td>Höchstzahl der Fahrzeuge, die auf der Seite der Wasserstraße, auf<br />
-der das Tafelzeichen steht, nebeneinander stillliegen dürfen<br />
+<td>Höchstzahl der Fahrzeuge, die auf der Seite der Wasserstraße, auf der das Tafelzeichen steht, nebeneinander stillliegen dürfen<br />
 (§ 7.05 Nummer 4)</td>
 <td><img src="bgbl1_2012_j0001_0384_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.5.4</td>
-<td>Liegestelle für ein Fahrzeug der Schubschifffahrt, das nicht die<br />
-Bezeichnung nach § 3.14 führen muss<br />
+<td>Liegestelle für ein Fahrzeug der Schubschifffahrt, das nicht die Bezeichnung nach § 3.14 führen muss<br />
 (§ 7.06 Nummer 1)</td>
 <td><img src="bgbl1_2012_j0001_0385_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.5.5</td>
-<td>Liegestelle für ein Fahrzeug der Schubschifffahrt, das die<br />
-Bezeichnung nach § 3.14 Nummer 1 führen muss<br />
+<td>Liegestelle für ein Fahrzeug der Schubschifffahrt, das die Bezeichnung nach § 3.14 Nummer 1 führen muss<br />
 (§ 7.06 Nummer 1)</td>
 <td><img src="bgbl1_2012_j0001_0386_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.5.6</td>
-<td>Liegestelle für ein Fahrzeug der Schubschifffahrt, das die<br />
-Bezeichnung nach § 3.14 Nummer 2 führen muss<br />
+<td>Liegestelle für ein Fahrzeug der Schubschifffahrt, das die Bezeichnung nach § 3.14 Nummer 2 führen muss<br />
 (§ 7.06 Nummer 1)</td>
 <td><img src="bgbl1_2012_j0001_0387_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.5.7</td>
-<td>Liegestelle für ein Fahrzeug der Schubschifffahrt, dass die<br />
-Bezeichnung nach § 3.14 Nummer 3 führen muss<br />
+<td>Liegestelle für ein Fahrzeug der Schubschifffahrt, dass die Bezeichnung nach § 3.14 Nummer 3 führen muss<br />
 (§ 7.06 Nummer 1)</td>
 <td><img src="bgbl1_2012_j0001_0388_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.5.8</td>
-<td>Liegestelle für ein anderes Fahrzeug als ein Fahrzeug der Schubschifffahrt,<br />
-das nicht die Bezeichnung nach § 3.14 führen muss<br />
+<td>Liegestelle für ein anderes Fahrzeug als ein Fahrzeug der Schubschifffahrt, das nicht die Bezeichnung nach § 3.14 führen muss<br />
 (§ 7.06 Nummer 1)</td>
 <td><img src="bgbl1_2012_j0001_0389_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.5.9</td>
 <td>Die benutzte Hauptwasserstraße trifft auf eine von beiden Seiten einmündende Nebenwasserstraße<br />
 (§ 6.16 Nummer 1 Satz 3 und 4)</td>
@@ -25953,12 +26133,12 @@ das nicht die Bezeichnung nach § 3.14 führen muss<br />
 </dd>
 </dl></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>Die benutzte Hauptwasserstraße trifft auf eine von Steuerbord einmündende Nebenwasserstraße<br />
 (§ 6.16 Nummer 1 Satz 3 und 5)</td>
@@ -25968,12 +26148,12 @@ das nicht die Bezeichnung nach § 3.14 führen muss<br />
 </dd>
 </dl></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>Die benutzte Hauptwasserstraße trifft auf eine von Backbord einmündende Nebenwasserstraße<br />
 (§ 6.16 Nummer 1 Satz 3 und 6)</td>
@@ -25983,186 +26163,177 @@ das nicht die Bezeichnung nach § 3.14 führen muss<br />
 </dd>
 </dl></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.5.10</td>
-<td>Liegestelle für ein anderes Fahrzeug als ein Fahrzeug der Schubschifffahrt,<br />
-das die Bezeichnung nach § 3.14 Nummer 2 führen muss<br />
+<td>Liegestelle für ein anderes Fahrzeug als ein Fahrzeug der Schubschifffahrt, das die Bezeichnung nach § 3.14 Nummer 2 führen muss<br />
 (§ 7.06 Nummer 1)</td>
 <td><img src="bgbl1_2012_j0001_0391_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.5.11</td>
-<td>Liegestelle für ein anderes Fahrzeug als ein Fahrzeug der Schubschifffahrt,<br />
-das die Bezeichnung nach § 3.14 Nummer 3 führen muss<br />
+<td>Liegestelle für ein anderes Fahrzeug als ein Fahrzeug der Schubschifffahrt, das die Bezeichnung nach § 3.14 Nummer 3 führen muss<br />
 (§ 7.06 Nummer 1)</td>
 <td><img src="bgbl1_2012_j0001_0392_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.5.12</td>
-<td>Liegestelle für ein Fahrzeug, das keine Bezeichnung nach § 3.14<br />
-führen muss<br />
+<td>Liegestelle für ein Fahrzeug, das keine Bezeichnung nach § 3.14 führen muss<br />
 (§ 7.06 Nummer 1)</td>
 <td><img src="bgbl1_2012_j0001_0393_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.5.13</td>
-<td>Liegestelle für ein Fahrzeug, das die Bezeichnung nach § 3.14<br />
-Nummer 1 führen muss<br />
+<td>Liegestelle für ein Fahrzeug, das die Bezeichnung nach § 3.14 Nummer 1 führen muss<br />
 (§ 7.06 Nummer 1)</td>
 <td><img src="bgbl1_2012_j0001_0394_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.5.14</td>
-<td>Liegestelle für ein Fahrzeug, das die Bezeichnung nach § 3.14<br />
-Nummer 2 führen muss<br />
+<td>Liegestelle für ein Fahrzeug, das die Bezeichnung nach § 3.14 Nummer 2 führen muss<br />
 (§ 7.06 Nummer 1)</td>
 <td><img src="bgbl1_2012_j0001_0395_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.5.15</td>
-<td>Liegestelle für ein Fahrzeug, das die Bezeichnung nach § 3.14<br />
-Nummer 3 führen muss<br />
+<td>Liegestelle für ein Fahrzeug, das die Bezeichnung nach § 3.14 Nummer 3 führen muss<br />
 (§ 7.06 Nummer 1)</td>
 <td><img src="bgbl1_2012_j0001_0396_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.6</td>
-<td>Erlaubnis zum Ankern auf der Seite der Wasserstraße, auf der das<br />
-Tafelzeichen steht<br />
+<td>Erlaubnis zum Ankern auf der Seite der Wasserstraße, auf der das Tafelzeichen steht<br />
 (§ 7.03 Nummer 2)</td>
 <td><img src="bgbl1_2012_j0001_0397_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.7</td>
-<td>Erlaubnis zum Festmachen am Ufer auf der Seite der Wasserstraße,<br />
-auf der das Tafelzeichen steht<br />
+<td>Erlaubnis zum Festmachen am Ufer auf der Seite der Wasserstraße, auf der das Tafelzeichen steht<br />
 (§ 7.04 Nummer 2)</td>
 <td><img src="bgbl1_2012_j0001_0398_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.7.1</td>
-<td>Erlaubnis zum Festmachen am Ufer für das sofortige Ein- oder<br />
-Ausladen eines Kraftwagens<br />
+<td>Erlaubnis zum Festmachen am Ufer für das sofortige Ein- oder Ausladen eines Kraftwagens<br />
 (§ 7.04 Nummer 2)</td>
 <td><img src="bgbl1_2012_j0001_0399_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.8</td>
 <td>Hinweis auf eine Wendestelle<br />
 (§ 6.13 Nummer 4 Satz 2 und § 7.02 Nummer 1 Buchstabe i)</td>
 <td><img src="bgbl1_2012_j0001_0400_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.8<br />
 mit<br />
 einer<br />
@@ -26172,477 +26343,467 @@ recht-<br />
 eckigen<br />
 weißen<br />
 Tafel</td>
-<td>Hinweis auf eine Wendestelle für Fahrzeuge bis zu der auf der<br />
-zusätzlichen Tafel angegebenen Länge<br />
+<td>Hinweis auf eine Wendestelle für Fahrzeuge bis zu der auf der zusätzlichen Tafel angegebenen Länge<br />
 (§ 6.13 Nummer 4 Satz 3)</td>
 <td><img src="bgbl1_2012_j0001_0401_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.9</td>
-<td>Die benutzte Hauptwasserstraße trifft auf eine von beiden Seiten<br />
-einmündende Nebenwasserstraße<br />
+<td>Die benutzte Hauptwasserstraße trifft auf eine von beiden Seiten einmündende Nebenwasserstraße<br />
 (§ 6.16 Nummer 1 Satz 3 und 4)</td>
 <td><img src="bgbl1_2012_j0001_0402_ab1.jpg" /></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
-<td>Die benutzte Hauptwasserstraße trifft auf eine von Steuerbord ein-<br />
-mündende Nebenwasserstraße<br />
+<td>Die benutzte Hauptwasserstraße trifft auf eine von Steuerbord einmündende Nebenwasserstraße<br />
 (§ 6.16 Nummer 1 Satz 3 und 5)</td>
 <td><img src="bgbl1_2012_j0001_0403_ab1.jpg" /></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
-<td>Die benutzte Hauptwasserstraße trifft auf eine von Backbord ein-<br />
-mündende Nebenwasserstraße<br />
+<td>Die benutzte Hauptwasserstraße trifft auf eine von Backbord einmündende Nebenwasserstraße<br />
 (§ 6.16 Nummer 1 Satz 3 und 6)</td>
 <td><img src="bgbl1_2012_j0001_0404_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.10</td>
-<td>Die benutzte Nebenwasserstraße trifft auf eine von beiden Seiten<br />
-einmündende Hauptwasserstraße<br />
+<td>Die benutzte Nebenwasserstraße trifft auf eine von beiden Seiten einmündende Hauptwasserstraße<br />
 (§ 6.16 Nummer 1 Satz 3 und 7)</td>
 <td><img src="bgbl1_2012_j0001_0405_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
-<td>Die benutzte Nebenwasserstraße mündet in eine Hauptwasser-<br />
-straße ein<br />
+<td>Die benutzte Nebenwasserstraße mündet in eine Hauptwasserstraße ein<br />
 (§ 6.16 Nummer 1 Satz 3 und 8)</td>
 <td><img src="bgbl1_2012_j0001_0406_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.11</td>
-<td>Ende eines Verbots oder eines Gebots, das nur in einer Verkehrs-<br />
-richtung gilt, oder Ende einer Einschränkung.</td>
+<td>Ende eines Verbots oder eines Gebots, das nur in einer Verkehrsrichtung gilt, oder Ende einer Einschränkung.</td>
 <td><img src="bgbl1_2012_j0001_0407_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.12</td>
 <td>ohne Inhalt</td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.12a</td>
 <td>Hinweis auf ein ausfahrendes Fahrzeug<br />
 (§ 6.16 Nummer 5 Satz 1)</td>
 <td></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.13</td>
 <td>Trinkwasserzapfstelle</td>
 <td><img src="bgbl1_2012_j0001_0409_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.14</td>
 <td>Fernsprechstelle</td>
 <td><img src="bgbl1_2012_j0001_0410_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.15</td>
 <td>Fahrerlaubnis für ein Fahrzeug mit Maschinenantrieb</td>
 <td><img src="bgbl1_2012_j0001_0411_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.16</td>
 <td>Fahrerlaubnis für ein Sportboot</td>
 <td><img src="bgbl1_2012_j0001_0412_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.17</td>
 <td>Wasserskistrecke</td>
 <td><img src="bgbl1_2012_j0001_0413_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.18</td>
 <td>Fahrerlaubnis für ein Segelfahrzeug</td>
 <td><img src="bgbl1_2012_j0001_0414_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.19</td>
-<td>Fahrerlaubnis für ein Fahrzeug, das weder mit Maschinenantrieb<br />
-noch unter Segel fährt</td>
+<td>Fahrerlaubnis für ein Fahrzeug, das weder mit Maschinenantrieb noch unter Segel fährt</td>
 <td><img src="bgbl1_2012_j0001_0415_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.20</td>
 <td>Erlaubnis für Segelsurfen</td>
 <td><img src="bgbl1_2012_j0001_0416_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.21</td>
 <td>Nautischer Informationsfunk<br />
 Beispiel: Kanal 18</td>
 <td><img src="bgbl1_2012_j0001_0417_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><img src="bgbl1_2012_j0001_0418_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.22</td>
 <td>Fahrerlaubnis für ein Wassermotorrad<br />
 (Waterscooter, Jetski usw.)</td>
 <td><img src="bgbl1_2012_j0001_0419_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.23</td>
 <td>Hochwassermarken</td>
 <td><img src="bgbl1_2012_j0001_0420_ab1.jpg" /></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><img src="bgbl1_2012_j0001_0421_ab1.jpg" /></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>Die Marken sind in heller Farbe auf dunklem Untergrund oder in dunkler Farbe auf hellem Untergrund angebracht.</td>
 <td></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.24</td>
 <td>Erlaubnis für Kitesurfen</td>
 <td><img src="bgbl1_2012_j0001_0422_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>E.25</td>
 <td>Landstromanschluss vorhanden</td>
 <td><img src="bgbl1_2012_j0001_0423_ab1.jpg" /></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td>E.26</td>
 <td>Hinweis auf ein bestehendes Bade- und/oder Schwimmverbot</td>
 <td><img src="bgbl1_2012_j0001_0424_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td>Abschnitt II<br />
 <br />
 Zusätzliche Schilder, Pfeile oder Aufschriften</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Die Hauptzeichen in Abschnitt I können durch ein zusätzliches Schild, einen zusätzlichen Pfeil oder eine zusätzliche Aufschrift ergänzt werden.</td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>1.</td>
 <td>Ein Schild, das die Entfernung angibt, in der die durch das Hauptzeichen angezeigte Bestimmung oder Besonderheit zu beachten ist.</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>Das Schild wird über dem Hauptzeichen angebracht.</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>Beispiele:</td>
 <td><img src="bgbl1_2012_j0001_0425_ab1.jpg" /></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>2.</td>
 <td>Ein Pfeil, der angibt, in welcher Richtung der Strecke das Hauptzeichen gilt.</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>Beispiele:</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>a)</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>b)</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>c)</td>
-<td>Verbot der Einfahrt in einen Hafen oder in eine Nebenwasserstraße,<br />
-die in der angezeigten Richtung liegen:<br />
-rotes Licht A.1 und leuchtender Pfeil<br />
+<td>Verbot der Einfahrt in einen Hafen oder in eine Nebenwasserstraße, die in der angezeigten Richtung liegen: rotes Licht A.1 und leuchtender Pfeil<br />
 (§ 6.16 Nummer 4)</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>3.</td>
 <td>Ein Schild, das ergänzende Erklärungen oder Hinweise gibt. Das Schild wird unter dem Hauptzeichen angebracht.</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>Beispiele:</td>
 <td><img src="bgbl1_2012_j0001_0430_ab1.jpg" /></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><img src="bgbl1_2012_j0001_0432_ab1.jpg" /></td>
@@ -26685,7 +26846,7 @@ Begriffe
 </tr>
 <tr class="even">
 <td>Festfeuer:</td>
-<td>Festfeuer: Ununterbrochene Lichterscheinung von gleichbleibender Stärke und Farbe.</td>
+<td>Ununterbrochene Lichterscheinung von gleichbleibender Stärke und Farbe.</td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -27989,4 +28150,29 @@ sowie des Übergangs der Fahrrinne von einem zum anderen Ufer</strong></td>
 </tbody>
 </table>
 
+### Anlage 9 Daten, die in das Inland AIS Gerät einzugeben sind:Erläuterungen des „Navigationsstatus“ und des „Bezugspunktes der Positionsinformation auf dem Fahrzeug“
 
+(Fundstelle: BGBl. I 2016, S. 2959 - 2960)
+
+1.  
+Navigationsstatus
+
+|          |                            |                                 |
+|----------|----------------------------|---------------------------------|
+| 0        | under way using engine     | in Fahrt mit Motorkraft         |
+| 1        | at anchor                  | vor Anker                       |
+| 2        | not under command          | manövrierunfähig                |
+| 3        | restricted manoeuvrability | manövrierbehindert              |
+| 4        | constrained by her draught | durch Tiefgang beschränkt       |
+| 5        | moored                     | festgemacht                     |
+| 6        | aground                    | auf Grund                       |
+| 7        | engaged in fishing         | beim Fischfang                  |
+| 8        | under way sailing          | in Fahrt unter Segel            |
+| 9 bis 13 | reserved for future uses   | reserviert für künftige Nutzung |
+| 14       | AIS-SART (active)          | AIS-SART (aktiv)                |
+| 15       | not defined                | nicht definiert                 |
+
+2.  
+Bezugspunkt der Positionsinformation auf dem FahrzeugDer Schiffsführer muss die Werte für A, B, C, D mit einer Genauigkeit von 1 m eingeben.Das Maß A ist in Richtung des Bugs ausgerichtet.
+<img src="bgbl1_2016_j2948-1_0010.jpg" width="358" height="128" />Erläuterungen zu den W, L, A, B, C, D Werten für ein Fahrzeug
+<img src="bgbl1_2016_j2948-1_0020.jpg" width="443" height="134" />Erläuterungen zu den W, L, A, B, C, D Werten für einen Verband.
