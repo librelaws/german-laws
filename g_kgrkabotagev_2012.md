@@ -2,7 +2,7 @@ Verordnung über den grenzüberschreitenden Güterkraftverkehr und den Kabotagev
 ====================================================================================================
 
 Stand  
-Geändert durch Art. 3 V v. 9.3.2015 I 243
+Zuletzt geändert durch Art. 4 V v. 19.12.2016 I 2920
 
 ### 
 
@@ -358,9 +358,9 @@ die Arbeitsgenehmigung-EU des Fahrpersonals, wenn eine solche erteilt worden ist
 der Pass, Passersatz oder Ausweisersatz, der Aufenthaltstitel des Fahrpersonals,
 
 4.  
-der Nachweis nach § 5 Absatz 1 der Berufskraftfahrer-Qualifikations-Verordnung, soweit der Antrag sich auch auf die Eintragung nach § 5 Absatz 4 der Berufskraftfahrer-Qualifikations-Verordnung richtet oder die Pflicht zum Abschluss einer Grundqualifikation oder Weiterbildung nach dem Berufskraftfahrer-Qualifikations-Gesetz bestanden hat.
+der Nachweis nach § 5 Absatz 1 der Berufskraftfahrer-Qualifikations-Verordnung.
 
-Die zuständige Behörde kann Nachweise auch für die übrigen nach Absatz 1 zu machenden Angaben verlangen.
+Wird ein Nachweis nach Satz 1 Nummer 4 nicht vorgelegt, so ist die Ausstellung der Fahrerbescheinigung nur nach Maßgabe des § 5 Absatz 4 Satz 2 und 3 der Berufskraftfahrer-Qualifikations-Verordnung zulässig. Die zuständige Behörde kann Nachweise auch für die übrigen nach Absatz 1 zu machenden Angaben verlangen.
 
 ### § 21 Geltungsdauer und Unternehmensbindung der Fahrerbescheinigung
 
