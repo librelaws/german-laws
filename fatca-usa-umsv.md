@@ -2,10 +2,7 @@ Verordnung zur Umsetzung der Verpflichtungen aus dem Abkommen zwischen der Bunde
 ========================================================================================================================================================================================================================================================================================================================================================================================
 
 Stand  
-Geändert durch Art. 21 Abs. 4 G v. 18.7.2016 I 1679
-
-Hinweis  
-Änderung durch Art. 15 G v. 20.12.2016 I 3000 (Nr. 63) noch nicht berücksichtigt
+Zuletzt geändert durch Art. 15 G v. 20.12.2016 I 3000
 
 ### 
 
@@ -271,15 +268,17 @@ für das Kalenderjahr 2015 nur die unter Absatz 1 Nummer 1 bis 5 Buchstabe a und
 
 (7) Bei Geldbeträgen ist die Währung anzugeben, auf die die jeweiligen Beträge lauten.
 
-(8) Die §§ 1 bis 6 der Steuerdaten-Übermittlungsverordnung gelten entsprechend.
+(8) (weggefallen)
+
+(9) Die Finanzinstitute oder Dritte im Sinne des § 3 müssen die geprüften Belege, anhand derer der Status eines Kontoinhabers festgestellt wurde, oder einen Vermerk über Art und Inhalt dieser Belege nach Ablauf des Jahres, in dem die Feststellung erfolgt ist, über einen Zeitraum von sechs Jahren aufbewahren.
 
 ### § 9 Weiterleitung von Daten an die Bundessteuerbehörde der Vereinigten Staaten von Amerika und Entgegennahme von Meldungen
 
 (1) Das Bundeszentralamt für Steuern speichert die nach § 8 Absatz 3 von den meldenden deutschen Finanzinstituten erhaltenen Daten und übermittelt diese bis zum 30. September des Kalenderjahres, das auf das Kalenderjahr folgt, für das die Daten ermittelt wurden, an die Bundessteuerbehörde der Vereinigten Staaten von Amerika (Internal Revenue Service).
 
-(2) Das Bundeszentralamt für Steuern nimmt die nach dem Abkommen von den Vereinigten Staaten von Amerika zu übermittelnden Meldungen zu deutschen meldepflichtigen Konten im Sinne des Abkommens entgegen, speichert sie und leitet sie zur Durchführung des Besteuerungsverfahrens an die zuständige Landesfinanzbehörde weiter.
+(2) Das Bundeszentralamt für Steuern nimmt die nach dem Abkommen von den Vereinigten Staaten von Amerika zu übermittelnden Meldungen zu deutschen meldepflichtigen Konten im Sinne des Abkommens entgegen, speichert sie und leitet sie zur Durchführung des Besteuerungsverfahrens nach Maßgabe des § 88 Absatz 3 und 4 der Abgabenordnung an die zuständige Landesfinanzbehörde weiter.
 
-(3) Die nach den Absätzen 1 und 2 beim Bundeszentralamt für Steuern gespeicherten Daten werden 15 Jahre nach Ablauf des Jahres, in dem die Weiterleitung erfolgt ist, gelöscht. Geht zu einer gespeicherten Meldung eine Änderungsmeldung ein, so ist die ursprüngliche Meldung für 15 Jahre ab dem Zeitpunkt, zu dem die Änderungsmeldung eingeht, vorzuhalten.
+(3) Die nach den Absätzen 1 und 2 beim Bundeszentralamt für Steuern gespeicherten Daten werden 15 Jahre nach Ablauf des Jahres, in dem die Weiterleitung erfolgt ist, gelöscht. Geht zu einer gespeicherten Meldung eine Änderungsmeldung ein, so ist die ursprüngliche Meldung für 15 Jahre ab dem Zeitpunkt, zu dem die Änderungsmeldung eingeht, vorzuhalten. Das Bundeszentralamt für Steuern ist berechtigt, die Daten und Meldungen nach den Absätzen 1 und 2 zur Erfüllung der ihm gesetzlich übertragenen Aufgaben auszuwerten. Eine Auswertung der Meldungen nach Absatz 2 durch die jeweils zuständige Landesfinanzbehörde bleibt hiervon unberührt.
 
 (4) Alle ausgetauschten Informationen unterliegen den Verwendungsbeschränkungen nach Artikel 26 des Abkommens zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika zur Vermeidung der Doppelbesteuerung und zur Verhinderung der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen und einiger anderer Steuern vom 29. August 1989 (BGBl. 1991 II S. 355) unter Berücksichtigung des Änderungsprotokolls vom 1. Juni 2006 (BGBl. 2006 II S. 1184) in der Fassung der Bekanntmachung vom 4. Juni 2008 (BGBl. 2008 II S. 611) in Verbindung mit Artikel 3 Absatz 7 des Abkommens.
 
@@ -293,7 +292,7 @@ Name des nicht teilnehmenden Finanzinstituts, an das das meldende deutsche Finan
 2.  
 Gesamtbetrag der in dem jeweiligen Kalenderjahr an dieses nicht teilnehmende Finanzinstitut geleisteten Zahlungen.
 
-(2) Das meldende deutsche Finanzinstitut hat diese Daten bis zum 31. Juli des folgenden Kalenderjahres nach amtlich vorgeschriebenem Datensatz im Wege der Datenfernübertragung an das Bundeszentralamt für Steuern zu übermitteln. Die §§ 1 bis 6 der Steuerdaten-Übermittlungsverordnung gelten entsprechend.
+(2) Das meldende deutsche Finanzinstitut hat diese Daten bis zum 31. Juli des folgenden Kalenderjahres nach amtlich vorgeschriebenem Datensatz im Wege der Datenfernübertragung an das Bundeszentralamt für Steuern zu übermitteln.
 
 Abschnitt 5 Ordnungswidrigkeiten
 --------------------------------
