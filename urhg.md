@@ -2,10 +2,7 @@ Gesetz über Urheberrecht und verwandte Schutzrechte ()
 ======================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 5.12.2014 I 1974
-
-Hinweis  
-Änderung durch Art. 216 V v. 31.8.2015 I 1474 (Nr. 35) noch nicht berücksichtigt
+Zuletzt geändert durch Art. 1 G v. 20.12.2016 I 3037
 
 ### 
 
@@ -139,28 +136,33 @@ Unterabschnitt 2
 
 Nutzungsrechte
 
-|        |                                                  |
-|--------|--------------------------------------------------|
-| §  31  | Einräumung von Nutzungsrechten                   |
-| §  31a | Verträge über unbekannte Nutzungsarten           |
-| §  32  | Angemessene Vergütung                            |
-| §  32a | Weitere Beteiligung des Urhebers                 |
-| §  32b | Zwingende Anwendung                              |
-| §  32c | Vergütung für später bekannte Nutzungsarten      |
-| §  33  | Weiterwirkung von Nutzungsrechten                |
-| §  34  | Übertragung von Nutzungsrechten                  |
-| §  35  | Einräumung weiterer Nutzungsrechte               |
-| §  36  | Gemeinsame Vergütungsregeln                      |
-| §  36a | Schlichtungsstelle                               |
-| §  37  | Verträge über die Einräumung von Nutzungsrechten |
-| §  38  | Beiträge zu Sammlungen                           |
-| §  39  | Änderungen des Werkes                            |
-| §  40  | Verträge über künftige Werke                     |
-| §  41  | Rückrufsrecht wegen Nichtausübung                |
-| §  42  | Rückrufsrecht wegen gewandelter Überzeugung      |
-| §  42a | Zwangslizenz zur Herstellung von Tonträgern      |
-| §  43  | Urheber in Arbeits- oder Dienstverhältnissen     |
-| §  44  | Veräußerung des Originals des Werkes             |
+|        |                                                                               |
+|--------|-------------------------------------------------------------------------------|
+| §  31  | Einräumung von Nutzungsrechten                                                |
+| §  31a | Verträge über unbekannte Nutzungsarten                                        |
+| §  32  | Angemessene Vergütung                                                         |
+| §  32a | Weitere Beteiligung des Urhebers                                              |
+| §  32b | Zwingende Anwendung                                                           |
+| §  32c | Vergütung für später bekannte Nutzungsarten                                   |
+| §  32d | Anspruch auf Auskunft und Rechenschaft                                        |
+| §  32e | Anspruch auf Auskunft und Rechenschaft in der Lizenzkette                     |
+| §  33  | Weiterwirkung von Nutzungsrechten                                             |
+| §  34  | Übertragung von Nutzungsrechten                                               |
+| §  35  | Einräumung weiterer Nutzungsrechte                                            |
+| §  36  | Gemeinsame Vergütungsregeln                                                   |
+| §  36a | Schlichtungsstelle                                                            |
+| §  36b | Unterlassungsanspruch bei Verstoß gegen gemeinsame Vergütungsregeln           |
+| §  36c | Individualvertragliche Folgen des Verstoßes gegen gemeinsame Vergütungsregeln |
+| §  37  | Verträge über die Einräumung von Nutzungsrechten                              |
+| §  38  | Beiträge zu Sammlungen                                                        |
+| §  39  | Änderungen des Werkes                                                         |
+| §  40  | Verträge über künftige Werke                                                  |
+| §  40a | Recht zur anderweitigen Verwertung nach zehn Jahren bei pauschaler Vergütung  |
+| §  41  | Rückrufsrecht wegen Nichtausübung                                             |
+| §  42  | Rückrufsrecht wegen gewandelter Überzeugung                                   |
+| §  42a | Zwangslizenz zur Herstellung von Tonträgern                                   |
+| §  43  | Urheber in Arbeits- oder Dienstverhältnissen                                  |
+| §  44  | Veräußerung des Originals des Werkes                                          |
 
 Abschnitt 6
 
@@ -199,9 +201,9 @@ Schranken des Urheberrechts
 | §  59  | Werke an öffentlichen Plätzen                                                                         |
 | §  60  | Bildnisse                                                                                             |
 | §  61  | Verwaiste Werke                                                                                       |
-| § 61a  | Sorgfältige Suche und Dokumentationspflichten                                                         |
-| § 61b  | Beendigung der Nutzung und Vergütungspflicht der nutzenden Institution                                |
-| § 61c  | Nutzung verwaister Werke durch öffentlich-rechtliche Rundfunkanstalten                                |
+| §  61a | Sorgfältige Suche und Dokumentationspflichten                                                         |
+| §  61b | Beendigung der Nutzung und Vergütungspflicht der nutzenden Institution                                |
+| §  61c | Nutzung verwaister Werke durch öffentlich-rechtliche Rundfunkanstalten                                |
 | §  62  | Änderungsverbot                                                                                       |
 | §  63  | Quellenangabe                                                                                         |
 | §  63a | Gesetzliche Vergütungsansprüche                                                                       |
@@ -258,21 +260,22 @@ Abschnitt 3
 
 Schutz des ausübenden Künstlers
 
-|        |                                                    |
-|--------|----------------------------------------------------|
-| §  73  | Ausübender Künstler                                |
-| §  74  | Anerkennung als ausübender Künstler                |
-| §  75  | Beeinträchtigungen der Darbietung                  |
-| §  76  | Dauer der Persönlichkeitsrechte                    |
-| §  77  | Aufnahme, Vervielfältigung und Verbreitung         |
-| §  78  | Öffentliche Wiedergabe                             |
-| §  79  | Nutzungsrechte                                     |
-| §  79a | Vergütungsanspruch des ausübenden Künstlers        |
-| §  80  | Gemeinsame Darbietung mehrerer ausübender Künstler |
-| §  81  | Schutz des Veranstalters                           |
-| §  82  | Dauer der Verwertungsrechte                        |
-| §  83  | Schranken der Verwertungsrechte                    |
-| §  84  | (weggefallen)                                      |
+|        |                                                                      |
+|--------|----------------------------------------------------------------------|
+| §  73  | Ausübender Künstler                                                  |
+| §  74  | Anerkennung als ausübender Künstler                                  |
+| §  75  | Beeinträchtigungen der Darbietung                                    |
+| §  76  | Dauer der Persönlichkeitsrechte                                      |
+| §  77  | Aufnahme, Vervielfältigung und Verbreitung                           |
+| §  78  | Öffentliche Wiedergabe                                               |
+| §  79  | Nutzungsrechte                                                       |
+| §  79a | Vergütungsanspruch des ausübenden Künstlers                          |
+| §  79b | Vergütung des ausübenden Künstlers für später bekannte Nutzungsarten |
+| §  80  | Gemeinsame Darbietung mehrerer ausübender Künstler                   |
+| §  81  | Schutz des Veranstalters                                             |
+| §  82  | Dauer der Verwertungsrechte                                          |
+| §  83  | Schranken der Verwertungsrechte                                      |
+| §  84  | (weggefallen)                                                        |
 
 Abschnitt 4
 
@@ -401,10 +404,10 @@ Unterabschnitt 3
 
 Vorschriften über Maßnahmen der Zollbehörde
 
-|        |                                                  |
-|--------|--------------------------------------------------|
-| § 111b | Verfahren nach deutschem Recht                   |
-| § 111c | Verfahren nach der Verordnung (EG) Nr. 1383/2003 |
+|        |                                                 |
+|--------|-------------------------------------------------|
+| § 111b | Verfahren nach deutschem Recht                  |
+| § 111c | Verfahren nach der Verordnung (EU) Nr. 608/2013 |
 
 Abschnitt 3
 
@@ -900,9 +903,11 @@ Unterabschnitt 2 Nutzungsrechte
 
 (1) Der Urheber hat für die Einräumung von Nutzungsrechten und die Erlaubnis zur Werknutzung Anspruch auf die vertraglich vereinbarte Vergütung. Ist die Höhe der Vergütung nicht bestimmt, gilt die angemessene Vergütung als vereinbart. Soweit die vereinbarte Vergütung nicht angemessen ist, kann der Urheber von seinem Vertragspartner die Einwilligung in die Änderung des Vertrages verlangen, durch die dem Urheber die angemessene Vergütung gewährt wird.
 
-(2) Eine nach einer gemeinsamen Vergütungsregel (§ 36) ermittelte Vergütung ist angemessen. Im Übrigen ist die Vergütung angemessen, wenn sie im Zeitpunkt des Vertragsschlusses dem entspricht, was im Geschäftsverkehr nach Art und Umfang der eingeräumten Nutzungsmöglichkeit, insbesondere nach Dauer und Zeitpunkt der Nutzung, unter Berücksichtigung aller Umstände üblicher- und redlicherweise zu leisten ist.
+(2) Eine nach einer gemeinsamen Vergütungsregel (§ 36) ermittelte Vergütung ist angemessen. Im Übrigen ist die Vergütung angemessen, wenn sie im Zeitpunkt des Vertragsschlusses dem entspricht, was im Geschäftsverkehr nach Art und Umfang der eingeräumten Nutzungsmöglichkeit, insbesondere nach Dauer, Häufigkeit, Ausmaß und Zeitpunkt der Nutzung, unter Berücksichtigung aller Umstände üblicher- und redlicherweise zu leisten ist.
 
-(3) Auf eine Vereinbarung, die zum Nachteil des Urhebers von den Absätzen 1 und 2 abweicht, kann der Vertragspartner sich nicht berufen. Die in Satz 1 bezeichneten Vorschriften finden auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden. Der Urheber kann aber unentgeltlich ein einfaches Nutzungsrecht für jedermann einräumen.
+(2a) Eine gemeinsame Vergütungsregel kann zur Ermittlung der angemessenen Vergütung auch bei Verträgen herangezogen werden, die vor ihrem zeitlichen Anwendungsbereich abgeschlossen wurden.
+
+(3) Auf eine Vereinbarung, die zum Nachteil des Urhebers von den Absätzen 1 bis 2a abweicht, kann der Vertragspartner sich nicht berufen. Die in Satz 1 bezeichneten Vorschriften finden auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden. Der Urheber kann aber unentgeltlich ein einfaches Nutzungsrecht für jedermann einräumen.
 
 (4) Der Urheber hat keinen Anspruch nach Absatz 1 Satz 3, soweit die Vergütung für die Nutzung seiner Werke tarifvertraglich bestimmt ist.
 
@@ -914,7 +919,7 @@ Unterabschnitt 2 Nutzungsrechte
 
 (3) Auf die Ansprüche nach den Absätzen 1 und 2 kann im Voraus nicht verzichtet werden. Die Anwartschaft hierauf unterliegt nicht der Zwangsvollstreckung; eine Verfügung über die Anwartschaft ist unwirksam. Der Urheber kann aber unentgeltlich ein einfaches Nutzungsrecht für jedermann einräumen.
 
-(4) Der Urheber hat keinen Anspruch nach Absatz 1, soweit die Vergütung nach einer gemeinsamen Vergütungsregel (§ 36) oder tarifvertraglich bestimmt worden ist und ausdrücklich eine weitere angemessene Beteiligung für den Fall des Absatzes 1 vorsieht.
+(4) Der Urheber hat keinen Anspruch nach Absatz 1, soweit die Vergütung nach einer gemeinsamen Vergütungsregel (§ 36) oder tarifvertraglich bestimmt worden ist und ausdrücklich eine weitere angemessene Beteiligung für den Fall des Absatzes 1 vorsieht. § 32 Absatz 2a ist entsprechend anzuwenden.
 
 ### § 32b Zwingende Anwendung
 
@@ -933,6 +938,34 @@ soweit Gegenstand des Vertrages maßgebliche Nutzungshandlungen im räumlichen G
 (2) Hat der Vertragspartner das Nutzungsrecht einem Dritten übertragen, haftet der Dritte mit der Aufnahme der neuen Art der Werknutzung für die Vergütung nach Absatz 1. Die Haftung des Vertragspartners entfällt.
 
 (3) Auf die Rechte nach den Absätzen 1 und 2 kann im Voraus nicht verzichtet werden. Der Urheber kann aber unentgeltlich ein einfaches Nutzungsrecht für jedermann einräumen.
+
+### § 32d Anspruch auf Auskunft und Rechenschaft
+
+(1) Bei entgeltlicher Einräumung oder Übertragung eines Nutzungsrechts kann der Urheber von seinem Vertragspartner einmal jährlich Auskunft und Rechenschaft über den Umfang der Werknutzung und die hieraus gezogenen Erträge und Vorteile auf Grundlage der im Rahmen eines ordnungsgemäßen Geschäftsbetriebes üblicherweise vorhandenen Informationen verlangen.
+
+(2) Der Anspruch nach Absatz 1 ist ausgeschlossen, soweit
+
+1.  
+der Urheber einen lediglich nachrangigen Beitrag zu einem Werk, einem Produkt oder einer Dienstleistung erbracht hat; nachrangig ist ein Beitrag insbesondere dann, wenn er den Gesamteindruck eines Werkes oder die Beschaffenheit eines Produktes oder einer Dienstleistung wenig prägt, etwa weil er nicht zum typischen Inhalt eines Werkes, eines Produktes oder einer Dienstleistung gehört, oder
+
+2.  
+die Inanspruchnahme des Vertragspartners aus anderen Gründen unverhältnismäßig ist.
+
+(3) Von den Absätzen 1 und 2 kann zum Nachteil des Urhebers nur durch eine Vereinbarung abgewichen werden, die auf einer gemeinsamen Vergütungsregel (§ 36) oder einem Tarifvertrag beruht.
+
+### § 32e Anspruch auf Auskunft und Rechenschaft in der Lizenzkette
+
+(1) Hat der Vertragspartner des Urhebers das Nutzungsrecht übertragen oder weitere Nutzungsrechte eingeräumt, so kann der Urheber Auskunft und Rechenschaft nach § 32d Absatz 1 und 2 auch von denjenigen Dritten verlangen,
+
+1.  
+die die Nutzungsvorgänge in der Lizenzkette wirtschaftlich wesentlich bestimmen oder
+
+2.  
+aus deren Erträgnissen oder Vorteilen sich das auffällige Missverhältnis gemäß § 32a Absatz 2 ergibt.
+
+(2) Für die Geltendmachung der Ansprüche nach Absatz 1 genügt es, dass aufgrund nachprüfbarer Tatsachen klare Anhaltspunkte für deren Voraussetzungen vorliegen.
+
+(3) Von den Absätzen 1 und 2 kann zum Nachteil des Urhebers nur durch eine Vereinbarung abgewichen werden, die auf einer gemeinsamen Vergütungsregel (§ 36) oder einem Tarifvertrag beruht.
 
 ### § 33 Weiterwirkung von Nutzungsrechten
 
@@ -960,7 +993,7 @@ Ausschließliche und einfache Nutzungsrechte bleiben gegenüber später eingerä
 
 (1) Zur Bestimmung der Angemessenheit von Vergütungen nach § 32 stellen Vereinigungen von Urhebern mit Vereinigungen von Werknutzern oder einzelnen Werknutzern gemeinsame Vergütungsregeln auf. Die gemeinsamen Vergütungsregeln sollen die Umstände des jeweiligen Regelungsbereichs berücksichtigen, insbesondere die Struktur und Größe der Verwerter. In Tarifverträgen enthaltene Regelungen gehen gemeinsamen Vergütungsregeln vor.
 
-(2) Vereinigungen nach Absatz 1 müssen repräsentativ, unabhängig und zur Aufstellung gemeinsamer Vergütungsregeln ermächtigt sein.
+(2) Vereinigungen nach Absatz 1 müssen repräsentativ, unabhängig und zur Aufstellung gemeinsamer Vergütungsregeln ermächtigt sein. Eine Vereinigung, die einen wesentlichen Teil der jeweiligen Urheber oder Werknutzer vertritt, gilt als ermächtigt im Sinne des Satzes 1, es sei denn, die Mitglieder der Vereinigung fassen einen entgegenstehenden Beschluss.
 
 (3) Ein Verfahren zur Aufstellung gemeinsamer Vergütungsregeln vor der Schlichtungsstelle (§ 36a) findet statt, wenn die Parteien dies vereinbaren. Das Verfahren findet auf schriftliches Verlangen einer Partei statt, wenn
 
@@ -973,7 +1006,7 @@ Verhandlungen über gemeinsame Vergütungsregeln ein Jahr, nachdem schriftlich i
 3.  
 eine Partei die Verhandlungen endgültig für gescheitert erklärt hat.
 
-(4) Die Schlichtungsstelle hat den Parteien einen begründeten Einigungsvorschlag zu machen, der den Inhalt der gemeinsamen Vergütungsregeln enthält. Er gilt als angenommen, wenn ihm nicht innerhalb von drei Monaten nach Empfang des Vorschlages schriftlich widersprochen wird.
+(4) Die Schlichtungsstelle hat allen Parteien, die sich am Verfahren beteiligt haben oder nach § 36a Absatz 4a zur Beteiligung aufgefordert worden sind, einen begründeten Einigungsvorschlag zu machen, der den Inhalt der gemeinsamen Vergütungsregeln enthält. Er gilt als angenommen, wenn innerhalb von sechs Wochen nach Empfang des Vorschlages keine der in Satz 1 genannten Parteien widerspricht.
 
 ### § 36a Schlichtungsstelle
 
@@ -981,17 +1014,54 @@ eine Partei die Verhandlungen endgültig für gescheitert erklärt hat.
 
 (2) Die Schlichtungsstelle besteht aus einer gleichen Anzahl von Beisitzern, die jeweils von einer Partei bestellt werden, und einem unparteiischen Vorsitzenden, auf dessen Person sich beide Parteien einigen sollen.
 
-(3) Kommt eine Einigung über die Person des Vorsitzenden nicht zustande, so bestellt ihn das nach § 1062 der Zivilprozessordnung zuständige Oberlandesgericht. Das Oberlandesgericht entscheidet auch, wenn keine Einigung über die Zahl der Beisitzer erzielt wird. Für das Verfahren vor dem Oberlandesgericht gelten die §§ 1063, 1065 der Zivilprozessordnung entsprechend.
+(3) Wenn sich die Parteien nicht einigen, entscheidet das nach § 1062 der Zivilprozessordnung zuständige Oberlandesgericht auf Antrag einer Partei über
 
-(4) Das Verlangen auf Durchführung des Schlichtungsverfahrens gemäß § 36 Abs. 3 Satz 2 muss einen Vorschlag über die Aufstellung gemeinsamer Vergütungsregeln enthalten.
+1.  
+die Person des Vorsitzenden,
+
+2.  
+die Anzahl der Beisitzer,
+
+3.  
+die Voraussetzungen des Schlichtungsverfahrens in Bezug auf
+
+a)  
+die Fähigkeit der Werknutzer sowie Vereinigungen von Werknutzern und Urhebern, Partei des Schlichtungsverfahrens zu sein (§ 36 Absatz 1 Satz 1 und Absatz 2),
+
+b)  
+ein Verfahren vor der Schlichtungsstelle, das auf Verlangen nur einer Partei stattfindet (§ 36 Absatz 3 Satz 2).
+
+Solange der Ort des Schlichtungsverfahrens noch nicht bestimmt ist, ist für die Entscheidung das Oberlandesgericht zuständig, in dessen Bezirk der Antragsgegner seinen Sitz oder seinen gewöhnlichen Aufenthalt hat. Für das Verfahren vor dem Oberlandesgericht gelten die §§ 1063 und 1065 der Zivilprozessordnung entsprechend.
+
+(4) Das Verlangen auf Durchführung des Schlichtungsverfahrens gemäß § 36 Abs. 3 Satz 2 muss einen Vorschlag über die Aufstellung gemeinsamer Vergütungsregeln enthalten. Die Schlichtungsstelle stellt den Schriftsatz, mit dem die Durchführung des Verfahrens verlangt wird, der anderen Partei mit der Aufforderung zu, sich innerhalb eines Monats schriftlich zur Sache zu äußern.
+
+(4a) Jede Partei kann binnen drei Monaten nach Kenntnis vom Schlichtungsverfahren verlangen, dass die Schlichtungsstelle andere Vereinigungen von Urhebern zur Beteiligung auffordert, wenn der Vorschlag nach Absatz 4 Satz 1 Werke oder verbundene Werke betrifft, die üblicherweise nur unter Mitwirkung von weiteren Urhebern geschaffen werden können, die von den benannten Vereinigungen vertreten werden. Absatz 4 Satz 2 ist entsprechend anzuwenden. Beteiligt sich die Vereinigung von Urhebern, so benennt sie und die Partei der Werknutzer je weitere Beisitzer.
 
 (5) Die Schlichtungsstelle fasst ihren Beschluss nach mündlicher Beratung mit Stimmenmehrheit. Die Beschlussfassung erfolgt zunächst unter den Beisitzern; kommt eine Stimmenmehrheit nicht zustande, so nimmt der Vorsitzende nach weiterer Beratung an der erneuten Beschlussfassung teil. Benennt eine Partei keine Mitglieder oder bleiben die von einer Partei genannten Mitglieder trotz rechtzeitiger Einladung der Sitzung fern, so entscheiden der Vorsitzende und die erschienenen Mitglieder nach Maßgabe der Sätze 1 und 2 allein. Der Beschluss der Schlichtungsstelle ist schriftlich niederzulegen, vom Vorsitzenden zu unterschreiben und beiden Parteien zuzuleiten.
 
-(6) Die Parteien tragen ihre eigenen Kosten sowie die Kosten der von ihnen bestellten Beisitzer. Die sonstigen Kosten tragen die Parteien jeweils zur Hälfte. Die Parteien haben als Gesamtschuldner auf Anforderung des Vorsitzenden zu dessen Händen einen für die Tätigkeit der Schlichtungsstelle erforderlichen Vorschuss zu leisten.
+(6) Die Parteien tragen ihre eigenen Kosten sowie die Kosten der von ihnen bestellten Beisitzer. Die sonstigen Kosten tragen die Parteien der Urheber, die sich am Verfahren beteiligen, und die Partei der Werknutzer jeweils zur Hälfte. Sie haben als Gesamtschuldner auf Anforderung des Vorsitzenden zu dessen Händen einen für die Tätigkeit der Schlichtungsstelle erforderlichen Vorschuss zu leisten.
 
-(7) Die Parteien können durch Vereinbarung die Einzelheiten des Verfahrens vor der Schlichtungsstelle regeln.
+(7) Die Parteien können durch Vereinbarung die Einzelheiten des Verfahrens vor der Schlichtungsstelle regeln. Die Schlichtungsstelle informiert nach Absatz 4a beteiligte Vereinigungen von Urhebern über den Gang des Verfahrens.
 
-(8) Das Bundesministerium der Justiz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die weiteren Einzelheiten des Verfahrens vor der Schlichtungsstelle zu regeln sowie weitere Vorschriften über die Kosten des Verfahrens und die Entschädigung der Mitglieder der Schlichtungsstelle zu erlassen.
+(8) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die weiteren Einzelheiten des Verfahrens vor der Schlichtungsstelle zu regeln sowie weitere Vorschriften über die Kosten des Verfahrens und die Entschädigung der Mitglieder der Schlichtungsstelle zu erlassen.
+
+### § 36b Unterlassungsanspruch bei Verstoß gegen gemeinsame Vergütungsregeln
+
+(1) Wer in einem Vertrag mit einem Urheber eine Bestimmung verwendet, die zum Nachteil des Urhebers von gemeinsamen Vergütungsregeln abweicht, kann auf Unterlassung in Anspruch genommen werden, wenn und soweit er
+
+1.  
+als Werknutzer die gemeinsamen Vergütungsregeln selbst aufgestellt hat oder
+
+2.  
+Mitglied einer Vereinigung von Werknutzern ist, die die gemeinsamen Vergütungsregeln aufgestellt hat.
+
+Der Anspruch auf Unterlassung steht denjenigen Vereinigungen von Urhebern oder Werknutzern und denjenigen einzelnen Werknutzern zu, die die gemeinsamen Vergütungsregeln aufgestellt haben.
+
+(2) Auf das Verfahren sind § 8 Absatz 4 sowie § 12 Absatz 1, 2, 4 und 5 des Gesetzes gegen den unlauteren Wettbewerb anzuwenden. Für die Bekanntmachung des Urteils gilt § 103.
+
+### § 36c Individualvertragliche Folgen des Verstoßes gegen gemeinsame Vergütungsregeln
+
+Der Vertragspartner, der an der Aufstellung von gemeinsamen Vergütungsregeln gemäß § 36b Absatz 1 Satz 1 Nummer 1 oder 2 beteiligt war, kann sich nicht auf eine Bestimmung berufen, die zum Nachteil des Urhebers von den gemeinsamen Vergütungsregeln abweicht. Der Urheber kann von seinem Vertragspartner die Einwilligung in die Änderung des Vertrages verlangen, mit der die Abweichung beseitigt wird.
 
 ### § 37 Verträge über die Einräumung von Nutzungsrechten
 
@@ -1025,6 +1095,28 @@ eine Partei die Verhandlungen endgültig für gescheitert erklärt hat.
 
 (3) Wenn in Erfüllung des Vertrages Nutzungsrechte an künftigen Werken eingeräumt worden sind, wird mit Beendigung des Vertrages die Verfügung hinsichtlich der Werke unwirksam, die zu diesem Zeitpunkt noch nicht abgeliefert sind.
 
+### § 40a Recht zur anderweitigen Verwertung nach zehn Jahren bei pauschaler Vergütung
+
+(1) Hat der Urheber ein ausschließliches Nutzungsrecht gegen eine pauschale Vergütung eingeräumt, ist er gleichwohl berechtigt, das Werk nach Ablauf von zehn Jahren anderweitig zu verwerten. Für die verbleibende Dauer der Einräumung besteht das Nutzungsrecht des ersten Inhabers als einfaches Nutzungsrecht fort. Die Frist nach Satz 1 beginnt mit der Einräumung des Nutzungsrechts oder, wenn das Werk später abgeliefert wird, mit der Ablieferung. § 38 Absatz 4 Satz 2 ist entsprechend anzuwenden.
+
+(2) Frühestens fünf Jahre nach dem in Absatz 1 Satz 3 genannten Zeitpunkt können die Vertragspartner die Ausschließlichkeit auf die gesamte Dauer der Nutzungsrechtseinräumung erstrecken.
+
+(3) Abweichend von Absatz 1 kann der Urheber bei Vertragsschluss ein zeitlich unbeschränktes ausschließliches Nutzungsrecht einräumen, wenn
+
+1.  
+er einen lediglich nachrangigen Beitrag zu einem Werk, einem Produkt oder einer Dienstleistung erbringt; nachrangig ist ein Beitrag insbesondere dann, wenn er den Gesamteindruck eines Werkes oder die Beschaffenheit eines Produktes oder einer Dienstleistung wenig prägt, etwa weil er nicht zum typischen Inhalt eines Werkes, eines Produktes oder einer Dienstleistung gehört,
+
+2.  
+es sich um ein Werk der Baukunst oder den Entwurf eines solchen Werkes handelt,
+
+3.  
+das Werk mit Zustimmung des Urhebers für eine Marke oder ein sonstiges Kennzeichen, ein Design oder ein Gemeinschaftsgeschmacksmuster bestimmt ist oder
+
+4.  
+das Werk nicht veröffentlicht werden soll.
+
+(4) Von den Absätzen 1 bis 3 kann zum Nachteil des Urhebers nur durch eine Vereinbarung abgewichen werden, die auf einer gemeinsamen Vergütungsregel (§ 36) oder einem Tarifvertrag beruht.
+
 ### § 41 Rückrufsrecht wegen Nichtausübung
 
 (1) Übt der Inhaber eines ausschließlichen Nutzungsrechts das Recht nicht oder nur unzureichend aus und werden dadurch berechtigte Interessen des Urhebers erheblich verletzt, so kann dieser das Nutzungsrecht zurückrufen. Dies gilt nicht, wenn die Nichtausübung oder die unzureichende Ausübung des Nutzungsrechts überwiegend auf Umständen beruht, deren Behebung dem Urheber zuzumuten ist.
@@ -1033,7 +1125,7 @@ eine Partei die Verhandlungen endgültig für gescheitert erklärt hat.
 
 (3) Der Rückruf kann erst erklärt werden, nachdem der Urheber dem Inhaber des Nutzungsrechts unter Ankündigung des Rückrufs eine angemessene Nachfrist zur zureichenden Ausübung des Nutzungsrechts bestimmt hat. Der Bestimmung der Nachfrist bedarf es nicht, wenn die Ausübung des Nutzungsrechts seinem Inhaber unmöglich ist oder von ihm verweigert wird oder wenn durch die Gewährung einer Nachfrist überwiegende Interessen des Urhebers gefährdet würden.
 
-(4) Auf das Rückrufsrecht kann im voraus nicht verzichtet werden. Seine Ausübung kann im voraus für mehr als fünf Jahre nicht ausgeschlossen werden.
+(4) Von den Absätzen 1 bis 3 kann zum Nachteil des Urhebers nur durch eine Vereinbarung abgewichen werden, die auf einer gemeinsamen Vergütungsregel (§ 36) oder einem Tarifvertrag beruht.
 
 (5) Mit Wirksamwerden des Rückrufs erlischt das Nutzungsrecht.
 
@@ -1057,7 +1149,7 @@ eine Partei die Verhandlungen endgültig für gescheitert erklärt hat.
 
 (1) Ist einem Hersteller von Tonträgern ein Nutzungsrecht an einem Werk der Musik eingeräumt worden mit dem Inhalt, das Werk zu gewerblichen Zwecken auf Tonträger zu übertragen und diese zu vervielfältigen und zu verbreiten, so ist der Urheber verpflichtet, jedem anderen Hersteller von Tonträgern, der im Geltungsbereich dieses Gesetzes seine Hauptniederlassung oder seinen Wohnsitz hat, nach Erscheinen des Werkes gleichfalls ein Nutzungsrecht mit diesem Inhalt zu angemessenen Bedingungen einzuräumen; dies gilt nicht, wenn das bezeichnete Nutzungsrecht erlaubterweise von einer Verwertungsgesellschaft wahrgenommen wird oder wenn das Werk der Überzeugung des Urhebers nicht mehr entspricht, ihm deshalb die Verwertung des Werkes nicht mehr zugemutet werden kann und er ein etwa bestehendes Nutzungsrecht aus diesem Grunde zurückgerufen hat. § 63 ist entsprechend anzuwenden. Der Urheber ist nicht verpflichtet, die Benutzung des Werkes zur Herstellung eines Filmes zu gestatten.
 
-(2) Gegenüber einem Hersteller von Tonträgern, der weder seine Hauptniederlassung noch seinen Wohnsitz im Geltungsbereich dieses Gesetzes hat, besteht die Verpflichtung nach Absatz 1, soweit in dem Staat, in dem er seine Hauptniederlassung oder seinen Wohnsitz hat, den Herstellern von Tonträgern, die ihre Hauptniederlassung oder ihren Wohnsitz im Geltungsbereich dieses Gesetzes haben, nach einer Bekanntmachung des Bundesministeriums der Justiz im Bundesgesetzblatt ein entsprechendes Recht gewährt wird.
+(2) Gegenüber einem Hersteller von Tonträgern, der weder seine Hauptniederlassung noch seinen Wohnsitz im Geltungsbereich dieses Gesetzes hat, besteht die Verpflichtung nach Absatz 1, soweit in dem Staat, in dem er seine Hauptniederlassung oder seinen Wohnsitz hat, den Herstellern von Tonträgern, die ihre Hauptniederlassung oder ihren Wohnsitz im Geltungsbereich dieses Gesetzes haben, nach einer Bekanntmachung des Bundesministeriums der Justiz und für Verbraucherschutz im Bundesgesetzblatt ein entsprechendes Recht gewährt wird.
 
 (3) Das nach den vorstehenden Bestimmungen einzuräumende Nutzungsrecht wirkt nur im Geltungsbereich dieses Gesetzes und für die Ausfuhr nach Staaten, in denen das Werk keinen Schutz gegen die Übertragung auf Tonträger genießt.
 
@@ -1513,7 +1605,7 @@ Abschnitt 8 Besondere Bestimmungen für Computerprogramme
 
 (4) Auf Computerprogramme finden die für Sprachwerke geltenden Bestimmungen Anwendung, soweit in diesem Abschnitt nichts anderes bestimmt ist.
 
-(5) Die Vorschriften der §§ 95a bis 95d finden auf Computerprogramme keine Anwendung.
+(5) Die Vorschriften der §§ 32d, 32e, 36 bis 36c, 40a und 95a bis 95d finden auf Computerprogramme keine Anwendung.
 
 ### § 69b Urheber in Arbeits- und Dienstverhältnissen
 
@@ -1685,7 +1777,9 @@ die Sendung oder die auf öffentlicher Zugänglichmachung beruhende Wiedergabe d
 
 (1) Der ausübende Künstler kann seine Rechte und Ansprüche aus den §§ 77 und 78 übertragen. § 78 Abs. 3 und 4 bleibt unberührt.
 
-(2) Der ausübende Künstler kann einem anderen das Recht einräumen, die Darbietung auf einzelne oder alle der ihm vorbehaltenen Nutzungsarten zu nutzen. Die §§ 31, 32 bis 32b, 33 bis 42 und 43 sind entsprechend anzuwenden.
+(2) Der ausübende Künstler kann einem anderen das Recht einräumen, die Darbietung auf einzelne oder alle der ihm vorbehaltenen Nutzungsarten zu nutzen.
+
+(2a) Auf Übertragungen nach Absatz 1 und Rechtseinräumungen nach Absatz 2 sind die §§ 31, 32 bis 32b, 32d bis 40, 41, 42 und 43 entsprechend anzuwenden.
 
 (3) Unterlässt es der Tonträgerhersteller, Kopien des Tonträgers in ausreichender Menge zum Verkauf anzubieten oder den Tonträger öffentlich zugänglich zu machen, so kann der ausübende Künstler den Vertrag, mit dem er dem Tonträgerhersteller seine Rechte an der Aufzeichnung der Darbietung eingeräumt oder übertragen hat (Übertragungsvertrag), kündigen. Die Kündigung ist zulässig
 
@@ -1714,6 +1808,14 @@ Ist der Übertragungsvertrag gekündigt, so erlöschen die Rechte des Tonträger
 
 2.  
 50 Jahre nach der ersten erlaubten Benutzung des die Darbietung enthaltenden Tonträgers zur öffentlichen Wiedergabe, wenn der Tonträger nicht erschienen ist.
+
+### § 79b Vergütung des ausübenden Künstlers für später bekannte Nutzungsarten
+
+(1) Der ausübende Künstler hat Anspruch auf eine gesonderte angemessene Vergütung, wenn der Vertragspartner eine neue Art der Nutzung seiner Darbietung aufnimmt, die im Zeitpunkt des Vertragsschlusses vereinbart, aber noch unbekannt war.
+
+(2) Hat der Vertragspartner des ausübenden Künstlers das Nutzungsrecht einem Dritten übertragen, haftet der Dritte mit der Aufnahme der neuen Art der Nutzung für die Vergütung. Die Haftung des Vertragspartners entfällt.
+
+(3) Auf die Rechte nach den Absätzen 1 und 2 kann im Voraus nicht verzichtet werden.
 
 ### § 80 Gemeinsame Darbietung mehrerer ausübender Künstler
 
@@ -1867,7 +1969,7 @@ Abschnitt 1 Filmwerke
 
 (1) Gestattet der Urheber einem anderen, sein Werk zu verfilmen, so liegt darin im Zweifel die Einräumung des ausschließlichen Rechts, das Werk unverändert oder unter Bearbeitung oder Umgestaltung zur Herstellung eines Filmwerkes zu benutzen und das Filmwerk sowie Übersetzungen und andere filmische Bearbeitungen auf alle Nutzungsarten zu nutzen. § 31a Abs. 1 Satz 3 und 4 und Abs. 2 bis 4 findet keine Anwendung.
 
-(2) Die in Absatz 1 bezeichneten Befugnisse berechtigen im Zweifel nicht zu einer Wiederverfilmung des Werkes. Der Urheber ist im Zweifel berechtigt, sein Werk nach Ablauf von zehn Jahren nach Vertragsabschluß anderweit filmisch zu verwerten.
+(2) Die in Absatz 1 bezeichneten Befugnisse berechtigen im Zweifel nicht zu einer Wiederverfilmung des Werkes. Der Urheber ist berechtigt, sein Werk nach Ablauf von zehn Jahren nach Vertragsabschluß anderweit filmisch zu verwerten. Von Satz 2 kann zum Nachteil des Urhebers nur durch eine Vereinbarung abgewichen werden, die auf einer gemeinsamen Vergütungsregel (§ 36) oder einem Tarifvertrag beruht.
 
 (3) (weggefallen)
 
@@ -1883,7 +1985,20 @@ Abschnitt 1 Filmwerke
 
 ### § 90 Einschränkung der Rechte
 
-Die Bestimmungen über die Übertragung von Nutzungsrechten (§ 34) und über die Einräumung weiterer Nutzungsrechte (§ 35) sowie über das Rückrufrecht wegen Nichtausübung (§ 41) und wegen gewandelter Überzeugung (§ 42) gelten nicht für die in § 88 Abs. 1 und § 89 Abs. 1 bezeichneten Rechte. Satz 1 findet bis zum Beginn der Dreharbeiten für das Recht zur Verfilmung keine Anwendung.
+(1) Für die in § 88 Absatz 1 und § 89 Absatz 1 bezeichneten Rechte gelten nicht die Bestimmungen
+
+1.  
+über die Übertragung von Nutzungsrechten (§ 34),
+
+2.  
+über die Einräumung weiterer Nutzungsrechte (§ 35) und
+
+3.  
+über die Rückrufsrechte (§§ 41 und 42).
+
+Satz 1 findet bis zum Beginn der Dreharbeiten für das Recht zur Verfilmung keine Anwendung. Ein Ausschluss der Ausübung des Rückrufsrechts wegen Nichtausübung (§ 41) bis zum Beginn der Dreharbeiten kann mit dem Urheber im Voraus für eine Dauer von bis zu fünf Jahren vereinbart werden.
+
+(2) Für die in § 88 und § 89 Absatz 1 bezeichneten Rechte gilt nicht die Bestimmung über das Recht zur anderweitigen Verwertung nach zehn Jahren bei pauschaler Vergütung (§ 40a).
 
 ### § 91 (weggefallen)
 
@@ -2310,7 +2425,7 @@ Unterabschnitt 3 Vorschriften über Maßnahmen der Zollbehörde
 
 ### § 111b Verfahren nach deutschem Recht
 
-(1) Verletzt die Herstellung oder Verbreitung von Vervielfältigungsstücken das Urheberrecht oder ein anderes nach diesem Gesetz geschütztes Recht, so unterliegen die Vervielfältigungsstücke, soweit nicht die Verordnung (EG) Nr. 1383/2003 des Rates vom 22. Juli 2003 über das Vorgehen der Zollbehörden gegen Waren, die im Verdacht stehen, bestimmte Rechte geistigen Eigentums zu verletzen, und die Maßnahmen gegenüber Waren, die erkanntermaßen derartige Rechte verletzen (ABl. EU Nr. L 196 S. 7), in ihrer jeweils geltenden Fassung anzuwenden ist, auf Antrag und gegen Sicherheitsleistung des Rechtsinhabers bei ihrer Einfuhr oder Ausfuhr der Beschlagnahme durch die Zollbehörde, sofern die Rechtsverletzung offensichtlich ist. Dies gilt für den Verkehr mit anderen Mitgliedstaaten der Europäischen Union sowie mit den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum nur, soweit Kontrollen durch die Zollbehörden stattfinden.
+(1) Verletzt die Herstellung oder Verbreitung von Vervielfältigungsstücken das Urheberrecht oder ein anderes nach diesem Gesetz geschütztes Recht, so unterliegen die Vervielfältigungsstücke, soweit nicht die Verordnung (EU) Nr. 608/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 zur Durchsetzung der Rechte geistigen Eigentums durch die Zollbehörden und zur Aufhebung der Verordnung (EG) Nr. 1383/2003 des Rates (ABl. L 181 vom 29.6.2013, S. 15), in ihrer jeweils geltenden Fassung anzuwenden ist, auf Antrag und gegen Sicherheitsleistung des Rechtsinhabers bei ihrer Einfuhr oder Ausfuhr der Beschlagnahme durch die Zollbehörde, sofern die Rechtsverletzung offensichtlich ist. Dies gilt für den Verkehr mit anderen Mitgliedstaaten der Europäischen Union sowie mit den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum nur, soweit Kontrollen durch die Zollbehörden stattfinden.
 
 (2) Ordnet die Zollbehörde die Beschlagnahme an, so unterrichtet sie unverzüglich den Verfügungsberechtigten sowie den Antragsteller. Dem Antragsteller sind Herkunft, Menge und Lagerort der Vervielfältigungsstücke sowie Name und Anschrift des Verfügungsberechtigten mitzuteilen; das Brief- und Postgeheimnis (Artikel 10 des Grundgesetzes) wird insoweit eingeschränkt. Dem Antragsteller wird Gelegenheit gegeben, die Vervielfältigungsstücke zu besichtigen, soweit hierdurch nicht in Geschäfts- oder Betriebsgeheimnisse eingegriffen wird.
 
@@ -2328,29 +2443,15 @@ Liegen die Fälle der Nummern 1 oder 2 nicht vor, hebt die Zollbehörde die Besc
 
 (5) Erweist sich die Beschlagnahme als von Anfang an ungerechtfertigt und hat der Antragsteller den Antrag nach Absatz 1 in bezug auf die beschlagnahmten Vervielfältigungsstücke aufrechterhalten oder sich nicht unverzüglich erklärt (Absatz 4 Satz 2), so ist er verpflichtet, den dem Verfügungsberechtigten durch die Beschlagnahme entstandenen Schaden zu ersetzen.
 
-(6) Der Antrag nach Absatz 1 ist bei der Bundesfinanzdirektion zu stellen und hat Wirkung für ein Jahr, sofern keine kürzere Geltungsdauer beantragt wird; er kann wiederholt werden. Für die mit dem Antrag verbundenen Amtshandlungen werden vom Antragsteller Kosten nach Maßgabe des § 178 der Abgabenordnung erhoben.
+(6) Der Antrag nach Absatz 1 ist bei der Generalzolldirektion zu stellen und hat Wirkung für ein Jahr, sofern keine kürzere Geltungsdauer beantragt wird; er kann wiederholt werden. Für die mit dem Antrag verbundenen Amtshandlungen werden vom Antragsteller Kosten nach Maßgabe des § 178 der Abgabenordnung erhoben.
 
 (7) Die Beschlagnahme und die Einziehung können mit den Rechtsmitteln angefochten werden, die im Bußgeldverfahren nach dem Gesetz über Ordnungswidrigkeiten gegen die Beschlagnahme und Einziehung zulässig sind. Im Rechtsmittelverfahren ist der Antragsteller zu hören. Gegen die Entscheidung des Amtsgerichts ist die sofortige Beschwerde zulässig; über sie entscheidet das Oberlandesgericht.
 
 (8) (weggefallen)
 
-### § 111c Verfahren nach der Verordnung (EG) Nr. 1383/2003
+### § 111c Verfahren nach der Verordnung (EU) Nr. 608/2013
 
-(1) Setzt die zuständige Zollbehörde nach Artikel 9 der Verordnung (EG) Nr. 1383/2003 die Überlassung der Waren aus oder hält diese zurück, unterrichtet sie davon unverzüglich den Rechtsinhaber sowie den Anmelder oder den Besitzer oder den Eigentümer der Waren.
-
-(2) Im Fall des Absatzes 1 kann der Rechtsinhaber beantragen, die Waren in dem nachstehend beschriebenen vereinfachten Verfahren im Sinn des Artikels 11 der Verordnung (EG) Nr. 1383/2003 vernichten zu lassen.
-
-(3) Der Antrag muss bei der Zollbehörde innerhalb von zehn Arbeitstagen nach Zugang der Unterrichtung nach Absatz 1 schriftlich gestellt werden. Er muss die Mitteilung enthalten, dass die Waren, die Gegenstand des Verfahrens sind, ein nach diesem Gesetz geschütztes Recht verletzen. Die schriftliche Zustimmung des Anmelders, des Besitzers oder des Eigentümers der Waren zu ihrer Vernichtung ist beizufügen. Abweichend von Satz 3 kann der Anmelder, der Besitzer oder der Eigentümer die schriftliche Erklärung, ob er einer Vernichtung zustimmt oder nicht, unmittelbar gegenüber der Zollbehörde abgeben. Die in Satz 1 genannte Frist kann vor Ablauf auf Antrag des Rechtsinhabers um zehn Arbeitstage verlängert werden.
-
-(4) Die Zustimmung zur Vernichtung gilt als erteilt, wenn der Anmelder, der Besitzer oder der Eigentümer der Waren einer Vernichtung nicht innerhalb von zehn Arbeitstagen nach Zugang der Unterrichtung nach Absatz 1 widerspricht. Auf diesen Umstand ist in der Unterrichtung nach Absatz 1 hinzuweisen.
-
-(5) Die Vernichtung der Waren erfolgt auf Kosten und Verantwortung des Rechtsinhabers.
-
-(6) Die Zollstelle kann die organisatorische Abwicklung der Vernichtung übernehmen. Absatz 5 bleibt unberührt.
-
-(7) Die Aufbewahrungsfrist nach Artikel 11 Abs. 1 zweiter Spiegelstrich der Verordnung (EG) Nr. 1383/2003 beträgt ein Jahr.
-
-(8) Im Übrigen gilt § 111b entsprechend, soweit nicht die Verordnung (EG) Nr. 1383/2003 Bestimmungen enthält, die dem entgegenstehen.
+Für das Verfahren nach der Verordnung (EU) Nr. 608/2013 gilt § 111b Absatz 5 und 6 entsprechend, soweit die Verordnung keine Bestimmungen enthält, die dem entgegenstehen.
 
 Abschnitt 3 Zwangsvollstreckung
 -------------------------------
@@ -2480,11 +2581,11 @@ Staatsangehörige eines anderen Mitgliedstaates der Europäischen Union oder ein
 
 (2) Den im Geltungsbereich dieses Gesetzes erschienenen Werken im Sinne des Absatzes 1 werden die Werke der bildenden Künste gleichgestellt, die mit einem Grundstück im Geltungsbereich dieses Gesetzes fest verbunden sind.
 
-(3) Der Schutz nach Absatz 1 kann durch Rechtsverordnung des Bundesministers der Justiz für ausländische Staatsangehörige beschränkt werden, die keinem Mitgliedstaat der Berner Übereinkunft zum Schutze von Werken der Literatur und der Kunst angehören und zur Zeit des Erscheinens des Werkes weder im Geltungsbereich dieses Gesetzes noch in einem anderen Mitgliedstaat ihren Wohnsitz haben, wenn der Staat, dem sie angehören, deutschen Staatsangehörigen für ihre Werke keinen genügenden Schutz gewährt.
+(3) Der Schutz nach Absatz 1 kann durch Rechtsverordnung des Bundesministers der Justiz und für Verbraucherschutz für ausländische Staatsangehörige beschränkt werden, die keinem Mitgliedstaat der Berner Übereinkunft zum Schutze von Werken der Literatur und der Kunst angehören und zur Zeit des Erscheinens des Werkes weder im Geltungsbereich dieses Gesetzes noch in einem anderen Mitgliedstaat ihren Wohnsitz haben, wenn der Staat, dem sie angehören, deutschen Staatsangehörigen für ihre Werke keinen genügenden Schutz gewährt.
 
-(4) Im übrigen genießen ausländische Staatsangehörige den urheberrechtlichen Schutz nach Inhalt der Staatsverträge. Bestehen keine Staatsverträge, so besteht für solche Werke urheberrechtlicher Schutz, soweit in dem Staat, dem der Urheber angehört, nach einer Bekanntmachung des Bundesministers der Justiz im Bundesgesetzblatt deutsche Staatsangehörige für ihre Werke einen entsprechenden Schutz genießen.
+(4) Im übrigen genießen ausländische Staatsangehörige den urheberrechtlichen Schutz nach Inhalt der Staatsverträge. Bestehen keine Staatsverträge, so besteht für solche Werke urheberrechtlicher Schutz, soweit in dem Staat, dem der Urheber angehört, nach einer Bekanntmachung des Bundesministers der Justiz und für Verbraucherschutz im Bundesgesetzblatt deutsche Staatsangehörige für ihre Werke einen entsprechenden Schutz genießen.
 
-(5) Das Folgerecht (§ 26) steht ausländischen Staatsangehörigen nur zu, wenn der Staat, dem sie angehören, nach einer Bekanntmachung des Bundesministers der Justiz im Bundesgesetzblatt deutschen Staatsangehörigen ein entsprechendes Recht gewährt.
+(5) Das Folgerecht (§ 26) steht ausländischen Staatsangehörigen nur zu, wenn der Staat, dem sie angehören, nach einer Bekanntmachung des Bundesministers der Justiz und für Verbraucherschutz im Bundesgesetzblatt deutschen Staatsangehörigen ein entsprechendes Recht gewährt.
 
 (6) Den Schutz nach den §§ 12 bis 14 genießen ausländische Staatsangehörige für alle ihre Werke, auch wenn die Voraussetzungen der Absätze 1 bis 5 nicht vorliegen.
 
@@ -2515,7 +2616,7 @@ Für den Schutz wissenschaftlicher Ausgaben (§ 70) und den Schutz von Lichtbild
 
 (3) Werden Darbietungen ausländischer Staatsangehöriger erlaubterweise auf Bild- oder Tonträger aufgenommen und sind diese erschienen, so genießen die ausländischen Staatsangehörigen hinsichtlich dieser Bild- oder Tonträger den Schutz nach § 77 Abs. 2 Satz 1, § 78 Abs. 1 Nr. 1 und Abs. 2, wenn die Bild- oder Tonträger im Geltungsbereich dieses Gesetzes erschienen sind, es sei denn, daß die Bild- oder Tonträger früher als dreißig Tage vor dem Erscheinen im Geltungsbereich dieses Gesetzes außerhalb dieses Gebietes erschienen sind.
 
-(4) Werden Darbietungen ausländischer Staatsangehöriger erlaubterweise durch Funk gesendet, so genießen die ausländischen Staatsangehörigen den Schutz gegen Aufnahme der Funksendung auf Bild- oder Tonträger (§ 77 Abs. 1) und Weitersendung der Funksendung (§ 78 Abs. 1 Nr. 2) sowie den Schutz nach § 78, wenn die Funksendung im Geltungsbereich dieses Gesetzes ausgestrahlt worden ist.
+(4) Werden Darbietungen ausländischer Staatsangehöriger erlaubterweise durch Funk gesendet, so genießen die ausländischen Staatsangehörigen den Schutz gegen Aufnahme der Funksendung auf Bild- oder Tonträger (§ 77 Abs. 1) und Weitersendung der Funksendung (§ 78 Abs. 1 Nr. 2) sowie den Schutz nach § 78 Abs. 2, wenn die Funksendung im Geltungsbereich dieses Gesetzes ausgestrahlt worden ist.
 
 (5) Im übrigen genießen ausländische Staatsangehörige den Schutz nach Inhalt der Staatsverträge. § 121 Abs. 4 Satz 2 sowie die §§ 122 und 123 gelten entsprechend.
 
@@ -2551,7 +2652,7 @@ ihre Hauptverwaltung oder Hauptniederlassung sich im Gebiet eines der in § 120 
 2.  
 ihr satzungsmäßiger Sitz sich im Gebiet eines dieser Staaten befindet und ihre Tätigkeit eine tatsächliche Verbindung zur deutschen Wirtschaft oder zur Wirtschaft eines dieser Staaten aufweist.
 
-(3) Im übrigen genießen ausländische Staatsangehörige sowie juristische Personen den Schutz nach dem Inhalt von Staatsverträgen sowie von Vereinbarungen, die die Europäische Gemeinschaft mit dritten Staaten schließt; diese Vereinbarungen werden vom Bundesministerium der Justiz im Bundesgesetzblatt bekanntgemacht.
+(3) Im übrigen genießen ausländische Staatsangehörige sowie juristische Personen den Schutz nach dem Inhalt von Staatsverträgen sowie von Vereinbarungen, die die Europäische Gemeinschaft mit dritten Staaten schließt; diese Vereinbarungen werden vom Bundesministerium der Justiz und für Verbraucherschutz im Bundesgesetzblatt bekanntgemacht.
 
 ### § 128 Schutz des Filmherstellers
 
@@ -2586,7 +2687,9 @@ Vertonte Sprachwerke, die nach § 20 des Gesetzes betreffend das Urheberrecht an
 
 (3) Auf Verträge oder sonstige Sachverhalte, die vor dem 1. Juli 2002 geschlossen worden oder entstanden sind, sind die Vorschriften dieses Gesetzes vorbehaltlich der Sätze 2 und 3 in der am 28. März 2002 geltenden Fassung weiter anzuwenden. § 32a findet auf Sachverhalte Anwendung, die nach dem 28. März 2002 entstanden sind. Auf Verträge, die seit dem 1. Juni 2001 und bis zum 30. Juni 2002 geschlossen worden sind, findet auch § 32 Anwendung, sofern von dem eingeräumten Recht oder der Erlaubnis nach dem 30. Juni 2002 Gebrauch gemacht wird.
 
-(4) Absatz 3 gilt für ausübende Künstler entsprechend.
+(3a) Auf Verträge oder sonstige Sachverhalte, die vor dem 1. März 2017 geschlossen worden oder entstanden sind, sind die Vorschriften dieses Gesetzes in der bis zum 1. März 2017 geltenden Fassung weiter anzuwenden. § 41 (Rückrufsrecht wegen Nichtausübung) in der am 1. März 2017 geltenden Fassung findet auf Sachverhalte Anwendung, die seit dem 1. März 2018 entstanden sind.
+
+(4) Die Absätze 3 und 3a gelten für ausübende Künstler entsprechend.
 
 ### § 133 (weggefallen)
 
@@ -2668,7 +2771,7 @@ Wird durch die Anwendung dieses Gesetzes auf ein vor seinem Inkrafttreten entsta
 
 (1) Würde durch die Anwendung dieses Gesetzes in der ab dem 1. Juli 1995 geltenden Fassung die Dauer eines vorher entstandenen Rechts verkürzt, so erlischt der Schutz mit dem Ablauf der Schutzdauer nach den bis zum 30. Juni 1995 geltenden Vorschriften. Im übrigen sind die Vorschriften dieses Gesetzes über die Schutzdauer in der ab dem 1. Juli 1995 geltenden Fassung auch auf Werke und verwandte Schutzrechte anzuwenden, deren Schutz am 1. Juli 1995 noch nicht erloschen ist.
 
-(2) Die Vorschriften dieses Gesetze in der ab dem 1. Juli 1995 geltenden Fassung sind auch auf Werke anzuwenden, deren Schutz nach diesem Gesetz vor dem 1. Juli 1995 abgelaufen ist, nach dem Gesetz eines anderen Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum zu diesem Zeitpunkt aber noch besteht. Satz 1 gilt entsprechend für die verwandten Schutzrechte des Herausgebers nachgelassener Werke (§ 71), der ausübenden Künstler (§ 73), der Hersteller von Tonträgern (§ 85), der Sendeunternehmen (§ 87) und der Filmhersteller (§§ 94 und 95).
+(2) Die Vorschriften dieses Gesetzes in der ab dem 1. Juli 1995 geltenden Fassung sind auch auf Werke anzuwenden, deren Schutz nach diesem Gesetz vor dem 1. Juli 1995 abgelaufen ist, nach dem Gesetz eines anderen Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum zu diesem Zeitpunkt aber noch besteht. Satz 1 gilt entsprechend für die verwandten Schutzrechte des Herausgebers nachgelassener Werke (§ 71), der ausübenden Künstler (§ 73), der Hersteller von Tonträgern (§ 85), der Sendeunternehmen (§ 87) und der Filmhersteller (§§ 94 und 95).
 
 (3) Lebt nach Absatz 2 der Schutz eines Werkes im Geltungsbereich dieses Gesetzes wieder auf, so stehen die wiederauflebenden Rechte dem Urheber zu. Eine vor dem 1. Juli 1995 begonnene Nutzungshandlung darf jedoch in dem vorgesehenen Rahmen fortgesetzt werden. Für die Nutzung ab dem 1. Juli 1995 ist eine angemessene Vergütung zu zahlen. Die Sätze 1 bis 3 gelten für verwandte Schutzrechte entsprechend.
 
@@ -2745,7 +2848,7 @@ Abschnitt 3 Schlussbestimmungen
 
 (4) Die Einsicht in das Register ist jedem gestattet. Auf Antrag werden Auszüge aus dem Register erteilt.
 
-(5) Der Bundesminister der Justiz wird ermächtigt, durch Rechtsverordnung
+(5) Der Bundesminister der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung
 
 1.  
 Bestimmungen über die Form des Antrags und die Führung des Registers zu erlassen,
