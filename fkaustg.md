@@ -1,8 +1,8 @@
 Gesetz zum automatischen Austausch von Informationen über Finanzkonten in Steuersachen (FKAustG)
 ================================================================================================
 
-Hinweis  
-Änderung durch Art. 6 G v. 20.12.2016 I 3000 (Nr. 63) noch nicht berücksichtigt
+Stand  
+Geändert durch Art. 6 G v. 20.12.2016 I 3000
 
 ### 
 
@@ -80,10 +80,16 @@ Abschnitt 1 Allgemeine Bestimmungen
 (1) Dieses Gesetz gilt für den automatischen Austausch von Informationen über Finanzkonten in Steuersachen mit
 
 1.  
-Mitgliedstaaten der Europäischen Union aufgrund der Richtlinie 2011/16/EU des Rates vom 15. Februar 2011 über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der Richtlinie 77/799/EWG (ABl. L 64 vom 11.3.2011, S. 1; Amtshilferichtlinie) in der Fassung der Richtlinie 2014/107/EU (ABl. L 359 vom 16.12.2014, S. 1) sowie
+Mitgliedstaaten der Europäischen Union aufgrund der Richtlinie 2011/16/EU des Rates vom 15. Februar 2011 über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der Richtlinie 77/799/EWG (ABl. L 64 vom 11.3.2011, S. 1; Amtshilferichtlinie) in der Fassung der Richtlinie 2014/107/EU (ABl. L 359 vom 16.12.2014, S. 1),
 
 2.  
-Drittstaaten, die Vertragsparteien der von der Bundesrepublik Deutschland in Berlin unterzeichneten Mehrseitigen Vereinbarung vom 29. Oktober 2014 zwischen den zuständigen Behörden über den automatischen Austausch von Informationen über Finanzkonten (BGBl. 2015 II S. 1630, 1632) sind und diese in ihr nationales Recht verpflichtend aufgenommen haben sowie Vertragsparteien des Übereinkommens über die gegenseitige Amtshilfe in Steuersachen (BGBl. 2015 II S. 966, 967) sind und die gewährleisten, dass sie die Voraussetzungen des § 7 Absatz 1, insbesondere Buchstabe e der Mehrseitigen Vereinbarung vom 29. Oktober 2014 zwischen den zuständigen Behörden über den automatischen Austausch von Informationen über Finanzkonten erfüllen.
+Drittstaaten, die Vertragsparteien der von der Bundesrepublik Deutschland in Berlin unterzeichneten Mehrseitigen Vereinbarung vom 29. Oktober 2014 zwischen den zuständigen Behörden über den automatischen Austausch von Informationen über Finanzkonten (BGBl. 2015 II S. 1630, 1632) sind und diese in ihr nationales Recht verpflichtend aufgenommen haben sowie Vertragsparteien des Übereinkommens über die gegenseitige Amtshilfe in Steuersachen (BGBl. 2015 II S. 966, 967) sind und die gewährleisten, dass sie die Voraussetzungen des § 7 Absatz 1, insbesondere Buchstabe e der Mehrseitigen Vereinbarung vom 29. Oktober 2014 zwischen den zuständigen Behörden über den automatischen Austausch von Informationen über Finanzkonten erfüllen sowie
+
+3.  
+Drittstaaten, die Verträge mit der Europäischen Union zur Vereinbarung des automatischen Austauschs von Informationen über Finanzkonten im Sinne der unter Nummer 1 angeführten Richtlinie 2014/107/EU (ABl. L 359 vom 16.12.2014, S. 1) geschlossen haben, sowie
+
+4.  
+Drittstaaten, mit denen die Bundesrepublik Deutschland ein Abkommen über den steuerlichen Informationsaustausch geschlossen hat, nach dem ein automatischer Austausch von Informationen vereinbart werden kann.
 
 (2) Für die Durchführung der Melde- und Sorgfaltspflichten gelten die in § 19 angeführten Begriffsbestimmungen und die sonstigen Begriffsbestimmungen nach § 20.
 
@@ -142,7 +148,7 @@ Zuständige Behörde im Sinne dieses Gesetzes ist das Bundesministerium der Fina
 
 (2) Das Bundeszentralamt für Steuern übermittelt die ihm von den Finanzinstituten nach Absatz 1 übermittelten Daten an die zuständige Behörde des jeweils anderen Staates im Sinne des § 1 Absatz 1. Das Bundeszentralamt für Steuern speichert zudem die übermittelten Daten.
 
-(3) Das Bundeszentralamt für Steuern nimmt die von einer anderen zuständigen Behörde eines Staates im Sinne des § 1 Absatz 1 übermittelten Daten entgegen, speichert sie und leitet sie zur Durchführung des Besteuerungsverfahrens an die zuständige Landesfinanzbehörde weiter.
+(3) Das Bundeszentralamt für Steuern nimmt die von einer anderen zuständigen Behörde eines Staates im Sinne des § 1 Absatz 1 übermittelten Daten entgegen, speichert sie und leitet sie zur Durchführung des Besteuerungsverfahrens nach Maßgabe des § 88 Absatz 3 und 4 der Abgabenordnung an die zuständige Landesfinanzbehörde weiter.
 
 (4) Das Bundeszentralamt für Steuern ist berechtigt, eine Auswertung der ihm nach den Absätzen 1 und 3 übermittelten Daten zur Erfüllung der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben vorzunehmen. Eine Auswertung der Daten durch die jeweils zuständige Landesfinanzbehörde bleibt hiervon unberührt.
 
@@ -151,6 +157,8 @@ Zuständige Behörde im Sinne dieses Gesetzes ist das Bundesministerium der Fina
 (6) Das Bundeszentralamt für Steuern ist für die Prüfung der Einhaltung der den Finanzinstituten nach diesem Gesetz auferlegten Melde- und Sorgfaltspflichten, besonderen Sorgfaltspflichten sowie ergänzenden Melde- und Sorgfaltsvorschriften für Informationen über Finanzkonten zuständig. Die §§ 193 bis 203 der Abgabenordnung gelten entsprechend.
 
 (7) Die aufgrund dieses Gesetzes vom Bundeszentralamt für Steuern als zuständige Behörde erhobenen und gespeicherten Daten dürfen nur für die in den zugrunde liegenden Regelungen gemäß § 1 Absatz 1 festgelegten Zwecke verwendet werden.
+
+(8) Bei der Übermittlung von Informationen durch das Bundeszentralamt für Steuern an die zuständigen Behörden der Vertragsstaaten der in § 1 Absatz 1 Nummer 2 genannten Vereinbarung vom 29. Oktober 2014 findet keine Anhörung der Beteiligten nach § 117 Absatz 4 Satz 3 der Abgabenordnung statt.
 
 ### § 6 Ansässigkeit; Zeitpunkt der Erstanwendung
 
