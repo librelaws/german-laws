@@ -2,7 +2,7 @@ Gesetz über die Durchführung der gegenseitigen Amtshilfe in Steuersachen zwisc
 =====================================================================================================================================
 
 Stand  
-Geändert durch Art. 4 G v. 21.12.2015 I 2531
+Zuletzt geändert durch Art. 4 G v. 20.12.2016 I 3000
 
 ### 
 
@@ -10,7 +10,7 @@ Dieses Gesetzes dient der Umsetzung der Richtlinie 2011/16/EU des Rates vom 15. 
 
 ```
 (+++ Textnachweis ab: 1.1.2013  +++)
-(+++ Zur Anwendung d. § 7 Abs. 1 u. 2 vgl. § 20 +++)
+(+++ Zur Anwendung d. § 7 vgl. § 21 +++)
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
        EURL 16/2011    (CELEX Nr: 32011L0016) vgl. G v. 26.6.2013 I 1809 +++) 
@@ -66,14 +66,15 @@ Abschnitt 5
 
 Weitere Vorschriften
 
-|      |                                              |
-|------|----------------------------------------------|
-| § 15 | Verwendung von Informationen und Dokumenten  |
-| § 16 | Rückmeldungen                                |
-| § 17 | Standardformblätter und Kommunikationsmittel |
-| § 18 | Informationsübermittlung an Drittstaaten     |
-| § 19 | Datenschutz und Zweckbestimmung              |
-| § 20 | Anwendungsbestimmung                         |
+|      |                                                     |
+|------|-----------------------------------------------------|
+| § 15 | Verwendung von Informationen und Dokumenten         |
+| § 16 | Rückmeldungen                                       |
+| § 17 | Standardformblätter und Kommunikationsmittel        |
+| § 18 | Informationsübermittlung an Drittstaaten            |
+| § 19 | Datenschutz und Zweckbestimmung                     |
+| § 20 | Statistiken zum automatischen Informationsaustausch |
+| § 21 | Übergangsvorschriften                               |
 
 Abschnitt 1 Allgemeine Bestimmungen
 -----------------------------------
@@ -127,9 +128,82 @@ eine Personenvereinigung, der die Rechtsfähigkeit zuerkannt wurde, die aber nic
 4.  
 jede andere Rechtsform gleich welcher Art, mit oder ohne allgemeine Rechtsfähigkeit, die Vermögensgegenstände besitzt oder verwaltet, welche einschließlich der daraus erzielten Einkünfte einer der von § 1 erfassten Steuern unterliegen.
 
-(2) Amtshilferichtlinie im Sinne dieses Gesetzes sowie des Einkommensteuergesetzes, der Abgabenordnung, des Außensteuergesetzes, des Körperschaftsteuergesetzes, des Gewerbesteuergesetzes, des Investmentsteuergesetzes und sonstiger Steuergesetze bezeichnet die Richtlinie 2011/16/EU des Rates vom 15. Februar 2011 über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der Richtlinie 77/799/EWG (ABl. L 64 vom 11.3.2011, S. 1) in der jeweils geltenden Fassung. Die auf Grund der Amtshilferichtlinie erlassenen europarechtlichen Durchführungsbestimmungen gelten in der im jeweiligen Besteuerungszeitraum aktuellen Fassung.
+(2) Automatischer Austausch
 
-(3) Auf elektronischem Weg im Sinne dieses Gesetzes bezeichnet die Verwendung elektronischer Anlagen zur Übermittlung, Verarbeitung von Daten, einschließlich der Datenkomprimierung, und zum Speichern von Daten unter Einsatz von Draht, Funk, optischen Technologien oder anderen elektromagnetischen Verfahren.
+1.  
+im Sinne des § 7 Absatz 1, 3, 4, 10 und 11 ist die systematische Übermittlung zuvor festgelegter Informationen an einen anderen Mitgliedstaat ohne dessen vorheriges Ersuchen in regelmäßigen, im Voraus bestimmten Abständen; für die Zwecke des § 7 Absatz 1 sind verfügbare Informationen solche Informationen, die in den Steuerakten über Personen, die in anderen Mitgliedstaaten ansässig sind, enthalten sind und die im Einklang mit den Verfahren für die Erhebung und Verarbeitung von Informationen abgerufen werden können;
+
+2.  
+im Sinne des § 7 Absatz 2 ist die systematische Übermittlung zuvor festgelegter Informationen über Personen, die in anderen Mitgliedstaaten ansässig sind, an den jeweiligen Ansässigkeitsmitgliedstaat ohne dessen vorheriges Ersuchen in regelmäßigen, im Voraus bestimmten Abständen;
+
+3.  
+für die Zwecke aller Bestimmungen dieses Gesetzes mit Ausnahme des § 7 Absatz 1, 3 bis 5 und 9 bis 11 ist die systematische Übermittlung zuvor festgelegter Informationen im Sinne der Nummern 1 und 2.
+
+(3) Ein grenzüberschreitender Vorbescheid im Sinne dieses Gesetzes ist eine Vereinbarung, eine Mitteilung oder eine andere Maßnahme mit ähnlicher Wirkung, die
+
+1.  
+von oder im Namen der Bundesrepublik Deutschland, einer zuständigen Landesfinanzbehörde oder von Gemeinden oder Gemeindeverbänden erteilt, geändert oder erneuert werden, unabhängig davon, ob die grenzüberschreitenden Vorbescheide tatsächlich verwendet werden,
+
+2.  
+für eine bestimmte Person oder eine Gruppe von Personen erteilt, geändert oder erneuert wird und sofern sich diese Person oder Gruppe von Personen darauf berufen kann,
+
+3.  
+die Auslegung oder Anwendung einer Rechts- oder Verwaltungsvorschrift der Steuergesetze der Bundesrepublik Deutschland, eines Landes oder entsprechender Regelungen einer Gemeinde oder eines Gemeindeverbandes betrifft,
+
+4.  
+sich auf eine grenzüberschreitende Transaktion oder auf die Frage bezieht, ob durch die Tätigkeiten, denen eine Person nicht im Inland nachgeht, eine Betriebstätte begründet wird oder nicht, und
+
+5.  
+vor den Transaktionen oder den Tätigkeiten im Ausland, die möglicherweise als Gründung einer Betriebstätte zu betrachten sind, oder vor Abgabe der Steuererklärung für den Zeitraum, in dem die Transaktion oder die Tätigkeiten erfolgten, erteilt wird.
+
+Dies gilt auch, wenn der Vorbescheid im Zuge einer Außenprüfung erteilt oder geändert wird. Die grenzüberschreitende Transaktion kann unter anderem Investitionen, die Bereitstellung von Waren, Dienstleistungen oder Kapital oder den Einsatz materieller oder immaterieller Güter umfassen, wobei der Empfänger des grenzüberschreitenden Vorbescheids daran nicht unmittelbar beteiligt sein muss.
+
+(4) Eine Vorabverständigung über die Verrechnungspreisgestaltung im Sinne dieses Gesetzes ist eine Vereinbarung, eine Mitteilung oder eine andere Maßnahme mit ähnlicher Wirkung, die
+
+1.  
+im Namen der Bundesrepublik Deutschland, einer zuständigen Landesfinanzbehörde oder einer Gemeinde oder eines Gemeindeverbandes getroffen, geändert oder erneuert wird, unabhängig davon, ob sie tatsächlich verwendet wird oder nicht,
+
+2.  
+für eine bestimmte Person oder eine Gruppe von Personen getroffen, geändert oder erneuert wird, und sofern sich diese Person oder Gruppe von Personen darauf berufen kann, und
+
+3.  
+im Vorfeld grenzüberschreitender Transaktionen zwischen verbundenen Unternehmen
+
+a)  
+geeignete Kriterien zur Bestimmung der Verrechnungspreise für die betreffenden Transaktionen festlegt oder
+
+b)  
+die Zuweisung von Gewinnen an eine Betriebstätte regelt.
+
+Dies gilt auch, wenn der Vorbescheid im Zuge einer Außenprüfung erteilt oder geändert wird.
+
+(5) Ein Unternehmen ist ein verbundenes Unternehmen im Sinne dieses Gesetzes, wenn es unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines anderen Unternehmens beteiligt ist oder wenn ein und dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital beider Unternehmen beteiligt sind.
+
+(6) Verrechnungspreise im Sinne dieses Gesetzes sind die Preise, zu denen ein Unternehmen materielle oder immaterielle Güter auf ein verbundenes Unternehmen überträgt oder Dienstleistungen für ein verbundenes Unternehmen erbringt.
+
+(7) Eine grenzüberschreitende Transaktion im Sinne von Absatz 3 ist eine Transaktion oder eine Reihe von Transaktionen, bei der
+
+1.  
+nicht alle an der Transaktion oder an der Reihe von Transaktionen Beteiligten in der Bundesrepublik Deutschland, in der der grenzüberschreitende Vorbescheid erteilt oder geändert oder erneuert wird, steuerlich ansässig sind,
+
+2.  
+einer der an der Transaktion oder an der Reihe von Transaktionen Beteiligten gleichzeitig in mehreren Staaten oder Gebieten steuerlich ansässig ist,
+
+3.  
+einer der an der Transaktion oder an der Reihe von Transaktionen Beteiligten über eine Betriebstätte Geschäftstätigkeiten in einem anderen Staat oder Gebiet nachgeht und bei der die Transaktion oder Reihe von Transaktionen Teil der Geschäftstätigkeiten der Betriebstätte ist oder deren gesamte Geschäftstätigkeiten ausmachen. Bei einer grenzüberschreitenden Transaktion oder einer Reihe von grenzüberschreitenden Transaktionen kann es sich auch um Maßnahmen handeln, die von einer Person in Bezug auf Geschäftstätigkeiten in einem anderen Staat oder Gebiet getroffen werden, denen sie über eine Betriebstätte nachgeht, oder
+
+4.  
+es sich um eine Transaktion oder eine Reihe von Transaktionen handelt, die grenzüberschreitende Auswirkungen hat.
+
+(8) Eine grenzüberschreitende Transaktion im Sinne von Absatz 4 ist eine Transaktion oder eine Reihe von Transaktionen, an denen verbundene Unternehmen beteiligt sind, die nicht im Gebiet ein und desselben Staates oder ein und desselben Gebietes steuerlich ansässig sind, oder die grenzüberschreitende Auswirkungen haben.
+
+(9) Unternehmen im Sinne der Absätze 4 und 5 ist jede Form von Geschäftstätigkeit.
+
+(10) Länderbezogener Bericht im Sinne von § 7 Absatz 10 bis 12 ist ein länderbezogener Bericht im Sinne von § 138a Absatz 2 der Abgabenordnung.
+
+(11) Amtshilferichtlinie im Sinne dieses Gesetzes sowie des Einkommensteuergesetzes, der Abgabenordnung, des Außensteuergesetzes, des Körperschaftsteuergesetzes, des Gewerbesteuergesetzes, des Investmentsteuergesetzes und sonstiger Steuergesetze bezeichnet die Richtlinie 2011/16/EU des Rates vom 15. Februar 2011 über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der Richtlinie 77/799/EWG (ABl. L 64 vom 11.3.2011, S. 1) in der jeweils geltenden Fassung. Die auf Grund der Amtshilferichtlinie erlassenen europarechtlichen Durchführungsbestimmungen gelten in der im jeweiligen Besteuerungszeitraum aktuellen Fassung.
+
+(12) Auf elektronischem Weg im Sinne dieses Gesetzes bezeichnet die Verwendung elektronischer Anlagen zur Übermittlung, Verarbeitung von Daten, einschließlich der Datenkomprimierung, und zum Speichern von Daten unter Einsatz von Draht, Funk, optischen Technologien oder anderen elektromagnetischen Verfahren.
 
 ### § 3 Zuständigkeit und Prüfungsbefugnisse
 
@@ -137,11 +211,13 @@ jede andere Rechtsform gleich welcher Art, mit oder ohne allgemeine Rechtsfähig
 
 (2) Zentrales Verbindungsbüro im Sinne von Artikel 4 Absatz 2 Unterabsatz 1 der Amtshilferichtlinie ist in den Fällen des § 5 Absatz 1 Nummer 5 des Finanzverwaltungsgesetzes das Bundeszentralamt für Steuern. Das Bundesministerium der Finanzen kann durch Schreiben weitere Verbindungsstellen im Sinne von Artikel 4 Absatz 3 und zuständige Bedienstete im Sinne von Artikel 4 Absatz 4 der Amtshilferichtlinie benennen.
 
-(3) Das zentrale Verbindungsbüro übernimmt die Kommunikation mit den anderen Mitgliedstaaten und prüft eingehende und ausgehende Ersuchen auf Zulässigkeit nach diesem Gesetz. Eingehende zulässige Ersuchen und Informationen werden vom zentralen Verbindungsbüro an die Finanzbehörden weitergeleitet. Zulässige Ersuchen und Informationen der Finanzbehörden werden vom zentralen Verbindungsbüro an die anderen Mitgliedstaaten weitergeleitet.
+(3) Das zentrale Verbindungsbüro übernimmt die Kommunikation mit den anderen Mitgliedstaaten und prüft eingehende und ausgehende Ersuchen auf Zulässigkeit nach diesem Gesetz. Eingehende zulässige Ersuchen und Informationen werden vom zentralen Verbindungsbüro entgegengenommen, gespeichert und zur Durchführung des Besteuerungsverfahrens an die zuständigen Finanzbehörden weitergeleitet. Zulässige Ersuchen und Informationen der Finanzbehörden werden vom zentralen Verbindungsbüro an die anderen Mitgliedstaaten weitergeleitet.
 
-(4) Gehen Ersuchen nach diesem Gesetz bei einer anderen Stelle als dem zentralen Verbindungsbüro ein, so sind diese Ersuchen letzterem unverzüglich zuzuleiten.
+(4) Die im Zusammenhang mit den Ersuchen und Informationen beim Bundeszentralamt für Steuern gespeicherten Daten werden mit Ablauf des 15. Jahres, das dem Jahr der Weiterleitung folgt, gelöscht, soweit in diesem Gesetz keine anderen Vorgaben zur Speicherung und Löschung von Informationen geregelt sind. Geht zu einer gespeicherten Meldung eine Änderungsmitteilung ein, so ist die Ursprungsmeldung für 15 Jahre ab dem Zeitpunkt des Eingangs der Änderungsmitteilung vorzuhalten.
 
-(5) Die Gemeinden und Gemeindeverbände können Amtshilfe nach Maßgabe dieses Gesetzes in Anspruch nehmen. Sie gelten insoweit als Finanzbehörden im Sinne dieses Gesetzes.
+(5) Gehen Ersuchen nach diesem Gesetz bei einer anderen Stelle als dem zentralen Verbindungsbüro ein, so sind diese Ersuchen letzterem unverzüglich zuzuleiten.
+
+(6) Die Gemeinden und Gemeindeverbände können Amtshilfe nach Maßgabe dieses Gesetzes in Anspruch nehmen. Sie gelten insoweit als Finanzbehörden im Sinne dieses Gesetzes.
 
 Abschnitt 2 Übermittlung von Informationen auf Ersuchen
 -------------------------------------------------------
@@ -178,19 +254,31 @@ die öffentliche Ordnung verletzt werden würde.
 
 (1) Das zentrale Verbindungsbüro übermittelt die Informationen nach § 4 unverzüglich, spätestens jedoch sechs Monate, nachdem es das Ersuchen erhalten hat. Ist die Finanzbehörde bereits im Besitz der entsprechenden Informationen, verkürzt sich die Frist auf zwei Monate. In besonders gelagerten Fällen können das zentrale Verbindungsbüro und der andere Mitgliedstaat abweichende Fristen vereinbaren.
 
-(2) Das zentrale Verbindungsbüro bestätigt dem anderen Mitgliedstaat unverzüglich, spätestens jedoch sieben Arbeitstage, nachdem es das Ersuchen erhalten hat, möglichst auf elektronischem Weg den Erhalt dieses Ersuchens.
+(2) Der Informationsaustausch nach § 7 erfolgt
 
-(3) Weist das Ersuchen Mängel auf, so unterrichtet das zentrale Verbindungsbüro den anderen Mitgliedstaat darüber innerhalb eines Monats, nachdem es das Ersuchen erhalten hat, und fordert gegebenenfalls zusätzliche Hintergrundinformationen an. Die Fristen nach Absatz 1 beginnen am Tag nach dem Eingang der angeforderten zusätzlichen Hintergrundinformationen.
+1.  
+in Bezug auf die gemäß § 7 Absatz 3 auszutauschenden Informationen innerhalb von drei Monaten nach Ablauf des Kalenderhalbjahrs, in dem die grenzüberschreitenden Vorbescheide oder Vorabverständigungen über die Verrechnungspreisgestaltung erteilt oder getroffen, geändert oder erneuert wurden;
 
-(4) Ist die Finanzbehörde nicht in der Lage, auf ein Ersuchen fristgerecht zu antworten, so teilt das zentrale Verbindungsbüro dies dem anderen Mitgliedstaat unverzüglich, spätestens jedoch drei Monate, nachdem das zentrale Verbindungsbüro das Ersuchen erhalten hat, unter Nennung der Gründe und des voraussichtlichen Erledigungsdatums mit.
+2.  
+in Bezug auf die gemäß § 7 Absatz 4 auszutauschenden Informationen vor dem 1. Januar 2018.
 
-(5) Ist die Finanzbehörde nicht im Besitz der erbetenen Informationen oder lehnt sie das Ersuchen aus den in § 4 Absatz 3 oder 4 genannten Gründen ab, so teilt das zentrale Verbindungsbüro dies dem anderen Mitgliedstaat unverzüglich, spätestens jedoch innerhalb eines Monats, nachdem das zentrale Verbindungsbüro das Ersuchen erhalten hat, unter Nennung der Gründe mit.
+(3) Das zentrale Verbindungsbüro bestätigt der zuständigen Behörde des anderen Mitgliedstaats, die die Informationen nach § 7 Absatz 7 Nummer 10 übermittelt hat, unverzüglich, spätestens jedoch innerhalb von sieben Arbeitstagen den Erhalt der Informationen. Die Bestätigung erfolgt möglichst auf elektronischem Weg. Die Bestätigung ist so lange erforderlich, bis das Zentralverzeichnis einsatzbereit ist, das in Artikel 21 Absatz 5 der Richtlinie 2011/16/EU des Rates vom 15. Februar 2011 über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der Richtlinie 77/799/EWG (ABl. L 64 vom 11.3.2011, S. 1), der durch die Richtlinie (EU) 2015/2376 (ABl. L 332 vom 18.12.2015, S. 1) eingefügt worden ist, genannt ist.
+
+(4) Das zentrale Verbindungsbüro bestätigt dem anderen Mitgliedstaat unverzüglich, spätestens jedoch sieben Arbeitstage, nachdem es das Ersuchen erhalten hat, möglichst auf elektronischem Weg den Erhalt dieses Ersuchens.
+
+(5) Weist das Ersuchen Mängel auf, so unterrichtet das zentrale Verbindungsbüro den anderen Mitgliedstaat darüber innerhalb eines Monats, nachdem es das Ersuchen erhalten hat, und fordert gegebenenfalls zusätzliche Hintergrundinformationen an. Die Fristen nach Absatz 1 beginnen am Tag nach dem Eingang der angeforderten zusätzlichen Hintergrundinformationen.
+
+(6) Ist die Finanzbehörde nicht in der Lage, auf ein Ersuchen fristgerecht zu antworten, so teilt das zentrale Verbindungsbüro dies dem anderen Mitgliedstaat unverzüglich, spätestens jedoch drei Monate, nachdem das zentrale Verbindungsbüro das Ersuchen erhalten hat, unter Nennung der Gründe und des voraussichtlichen Erledigungsdatums mit.
+
+(7) Ist die Finanzbehörde nicht im Besitz der erbetenen Informationen oder lehnt sie das Ersuchen aus den in § 4 Absatz 3 oder 4 genannten Gründen ab, so teilt das zentrale Verbindungsbüro dies dem anderen Mitgliedstaat unverzüglich, spätestens jedoch innerhalb eines Monats, nachdem das zentrale Verbindungsbüro das Ersuchen erhalten hat, unter Nennung der Gründe mit.
 
 ### § 6 Ersuchen an andere Mitgliedstaaten
 
 (1) Die Finanzbehörde ist befugt, ein Ersuchen zu stellen, welches das zentrale Verbindungsbüro dem anderen Mitgliedstaat nach den Vorschriften dieses Gesetzes weiterleitet. Darin kann um sachdienliche behördliche Ermittlungen ersucht werden. Originaldokumente können erbeten werden, soweit sie für das weitere Verfahren notwendig sind.
 
-(2) Bevor die Finanzbehörde ein Ersuchen stellt, hat sie alle nach der Abgabenordnung vorgesehenen Ermittlungsmöglichkeiten auszuschöpfen, es sei denn, die Durchführung der Ermittlungen wäre mit unverhältnismäßig großen Schwierigkeiten verbunden oder stellt sich als nicht Erfolg versprechend dar.
+(2) Die Finanzbehörde ist befugt, ein Ersuchen um Übermittlung zusätzlicher Informationen, einschließlich des vollständigen Wortlauts eines grenzüberschreitenden Vorbescheids oder einer Vorabverständigung über die Verrechnungspreisgestaltung, zu stellen. Das zentrale Verbindungsbüro leitet das Ersuchen dem anderen Mitgliedstaat nach den Vorschriften dieses Gesetzes weiter.
+
+(3) Bevor die Finanzbehörde ein Ersuchen stellt, hat sie alle nach der Abgabenordnung vorgesehenen Ermittlungsmöglichkeiten auszuschöpfen, es sei denn, die Durchführung der Ermittlungen wäre mit unverhältnismäßig großen Schwierigkeiten verbunden oder stellt sich als nicht Erfolg versprechend dar.
 
 Abschnitt 3 Weitere Übermittlung von Informationen
 --------------------------------------------------
@@ -216,13 +304,114 @@ Ruhegehälter, Renten und ähnliche Zahlungen und
 5.  
 Eigentum an unbeweglichem Vermögen und Einkünfte daraus.
 
+Das zentrale Verbindungsbüro nimmt Informationen im Sinne von Satz 1 Nummer 1 bis 5, die ihm von anderen Mitgliedstaaten systematisch auf elektronischem Weg, ohne vorheriges Ersuchen übermittelt wurden, entgegen, speichert sie und leitet sie zur Durchführung des Besteuerungsverfahrens nach Maßgabe des § 88 Absatz 3 und 4 der Abgabenordnung an die zuständige Finanzbehörde weiter.
+
 (2) Das zentrale Verbindungsbüro übermittelt an andere Mitgliedstaaten systematisch auf elektronischem Weg, ohne vorheriges Ersuchen, die Informationen über Finanzkonten gemäß § 2 des Gesetzes zum automatischen Austausch von Informationen über Finanzkonten in Steuersachen.
 
-(3) In den Fällen der Absätze 1 und 2 ist abweichend von § 117 Absatz 4 Satz 3 der Abgabenordnung keine Anhörung erforderlich.
+(3) Das zentrale Verbindungsbüro übermittelt zu nach dem 31. Dezember 2016 erteilten, getroffenen, geänderten oder erneuerten grenzüberschreitenden Vorbescheiden und zu nach dem 31. Dezember 2016 erteilten, getroffenen, geänderten oder erneuerten Vorabverständigungen über die Verrechnungspreisgestaltung im Weg des automatischen Austauschs die Informationen nach Absatz 7 an die zuständigen Behörden aller anderen Mitgliedstaaten sowie der Europäischen Kommission mit der Einschränkung, die für die Fälle nach Artikel 8a Absatz 8 der Richtlinie 2011/16/EU gilt.
 
-(4) Das Bundesministerium der Finanzen legt im Einvernehmen mit den obersten Finanzbehörden der Länder die Einzelheiten der automatischen Übermittlung von Informationen in einem Schreiben fest. Dieses Schreiben ist im Bundessteuerblatt zu veröffentlichen.
+(4) Das zentrale Verbindungsbüro übermittelt den zuständigen Behörden aller anderen Mitgliedstaaten sowie der Europäischen Kommission, unter Berücksichtigung der Einschränkung, die für die Fälle nach Artikel 8a Absatz 8 der Richtlinie 2011/16/EU gilt, Informationen über grenzüberschreitende Vorbescheide und Vorabverständigungen über die Verrechnungspreisgestaltung, die zwischen dem 1. Januar 2012 und dem 31. Dezember 2016 erteilt, getroffen, geändert oder erneuert wurden. Dabei gilt Folgendes:
 
-(+++ § 7 Abs. 1 u. 2: Zur Anwendung vgl. § 20 +++)
+1.  
+zu grenzüberschreitenden Vorbescheiden und Vorabverständigungen über die Verrechnungspreisgestaltung, die in der Zeit zwischen dem 1. Januar 2012 und dem 31. Dezember 2013 erteilt, getroffen, geändert oder erneuert wurden und die am 1. Januar 2014 noch gültig waren, erfolgt die Informationsübermittlung nach Satz 1,
+
+2.  
+zu grenzüberschreitenden Vorbescheiden und Vorabverständigungen über die Verrechnungspreisgestaltung, die in der Zeit zwischen dem 1. Januar 2014 und dem 31. Dezember 2016 erteilt, getroffen, geändert oder erneuert wurden, erfolgt die Informationsübermittlung nach Satz 1, unabhängig davon, ob sie noch gültig sind oder nicht.
+
+Ausgenommen von der genannten Übermittlung sind Informationen über grenzüberschreitende Vorbescheide und Vorabverständigungen über die Verrechnungspreisgestaltung, die vor dem 1. April 2016 für eine bestimmte Person oder für eine Gruppe von Personen erteilt, getroffen, geändert oder erneuert wurden, und deren gruppenweiter Jahresnettoumsatzerlös im Sinne von Artikel 2 Absatz 5 der Richtlinie 2013/34/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Jahresabschluss, den konsolidierten Abschluss und damit verbundene Berichte von Unternehmen bestimmter Rechtsformen und zur Änderung der Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 78/660/EWG und 83/349/EWG des Rates (ABl. L 182 vom 29.6.2013, S. 19, L 369 vom 24.12.2014, S. 79), die zuletzt durch die Richtlinie 2014/102/EU (ABl. L 334 vom 21.11.2014, S. 86) geändert worden ist, in dem Geschäftsjahr, das vor dem Zeitpunkt liegt, zu dem der grenzüberschreitende Vorbescheid oder die Vorabverständigung über die Verrechnungspreisgestaltung erteilt, getroffen, geändert oder erneuert wird, weniger als 40 Millionen Euro oder dem entsprechenden Betrag in einer anderen Währung betragen hat. Satz 3 gilt nicht für eine bestimmte Person oder für eine Gruppe von Personen, die hauptsächlich Finanz- und Investitionstätigkeiten ausüben.
+
+(5) Bilaterale oder multilaterale Vorabverständigungen über die Verrechnungspreisgestaltung mit Drittstaaten sind vom Geltungsbereich des automatischen Informationsaustauschs gemäß § 7 ausgenommen, sofern das internationale Steuerabkommen, in dessen Rahmen die Vorabverständigung über die Verrechnungspreisgestaltung ausgehandelt wurde, eine Weitergabe an Dritte nicht erlaubt. Solche bilateralen oder multilateralen Vorabverständigungen über die Verrechnungspreisgestaltung werden nach § 8 ausgetauscht, sofern
+
+1.  
+das internationale Steuerabkommen, in dessen Rahmen die Vorabverständigung über die Verrechnungspreisgestaltung ausgehandelt wurde, eine Weitergabe erlaubt und
+
+2.  
+die zuständige Behörde des Drittstaates die Weitergabe der Informationen genehmigt.
+
+Wenn bilaterale oder multilaterale Vorabverständigungen über die Verrechnungspreisgestaltung vom automatischen Informationsaustausch gemäß Satz 1 ausgenommen sind, werden stattdessen die Informationen nach Absatz 7, die in dem Antrag aufgeführt sind, der zu einer solchen bilateralen oder multilateralen Vorabverständigung über die Verrechnungspreisgestaltung geführt hat, nach den Absätzen 3 und 4 ausgetauscht.
+
+(6) Die Absätze 3 und 4 gelten nicht in Fällen, in denen ein grenzüberschreitender Vorbescheid ausschließlich die Steuerangelegenheiten einer oder mehrerer natürlicher Personen betrifft.
+
+(7) Die vom zentralen Verbindungsbüro gemäß den Absätzen 3 und 4 zu übermittelnden Informationen müssen Folgendes enthalten:
+
+1.  
+Angaben zu der Person, mit Ausnahme von natürlichen Personen, und gegebenenfalls Angaben zu der Gruppe von Personen, der sie angehört;
+
+2.  
+eine Zusammenfassung des Inhalts des grenzüberschreitenden Vorbescheids oder der Vorabverständigung über die Verrechnungspreisgestaltung, einschließlich einer abstrakt gehaltenen Beschreibung der relevanten Geschäftstätigkeiten oder Transaktionen, sofern dies nicht
+
+a)  
+zur Preisgabe eines Handels-, Gewerbe- oder Berufsgeheimnisses oder eines Geschäftsverfahrens führt oder
+
+b)  
+zur Preisgabe von Informationen führt, die die öffentliche Ordnung verletzen würden;
+
+3.  
+das jeweilige Datum der Erteilung oder des Abschlusses, der Änderung oder der Erneuerung des grenzüberschreitenden Vorbescheids oder der Vorabverständigung über die Verrechnungspreisgestaltung;
+
+4.  
+den Tag des Beginns der Geltungsdauer des grenzüberschreitenden Vorbescheids oder der Vorabverständigung über die Verrechnungspreisgestaltung, falls angegeben;
+
+5.  
+den Tag des Ablaufs der Geltungsdauer des grenzüberschreitenden Vorbescheids oder der Vorabverständigung über die Verrechnungspreisgestaltung, falls angegeben;
+
+6.  
+die Art des grenzüberschreitenden Vorbescheids oder der Vorabverständigung über die Verrechnungspreisgestaltung;
+
+7.  
+den Betrag der Transaktion oder Reihe von Transaktionen des grenzüberschreitenden Vorbescheids oder der Vorabverständigung über die Verrechnungspreisgestaltung, sofern ein solcher angegeben ist;
+
+8.  
+im Falle einer Vorabverständigung über die Verrechnungspreisgestaltung den Verrechnungspreis oder eine Beschreibung der bei der Festlegung der Verrechnungspreise zugrunde gelegten Kriterien;
+
+9.  
+im Falle einer Vorabverständigung über die Verrechnungspreisgestaltung Angaben zu dem der Festlegung der Verrechnungspreise zugrunde gelegten Verfahren oder den Verrechnungspreis;
+
+10.  
+gegebenenfalls Angaben dazu, welche anderen Mitgliedstaaten wahrscheinlich von dem grenzüberschreitenden Vorbescheid oder der Vorabverständigung über die Verrechnungspreisgestaltung betroffen sind;
+
+11.  
+gegebenenfalls Identifizierungsangaben zu allen Personen in den anderen Mitgliedstaaten, mit Ausnahme von natürlichen Personen, die wahrscheinlich von dem grenzüberschreitenden Vorbescheid oder der Vorabverständigung über die Verrechnungspreisgestaltung betroffen sind, sowie Angaben dazu, zu welchen Mitgliedstaaten die betreffenden Personen in Beziehung stehen, und
+
+12.  
+Angaben dazu, ob die übermittelten Informationen
+
+a)  
+auf dem grenzüberschreitenden Vorbescheid oder der Vorabverständigung über die Verrechnungspreisgestaltung selbst beruhen oder
+
+b)  
+auf einem Antrag gemäß Absatz 5 Satz 3 beruhen.
+
+Auf die praktischen Regelungen, die zur Erleichterung des Austauschs der in diesem Absatz aufgezählten Informationen von der Europäischen Kommission zur Umsetzung von Artikel 8a der Richtlinie 2011/16/EU erlassen worden sind, wird verwiesen. Hierzu zählen auch Maßnahmen zur standardisierten Übermittlung der in diesem Absatz genannten Informationen als Teil des Verfahrens zur Festlegung des Standardformblatts, das gemäß Artikel 20 Absatz 5 der Richtlinie 2011/16/EU vorgesehenen ist. Ab dem Zeitpunkt seiner Bereitstellung ist das Zentralverzeichnis der Mitgliedstaaten gemäß Artikel 21 Absatz 5 der Richtlinie 2011/16/EU zu nutzen.
+
+(8) In den Fällen der Absätze 1 bis 5 und 9 bis 12 ist gemäß § 117 Absatz 4 Satz 3 der Abgabenordnung keine Anhörung der Beteiligten erforderlich.
+
+(9) Das zentrale Verbindungsbüro nimmt die ihm von den zuständigen Behörden aller anderen Mitgliedstaaten gemäß Artikel 8a der Richtlinie 2011/16/EU übermittelten Informationen im Sinne der Absätze 3, 4 und 5 entgegen und übermittelt diese an die zuständige Landesfinanzbehörde. Ab dem Zeitpunkt seiner Bereitstellung ist das Zentralverzeichnis der Mitgliedstaaten gemäß Artikel 21 Absatz 5 der Richtlinie 2011/16/EU vom zentralen Verbindungsbüro und den Landesfinanzbehörden zu nutzen. Hierzu werden gemäß § 3 Absatz 2 Satz 2 Verbindungsstellen im Sinne von Artikel 4 Absatz 3 und zuständige Bedienstete im Sinne von Artikel 4 Absatz 4 der Amtshilferichtlinie unter Berücksichtigung der in Artikel 21 der Amtshilferichtlinie enthaltenen Regelungen zur Anwendung der dort genannten technischen Verfahren benannt. Das Bundeszentralamt für Steuern speichert die in Satz 1 genannten Informationen ab dem Zeitpunkt der Übermittlung und löscht sie mit Ablauf des 15. Jahres, das dem Jahr der Übermittlung folgt.
+
+(10) Das zentrale Verbindungsbüro übermittelt im Weg des automatischen Austauschs die ihm gemäß § 138a Absatz 6 der Abgabenordnung übermittelten länderbezogenen Berichte an die zuständigen Behörden der anderen Mitgliedstaaten, für die in dem länderbezogenen Bericht Angaben im Sinne des § 138a Absatz 2 der Abgabenordnung enthalten sind. Die Übermittlung erfolgt auf elektronischem Weg. Auf die von der Europäischen Kommission im Weg von Durchführungsrechtsakten erlassenen praktischen Regelungen wird verwiesen.
+
+(11) In den Fällen des § 138a Absatz 4 Satz 1 der Abgabenordnung teilt das zentrale Verbindungsbüro den anderen Mitgliedstaaten zusätzlich automatisch mit, wenn sich die ausländische Konzernobergesellschaft der einbezogenen inländischen Konzerngesellschaft geweigert hat, die erforderlichen Informationen zur Erstellung des länderbezogenen Berichts bereitzustellen.
+
+(12) Das zentrale Verbindungsbüro nimmt die Informationen im Sinne der Absätze 10 und 11 entgegen, die ihm von den anderen Mitgliedstaaten gemäß Artikel 8aa der Richtlinie 2011/16/EU übermittelt wurden. Es übermittelt die Informationen an die zuständige Landesfinanzbehörde. Das Bundeszentralamt für Steuern speichert die Informationen ab dem Zeitpunkt der Übermittlung für die Dauer von 15 Jahren und löscht sie mit Ablauf des 15. Jahres das dem Jahr der Übermittlung folgt.
+
+(13) Die zuständige Behörde übermittelt der Europäischen Kommission
+
+1.  
+eine jährliche Bewertung der Wirksamkeit des automatischen Informationsaustauschs gemäß den Artikeln 8, 8a und 8aa der Richtlinie 2011/16/EU sowie
+
+2.  
+einen Überblick über die erreichten praktischen Ergebnisse.
+
+Das Bundesministerium der Finanzen legt im Einvernehmen mit den obersten Finanzbehörden der Länder die Einzelheiten dazu in einem Schreiben fest. Dieses Schreiben ist im Bundessteuerblatt zu veröffentlichen. Auf die von der Europäischen Kommission hierzu im Weg von Durchführungsrechtsakten festgelegte Form und die Bedingungen für die Übermittlung dieser jährlichen Bewertung wird verwiesen. Das zentrale Verbindungsbüro übermittelt der zuständigen Behörde hierzu unter Berücksichtigung des Satzes 2 die erforderlichen Daten und Informationen.
+
+(14) Das Bundeszentralamt für Steuern ist berechtigt, die Informationen gemäß den Absätzen 1, 3, 4, 5, 7 und 9 bis 12 zur Erfüllung der ihm gesetzlich übertragenen Aufgaben auszuwerten. Auswertungen der Informationen nach Satz 1 durch die jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt.
+
+(+++ § 7 Abs. 1: Zur Anwendung vgl. § 21 Abs. 1 +++)
+(+++ § 7 Abs. 2: Zur Anwendung vgl. § 21 Abs. 2 +++)
+(+++ § 7 Abs. 3 u. 4: Zur Anwendung vgl. § 21 Abs. 3 +++)
+(+++ § 7 Abs. 10 bis 12: Zur Anwendung vgl. § 21 Abs. 4 +++)
+(+++ § 7 Abs. 13: Zur Anwendung vgl. § 21 Abs. 5 +++)
+(+++ § 7 Abs. 14: Zur Anwendung vgl. § 21 Abs. 4 +++)
 
 ### § 8 Spontane Übermittlung von Informationen an andere Mitgliedstaaten
 
@@ -401,6 +590,18 @@ zur Verwertung im Zusammenhang mit Gerichts- und Verwaltungsverfahren, die Sankt
 
 Sollen Informationen für einen anderen Zweck verwendet werden, ist die Einwilligung des anderen Mitgliedstaats einzuholen.
 
-### § 20 Anwendungsbestimmung
+### § 20 Statistiken zum automatischen Informationsaustausch
 
-Die automatische Übermittlung von Informationen gemäß § 7 Absatz 1 ist ab dem 1. Januar 2015 vorzunehmen und erstmals auf Informationen der Besteuerungszeiträume ab dem 1. Januar 2014 anzuwenden. Die automatische Übermittlung von Informationen gemäß § 7 Absatz 2 ist ab dem 30. September 2017 vorzunehmen und für zum 31. Dezember 2015 bestehende Konten und nach dem 31. Dezember 2015 neu eröffnete Konten im Sinne der in § 7 Absatz 2 angeführten Melde- und Sorgfaltspflichten und ergänzenden Melde- und Sorgfaltsvorschriften erstmals auf Informationen der Besteuerungszeiträume ab dem 1. Januar 2016 anzuwenden.
+Das zentrale Verbindungsbüro übermittelt der Europäischen Kommission vor dem 1. Januar 2018 jährlich Statistiken zum Umfang des automatischen Informationsaustauschs gemäß den Artikeln 8 und 8a der Richtlinie 2011/16/EU. Dabei übermittelt das zentrale Verbindungsbüro Angaben zu den administrativen und anderen Kosten und Nutzen des erfolgten Austauschs und zu allen möglichen Änderungen, sowohl für die Finanzverwaltungen als auch für Dritte.
+
+### § 21 Übergangsvorschriften
+
+(1) Die automatische Übermittlung von Informationen gemäß § 7 Absatz 1 ist ab dem 1. Januar 2015 vorzunehmen und erstmals auf Informationen der Besteuerungszeiträume ab dem 1. Januar 2014 anzuwenden.
+
+(2) Die automatische Übermittlung von Informationen gemäß § 7 Absatz 2 ist ab dem 30. September 2017 vorzunehmen und für zum 31. Dezember 2015 bestehende Konten und nach dem 31. Dezember 2015 neu eröffnete Konten im Sinne der in § 7 Absatz 2 angeführten Melde- und Sorgfaltspflichten und ergänzenden Melde- und Sorgfaltsvorschriften erstmals auf Informationen der Besteuerungszeiträume ab dem 1. Januar 2016 anzuwenden.
+
+(3) Die automatische Übermittlung von Informationen gemäß § 7 Absatz 3 und 4 erfolgt erstmals ab dem 1. Januar 2017.
+
+(4) § 7 Absatz 10 bis 12 und 14 ist erstmals ab dem 1. Januar 2017 anzuwenden.
+
+(5) § 7 Absatz 13 ist erstmals ab dem 1. Januar 2018 anzuwenden.
