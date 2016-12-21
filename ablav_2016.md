@@ -1,8 +1,8 @@
 Verordnung über Vereinbarungen zu abschaltbaren Lasten (AbLaV)
 ==============================================================
 
-Hinweis  
-Änderung durch Art. 1 V v. 10.10.2016 I 2241 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Stand  
+Zuletzt geändert durch Art. 9 G v. 22.12.2016 I 3106
 
 Sonst  
 Die V tritt gem. § 20 Abs. 1 idF v. 10.10.2016 am 1.10.2016 in Kraft. Die V tritt gem. § 20 Abs. 2 Satz 1 am 1.7.2022 außer Kraft. Gem. § 20 Abs. 2 S 2 tritt § 18 am 31.12.2023 außer Kraft.
@@ -354,7 +354,7 @@ Die Nutzung einer Abschaltleistung ist nur in Abstimmung mit den Betreibern derj
 
 ### § 18 Kostenregelung
 
-(1) Die Betreiber von Übertragungsnetzen sind verpflichtet, ihre Zahlungen und Aufwendungen nach dieser Verordnung über eine finanzielle Verrechnung monatlich untereinander auszugleichen; ein Belastungsausgleich erfolgt entsprechend den §§ 26, 28 und 30 des Kraft-Wärme-Kopplungsgesetzes vom 21. Dezember 2015 (BGBl. I S. 2498) mit der Maßgabe, dass die Belastungsgrenzen für in dessen § 26 Absatz 2 und 3 genannte Letztverbrauchergruppen nicht anzuwenden sind. Die Kosten nach Satz 1 können als Aufschlag auf die Netzentgelte anteilig auf die Letztverbraucher umgelegt werden; die Einführung und die Anpassungen dieses Aufschlags erfolgen jeweils zum 1. Januar eines Kalenderjahres. Zahlungen und Aufwendungen sind verzinst zu berücksichtigen entsprechend § 5 Absatz 2 Satz 3 der Anreizregulierungsverordnung vom 29. Oktober 2007 (BGBl. I S. 2529), die zuletzt durch Artikel 5 des Gesetzes vom 26. Juli 2016 (BGBl. I S. 1786) geändert worden ist. Abweichend von Satz 1 sind Kosten, die für den Abruf der Abschaltleistung zur Sicherstellung des Leistungsgleichgewichts erforderlich sind, wie Kosten des Abrufs von Sekundärregelarbeit und Minutenreservearbeit gemäß § 8 Absatz 2 Satz 2 der Stromnetzzugangsverordnung vom 25. Juli 2005 (BGBl. I S. 2243), die zuletzt durch Artikel 4 des Gesetzes vom 26. Juli 2016 (BGBl. I S. 1786) geändert worden ist, zu behandeln.
+(1) Die Betreiber von Übertragungsnetzen sind verpflichtet, ihre Zahlungen und Aufwendungen nach dieser Verordnung über eine finanzielle Verrechnung monatlich untereinander auszugleichen; ein Belastungsausgleich erfolgt entsprechend den §§ 26, 28 und 30 des Kraft-Wärme-Kopplungsgesetzes in der jeweils geltenden Fassung. Die Kosten nach Satz 1 können als Aufschlag auf die Netzentgelte anteilig auf die Letztverbraucher umgelegt werden; die Einführung und die Anpassungen dieses Aufschlags erfolgen jeweils zum 1. Januar eines Kalenderjahres. Zahlungen und Aufwendungen sind verzinst zu berücksichtigen entsprechend § 5 Absatz 2 Satz 3 der Anreizregulierungsverordnung vom 29. Oktober 2007 (BGBl. I S. 2529), die zuletzt durch Artikel 5 des Gesetzes vom 26. Juli 2016 (BGBl. I S. 1786) geändert worden ist. Abweichend von Satz 1 sind Kosten, die für den Abruf der Abschaltleistung zur Sicherstellung des Leistungsgleichgewichts erforderlich sind, wie Kosten des Abrufs von Sekundärregelarbeit und Minutenreservearbeit gemäß § 8 Absatz 2 Satz 2 der Stromnetzzugangsverordnung vom 25. Juli 2005 (BGBl. I S. 2243), die zuletzt durch Artikel 4 des Gesetzes vom 26. Juli 2016 (BGBl. I S. 1786) geändert worden ist, zu behandeln.
 
 (2) Soweit Differenzen zwischen den in den Aufschlägen auf die Netzentgelte nach der Verordnung zu abschaltbaren Lasten vom 28. Dezember 2012 (BGBl. I S. 2998), die zuletzt durch Artikel 1 der Verordnung vom 16. Juni 2016 (BGBl. I S. 1359) geändert worden ist, enthaltenen Planansätzen und den tatsächlichen Zahlungen und Aufwendungen entstanden sind, sind diese mit den Aufschlägen auf die Netzentgelte nach dieser Verordnung zu verrechnen.
 
