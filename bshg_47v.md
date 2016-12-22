@@ -1,11 +1,14 @@
 Verordnung nach § 60 des Zwölften Buches Sozialgesetzbuch ()
 ============================================================
 
+Aufh  
+V aufgeh. durch Art. 26 Abs. 4 Satz 2 V v. 23.12.2016 I 3234 mWv 1.1.2020
+
 Neuf  
 Neugefasst durch Bek. v. 1.2.1975 I 433;
 
 Stand  
-zuletzt geändert durch Art. 13 G v. 27.12.2003 I 3022
+Zuletzt geändert durch Art. 21 G v. 23.12.2016 I 3234
 
 ### 
 
@@ -83,7 +86,7 @@ Abschnitt II Leistungen der Eingliederungshilfe
 
 ### § 6 Rehabilitationssport
 
-Zu den Leistungen der medizinischen Rehabilitation im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit § 26 des Neunten Buches Sozialgesetzbuch gehört auch ärztlich verordneter Rehabilitationssport in Gruppen unter ärztlicher Betreuung und Überwachung.
+Zu den Leistungen der medizinischen Rehabilitation im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit § 42 des Neunten Buches Sozialgesetzbuch gehört auch ärztlich verordneter Rehabilitationssport in Gruppen unter ärztlicher Betreuung und Überwachung.
 
 ### § 7
 
@@ -91,7 +94,7 @@ Zu den Leistungen der medizinischen Rehabilitation im Sinne des § 54 Abs. 1 Sat
 
 ### § 8 Hilfe zur Beschaffung eines Kraftfahrzeuges
 
-(1) Die Hilfe zur Beschaffung eines Kraftfahrzeuges gilt als Leistung zur Teilhabe am Arbeitsleben und zur Teilhabe am Leben in der Gemeinschaft im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit den §§ 33 und 55 des Neunten Buches Sozialgesetzbuch. Sie wird in angemessenem Umfang gewährt, wenn der behinderte Mensch wegen Art oder Schwere seiner Behinderung insbesondere zur Teilhabe am Arbeitsleben auf die Benutzung eines Kraftfahrzeuges angewiesen ist; bei Teilhabe am Arbeitsleben findet die Kraftfahrzeughilfe-Verordnung Anwendung.
+(1) Die Hilfe zur Beschaffung eines Kraftfahrzeuges gilt als Leistung zur Teilhabe am Arbeitsleben und zur Teilhabe am Leben in der Gemeinschaft im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit den §§ 49 und 76 des Neunten Buches Sozialgesetzbuch. Sie wird in angemessenem Umfang gewährt, wenn der behinderte Mensch wegen Art oder Schwere seiner Behinderung insbesondere zur Teilhabe am Arbeitsleben auf die Benutzung eines Kraftfahrzeuges angewiesen ist; bei Teilhabe am Arbeitsleben findet die Kraftfahrzeughilfe-Verordnung Anwendung.
 
 (2) Die Hilfe nach Absatz 1 kann auch als Darlehen gewährt werden.
 
@@ -101,7 +104,7 @@ Zu den Leistungen der medizinischen Rehabilitation im Sinne des § 54 Abs. 1 Sat
 
 ### § 9 Andere Hilfsmittel
 
-(1) Andere Hilfsmittel im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit den §§ 26, 33 und 55 des Neunten Buches Sozialgesetzbuch sind nur solche Hilfsmittel, die dazu bestimmt sind, zum Ausgleich der durch die Behinderung bedingten Mängel beizutragen.
+(1) Andere Hilfsmittel im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit den §§ 42, 49 und 76 des Neunten Buches Sozialgesetzbuch sind nur solche Hilfsmittel, die dazu bestimmt sind, zum Ausgleich der durch die Behinderung bedingten Mängel beizutragen.
 
 (2) Zu den anderen Hilfsmitteln im Sinne des Absatzes 1 gehören auch
 
@@ -141,11 +144,11 @@ besondere Bedienungseinrichtungen und Zusatzgeräte für Kraftfahrzeuge, wenn de
 12.  
 Gebrauchsgegenstände des täglichen Lebens und zur nichtberuflichen Verwendung bestimmte Hilfsgeräte für behinderte Menschen, wenn der behinderte Mensch wegen Art und Schwere seiner Behinderung auf diese Gegenstände angewiesen ist.
 
-(3) Die Versorgung mit einem anderen Hilfsmittel im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit den §§ 26, 33 und 55 des Neunten Buches Sozialgesetzbuch wird nur gewährt, wenn das Hilfsmittel im Einzelfall erforderlich und geeignet ist, zu dem in Absatz 1 genannten Ausgleich beizutragen, und wenn der behinderte Mensch das Hilfsmittel bedienen kann.
+(3) Die Versorgung mit einem anderen Hilfsmittel im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit den §§ 42, 49 und 76 des Neunten Buches Sozialgesetzbuch wird nur gewährt, wenn das Hilfsmittel im Einzelfall erforderlich und geeignet ist, zu dem in Absatz 1 genannten Ausgleich beizutragen, und wenn der behinderte Mensch das Hilfsmittel bedienen kann.
 
 ### § 10 Umfang der Versorgung mit Körperersatzstücken, orthopädischen oder anderen Hilfsmitteln
 
-(1) Zu der Versorgung mit Körperersatzstücken sowie mit orthopädischen oder anderen Hilfsmitteln im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit den §§ 26, 33 und 55 des Neunten Buches Sozialgesetzbuch gehört auch eine notwendige Unterweisung in ihrem Gebrauch.
+(1) Zu der Versorgung mit Körperersatzstücken sowie mit orthopädischen oder anderen Hilfsmitteln im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit den §§ 42, 49 und 76 des Neunten Buches Sozialgesetzbuch gehört auch eine notwendige Unterweisung in ihrem Gebrauch.
 
 (2) Soweit im Einzelfall erforderlich, wird eine Doppelausstattung mit Körperersatzstücken, orthopädischen oder anderen Hilfsmitteln gewährt.
 
@@ -220,7 +223,7 @@ der Beruf oder die Tätigkeit voraussichtlich eine ausreichende Lebensgrundlage 
 
 ### § 13a Ausbildung für eine sonstige angemessene Tätigkeit
 
-Hilfe zur Ausbildung für eine sonstige angemessene Tätigkeit im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit den §§ 33 und 41 des Neunten Buches Sozialgesetzbuch sowie der Hilfe im Sinne des § 54 Abs. 1 Satz 1 Nr. 3 des Zwölften Buches Sozialgesetzbuch wird insbesondere gewährt, wenn die Ausbildung für einen Beruf aus besonderen Gründen, vor allem wegen Art und Schwere der Behinderung, unterbleibt. § 13 Abs. 2 gilt entsprechend.
+Hilfe zur Ausbildung für eine sonstige angemessene Tätigkeit im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit den §§ 49 und 58 des Neunten Buches Sozialgesetzbuch sowie der Hilfe im Sinne des § 54 Abs. 1 Satz 1 Nr. 3 des Zwölften Buches Sozialgesetzbuch wird insbesondere gewährt, wenn die Ausbildung für einen Beruf aus besonderen Gründen, vor allem wegen Art und Schwere der Behinderung, unterbleibt. § 13 Abs. 2 gilt entsprechend.
 
 ### (XXXX) §§ 14 und 15 (weggefallen)
 
@@ -244,7 +247,7 @@ Lehrgänge und ähnliche Maßnahmen, die erforderlich und geeignet sind, den beh
 
 ### § 17 Eingliederung in das Arbeitsleben
 
-(1) Zu der Hilfe im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit den §§ 33 und 41 des Neunten Buches Sozialgesetzbuch sowie der Hilfe im Sinne des § 54 Abs. 1 Satz 1 Nr. 5 des Zwölften Buches Sozialgesetzbuch gehören auch die Hilfe zur Beschaffung von Gegenständen sowie andere Leistungen, wenn sie wegen der Behinderung zur Aufnahme oder Fortsetzung einer angemessenen Beschäftigung im Arbeitsleben erforderlich sind; für die Hilfe zur Beschaffung eines Kraftfahrzeuges ist § 8, für die Hilfe zur Beschaffung von Gegenständen, die zugleich Gegenstände im Sinne des § 9 Abs. 2 Nr. 12 sind, ist § 9 maßgebend. Die Hilfe nach Satz 1 kann auch als Darlehen gewährt werden.
+(1) Zu der Hilfe im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit den §§ 49 und 58 des Neunten Buches Sozialgesetzbuch sowie der Hilfe im Sinne des § 54 Abs. 1 Satz 1 Nr. 5 des Zwölften Buches Sozialgesetzbuch gehören auch die Hilfe zur Beschaffung von Gegenständen sowie andere Leistungen, wenn sie wegen der Behinderung zur Aufnahme oder Fortsetzung einer angemessenen Beschäftigung im Arbeitsleben erforderlich sind; für die Hilfe zur Beschaffung eines Kraftfahrzeuges ist § 8, für die Hilfe zur Beschaffung von Gegenständen, die zugleich Gegenstände im Sinne des § 9 Abs. 2 Nr. 12 sind, ist § 9 maßgebend. Die Hilfe nach Satz 1 kann auch als Darlehen gewährt werden.
 
 (2) Hilfe in einer sonstigen Beschäftigungsstätte nach § 56 des Zwölften Buches Sozialgesetzbuch können behinderte Menschen erhalten, die mindestens die Voraussetzungen zur Aufnahme in einer Werkstatt für behinderte Menschen (§ 137 des Neunten Buches Sozialgesetzbuch) erfüllen.
 
