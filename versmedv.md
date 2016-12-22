@@ -2,7 +2,7 @@ Verordnung zur Durchführung des § 1 Abs. 1 und 3, des § 30 Abs. 1 und des § 
 ==============================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 11.10.2012 I 2122
+Zuletzt geändert durch Art. 18 Abs. 4 G v. 23.12.2016 I 3234
 
 ### 
 
@@ -44,6 +44,8 @@ acht wissenschaftlich besonders qualifizierte Ärztinnen oder Ärzte versorgungs
 (4) Die Mitglieder des Beirats werden vom Bundesministerium für Arbeit und Soziales für die Dauer von vier Jahren berufen. Wiederwahl ist möglich. Das Bundesministerium für Arbeit und Soziales ist berechtigt, Beiratsmitglieder jederzeit ohne Angabe von Gründen abzuberufen. Ein Beiratsmitglied kann jederzeit seine Abberufung beantragen. Dem Antrag ist stattzugeben. Nach Ausscheiden eines Mitglieds erfolgt eine Neuberufung für den restlichen Zeitraum der Berufungsperiode. Der Beirat gibt sich eine Geschäftsordnung und bestimmt durch Wahl aus seiner Mitte den Vorsitz und die Stellvertretung. Die Geschäftsführung des Beirats liegt beim Bundesministerium für Arbeit und Soziales, welches zu den Sitzungen einlädt und im Einvernehmen mit dem vorsitzenden Mitglied die Tagesordnung festlegt.
 
 (5) Die Beratungen des Beirats sind nicht öffentlich. Die Mitgliedschaft im Beirat ist ein persönliches Ehrenamt, das keine Vertretung zulässt. Die Mitglieder des Beirats unterliegen keinerlei Weisungen, üben ihre Tätigkeit unabhängig und unparteilich aus und sind nur ihrem Gewissen verantwortlich. Sie sind zur Verschwiegenheit verpflichtet; dies gilt auch für die in Absatz 3 genannten Personen.
+
+(6) Die Verbände von Menschen mit Behinderungen und Berechtigten nach dem sozialen Entschädigungsrecht auf Bundesebene erhalten ein Mitberatungsrecht im Beirat. Der Deutsche Behindertenrat benennt dem Bundesministerium für Arbeit und Soziales hierzu zwei sachverständige Personen für den Zeitraum der Berufungsperiode des Beirats. Er berücksichtigt dabei die Anliegen von Verbänden, die die Belange von Berechtigten nach dem sozialen Entschädigungsrecht vertreten, auch soweit sie nicht Mitglieder des Deutschen Behindertenrates sind. Das Mitberatungsrecht beinhaltet auch das Recht zur Anwesenheit bei der Beschlussfassung. Absatz 5 Satz 2 bis 4 gilt entsprechend. Die Geschäftsordnung des Beirats gilt auch für die vom Deutschen Behindertenrat benannten Personen.
 
 ### § 4 Beschlüsse
 
@@ -5290,16 +5292,7 @@ Ohnhändern,
 Blinden und Sehbehinderten, Hörbehinderten, geistig behinderten Menschen und Anfallskranken, bei denen die Annahme einer erheblichen Beeinträchtigung der Bewegungsfähigkeit im Straßenverkehr gerechtfertigt ist.
 
 **3.**  
-**Außergewöhnliche Gehbehinderung (Merkzeichen aG)**
-
-a)  
-Für die Gewährung von Parkerleichterungen für schwer behinderte Menschen nach dem Straßenverkehrsgesetz (StVG) ist die Frage zu beurteilen, ob eine außergewöhnliche Gehbehinderung vorliegt. Auch bei Säuglingen und Kleinkindern ist die gutachtliche Beurteilung einer außergewöhnlichen Gehbehinderung erforderlich. Für die Beurteilung sind dieselben Kriterien wie bei Erwachsenen mit gleichen Gesundheitsstörungen maßgebend. Es ist nicht zu prüfen, ob tatsächlich diesbezügliche behinderungsbedingte Nachteile vorliegen oder behinderungsbedingte Mehraufwendungen entstehen.
-
-b)  
-Als schwer behinderte Menschen mit außergewöhnlicher Gehbehinderung sind solche Personen anzusehen, die sich wegen der Schwere ihres Leidens dauernd nur mit fremder Hilfe oder nur mit großer Anstrengung außerhalb ihres Kraftfahrzeuges bewegen können. Hierzu zählen Querschnittgelähmte, Doppeloberschenkelamputierte, Doppelunterschenkelamputierte, Hüftexartikulierte und einseitig Oberschenkelamputierte, die dauernd außerstande sind, ein Kunstbein zu tragen, oder nur eine Beckenkorbprothese tragen können oder zugleich unterschenkel- oder armamputiert sind, sowie andere schwerbehinderte Menschen, die nach versorgungsärztlicher Feststellung, auch aufgrund von Erkrankungen, dem vorstehend aufgeführten Personenkreis gleichzustellen sind.
-
-c)  
-Die Annahme einer außergewöhnlichen Gehbehinderung darf nur auf eine Einschränkung der Gehfähigkeit und nicht auf Bewegungsbehinderungen anderer Art bezogen werden. Bei der Frage der Gleichstellung von behinderten Menschen mit Schäden an den unteren Gliedmaßen ist zu beachten, dass das Gehvermögen auf das Schwerste eingeschränkt sein muss und deshalb als Vergleichsmaßstab am ehesten das Gehvermögen eines Doppeloberschenkelamputierten heranzuziehen ist. Dies gilt auch, wenn Gehbehinderte einen Rollstuhl benutzen: Es genügt nicht, dass ein solcher verordnet wurde; die Betroffenen müssen vielmehr ständig auf den Rollstuhl angewiesen sein, weil sie sich sonst nur mit fremder Hilfe oder nur mit großer Anstrengung fortbewegen können. Als Erkrankungen der inneren Organe, die eine solche Gleichstellung rechtfertigen, sind beispielsweise Herzschäden mit schweren Dekompensationserscheinungen oder Ruheinsuffizienz sowie Krankheiten der Atmungsorgane mit Einschränkung der Lungenfunktion schweren Grades anzusehen.
+(aufgehoben)
 
 **4.**  
 **Gehörlosigkeit (Merkzeichen Gl)**Gehörlos sind nicht nur Hörbehinderte, bei denen Taubheit beiderseits vorliegt, sondern auch Hörbehinderte mit einer an Taubheit grenzenden Schwerhörigkeit beiderseits, wenn daneben schwere Sprachstörungen (schwer verständliche Lautsprache, geringer Sprachschatz) vorliegen. Das sind in der Regel Hörbehinderte, bei denen die an Taubheit grenzende Schwerhörigkeit angeboren oder in der Kindheit erworben worden ist.
