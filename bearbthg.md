@@ -2,10 +2,7 @@ Gesetz über den Beruf der Ergotherapeutin und des Ergotherapeuten (ErgThG)
 ==========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 50 G v. 6.12.2011 I 2515
-
-Hinweis  
-Änderung durch Art. 14 G v. 18.4.2016 I 886 (Nr. 19) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 17a G v. 23.12.2016 I 3191
 
 ### 
 
@@ -139,7 +136,7 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (3) Die Erlaubnis kann widerrufen werden, wenn nachträglich eine der Voraussetzungen nach § 2 Abs. 1 Nr. 3 weggefallen ist.
 
-(4)
+(4) (weggefallen)
 
 ### § 4
 
@@ -157,11 +154,11 @@ Unterbrechungen durch Schwangerschaft, Krankheit oder aus anderen, vom Auszubild
 
 (4) Die zuständige Behörde kann auf Antrag eine andere Ausbildung im Umfange ihrer Gleichwertigkeit auf die Ausbildung für Ergotherapeuten anrechnen, wenn die Durchführung der Ausbildung und die Erreichung des Ausbildungsziels dadurch nicht gefährdet werden. Eine nach bundesgesetzlichen Vorschriften abgeschlossene Ausbildung als Krankengymnast oder Physiotherapeut oder eine nach landesrechtlichen Vorschriften abgeschlossene Ausbildung als Erzieher ist mit mindestens einem Jahr anzurechnen.
 
-(5) Zur Erprobung von Ausbildungsangeboten, die der Weiterentwicklung des Ergotherapeutenberufs unter Berücksichtigung der berufsfeldspezifischen Anforderungen sowie moderner berufspädagogischer Erkenntnisse dienen sollen, können die Länder von Absatz 1 abweichen. Abweichungen von der Ergotherapeuten-Ausbildungs- und Prüfungsverordnung sind nur zulässig, soweit sie den theoretischen und praktischen Unterricht in § 1 Absatz 1 sowie die Anlage 1 Buchstabe A der Verordnung betreffen. Im Übrigen gilt die Verordnung unverändert mit der Maßgabe, dass an die Stelle der Schule die Hochschule tritt. Durch die Erprobung darf das Erreichen des Ausbildungsziels nicht gefährdet werden. Die Vereinbarkeit der Ausbildung mit der Richtlinie 2005/36/EG ist zu gewährleisten.
+(5) Zur Erprobung von Ausbildungsangeboten, die der Weiterentwicklung des Ergotherapeutenberufs unter Berücksichtigung der berufsfeldspezifischen Anforderungen sowie moderner berufspädagogischer Erkenntnisse dienen sollen, können die Länder von Absatz 1 abweichen. Abweichungen von der Ergotherapeuten-Ausbildungs- und Prüfungsverordnung sind nur zulässig, soweit sie den theoretischen und praktischen Unterricht in § 1 Absatz 1 sowie die Anlage 1 Buchstabe A der Verordnung betreffen. Es ist dabei zulässig, den Unterricht modularisiert und kompetenzorientiert zu gestalten. Wird von der Möglichkeit des Satzes 3 Gebrauch gemacht, kann die zuständige Behörde abweichend von § 5 Absatz 1 Satz 1 und § 6 Absatz 1 Satz 1 der Ergotherapeuten-Ausbildungs- und Prüfungsverordnung eine der Unterrichtsform entsprechende modularisierte und kompetenzorientierte Gestaltung des schriftlichen und mündlichen Teils der staatlichen Prüfung zulassen. Dabei können Modulprüfungen, die nicht früher als zwei Monate vor dem Ende der Studienzeit durchgeführt werden, mit Zustimmung der zuständigen Behörde den schriftlichen oder mündlichen Teil der staatlichen Prüfung ganz oder teilweise ersetzen, sofern sie den inhaltlichen Anforderungen der §§ 5 und 6 der Ergotherapeuten-Ausbildungs- und Prüfungsverordnung entsprechen. Im Übrigen gilt die Verordnung unverändert mit der Maßgabe, dass an die Stelle der Schule die Hochschule tritt. Durch die Erprobung darf das Erreichen des Ausbildungsziels nicht gefährdet werden. Die Vereinbarkeit der Ausbildung mit der Richtlinie 2005/36/EG ist zu gewährleisten.
 
-(6) Ziele, Dauer, Art und allgemeine Vorgaben zur Ausgestaltung der Modellvorhaben sowie die Bedingungen für die Teilnahme sind jeweils von den Ländern festzulegen. Die Länder stellen jeweils eine wissenschaftliche Begleitung und Auswertung der Modellvorhaben im Hinblick auf die Erreichung der Ziele sicher. Diese erfolgt auf der Grundlage von Richtlinien, die das Bundesministerium für Gesundheit bis zum 30. November 2009 im Bundesanzeiger bekannt macht.
+(6) Ziele, Dauer, Art und allgemeine Vorgaben zur Ausgestaltung der Modellvorhaben sowie die Bedingungen für die Teilnahme sind jeweils von den Ländern festzulegen. Die Länder stellen jeweils eine wissenschaftliche Begleitung und Auswertung der Modellvorhaben im Hinblick auf die Erreichung der Ziele sicher. Diese erfolgt auf der Grundlage von Richtlinien, die das Bundesministerium für Gesundheit bis zum 30. November 2009 im Bundesanzeiger bekannt macht. Ergänzend hat die wissenschaftliche Begleitung und Auswertung der Modellvorhaben valide Aussagen zur Nachhaltigkeit der Modellvorhaben, die insbesondere den dauerhaften Nutzen einer akademischen Qualifikation, die Kostenfolgen im Gesundheitswesen oder die Auswirkungen des Ausschlusses von Schülerinnen und Schülern mit mittlerem Schulabschluss betreffen, zu enthalten. Duale Studiengänge, die nicht unter Absatz 5 fallen, weil das Studium parallel zur grundständigen, fachschulischen Ausbildung abgeleistet wird, können in die wissenschaftliche Begleitung und Auswertung der Modellvorhaben einbezogen werden.
 
-(7) Das Bundesministerium für Gesundheit erstattet dem Deutschen Bundestag bis zum 31. Dezember 2015 über die Ergebnisse der Modellvorhaben nach Absatz 5 Bericht. Absatz 6 Satz 3 gilt entsprechend. Die Länder übermitteln dem Bundesministerium für Gesundheit die für die Erstellung dieses Berichts erforderlichen Ergebnisse der Auswertung.
+(7) Das Bundesministerium für Gesundheit erstattet dem Deutschen Bundestag über die Ergebnisse der Modellvorhaben nach Absatz 5 Bericht. Absatz 6 Satz 3 bis 5 gilt entsprechend. Die Länder übermitteln dem Bundesministerium für Gesundheit auf Anforderung die für die Erstellung des Berichts erforderlichen Ergebnisse ihrer Auswertungen nach Absatz 6.
 
 ### § 5
 
@@ -294,9 +291,9 @@ eine durch ein Prüfungs- und Anerkennungszeugnis der Städtischen Fachschule f�
 
 (2) Eine in Absatz 1 genannte Anerkennung gilt auch als Erlaubnis, statt der Berufsbezeichnung nach § 1 die durch die Anerkennung erworbene Berufsbezeichnung weiterzuführen. § 3 gilt entsprechend.
 
-(3)
+(3) (gegenstandslos)
 
-(4)
+(4) (gegenstandslos)
 
 ### § 8a
 
@@ -318,4 +315,4 @@ V. Abschnitt Schlußvorschriften
 
 ### § 10
 
-§ 4 Absatz 5 bis 7 tritt am 31. Dezember 2017 außer Kraft. Ausbildungen nach § 4 Absatz 5, die vor dem 31. Dezember 2017 begonnen worden sind, werden nach dieser Vorschrift abgeschlossen.
+§ 4 Absatz 5 bis 7 tritt am 31. Dezember 2021 außer Kraft. Ausbildungen nach § 4 Absatz 5, die vor dem 31. Dezember 2021 begonnen worden sind, werden nach dieser Vorschrift abgeschlossen.
