@@ -2,7 +2,7 @@ Verordnung zur Durchführung des Finanzmarktstabilisierungsfondsgesetzes (FMStFV
 ================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 4 G v. 24.2.2012 I 206
+Zuletzt geändert durch Art. 6 G v. 23.12.2016 I 3171
 
 ### 
 
@@ -16,9 +16,9 @@ Auf Grund des § 4 Abs. 2 Satz 1 in Verbindung mit § 3a Abs. 5 Satz 1, des § 4
 
 ### § 1 Verwaltung des Finanzmarktstabilisierungsfonds
 
-(1) Der Finanzmarktstabilisierungsanstalt (Anstalt) wird mit Inkrafttreten dieser Verordnung die Entscheidung über Maßnahmen nach dem Finanzmarktstabilisierungsfondsgesetz vom 17. Oktober 2008 (BGBl. I S. 1982) und die Verwaltung des Finanzmarktstabilisierungsfonds (Fonds) übertragen; § 4 Abs. 1 Satz 2 des Finanzmarktstabilisierungsfondsgesetzes bleibt unberührt. Die Anstalt untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Finanzen.
+(1) Der Bundesrepublik Deutschland – Finanzagentur GmbH (Finanzagentur) wird mit Inkrafttreten dieser Verordnung die Entscheidung über Maßnahmen nach dem Finanzmarktstabilisierungsfondsgesetz vom 17. Oktober 2008 (BGBl. I S. 1982) und die Verwaltung des Finanzmarktstabilisierungsfonds (Fonds) übertragen; § 4 Abs. 1 Satz 2 des Finanzmarktstabilisierungsfondsgesetzes bleibt unberührt.
 
-(2) Die Anstalt ist bei der Wahrnehmung der ihr nach Absatz 1 übertragenen Aufgaben an die Bestimmungen des Finanzmarktstabilisierungsfondsgesetzes und dieser Verordnung sowie die auf der Grundlage des Gesetzes oder dieser Verordnung ergehenden Weisungen oder Entscheidungen des Bundesministeriums der Finanzen sowie des Lenkungsausschusses gebunden. Sie legt gemäß § 4 Abs. 1 Satz 2 des Finanzmarktstabilisierungsfondsgesetzes dem Bundesministerium der Finanzen und dem Lenkungsausschuss insbesondere Anträge einschließlich Voranfragen nach den §§ 2 bis 4 mit einem begründeten Vorschlag zur weiteren Behandlung und Vorschläge
+(2) Die Finanzagentur ist bei der Wahrnehmung der ihr nach Absatz 1 übertragenen Aufgaben an die Bestimmungen des Finanzmarktstabilisierungsfondsgesetzes und dieser Verordnung sowie die auf der Grundlage des Gesetzes oder dieser Verordnung ergehenden Weisungen oder Entscheidungen des Bundesministeriums der Finanzen sowie des Lenkungsausschusses gebunden. Sie legt gemäß § 4 Abs. 1 Satz 2 des Finanzmarktstabilisierungsfondsgesetzes dem Bundesministerium der Finanzen und dem Lenkungsausschuss insbesondere Anträge einschließlich Voranfragen nach den §§ 2 bis 4 mit einem begründeten Vorschlag zur weiteren Behandlung und Vorschläge
 
 –  
 für allgemeine Maßstäbe für Auflagen zur Geschäftspolitik,
@@ -43,10 +43,10 @@ vor. Der Lenkungsausschuss kann sich im Rahmen des § 4 Abs. 1 Satz 2 des Finanz
 (3) Das Bundesministerium der Finanzen kann generell oder im Einzelfall
 
 1.  
-bestimmen, dass die Anstalt das Bundesministerium der Finanzen über Anträge auf Gewährung von Stabilisierungsmaßnahmen, beabsichtigte oder getroffene Entscheidungen oder über sonstige Sachverhalte oder Tätigkeiten der Anstalt im Rahmen des Finanzmarktstabilisierungsfondsgesetzes informiert,
+bestimmen, dass die Finanzagentur das Bundesministerium der Finanzen über Anträge auf Gewährung von Stabilisierungsmaßnahmen, beabsichtigte oder getroffene Entscheidungen oder über sonstige Sachverhalte oder Tätigkeiten der Finanzagentur im Rahmen des Finanzmarktstabilisierungsfondsgesetzes informiert,
 
 2.  
-der Anstalt für die Wahrnehmung der ihr nach Absatz 1 übertragenen Aufgaben Weisungen erteilen,
+der Finanzagentur für die Wahrnehmung der ihr nach Absatz 1 übertragenen Aufgaben Weisungen erteilen,
 
 3.  
 Entscheidungen nach dem Finanzmarktstabilisierungsfondsgesetz und dieser Verordnung sowie Maßnahmen im Rahmen der Verwaltung des Fonds selbst treffen,
@@ -57,9 +57,9 @@ Zustimmungserfordernisse des Bundesministeriums der Finanzen für bestimmte Ents
 5.  
 sonstige Vorgaben für die Wahrnehmung der nach Absatz 1 übertragenen Aufgaben festlegen.
 
-(4) Die Anstalt ist berechtigt, nach vorheriger Zustimmung des Bundesministeriums der Finanzen sich Dritter bei der Erfüllung der ihr nach Absatz 1 übertragenen Aufgaben zu bedienen. Die Entscheidungsverantwortung der Anstalt sowie die Bindungen gemäß Absatz 2 bleiben unberührt. Die Beauftragung eines Dritten ist nur zulässig, wenn sichergestellt ist, dass dieser an die Bestimmungen des Finanzmarktstabilisierungsfondsgesetzes, dieser Verordnung und die nach dieser Verordnung ergangenen Weisungen oder sonstigen Entscheidungen auf vertraglicher oder sonstiger Grundlage gebunden ist.
+(4) Die Finanzagentur ist berechtigt, nach vorheriger Zustimmung des Bundesministeriums der Finanzen sich Dritter bei der Erfüllung der ihr nach Absatz 1 übertragenen Aufgaben zu bedienen. Die Entscheidungsverantwortung der Finanzagentur sowie die Bindungen gemäß Absatz 2 bleiben unberührt. Die Beauftragung eines Dritten ist nur zulässig, wenn sichergestellt ist, dass dieser an die Bestimmungen des Finanzmarktstabilisierungsfondsgesetzes, dieser Verordnung und die nach dieser Verordnung ergangenen Weisungen oder sonstigen Entscheidungen auf vertraglicher oder sonstiger Grundlage gebunden ist.
 
-(5) Formvorgaben, Fristen und weitere Einzelheiten des Verfahrens der Gewährung von Stabilisierungsmaßnahmen werden von der Anstalt nach Zustimmung des Bundesministeriums der Finanzen festgelegt.
+(5) Formvorgaben, Fristen und weitere Einzelheiten des Verfahrens der Gewährung von Stabilisierungsmaßnahmen werden von der Finanzagentur nach Zustimmung des Bundesministeriums der Finanzen festgelegt.
 
 ### § 2 Garantieübernahme
 
@@ -87,7 +87,7 @@ Die Obergrenze für die Garantieübernahme bezogen auf ein einzelnes Unternehmen
 
 ### § 3 Rekapitalisierung
 
-(1) Der Fonds kann sich auf Antrag eines Unternehmens des Finanzsektors in jeder geeigneten Form an dessen Rekapitalisierung beteiligen. In Abstimmung mit dem Unternehmen kann die Rekapitalisierung auch in anderer als der ursprünglich beantragten Form erfolgen. Der Fonds kann Leistungen vorab erbringen und diese anschließend einer übernommenen Einlagepflicht zuordnen. Die Rekapitalisierung erfolgt bei Instituten im Sinne des § 1 Abs. 1b des Kreditwesengesetzes vorrangig durch Stärkung des Kernkapitals, bei Versicherungsunternehmen vorrangig durch Stärkung der Eigenmittel nach § 53c Abs. 3 Satz 1 Nr. 1 und 2 des Versicherungsaufsichtsgesetzes, auch in Verbindung mit § 121a Abs. 1 Satz 2 des Versicherungsaufsichtsgesetzes und bei Pensionsfonds vorrangig durch Stärkung der Eigenmittel nach § 114 Abs. 2 des Versicherungsaufsichtsgesetzes in Verbindung mit § 3 Abs. 1 Nr. 1 und 2 der Pensionsfonds-Kapitalausstattungsverordnung.
+(1) Der Fonds kann sich auf Antrag eines Unternehmens des Finanzsektors in jeder geeigneten Form an dessen Rekapitalisierung beteiligen. In Abstimmung mit dem Unternehmen kann die Rekapitalisierung auch in anderer als der ursprünglich beantragten Form erfolgen. Der Fonds kann Leistungen vorab erbringen und diese anschließend einer übernommenen Einlagepflicht zuordnen. Die Rekapitalisierung erfolgt vorrangig durch Stärkung des Kernkapitals.
 
 (2) Die näheren Bedingungen der Rekapitalisierung legt der Fonds im Einzelfall fest. Hierbei gelten folgende Maßgaben:
 
@@ -95,7 +95,7 @@ Die Obergrenze für die Garantieübernahme bezogen auf ein einzelnes Unternehmen
 Der Fonds erhält eine marktgerechte Vergütung. In der Regel soll der Fonds eine Form der Vergütung anstreben, die den Gewinnbeteiligungsrechten der übrigen Gesellschafter des begünstigten Unternehmens vorgeht, insbesondere in Form eines Gewinnvorzugs oder einer Verzinsung.
 
 2.  
-Eine Rekapitalisierung unter Beteiligung des Fonds soll eine auf absehbare Zeit angemessene Eigenmittelausstattung zum Ziel haben. Die Rekapitalisierung kann von Eigenleistungen der Anteilseigner des begünstigten Unternehmens abhängig gemacht werden.
+Eine Rekapitalisierung unter Beteiligung des Fonds soll eine auf absehbare Zeit angemessene Eigenmittelausstattung zum Ziel haben. Der Fonds soll darauf hinwirken, dass eine Rekapitalisierung unter Beteiligung des Fonds grundsätzlich nur nach möglichen Eigenleistungen der Anteilseigner des begünstigten Unternehmens erfolgt.
 
 3.  
 Die Obergrenze für die Rekapitalisierung, bezogen auf ein einzelnes Unternehmen des Finanzsektors und seine verbundenen Unternehmen, liegt vorbehaltlich einer Entscheidung des Lenkungsausschusses im Einzelfall bei 10 Milliarden Euro.
@@ -104,7 +104,7 @@ Die Obergrenze für die Rekapitalisierung, bezogen auf ein einzelnes Unternehmen
 
 ### § 4 Risikoübernahme
 
-(1) Der Fonds kann auf Antrag eines Unternehmens des Finanzsektors oder einer Zweckgesellschaft, die Risikopositionen eines solchen Unternehmens übernommen hat, in jeder geeigneten Form vor dem 1. Dezember 2011 erworbene Risikopositionen nebst zugehöriger Sicherheiten erwerben. In Abstimmung mit dem Unternehmen kann die Risikoübernahme auch in anderer als der beantragten Form erfolgen.
+(1) Der Fonds kann auf Antrag eines Unternehmens des Finanzsektors oder einer Zweckgesellschaft, die Risikopositionen eines solchen Unternehmens übernommen hat, in jeder geeigneten Form vor dem 1. Juni 2014 erworbene Risikopositionen nebst zugehöriger Sicherheiten erwerben. In Abstimmung mit dem Unternehmen kann die Risikoübernahme auch in anderer als der beantragten Form erfolgen.
 
 (2) Die näheren Bedingungen der Risikoübernahme legt der Fonds im Einzelfall fest. Hierbei gelten folgende Maßgaben:
 
