@@ -2,7 +2,7 @@ Gesetz zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonde
 =============================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 13 G v. 19.12.2007 I 3024
+Zuletzt geändert durch Art. 19 Abs. 9 G v. 23.12.2016 I 3234
 
 ### 
 
@@ -105,7 +105,7 @@ Zweiter Abschnitt
 
 ### § 6 Art der Überführung in die Rentenversicherung
 
-(1) Den Pflichtbeitragszeiten nach diesem Gesetz ist für jedes Kalenderjahr als Verdienst (§ 256a Abs. 2 Sechstes Buch Sozialgesetzbuch) das erzielte Arbeitsentgelt oder Arbeitseinkommen höchstens bis zur jeweiligen Beitragsbemessungsgrenze nach der Anlage 3 zugrunde zu legen. Abweichend von Satz 1 ist während der Zugehörigkeit zu einem Sonderversorgungssystem nach dem 30. Juni 1990 bis zum 31. Dezember 1990 der Betrag von 2.700 Deutsche Mark im Monat, vom 1. Januar 1991 bis zum 30. Juni 1991 der Betrag von 3.000 Deutsche Mark im Monat und vom 1. Juli 1991 bis zum 31. Dezember 1991 der Betrag vom 3.400 Deutsche Mark im Monat maßgebend. Satz 1 und 2 gilt auch, wenn die Berechnungsgrundlage für das Übergangsgeld nach den §§ 47, 48 des Neunten Buches Sozialgesetzbuch oder durch andere Träger der Teilhabe am Arbeitsleben nach den für diese geltenden Vorschriften aus einem Einkommen vor dem 1. Juli 1990 ermittelt wird.
+(1) Den Pflichtbeitragszeiten nach diesem Gesetz ist für jedes Kalenderjahr als Verdienst (§ 256a Abs. 2 Sechstes Buch Sozialgesetzbuch) das erzielte Arbeitsentgelt oder Arbeitseinkommen höchstens bis zur jeweiligen Beitragsbemessungsgrenze nach der Anlage 3 zugrunde zu legen. Abweichend von Satz 1 ist während der Zugehörigkeit zu einem Sonderversorgungssystem nach dem 30. Juni 1990 bis zum 31. Dezember 1990 der Betrag von 2 700 Deutsche Mark im Monat, vom 1. Januar 1991 bis zum 30. Juni 1991 der Betrag von 3 000 Deutsche Mark im Monat und vom 1. Juli 1991 bis zum 31. Dezember 1991 der Betrag vom 3 400 Deutsche Mark im Monat maßgebend. Satz 1 und 2 gilt auch, wenn die Berechnungsgrundlage für das Übergangsgeld nach den §§ 67 und 68 des Neunten Buches Sozialgesetzbuch oder durch andere Träger der Teilhabe am Arbeitsleben nach den für diese geltenden Vorschriften aus einem Einkommen vor dem 1. Juli 1990 ermittelt wird.
 
 (2) Für Zeiten der Zugehörigkeit zu einem Versorgungssystem nach Anlage 1 oder Anlage 2 Nr. 1 bis 3 bis zum 17. März 1990, in denen eine Beschäftigung oder Tätigkeit ausgeübt wurde als
 
