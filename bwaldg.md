@@ -2,7 +2,7 @@ Gesetz zur Erhaltung des Waldes und zur Förderung der Forstwirtschaft ()
 ========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 413 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 1 G v. 17.1.2017 I 75
 
 ### 
 
@@ -521,7 +521,7 @@ Abschnitt V Ergänzende Vorschriften
 
 (2) Eine anerkannte Forstwirtschaftliche Vereinigung im Sinne dieses Gesetzes darf ihre Mitglieder bei der Preisbildung beraten und zu diesem Zweck gegenüber ihren Mitgliedern Preisempfehlungen aussprechen.
 
-(3) Im übrigen bleiben die Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen unberührt.
+(3) Vorbehaltlich der Absätze 1 und 2 und des § 46 bleiben die Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen im Übrigen unberührt.
 
 (4) Als Vereinigungen forstwirtschaftlicher Erzeugerbetriebe sind Waldwirtschaftsgemeinschaften, Waldwirtschaftsgenossenschaften, Forstverbände, Eigentumsgenossenschaften und ähnliche Vereinigungen anzusehen, deren Wirkungskreis nicht wesentlich über das Gebiet einer Gemarkung oder einer Gemeinde hinausgeht und die zur gemeinschaftlichen Durchführung forstbetrieblicher Maßnahmen gebildet werden oder gebildet worden sind.
 
@@ -615,9 +615,13 @@ dienen, sind die nach den §§ 6, 7 und 9 bis 13 dieses Gesetzes erlassenen Land
 
 (4) Die Absätze 1 und 2 gelten nicht im Land Berlin.
 
-### § 46 Änderung von Vorschriften
+### § 46 Weitere Vorschriften in besonderen Fällen
 
--
+(1) Für Beschlüsse und Vereinbarungen über die der Holzvermarktung nicht zuzurechnenden forstwirtschaftlichen Maßnahmen von nichtstaatlichen oder staatlichen Trägern oder von deren Kooperationen, soweit auf diese Beschlüsse und Vereinbarungen die Regelungen des Gesetzes gegen Wettbewerbsbeschränkungen anzuwenden sind, gelten die Voraussetzungen für eine Freistellung im Sinne des § 2 des Gesetzes gegen Wettbewerbsbeschränkungen als erfüllt. Maßnahmen im Sinne des Satzes 1 umfassen die Bereiche der Planung und Ausführung waldbaulicher Maßnahmen, der Markierung, der Ernte und der Bereitstellung des Rohholzes bis einschließlich seiner Registrierung.
+
+(2) Soweit auf Beschlüsse und Vereinbarungen im Sinne des Absatzes 1 die Regelungen des Artikels 101 des Vertrages über die Arbeitsweise der Europäischen Union anzuwenden sind, wird vermutet, dass die Voraussetzungen für eine Freistellung im Sinne des Artikels 101 Absatz 3 des Vertrages über die Arbeitsweise der Europäischen Union erfüllt sind.
+
+(3) Das Bundesministerium für Ernährung und Landwirtschaft hat dem Deutschen Bundestag im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie bis spätestens 31. Dezember 2022 und danach jeweils im Abstand von drei Jahren zu berichten, ob und inwieweit die Regelungen in den Absätzen 1 und 2 weiterhin erforderlich sind, um ein flächendeckendes Angebot forstlicher Dienstleistungen zu angemessenen Bedingungen und den diskriminierungsfreien Zugang zu diesen Dienstleistungen für alle Waldbesitzer sicherzustellen. Die Berichte sollen, unter besonderer Berücksichtigung der zu fördernden Entwicklung der Forstbetriebsgemeinschaften, Vorschläge für gegebenenfalls notwendige Anpassungen der Regelungen enthalten.
 
 ### § 47
 
