@@ -2,7 +2,7 @@ Gesetz über die Untersuchung von Unfällen und Störungen bei dem Betrieb zivil
 =====================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 575 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 5 Abs. 9 G v. 10.3.2017 I 410
 
 ### 
 
@@ -549,7 +549,7 @@ Sechster Abschnitt Allgemeine Vorschriften
 
 (2) Die in Dateien gespeicherten Daten werden bei Unfällen mit tödlichem Ausgang nach Ablauf von 30 Jahren, im übrigen nach Ablauf von 20 Jahren gelöscht.
 
-(3) Die Frist nach den Absätzen 1 und 2 beginnt mit dem Abschluß des Verfahrens. § 187 Abs. 1 des Bürgerlichen Gesetzbuchs und § 2 Abs. 1 bis 6, 8 und 9 des Bundesarchivgesetzes finden Anwendung.
+(3) Die Frist nach den Absätzen 1 und 2 beginnt mit dem Abschluß des Verfahrens. § 187 Absatz 1 des Bürgerlichen Gesetzbuchs und § 1 Nummer 2, 8 bis 10, § 3 Absatz 4, sowie die §§ 5 bis 7 des Bundesarchivgesetzes sind anzuwenden.
 
 ### § 28 Flugsicherheitsarbeit
 
