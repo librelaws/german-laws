@@ -2,7 +2,7 @@ Gesetz über Gebühren und Auslagen des Bundes (BGebG)
 ====================================================
 
 Stand  
-Geändert durch Art. 3 G v. 8.6.2015 I 904
+Zuletzt geändert durch Art. 1 G v. 10.3.2017 I 417
 
 ### 
 
@@ -62,18 +62,15 @@ in Verfahren nach dem Sozialgesetzbuch und der Postbeamtenkrankenkasse,
 der Bundesbehörden der Justiz- und Gerichtsverwaltung sowie des Deutschen Patent- und Markenamtes, des Bundeskartellamtes und der Bundesnetzagentur, soweit sie als Regulierungsbehörde im Sinne des Energiewirtschaftsgesetzes auftritt,
 
 4.  
-der Bundespolizei,
-
-5.  
 der Stiftung Preußischer Kulturbesitz, der Akademie der Künste, der Deutschen Nationalbibliothek, der Stiftung zur Aufarbeitung der SED-Diktatur, der Stiftung Jüdisches Museum Berlin, der Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte, der Stiftung Bundespräsident-Theodor-Heuss-Haus, der Stiftung Bundeskanzler-Adenauer-Haus und der Museumsstiftung Post und Telekommunikation,
 
-6.  
+5.  
 des Deutschen Weinfonds und in Verfahren nach der Verordnung über den Klärschlamm-Entschädigungsfonds,
 
-7.  
-nach der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung und dem Steuerberatungsgesetz sowie
+6.  
+nach der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung, dem Gesetz zur Einrichtung einer Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle und dem Steuerberatungsgesetz sowie
 
-8.  
+7.  
 nach dem Bundesfernstraßengesetz, dem Fernstraßenbauprivatfinanzierungsgesetz, dem Bundesfernstraßenmautgesetz, dem Mautsystemgesetz und dem Infrastrukturabgabengesetz.
 
 (3) Dieses Gesetz findet keine Anwendung, soweit das Recht der Europäischen Union die Erhebung von Gebühren oder Auslagen für bestimmte Leistungen ausschließt.
@@ -508,13 +505,13 @@ Pauschalierung von Auslagen nach § 12 Absatz 2 Nummer 3.
 (8) Die Absätze 2 bis 7 finden keine Anwendung
 
 1.  
-für die in Artikel 3 des Gesetzes zur Strukturreform des Gebührenrechts des Bundes vom 7. August 2013 (BGBl. I S. 3154) geänderten Regelungen nach dem 14. August 2016 und
+für die durch Artikel 3 des Gesetzes zur Aktualisierung der Strukturreform des Gebührenrechts des Bundes vom 18. Juli 2016 (BGBl. I S. 1666) geänderten Regelungen nach dem 1. Oktober 2019 und
 
 2.  
-für die in Artikel 4 des Gesetzes zur Strukturreform des Gebührenrechts des Bundes vom 7. August 2013 (BGBl. I S. 3154) geänderten Regelungen nach dem 14. August 2018.
+für die durch Artikel 4 des Gesetzes zur Aktualisierung der Strukturreform des Gebührenrechts des Bundes vom 18. Juli 2016 (BGBl. I S. 1666) geänderten Regelungen nach dem 1. Oktober 2021.
 
 Durch Besondere Gebührenverordnung nach § 22 Absatz 4 kann bestimmt werden, dass die Absätze 2 bis 7 bereits zu einem früheren als den in Satz 1 bestimmten Zeitpunkten für den jeweiligen Anwendungsbereich der Besonderen Gebührenverordnung nicht anwendbar sind.
 
 ### § 24 Außerkrafttreten
 
-§ 23 Absatz 2 bis 8 tritt am 14. August 2018 außer Kraft.
+§ 23 Absatz 2 bis 8 tritt am 1. Oktober 2021 außer Kraft.
