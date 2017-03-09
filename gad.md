@@ -2,7 +2,7 @@ Gesetz über den Auswärtigen Dienst (GAD)
 ========================================
 
 Stand  
-Zuletzt geändert durch Art. 5 G v. 14.11.2011 I 2219
+Zuletzt geändert durch Art. 2 G v. 10.3.2017 I 410
 
 ### 
 
@@ -192,7 +192,7 @@ Zur Sicherung der Verbindungen zwischen Auswärtigem Amt und Auslandsvertretunge
 
 ### § 10 Politisches Archiv
 
-Im Politischen Archiv des Auswärtigen Amts werden die Urschriften oder beglaubigten Abschriften der völkerrechtlichen Vereinbarungen des Deutschen Reiches und der Bundesrepublik Deutschland sowie alle Unterlagen aufbewahrt, die der Auswärtige Dienst zur Erfüllung seiner Aufgaben benötigt.
+Im Politischen Archiv des Auswärtigen Amts werden die Urschriften oder beglaubigten Abschriften der völkerrechtlichen Vereinbarungen des Deutschen Reiches und der Bundesrepublik Deutschland sowie alle Unterlagen aufbewahrt, die der Auswärtige Dienst zur Erfüllung seiner Aufgaben benötigt. Die Vorschriften des Bundesarchivgesetzes über die Nutzung von Archivgut des Bundes sind entsprechend anzuwenden.
 
 Dritter Abschnitt Rechtsverhältnisse der Angehörigen des Auswärtigen Dienstes
 -----------------------------------------------------------------------------
@@ -240,7 +240,7 @@ Vierter Abschnitt Pflichten und Rechte der Beamten
 
 ### § 15 Fürsorge und Schutz
 
-(1) Die Fürsorge des Dienstherren für den Beamten des Auswärtigen Dienstes und seine Familienangehörigen trägt den Belastungen und Gefährdungen des Dienstes und den besonderen Gegebenheiten im Ausland Rechnung.
+(1) Die Fürsorge des Dienstherrn für den Beamten des Auswärtigen Dienstes und seine Familienangehörigen trägt den Belastungen und Gefährdungen des Dienstes und den besonderen Gegebenheiten im Ausland Rechnung.
 
 (2) Der Dienstherr sorgt dafür, daß dem Beamten und seinen Familienangehörigen aus dem Auslandseinsatz möglichst keine Nachteile entstehen. Für unvermeidbare Belastungen gewährt er dem Beamten des Auswärtigen Dienstes einen angemessenen Ausgleich.
 
@@ -319,7 +319,7 @@ Wirken die Ehegatten im dienstlichen Interesse an der Erfüllung von Aufgaben de
 
 ### § 23 Reisebeihilfen in besonderen Fällen
 
-(1) Zu Reisen des Beamten und seiner Familienangehörigen vom ausländischen Dienstort aus Anlaß des Todes oder einer lebensgefährlichen Erkrankung eines Familienangehörigen oder Verwandten ersten oder zweiten Grades können dem Beamten Reisebeihilfen gewährt werden. Ebenso können Beihilfen für Reisen von Familienangehörigen und Verwandten ersten oder zweiten Grades zum ausländischen Dienst gewährt werden, wenn der Beamte oder ein Familienangehöriger lebensgefährlich erkrankt oder gestorben ist.
+(1) Zu Reisen des Beamten und seiner Familienangehörigen vom ausländischen Dienstort aus Anlaß des Todes oder einer lebensgefährlichen Erkrankung eines Familienangehörigen oder Verwandten ersten oder zweiten Grades können dem Beamten Reisebeihilfen gewährt werden. Ebenso können Beihilfen für Reisen von Familienangehörigen und Verwandten ersten oder zweiten Grades zum ausländischen Dienstort gewährt werden, wenn der Beamte oder ein Familienangehöriger lebensgefährlich erkrankt oder gestorben ist.
 
 (2) Das Auswärtige Amt erläßt im Einvernehmen mit dem Bundesminister des Innern und dem Bundesminister der Finanzen besondere Verwaltungsvorschriften, soweit es die Besonderheiten des Auswärtigen Dienstes erfordern.
 
@@ -363,7 +363,7 @@ Siebter Abschnitt Wohnungsfürsorge und Umzüge
 
 ### § 28 Auslandsumzüge und Auslandstrennungsgeld
 
-Die für Auslandsumzüge und das Auslandstrennungsgeld erforderlichen Regelungen werden nach den Grundsätzen des Bundesumzugskostengesetzes und des Bundesreisekostengesetzes durch Rechtsverordnungen des Bundesminister des Auswärtigen im Einvernehmen mit dem Bundesminister der Finanzen und dem Bundesminister des Innern getroffen.
+Die für Auslandsumzüge und das Auslandstrennungsgeld erforderlichen Regelungen werden nach den Grundsätzen des Bundesumzugskostengesetzes und des Bundesreisekostengesetzes durch Rechtsverordnungen des Bundesministers des Auswärtigen im Einvernehmen mit dem Bundesminister der Finanzen und dem Bundesminister des Innern getroffen.
 
 Achter Abschnitt Auslandsbezogene Leistungen
 --------------------------------------------
