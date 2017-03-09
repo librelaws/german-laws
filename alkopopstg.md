@@ -2,7 +2,7 @@ Gesetz über die Erhebung einer Sondersteuer auf alkoholhaltige Süßgetränke (
 =============================================================================================================================
 
 Stand  
-Geändert durch Art. 6 G v. 21.12.2010 I 2221
+Zuletzt geändert durch Art. 7 G v. 10.3.2017 I 420
 
 ### 
 
@@ -16,22 +16,19 @@ Das G wurde als Artikel 1 des G v. 23.7.2004 I 1857 vom Bundestag beschlossen. E
 
 (1) Alkoholhaltige Süßgetränke (Alkopops) unterliegen im Steuergebiet einer Sondersteuer zum Schutz junger Menschen (Alkopopsteuer). Steuergebiet ist das Gebiet der Bundesrepublik Deutschland ohne das Gebiet Büsingen und ohne die Insel Helgoland. Die Alkopopsteuer ist eine Verbrauchsteuer im Sinne der Abgabenordnung.
 
-(2) Alkopops im Sinne dieses Gesetzes sind Getränke
+(2) Alkopops im Sinne dieses Gesetzes sind Getränke, auch in gefrorenem Zustand, die
 
--  
-auch in gefrorener Form - , die
+1.  
+aus einer Mischung von Getränken mit einem Alkoholgehalt von 1,2 Prozent vol oder weniger oder gegorenen Getränken mit einem Alkoholgehalt von mehr als 1,2 Prozent vol mit Erzeugnissen nach § 1 Absatz 1 des Alkoholsteuergesetzes bestehen,
 
--  
-aus einer Mischung von Getränken mit einem Alkoholgehalt von 1,2 % vol oder weniger oder gegorenen Getränken mit einem Alkoholgehalt von mehr als 1,2 % vol mit Erzeugnissen nach § 130 Abs. 1 des Gesetzes über das Branntweinmonopol bestehen,
+2.  
+einen Alkoholgehalt von mehr als 1,2 Prozent vol, aber von weniger als 10 Prozent vol aufweisen,
 
--  
-einen Alkoholgehalt von mehr als 1,2 % vol, aber weniger als 10 % vol aufweisen,
-
--  
+3.  
 trinkfertig gemischt in verkaufsfertigen, verschlossenen Behältnissen abgefüllt sind und
 
--  
-als Erzeugnisse nach § 130 Abs. 1 des Gesetzes über das Branntweinmonopol der Branntweinsteuer unterliegen.
+4.  
+als Erzeugnisse nach § 1 Absatz 1 des Alkoholsteuergesetzes der Alkoholsteuer unterliegen.
 
 (3) Als Alkopops gelten auch industriell vorbereitete Mischungskomponenten von Getränken nach Absatz 2, die in einer gemeinsamen Verpackung enthalten sind.
 
@@ -41,13 +38,13 @@ Die Steuer bemisst sich nach der in dem Alkopop enthaltenen Alkoholmenge. Sie be
 
 ### § 3 Besteuerung, Steuerverfahren
 
-(1) Für die Herstellung, Bearbeitung oder Verarbeitung, die Lagerung und die Beförderung von Alkopops unter Steueraussetzung, für die Entstehung der Alkopopsteuer und den Zeitpunkt, der für ihre Bemessung maßgebend ist, für die Person des Steuerschuldners, für die Fälligkeit, das Erlöschen, die Nacherhebung, die Steuerbefreiungen und die Steuerentlastungen sowie das Steuerverfahren gelten vorbehaltlich des Absatzes 2 die Vorschriften für die Branntweinsteuer nach dem Zweiten Teil des Gesetzes über das Branntweinmonopol sowie den dazu ergangenen Durchführungsbestimmungen sinngemäß.
+(1) Für die Herstellung, Bearbeitung oder Verarbeitung, die Lagerung und die Beförderung von Alkopops unter Steueraussetzung, für die Entstehung der Alkopopsteuer und den Zeitpunkt, der für ihre Bemessung maßgebend ist, für die Person des Steuerschuldners, für die Fälligkeit, das Erlöschen, die Nacherhebung, die Steuerbefreiungen und die Steuerentlastungen sowie das Steuerverfahren gelten vorbehaltlich des Absatzes 2 die Vorschriften für die Alkoholsteuer nach dem Alkoholsteuergesetz sowie den dazu ergangenen Durchführungsbestimmungen sinngemäß.
 
-(2) Für den innergemeinschaftlichen Verkehr mit Alkopops sowie für die Ausfuhr von Alkopops aus dem Steuergebiet über andere Mitgliedstaaten gelten die diesbezüglichen Vorschriften für die Kaffeesteuer nach dem Kaffeesteuergesetz sowie den dazu ergangenen Durchführungsbestimmungen sinngemäß. Satz 1 gilt auch für Beförderungen unter Steueraussetzung im Steuergebiet, soweit sich der in den Alkopops befindliche Branntwein im steuerrechtlich freien Verkehr befindet.
+(2) Für den innergemeinschaftlichen Verkehr mit Alkopops sowie für die Ausfuhr von Alkopops aus dem Steuergebiet über andere Mitgliedstaaten gelten die diesbezüglichen Vorschriften für die Kaffeesteuer nach dem Kaffeesteuergesetz sowie den dazu ergangenen Durchführungsbestimmungen sinngemäß. Satz 1 gilt auch für Beförderungen unter Steueraussetzung im Steuergebiet, soweit sich der in den Alkopops befindliche Alkohol im steuerrechtlich freien Verkehr befindet.
 
 ### § 4 Aufkommensverwendung, Aufkommensverteilung
 
-Das Netto-Mehraufkommen aus der Alkopopsteuer ist zur Finanzierung von Maßnahmen zur Suchtprävention der Bundeszentrale für gesundheitliche Aufklärung zu verwenden. Das Netto-Mehraufkommen der Alkopopsteuer ergibt sich aus der Differenz zwischen dem Aufkommen der Alkopopsteuer und den Mindereinnahmen bei der Branntweinsteuer, die sich durch die Einführung der Alkopopsteuer ergeben. Die Bundesregierung wird ermächtigt, das Verfahren zur Berechnung des Netto-Mehraufkommens durch Rechtsverordnung zu regeln.
+Das Netto-Mehraufkommen aus der Alkopopsteuer ist zur Finanzierung von Maßnahmen zur Suchtprävention der Bundeszentrale für gesundheitliche Aufklärung zu verwenden. Das Netto-Mehraufkommen der Alkopopsteuer ergibt sich aus der Differenz zwischen dem Aufkommen der Alkopopsteuer und den Mindereinnahmen bei der Alkoholsteuer, die sich durch die Einführung der Alkopopsteuer ergeben. Die Bundesregierung wird ermächtigt, das Verfahren zur Berechnung des Netto-Mehraufkommens durch Rechtsverordnung zu regeln.
 
 ### § 5 Bericht der Bundesregierung über die Auswirkungen des Gesetzes
 
