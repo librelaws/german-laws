@@ -2,7 +2,7 @@ Gesetz zum Schutze der arbeitenden Jugend (JArbSchG)
 ====================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 3.3.2016 I 369
+Zuletzt geändert durch Art. 13 G v. 10.3.2017 I 420
 
 ### 
 
@@ -538,7 +538,7 @@ Jugendliche, die im Bergbau unter Tage beschäftigt werden, erhalten in jeder Al
 
 ### § 20 Binnenschiffahrt
 
-In der Binnenschiffahrt gelten folgende Abweichungen:
+(1) In der Binnenschiffahrt gelten folgende Abweichungen:
 
 1.  
 Abweichend von § 12 darf die Schichtzeit Jugendlicher über 16 Jahre während der Fahrt bis auf 14 Stunden täglich ausgedehnt werden, wenn ihre Arbeitszeit sechs Stunden täglich nicht überschreitet. Ihre tägliche Freizeit kann abweichend von § 13 der Ausdehnung der Schichtzeit entsprechend bis auf 10 Stunden verkürzt werden.
@@ -548,6 +548,28 @@ Abweichend von § 14 Abs. 1 dürfen Jugendliche über 16 Jahre während der Fahr
 
 3.  
 Abweichend von §§ 15, 16 Abs. 1, § 17 Abs. 1 und § 18 Abs. 1 dürfen Jugendliche an jedem Tag der Woche beschäftigt werden, jedoch nicht am 24. Dezember, an den Weihnachtsfeiertagen, am 31. Dezember, am 1. Januar, an den Osterfeiertagen und am 1. Mai. Für die Beschäftigung an einem Samstag, Sonntag und an einem gesetzlichen Feiertag, der auf einen Werktag fällt, ist ihnen je ein freier Tag zu gewähren. Diese freien Tage sind den Jugendlichen in Verbindung mit anderen freien Tagen zu gewähren, spätestens, wenn ihnen 10 freie Tage zustehen.
+
+(2) In der gewerblichen Binnenschifffahrt hat der Arbeitgeber Aufzeichnungen nach Absatz 3 über die tägliche Arbeits- oder Freizeit jedes Jugendlichen zu führen, um eine Kontrolle der Einhaltung der §§ 8 bis 21a dieses Gesetzes zu ermöglichen. Die Aufzeichnungen sind in geeigneten Zeitabständen, spätestens bis zum nächsten Monatsende, gemeinsam vom Arbeitgeber oder seinem Vertreter und von dem Jugendlichen zu prüfen und zu bestätigen. Im Anschluss müssen die Aufzeichnungen für mindestens zwölf Monate an Bord aufbewahrt werden und dem Jugendlichen ist eine Kopie der bestätigten Aufzeichnungen auszuhändigen. Der Jugendliche hat die Kopien daraufhin zwölf Monate für eine Kontrolle bereitzuhalten.
+
+(3) Die Aufzeichnungen nach Absatz 2 müssen mindestens folgende Angaben enthalten:
+
+1.  
+Name des Schiffes,
+
+2.  
+Name des Jugendlichen,
+
+3.  
+Name des verantwortlichen Schiffsführers,
+
+4.  
+Datum des jeweiligen Arbeits- oder Ruhetages,
+
+5.  
+für jeden Tag der Beschäftigung, ob es sich um einen Arbeits- oder um einen Ruhetag handelt sowie
+
+6.  
+Beginn und Ende der täglichen Arbeitszeit oder der täglichen Freizeit.
 
 ### § 21 Ausnahmen in besonderen Fällen
 
@@ -694,7 +716,7 @@ wegen eines Verbrechens zu einer Freiheitsstrafe von mindestens zwei Jahren,
 wegen einer vorsätzlichen Straftat, die sie unter Verletzung der ihnen als Arbeitgeber, Ausbildender oder Ausbilder obliegenden Pflichten zum Nachteil von Kindern oder Jugendlichen begangen haben, zu einer Freiheitsstrafe von mehr als drei Monaten,
 
 3.  
-wegen einer Straftat nach den §§ 109h, 171, 174 bis 184h, 225, 232 bis 233a des Strafgesetzbuches,
+wegen einer Straftat nach den §§ 109h, 171, 174 bis 184i, 225, 232 bis 233a des Strafgesetzbuches,
 
 4.  
 wegen einer Straftat nach dem Betäubungsmittelgesetz oder
@@ -1196,6 +1218,12 @@ entgegen § 6 Abs. 4 Satz 2 ein Kind vor Erhalt des Bewilligungsbescheids besch�
 
 2.  
 entgegen § 11 Abs. 3 den Aufenthalt in Arbeitsräumen gestattet,
+
+2a.  
+entgegen § 20 Absatz 2 Satz 1 eine Aufzeichnung nicht oder nicht richtig führt,
+
+2b.  
+entgegen § 20 Absatz 2 Satz 3 eine Aufzeichnung nicht oder nicht mindestens zwölf Monate aufbewahrt,
 
 3.  
 entgegen § 29 einen Jugendlichen über Gefahren nicht, nicht richtig oder nicht rechtzeitig unterweist,
