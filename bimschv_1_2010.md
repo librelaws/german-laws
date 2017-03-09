@@ -2,7 +2,7 @@ Erste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (1. BImSc
 ==================================================================================
 
 Stand  
-Geändert durch Art. 77 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 16 Abs. 4 G v. 10.3.2017 I 420
 
 ### 
 
@@ -143,7 +143,7 @@ b)
 Speisen durch unmittelbare Berührung mit heißen Abgasen zu backen oder in ähnlicher Weise zuzubereiten,
 
 c)  
-Branntwein in Kleinbrennereien nach § 34 des Gesetzes über das Branntweinmonopol in der im Bundesgesetzblatt Teil III, Gliederungsnummer 612-7, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 7 des Gesetzes vom 13. Dezember 2007 (BGBl. I S. 2897) geändert worden ist, mit einer jährlichen Betriebszeit von nicht mehr als 20 Tagen herzustellen oder
+Alkohol in Kleinbrennereien mit einer jährlichen Erzeugung von nicht mehr als 10 Hektoliter Alkohol und einer jährlichen Betriebszeit von nicht mehr als 20 Tagen herzustellen oder
 
 d)  
 Warmwasser in Badeöfen zu erzeugen,
