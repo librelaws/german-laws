@@ -2,7 +2,10 @@ Kostenverordnung für Maßnahmen bei der Beförderung gefährlicher Güter (GGKo
 ===============================================================================
 
 Stand  
-Zuletzt geändert durch Art. 13 G v. 26.7.2016 I 1843
+Zuletzt geändert durch Art. 3 V v. 17.3.2017 I 568
+
+Hinweis  
+Änderung durch Art. 2 V v. 7.12.2017 I 3859 (Nr. 77) ist berücksichtigt
 
 ### 
 
@@ -20,7 +23,7 @@ Die V wurde als Artikel 1 der V v. 7.3.2013 I 466 vom Bundesministerium für Ver
 der Bundesbehörden und der Landesbehörden nach dem Gesetz über die Beförderung gefährlicher Güter und den auf der Grundlage dieses Gesetzes erlassenen Rechtsverordnungen,
 
 2.  
-der Prüfstellen nach § 9 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und nach § 6 Absatz 9 der Gefahrgutverordnung See,
+der Prüfstellen nach § 9 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und nach § 16 der Gefahrgutverordnung See,
 
 3.  
 der Benannten Stellen nach § 12 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt,
@@ -35,20 +38,23 @@ der amtlich anerkannten Sachverständigen und Technischen Dienste nach § 14 Abs
 der zuständigen Stellen oder Personen nach § 14 Absatz 5 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt,
 
 7.  
-der zuständigen Stelle nach § 16 Absatz 8 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt,
+der Zulassungsbehörden nach § 14 Absatz 6 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt,
 
 8.  
+der zuständigen Stelle nach § 16 Absatz 8 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt,
+
+9.  
 der Marktüberwachungsbehörden nach § 22 Absatz 5 Satz 3 der Ortsbewegliche-Druckgeräte-Verordnung
 
 werden Gebühren und Auslagen erhoben. Die Gebühren ergeben sich aus § 2 in Verbindung mit dem Gebührenverzeichnis der Anlage 1 zu dieser Verordnung. Zu den in Absatz 1 Satz 1 Nummer 1 genannten Behörden zählen nicht die in den Absätzen 2 bis 5 aufgeführten Behörden.
 
-(2) Für Amtshandlungen im Rahmen der Zuständigkeit nach § 11 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und im Rahmen der Zuständigkeit nach § 6 Absatz 6 der Gefahrgutverordnung See erhebt das Bundesamt für Strahlenschutz Gebühren und Auslagen. Die Gebühren ergeben sich aus § 2 in Verbindung mit der Anlage 2 zu dieser Verordnung.
+(2) Für Amtshandlungen im Rahmen der Zuständigkeit nach § 11 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und im Rahmen der Zuständigkeit nach § 13 der Gefahrgutverordnung See erhebt das Bundesamt für kerntechnische Entsorgungssicherheit Gebühren und Auslagen. Die Gebühren ergeben sich aus § 2 in Verbindung mit der Anlage 2 und für Widerspruchsverfahren aus § 2 in Verbindung mit der Anlage 1 zu dieser Verordnung.
 
-(3) Für Amtshandlungen im Rahmen der Zuständigkeit nach § 8 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und im Rahmen der Zuständigkeit nach § 6 Absatz 5 der Gefahrgutverordnung See erhebt die Bundesanstalt für Materialforschung und -prüfung Gebühren und Auslagen. Die Gebühren ergeben sich aus § 2 in Verbindung mit der Anlage 3 zu dieser Verordnung.
+(3) Für Amtshandlungen im Rahmen der Zuständigkeit nach § 8 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und im Rahmen der Zuständigkeit nach § 12 Absatz 1 der Gefahrgutverordnung See erhebt die Bundesanstalt für Materialforschung und -prüfung Gebühren und Auslagen. Die Gebühren ergeben sich aus § 2 in Verbindung mit der Anlage 3 und für Widerspruchsverfahren aus § 2 in Verbindung mit der Anlage 1 zu dieser Verordnung.
 
-(4) Für Amtshandlungen im Rahmen der Zuständigkeit nach § 14 Absatz 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt erhebt das Kraftfahrt-Bundesamt Gebühren und Auslagen. Die Gebühren ergeben sich aus § 2 in Verbindung mit der Anlage 4 zu dieser Verordnung.
+(4) Für Amtshandlungen im Rahmen der Zuständigkeit nach § 14 Absatz 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt erhebt das Kraftfahrt-Bundesamt Gebühren und Auslagen. Die Gebühren ergeben sich aus § 2 in Verbindung mit der Anlage 4 und für Widerspruchsverfahren aus § 2 in Verbindung mit der Anlage 1 zu dieser Verordnung.
 
-(5) Für Amtshandlungen im Rahmen der Zuständigkeit nach § 16 Absatz 1 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt erhebt die Physikalisch-Technische Bundesanstalt Gebühren und Auslagen. Die Gebühren ergeben sich aus § 2 in Verbindung mit der Anlage 5 zu dieser Verordnung.
+(5) Für Amtshandlungen im Rahmen der Zuständigkeit nach § 16 Absatz 1 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt erhebt die Physikalisch-Technische Bundesanstalt Gebühren und Auslagen. Die Gebühren ergeben sich aus § 2 in Verbindung mit der Anlage 5 und für Widerspruchsverfahren aus § 2 in Verbindung mit der Anlage 1 zu dieser Verordnung.
 
 ### § 2 Gebührenfestsetzung
 
@@ -60,7 +66,8 @@ werden Gebühren und Auslagen erhoben. Die Gebühren ergeben sich aus § 2 in Ve
 
 ### Anlage 1 (zu § 1 Absatz 1)Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2013, 468 - 477)
+(Fundstelle: BGBl. I 2013, 468 - 477;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Inhaltsübersicht
 
@@ -80,7 +87,7 @@ Gebührennummer
 
 102 bis 106
 
-3. Abschnitt: Gebühren der Behörden und Stellen nach § 1 Absatz 1 Satz 1 Nummer 2 bis 6
+3. Abschnitt: Gebühren der Behörden und Stellen nach § 1 Absatz 1 Satz 1 Nummer 2 bis 7
 
 211 bis 226
 
@@ -142,7 +149,19 @@ Gebührentatbestand
 Gebühr
 (EUR)
 
-001 bis 012
+001
+
+Zurückweisung eines Widerspruchs
+
+aus formalen Gründen
+
+ 60 bis 425
+
+aus sachlichen Gründen
+
+120 bis 850
+
+002 bis 012
 
 nicht vergeben
 
@@ -150,7 +169,8 @@ nicht vergeben
 
 Anordnung von Maßnahmen zur Beseitigung festgestellter oder zur Verhütung künftiger Verstöße gegen Vorschriften des Gefahrgutbeförderungsgesetzes oder gegen die nach dem Gefahrgutbeförderungsgesetz erlassenen Rechtsverordnungen (§ 8 des Gefahrgutbeförderungsgesetzes).
 
-25 je begonnene Viertelstunde
+25 je begonnene
+Viertelstunde
 
 **II. Teil: Straßenverkehr**
 
@@ -166,15 +186,13 @@ Gebühr
 
 100
 
-Prüfung und Erteilung einer Bescheinigung, dass ein Gleisanschluss, Container- oder Huckepackverkehr auf der Schiene nicht möglich ist, einschließlich der Ausfertigung der Bescheinigung (§ 35 Absatz 5 Satz 1 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).
+Prüfung und Erteilung einer Bescheinigung, dass die Bedingungen für eine Verlagerung nicht vorliegen, einschließlich der Ausfertigung der Bescheinigung (§ 35 Absatz 4 Satz 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).
 
 25 bis 250
 
 101
 
-Prüfung und Erteilung einer Bescheinigung, dass ein Containerverkehr auf dem Wasserweg nicht möglich ist, einschließlich der Ausfertigung der Bescheinigung (§ 35 Absatz 5 Satz 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).
-
-25 bis 250
+nicht vergeben
 
 2. Abschnitt: Gebühren der Landesbehörden
 
@@ -198,23 +216,11 @@ nicht vergeben
 
 104
 
-Prüfung und Erteilung der Fahrwegbestimmung für die Beförderung bestimmter gefährlicher Güter, einschließlich der Ausfertigung des Bescheids über die Fahrwegbestimmung (§ 35 Absatz 3 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).
+Prüfung und Erteilung der Fahrwegbestimmung für die Beförderung bestimmter gefährlicher Güter, einschließlich der Ausfertigung des Bescheids über die Fahrwegbestimmung (§ 35a Absatz 3 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).
 
 25 bis 1 000
 
-105
-
-Prüfung und Erteilung einer Bescheinigung, dass ein Gleisanschluss, Container- oder Huckepackverkehr auf der Schiene nicht möglich ist, einschließlich der Ausfertigung der Bescheinigung (§ 35 Absatz 5 Satz 4 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).
-
-25 bis 250
-
-106
-
-Prüfung und Erteilung einer Bescheinigung, dass ein Containerverkehr auf dem Wasserweg nicht möglich ist, einschließlich der Ausfertigung der Bescheinigung (§ 35 Absatz 5 Satz 4 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).
-
-25 bis 250
-
-3. Abschnitt: Gebühren der Behörden und Stellen nach § 1 Absatz 1 Satz 1 Nummer 2 bis 6
+3. Abschnitt: Gebühren der Behörden und Stellen nach § 1 Absatz 1 Satz 1 Nummer 2 bis 7
 
 Gebühren-
 nummer
@@ -275,7 +281,13 @@ Wie Gebührennummer 213, jedoch zusätzliche Untersuchung der Bremsanlage (Absch
 
 30 je begonnene Viertelstunde
 
-214 bis 220
+214
+
+Änderung oder Neuausstellung der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ohne erforderliche Prüfungen nach Abschnitt 9.1.2 ADR (§ 14 Absatz 4 bis 6 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt).
+
+25 je begonnene Viertelstunde
+
+215 bis 220
 
 nicht vergeben
 
@@ -914,12 +926,6 @@ Zustimmung zum Laden oder Löschen von Tankschiffen, wenn nicht alle Fragen der 
 
 100
 
-720.2
-
-Zulassung der Verwendung der Prüfliste beim Laden oder Löschen von Tankschiffen in der bis zum 31. Dezember 2014 geltenden Fassung (Absatz 7.2.4.10.1 ADN).
-
-100
-
 721
 
 Prüfung zum Nachweis der Sachkunde und zur Ausstellung der Sachkundebescheinigungen (Unterabschnitt 8.2.2.8 ADN):
@@ -979,7 +985,7 @@ zur Feststellung und Bescheinigung der Gasfreiheit im Bereich der Bundeswasserst
 
 Prüfung und Erteilung der Zulassung alternativer Bauweisen (Abschnitt 9.3.4 ADN).
 
-320 bis 640
+50 je Stunde
 
 724
 
@@ -1305,7 +1311,7 @@ Gebühr
 
 25 je begonnene Viertelstunde
 
-### Anlage 2 (zu § 1 Absatz 2)GebührenverzeichnisGebühren des Bundesamt für kerntechnische Entsorgungssicherheit
+### Anlage 2 (zu § 1 Absatz 2)GebührenverzeichnisGebühren des Bundesamtes für kerntechnische Entsorgungssicherheit
 
 (Fundstelle: BGBl. I 2013, 478)
 
@@ -1317,7 +1323,7 @@ I. Teil: Amtshandlungen nach § 11 der Gefahrgutverordnung Straße, Eisenbahn un
 
 001 bis 004
 
-II. Teil: Amtshandlungen nach § 6 Absatz 6 der Gefahrgutverordnung See
+II. Teil: Amtshandlungen nach § 13 der Gefahrgutverordnung See
 
 100
 
@@ -1372,7 +1378,7 @@ Prüfung und Erteilung der Genehmigung des Strahlenschutzprogramms für die Bef�
 
 50 bis 25 000
 
-**II. Teil: Amtshandlungen nach § 6 Absatz 6 der Gefahrgutverordnung See**
+**II. Teil: Amtshandlungen nach § 13 der Gefahrgutverordnung See**
 
 Gebühren-
 nummer
@@ -1384,7 +1390,7 @@ Gebühr
 
 100
 
-Amtshandlungen, einschließlich Prüfungen, nach § 6 Absatz 6 der Gefahrgutverordnung See.
+Amtshandlungen, einschließlich Prüfungen, nach § 13 der Gefahrgutverordnung See.
 
 50 bis 2 000 000
 
@@ -1392,7 +1398,7 @@ Amtshandlungen, einschließlich Prüfungen, nach § 6 Absatz 6 der Gefahrgutvero
 
 (Fundstelle: BGBl. I 2013, 479)
 
-Amtshandlungen, einschließlich Prüfungen, der Bundesanstalt für Materialforschung und -prüfung (BAM) ergeben sich aus § 8 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und aus § 6 Absatz 5 der Gefahrgutverordnung See. Für die Gebührenfestsetzung werden die Stundensätze der jeweils tätigen Organisationseinheiten der BAM zugrunde gelegt.
+Amtshandlungen, einschließlich Prüfungen, der Bundesanstalt für Materialforschung und -prüfung (BAM) ergeben sich aus § 8 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und aus § 12 Absatz 1 der Gefahrgutverordnung See. Für die Gebührenfestsetzung werden die Stundensätze der jeweils tätigen Organisationseinheiten der BAM zugrunde gelegt.
 
 Organisationseinheit
 Abteilung
