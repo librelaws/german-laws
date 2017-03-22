@@ -2,7 +2,7 @@ Verordnung über die EG-Genehmigung für Kraftfahrzeuge und ihre Anhänger sowie
 ========================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 4 V v. 19.10.2012 I 2232
+Zuletzt geändert durch Art. 7 V v. 23.3.2017 I 522
 
 ### 
 
@@ -303,7 +303,7 @@ Für die Ausstellung der Übereinstimmungsbescheinigung ist § 6 Absatz 1 und 2 
 
 (2) Für das Genehmigungsverfahren finden die §§ 4, 5, 7 und 8 Absatz 2 entsprechend Anwendung. Beim Antrag ist die Notwendigkeit der Anwendung entsprechender Anforderungen der Straßenverkehrs-Zulassungs-Ordnung nach Absatz 1 Satz 2 an Stelle der in Anhang IV oder Anhang XI der Richtlinie 2007/46/EG genannten Vorschriften darzulegen.
 
-(3) Abweichungen von den technischen Angaben, die das Kraftfahrt-Bundesamt bei Erteilung der nationalen Kleinserien-Typgenehmigung durch schriftlichen Bescheid für den genehmigten Typ festgelegt hat, sind dem Inhaber der Typgenehmigung nur gestattet, wenn diese durch einen entsprechenden Nachtrag ergänzt worden ist oder wenn das Kraftfahrt-Bundesamt auf Antrag festgestellt hat, dass für die vorgesehene Änderung eine Nachtragserlaubnis nicht erforderlich ist.
+(3) Abweichungen von den technischen Angaben, die das Kraftfahrt-Bundesamt bei Erteilung der nationalen Kleinserien-Typgenehmigung durch Bescheid in Schriftform oder elektronischer Form für den genehmigten Typ festgelegt hat, sind dem Inhaber der Typgenehmigung nur gestattet, wenn diese durch einen entsprechenden Nachtrag ergänzt worden ist oder wenn das Kraftfahrt-Bundesamt auf Antrag festgestellt hat, dass für die vorgesehene Änderung eine Nachtragserlaubnis nicht erforderlich ist.
 
 (4) Auf Antrag desjenigen, der ein Fahrzeug in einem anderen Mitgliedstaat verkaufen, zulassen oder in Betrieb nehmen will, fertigt das Kraftfahrt-Bundesamt eine Kopie des Typgenehmigungsbogens einschließlich der Beschreibungsunterlagen aus. Auf Antrag des Herstellers übermittelt es den Genehmigungsbehörden der vom Hersteller angegebenen Mitgliedstaaten eine Kopie des Typgenehmigungsbogens und der zugehörigen Anlagen.
 
