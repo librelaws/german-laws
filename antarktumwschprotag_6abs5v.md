@@ -2,7 +2,7 @@ Verordnung über Zusammensetzung, Berufung und Verfahren einer unabhängigen Kom
 =================================================================================================================================================================================================================
 
 Stand  
-Geändert durch Art. 99 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 63 G v. 29.3.2017 I 626
 
 ### 
 
@@ -38,7 +38,7 @@ Die Mitglieder der Kommission und ihre stellvertretenden Mitglieder sind unabhä
 
 ### § 5 Aufgabe
 
-(1) Die Kommission hat die Aufgabe, Tätigkeiten der wissenschaftlichen Forschung sowie zu ihrer Vorbereitung oder Durchführung dienende Tätigkeiten in der Antarktis zu beurteilen, soweit diese Tätigkeiten mindestens geringfügige oder vorübergehende Auswirkungen auf die in § 3 Abs. 4 des Umweltschutzprotokoll-Ausführungsgesetzes genannten Schutzgüter besorgen lassen. Sie leitet die Beurteilung schriftlich an das Umweltbundesamt.
+(1) Die Kommission hat die Aufgabe, Tätigkeiten der wissenschaftlichen Forschung sowie zu ihrer Vorbereitung oder Durchführung dienende Tätigkeiten in der Antarktis zu beurteilen, soweit diese Tätigkeiten mindestens geringfügige oder vorübergehende Auswirkungen auf die in § 3 Abs. 4 des Umweltschutzprotokoll-Ausführungsgesetzes genannten Schutzgüter besorgen lassen. Sie leitet die Beurteilung schriftlich oder elektronisch an das Umweltbundesamt.
 
 (2) Die Beurteilung erfolgt auf der Grundlage der in § 1 des Umweltschutzprotokoll-Ausführungsgesetzes genannten Ziele und Grundsätze.
 
@@ -74,9 +74,9 @@ Die Mitglieder der Kommission und ihre stellvertretenden Mitglieder sind unabhä
 
 (2) Beschlüsse über Beurteilungen nach § 5 werden möglichst einvernehmlich gefaßt.
 
-(3) Die Beschlußfassung der Kommission kann im schriftlichen Verfahren herbeigeführt werden. Weiteres regelt die Geschäftsordnung.
+(3) Die Beschlußfassung der Kommission kann im schriftlichen oder elektronischen Verfahren herbeigeführt werden. Weiteres regelt die Geschäftsordnung.
 
-(4) Wird eine einheitliche Auffassung nicht erzielt, werden die unterschiedlichen Meinungen im Ergebnisprotokoll, in der Beurteilung und im Tätigkeitsbericht schriftlich dargelegt. Das Minderheitsvotum ist zu begründen.
+(4) Wird eine einheitliche Auffassung nicht erzielt, werden die unterschiedlichen Meinungen im Ergebnisprotokoll, in der Beurteilung und im Tätigkeitsbericht schriftlich oder elektronisch dargelegt. Das Minderheitsvotum ist zu begründen.
 
 ### § 10 Zusammenarbeit mit dem Umweltbundesamt
 
