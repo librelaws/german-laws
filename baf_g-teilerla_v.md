@@ -2,7 +2,7 @@ Verordnung über den leistungsabhängigen Teilerlaß von Ausbildungsförderungsd
 ======================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 2.12.2004 I 3127
+Zuletzt geändert durch Art. 72 G v. 29.3.2017 I 626
 
 ### 
 
@@ -86,7 +86,7 @@ Führt die Änderung einer prüfungs- oder förderungsrechtlichen Entscheidung d
 
 ### § 11 Auskunftspflichten
 
-(1) Die Prüfungsstellen haben alle Prüfungsabsolventen auf die Möglichkeit eines leistungsabhängigen Teilerlasses von Ausbildungsförderungsdarlehen hinzuweisen und darauf hinzuwirken, daß die Geförderten eine schriftliche Erklärung abgeben, mit der sie die zur Vorbereitung der Entscheidung über den Darlehensteilerlaß notwendigen Angaben machen.
+(1) Die Prüfungsstellen haben alle Prüfungsabsolventen auf die Möglichkeit eines leistungsabhängigen Teilerlasses von Ausbildungsförderungsdarlehen hinzuweisen und darauf hinzuwirken, daß die Geförderten eine schriftliche oder elektronische Erklärung abgeben, mit der sie die zur Vorbereitung der Entscheidung über den Darlehensteilerlaß notwendigen Angaben machen.
 
 (2) In den in § 18b Abs. 2 Satz 4 und 6 des Gesetzes genannten Fällen sind die Prüfungsteilnehmer, die nach dem 31. Dezember 1983 Ausbildungsförderung erhalten haben, verpflichtet, der zuständigen Prüfungsstelle bei der Anmeldung zur Abschlußprüfung hiervon Kenntnis zu geben. Als Nachweis ist dieser Erklärung ein Bewilligungsbescheid oder eine entsprechende Bescheinigung des Amtes für Ausbildungsförderung beizufügen, das zuletzt mit einer Entscheidung über die Förderung befaßt war.
 
