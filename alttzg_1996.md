@@ -2,7 +2,7 @@ Altersteilzeitgesetz ()
 =======================
 
 Stand  
-Zuletzt geändert durch Art. 13 Abs. 7 G v. 12.4.2012 I 579
+Zuletzt geändert durch Art. 151 G v. 29.3.2017 I 626
 
 ### 
 
@@ -185,7 +185,7 @@ Die zu erstattende Leistung ist durch schriftlichen Verwaltungsakt festzusetzen.
 
 ### § 12 Verfahren
 
-(1) Die Agentur für Arbeit entscheidet auf schriftlichen Antrag des Arbeitgebers, ob die Voraussetzungen für die Erbringung von Leistungen nach § 4 vorliegen. Der Antrag wirkt vom Zeitpunkt des Vorliegens der Anspruchsvoraussetzungen, wenn er innerhalb von drei Monaten nach deren Vorliegen gestellt wird, andernfalls wirkt er vom Beginn des Monats der Antragstellung. In den Fällen des § 3 Abs. 3 kann die Agentur für Arbeit auch vorab entscheiden, ob die Voraussetzungen des § 2 vorliegen. Mit dem Antrag sind die Namen, Anschriften und Versicherungsnummern der Arbeitnehmer mitzuteilen, für die Leistungen beantragt werden. Zuständig ist die Agentur für Arbeit, in deren Bezirk der Betrieb liegt, in dem der Arbeitnehmer beschäftigt ist. Die Bundesagentur erklärt eine andere Agentur für Arbeit für zuständig, wenn der Arbeitgeber dafür ein berechtigtes Interesse glaubhaft macht.
+(1) Die Agentur für Arbeit entscheidet auf Antrag des Arbeitgebers, ob die Voraussetzungen für die Erbringung von Leistungen nach § 4 vorliegen. Der Antrag wirkt vom Zeitpunkt des Vorliegens der Anspruchsvoraussetzungen, wenn er innerhalb von drei Monaten nach deren Vorliegen gestellt wird, andernfalls wirkt er vom Beginn des Monats der Antragstellung. In den Fällen des § 3 Abs. 3 kann die Agentur für Arbeit auch vorab entscheiden, ob die Voraussetzungen des § 2 vorliegen. Mit dem Antrag sind die Namen, Anschriften und Versicherungsnummern der Arbeitnehmer mitzuteilen, für die Leistungen beantragt werden. Zuständig ist die Agentur für Arbeit, in deren Bezirk der Betrieb liegt, in dem der Arbeitnehmer beschäftigt ist. Die Bundesagentur erklärt eine andere Agentur für Arbeit für zuständig, wenn der Arbeitgeber dafür ein berechtigtes Interesse glaubhaft macht.
 
 (2) Die Höhe der Leistungen nach § 4 wird zu Beginn des Erstattungsverfahrens in monatlichen Festbeträgen für die gesamte Förderdauer festgelegt. Die monatlichen Festbeträge werden nur angepasst, wenn sich das berücksichtigungsfähige Regelarbeitsentgelt um mindestens 10 Euro verringert. Leistungen nach § 4 werden auf Antrag erbracht und nachträglich jeweils für den Kalendermonat ausgezahlt, in dem die Anspruchsvoraussetzungen vorgelegen haben. Leistungen nach § 10 Abs. 2 werden auf Antrag des Arbeitnehmers oder, im Falle einer Leistungserbringung des Arbeitgebers an den Arbeitnehmer gemäß § 10 Abs. 2 Satz 2, auf Antrag des Arbeitgebers monatlich nachträglich ausgezahlt.
 
@@ -252,6 +252,14 @@ Wurde mit der Altersteilzeit vor dem 1. April 2003 begonnen, gelten Arbeitnehmer
 ### § 15g Übergangsregelung zum Dritten Gesetz für moderne Dienstleistungen am Arbeitsmarkt
 
 Wurde mit der Altersteilzeitarbeit vor dem 1. Juli 2004 begonnen, sind die Vorschriften in der bis zum 30. Juni 2004 geltenden Fassung mit Ausnahme des § 15 weiterhin anzuwenden. Auf Antrag des Arbeitgebers erbringt die Bundesagentur abweichend von Satz 1 Leistungen nach § 4 in der ab dem 1. Juli 2004 geltenden Fassung, wenn die hierfür ab dem 1. Juli 2004 maßgebenden Voraussetzungen erfüllt sind.
+
+### § 15h Übergangsregelung zum Gesetz über Leistungsverbesserungen in der gesetzlichen Rentenversicherung
+
+Abweichend von § 5 Absatz 1 Nummer 2 erlischt der Anspruch auf die Leistungen nach § 4 nicht, wenn mit der Altersteilzeit vor dem 1. Januar 2010 begonnen worden ist und die Voraussetzungen für einen Anspruch auf eine Rente für besonders langjährig Versicherte nach § 236b des Sechsten Buches Sozialgesetzbuch erfüllt sind.
+
+### § 15i Übergangsregelung zum Gesetz zu Änderungen im Bereich der geringfügigen Beschäftigung
+
+Wurde mit der Altersteilzeit vor dem 1. Januar 2013 begonnen, gelten Arbeitnehmerinnen und Arbeitnehmer, die bis zu diesem Zeitpunkt in einer versicherungspflichtigen Beschäftigung nach dem Dritten Buch Sozialgesetzbuch gestanden haben, auch nach dem 31. Dezember 2012 als versicherungspflichtig beschäftigt, wenn sie die bis zum 31. Dezember 2012 geltenden Voraussetzungen für das Vorliegen einer versicherungspflichtigen Beschäftigung weiterhin erfüllen.
 
 ### § 16 Befristung der Förderungsfähigkeit
 
