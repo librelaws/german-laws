@@ -2,7 +2,7 @@ Allgemeine Verordnung zum Beschussgesetz (BeschussV)
 ====================================================
 
 Stand  
-Zuletzt geändert durch Art. 295 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 114 G v. 29.3.2017 I 626
 
 ### 
 
@@ -225,7 +225,7 @@ Abschnitt 2 Verfahren der Beschussprüfung
 
 ### § 7 Antragsverfahren
 
-(1) Die Beschussprüfung ist in schriftlicher oder elektronischer Form zu beantragen; die zuständige Behörde kann in begründeten Fällen Ausnahmen zulassen. Der Antrag kann die Prüfung mehrerer Gegenstände umfassen. Er muss folgende Angaben und Unterlagen enthalten:
+(1) Die Beschussprüfung ist schriftlich oder elektronisch zu beantragen; die zuständige Behörde kann in begründeten Fällen Ausnahmen zulassen. Der Antrag kann die Prüfung mehrerer Gegenstände umfassen. Er muss folgende Angaben und Unterlagen enthalten:
 
 1.  
 den Namen und die Anschrift des Antragstellers,
@@ -313,7 +313,7 @@ nach einer erstmaligen Prüfung und jeder weiteren Wiederholungsprüfung von Bö
 
 (2) Bei Feuerwaffen, die der Beschusspflicht unterliegen oder die historische Waffen sind, kann die zuständige Behörde auf Antrag eine Bescheinigung darüber ausstellen, dass eine Prüfung nicht oder nur unter der Gefahr einer Beschädigung oder Zerstörung der Waffe durchgeführt werden kann. Die Bescheinigung muss den Hinweis enthalten, dass die Waffe zum Schießen nicht mehr verwendet werden darf.
 
-(3) Für Prüfgegenstände, die die Beschussprüfung nicht bestanden haben, ist dem Antragsteller ein schriftlicher Prüfhinweis auszustellen,
+(3) Für Prüfgegenstände, die die Beschussprüfung nicht bestanden haben, ist dem Antragsteller ein schriftlicher oder elektronischer Prüfhinweis auszustellen,
 
 1.  
 aus dem die Daten des Prüfgegenstandes, der Grund der Zurückweisung und das Datum des Beschusses hervorgehen und
@@ -458,7 +458,7 @@ Abschnitt 4 Verfahren bei der Bauartzulassung
 
 ### § 18 Antragsverfahren
 
-(1) Die Bauartzulassung ist in schriftlicher oder elektronischer Form zu beantragen. Der Antragsteller hat in dem Antrag anzugeben:
+(1) Die Bauartzulassung ist schriftlich oder elektronisch zu beantragen. Der Antragsteller hat in dem Antrag anzugeben:
 
 1.  
 seinen Namen oder seine Firma und seine Anschrift, bei der Verbringung in den Geltungsbereich des Gesetzes den Namen oder die Firma und die Anschrift dessen, der die Gegenstände verbringt,
