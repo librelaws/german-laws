@@ -2,7 +2,7 @@ Gesetz über die Feststellung der Gleichwertigkeit von Berufsqualifikationen (BQ
 ==================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 22.12.2015 I 2572
+Zuletzt geändert durch Art. 150 G v. 29.3.2017 I 626
 
 ### 
 
@@ -113,7 +113,7 @@ eine Erklärung, dass bisher noch kein Antrag auf Feststellung der Gleichwertigk
 
 ### § 7 Form der Entscheidung
 
-(1) Die Entscheidung über den Antrag nach § 4 Absatz 1 ergeht durch schriftlichen Bescheid.
+(1) Die Entscheidung über den Antrag nach § 4 Absatz 1 ergeht durch schriftlichen oder elektronischen Bescheid.
 
 (2) Ist der Antrag abzulehnen, weil die Feststellung der Gleichwertigkeit wegen wesentlicher Unterschiede im Sinne des § 4 Absatz 2 nicht erfolgen kann, sind in der Begründung auch die vorhandenen Berufsqualifikationen der Antragstellerin oder des Antragstellers sowie die wesentlichen Unterschiede zwischen den vorhandenen Berufsqualifikationen und der entsprechenden inländischen Berufsbildung darzulegen.
 
@@ -261,7 +261,7 @@ Kapitel 3 Gemeinsame Vorschriften
 
 (2) Kommt die Antragstellerin oder der Antragsteller dieser Mitwirkungspflicht nicht nach und wird hierdurch die Aufklärung des Sachverhalts erheblich erschwert, kann die zuständige Stelle ohne weitere Ermittlungen entscheiden. Dies gilt entsprechend, wenn die Antragstellerin oder der Antragsteller in anderer Weise die Aufklärung des Sachverhalts erheblich erschwert.
 
-(3) Der Antrag darf wegen fehlender Mitwirkung nur abgelehnt werden, nachdem die Antragstellerin oder der Antragsteller auf die Folge schriftlich hingewiesen worden ist und der Mitwirkungspflicht nicht innerhalb einer angemessenen Frist nachgekommen ist.
+(3) Der Antrag darf wegen fehlender Mitwirkung nur abgelehnt werden, nachdem die Antragstellerin oder der Antragsteller auf die Folge hingewiesen worden ist und der Mitwirkungspflicht nicht innerhalb einer angemessenen Frist nachgekommen ist.
 
 ### § 16 Rechtsweg
 
