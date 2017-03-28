@@ -2,7 +2,10 @@ Verordnung über die Arbeitszeit der Beamtinnen und Beamten des Bundes (AZV)
 ===========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 11.12.2014 I 2191
+Zuletzt geändert durch Art. 8 G v. 29.3.2017 I 626
+
+Hinweis  
+Mittelbare Änderung durch Art. 10 G v. 8.6.2017 I 1570 ist berücksichtigt
 
 ### 
 
@@ -193,7 +196,7 @@ Zeiten der Rufbereitschaft sind keine Arbeitszeit. Hat die Beamtin oder der Beam
 
 (1) Bei Bereitschaftsdienst kann die regelmäßige tägliche Arbeitszeit und die regelmäßige wöchentliche Arbeitszeit entsprechend den dienstlichen Bedürfnissen angemessen verlängert werden. Hierbei darf in einem Bezugszeitraum von zwölf Monaten die durchschnittliche Arbeitszeit 48 Stunden im Siebentageszeitraum nicht überschreiten.
 
-(2) Unter Beachtung der allgemeinen Grundsätze der Sicherheit und des Gesundheitsschutzes kann die Arbeitszeit auf bis zu 54 Stunden im Siebentageszeitraum verlängert werden, wenn ein dienstliches Bedürfnis besteht und sich die Beamtin oder der Beamte hierzu schriftlich bereit erklärt. Beamtinnen und Beamten, die sich hierzu nicht bereit erklären, dürfen daraus keine Nachteile entstehen. Die Erklärung kann mit einer Frist von sechs Monaten widerrufen werden. Die Beamtinnen und Beamten sind auf die Widerrufsmöglichkeit schriftlich hinzuweisen.
+(2) Unter Beachtung der allgemeinen Grundsätze der Sicherheit und des Gesundheitsschutzes kann die Arbeitszeit auf bis zu 54 Stunden im Siebentageszeitraum verlängert werden, wenn ein dienstliches Bedürfnis besteht und sich die Beamtin oder der Beamte hierzu schriftlich oder elektronisch bereit erklärt. Beamtinnen und Beamten, die sich hierzu nicht bereit erklären, dürfen daraus keine Nachteile entstehen. Die Erklärung kann mit einer Frist von sechs Monaten widerrufen werden. Die Beamtinnen und Beamten sind auf die Widerrufsmöglichkeit schriftlich oder elektronisch hinzuweisen.
 
 (3) In den Dienstbehörden sind Listen aller Beamtinnen und Beamten zu führen, die eine nach Absatz 2 Satz 1 verlängerte Arbeitszeit leisten. Die Listen sind mindestens zwei Jahre aufzubewahren und den zuständigen Behörden zur Verfügung zu stellen. Auf Ersuchen sind die zuständigen Behörden über diese Beamtinnen und Beamten zu unterrichten.
 
