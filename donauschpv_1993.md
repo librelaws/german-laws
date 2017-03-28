@@ -2,10 +2,10 @@ Donauschiffahrtspolizeiverordnung (DonauSchPV)
 ==============================================
 
 Stand  
-Zuletzt geändert durch Art. 37 V v. 2.6.2016 I 1257
+Zuletzt geändert durch Art. 175 G v. 29.3.2017 I 626
 
 Hinweis  
-Änderung durch Art. 2 § 3 V v. 16.12.2016 I 2948 (Nr. 62) noch nicht berücksichtigt
+Änderung durch Art. 2 § 3 Nr. 1 V v. 21.9.2018 I 1398 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -21,7 +21,7 @@ Für die Schiffahrt auf der Bundeswasserstraße Donau zwischen Kehlheim (km 2414
 
 ### § 2 Ausnahmen
 
-Auf Fahrzeugen mit einer Fahrtauglichkeitsbescheinigung nach den §§ 5 und 6 dürfen Signallichter auch verwendet werden, wenn sie an Stelle der Voraussetzungen der Anlagen 4 und 5 zu der Anlage A zu dieser Verordnung den Vorschriften nach Anhang II § 7.05 der Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S. 2450), die zuletzt durch Artikel 1 der Verordnung vom 20. Dezember 2012 (BGBl. I S. 2802) geändert worden ist, in der jeweils geltenden und anzuwendenden Fassung, entsprechen.
+Auf Fahrzeugen mit einer Fahrtauglichkeitsbescheinigung nach den §§ 5 und 6 dürfen Signallichter auch verwendet werden, wenn sie an Stelle der Voraussetzungen der Anlagen 4 und 5 zu der Anlage A zu dieser Verordnung den Vorschriften nach Artikel 7.05 des Europäischen Standards der technischen Vorschriften für Binnenschiffe in der Edition 2017/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 7. März 2018 (BAnz AT 13.03.2018 B4)) (ES-TRIN), entsprechen.
 
 ### § 3 Zuständige Behörde
 
@@ -165,7 +165,8 @@ das Stilliegen nach den §§ 7.01, 7.05 Nr. 1 bis 5, den §§ 7.06, 7.07 Nr. 1, 
 b)  
 über Wache oder Aufsicht nach den § 7.08 Nr. 1, 3 Satz 1 oder § 8.14 Nr. 1 Satz 1 oder 2, auch in Verbindung mit Satz 4,
 
-zuwiderhandelt.  
+zuwiderhandelt.
+
 (5) Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Anlage A zu dieser Verordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer oder nach § 8.02 für Kurs und Geschwindigkeit verantwortliche Person
 
 1.  
@@ -246,7 +247,19 @@ entgegen § 6.22 vor dem Verbotszeichen nicht anhält oder entgegen § 6.22a an 
 entgegen § 6.35 Nr. 4 das Schleppseil leer nachzieht,
 
 15.  
-entgegen § 10.04 Nr. 1 einen talfahrenden Schleppverband nicht aufdreht oder
+entgegen § 10.04 Nr. 1 einen talfahrenden Schleppverband nicht aufdreht,
+
+15a.  
+entgegen § 10.09 Nummer 9 Buchstabe a nicht sicherstellt, dass das Inland AIS Gerät ständig eingeschaltet ist,
+
+15b.  
+entgegen § 10.09 Nummer 9 Buchstabe b nicht sicherstellt, dass die in das Inland AIS Gerät eingegebenen Daten zu jedem Zeitpunkt den tatsächlichen Daten des Fahrzeugs oder Verbandes entsprechen,
+
+15c.  
+entgegen § 10.09 Nummer 9 Buchstabe c nicht sicherstellt, dass das Inland AIS Gerät in dem in § 10.09 Nummer 2 Satz 3 genannten Fall ausgeschaltet ist,
+
+15d.  
+entgegen § 10.09 Nummer 9 Buchstabe d nicht sicherstellt, dass in dem in § 10.09 Nummer 3 Satz 1 genannten Fall ein Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, nicht oder nicht zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte genutzt wird oder,
 
 16.  
 entgegen § 12.01 Nr. 1 Satz 1 ein Altwasser befährt.
@@ -278,9 +291,18 @@ e)
 das entgegen § 2.01 Nr. 1 bis 3, 6 oder § 2.02 Nr. 1 Halbsatz 2, Nr. 2 oder 3 nicht oder nicht vorschriftsmäßig gekennzeichnet ist,
 
 f)  
-an Bord dessen entgegen § 8.05 Satz 2 ein Abdruck der Anlage A zu dieser Verordnung oder einer Rechtsverordnung nach § 8.05 Satz 1 in jeweils geltender Fassung nicht mitgeführt wird oder
+an Bord dessen entgegen § 8.05 Satz 2 ein Abdruck der Anlage A zu dieser Verordnung oder einer Rechtsverordnung nach § 8.05 Satz 1 in jeweils geltender Fassung nicht mitgeführt wird,
 
 g)  
+das entgegen § 10.09 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgestattet ist,
+
+h)  
+das entgegen § 10.09 Nummer 3 Satz 1 in dem dort genannten Fall nicht mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist,
+
+i)  
+das entgegen § 10.09 Nummer 8 in dem dort genannten Fall nicht mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist oder,
+
+j)  
 das entgegen § 13.04 Nr. 2 Satz 1 tiefer als zulässig eintaucht oder die Schleuse ohne Erlaubnis nach § 13.04 Nr. 2 Satz 2 durchfährt,
 
 4.  
@@ -369,6 +391,9 @@ einer Vorschrift des § 10.06 Nr. 1, 2 Satz 2 oder § 10.08 Satz 1 über das Mit
 24.  
 entgegen § 10.07 außerhalb eines Schubverbandes einen Schubleichter oder ein anderes Fahrzeug ohne Ruderanlage fortbewegt,
 
+24a.  
+entgegen § 10.09 Nummer 4 die dort genannten Daten nicht, nicht vollständig oder nicht rechtzeitig übermittelt oder entgegen § 10.09 Nummer 5 die dort genannten Daten bei Änderungen nicht, nicht vollständig oder nicht rechtzeitig aktualisiert,
+
 25.  
 entgegen § 13.02 Satz 1 die dort genannten Fahrzeuge oder Schwimmkörper einsetzt,
 
@@ -405,9 +430,18 @@ d)
 das entgegen § 2.01 Nr. 1 bis 3, 6 oder § 2.02 Nr. 1 Halbsatz 2, Nr. 2 oder 3 nicht oder nicht vorschriftsmäßig gekennzeichnet ist,
 
 e)  
-das entgegen § 2.03 nicht geeicht ist oder
+das entgegen § 2.03 nicht geeicht ist,
 
 f)  
+das entgegen § 10.09 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgestattet ist,
+
+g)  
+das entgegen § 10.09 Nummer 3 Satz 1 in dem dort genannten Fall nicht mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, ausgestattet ist,
+
+h)  
+das entgegen § 10.09 Nummer 8 in dem dort genannten Fall nicht mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist oder,
+
+i)  
 das entgegen § 13.04 Nr. 2 Satz 1 tiefer als zugelassen eintaucht oder nicht über die erforderliche Erlaubnis nach § 13.04 Nr. 2 Satz 2 zur Durchfahrt der Schleuse verfügt,
 
 4.  
