@@ -2,7 +2,7 @@ Verordnung über Arbeiten in Druckluft ()
 ========================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 23.10.2013 I 3882
+Zuletzt geändert durch Art. 103 G v. 29.3.2017 I 626
 
 ### 
 
@@ -137,7 +137,9 @@ Beschreibung und Übersichtszeichnungen der Arbeitskammer, der Schleusen und der
 5.  
 Angaben über die Einrichtungen nach § 17 Abs. 1.
 
-(3) Sind nach Erstattung der Anzeige Veränderungen gegenüber dem Inhalt der Anzeige oder der Unterlagen eingetreten oder vorgesehen, ist dies der zuständigen Behörde unverzüglich schriftlich anzuzeigen.
+(3) Sind nach Erstattung der Anzeige Veränderungen gegenüber dem Inhalt der Anzeige oder der Unterlagen eingetreten oder vorgesehen, ist dies der zuständigen Behörde unverzüglich schriftlich oder elektronisch anzuzeigen.
+
+(4) Erfolgt die Anzeige nach Absatz 1 oder nach Absatz 3 elektronisch, kann die zuständige Behörde Mehrfertigungen sowie die Übermittlung der beizufügenden Unterlagen auch in schriftlicher Form verlangen.
 
 ### § 4 Allgemeine Anforderungen
 
@@ -153,7 +155,7 @@ Die Arbeitskammern und die ihrem Betrieb dienenden Einrichtungen müssen den üb
 
 ### § 6 Ausnahmebewilligung
 
-Die zuständige Behörde kann von den Vorschriften des § 4 Abs. 1, § 9 Abs. 1, § 21 Abs. 4 und von dem Beschäftigungsverbot für Arbeitnehmer, die das 50. Lebensjahr vollendet haben (§ 9 Abs. 2), Ausnahmen zulassen, wenn hierfür besondere Gründe vorliegen und der Schutz der Arbeitnehmer auf andere Weise gewährleistet ist. Die Ausnahmezulassung ist schriftlich zu beantragen. Dem Antrag ist bei einer Abweichung von den Regelungen des § 4 Abs. 1 ein Gutachten eines behördlich anerkannten Sachverständigen und bei einer Abweichung von den Regelungen des § 9 Abs. 1, 2 oder § 21 Abs. 4 ein Gutachten eines ermächtigten Arztes beizufügen, das jeweils dokumentiert, ob der Schutz der Arbeitnehmer gewährleistet ist. Über den Antrag ist innerhalb einer Frist von vier Wochen nach Eingang bei der zuständigen Behörde zu entscheiden. Die Frist kann in begründeten Fällen verlängert werden. Die Zulassung gilt als erteilt, wenn die zuständige Behörde nicht innerhalb der genannten Frist die Beschäftigung der Arbeitnehmer untersagt.
+Die zuständige Behörde kann von den Vorschriften des § 4 Abs. 1, § 9 Abs. 1, § 21 Abs. 4 und von dem Beschäftigungsverbot für Arbeitnehmer, die das 50. Lebensjahr vollendet haben (§ 9 Abs. 2), Ausnahmen zulassen, wenn hierfür besondere Gründe vorliegen und der Schutz der Arbeitnehmer auf andere Weise gewährleistet ist. Die Ausnahmezulassung ist schriftlich oder elektronisch zu beantragen. Dem Antrag ist bei einer Abweichung von den Regelungen des § 4 Abs. 1 ein Gutachten eines behördlich anerkannten Sachverständigen und bei einer Abweichung von den Regelungen des § 9 Abs. 1, 2 oder § 21 Abs. 4 ein Gutachten eines ermächtigten Arztes beizufügen, das jeweils dokumentiert, ob der Schutz der Arbeitnehmer gewährleistet ist. Erfolgt die Antragstellung elektronisch, kann die zuständige Behörde Mehrfertigungen sowie die Übermittlung der dem Antrag beizufügenden Unterlagen auch in schriftlicher Form verlangen. Über den Antrag ist innerhalb einer Frist von vier Wochen nach Eingang bei der zuständigen Behörde zu entscheiden. Die Frist kann in begründeten Fällen verlängert werden. Die Zulassung gilt als erteilt, wenn die zuständige Behörde nicht innerhalb der genannten Frist die Beschäftigung der Arbeitnehmer untersagt.
 
 ### § 7 Prüfung durch Sachverständige
 
@@ -409,10 +411,10 @@ ein Verzeichnis der nach § 18 bestellten Fachkräfte unter Angabe von Name und 
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  
-entgegen § 3 Abs. 1, 2 Satz 1 oder Abs. 3 eine Anzeige nicht, nicht richtig, nicht vollständig , nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
+entgegen § 3 Absatz 1, 2 Satz 1, Absatz 3 oder 4 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
 2.  
-entgegen § 3 Abs. 2 Satz 2 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beifügt,
+entgegen § 3 Absatz 2 Satz 2 oder Absatz 4 eine Unterlage nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig beifügt,
 
 3.  
 entgegen § 7 Abs. 1 eine Arbeitskammer betreibt,
