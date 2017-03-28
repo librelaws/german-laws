@@ -2,7 +2,7 @@ Gesetz über die Statistik des grenzüberschreitenden Warenverkehrs (AHStatGes)
 =============================================================================
 
 Stand  
-Zuletzt geändert durch Art. 10 G v. 25.4.2007 I 594
+Zuletzt geändert durch Art. 116 G v. 29.3.2017 I 626
 
 ### 
 
@@ -29,7 +29,7 @@ Zuletzt geändert durch Art. 10 G v. 25.4.2007 I 594
 Bei der Anmeldung werden folgende Tatbestände erfaßt:
 
 1.  
-Anschrift der Auskunftspflichtigen nach § 4; Name des Schiffes oder Zulassungszeichen des Luftfahrzeuges; Ankunfts- oder Verladetag; Ein-, Um- oder Ausladehafen; im Freihafenverkehr das Lager oder der Betrieb; Anlaß der Warenbewegung; Verkehrsart;
+Name des Schiffes oder Zulassungszeichen des Luftfahrzeuges; Ankunfts- oder Verladetag; Ein-, Um- oder Ausladehafen; im Freihafenverkehr das Lager oder der Betrieb; Anlaß der Warenbewegung; Verkehrsart;
 
 2.  
 Benennung der Ware; Menge; Wert; Wertstellung; für den Warenverkehr maßgebende Währung; Herstellungs- oder Verbrauchsland, Versendungsland, Zielort oder Herstellungsort im Erhebungsgebiet; Verpackungsart und -merkmale oder das Beförderungsmittel; Anzahl und Merkzeichen der Güter;
@@ -50,6 +50,38 @@ bei Zwischenauslandsverkehr: das Land, durch dessen Gebiet die Waren gesandt wer
 
 \*)  
 Gem. Art. 4 iVm Art. 13 der Statistikänderungsverordnung vom 20.11.1996 I 1804 (StatÄndV 29-22-4) werden die Erhebungen mWv 27.11.1996 bis zum 30.6.2000 ausgesetzt
+
+### § 3a
+
+Hilfsmerkmale der Erhebungen sind
+
+1.  
+für den Bereich der Statistiken über den Warenverkehr zwischen den Mitgliedstaaten der Europäischen Union (Intrahandelsstatistik)
+
+a)  
+Name, Anschrift, Telefon- und Telefaxnummern sowie Adresse für elektronische Post der Auskunftspflichtigen nach § 4,
+
+b)  
+Steuernummer aus der Umsatzsteuer-Voranmeldung und die Umsatzsteuer-Identifikationsnummer der Auskunftspflichtigen,
+
+c)  
+Name und Kontaktdaten der für Rückfragen zur Verfügung stehenden Personen;
+
+2.  
+für den Bereich der Statistiken über den Warenverkehr mit Drittländern (Extrahandelsstatistik)
+
+a)  
+Name, Anschrift, Telefon- und Telefaxnummern sowie Adresse für elektronische Post der Auskunftspflichtigen nach § 4,
+
+b)  
+EORI-Nummer, TCUI, Steuernummer aus der Umsatzsteuer-Voranmeldung und Umsatzsteuer-Identifikationsnummer der Auskunftspflichtigen nach § 4,
+
+c)  
+Name und Kontaktdaten der für Rückfragen zur Verfügung stehenden Personen.
+
+### § 3b
+
+Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 3a Nummer 1 werden gegenüber dem Statistischen Bundesamt erteilt, die Angaben zu § 3a Nummer 2 gegenüber dem Statistischen Bundesamt oder den Anmeldestellen nach § 5 Absatz 1. Die Angaben zu § 3a Nummer 1 Buchstabe c und Nummer 2 Buchstabe c sind freiwillig.
 
 ### § 4
 
@@ -106,7 +138,7 @@ soweit andere Rechtsvorschriften über die Wareneinfuhr und die Warenausfuhr die
 
 (2) Für jedes von See in einen Freihafen beladen eingehende und für jedes seewärts oder auf einem Binnengewässer beladen ausgehende Schiff ist vom Verfrachter oder Frachtführer oder, wenn kein Frachtgeschäft vorliegt, vom Besitzer der Ladung der Anmeldestelle ein Ladungsverzeichnis einzureichen. Bei aus Freihäfen nach See ausgehenden Schiffen kann von der Anmeldestelle, soweit Schiffszettel oder sonstige Verlade- oder Übergabepapiere eingeführt sind, eine Ausfertigung eines dieser Papiere vom Verlader verlangt werden.
 
-(3) Die Ladungsverzeichnisse nach Absatz 2 müssen folgende Angaben enthalten: Anzahl, Verpackungsart und Merkzeichen der Packstücke sowie in deutscher Sprache Benennung und Menge der geladenen Waren, und zwar in Übereinstimmung mit den Konnossementen oder sonstigen Ladungspapieren, ferner die Namen der Auskunftspflichtigen nach § 4. Die Angaben über die Waren sind in den Ladungsverzeichnissen nach Einlade- oder Ausladehäfen zu ordnen. Beim Ausgang sind die Sendungen in laufender Nummernfolge in die Ladungsverzeichnisse einzutragen. Auf den Konnossementen sind diese Nummern anzugeben. Die Ladungsverzeichnisse müssen die Erklärung des Verfrachters oder Frachtführers enthalten, daß in ihnen alle in den Schiffen verladenen Waren verzeichnet sind. Bei unbeladenen Schiffen ist vom Schiffsführer schriftlich zu erklären, daß das Schiff unbeladen ist. Die Ladungsverzeichnisse der von See in einen Freihafen zum Löschen eingehenden Schiffe sind innerhalb acht Tagen nach der Ankunft der Schiffe einzureichen. Für die aus den Freihäfen nach See ausgehenden Schiffe sind die Ladungsverzeichnisse binnen acht Tagen, für die aus anderen Seehäfen nach See ausgehenden Schiffe binnen drei Tagen nach der Abfahrt der Schiffe einzureichen, falls der Verfrachter eine Niederlassung oder eine ständige Vertretung (Makler, Agentur) im Ausgangshafen hat. In anderen Fällen ist das Ladungsverzeichnis der ausgehenden Schiffe sogleich nach Beendigung der Verladung einzureichen. Auf Anfordern sind den Anmeldestellen auch über die Sendung vorhandene Konnossemente, Frachtkarten und Ladelisten zur Einsicht vorzulegen.
+(3) Die Ladungsverzeichnisse nach Absatz 2 müssen folgende Angaben enthalten: Anzahl, Verpackungsart und Merkzeichen der Packstücke sowie in deutscher Sprache Benennung und Menge der geladenen Waren, und zwar in Übereinstimmung mit den Konnossementen oder sonstigen Ladungspapieren, ferner die Namen der Auskunftspflichtigen nach § 4. Die Angaben über die Waren sind in den Ladungsverzeichnissen nach Einlade- oder Ausladehäfen zu ordnen. Beim Ausgang sind die Sendungen in laufender Nummernfolge in die Ladungsverzeichnisse einzutragen. Auf den Konnossementen sind diese Nummern anzugeben. Die Ladungsverzeichnisse müssen die Erklärung des Verfrachters oder Frachtführers enthalten, daß in ihnen alle in den Schiffen verladenen Waren verzeichnet sind. Bei unbeladenen Schiffen ist vom Schiffsführer schriftlich oder elektronisch zu erklären, daß das Schiff unbeladen ist. Die Ladungsverzeichnisse der von See in einen Freihafen zum Löschen eingehenden Schiffe sind innerhalb acht Tagen nach der Ankunft der Schiffe einzureichen. Für die aus den Freihäfen nach See ausgehenden Schiffe sind die Ladungsverzeichnisse binnen acht Tagen, für die aus anderen Seehäfen nach See ausgehenden Schiffe binnen drei Tagen nach der Abfahrt der Schiffe einzureichen, falls der Verfrachter eine Niederlassung oder eine ständige Vertretung (Makler, Agentur) im Ausgangshafen hat. In anderen Fällen ist das Ladungsverzeichnis der ausgehenden Schiffe sogleich nach Beendigung der Verladung einzureichen. Auf Anfordern sind den Anmeldestellen auch über die Sendung vorhandene Konnossemente, Frachtkarten und Ladelisten zur Einsicht vorzulegen.
 
 (4) Im Zoll- und Freihafenverkehr können zur Sicherung der Anmeldung auch weitere am Warenverkehr und Transport beteiligte Personen durch Rechtsverordnung verpflichtet werden, Angaben über Waren, deren Herkunft, Bestimmung und Verbleib zu machen; örtliche Schiffsmeldestellen können verpflichtet werden, den Ein- und Ausgang der Schiffe der Anmeldestelle anzuzeigen.
 
@@ -152,9 +184,9 @@ nach einer auf Grund des § 7 Abs. 4 und des § 13 Nr. 1 erlassenen Rechtsverord
 
 ### § 11
 
-(1) Die Weiterleitung von Einzelangaben für den Dienstgebrauch der fachlich zuständigen obersten Bundes- und Landesbehörden ist zugelassen, wenn der Name der Auskunftspflichtigen nicht bekanntgegeben wird.
+(1) Das Statistische Bundesamt darf für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, Tabellen mit statistischen Ergebnissen an die fachlich zuständigen obersten Bundes- und Landesbehörden übermitteln, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
-(2) Die Ergebnisse der Außenhandelsstatistik können nach Waren, nach fremden Ländern und nach Bundesländern gegliedert veröffentlicht werden, wenn der Name der Auskunftspflichtigen nicht bekanntgegeben wird.
+(2) Das Statistische Bundesamt darf zur Berichterstattung der Bundesregierung über ihre Exportpolitik für konventionelle Rüstungsgüter die Angaben nach § 3 Nummer 2 zur Benennung der Ware an die fachlich zuständigen obersten Bundesbehörden übermitteln, soweit sie der Einordnung der Ware als ziviles Gut oder konventionelles Rüstungsgut dienen.
 
 ### § 12
 
@@ -162,7 +194,7 @@ Abkommen mit fremden Staaten bleiben unberührt.
 
 ### § 13
 
-Das Bundesministerium für Wirtschaft und Technologie und das Bundesministerium der Finanzen werden ermächtigt, im Einvernehmen miteinander
+Das Bundesministerium für Wirtschaft und Energie und das Bundesministerium der Finanzen werden ermächtigt, im Einvernehmen miteinander
 
 1.  
 die in § 4 Abs. 3, § 5 Abs. 2, § 6 Abs. 3, § 7 Abs. 4 und § 8 vorgesehenen Rechtsverordnungen zu erlassen;
