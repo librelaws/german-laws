@@ -2,7 +2,7 @@ Verordnung über die Ausstellung von Bescheinigungen nach dem Ölschadengesetz (
 ========================================================================================================================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 12.7.2006 I 1461 u. Bek. v. 14.10.2008 I 2070
+Zuletzt geändert durch Art. 61 G v. 29.3.2017 I 626
 
 ### 
 
@@ -30,7 +30,7 @@ Für die Ausstellung und Einziehung der Ölhaftungsbescheinigungen ist das Bunde
 
 ### § 3 Voraussetzungen
 
-(1) Die Ausstellung einer Ölhaftungsbescheinigung setzt einen schriftlichen Antrag des Eigentümers voraus. Der Antrag muß enthalten:
+(1) Die Ausstellung einer Ölhaftungsbescheinigung setzt einen schriftlichen oder elektronischen Antrag des Eigentümers voraus. Der Antrag muß enthalten:
 
 1.  
 den Namen, das Unterscheidungssignal und den Heimathafen des Schiffes;
@@ -96,9 +96,7 @@ im Fall des § 1 Abs. 1 Nr. 2 des Ölschadengesetzes nach dem Muster der Anlage 
 
 (4) Ist eine Ölhaftungsbescheinigung unbrauchbar geworden oder wird glaubhaft gemacht, daß sie verloren gegangen ist, wird auf Verlangen eine Ersatzausfertigung ausgestellt. Die unbrauchbar gewordene Ölhaftungsbescheinigung ist zurückzugeben.
 
-### § 4a
-
-Soweit durch diese Rechtsverordnung Schriftform angeordnet ist oder Zeugnisse, Bescheinigungen oder andere Dokumente ausgestellt werden, deren Ausstellung schriftlich zu beantragen ist, sie auszuhändigen, vorzulegen oder mitzuführen sind, ist die elektronische Form ausgeschlossen.
+### § 4a (weggefallen)
 
 ### § 5 Pflichten des Eigentümers
 
@@ -118,7 +116,7 @@ zur Erlangung der Ölhaftungsbescheinigung unrichtige oder unvollständige Angab
 
 (1) Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 1 des Ölschadengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 5 eine Mitteilung nicht oder nicht rechtzeitig macht.
 
-(2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 sowie nach § 8 Abs. 1 Nr. 2 bis 4 des Ölschadengesetzes wird auf das Bundesamt für Seeschiffahrt und Hydrographie übertragen.
+(2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 sowie nach § 8 Absatz 1 Nummer 2 bis 4 und Absatz 2 des Ölschadengesetzes wird auf das Bundesamt für Seeschiffahrt und Hydrographie übertragen.
 
 ### Anlage 1 (zu § 4 Abs. 1)
 
