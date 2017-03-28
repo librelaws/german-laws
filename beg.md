@@ -2,10 +2,7 @@ Bundesgesetz zur Entschädigung für Opfer der nationalsozialistischen Verfolgun
 =====================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 15 Abs. 63 G v. 5.2.2009 I 160
-
-Hinweis  
-Änderung durch Art. 11 G v. 23.7.2013 I 2586 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 81 G v. 29.3.2017 I 626
 
 ### 
 
@@ -2373,11 +2370,11 @@ Für die Anspruchsberechtigung nach diesem Gesetz oder nach weitergehendem Lande
 
 (2) Verlangen die Entschädigungsorgane die Vorlage eines Erbscheins, so hat das Nachlaßgericht auf Antrag des Erben einen Erbschein für den Entschädigungsanspruch zu erteilen; hierbei hat das Nachlaßgericht nicht zu prüfen, ob der Erbe nach diesem Gesetz entschädigungsberechtigt ist. In dem Erbschein ist anzugeben, ob der Erbe Ehegatte des Verfolgten oder ob und wie er mit ihm verwandt war. Für die Erteilung eines solchen Erbscheins ist die Todesvermutung des § 180 Abs. 1 oder, falls im Entschädigungsverfahren nach § 180 Abs. 2 ein anderer Zeitpunkt des Todes festgestellt worden ist, diese Feststellung maßgebend.
 
-(3) Die Erteilung des Erbscheins für den Entschädigungsanspruch einschließlich des vorausgegangenen Verfahrens ist gebühren- und auslagenfrei. Dies gilt nicht für die Abnahme der eidesstattlichen Versicherung nach § 2356 Absatz 2 des Bürgerlichen Gesetzbuchs.
+(3) Die Erteilung des Erbscheins für den Entschädigungsanspruch einschließlich des vorausgegangenen Verfahrens ist gebühren- und auslagenfrei. Dies gilt nicht für die Abnahme der eidesstattlichen Versicherung nach § 352 Absatz 3 Satz 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
 ### § 182
 
-(1) Bei der Regelung der Ansprüche auf Entschädigung für Schaden an einer Versicherung außerhalb der Sozialversicherung sind die beteiligten Versicherungseinrichtungen auf Verlangen der Entschädigungsorgane zur Mitwirkung verpflichtet; sie haben insbesondere die erforderlichen Berechnungen vorzunehmen und aus Büchern oder Akten schriftlich oder mündlich Auskünfte zu geben.
+(1) Bei der Regelung der Ansprüche auf Entschädigung für Schaden an einer Versicherung außerhalb der Sozialversicherung sind die beteiligten Versicherungseinrichtungen auf Verlangen der Entschädigungsorgane zur Mitwirkung verpflichtet; sie haben insbesondere die erforderlichen Berechnungen vorzunehmen und aus Büchern oder Akten Auskünfte zu geben.
 
 (2) Die Entschädigungsorgane sollen bei der Entscheidung über den Entschädigungsanspruch die zuständige Versicherungsaufsichtsbehörde zu den Berechnungen und Auskünften der beteiligten Versicherungseinrichtungen hören.
 
@@ -2591,7 +2588,7 @@ die Entscheidungsformel einschließlich etwaiger Leistungsvorbehalte,
 den Hinweis, daß Klage erhoben werden kann, soweit der Anspruch abgelehnt worden ist, und die Belehrung, in welcher Form, innerhalb welcher Frist sowie bei welchem Gericht die Klage zu erheben ist,
 
 4.  
-das Datum und die Unterschrift.
+das Datum und die Unterschrift oder die Namenswiedergabe des Behördenleiters, seines Vertreters oder seines Beauftragten.
 
 (3) Der Bescheid soll enthalten
 
