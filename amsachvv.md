@@ -2,7 +2,7 @@ Verordnung zur Errichtung von Sachverständigen-Ausschüssen für Standardzulass
 ===========================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 53 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 46 G v. 29.3.2017 I 626
 
 ### 
 
@@ -197,7 +197,7 @@ ein Vertreter der veterinärpharmazeutischen Industrie.
 
 (2) Wiederholte Berufungen sind zulässig.
 
-(3) Mitglieder und Stellvertreter können durch schriftliche Erklärung gegenüber dem Bundesministerium ihre Mitgliedschaft in einem Ausschuß jederzeit beenden.
+(3) Mitglieder und Stellvertreter können durch eine Erklärung gegenüber dem Bundesministerium ihre Mitgliedschaft in einem Ausschuß jederzeit beenden.
 
 (4) Die Tätigkeit in den Ausschüssen wird ehrenamtlich ausgeübt.
 
