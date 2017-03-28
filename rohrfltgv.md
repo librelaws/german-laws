@@ -2,7 +2,7 @@ Verordnung über Rohrfernleitungsanlagen ()
 ==========================================
 
 Stand  
-Zuletzt geändert durch Art. 280 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 99 G v. 29.3.2017 I 626
 
 ### 
 
@@ -73,7 +73,7 @@ Regelungen zur Überwachung der Anlage und zur Dokumentation der Überwachungsda
 4.  
 Regelungen zur regelmäßigen Schulung des Personals.
 
-Der Betreiber hat im Rahmen dieses Systems die für den bestimmungsgemäßen Betrieb, für Betriebsstörungen und für die Überwachung der Rohrfernleitungsanlage erforderlichen Anordnungen schriftlich festzulegen, regelmäßig zu aktualisieren und allen Mitarbeitern zugänglich zu machen.
+Der Betreiber hat im Rahmen dieses Systems die für den bestimmungsgemäßen Betrieb, für Betriebsstörungen und für die Überwachung der Rohrfernleitungsanlage erforderlichen Anordnungen schriftlich oder elektronisch festzulegen, regelmäßig zu aktualisieren und allen Mitarbeitern zugänglich zu machen.
 
 (5) Zur Erfüllung der Anforderungen nach § 3 und den Absätzen 1 bis 4 kann die zuständige Behörde die im Einzelfall erforderlichen Anordnungen treffen.
 
@@ -82,7 +82,7 @@ Der Betreiber hat im Rahmen dieses Systems die für den bestimmungsgemäßen Bet
 (1) Wer die Errichtung oder wesentliche Änderung einer Rohrfernleitungsanlage im Sinne von § 2 Absatz 2 Satz 1 Nummer 2 beabsichtigt, hat
 
 1.  
-das Vorhaben mindestens acht Wochen vor dem vorgesehenen Beginn der zuständigen Behörde unter Beifügung aller für die Beurteilung der Sicherheit erforderlichen Unterlagen schriftlich anzuzeigen und zu beschreiben sowie
+das Vorhaben mindestens acht Wochen vor dem vorgesehenen Beginn der zuständigen Behörde unter Beifügung aller für die Beurteilung der Sicherheit erforderlichen Unterlagen schriftlich oder elektronisch anzuzeigen und zu beschreiben sowie
 
 2.  
 der Anzeige die gutachtliche Stellungnahme einer Prüfstelle nach § 6 beizufügen, aus der hervorgeht, dass die angegebene Bauart und Betriebsweise den Anforderungen des § 3 entsprechen.
@@ -202,7 +202,7 @@ Ereignisse mit Sachschäden von mehr als zwei Millionen Euro aufgetreten sind od
 6.  
 Stoffe nach § 2 Abs. 1 ausgetreten oder andere außergewöhnliche, von der Anlage ausgehende Emissionen erfolgt sind.
 
-(3) Die zuständige Behörde kann von dem Betreiber verlangen, dass dieser den anzuzeigenden Schadensfall auf seine Kosten durch eine Prüfstelle nach § 6 sicherheitstechnisch beurteilen lässt und ihr die Beurteilung schriftlich vorlegt. Die sicherheitstechnische Beurteilung des Schadensfalls hat sich insbesondere auf die Feststellung zu erstrecken,
+(3) Die zuständige Behörde kann von dem Betreiber verlangen, dass dieser den anzuzeigenden Schadensfall auf seine Kosten durch eine Prüfstelle nach § 6 sicherheitstechnisch beurteilen lässt und ihr die Beurteilung schriftlich oder elektronisch vorlegt. Die sicherheitstechnische Beurteilung des Schadensfalls hat sich insbesondere auf die Feststellung zu erstrecken,
 
 1.  
 worauf der Schadensfall zurückzuführen ist,
