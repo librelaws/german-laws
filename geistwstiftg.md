@@ -2,7 +2,7 @@ Gesetz zur Errichtung einer Stiftung Deutsche Geisteswissenschaftliche Institute
 =========================================================================================================
 
 Stand  
-Geändert durch Art. 1 G v. 31.7.2009 I 2622
+Zuletzt geändert durch Art. 77 G v. 29.3.2017 I 626
 
 ### 
 
@@ -105,7 +105,7 @@ Als Mitglieder nach Satz 2 Nummer 2 und 3 können nur Wissenschaftlerinnen oder 
 
 (2) An den Sitzungen des Stiftungsrates nehmen zwei Mitglieder der Direktionsversammlung, zwei Mitglieder der Versammlung der Beiratsvorsitzenden, die Geschäftsführerin oder der Geschäftsführer sowie je eine Vertreterin oder ein Vertreter des Personals und der wissenschaftlichen Mitarbeiterinnen und Mitarbeiter als ständige Gäste mit Antrags- und Rederecht teil. Durch Satzung können weitere Personen zur Teilnahme zugelassen werden.
 
-(3) Der Stiftungsrat ist beschlussfähig, wenn mindestens die Hälfte der Mitglieder anwesend oder vertreten ist. Der Stiftungsrat fasst seine Beschlüsse mit einfacher Mehrheit der anwesenden oder sich an einer schriftlichen Abstimmung beteiligenden Mitglieder, soweit nicht in diesem Gesetz oder der Satzung etwas anderes vorgesehen ist. Bei Stimmengleichheit gibt die Stimme des oder der Vorsitzenden den Ausschlag. Wirtschaftsplanangelegenheiten, die Bestellung von Direktorinnen und Direktoren sowie Satzungsänderungen dürfen nicht gegen die Stimmen der vom Bund benannten Mitglieder entschieden werden. Der Stiftungsrat holt vor strategisch bedeutsamen und zentral haushaltsrelevanten Entscheidungen die Stellungnahme der Direktionsversammlung ein; die Einzelheiten regelt die Satzung.
+(3) Der Stiftungsrat ist beschlussfähig, wenn mindestens die Hälfte der Mitglieder anwesend oder vertreten ist. Der Stiftungsrat fasst seine Beschlüsse mit einfacher Mehrheit der anwesenden oder sich an einer schriftlichen oder elektronischen Abstimmung beteiligenden Mitglieder, soweit nicht in diesem Gesetz oder der Satzung etwas anderes vorgesehen ist. Bei Stimmengleichheit gibt die Stimme des oder der Vorsitzenden den Ausschlag. Wirtschaftsplanangelegenheiten, die Bestellung von Direktorinnen und Direktoren sowie Satzungsänderungen dürfen nicht gegen die Stimmen der vom Bund benannten Mitglieder entschieden werden. Der Stiftungsrat holt vor strategisch bedeutsamen und zentral haushaltsrelevanten Entscheidungen die Stellungnahme der Direktionsversammlung ein; die Einzelheiten regelt die Satzung.
 
 ### § 8 Direktionsversammlung
 
