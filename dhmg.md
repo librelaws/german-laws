@@ -2,7 +2,7 @@ Gesetz zur Errichtung einer Stiftung „Deutsches Historisches Museum“ ()
 =======================================================================
 
 Stand  
-Geändert durch Art. 1 G v. 14.6.2010 I 784
+Zuletzt geändert durch Art. 79 G v. 29.3.2017 I 626
 
 ### 
 
@@ -110,7 +110,7 @@ Für jedes Mitglied ist für den Fall der Verhinderung ein stellvertretendes Mit
 
 (1) Die Präsidentin oder der Präsident wird vom Kuratorium nach Anhörung des wissenschaftlichen Beirates berufen. Erster Präsident der Stiftung wird der bisherige Geschäftsführer der Deutsches Historisches Museum-GmbH.
 
-(2) Die Präsidentin oder der Präsident hat dem Kuratorium entsprechend § 90 des Aktiengesetzes zu berichten. Die in § 90 Abs. 1 Satz 1 des Aktiengesetzes genannten Berichte sind schriftlich zu erstatten.
+(2) Die Präsidentin oder der Präsident hat dem Kuratorium entsprechend § 90 des Aktiengesetzes zu berichten. Die in § 90 Abs. 1 Satz 1 des Aktiengesetzes genannten Berichte sind schriftlich oder elektronisch zu erstatten.
 
 (3) Die Präsidentin oder der Präsident führt die Geschäfte der Stiftung, vollzieht die Beschlüsse des Kuratoriums, entscheidet in allen Angelegenheiten, soweit dafür nicht das Kuratorium zuständig ist, und vertritt die Stiftung gerichtlich und außergerichtlich.
 
