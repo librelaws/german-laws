@@ -2,12 +2,13 @@ Verordnung über die Entgelte für den Zugang zu Gasversorgungsnetzen (GasNEV)
 ============================================================================
 
 Stand  
-Zuletzt geändert durch Art. 17 G v. 28.7.2015 I 1400
+Zuletzt geändert durch Art. 118 G v. 29.3.2017 I 626
 
 ### 
 
 ```
 (+++ Textnachweis ab: 28.7.2005 +++)
+(+++ Zur Anwendung d. § 15 vgl. § 7 MessbG +++)
 ```
 
 ### Eingangsformel
@@ -115,7 +116,7 @@ die überwiegende Zahl der Ausspeisepunkte dieses Netzes in Gebieten liegt, die 
 2.  
 die überwiegende Menge des transportierten Erdgases in Gebieten ausgespeist wird, die auch über überregionale Gasfernleitungsnetze Dritter erreicht werden oder unter kaufmännisch sinnvollen Bedingungen erreicht werden können.
 
-(3) Betreiber von Fernleitungsnetzen, die die Entgelte nach Absatz 2 bilden, haben dies unverzüglich der Regulierungsbehörde schriftlich anzuzeigen sowie das Vorliegen der in Absatz 2 genannten Voraussetzungen nachzuweisen. Weitere Anzeigen nach Satz 1 sind jeweils zwei Jahre vor Beginn einer Regulierungsperiode nach § 3 der Anreizregulierungsverordnung, erstmals vor Beginn der zweiten Regulierungsperiode bei der Regulierungsbehörde einzureichen. Die Regulierungsbehörde hat zu prüfen, ob die Voraussetzungen nach Absatz 2 Satz 1 und 2 vorliegen. Stellt sie fest, dass dies nicht der Fall ist, hat sie von ihren Befugnissen nach § 65 des Energiewirtschaftsgesetzes Gebrauch zu machen. Bis zu einer Entscheidung nach Satz 4 können Entgelte in jedem Fall nach Absatz 2 Satz 1 gebildet werden.
+(3) Betreiber von Fernleitungsnetzen, die die Entgelte nach Absatz 2 bilden, haben dies unverzüglich der Regulierungsbehörde schriftlich oder elektronisch anzuzeigen sowie das Vorliegen der in Absatz 2 genannten Voraussetzungen nachzuweisen. Weitere Anzeigen nach Satz 1 sind jeweils zwei Jahre vor Beginn einer Regulierungsperiode nach § 3 der Anreizregulierungsverordnung, erstmals vor Beginn der zweiten Regulierungsperiode bei der Regulierungsbehörde einzureichen. Die Regulierungsbehörde hat zu prüfen, ob die Voraussetzungen nach Absatz 2 Satz 1 und 2 vorliegen. Stellt sie fest, dass dies nicht der Fall ist, hat sie von ihren Befugnissen nach § 65 des Energiewirtschaftsgesetzes Gebrauch zu machen. Bis zu einer Entscheidung nach Satz 4 können Entgelte in jedem Fall nach Absatz 2 Satz 1 gebildet werden.
 
 Teil 2 Methode zur Ermittlung der Netzentgelte
 ----------------------------------------------
@@ -139,7 +140,7 @@ Abschnitt 1 Kostenartenrechnung
 
 (5) Betreiber von Gasversorgungsnetzen können Kosten oder Kostenbestandteile, die anfallen auf Grund einer Überlassung betriebsnotwendiger Anlagegüter durch Dritte, nur in der Höhe ansetzen, wie sie anfielen, wenn der Betreiber Eigentümer der Anlagen wäre. Der Betreiber des Gasversorgungsnetzes hat die erforderlichen Nachweise zu führen.
 
-(5a) Betreiber von Gasversorgungsnetzen können Kosten oder Kostenbestandteile, die auf Grund von Dienstleistungen durch Dritte anfallen, maximal in der Höhe ansetzen, wie sie anfielen, wenn sie die Leistungen selbst erbringen würden. Der Betreiber des Gasversorgungsnetzes hat die erforderlichen Nachweise zu führen.
+(5a) Erbringen Unternehmen gegenüber einem Betreiber eines Gasversorgungsnetzes Dienstleistungen, so sind die diesbezüglichen Kosten oder Kostenbestandteile nach Maßgabe dieses Absatzes bei der Netzkostenermittlung zu berücksichtigen. Gehören das die Dienstleistung erbringende Unternehmen und der Betreiber des Gasversorgungsnetzes oder ein Gesellschafter des Betreibers des Gasversorgungsnetzes zu einer Gruppe miteinander verbundener Gasunternehmen, so darf der Betreiber des Gasversorgungsnetzes die aus der Erbringung der Dienstleistung entstehenden Kosten oder Kostenbestandteile maximal in der Höhe ansetzen, wie sie bei dem die Dienstleistung erbringenden Unternehmen unter Anwendung der Grundsätze der Entgeltbestimmung im Sinne dieser Verordnung und gegebenenfalls unter Anwendung des § 6 Absatz 2 der Anreizregulierungsverordnung tatsächlich angefallen sind. Beinhalten die nach Satz 2 für die Erbringung von Dienstleistungen angefallenen Kosten oder Kostenbestandteile Vorleistungen von Unternehmen, die ebenfalls zu der Gruppe miteinander verbundener Gasunternehmen gehören, der das die Dienstleistung erbringende Unternehmen und der Betreiber des Gasversorgungsnetzes oder dessen Gesellschafter angehören, können diese nur maximal in der Höhe einbezogen werden, wie sie jeweils bei dem die Vorleistung erbringenden Unternehmen unter Anwendung der Grundsätze der Entgeltbestimmung im Sinne dieser Verordnung und gegebenenfalls unter Anwendung des § 6 Absatz 2 der Anreizregulierungsverordnung tatsächlich angefallen sind. Gehören das die Dienstleistung erbringende Unternehmen und der Betreiber des Gasversorgungsnetzes oder dessen Gesellschafter nicht zu einer Gruppe miteinander verbundener Gasunternehmen, so darf der Betreiber des Gasversorgungsnetzes die aus der Erbringung der Dienstleistung entstehenden Kosten oder Kostenbestandteile maximal in der Höhe ansetzen, wie sie anfallen würden, wenn der Betreiber des Gasversorgungsnetzes die jeweiligen Leistungen selbst erbringen würde. Der Betreiber des Gasversorgungsnetzes hat die erforderlichen Nachweise zu führen.
 
 (6) Sofern Leistungen nach § 9 Absatz 3 Satz 2 Nummer 1 der Gasnetzzugangsverordnung beschafft werden, können Betreiber von Gasversorgungsnetzen die hierdurch verursachten Kosten nach Maßgabe des § 4 Abs. 1 bei der Ermittlung der Netzkosten in Ansatz bringen.
 
@@ -324,7 +325,7 @@ Baukostenzuschüsse oder
 5.  
 sonstige Erträge und Erlöse
 
-der netzbezogenen Gewinn- und Verlustrechnung zu entnehmen sind, von den Netzkosten in Abzug zu bringen. Die von gasverbrauchenden Anschlussnehmern entrichteten Baukostenzuschüsse sind über eine Dauer von 20 Jahren linear aufzulösen und jährlich netzkostenmindernd anzusetzen.
+der netzbezogenen Gewinn- und Verlustrechnung zu entnehmen sind, von den Netzkosten in Abzug zu bringen. Einnahmen nach § 77f des Telekommunikationsgesetzes sind sachlich nicht dem Netzbetrieb zuzurechnen. Die von gasverbrauchenden Anschlussnehmern entrichteten Baukostenzuschüsse sind über eine Dauer von 20 Jahren linear aufzulösen und jährlich netzkostenmindernd anzusetzen.
 
 (2) Baukostenzuschüsse, die im Zusammenhang mit der Errichtung eines Anschlusses für die Einspeisung von Gas entrichtet wurden, sind anschlussindividuell über die Dauer von 20 Jahren linear aufzulösen.
 
@@ -402,6 +403,8 @@ Zur Ermittlung von Anreizmöglichkeiten im Sinne des Satzes 2 Nr. 3 hat der Netz
 (7) Für leistungsgemessene Ausspeisepunkte sind jeweils getrennt nach Hoch-, Mittel- und Niederdruck ein Entgelt für den Messstellenbetrieb, ein Entgelt jeweils für die Messung und ein Entgelt für die Abrechnung festzulegen. Für Ausspeisepunkte ohne Leistungsmessung ist ebenfalls ein Entgelt für den Messstellenbetrieb ein Entgelt für die Messung und ein Entgelt für die Abrechnung festzulegen. Die Entgelte sind jeweils für jeden Ausspeisepunkt zu erheben. Die Mess- und Abrechnungsentgelte richten sich nach den Kosten, die den jeweiligen Kostenstellen zugeordnet sind und der Anzahl der entsprechenden Ausspeisepunkte.
 
 (8) Andere als in dieser Verordnung genannte Entgelte sind nicht zulässig.
+
+(+++ § 15 Abs. 7: Zur Anwendung vgl. § 7 Abs. 1 MessbG +++)
 
 ### § 16 Verprobung
 
