@@ -2,7 +2,7 @@ Verordnung über Anforderungen an die Verwertung und Beseitigung von Altholz (Al
 ======================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 5 Abs. 26 G v. 24.2.2012 I 212
+Zuletzt geändert durch Art. 62 G v. 29.3.2017 I 626
 
 ### 
 
@@ -132,7 +132,7 @@ Das für die Zuordnung eingesetzte Personal muss über die erforderliche Sachkun
 
 (2) Der Betreiber der Altholzbehandlungsanlage hat im Zuge der Aufbereitung die erzeugten Holzhackschnitzel und Holzspäne in Chargen von jeweils nicht mehr als 500 Tonnen zu beproben. Die entnommenen Proben sind einer Prüfung auf Färbung zur Feststellung von Teerölen zu unterziehen sowie auf die Einhaltung der Grenzwerte des Anhangs II, ausgenommen die Grenzwerte für Quecksilber und polychlorierte Biphenyle, zu untersuchen. Die Entnahme, Untersuchung und Aufbewahrung der Proben erfolgt nach den in Anhang IV beschriebenen Verfahren.
 
-(3) Abweichend von Absatz 2 Satz 3 können Betreiber von Altholzbehandlungsanlagen mit Zustimmung der zuständigen Behörde einfache Prüfverfahren mit ausreichender Empfindlichkeit nach dem Stand der Technik einsetzen. Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit gibt entsprechende Prüfverfahren im Bundesanzeiger bekannt.
+(3) Abweichend von Absatz 2 Satz 3 können Betreiber von Altholzbehandlungsanlagen mit Zustimmung der zuständigen Behörde einfache Prüfverfahren mit ausreichender Empfindlichkeit nach dem Stand der Technik einsetzen. Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit gibt entsprechende Prüfverfahren im Bundesanzeiger bekannt.
 
 (4) Holzhackschnitzel oder Holzspäne dürfen nachfolgend der Verwendung in der Holzwerkstoffherstellung nur zugeführt werden, wenn die Prüfung und Untersuchung nach den Absätzen 2 und 3 keine Belastung mit Teerölen und keine Überschreitung der Grenzwerte des Anhangs II ergeben. Ergeben die Prüfung und Untersuchung eine Belastung mit Teerölen oder eine Überschreitung eines der Grenzwerte des Anhangs II, ist die beprobte Charge der Altholzkategorie A IV zuzuordnen.
 
@@ -211,7 +211,7 @@ die erforderlichenfalls aufgrund der Ergebnisse der Prüfungen nach § 5 Abs. 1 
 
 (4) Sofern nach anderen Bestimmungen Betriebstagebücher zu führen sind, können die erforderlichen Angaben in einem Betriebstagebuch zusammengefasst werden.
 
-(5) Die Vorschriften der Nachweisverordnung, § 4 der PCB/PCT-Abfallverordnung sowie § 5 der Entsorgungsfachbetriebeverordnung bleiben unberührt.
+(5) Die Vorschriften der Nachweisverordnung, § 4 der PCB/PCT-Abfallverordnung sowie § 5 Absatz 1 der Entsorgungsfachbetriebeverordnung vom 2. Dezember 2016 in der jeweils geltenden Fassung bleiben unberührt.
 
 ### § 13 Ordnungswidrigkeiten
 
@@ -628,7 +628,8 @@ A IV
 
 ### Anhang IV (zu § 6)Vorgaben zur Analytik für Holzhackschnitzel und Holzspäne zur Herstellung von Holzwerkstoffen
 
-(Fundstelle: BGBl. I 2002, 3309 - 3313)
+(Fundstelle: BGBl. I 2002, 3309 - 3313;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
   
@@ -636,7 +637,7 @@ A IV
 Untersuchung von Holzhackschnitzeln und Holzspänen
 
 1.1  
-ProbenahmeDie Probenahme nach § 6 ist von Personen durchzuführen, die über die für die Durchführung der Probenahme erforderliche Fachkunde verfügen. Die zu untersuchenden Proben sind aus der laufenden Produktion zu entnehmen. Aus dem Materialstrom ist wenigstens alle 10 t eine Einzelprobe von mindestens 2 l zu entnehmen, zum Beispiel mit einem Gefäß mit Stiel, das in den Abwurf des Förderbandes gehalten wird. Die Probenahme ist zu dokumentieren. Die Dokumentation enthält mindestens das Datum der Probenahme, die Angabe der beprobten Charge sowie Namen und Unterschrift des Probenehmers, mit welcher dieser die Ordnungsgemäßheit der Probenahme versichert. Probentransport und Probenlagerung haben so zu erfolgen, dass eine Beeinflussung der chemischen, physikalischen und biologischen Beschaffenheit des Probenmaterials soweit wie möglich ausgeschlossen wird.
+ProbenahmeDie Probenahme nach § 6 ist von Personen durchzuführen, die über die für die Durchführung der Probenahme erforderliche Fachkunde verfügen. Die zu untersuchenden Proben sind aus der laufenden Produktion zu entnehmen. Aus dem Materialstrom ist wenigstens alle 10 t eine Einzelprobe von mindestens 2 l zu entnehmen, zum Beispiel mit einem Gefäß mit Stiel, das in den Abwurf des Förderbandes gehalten wird. Die Probenahme ist schriftlich oder elektronisch zu dokumentieren. Die Dokumentation enthält mindestens das Datum der Probenahme, die Angabe der beprobten Charge sowie den Namen des Probenehmers. Probentransport und Probenlagerung haben so zu erfolgen, dass eine Beeinflussung der chemischen, physikalischen und biologischen Beschaffenheit des Probenmaterials soweit wie möglich ausgeschlossen wird.
 
 1.2  
 Herstellung der LaborprobeJe zu untersuchender Charge ist eine Laborprobe für die analytischen Untersuchungen zu erstellen. Dazu werden die Einzelproben auf einer sauberen, glatten Unterlage zu einer Mischprobe vereinigt und durch wiederholtes Umsetzen homogenisiert. Aus der Mischprobe ist eine Laborprobe von 500 g mit geeigneten Probenteilern oder durch Aufkegeln und Vierteln nach DIN 51701, Teil 3 (Ausgabe August 1985) zu entnehmen. Die Laborprobe ist nach Trocknung zu teilen. Eine Hälfte der Laborprobe ist als Rückstellprobe zu verwenden. Diese ist mit Datum und Analysennummer zu kennzeichnen und mindestens sechs Monate aufzubewahren.
@@ -905,7 +906,7 @@ Kalibrierung über das gesamte VerfahrenZur Erstellung der Kalibriergeraden wird
 Angabe der ErgebnisseDie Ergebnisse sind in Milligramm je Kilogramm Trockenmasse anzugeben.
 
 1.4.5  
-Bestimmung von polychlorierten Biphenylen (PCB)Die lufttrockene, gemahlene Altholzprobe wird nach Zugabe eines internen Standards mit n-Hexan im Soxhlet oder durch ein vergleichbares Extraktionsverfahren extrahiert. Im Extrakt enthaltene PCB-Kongenere werden durch geeignete Reinigungsschritte, insbesondere eine Kombination einer Benzolsulfonsäure-Trennsäule mit einer Silicagel-Säule, von störenden Begleitstoffen weitgehend befreit. Die Bestimmung der PCB-Kongenere (Ballschmiter Nr. 28, 52, 101, 138, 153, 180) erfolgt durch Kapillargaschromatographie mit Elektroneneinfangdetektor (ECD) in Anwendung von DIN 38414, Teil 20 (Ausgabe Januar 1996). Der Gesamtgehalt an PCB ergibt sich aus der Summe des für jedes der PCB-Kongenere ermittelten Massenanteils, bezogen auf die Trockenmasse der Altholzprobe, multipliziert mit dem Faktor fünf und auf 0,1 mg/kg gerundet.Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit kann für die Bestimmung von polychlorierten Biphenylen andere wissenschaftlich anerkannte Prüfverfahren im Bundesanzeiger bekannt geben, wenn entsprechende wissenschaftliche Erkenntnisse vorliegen.
+Bestimmung von polychlorierten Biphenylen (PCB)Die lufttrockene, gemahlene Altholzprobe wird nach Zugabe eines internen Standards mit n-Hexan im Soxhlet oder durch ein vergleichbares Extraktionsverfahren extrahiert. Im Extrakt enthaltene PCB-Kongenere werden durch geeignete Reinigungsschritte, insbesondere eine Kombination einer Benzolsulfonsäure-Trennsäule mit einer Silicagel-Säule, von störenden Begleitstoffen weitgehend befreit. Die Bestimmung der PCB-Kongenere (Ballschmiter Nr. 28, 52, 101, 138, 153, 180) erfolgt durch Kapillargaschromatographie mit Elektroneneinfangdetektor (ECD) in Anwendung von DIN 38414, Teil 20 (Ausgabe Januar 1996). Der Gesamtgehalt an PCB ergibt sich aus der Summe des für jedes der PCB-Kongenere ermittelten Massenanteils, bezogen auf die Trockenmasse der Altholzprobe, multipliziert mit dem Faktor fünf und auf 0,1 mg/kg gerundet.Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit kann für die Bestimmung von polychlorierten Biphenylen andere wissenschaftlich anerkannte Prüfverfahren im Bundesanzeiger bekannt geben, wenn entsprechende wissenschaftliche Erkenntnisse vorliegen.
 
 1.5  
 Andere MethodenDie zuständige Behörde soll andere Methoden zulassen, wenn deren Gleichwertigkeit nachgewiesen wird.
