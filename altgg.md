@@ -2,7 +2,7 @@ Altersgeldgesetz (AltGG)
 ========================
 
 Stand  
-Geändert durch Art. 7 G v. 6.3.2015 I 250
+Zuletzt geändert durch Art. 32 G v. 29.3.2017 I 626
 
 ### 
 
@@ -208,7 +208,7 @@ Waisenaltersgeld (Absatz 5).
 
 (1) Die altersgeldfähigen Dienstbezüge und die altersgeldfähige Dienstzeit sind innerhalb von sechs Monaten nach der Entlassung festzusetzen. Die Festsetzung erfolgt unter dem Vorbehalt künftiger Rechtsänderungen.
 
-(2) Die Leistungsgewährung, mit Ausnahme der Leistung nach § 9 Absatz 2, erfolgt auf schriftlichen Antrag.
+(2) Die Leistungsgewährung, mit Ausnahme der Leistung nach § 9 Absatz 2, erfolgt auf schriftlichen oder elektronischen Antrag.
 
 (3) Alters- und Hinterbliebenenaltersgeld wird ab dem Monat gewährt, in dem der Antrag bei der zuständigen Behörde eingegangen ist. Anträge, die innerhalb von drei Monaten nach Eintritt der Voraussetzungen nach § 3 Absatz 3 Satz 1 oder Satz 2 gestellt werden, gelten als am Ersten des Monats gestellt, in dem diese Voraussetzungen vorlagen. Im Falle des § 3 Absatz 4 Satz 2 ist die Zahlung des Altersgelds nach Ablauf der jeweiligen Frist erneut zu beantragen.
 
@@ -216,7 +216,7 @@ Waisenaltersgeld (Absatz 5).
 
 (5) Für die Durchführung dieses Gesetzes gelten § 49 Absatz 1, 3 und 5 bis 9 sowie die §§ 52 und 62 des Beamtenversorgungsgesetzes entsprechend.
 
-(6) § 62a des Beamtenversorgungsgesetzes gilt mit der Maßgabe entsprechend, dass die Daten zu übermitteln sind, die erforderlich sind für die Darstellung der Entwicklung des Altersgelds im Bericht der Bundesregierung nach Artikel 17 des Gesetzes zur Änderung des Beamtenversorgungsgesetzes und sonstiger dienst- und versorgungsrechtlicher Vorschriften vom 18. Dezember 1989 (BGBl. I S. 2218), das durch Artikel 19 Absatz 8 des Gesetzes vom 29. Juni 1998 (BGBl. I S. 1666) geändert worden ist.
+(6) § 62a Absatz 2 des Beamtenversorgungsgesetzes gilt mit der Maßgabe entsprechend, dass die Daten zu übermitteln sind, die für die Darstellung der Entwicklung des Altersgeldes im Bericht der Bundesregierung nach § 62a Absatz 1 des Beamtenversorgungsgesetzes erforderlich sind.
 
 (7) § 49 Absatz 10 des Beamtenversorgungsgesetzes gilt entsprechend. Der Auskunftsanspruch umfasst auch die zur Ermittlung der Nachversicherung nach § 181 des Sechsten Buches Sozialgesetzbuch maßgeblichen Bezüge. Die Auskunft soll innerhalb von drei Monaten nach Eingang des Antrags bei der zuständigen Behörde erteilt werden.
 
