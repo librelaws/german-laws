@@ -2,37 +2,37 @@ Verordnung über die innerstaatliche und grenzüberschreitende Beförderung gef�
 ============================================================================================================================================================
 
 Neuf  
-Neugefasst durch Bek. v. 30.3.2015 I 366
+Neugefasst durch Bek. v. 30.3.2017 I 711, 993;
 
 Stand  
-Zuletzt geändert durch Art. 6 G v. 26.7.2016 I 1843
+geändert durch Art. 2a V v. 7.12.2017 I 3859
 
 ### 
 
-Diese Verordnung dient der Umsetzung der Richtlinie 2008/68/EG des Europäischen Parlaments und des Rates vom 24. September 2008 über die Beförderung gefährlicher Güter im Binnenland (ABl. L 260 vom 30.9.2008, S. 13).
+Diese Verordnung dient der Umsetzung der Richtlinie 2016/2309/EU der Kommission vom 16. Dezember 2016 zur vierten Anpassung der Anhänge der Richtlinie 2008/68/EG des Europäischen Parlaments und des Rates über die Beförderung gefährlicher Güter im Binnenland an den wissenschaftlichen und technischen Fortschritt (ABl. L 345 vom 20.12.2016, S. 48).
 
 ```
 (+++ Textnachweis ab: 1.1.2009 +++)
 (+++ Zur erstmaligen Anwendung soweit diese Vorschriften auf das ADN Bezug 
-nehmen vgl. § 38 Abs 2 +++)
+nehmen vgl. § 38 Abs. 2 F v. 17.6.2009 +++)
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
-       EGRL 68/2008            (CELEX Nr: 308L0068) +++)
+       EURL 2016/2309            (CELEX Nr: 32016L2309) +++)
 ```
 
 ### Inhaltsverzeichnis
 
 |       |                                                                                                                                                                                             |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| §   1 | Geltungsbereich                                                                                                                                                                             |
-| §   2 | Begriffsbestimmungen                                                                                                                                                                        |
-| §   3 | Zulassung zur Beförderung                                                                                                                                                                   |
-| §   4 | Allgemeine Sicherheitspflichten                                                                                                                                                             |
-| §   5 | Ausnahmen                                                                                                                                                                                   |
-| §   6 | Zuständigkeiten des Bundesministeriums für Verkehr und digitale Infrastruktur                                                                                                               |
-| §   7 | Zuständigkeiten der vom Bundesministerium der Verteidigung oder vom Bundesministerium des Innern bestellten Sachverständigen oder Dienststellen                                             |
-| §   8 | Zuständigkeiten der Bundesanstalt für Materialforschung und -prüfung                                                                                                                        |
-| §   9 | Zuständigkeiten der von der Bundesanstalt für Materialforschung und -prüfung anerkannten Prüfstellen                                                                                        |
+| §  1  | Geltungsbereich                                                                                                                                                                             |
+| §  2  | Begriffsbestimmungen                                                                                                                                                                        |
+| §  3  | Zulassung zur Beförderung                                                                                                                                                                   |
+| §  4  | Allgemeine Sicherheitspflichten                                                                                                                                                             |
+| §  5  | Ausnahmen                                                                                                                                                                                   |
+| §  6  | Zuständigkeiten des Bundesministeriums für Verkehr und digitale Infrastruktur                                                                                                               |
+| §  7  | Zuständigkeiten der vom Bundesministerium der Verteidigung oder vom Bundesministerium des Innern bestellten Sachverständigen oder Dienststellen                                             |
+| §  8  | Zuständigkeiten der Bundesanstalt für Materialforschung und -prüfung                                                                                                                        |
+| §  9  | Zuständigkeiten der von der Bundesanstalt für Materialforschung und -prüfung anerkannten Prüfstellen                                                                                        |
 | § 10  | Zuständigkeiten des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr                                                                                              |
 | § 11  | Zuständigkeiten des Bundesamtes für kerntechnische Entsorgungssicherheit                                                                                                                    |
 | § 12  | Ergänzende Zuständigkeiten der Benannten Stellen für Tanks                                                                                                                                  |
@@ -56,29 +56,26 @@ nehmen vgl. § 38 Abs 2 +++)
 | § 28  | Pflichten des Fahrzeugführers im Straßenverkehr                                                                                                                                             |
 | § 29  | Pflichten mehrerer Beteiligter im Straßenverkehr                                                                                                                                            |
 | § 30  | Pflichten des Betreibers eines Kesselwagens, abnehmbaren Tanks und Batteriewagens im Eisenbahnverkehr                                                                                       |
+| § 30a | Pflichten der für die Instandhaltung zuständigen Stelle im Eisenbahnverkehr                                                                                                                 |
 | § 31  | Pflichten des Eisenbahninfrastrukturunternehmers im Eisenbahnverkehr                                                                                                                        |
+| § 31a | Pflichten des Triebfahrzeugführers im Eisenbahnverkehr                                                                                                                                      |
 | § 32  | Pflichten des Reisenden im Eisenbahnverkehr                                                                                                                                                 |
 | § 33  | Pflichten des Schiffsführers in der Binnenschifffahrt                                                                                                                                       |
-| § 34  | Pflichten des Eigentümers oder Ausrüsters in der Binnenschifffahrt                                                                                                                          |
+| § 34  | Pflichten des Eigentümers oder Betreibers in der Binnenschifffahrt                                                                                                                          |
 | § 34a | Pflichten der Besatzung und sonstiger Personen an Bord in der Binnenschifffahrt                                                                                                             |
-| § 35  | Fahrweg und Verlagerung im Straßenverkehr                                                                                                                                                   |
+| § 35  | Verlagerung                                                                                                                                                                                 |
+| § 35a | Fahrweg im Straßenverkehr                                                                                                                                                                   |
+| § 35b | Gefährliche Güter, für deren Beförderung die §§ 35 und 35a gelten                                                                                                                           |
+| § 35c | Ausnahmen zu den §§ 35 und 35a                                                                                                                                                              |
 | § 36  | Prüffrist für Feuerlöschgeräte                                                                                                                                                              |
+| § 36a | Beförderung gefährlicher Güter als behördliche Asservate                                                                                                                                    |
 | § 37  | Ordnungswidrigkeiten                                                                                                                                                                        |
 | § 38  | Übergangsbestimmungen                                                                                                                                                                       |
 
-<table>
-<tbody>
-<tr class="odd">
-<td>Anlage 1<br />
-(zu § 35)</td>
-<td>Gefährliche Güter, für deren innerstaatliche und grenzüberschreitende Beförderung § 35 gilt</td>
-</tr>
-<tr class="even">
-<td>Anlage 2</td>
-<td>Einschränkungen aus Gründen der Sicherheit der Beförderung gefährlicher Güter zu den Teilen 1 bis 9 des ADR und zu den Teilen 1 bis 7 des RID für innerstaatliche Beförderungen sowie zu den Teilen 1 bis 9 des ADN für innerstaatliche und grenzüberschreitende Beförderungen</td>
-</tr>
-</tbody>
-</table>
+|          |                                                                                                                                                                                                                                                                                |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Anlage 1 | (weggefallen)                                                                                                                                                                                                                                                                  |
+| Anlage 2 | Einschränkungen aus Gründen der Sicherheit der Beförderung gefährlicher Güter zu den Teilen 1 bis 9 des ADR und zu den Teilen 1 bis 7 des RID für innerstaatliche Beförderungen sowie zu den Teilen 1 bis 9 des ADN für innerstaatliche und grenzüberschreitende Beförderungen |
 
 ### § 1 Geltungsbereich
 
@@ -109,16 +106,16 @@ in Absatz 1 Satz 1 Nummer 3 genannten Beförderungen nicht für die Beförderung
 Nummer 1 genannten
 
 a)  
-innerstaatlichen Beförderungen auf der Straße die Vorschriften der Teile 1 bis 9 der Anlagen A und B zu dem Europäischen Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR) in der Fassung der Bekanntmachung der Neufassung der Anlagen A und B vom 3. Juni 2013 (BGBl. 2013 II S. 648), die zuletzt nach Maßgabe der 24. ADR-Änderungsverordnung vom 6. Oktober 2014 (BGBl. 2014 II S. 722) geändert worden sind, sowie die Vorschriften der Anlagen 1 und 2 Nummer 1 bis 3,
+innerstaatlichen Beförderungen auf der Straße die Vorschriften der Teile 1 bis 9 der Anlagen A und B zu dem Europäischen Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR) in der Fassung der Bekanntmachung der Neufassung der Anlagen A und B vom 17. April 2015 (BGBl. 2015 II S. 504), die zuletzt nach Maßgabe der 25. ADR-Änderungsverordnung vom 25. Oktober 2016 (BGBl. 2016 II S. 1203) geändert worden sind, sowie die Vorschriften der Anlage 2 Nummer 1 bis 3,
 
 b)  
-grenzüberschreitenden einschließlich innergemeinschaftlichen Beförderungen auf der Straße die Vorschriften der Teile 1 bis 9 zu dem in Buchstabe a genannten ADR-Übereinkommen und die Vorschriften der Anlage 1,
+grenzüberschreitenden einschließlich innergemeinschaftlichen Beförderungen auf der Straße die Vorschriften der Teile 1 bis 9 zu dem in Buchstabe a genannten ADR-Übereinkommen,
 
 2.  
 Nummer 2 genannten
 
 a)  
-innerstaatlichen Beförderungen mit Eisenbahnen die Vorschriften der Teile 1 bis 7 der Anlage der Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID) – Anhang C des Übereinkommens über den internationalen Eisenbahnverkehr (COTIF) vom 9. Mai 1980 in der Fassung der Bekanntmachung vom 16. Mai 2008 (BGBl. 2008 II S. 475, 899), die zuletzt nach Maßgabe der 19. RID-Änderungsverordnung vom 31. Oktober 2014 (BGBl. 2014 II S. 890) geändert worden ist, sowie die Vorschriften der Anlage 2 Nummer 1, 2 und 4,
+innerstaatlichen Beförderungen mit Eisenbahnen die Vorschriften der Teile 1 bis 7 der Anlage der Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID) – Anhang C des Übereinkommens über den internationalen Eisenbahnverkehr (COTIF) vom 9. Mai 1980 in der Fassung der Bekanntmachung vom 16. Mai 2008 (BGBl. 2008 II S. 475, 899), die zuletzt nach Maßgabe der 20. RID-Änderungsverordnung vom 11. November 2016 (BGBl. 2016 II S. 1258) geändert worden ist, sowie die Vorschriften der Anlage 2 Nummer 1, 2 und 4,
 
 b)  
 grenzüberschreitenden einschließlich innergemeinschaftlichen Beförderungen mit Eisenbahnen die Vorschriften der Teile 1 bis 7 RID und
@@ -127,7 +124,7 @@ grenzüberschreitenden einschließlich innergemeinschaftlichen Beförderungen mi
 Nummer 3 genannten
 
 a)  
-Beförderungen auf allen schiffbaren Binnengewässern die Vorschriften der Teile 1 bis 9 der Anlage zu dem Europäischen Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) vom 26. Mai 2000 (BGBl. 2007 II S. 1906, 1908), die zuletzt nach Maßgabe der 5. ADN-Änderungsverordnung vom 15. Dezember 2014 (BGBl. 2014 II S. 1344) geändert worden ist, sowie die Vorschriften der Anlage 2 Nummer 1 und 5,
+Beförderungen auf allen schiffbaren Binnengewässern die Vorschriften der Teile 1 bis 9 der Anlage zu dem Europäischen Übereinkommen über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) vom 26. Mai 2000 (BGBl. 2007 II S. 1906, 1908), die zuletzt nach Maßgabe der 6. ADN-Änderungsverordnung vom 25. November 2016 (BGBl. 2016 II S. 1298) geändert worden ist, sowie die Vorschriften der Anlage 2 Nummer 1 und 5,
 
 b)  
 Beförderungen auf dem Rhein zusätzlich die von der Zentralkommission für die Rheinschifffahrt am 3. Dezember 2009 beschlossenen Bestimmungen in Anlage 2 Nummer 6.
@@ -229,7 +226,7 @@ MEGC (Multiple-Element Gas Container) ist der in Abschnitt 1.2.1 ADR/RID/ADN bes
 MEMU (Mobile Einheit zur Herstellung von explosiven Stoffen oder Gegenständen mit Explosivstoff) ist die in Abschnitt 1.2.1 ADR beschriebene Einheit oder ein Fahrzeug;
 
 15.  
-ODV ist die Ortsbewegliche-Druckgeräte-Verordnung vom 29. November 2011 (BGBl. I S. 2349), die durch Artikel 2 der Verordnung vom 19. Dezember 2012 (BGBl. I S. 2715) geändert worden ist;
+Ortsbewegliche-Druckgeräte-Verordnung ist die Ortsbewegliche-Druckgeräte-Verordnung vom 29. November 2011 (BGBl. I S. 2349), die zuletzt durch Artikel 491 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist;
 
 16.  
 OTIF (Organisation Intergouvernementale pour les transports internationaux ferroviaires) ist die Zwischenstaatliche Organisation für den internationalen Eisenbahnverkehr;
@@ -238,10 +235,13 @@ OTIF (Organisation Intergouvernementale pour les transports internationaux ferro
 UNECE (United Nations Economic Commission for Europe) ist die Wirtschaftskommission der Vereinten Nationen für Europa;
 
 18.  
-GGVSee ist die Verordnung über die Beförderung gefährlicher Güter mit Seeschiffen in der Fassung der Bekanntmachung vom 26. März 2014 (BGBl. I S. 301), die durch Artikel 5 der Verordnung vom 26. Februar 2015 (BGBl. I S. 265) geändert worden ist;
+GGVSee ist die Verordnung über die Beförderung gefährlicher Güter mit Seeschiffen vom 9. Februar 2016 (BGBl. I S. 182);
 
 19.  
-Ortsbewegliche Druckgeräte sind die in Artikel 2 Nummer 1 der Richtlinie 2010/35/EU bestimmten Gefäße und Tanks für Gase sowie die übrigen in den Kapiteln 6.2 und 6.8 ADR/RID bestimmten Gefäße und Tanks für Gase.
+Ortsbewegliche Druckgeräte sind die in Artikel 2 Nummer 1 der Richtlinie 2010/35/EU bestimmten Gefäße und Tanks für Gase sowie die übrigen in den Kapiteln 6.2 und 6.8 ADR/RID bestimmten Gefäße und Tanks für Gase;
+
+20.  
+Bundeswasserstraßen sind die Wasserstraßen nach § 1 Absatz 1 und Absatz 4 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S. 1980) in der jeweils geltenden Fassung mit Ausnahme der Elbe im Hamburger Hafen.
 
 ### § 3 Zulassung zur Beförderung
 
@@ -282,7 +282,7 @@ die Sendung möglichst rasch anzuhalten. Er darf die Beförderung erst fortsetze
 (1) Die nach Landesrecht zuständigen Stellen können
 
 1.  
-im Straßenverkehr auf Antrag Ausnahmen von den Teilen 1 bis 9 – ausgenommen die Kapitel 1.8 und 1.10 – ADR sowie von § 35 und Anlage 2 dieser Verordnung,
+im Straßenverkehr auf Antrag Ausnahmen von den Teilen 1 bis 9 – ausgenommen die Kapitel 1.8 und 1.10 – ADR sowie von den §§ 35 bis 35b und Anlage 2 dieser Verordnung,
 
 2.  
 im Eisenbahnverkehr für den Bereich der nichtbundeseigenen Eisenbahnen auf Antrag Ausnahmen von den Teilen 1 bis 7 – ausgenommen die Kapitel 1.8 und 1.10 – RID und
@@ -294,15 +294,15 @@ für Beförderungen innerhalb Deutschlands zulassen, soweit dies nach der Richtl
 
 (2) Das Eisenbahn-Bundesamt kann im Eisenbahnverkehr für den Bereich der Eisenbahnen des Bundes auf Antrag Ausnahmen von den Teilen 1 bis 7 – ausgenommen die Kapitel 1.8 und 1.10 – RID für Beförderungen innerhalb Deutschlands zulassen, soweit dies nach der Richtlinie 2008/68/EG zulässig ist.
 
-(3) Die Generaldirektion Wasserstraßen und Schifffahrt kann in der Binnenschifffahrt für den Bereich der Bundeswasserstraßen auf Antrag Ausnahmen von den Teilen 1 bis 9 ADN – ausgenommen Abschnitt 1.5.2 ADN, Kapitel 1.8 und 1.10 ADN – für Beförderungen innerhalb Deutschlands zulassen, soweit dies nach der Richtlinie 2008/68/EG zulässig ist.
+(3) Die Generaldirektion Wasserstraßen und Schifffahrt kann in der Binnenschifffahrt für den Bereich der Bundeswasserstraßen auf Antrag Ausnahmen von den Teilen 1 bis 9 ADN – ausgenommen Abschnitt 1.5.2 ADN, Kapitel 1.8 und 1.10 ADN – für Beförderungen innerhalb Deutschlands zulassen, soweit dies nach der Richtlinie 2008/68/EG zulässig ist. Diese Ausnahmen schließen für den Bereich der Bundeswasserstraßen weitere für das Vorhaben erforderliche Entscheidungen nach Teil 7 ADN – ausgenommen Unterabschnitt 7.2.2.6 und Absätze 7.2.3.7.1 und 7.2.3.7.6 ADN – mit ein; die Entscheidung ergeht insoweit im Benehmen mit der nach § 16 Absatz 6 zuständigen Behörde.
 
 (4) Bei Ausnahmen nach den Absätzen 1 bis 3 ist über die erforderlichen Sicherheitsvorkehrungen vom Antragsteller ein Gutachten eines Sachverständigen vorzulegen. In diesem Gutachten müssen insbesondere die verbleibenden Gefahren dargestellt und es muss begründet werden, weshalb die Zulassung der Ausnahme trotz der verbleibenden Gefahren als vertretbar angesehen wird. Die zuständige Stelle kann die Vorlage weiterer Gutachten auf Kosten des Antragstellers verlangen oder diese im Benehmen mit dem Antragsteller selbst erstellen lassen. In begründeten Einzelfällen kann die zuständige Stelle auf die Vorlage eines Gutachtens verzichten.
 
-(5) Ausnahmen nach den Absätzen 1 bis 3 sind schriftlich und unter dem Vorbehalt des Widerrufs für den Fall zu erteilen, dass sich die auferlegten Sicherheitsvorkehrungen als unzureichend zur Einschränkung der von der Beförderung ausgehenden Gefahren erweisen. Die nach Artikel 6 Absatz 2 der Richtlinie 2008/68/EG vorgesehenen Ausnahmen müssen dem Verfahren nach Artikel 6 Absatz 2 oder 4 unterzogen und von der Kommission anerkannt worden sein; sie sind dem Bundesministerium für Verkehr und digitale Infrastruktur mitzuteilen. Sie dürfen ab dem Zeitpunkt ihrer Genehmigung durch die Kommission für höchstens sechs Jahre erteilt werden; für die Verlängerung einer Ausnahme gilt das Verfahren nach Artikel 6 Absatz 4 der Richtlinie 2008/68/EG.
+(5) Ausnahmen nach den Absätzen 1 bis 3 sind schriftlich oder elektronisch und unter dem Vorbehalt des Widerrufs für den Fall zu erteilen, dass sich die auferlegten Sicherheitsvorkehrungen als unzureichend zur Einschränkung der von der Beförderung ausgehenden Gefahren erweisen. Die nach Artikel 6 Absatz 2 der Richtlinie 2008/68/EG vorgesehenen Ausnahmen müssen dem Verfahren nach Artikel 6 Absatz 2 oder 4 unterzogen und von der Kommission anerkannt worden sein; sie sind dem Bundesministerium für Verkehr und digitale Infrastruktur mitzuteilen. Sie dürfen ab dem Zeitpunkt ihrer Genehmigung durch die Kommission für höchstens sechs Jahre erteilt werden; für die Verlängerung einer Ausnahme gilt das Verfahren nach Artikel 6 Absatz 4 der Richtlinie 2008/68/EG.
 
 (6) Das Bundesministerium der Verteidigung oder die von ihm bestimmten Stellen dürfen für die Bundeswehr, in ihrem Auftrag hoheitlich tätige zivile Unternehmen und für ausländische Streitkräfte Ausnahmen von dieser Verordnung zulassen, soweit dies Gründe der Verteidigung erfordern und die öffentliche Sicherheit gebührend berücksichtigt ist. Ausnahmen nach Satz 1 sind für den Bundesnachrichtendienst zuzulassen, soweit er im Rahmen seiner Aufgaben für das Bundesministerium der Verteidigung tätig wird und soweit sicherheitspolitische Interessen dies erfordern.
 
-(7) Die Bundesministerien des Innern, der Justiz und für Verbraucherschutz und der Finanzen sowie die Innen- und Justizminister (-senatoren) der Länder oder die von ihnen bestimmten Stellen dürfen in ihrem Aufgabenbereich Ausnahmen für Beförderungen innerhalb Deutschlands zulassen, soweit dies nach der Richtlinie 2008/68/EG zulässig ist. Absatz 5 Satz 2 gilt entsprechend. Unabhängig davon dürfen sie Ausnahmen von § 35 und von Anlage 2 dieser Verordnung zulassen.
+(7) Die Bundesministerien des Innern, der Justiz und für Verbraucherschutz und der Finanzen sowie die Innen- und Justizminister (-senatoren) der Länder oder die von ihnen bestimmten Stellen dürfen in ihrem Aufgabenbereich Ausnahmen für Beförderungen innerhalb Deutschlands zulassen, soweit dies nach der Richtlinie 2008/68/EG zulässig ist. Absatz 5 Satz 2 gilt entsprechend. Unabhängig davon dürfen sie Ausnahmen von den §§ 35 bis 35b und von Anlage 2 dieser Verordnung zulassen.
 
 (8) Die für den Bereich
 
@@ -317,6 +317,8 @@ sofern die die Ausnahme erteilende Behörde nicht etwas anderes bestimmt.
 (9) Hat die Bundesrepublik Deutschland Vereinbarungen nach Abschnitt 1.5.1 ADR/RID oder Abkommen nach Abschnitt 1.5.1 ADN in Verbindung mit § 6 Nummer 1 abgeschlossen, dürfen innerstaatliche Beförderungen nach deren Bestimmungen durchgeführt werden.
 
 (10) Eine Ausnahme für eine innerstaatliche Beförderung gilt auch für die Beförderung auf der innerdeutschen Teilstrecke einer innergemeinschaftlichen oder grenzüberschreitenden Beförderung, soweit in der Ausnahme nicht ausdrücklich etwas anderes bestimmt ist.
+
+(11) Bei dem Bescheid nach Absatz 1 bis 3 genügt das Mitführen eines fernkopierten Bescheides oder des Ausdrucks eines elektronisch erteilten und signierten Bescheides sowie dessen digitalisierte Form auf einem Speichermedium, wenn diese derart mitgeführt wird, dass sie bei einer Kontrolle auf Verlangen zuständigen Personen lesbar gemacht werden kann.
 
 ### § 6 Zuständigkeiten des Bundesministeriums für Verkehr und digitale Infrastruktur
 
@@ -357,13 +359,13 @@ Aufgaben nach den Teilen 8 und 9 ADR;
 die Zulassung, erstmalige und wiederkehrende Prüfung von Druckgefäßen nach den Unterabschnitten 6.2.1.4 bis 6.2.1.6 ADR, die Inspektion und Prüfung der IBC nach Unterabschnitt 6.5.4.4 ADR, die Baumusterprüfung von ortsbeweglichen Tanks und UN-MEGC nach den Absätzen 6.7.2.18.1, 6.7.3.14.1, 6.7.4.13.1 und 6.7.5.11.1 in Verbindung mit Kapitel 4.2 und den Absätzen 6.7.2.19.9, 6.7.3.15.9, 6.7.4.14.10 und 6.7.5.12.7 ADR, die erstmalige und wiederkehrende Prüfung, Zwischenprüfung und außerordentliche Prüfungen der Tankkörper und der Ausrüstungsteile von ortsbeweglichen Tanks und UN-MEGC nach Kapitel 6.7 ADR und die Zulassung des Baumusters und die Prüfungen der Tanks nach den Unterabschnitten 6.8.2.3 und 6.8.2.4 ADR;
 
 3.  
-die Prüfungen von Tanks, sofern diese Prüfungen nicht in den Geltungsbereich der ODV fallen;
+die Prüfungen von Tanks, sofern diese Prüfungen nicht in den Geltungsbereich der Ortsbewegliche-Druckgeräte-Verordnung fallen;
 
 4.  
 das Führen eines Verzeichnisses nach Unterabschnitt 1.10.1.6 ADR über alle gültigen Schulungsbescheinigungen für Fahrzeugführer und
 
 5.  
-die Fahrwegbestimmung und Bescheinigung nach § 35,
+die Bescheinigung nach § 35 Absatz 4 und die Fahrwegbestimmung nach § 35a Absatz 3,
 
 soweit dies Gründe der Verteidigung erfordern.
 
@@ -379,7 +381,7 @@ die Zulassung des Baumusters und die Prüfungen der Tanks nach den Unterabschnit
 das Führen eines Verzeichnisses nach Unterabschnitt 1.10.1.6 ADR über alle gültigen Schulungsbescheinigungen für Fahrzeugführer und
 
 4.  
-die Fahrwegbestimmung und Bescheinigung nach § 35,
+die Bescheinigung nach § 35 Absatz 4 und die Fahrwegbestimmung nach § 35a Absatz 3,
 
 soweit dies für den Dienstbereich des Bundesministeriums des Innern erforderlich ist.
 
@@ -387,13 +389,13 @@ soweit dies für den Dienstbereich des Bundesministeriums des Innern erforderlic
 
 ### § 8 Zuständigkeiten der Bundesanstalt für Materialforschung und -prüfung
 
-Die Bundesanstalt für Materialforschung und -prüfung ist zuständige Behörde für
+(1) Die Bundesanstalt für Materialforschung und -prüfung ist zuständige Behörde für
 
 1.  
 Aufgaben nach
 
 a)  
-Kapitel 2.2 mit Ausnahme der Absätze 2.2.62.1.12.1 und 2.2.9.1.11 Bemerkung 3 ADR/RID/ADN und der dem Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr nach § 10 und dem Bundesamt für kerntechnische Entsorgungssicherheit nach § 11 zugewiesenen Zuständigkeiten,
+den Kapiteln 2.1 und 2.2 mit Ausnahme der Absätze 2.2.62.1.12.1 und 2.2.9.1.11 Bemerkung 4 ADR/RID/ADN und der dem Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr nach § 10 und dem Bundesamt für kerntechnische Entsorgungssicherheit nach § 11 zugewiesenen Zuständigkeiten,
 
 b)  
 Kapitel 3.3 ADR/RID/ADN mit Ausnahme der dem Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr nach § 10 zugewiesenen Zuständigkeiten,
@@ -414,7 +416,7 @@ g)
 Kapitel 6.7 ADR/RID,
 
 h)  
-Kapitel 6.8 in Bezug auf die Prüfung, die Erteilung der Kennzeichnung und die Baumusterzulassung von festverbundenen Tanks (Tankfahrzeugen), Aufsetztanks, Tankcontainern und Tankwechselaufbauten (Tankwechselbehältern) und die Festlegung von Bedingungen nach Abschnitt 6.8.4 Buchstabe c Sondervorschrift TA 2 ADR/RID sowie die Anerkennung der Befähigung der Hersteller für die Ausführung von Schweißarbeiten und die Anordnung zusätzlicher Prüfungen nach Absatz 6.8.2.1.23 und die Festlegung der Bedingungen für Schweißnähte der Tankkörper nach Absatz 6.8.5.2.2 ADR,
+Kapitel 6.8 in Bezug auf die Prüfung, die Erteilung der Kennzeichen und die Baumusterzulassung von festverbundenen Tanks (Tankfahrzeugen), Aufsetztanks, Tankcontainern und Tankwechselaufbauten (Tankwechselbehältern) und die Festlegung von Bedingungen nach Abschnitt 6.8.4 Buchstabe c Sondervorschrift TA 2 ADR/RID sowie die Anerkennung der Befähigung der Hersteller für die Ausführung von Schweißarbeiten und die Anordnung zusätzlicher Prüfungen nach Absatz 6.8.2.1.23 und die Festlegung der Bedingungen für Schweißnähte der Tankkörper nach Absatz 6.8.5.2.2 ADR,
 
 i)  
 Kapitel 6.9 ADR/RID,
@@ -434,7 +436,7 @@ soweit die jeweilige Aufgabe keiner anderen Stelle zugewiesen ist;
 die Prüfung und Zulassung radioaktiver Stoffe in besonderer Form nach Absatz 5.1.5.2.1 in Verbindung mit Unterabschnitt 6.4.22.5 Satz 1, das Zeugnis nach Unterabschnitt 6.4.22.8 Buchstabe a, die Zulassung der Bauart von Verpackungen für nicht spaltbares oder spaltbares freigestelltes Uranhexafluorid nach Absatz 5.1.5.2.1 in Verbindung mit Unterabschnitt 6.4.22.1, das Zeugnis nach Unterabschnitt 6.4.22.8 Buchstabe a, die Prüfung und Zulassung der Bauart gering dispergierbarer radioaktiver Stoffe nach Absatz 5.1.5.2.1 in Verbindung mit Unterabschnitt 6.4.22.5 Satz 2 und für das Zeugnis nach Unterabschnitt 6.4.22.8 Buchstabe a ADR/RID im Einvernehmen mit dem Bundesamt für kerntechnische Entsorgungssicherheit;
 
 3.  
-die Prüfung, die Anerkennung von Prüfstellen, die Erteilung der Kennzeichnung und die Bauartzulassung von Verpackungen, IBC, Großverpackungen, Bergungsverpackungen und Bergungsgroßverpackungen nach den Kapiteln 6.1, 6.3, 6.5 und 6.6 ADR/RID sowie für die Zulassung der Reparatur flexibler IBC nach Abschnitt 1.2.1 ADR/RID/ADN;
+die Prüfung, die Anerkennung von Prüfstellen, die Erteilung der Kennzeichen und die Bauartzulassung von Verpackungen, IBC, Großverpackungen, Bergungsverpackungen und Bergungsgroßverpackungen nach den Kapiteln 6.1, 6.3, 6.5 und 6.6 ADR/RID sowie für die Zulassung der Reparatur flexibler IBC nach Abschnitt 1.2.1 ADR/RID/ADN;
 
 4.  
 die Anerkennung und Überwachung von Qualitätssicherungsprogrammen für die Fertigung, Wiederaufarbeitung, Rekonditionierung, Reparatur und Prüfung von Verpackungen, IBC und Großverpackungen sowie die Anerkennung von Überwachungsstellen für die Prüfung der Funktionsfähigkeit und Wirksamkeit der Qualitätssicherungsprogramme nach den Kapiteln 6.1, 6.3, 6.5 und 6.6 sowie die Anerkennung von Inspektionsstellen für die erstmaligen und wiederkehrenden Inspektionen und Prüfungen von IBC nach Unterabschnitt 6.5.4.4 ADR/RID;
@@ -455,13 +457,13 @@ die Bauartprüfung zulassungspflichtiger Versandstücke für radioaktive Stoffe 
 die Überwachung von Managementsystemen für die Auslegung, Herstellung, Prüfung, Dokumentation, den Gebrauch, die Wartung und Inspektion von zulassungspflichtigen Versandstücken für radioaktive Stoffe nach Kapitel 6.4 ADR/RID in Verbindung mit Abschnitt 1.7.3 ADR/RID/ADN;
 
 10.  
-die Anerkennung von technischen Regelwerken nach Absatz 6.2.1.3.6.5.4, Abschnitt 6.2.5, Absatz 6.7.2.2.1 Satz 1, Absatz 6.7.3.2.1 Satz 1, Absatz 6.7.4.2.1 Satz 1, den Absätzen 6.7.5.2.9, 6.8.2.1.4 sowie den Unterabschnitten 6.8.2.7 und 6.8.3.7 Satz 1 ADR/RID im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur;
+die Anerkennung einer Norm oder eines Regelwerks nach Absatz 6.2.1.1.9 und die Anerkennung von technischen Regelwerken nach Absatz 6.2.1.3.6.5.4, Abschnitt 6.2.5, Absatz 6.7.2.2.1 Satz 1, Absatz 6.7.3.2.1 Satz 1, Absatz 6.7.4.2.1 Satz 1, Absatz 6.7.4.7.4, den Absätzen 6.7.5.2.9, 6.8.2.1.4 sowie den Unterabschnitten 6.8.2.7 und 6.8.3.7 Satz 1 ADR/RID im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur;
 
 11.  
 die Zulassung der Trennungsmethoden nach Unterabschnitt 7.5.2.2 Fußnote a ADR/RID, soweit es sich nicht um den militärischen Bereich handelt;
 
 12.  
-(weggefallen)
+die Festlegung von Normen und Bedingungen nach Unterabschnitt 7.3.3.1 VC 3 ADR;
 
 13.  
 die Erteilung von Ausnahmegenehmigungen für die Beförderung in Tankschiffen nach Abschnitt 1.5.2 ADN und
@@ -469,11 +471,13 @@ die Erteilung von Ausnahmegenehmigungen für die Beförderung in Tankschiffen na
 14.  
 die Zulassung von Gasspüranlagen nach Unterabschnitt 7.2.2.6 ADN.
 
-Satz 1 Nummer 1 Buchstabe h und Nummer 5 gelten nicht, sofern diese Aufgaben in den Geltungsbereich der ODV fallen.
+Satz 1 Nummer 1 Buchstabe h und Nummer 5 gelten nicht, sofern diese Aufgaben in den Geltungsbereich der Ortsbewegliche-Druckgeräte-Verordnung fallen.
+
+(2) Die unter Absatz 1 Satz 1 Nummer 1 Buchstabe c, d und f bis l, Nummer 2 bis 7, 11, 13 und 14 genannten Zulassungen, Zustimmungen, Anerkennungen und Genehmigungen können widerruflich erteilt, befristet und mit Auflagen versehen werden, soweit dies erforderlich ist, um die Einhaltung der gefahrgutbeförderungsrechtlichen Vorschriften sicherzustellen.
 
 ### § 9 Zuständigkeiten der von der Bundesanstalt für Materialforschung und -prüfung anerkannten Prüfstellen
 
-Die von der Bundesanstalt für Materialforschung und -prüfung nach § 6 Absatz 5 der GGVSee anerkannten Prüfstellen sind zuständig für die Baumusterprüfung sowie die erstmalige, wiederkehrende und außerordentliche Prüfung von ortsbeweglichen Tanks und Gascontainern mit mehreren Elementen (MEGC) nach Kapitel 6.7 ADR/RID. Satz 1 gilt nicht, sofern diese Prüfungen in den Geltungsbereich der ODV fallen.
+Die von der Bundesanstalt für Materialforschung und -prüfung nach § 12 Absatz 1 Nummer 8 der GGVSee anerkannten Prüfstellen sind zuständig für die Baumusterprüfung sowie die erstmalige, wiederkehrende und außerordentliche Prüfung von ortsbeweglichen Tanks und Gascontainern mit mehreren Elementen (MEGC) nach Kapitel 6.7 ADR/RID. Satz 1 gilt nicht, sofern diese Prüfungen in den Geltungsbereich der Ortsbewegliche-Druckgeräte-Verordnung fallen.
 
 ### § 10 Zuständigkeiten des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr
 
@@ -515,7 +519,7 @@ die Genehmigung des Strahlenschutzprogramms für die Beförderung von radioaktiv
 
 ### § 12 Ergänzende Zuständigkeiten der Benannten Stellen für Tanks
 
-Die Benannten Stellen nach § 16 der ODV, die für die Durchführung der nachfolgenden Aufgaben nach der Norm DIN EN ISO/IEC 17020:2012 akkreditiert sein müssen, sind zuständig für
+(1) Die Benannten Stellen nach § 16 der Ortsbewegliche-Druckgeräte-Verordnung, die für die Durchführung der nachfolgenden Aufgaben nach der Norm DIN EN ISO/IEC 17020:2012 akkreditiert sein müssen, sind zuständig für
 
 1.  
 die Baumusterprüfung von
@@ -536,7 +540,7 @@ a)
 ortsbeweglichen Tanks und UN-MEGC nach Kapitel 6.7 ADR/RID,
 
 b)  
-festverbundenen Tanks, Aufsetztanks, Batterie-Fahrzeugen, Kesselwagen, abnehmbaren Tanks, Batteriewagen, Tankcontainern, Tankwechselaufbauten (Tankwechselbehältern) und MEGC nach Kapitel 6.8 ADR/RID und
+festverbundenen Tanks, Aufsetztanks, Batterie-Fahrzeugen, Kesselwagen, abnehmbaren Tanks, Batteriewagen, Tankcontainern, Tankwechselaufbauten (Tankwechselbehältern) und MEGC nach Kapitel 6.8 sowie Kapitel 6.8 in Verbindung mit Kapitel 6.10 ADR/RID und
 
 c)  
 faserverstärkten Kunststofftanks (FVK-Tanks) nach Kapitel 6.9 ADR/RID;
@@ -557,11 +561,13 @@ die Prüfung zur Zulassung einer Änderung nach den Absätzen 1.8.7.2.5 und 6.8.
 b)  
 die Bescheinigung über die Zulassung einer Änderung nach Absatz 1.8.7.2.5 ADR/RID.
 
-Satz 1 Nummer 1 und 2, jeweils Buchstabe b, und Nummer 5 und 6 gilt nicht, sofern diese Aufgaben in den Geltungsbereich der ODV fallen. Für alle vorgenannten Aufgaben nach Kapitel 6.7 ADR/RID sind auch die Benannten Stellen nach § 16 der ODV zuständig, die nicht nach der DIN EN ISO/IEC 17020:2012 akkreditiert, aber von der Bundesanstalt für Materialforschung und -prüfung nach § 6 Absatz 5 der Gefahrgutverordnung See als Prüfstelle anerkannt sind.
+Satz 1 Nummer 1 und 2, jeweils Buchstabe b, und Nummer 5 und 6 gilt nicht, sofern diese Aufgaben in den Geltungsbereich der Ortsbewegliche-Druckgeräte-Verordnung fallen. Für alle vorgenannten Aufgaben nach Kapitel 6.7 ADR/RID sind auch die Benannten Stellen nach § 16 der Ortsbewegliche-Druckgeräte-Verordnung zuständig, die nicht nach der DIN EN ISO/IEC 17020:2012 akkreditiert, aber von der Bundesanstalt für Materialforschung und -prüfung nach § 6 Absatz 5 der Gefahrgutverordnung See als Prüfstelle anerkannt sind.
+
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur richtet einen Erfahrungsaustausch zwischen den zuständigen Stellen nach Absatz 1 und § 9 und der nationalen Akkreditierungsstelle sowie den Baumusterzulassungsbehörden nach § 8 Absatz 1 Satz 1 Nummer 1 Buchstabe g bis l und § 15 Absatz 1 Nummer 10 ein, an dem die vorgenannten Behörden und Stellen teilnehmen müssen.
 
 ### § 13 Ergänzende Zuständigkeiten der Benannten Stellen für Druckgefäße
 
-(1) Die nach § 16 Absatz 1 der ODV anerkannten Benannten Stellen sind zuständig für
+(1) Die nach § 16 Absatz 1 der Ortsbewegliche-Druckgeräte-Verordnung anerkannten Benannten Stellen sind zuständig für
 
 1.  
 die Bescheinigung über die Zulassung einer Änderung nach Absatz 1.8.7.2.5 ADR/RID;
@@ -586,11 +592,11 @@ die Bewertung der Eignung des Herstellers nach Absatz 6.2.1.7.2 ADR/RID.
 
 (2) Die Benannten Stellen müssen dabei die in den Abschnitten 1.8.7 und 1.8.8 ADR/RID festgelegten Verfahren für die Konformitätsbewertung und für die wiederkehrenden Prüfungen anwenden.
 
-(3) Die Absätze 1 und 2 gelten nicht, sofern diese Aufgaben in den Geltungsbereich der ODV fallen.
+(3) Absatz 1 Nummer 1 und Nummer 4 bis 7 sowie Absatz 2 gelten nicht, sofern diese Aufgaben in den Geltungsbereich der Ortsbewegliche-Druckgeräte-Verordnung fallen.
 
 ### § 13a Zuständigkeiten der Benennenden Behörde
 
-Die Benennende Behörde im Sinne des § 2 Nummer 9 der ODV ist zuständig für die Registrierung der Unterscheidungszeichen oder der Stempel der Prüfstellen nach Absatz 6.2.2.7.2 Buchstabe d, Absatz 6.2.2.7.7 Buchstabe b, Absatz 6.2.2.9.2 Buchstabe d und Absatz 6.2.2.9.4 Buchstabe b sowie des Kennzeichens des Herstellers nach Absatz 6.2.2.7.4 Buchstabe n ADR/RID.
+Die Benennende Behörde im Sinne des § 2 Nummer 9 der Ortsbewegliche-Druckgeräte-Verordnung ist zuständig für die Registrierung der Unterscheidungszeichen oder der Stempel der Prüfstellen nach Absatz 6.2.2.7.2 Buchstabe d, Absatz 6.2.2.7.7 Buchstabe b, Absatz 6.2.2.9.2 Buchstabe d und Absatz 6.2.2.9.4 Buchstabe b sowie des Kennzeichens des Herstellers nach Absatz 6.2.2.7.4 Buchstabe n ADR/RID.
 
 ### § 14 Besondere Zuständigkeiten im Straßenverkehr
 
@@ -613,7 +619,9 @@ Einzelheiten zu Satz 1 Nummer 1 bis 3 können die Industrie- und Handelskammern 
 
 (4) Die amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr, die von der zuständigen obersten Landesbehörde oder der von ihr bestimmten Stelle benannt oder die bei einer nach Landesrecht zuständigen Stelle tätig sind, und die Technischen Dienste, die im Rahmen der Benennung für die Prüfung von Gesamtfahrzeugen mindestens für die Prüfung von Gefahrgutfahrzeugen benannt sind, sind zuständig für die erste Untersuchung nach Unterabschnitt 9.1.2.1 Satz 2 zur Übereinstimmung mit den anwendbaren Vorschriften der Kapitel 9.2 bis 9.8 und die Ausstellung einer ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.2.1 Satz 4 in Verbindung mit Unterabschnitt 9.1.3.1 ADR.
 
-(5) Die für Hauptuntersuchungen nach § 29 der Straßenverkehrs-Zulassungs-Ordnung in der Fassung der Bekanntmachung vom 28. September 1988 (BGBl. I S. 1793), die zuletzt durch Artikel 3 der Verordnung vom 21. April 2009 (BGBl. I S. 872) geändert worden ist, zuständigen Stellen oder Personen, die von der zuständigen obersten Landesbehörde oder der von ihr bestimmten Stelle benannt oder die bei einer nach Landesrecht zuständigen Stelle tätig sind, sind zuständig für die jährliche technische Untersuchung und die Verlängerung der Gültigkeit von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.2.3 ADR.
+(5) Die für Hauptuntersuchungen nach § 29 der Straßenverkehrs-Zulassungs-Ordnung in der Fassung der Bekanntmachung vom 28. September 1988 (BGBl. I S. 1793), die zuletzt durch Artikel 3 der Verordnung vom 21. April 2009 (BGBl. I S. 872) geändert worden ist, zuständigen Stellen oder Personen, die von der zuständigen obersten Landesbehörde oder der von ihr bestimmten Stelle benannt oder die bei einer nach Landesrecht zuständigen Stelle tätig sind, sind zuständig für die jährliche technische Untersuchung und die Verlängerung der Gültigkeit von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.2.3 sowie für nicht vorgeschriebene informelle Änderungen oder Ergänzungen in Nummer 11 von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.3.1 ADR.
+
+(6) Die Zulassungsbehörden nach der Fahrzeug-Zulassungsverordnung sind zuständig für Änderungen in Nummer 4 und 5 von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.3.1 ADR.
 
 ### § 15 Besondere Zuständigkeiten im Eisenbahnverkehr
 
@@ -644,10 +652,10 @@ das Vorschreiben von Versuchen für Kesselwagen nach Absatz 6.8.2.1.2 Satz 2 sow
 die Anerkennung der Befähigung der Hersteller für die Ausführung von Schweißarbeiten und die Anordnung zusätzlicher Prüfungen nach Absatz 6.8.2.1.23 und die Festlegung der Bedingungen für Schweißnähte der Tankkörper nach Absatz 6.8.5.2.2 RID;
 
 9.  
-die Entscheidung über die Ausnahme für Rücksendungen nach Absatz 6.7.2.19.6 Buchstabe b, Absatz 6.7.3.15.6 Buchstabe b und Absatz 6.7.4.14.6 Buchstabe b RID;
+die Entscheidung über die Ausnahme für Rücksendungen nach Absatz 4.3.2.3.7 Buchstabe b, Absatz 6.7.2.19.6 Buchstabe b, Absatz 6.7.3.15.6 Buchstabe b und Absatz 6.7.4.14.6 Buchstabe b RID;
 
 10.  
-die Baumusterzulassung von Kesselwagen und abnehmbaren Tanks nach Kapitel 6.8 RID, sofern diese Zulassungen nicht in den Geltungsbereich der ODV fallen;
+die Baumusterzulassung von Kesselwagen und abnehmbaren Tanks nach Kapitel 6.8 RID, sofern diese Zulassungen nicht in den Geltungsbereich der Ortsbewegliche-Druckgeräte-Verordnung fallen;
 
 11.  
 die Erteilung der Zustimmung nach Absatz 6.8.3.2.16 RID;
@@ -656,15 +664,18 @@ die Erteilung der Zustimmung nach Absatz 6.8.3.2.16 RID;
 die Festlegung der Bedingungen oder Genehmigung eines Prüfprogramms nach Abschnitt 6.8.4 Buchstabe c Sondervorschrift TA 2 RID, jeweils im Einvernehmen mit der Bundesanstalt für Materialforschung und -prüfung;
 
 13.  
-die Bescheinigung über die Zulassung einer Änderung nach Absatz 6.8.2.3.4 RID für Kesselwagen und abnehmbare Tanks, sofern diese Aufgabe nicht in den Geltungsbereich der ODV fällt;
+die Bescheinigung über die Zulassung einer Änderung nach Absatz 6.8.2.3.4 RID für Kesselwagen und abnehmbare Tanks, sofern diese Aufgabe nicht in den Geltungsbereich der Ortsbewegliche-Druckgeräte-Verordnung fällt;
 
 14.  
-die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 37 im Bereich der Eisenbahnen des Bundes und
+die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 37 im Bereich der Eisenbahnen des Bundes;
 
 15.  
-die Zustimmung nach Absatz 1.6.3.3.1 RID zur Weiterverwendung von Kesselwagen für die Beförderung von Gasen der Klasse 2.
+die Zustimmung nach Absatz 1.6.3.3.1 RID zur Weiterverwendung von Kesselwagen für die Beförderung von Gasen der Klasse 2 und
 
-(2) (weggefallen)
+16.  
+die Festlegung von Normen und Bedingungen nach Unterabschnitt 7.3.3.1 VC 3 RID.
+
+(2) Die unter Absatz 1 Nummer 8 und Nummer 10 bis 13 genannten Zulassungen, Zustimmungen, Anerkennungen und Genehmigungen können widerruflich erteilt, befristet und mit Auflagen versehen werden, soweit dies erforderlich ist, um die Einhaltung der gefahrgutbeförderungsrechtlichen Vorschriften sicherzustellen.
 
 (3) Die nach Landesrecht zuständigen Behörden sind zuständig für Beförderungen im Bereich der nichtbundeseigenen Eisenbahnen, soweit in dieser Verordnung nichts anderes bestimmt ist.
 
@@ -673,15 +684,18 @@ die Zustimmung nach Absatz 1.6.3.3.1 RID zur Weiterverwendung von Kesselwagen f�
 (1) Die Physikalisch-Technische Bundesanstalt ist zuständige Behörde für
 
 1.  
-die Zulassung von Flammendurchschlagsicherungen nach den Absätzen 9.3.2.12.7 und 9.3.3.12.7 und die Typzulassung von Hochgeschwindigkeitsventilen nach Absatz 1.6.7.2.2.2 ADN (Übergangsvorschrift zur Begriffsbestimmung „Hochgeschwindigkeitsventil“) und
+die Zulassung von Flammendurchschlagsicherungen nach den Absätzen 9.3.2.12.7 und 9.3.3.12.7 und die Typzulassung von Hochgeschwindigkeitsventilen nach Absatz 1.6.7.2.2.2 ADN (Übergangsvorschrift zur Begriffsbestimmung „Hochgeschwindigkeitsventil“);
 
 2.  
-die Typzulassung von Probeentnahmeeinrichtungen nach Abschnitt 1.2.1 Begriffsbestimmung „Probeentnahmeeinrichtung (geschlossen)“ und „Probeentnahmeeinrichtung (teilweise geschlossen)“, von Flammensperren nach Abschnitt 1.2.1 Begriffsbestimmung „Probeentnahmeöffnung“ und von Anschlüssen nach Abschnitt 1.2.1 ADN (Begriffsbestimmung „Anschluss für eine Probeentnahmeeinrichtung“).
+die Typzulassung von Probeentnahmeeinrichtungen nach Abschnitt 1.2.1 Begriffsbestimmung „Probeentnahmeeinrichtung (geschlossen)“ und „Probeentnahmeeinrichtung (teilweise geschlossen)“, von Flammensperren nach Abschnitt 1.2.1 Begriffsbestimmung „Probeentnahmeöffnung“ und von Anschlüssen nach Abschnitt 1.2.1 ADN (Begriffsbestimmung „Anschluss für eine Probeentnahmeeinrichtung“) und
+
+3.  
+den Erlass von Vorschriften für den Öffnungsdruck von Sicherheitsventilen von Drucktanks nach Abschnitt 1.2.1 ADN Begriffsbestimmung „Öffnungsdruck“.
 
 (2) Die Generaldirektion Wasserstraßen und Schifffahrt ist zuständige Behörde für
 
 1.  
-Aufgaben nach Kapitel 1.16 ADN;
+Aufgaben nach Kapitel 1.16 mit Ausnahme des Unterabschnitts 1.16.13.2 Satz 2 und 3 ADN;
 
 2.  
 die Anerkennung und Überwachung der Schulungen und Prüfungen nach Unterabschnitt 8.2.2.6 sowie die Anerkennung von Dokumenten nach den Unterabschnitten 8.2.1.9 und 8.2.1.10 ADN;
@@ -693,7 +707,7 @@ die Zulassung von Personen zur Prüfung der elektrischen Einrichtung nach Abschn
 die Zulassung von Personen für die Nachprüfung und Untersuchung der Feuerlöschgeräte, der Feuerlöschschläuche, der Lade- und Löschschläuche, der besonderen Ausrüstung und der Gasspüranlagen nach den Unterabschnitten 8.1.6.1 bis 8.1.6.3 ADN;
 
 5.  
-das Einziehen, Zurückbehalten oder Ändern eines Zulassungszeugnisses nach den Unterabschnitten 8.1.8.7, 8.1.8.8 und 8.1.9.1 in Verbindung mit 8.1.9.2 ADN;
+(weggefallen)
 
 6.  
 das Eintragen eines Sichtvermerks nach den Absätzen 9.3.1.50.2, 9.3.2.50.2 und 9.3.3.50.2 ADN;
@@ -730,6 +744,8 @@ die Zulassung von Personen zur Feststellung und Bescheinigung der Gasfreiheit na
 2.  
 das Zulassen von sachkundigen Personen oder Firmen zum Entgasen von Ladetanks nach Absatz 7.2.3.7.1 ADN.
 
+Die Zulassung von Personen nach Satz 1 Nummer 1 gilt als erteilt für die von einer Industrie- und Handelskammer öffentlich bestellten und vereidigten Handelschemiker mit der besonderen Qualifikation für die Feststellung von Gaszuständen auf Wasserfahrzeugen und die Ausstellung von Gaszustandsbescheinigungen.
+
 (4) Die Generaldirektion Wasserstraßen und Schifffahrt im Bereich der Bundeswasserstraßen und die jeweilige nach Landesrecht zuständige Stelle im Bereich der übrigen schiffbaren Wasserstraßen ist zuständige Behörde für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 37.
 
 (5) Die Generaldirektion Wasserstraßen und Schifffahrt ist zuständige Behörde für
@@ -752,7 +768,7 @@ das Genehmigen von Reparatur- und Wartungsarbeiten mit elektrischem Strom oder F
 die Entgegennahme der Meldungen über erhöhte Konzentrationen an Schwefelwasserstoff nach Unterabschnitt 3.2.3.2 Tabelle C Spalte 20 Nummer 28 Buchstabe b ADN bei der Beförderung von UN 2448;
 
 4.  
-Kontrollen nach Absatz 1.8.1.1.1 und die Untersagung der Verwendung eines Schiffes für die Beförderung gefährlicher Güter nach Unterabschnitt 8.1.8.7 ADN und
+Kontrollen nach Absatz 1.8.1.1.1 und die Untersagung der Verwendung eines Schiffes für die Beförderung gefährlicher Güter nach Unterabschnitt 1.16.13.2 ADN und
 
 5.  
 die Entgegennahme der Informationen und Mitteilungen nach Unterabschnitt 1.7.6.1 Buchstabe b Gliederungseinheit iv und Buchstabe c ADN.
@@ -771,12 +787,12 @@ Zuständige Behörde nach Satz 1 Nummer 4 und 5 sowie Unterabschnitt 7.1.5.5 ADN
 sich vor Erteilung eines Auftrags an den Absender zu vergewissern, ob die gefährlichen Güter nach Teil 2 ADR/RID/ADN klassifiziert sind und nach § 3 befördert werden dürfen;
 
 2.  
-dafür zu sorgen, dass dem Absender die Angaben nach den Unterabschnitten 5.4.1.1, 5.4.1.2 sowie den Absätzen 5.5.2.4.1, 5.5.2.4.3 und 5.5.3.7.1 ADR/RID/ADN, im Straßenverkehr mit Ausnahme von Namen und Anschrift des Absenders nach Absatz 5.4.1.1.1 Buchstabe g ADR, schriftlich mitgeteilt werden, und ihn, wenn Güter auf der Straße befördert werden, die § 35 Absatz 1 unterliegen, auf dessen Beachtung schriftlich hinzuweisen, und
+dafür zu sorgen, dass dem Absender die Angaben nach den Unterabschnitten 5.4.1.1, 5.4.1.2 sowie den Absätzen 5.5.2.4.1, 5.5.2.4.3 und 5.5.3.7.1 ADR/RID/ADN, im Straßenverkehr mit Ausnahme von Namen und Anschrift des Absenders nach Absatz 5.4.1.1.1 Buchstabe g ADR, schriftlich oder elektronisch mitgeteilt werden, und ihn, wenn Güter auf der Straße befördert werden, die § 35 Absatz 4 Satz 1 oder § 35a Absatz 1 oder Absatz 4 Satz 1 unterliegen, auf deren Beachtung schriftlich oder elektronisch hinzuweisen und
 
 3.  
 dafür zu sorgen, dass der Absender bei Beförderung nach Kapitel 3.4 auf das gefährliche Gut in begrenzten Mengen unter Angabe der Bruttomasse und bei Beförderung nach Kapitel 3.5 auf das gefährliche Gut in freigestellten Mengen unter Angabe der Anzahl der Versandstücke, ausgenommen bei Beförderungen nach Unterabschnitt 3.5.1.4 ADR/RID/ADN, hingewiesen wird.
 
-(2) Der Auftraggeber des Absenders im Eisenbahnverkehr hat dafür zu sorgen, dass dem Absender die Angaben nach Absatz 1.1.4.4.5 RID schriftlich mitgeteilt werden.
+(2) Der Auftraggeber des Absenders im Eisenbahnverkehr hat dafür zu sorgen, dass dem Absender die Angaben nach Absatz 1.1.4.4.5 RID schriftlich oder elektronisch mitgeteilt werden.
 
 ### § 18 Pflichten des Absenders
 
@@ -789,9 +805,9 @@ a)
 auf das gefährliche Gut durch die Angaben nach Absatz 5.4.1.1.1 Buchstabe a bis d ADR/RID/ADN oder Absatz 5.4.1.1.2 Buchstabe a bis d ADN
 
 b)  
-und, wenn Güter auf der Straße befördert werden, die § 35 Absatz 1 unterliegen, auf dessen Beachtung
+und, wenn Güter auf der Straße befördert werden, die den §§ 35 und 35a unterliegen, auf dessen Beachtung
 
-schriftlich hinzuweisen; bei Beförderungen nach den Kapiteln 3.4 und 3.5 ADR/RID/ADN ist ein allgemeiner Hinweis auf das gefährliche Gut in begrenzten und freigestellten Mengen erforderlich;
+schriftlich oder elektronisch hinzuweisen; bei Beförderungen nach den Kapiteln 3.4 und 3.5 ADR/RID/ADN ist ein allgemeiner Hinweis auf das gefährliche Gut in begrenzten und freigestellten Mengen erforderlich;
 
 2.  
 den Beförderer vor der Beförderung nach Abschnitt 3.4.12 ADR/RID/ADN in nachweisbarer Form über die Bruttomasse der in begrenzten Mengen zu versendenden gefährlichen Güter zu informieren;
@@ -809,7 +825,7 @@ dafür zu sorgen, dass nur Verpackungen, Großverpackungen, IBC, Tanks, MEMU ode
 dafür zu sorgen, dass die zuständige Behörde nach Absatz 5.1.5.1.4 ADR/RID/ADN benachrichtigt wird;
 
 7.  
-im Besitz einer Kopie der Anweisungen nach Absatz 4.1.9.1.8 und einer Kopie der erforderlichen Zeugnisse nach Absatz 5.1.5.2.1 zu sein und auf Anfrage der zuständigen Behörde nach Absatz 5.1.5.2.3 ADR/RID/ADN Aufzeichnungen zur Verfügung zu stellen;
+im Besitz einer Kopie der Anweisungen nach Absatz 4.1.9.1.9 und einer Kopie der erforderlichen Zeugnisse nach Absatz 5.1.5.2.2 zu sein und auf Anfrage der zuständigen Behörde nach Absatz 5.1.5.2.3 ADR/RID/ADN Aufzeichnungen zur Verfügung zu stellen;
 
 8.  
 dafür zu sorgen, dass ein Beförderungspapier nach Abschnitt 5.4.1 mitgegeben wird, das die nach Abschnitt 5.4.1, die nach den anwendbaren Sondervorschriften in Kapitel 3.3 sowie die nach den Absätzen 5.5.2.4.1, 5.5.2.4.3 und 5.5.3.7.1 ADR/RID/ADN und Unterabschnitt 6.7.1.3 ADR/RID geforderten Angaben, Anweisungen und Hinweise enthält;
@@ -821,7 +837,7 @@ dafür zu sorgen, dass dem Beförderer die Zeugnisse nach Absatz 5.4.1.2.5.4 ADR
 dafür zu sorgen, dass dem Beförderungspapier die erforderlichen Begleitpapiere nach den anwendbaren Sondervorschriften in Kapitel 3.3 ADR/RID/ADN, nach Absatz 4.1.3.8.2 ADR/RID, Unterabschnitt 5.4.1.2 und Abschnitt 5.4.2 ADR/RID/ADN beigefügt werden;
 
 11.  
-den Verlader auf die Begasung von Einheiten schriftlich hinzuweisen und
+den Verlader auf die Begasung von Einheiten schriftlich oder elektronisch hinzuweisen und
 
 12.  
 eine Kopie des Beförderungspapiers für gefährliche Güter und der im ADR/RID/ADN festgelegten zusätzlichen Informationen und Dokumentation für einen Mindestzeitraum von drei Monaten ab Ende der Beförderung nach Unterabschnitt 5.4.4.1 ADR/RID/ADN aufzubewahren.
@@ -834,7 +850,7 @@ eine Kopie des Beförderungspapiers für gefährliche Güter und der im ADR/RID/
 die Vorschriften für den Versand als Expressgut nach Kapitel 7.6 RID zu beachten;
 
 2.  
-dafür zu sorgen, dass auch an ungereinigten und nicht entgasten leeren Tanks oder an ungereinigten leeren Wagen, Großcontainern und Kleincontainern für Güter in loser Schüttung
+dafür zu sorgen, dass auch an ungereinigten leeren Wagen, Großcontainern und Kleincontainern für Güter in loser Schüttung
 
 a)  
 Großzettel (Placards) nach Unterabschnitt 5.3.1.6 RID,
@@ -859,13 +875,15 @@ dafür zu sorgen, dass das Beförderungspapier die Angaben nach Absatz 1.1.4.4.5
 dass dem Beförderer oder Schiffsführer vor Beförderungsbeginn die Ausnahmezulassung nach § 5 Absatz 1 Nummer 3 oder Absatz 3 übergeben wird und
 
 2.  
-dass auch an ungereinigten und nicht entgasten leeren Tanks oder an ungereinigten leeren Fahrzeugen, Wagen, Containern, Großcontainern und Kleincontainern für Güter in loser Schüttung
+dass auch an ungereinigten und nicht entgasten leeren Tankfahrzeugen, Kesselwagen, Fahrzeugen mit Aufsetztanks, Wagen mit abnehmbaren Tanks, Batterie-Fahrzeugen, Batteriewagen, MEGC, MEMU, Tankcontainern und ortsbeweglichen Tanks sowie an ungereinigten leeren Fahrzeugen, Wagen und Containern für die Beförderung in loser Schüttung
 
 a)  
-Großzettel (Placards) nach Absatz 5.3.1.2.4 ADN angebracht werden und
+Großzettel (Placards) nach Absatz 5.3.1.6.1 ADN und
 
 b)  
-die orangefarbene Tafel nach Absatz 5.3.2.1.7 ADN angebracht wird.
+die orangefarbenen Tafeln nach Absatz 5.3.2.1.7 ADN
+
+angebracht werden.
 
 ### § 19 Pflichten des Beförderers
 
@@ -878,12 +896,15 @@ muss den Absender nach Unterabschnitt 1.7.6.1 Buchstabe a Gliederungseinheit i A
 darf, wenn er einen Verstoß gegen die in Absatz 1 Nummer 1 und 4 und Absatz 2 bis 4 genannten Vorschriften des ADR/RID/ADN feststellt, die Sendung so lange nicht befördern, bis die Vorschriften erfüllt sind;
 
 3.  
-hat eine Kopie des Beförderungspapiers für gefährliche Güter und der im ADR/RID/ADN festgelegten zusätzlichen Informationen und Dokumentation für einen Mindestzeitraum von drei Monaten ab Ende der Beförderung nach Unterabschnitt 5.4.4.1 ADR/RID/ADN aufzubewahren;
+hat dafür zu sorgen, dass Tanks nach Unterabschnitt 4.3.3.5 Satz 3 Buchstabe f ADR/RID nicht zur Beförderung aufgegeben werden;
 
 4.  
-hat dafür zu sorgen, dass die Dokumente im Zusammenhang mit der Beförderung von Güterbeförderungseinheiten (CTU), die begast und vor der Beförderung nicht vollständig belüftet worden sind, die Angaben nach Absatz 5.5.2.4.1 ADR/RID/ADN enthalten, und
+hat eine Kopie des Beförderungspapiers für gefährliche Güter und der im ADR/RID/ADN festgelegten zusätzlichen Informationen und Dokumentation für einen Mindestzeitraum von drei Monaten ab Ende der Beförderung nach Unterabschnitt 5.4.4.1 ADR/RID/ADN aufzubewahren;
 
 5.  
+hat dafür zu sorgen, dass die Dokumente im Zusammenhang mit der Beförderung von Güterbeförderungseinheiten (CTU), die begast und vor der Beförderung nicht vollständig belüftet worden sind, die Angaben nach Absatz 5.5.2.4.1 ADR/RID/ADN enthalten, und
+
+6.  
 hat dafür zu sorgen, dass die Dokumente im Zusammenhang mit der Beförderung von Fahrzeugen, Wagen oder Containern, die gekühlt oder konditioniert und vor der Beförderung nicht vollständig belüftet wurden, die Angaben nach Absatz 5.5.3.7.1 ADR/RID/ADN enthalten.
 
 (2) Der Beförderer im Straßenverkehr hat
@@ -927,13 +948,13 @@ die Beförderungseinheit mit Feuerlöschgeräten nach Abschnitt 8.1.4 ADR auszur
 die Prüffristen nach Unterabschnitt 8.1.4.4 ADR in Verbindung mit § 36 oder den zugelassenen nationalen Normen einzuhalten;
 
 11.  
-das Fahrzeug mit den erforderlichen Großzetteln (Placards) nach Abschnitt 5.3.1, den orangefarbenen Kennzeichnungen nach Abschnitt 5.3.2 und den Kennzeichen nach den Abschnitten 3.4.15, 5.3.3 und 5.3.6 auszurüsten und hat dafür zu sorgen, dass in den Fällen des Abschnitts 3.4.13 in Verbindung mit Abschnitt 3.4.14 die Kennzeichnung nach Abschnitt 3.4.15 ADR angebracht wird;
+das Fahrzeug mit den erforderlichen Großzetteln (Placards) nach Abschnitt 5.3.1, den orangefarbenen Tafeln nach Abschnitt 5.3.2 und den Kennzeichen nach den Abschnitten 3.4.15, 5.3.3 und 5.3.6 auszurüsten und hat dafür zu sorgen, dass in den Fällen des Abschnitts 3.4.13 in Verbindung mit Abschnitt 3.4.14 die Kennzeichen nach Abschnitt 3.4.15 ADR angebracht werden;
 
 12.  
 dafür zu sorgen, dass nur Tanks verwendet werden, deren Dicke der Tankwände den in Absatz 4.3.2.3.1 in Verbindung mit den Absätzen 6.8.2.1.17 bis 6.8.2.1.21 ADR genannten Anforderungen entspricht;
 
 13.  
-dafür zu sorgen, dass der festverbundene Tank, der Aufsetztank, das Batterie-Fahrzeug und der Saug-Druck-Tank auch zwischen den Prüfterminen den Bau-, Ausrüstungs- und Kennzeichnungsvorschriften nach den Unterabschnitten 6.8.2.1, 6.8.2.2, 6.8.2.5, 6.8.3.1, 6.8.3.2 und 6.8.3.5, den Abschnitten 6.10.2 und 6.10.3 für die in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 oder in der Bescheinigung nach den Absätzen 6.8.2.4.5 und 6.8.3.4.16 ADR angegebenen Stoffe entspricht;
+dafür zu sorgen, dass der festverbundene Tank, der Aufsetztank, das Batterie-Fahrzeug und der Saug-Druck-Tank auch zwischen den Prüfterminen den Bau-, Ausrüstungs- und Kennzeichnungsvorschriften nach den Unterabschnitten 6.8.2.1, 6.8.2.2, 6.8.2.5, 6.8.3.1, 6.8.3.2 und 6.8.3.5, den Abschnitten 6.10.1, 6.10.2 und 6.10.3 für die in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 oder in der Bescheinigung nach den Absätzen 6.8.2.4.5 und 6.8.3.4.18 ADR angegebenen Stoffe entspricht;
 
 14.  
 dafür zu sorgen, dass nach Maßgabe der Absätze 6.8.2.4.4 und 6.8.3.4.14 ADR eine außerordentliche Prüfung des festverbundenen Tanks und des Batterie-Fahrzeugs durchgeführt wird, wenn die Sicherheit des Tanks oder seiner Ausrüstung beeinträchtigt sein kann;
@@ -979,13 +1000,22 @@ hat dafür zu sorgen, dass die Vorschriften über den Schutzabstand nach Abschni
 hat nach Unterabschnitt 5.4.3.2 RID vor Antritt der Fahrt dem Triebfahrzeugführer die schriftlichen Weisungen in einer Sprache bereitzustellen, die der Triebfahrzeugführer lesen und verstehen kann;
 
 6.  
-hat den Triebfahrzeugführer nach Unterabschnitt 5.4.3.3 RID vor Antritt der Fahrt über die geladenen gefährlichen Güter zu informieren;
+hat den Triebfahrzeugführer vor Antritt der Fahrt über die geladenen gefährlichen Güter und deren Position im Zug nach Absatz 1.4.2.2.7 in Verbindung mit Unterabschnitt 5.4.3.3 RID zu informieren;
 
 7.  
-hat dafür zu sorgen, dass die in den schriftlichen Weisungen nach Unterabschnitt 5.4.3.4 RID vorgeschriebene Ausrüstung auf dem Führerstand mitgeführt wird, und
+hat dafür zu sorgen, dass die in den schriftlichen Weisungen nach Unterabschnitt 5.4.3.4 RID vorgeschriebene Ausrüstung auf dem Führerstand mitgeführt wird;
 
 8.  
-hat dafür zu sorgen, dass im Huckepackverkehr am Anhänger die orangefarbenen Tafeln oder die Großzettel (Placards) nach Absatz 1.1.4.4.3 RID angebracht sind.
+hat dafür zu sorgen, dass im Huckepackverkehr am Anhänger die orangefarbenen Tafeln oder die Großzettel (Placards) nach Absatz 1.1.4.4.3 RID angebracht sind, und
+
+9.  
+hat, wenn er gefährliche Güter am Abgangsort übernimmt, sich nach Absatz 1.4.2.2.1 Buchstabe c RID durch eine Sichtprüfung zu vergewissern, dass die Wagen und die Ladung keine offensichtlichen Mängel, keine Undichtigkeiten oder Risse aufweisen und dass keine Ausrüstungsteile fehlen;
+
+10.  
+hat, wenn er gefährliche Güter am Abgangsort übernimmt, sich nach Absatz 1.4.2.2.1 Buchstabe f zu vergewissern, dass die für die Wagen in Kapitel 5.3 RID vorgeschriebenen Großzettel (Placards), Kennzeichen und orangefarbenen Tafeln angebracht sind, und
+
+11.  
+hat dafür zu sorgen, dass die Informationen, die nach Absatz 1.4.2.2.8 RID zur Verfügung gestellt werden, auch den Tank und seine Ausrüstung umfassen.
 
 (4) Der Beförderer in der Binnenschifffahrt
 
@@ -1072,13 +1102,13 @@ hat dafür zu sorgen, dass bei Verwendung von unverpacktem Trockeneis die Maßna
 (2) Der Verlader im Straßenverkehr hat
 
 1.  
-den Fahrzeugführer auf das gefährliche Gut mit den Angaben nach Absatz 5.4.1.1.1 Buchstabe a bis d ADR sowie, wenn Güter auf der Straße befördert werden, die § 35 Absatz 1 unterliegen, auf dessen Beachtung schriftlich hinzuweisen. Bei der Beförderung nach den Kapiteln 3.4 und 3.5 ADR ist nur ein allgemeiner Hinweis auf das gefährliche Gut in begrenzten und freigestellten Mengen erforderlich;
+den Fahrzeugführer auf das gefährliche Gut mit den Angaben nach Absatz 5.4.1.1.1 Buchstabe a bis d ADR sowie, wenn Güter auf der Straße befördert werden, die § 35 Absatz 4 Satz 1 oder § 35a Absatz 1 oder Absatz 4 Satz 1 unterliegen, auf deren Beachtung schriftlich oder elektronisch hinzuweisen. Bei der Beförderung nach den Kapiteln 3.4 und 3.5 ADR ist nur ein allgemeiner Hinweis auf das gefährliche Gut in begrenzten und freigestellten Mengen erforderlich;
 
 2.  
 dafür zu sorgen, dass die Vorschriften über die Trägerfahrzeuge von Tankcontainern, ortsbeweglichen Tanks und MEGC nach Abschnitt 7.4.1 ADR eingehalten werden;
 
 3.  
-dafür zu sorgen, dass die Vorschriften über die Gefahrzettel und Kennzeichnungen nach Unterabschnitt 5.1.3.1 in Verbindung mit Kapitel 5.2 ADR beachtet werden;
+dafür zu sorgen, dass die Vorschriften über die Gefahrzettel und Kennzeichen nach Unterabschnitt 5.1.3.1 in Verbindung mit Kapitel 5.2 ADR beachtet werden;
 
 4.  
 zu prüfen, ob an Containern mit Versandstücken Großzettel (Placards) nach Unterabschnitt 5.3.1.2 und das Kennzeichen nach Abschnitt 5.3.6 ADR angebracht sind, und
@@ -1089,7 +1119,7 @@ dafür zu sorgen, dass nur Container eingesetzt werden, die den technischen Anfo
 (3) Der Verlader im Eisenbahnverkehr hat
 
 1.  
-dafür zu sorgen, dass die Vorschriften über die Gefahrzettel und Kennzeichnungen nach Unterabschnitt 5.1.3.1 in Verbindung mit Kapitel 5.2 RID beachtet werden;
+dafür zu sorgen, dass die Vorschriften über die Gefahrzettel und Kennzeichen nach Unterabschnitt 5.1.3.1 in Verbindung mit Kapitel 5.2 RID beachtet werden;
 
 2.  
 dafür zu sorgen, dass
@@ -1128,19 +1158,19 @@ den Schiffsführer auf das gefährliche Gut durch die Angaben nach Absatz 5.4.1.
 dafür zu sorgen, dass
 
 a)  
-an Containern, MEGC, Tankcontainern und ortsbeweglichen Tanks Großzettel (Placards) nach Absatz 5.3.1.1.2 sowie das Kennzeichen nach Abschnitt 5.3.6 ADN,
+an Containern, MEGC, Tankcontainern und ortsbeweglichen Tanks Großzettel (Placards) nach Unterabschnitt 5.3.1.2 sowie das Kennzeichen nach Abschnitt 5.3.6 ADN,
 
 b)  
-an Trägerfahrzeugen, auf denen Container, MEGC, Tankcontainer oder ortsbewegliche Tanks befördert werden, Großzettel (Placards) nach Absatz 5.3.1.1.3 Satz 1 ADN,
+an Trägerfahrzeugen, auf denen Container, MEGC, Tankcontainer oder ortsbewegliche Tanks befördert werden, Großzettel (Placards) nach Unterabschnitt 5.3.1.3 Satz 1 ADN,
 
 c)  
-an Fahrzeugen für die Beförderung in loser Schüttung, Tankfahrzeugen, Batterie-Fahrzeugen und Fahrzeugen mit Aufsetztanks Großzettel (Placards) nach Absatz 5.3.1.1.4 ADN,
+an Fahrzeugen für die Beförderung in loser Schüttung, Tankfahrzeugen, Batterie-Fahrzeugen und Fahrzeugen mit Aufsetztanks Großzettel (Placards) nach Unterabschnitt 5.3.1.4 ADN,
 
 d)  
-an Fahrzeugen, in denen nur Versandstücke befördert werden, Großzettel (Placards) nach Absatz 5.3.1.1.5 ADN und
+an Fahrzeugen, in denen nur Versandstücke befördert werden, Großzettel (Placards) nach Unterabschnitt 5.3.1.5 ADN und
 
 e)  
-an leeren Tankfahrzeugen, Batterie-Fahrzeugen, MEGC, Tankcontainern und ortsbeweglichen Tanks sowie an leeren Fahrzeugen und Containern für die Beförderung in loser Schüttung Großzettel (Placards) nach Absatz 5.3.1.1.6 ADN
+auch an ungereinigten und nicht entgasten leeren Tankfahrzeugen, Kesselwagen, Fahrzeugen mit Aufsetztanks, Wagen mit abnehmbaren Tanks, Batterie-Fahrzeugen, Batteriewagen, MEGC, MEMU, Tankcontainern und ortsbeweglichen Tanks sowie an ungereinigten leeren Fahrzeugen, Wagen und Containern für die Beförderung in loser Schüttung Großzettel (Placards) nach Absatz 5.3.1.6.1 ADN
 
 angebracht sind;
 
@@ -1214,45 +1244,51 @@ zu beachten.
 darf gefährliche Güter dem Beförderer nur übergeben, wenn sie nach § 3 befördert werden dürfen;
 
 2.  
-darf ortsbewegliche Tanks und UN-MEGC nach Unterabschnitt 4.2.1.1, Unterabschnitt 4.2.2.2 in Verbindung mit Absatz 4.2.2.7.1, Unterabschnitt 4.2.3.2 in Verbindung mit Absatz 4.2.3.6.1, Unterabschnitt 4.2.4.1 in Verbindung mit Absatz 4.2.4.5.1 ADR/RID nur mit den für diese Tanks zugelassenen gefährlichen Gütern befüllen, wenn das Datum der nächsten Prüfung nicht überschritten ist;
+darf Tanks nach Unterabschnitt 4.3.3.5 Satz 3 Buchstabe a bis e und g ADR/RID dem Beförderer nicht übergeben;
 
 3.  
-hat dafür zu sorgen, dass an ortsbeweglichen Tanks und UN-MEGC die Dichtheit der Verschlusseinrichtungen geprüft wird und die ortsbeweglichen Tanks nach Absatz 4.2.1.9.6 Buchstabe c und Unterabschnitt 4.2.2.8 Buchstabe b, Unterabschnitt 4.2.3.8 Buchstabe b und Unterabschnitt 4.2.4.6 Buchstabe a ADR/RID nicht befördert werden, wenn sie undicht sind;
+darf ortsbewegliche Tanks und UN-MEGC nach Unterabschnitt 4.2.1.1, Unterabschnitt 4.2.2.2 in Verbindung mit Absatz 4.2.2.7.1, Unterabschnitt 4.2.3.2 in Verbindung mit Absatz 4.2.3.6.1, Unterabschnitt 4.2.4.1 in Verbindung mit Absatz 4.2.4.5.1 ADR/RID nur mit den für diese Tanks zugelassenen gefährlichen Gütern befüllen, wenn das Datum der nächsten Prüfung nicht überschritten ist;
 
 4.  
-darf Tanks, deren Datum der nächsten Prüfung nicht überschritten ist, mit den nach Absatz 4.3.2.1.5 zulässigen gefährlichen Gütern nur befüllen, wenn die Beförderung dieser gefährlichen Güter nach Absatz 4.3.2.1.1 ADR/RID in Tanks zulässig ist;
+hat dafür zu sorgen, dass an ortsbeweglichen Tanks und UN-MEGC die Dichtheit der Verschlusseinrichtungen geprüft wird und die ortsbeweglichen Tanks nach Absatz 4.2.1.9.6 Buchstabe c und Unterabschnitt 4.2.2.8 Buchstabe b, Unterabschnitt 4.2.3.8 Buchstabe b und Unterabschnitt 4.2.4.6 Buchstabe a ADR/RID nicht befördert werden, wenn sie undicht sind;
 
 5.  
-hat dafür zu sorgen, dass der höchstzulässige Füllungsgrad oder die höchstzulässige Masse der Füllung je Liter Fassungsraum oder die höchstzulässige Bruttomasse nach den Absätzen 4.2.1.9.1.1, 4.2.1.13.13, 4.2.2.7.2, 4.2.2.7.3, 4.2.3.6.2, 4.2.3.6.3, 4.2.3.6.4, 4.2.4.5.2 und 4.2.4.5.3, den anwendbaren Sondervorschriften in Unterabschnitt 4.2.5.3, den Vorschriften in Unterabschnitt 4.3.2.2, den Absätzen 4.3.3.2.3 und 4.3.3.2.5 oder den anwendbaren Sondervorschriften in Abschnitt 4.3.5 ADR/RID eingehalten wird;
+darf Tanks, deren Datum der nächsten Prüfung nicht überschritten ist, mit den nach Absatz 4.3.2.1.5 zulässigen gefährlichen Gütern nur befüllen, wenn die Beförderung dieser gefährlichen Güter nach Absatz 4.3.2.1.1 ADR/RID in Tanks zulässig ist;
 
 6.  
-hat dafür zu sorgen, dass bei Tanks nach dem Befüllen nach den anwendbaren Sondervorschriften in Kapitel 3.3 ADR/RID/ADN und den Vorschriften nach Absatz 4.2.4.5.5 die Dichtheit der Verschlüsse und der Ausrüstung geprüft wird oder nach Absatz 4.3.2.3.3 ADR/RID alle Verschlüsse in geschlossener Stellung sind und keine Undichtheit auftritt;
+hat dafür zu sorgen, dass der höchstzulässige Füllungsgrad oder die höchstzulässige Masse der Füllung je Liter Fassungsraum oder die höchstzulässige Bruttomasse nach den Absätzen 4.2.1.9.1.1, 4.2.1.13.13, 4.2.2.7.2, 4.2.2.7.3, 4.2.3.6.2, 4.2.3.6.3, 4.2.3.6.4, 4.2.4.5.2 und 4.2.4.5.3, den anwendbaren Sondervorschriften in Unterabschnitt 4.2.5.3, den Vorschriften in Unterabschnitt 4.3.2.2, den Absätzen 4.3.3.2.3 und 4.3.3.2.5 oder den anwendbaren Sondervorschriften in Abschnitt 4.3.5 ADR/RID eingehalten wird;
 
 7.  
-hat dafür zu sorgen, dass nach Absatz 4.2.1.9.6 Buchstabe b oder Absatz 4.3.2.3.5 ADR/RID an den Tanks außen keine gefährlichen Reste des Füllgutes anhaften;
+hat dafür zu sorgen, dass bei Tanks nach dem Befüllen nach den anwendbaren Sondervorschriften in Kapitel 3.3 ADR/RID/ADN und den Vorschriften nach Absatz 4.2.4.5.5 die Dichtheit der Verschlüsse und der Ausrüstung geprüft wird oder nach Absatz 4.3.2.3.3 ADR/RID alle Verschlüsse in geschlossener Stellung sind und keine Undichtheit auftritt;
 
 8.  
-hat dafür zu sorgen, dass nach Unterabschnitt 4.2.1.6 oder Absatz 4.3.2.3.6 ADR/RID Tanks nicht mit Stoffen, die gefährlich miteinander reagieren können, in unmittelbar nebeneinanderliegenden Tankabteilen oder -kammern befüllt werden;
+hat dafür zu sorgen, dass nach Absatz 4.2.1.9.6 Buchstabe b oder Absatz 4.3.2.3.5 ADR/RID an den Tanks außen keine gefährlichen Reste des Füllgutes anhaften;
 
 9.  
-hat dafür zu sorgen, dass bei wechselweiser Verwendung von Tanks die Entleerungs-, Reinigungs- und Entgasungsmaßnahmen nach Absatz 4.3.3.3.1 ADR/RID durchgeführt werden;
+hat dafür zu sorgen, dass nach Unterabschnitt 4.2.1.6 oder Absatz 4.3.2.3.6 ADR/RID Tanks nicht mit Stoffen, die gefährlich miteinander reagieren können, in unmittelbar nebeneinanderliegenden Tankabteilen oder -kammern befüllt werden;
 
 10.  
-hat dafür zu sorgen, dass an ortsbeweglichen Tanks die Bezeichnung der zur Beförderung zugelassenen Gase nach den Absätzen 6.7.3.16.2 und 6.7.4.15.2 ADR/RID angegeben wird;
+hat dafür zu sorgen, dass Tanks, Batterie-Fahrzeuge, Batteriewagen und MEGC, deren Datum der nächsten Prüfung nach Absatz 4.3.2.3.7 ADR/RID überschritten ist, nicht befüllt und nicht zur Beförderung aufgegeben werden;
 
 11.  
-hat dafür zu sorgen, dass an Tankcontainern, MEGC, Batterie-Fahrzeugen und Batteriewagen die offizielle Benennung der beförderten Stoffe und Gase nach den Absätzen 6.8.2.5.2 und 6.8.3.5.11 und bei Gasen, die einer n.a.g.-Eintragung zugeordnet sind, zusätzlich die technische Benennung nach den Absätzen 6.8.3.5.6 und 6.8.3.5.12 ADR/RID angegeben wird;
+hat dafür zu sorgen, dass bei wechselweiser Verwendung von Tanks die Entleerungs-, Reinigungs- und Entgasungsmaßnahmen nach Absatz 4.3.3.3.1 ADR/RID durchgeführt werden;
 
 12.  
-hat dafür zu sorgen, dass befüllte MEGC nach Maßgabe des Unterabschnitts 4.2.4.6 Buchstabe b bis d ADR/RID nicht zur Beförderung aufgegeben werden, und
+hat dafür zu sorgen, dass an ortsbeweglichen Tanks die Bezeichnung der zur Beförderung zugelassenen Gase nach den Absätzen 6.7.3.16.2 und 6.7.4.15.2 ADR/RID angegeben wird;
 
 13.  
+hat dafür zu sorgen, dass an Tankcontainern, MEGC, Batterie-Fahrzeugen und Batteriewagen die offizielle Benennung der beförderten Stoffe und Gase nach den Absätzen 6.8.2.5.2 und 6.8.3.5.11 und bei Gasen, die einer n.a.g.-Eintragung zugeordnet sind, zusätzlich die technische Benennung nach den Absätzen 6.8.3.5.6 und 6.8.3.5.12 ADR/RID angegeben wird;
+
+14.  
+hat dafür zu sorgen, dass befüllte MEGC nach Maßgabe des Unterabschnitts 4.2.4.6 Buchstabe b bis d ADR/RID nicht zur Beförderung aufgegeben werden, und
+
+15.  
 darf Tanks nur befüllen, wenn sich die Tanks und ihre Ausrüstungsteile in einem technisch einwandfreien Zustand befinden.
 
 (2) Der Befüller im Straßenverkehr
 
 1.  
-hat den Fahrzeugführer auf das gefährliche Gut mit den Angaben nach Absatz 5.4.1.1.1 Buchstabe a bis d ADR sowie, wenn Güter auf der Straße befördert werden, die § 35 Absatz 1 unterliegen, auf dessen Beachtung schriftlich hinzuweisen;
+hat den Fahrzeugführer auf das gefährliche Gut mit den Angaben nach Absatz 5.4.1.1.1 Buchstabe a bis d ADR sowie, wenn Güter auf der Straße befördert werden, die § 35 Absatz 4 Satz 1 oder § 35a Absatz 1 oder Absatz 4 Satz 1 unterliegen, auf deren Beachtung schriftlich oder elektronisch hinzuweisen;
 
 2.  
 hat dem Fahrzeugführer die Nummern zur Kennzeichnung der Gefahr für die orangefarbenen Tafeln nach Abschnitt 5.3.2 ADR mitzuteilen;
@@ -1293,10 +1329,13 @@ hat dafür zu sorgen, dass die anwendbaren Sondervorschriften in Kapitel 3.3 und
 hat dafür zu sorgen, dass bei Fahrzeugen, ortsbeweglichen Tanks oder Tankcontainern die Maßnahmen zur Vermeidung elektrostatischer Aufladungen nach Abschnitt 7.5.10 ADR durchgeführt werden;
 
 10.  
-darf Tanks nach Absatz 4.3.2.1.1 nur mit den nach Absatz 4.3.2.1.5 zugelassenen gefährlichen Gütern befüllen, wenn bei den verwendeten Fahrzeugen das Gültigkeitsdatum der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.4 ADR nicht überschritten ist, und
+darf Tanks nach Absatz 4.3.2.1.1 nur mit den nach Absatz 4.3.2.1.5 zugelassenen gefährlichen Gütern befüllen, wenn bei den verwendeten Fahrzeugen das Gültigkeitsdatum der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.4 ADR nicht überschritten ist;
 
 11.  
-hat sich zu vergewissern, dass die Vorschriften für die Beförderung in Tanks nach Abschnitt 7.4.1 ADR eingehalten sind.
+hat sich zu vergewissern, dass die Vorschriften für die Beförderung in Tanks nach Abschnitt 7.4.1 ADR eingehalten sind, und
+
+12.  
+hat dafür zu sorgen, dass die Verwendungsvorschriften für flexible Schüttgut-Container nach Unterabschnitt 7.3.2.10 ADR eingehalten werden.
 
 (3) Der Befüller im Eisenbahnverkehr hat
 
@@ -1327,10 +1366,13 @@ angebracht werden;
 dafür zu sorgen, dass die Vorschriften über die Beförderung in loser Schüttung nach Kapitel 7.3 RID beachtet werden;
 
 4.  
-dafür zu sorgen, dass die Beladevorschriften nach den Unterabschnitten 7.5.1.1 und 7.5.1.2 RID beachtet werden, und
+dafür zu sorgen, dass die Beladevorschriften nach den Unterabschnitten 7.5.1.1 und 7.5.1.2 RID beachtet werden;
 
 5.  
-nach Kapitel 3.3 Sondervorschrift 665 Satz 1 Buchstabe b Satz 2 RID sicherzustellen und zu dokumentieren, dass die maximal zulässige Temperatur der Ladung während oder unmittelbar nach dem Befüllen nicht überschritten wird.
+nach Kapitel 3.3 Sondervorschrift 665 Satz 1 Buchstabe b Satz 2 RID sicherzustellen und zu dokumentieren, dass die maximal zulässige Temperatur der Ladung während oder unmittelbar nach dem Befüllen nicht überschritten wird, und
+
+6.  
+dafür zu sorgen, dass die Verwendungsvorschriften für flexible Schüttgut-Container nach Unterabschnitt 7.3.2.10 RID eingehalten werden.
 
 (4) Der Befüller in der Binnenschifffahrt hat
 
@@ -1341,7 +1383,7 @@ den Schiffsführer auf das gefährliche Gut mit den Angaben nach Absatz 5.4.1.1.
 dafür zu sorgen, dass an Tankcontainern, ortsbeweglichen Tanks, MEGC und Containern mit gefährlichen Gütern in loser Schüttung
 
 a)  
-die Großzettel (Placards) nach Absatz 5.3.1.1.4 ADN,
+die Großzettel (Placards) nach Unterabschnitt 5.3.1.2 ADN,
 
 b)  
 die orangefarbene Tafel nach Unterabschnitt 5.3.2.1 ADN,
@@ -1358,10 +1400,19 @@ angebracht werden;
 dafür zu sorgen, dass ein Tankschiff nur mit den gefährlichen Gütern gemäß der Schiffsstoffliste nach Absatz 1.16.1.2.5 befüllt wird und das Datum nach Unterabschnitt 8.1.8.4 Satz 2 ADN im Zulassungszeugnis für das Tankschiff nicht überschritten ist;
 
 4.  
-nach Unterabschnitt 1.4.3.3 Buchstabe q und x ADN sicherzustellen, dass beim Laden die landseitige Einrichtung mit einem oder zwei Evakuierungsmitteln ausgerüstet ist, und
+nach Unterabschnitt 1.4.3.3 Buchstabe q und x ADN sicherzustellen, dass beim Laden die landseitige Einrichtung mit einem oder zwei Evakuierungsmitteln ausgerüstet ist;
 
 5.  
-nach Unterabschnitt 1.4.3.3 Buchstabe v, wenn die Sondervorschrift 803 in Abschnitt 3.3.1 ADN Anwendung findet, sicherzustellen und zu dokumentieren, dass die maximal zulässige Temperatur beim Verladen nicht überschritten wird, und dem Schiffsführer die in der Sondervorschrift 803 Buchstabe d genannten Instruktionen zu erteilen.
+nach Unterabschnitt 1.4.3.3 Buchstabe v, wenn die Sondervorschrift 803 in Abschnitt 3.3.1 ADN Anwendung findet, sicherzustellen und zu dokumentieren, dass die maximal zulässige Temperatur beim Verladen nicht überschritten wird, und dem Schiffsführer die in der Sondervorschrift 803 Buchstabe d genannten Instruktionen zu erteilen;
+
+6.  
+nach Unterabschnitt 1.4.3.3 Buchstabe u ADN sicherzustellen, dass für die gesamte Dauer des Befüllens eine ständige und zweckmäßige Überwachung gewährleistet ist;
+
+7.  
+nach Unterabschnitt 1.4.3.3 Buchstabe m vor dem Befüllen der Ladetanks eines Tankschiffes seinen Teil der Prüfliste nach Unterabschnitt 7.2.4.10 ADN auszufüllen, und
+
+8.  
+nach Unterabschnitt 1.4.3.3 Buchstabe r sicherzustellen, dass in der Gasrückfuhrleitung, wenn diese nach Absatz 7.2.4.25.5 ADN erforderlich ist, eine Flammendurchschlagsicherung vorhanden ist, die das Schiff gegen Detonation und Flammendurchschlag von Land aus schützt.
 
 ### § 23a Pflichten des Entladers
 
@@ -1386,7 +1437,7 @@ den Verschluss der Ventile und der Besichtigungsöffnungen sicherzustellen;
 nach Absatz 1.4.3.7.1 ADR/RID/ADN sicherzustellen, dass die vorgeschriebene Reinigung und Entgiftung von Fahrzeugen, Wagen, Beförderungsmitteln oder Containern vorgenommen wird;
 
 5.  
-nach Absatz 1.4.3.7.1 ADR/RID/ADN dafür zu sorgen, dass bei vollständig entladenen, gereinigten, entgasten und entgifteten Fahrzeugen, Wagen, Beförderungsmitteln, Containern, MEGC, MEMU, Tankcontainern und ortsbeweglichen Tanks keine Gefahrenkennzeichnungen gemäß den Kapiteln 3.4 und 5.3 ADR/RID/ADN mehr sichtbar sind, und
+nach Absatz 1.4.3.7.1 ADR/RID/ADN dafür zu sorgen, dass bei vollständig entladenen, gereinigten, entgasten und entgifteten Fahrzeugen, Wagen, Beförderungsmitteln, Containern, MEGC, MEMU, Tankcontainern und ortsbeweglichen Tanks keine Großzettel (Placards), keine Kennzeichen und keine orangefarbenen Tafeln gemäß den Kapiteln 3.4 und 5.3 ADR/RID/ADN mehr sichtbar sind, und
 
 6.  
 das Warnkennzeichen nach Absatz 5.5.2.3.4 ADR/RID/ADN nach der Belüftung und Entladung von begasten Güterbeförderungseinheiten zu entfernen.
@@ -1422,7 +1473,7 @@ b)
 sicherzustellen, dass in der Gasrückfuhrleitung, wenn diese nach Absatz 7.2.4.16.12 Satz 1 ADN erforderlich ist, eine Flammendurchschlagsicherung vorhanden ist;
 
 c)  
-sicherzustellen, dass die Laderate mit der an Bord mitzuführenden Ladeinstruktion nach Absatz 9.3.2.25.9 oder 9.3.3.25.9 ADN übereinstimmt und der Druck an der Übergabestelle der Gasrückfuhrleitung den Öffnungsdruck des Hochgeschwindigkeitsventils nicht übersteigt;
+sicherzustellen, dass die Löschrate mit der an Bord mitzuführenden Instruktion für die Lade- und Löschraten nach Absatz 9.3.2.25.9 oder 9.3.3.25.9 ADN übereinstimmt und der Druck an der Übergabestelle der Gasrückfuhr- oder Gasabfuhrleitung den Öffnungsdruck des Hochgeschwindigkeitsventils nicht übersteigt;
 
 d)  
 sicherzustellen, dass die von ihm zur Verfügung gestellten Dichtungen zwischen den Verbindungsflanschen der Schiff-Land-Verbindung der Lade- und Löschleitungen aus Werkstoffen bestehen, die weder durch die Ladung angegriffen werden noch eine Zersetzung der Ladung oder eine schädliche oder gefährliche Reaktion mit der Ladung verursachen können;
@@ -1438,10 +1489,10 @@ sicherzustellen, dass beim Löschen mit der bordeigenen Löschpumpe diese von de
 Der Betreiber eines Tankcontainers, ortsbeweglichen Tanks, MEGC, Schüttgut-Containers oder MEMU im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt hat dafür zu sorgen, dass
 
 1.  
-Tankcontainer, ortsbewegliche Tanks, MEGC und Schüttgut-Container mit orangefarbener Kennzeichnung nach Abschnitt 5.3.2 ADR/RID/ADN ausgerüstet sind;
+Tankcontainer, ortsbewegliche Tanks, MEGC und Schüttgut-Container mit orangefarbenen Tafeln nach Abschnitt 5.3.2 ADR/RID/ADN ausgerüstet sind;
 
 2.  
-Tankcontainer, ortsbewegliche Tanks, MEGC und Schüttgut-Container auch zwischen den Prüfterminen den Bau-, Ausrüstungs- und Kennzeichnungsvorschriften nach den Abschnitten 6.7.2, 6.7.3, 6.7.4, den Unterabschnitten 6.8.2.1, 6.8.2.2, 6.8.2.5, 6.8.3.1, 6.8.3.2, 6.8.3.5, den Abschnitten 6.9.2, 6.9.3, 6.9.6, den Unterabschnitten 6.11.3.1, 6.11.3.2 und 6.11.3.4 und Abschnitt 6.11.4 ADR/RID entsprechen, mit Ausnahme der durch den Befüller anzugebenden beförderten Stoffe und Gase;
+Tankcontainer, ortsbewegliche Tanks, MEGC, Schüttgut-Container und flexible Schüttgut-Container auch zwischen den Prüfterminen den Bau-, Ausrüstungs- und Kennzeichnungsvorschriften nach den Abschnitten 6.7.2, 6.7.3, 6.7.4, den Unterabschnitten 6.8.2.1, 6.8.2.2, 6.8.2.5, 6.8.3.1, 6.8.3.2, 6.8.3.5, den Abschnitten 6.9.2, 6.9.3, 6.9.6, den Unterabschnitten 6.11.3.1, 6.11.3.2 und 6.11.3.4 und den Abschnitten 6.11.4 und 6.11.5 ADR/RID entsprechen, mit Ausnahme der durch den Befüller anzugebenden beförderten Stoffe und Gase;
 
 3.  
 nach Maßgabe der Absätze 6.7.2.19.7, 6.7.2.19.11, 6.7.3.15.7, 6.7.4.14.7, 6.7.4.14.12, 6.8.2.4.4, 6.8.3.4.14 und des Unterabschnitts 6.9.5.2 ADR/RID eine außerordentliche Prüfung durchgeführt wird;
@@ -1466,7 +1517,7 @@ die MEMU nach Absatz 6.12.3.2.6 ADR untersucht und geprüft werden.
 (1) Der Hersteller oder Wiederaufarbeiter im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt
 
 1.  
-darf an serienmäßig oder einzeln hergestellten Verpackungen, Gefäßen, IBC und Großverpackungen die Kennzeichnung nach Abschnitt 6.1.3, den Unterabschnitten 6.2.2.7, 6.2.2.8, 6.2.3.9, 6.2.3.10, den Abschnitten 6.3.4, 6.5.2 und 6.6.3 ADR/RID nur anbringen, sofern diese der zugelassenen Bauart entsprechen und die in der Zulassung genannten Nebenbestimmungen erfüllt sind;
+darf an serienmäßig oder einzeln hergestellten Verpackungen, Gefäßen, IBC und Großverpackungen die Kennzeichen nach Abschnitt 6.1.3, den Unterabschnitten 6.2.2.7, 6.2.2.8, 6.2.3.9, 6.2.3.10, den Abschnitten 6.3.4, 6.5.2 und 6.6.3 ADR/RID nur anbringen, sofern diese der zugelassenen Bauart entsprechen und die in der Zulassung genannten Nebenbestimmungen erfüllt sind;
 
 2.  
 muss die ausstellende zuständige Behörde über Änderungen des zugelassenen Baumusters nach Absatz 6.2.2.5.4.10 Buchstabe a ADR/RID in Kenntnis setzen;
@@ -1477,19 +1528,22 @@ hat dem Verpacker die Anweisungen für das Befüllen und Verschließen der Versa
 4.  
 muss nach Absatz 6.2.3.11.3 ADR/RID dem Eigentümer eines Bergungsdruckgefäßes eine Kopie der Zulassungsbescheinigung zur Verfügung stellen.
 
-(2) Der Rekonditionierer im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt darf an rekonditionierten Verpackungen die Kennzeichnung nach Abschnitt 6.1.3 nur anbringen, sofern die Verpackungen in Übereinstimmung mit dem anerkannten Qualitätssicherungsprogramm nach Unterabschnitt 6.1.1.4 ADR/RID rekonditioniert wurden und die im Anerkennungsbescheid genannten Nebenbestimmungen erfüllt sind.
+(2) Der Rekonditionierer im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt darf an rekonditionierten Verpackungen die Kennzeichen nach Abschnitt 6.1.3 nur anbringen, sofern die Verpackungen in Übereinstimmung mit dem anerkannten Qualitätssicherungsprogramm nach Unterabschnitt 6.1.1.4 ADR/RID rekonditioniert wurden und die im Anerkennungsbescheid genannten Nebenbestimmungen erfüllt sind.
 
-(3) Die Stelle, die Inspektionen und Prüfungen von IBC nach Absatz 6.5.4.4.1 Buchstabe a oder 6.5.4.5.2 im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt durchführt, darf an IBC die Kennzeichnung nach den Absätzen 6.5.2.2.1 und 6.5.4.5.3 ADR/RID nur anbringen, sofern die Nebenbestimmungen des Bescheides, mit dem die Prüfstelle als Inspektionsstelle anerkannt wurde, eingehalten werden.
+(3) Die Stelle, die Inspektionen und Prüfungen von IBC nach Absatz 6.5.4.4.1 Buchstabe a oder 6.5.4.5.2 im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt durchführt, darf an IBC die Kennzeichen nach den Absätzen 6.5.2.2.1 und 6.5.4.5.3 ADR/RID nur anbringen, sofern die Nebenbestimmungen des Bescheides, mit dem die Prüfstelle als Inspektionsstelle anerkannt wurde, eingehalten werden.
 
 ### § 26 Sonstige Pflichten
 
-(1) Wer ungereinigte leere Tanks zur Beförderung übergibt, versendet oder selbst befördert, hat dafür zu sorgen, dass
+(1) Wer ungereinigte und nicht entgaste leere Tanks zur Beförderung übergibt, versendet oder selbst befördert, hat dafür zu sorgen, dass
 
 1.  
-nach Absatz 4.3.2.4.1 ADR/RID den Tanks außen keine gefährlichen Reste des Füllgutes anhaften, und
+nach Absatz 4.3.2.4.1 ADR/RID den Tanks außen keine gefährlichen Reste des Füllgutes anhaften;
 
 2.  
-nach Absatz 4.3.2.4.2 und Unterabschnitt 4.2.1.5 ADR/RID ungereinigte leere und nicht entgaste Tanks ebenso verschlossen und dicht sind wie im gefüllten Zustand.
+nach Absatz 4.3.2.4.2 und Unterabschnitt 4.2.1.5 ADR/RID ungereinigte leere und nicht entgaste Tanks ebenso verschlossen und dicht sind wie im gefüllten Zustand, und
+
+3.  
+die nach Unterabschnitt 5.3.1.6 und den Abschnitten 5.3.2, 5.3.4 und 5.3.6 RID vorgeschriebenen Großzettel (Placards) und Kennzeichen angebracht sind.
 
 (2) Wenn eine Sichtprüfung bei Tanks nach Absatz 1 Nummer 2 ergibt, dass keine offensichtlichen Undichtigkeiten vorliegen, kann davon ausgegangen werden, dass beim vorherigen Entleerungsvorgang nicht betätigte Füll- und Entleerungseinrichtungen unverändert dicht sind.
 
@@ -1537,7 +1591,9 @@ die Unterweisung im Bereich der Sicherung nach Unterabschnitt 1.10.2.3 ADR/RID/A
 b)  
 die Aufzeichnungen über die Unterweisung des Arbeitnehmers nach Unterabschnitt 1.10.2.4 ADR/RID/ADN fünf Jahre ab ihrer Fertigung aufbewahrt werden.
 
-(4) Die an der Beförderung gefährlicher Güter mit hohem Gefahrenpotenzial im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt beteiligten Auftraggeber des Absenders, Absender, Verpacker, Verlader, Befüller, Beförderer, Entlader und Empfänger müssen Sicherungspläne nach Absatz 1.10.3.2.1, die mindestens den Anforderungen des Absatzes 1.10.3.2.2 ADR/RID/ADN entsprechen, einführen und anwenden.
+(4) Die an der Beförderung gefährlicher Güter mit hohem Gefahrenpotenzial im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt beteiligten Auftraggeber des Absenders, Absender, Verpacker, Verlader, Befüller, Beförderer, Entlader und Empfänger müssen Sicherungspläne nach Absatz 1.10.3.2.1, die mindestens den Anforderungen des Absatzes 1.10.3.2.2 ADR/RID/ADN entsprechen, einführen und anwenden. Dies gilt nicht für Auftraggeber des Absenders oder Empfänger, die als Privatpersonen beteiligt sind.
+
+(4a) Die nach Absatz 4 an der Beförderung gefährlicher Güter mit hohem Gefahrenpotenzial im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt Beteiligten haben dafür zu sorgen, dass der zuständigen Polizeibehörde unverzüglich mitgeteilt wird, wenn ihnen Fahrzeuge, Wagen, Beförderungsmittel oder Container mit gefährlichen Gütern mit hohem Gefahrenpotenzial oder diese Güter selbst abhandenkommen. Gleiches gilt im Falle des Wiederauffindens. Beim Abhandenkommen von in Tabelle 1.10.3.1.2 aufgelisteten explosiven Stoffen und Gegenständen mit Explosivstoff und in den Absätzen 1.10.3.1.3 bis 1.10.3.1.5 ADR/RID/ADN genannten radioaktiven Stoffen ist eine gesonderte Mitteilung nach Satz 1 nur erforderlich, sofern die zuständige Polizeibehörde nicht bereits in die entsprechende Meldung nach § 26 Absatz 1 des Sprengstoffgesetzes oder nach § 71 Absatz 1 Satz 1 der Strahlenschutzverordnung einbezogen worden ist. Die Polizeibehörde, die eine Meldung nach den Sätzen 1 bis 3 entgegennimmt, unterrichtet hierüber unverzüglich das Bundeskriminalamt (BKA) sowie das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK).
 
 (5) Die Beteiligten im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt haben dafür zu sorgen, dass
 
@@ -1585,10 +1641,10 @@ zu beachten;
 wenn er den Tank, das Batterie-Fahrzeug oder den MEGC selbst befüllt, nach dem Befüllen die Dichtheit der Verschlusseinrichtungen nach Absatz 4.3.2.3.3 Satz 4 und 5 ADR zu prüfen;
 
 6.  
-die Großzettel (Placards) nach den Unterabschnitten 5.3.1.3 bis 5.3.1.6 anzubringen und nach Absatz 5.3.1.1.5 ADR zu entfernen oder abzudecken;
+die Großzettel (Placards) nach den Unterabschnitten 5.3.1.3 bis 5.3.1.6 anzubringen und nach Absatz 5.3.1.1.6 ADR zu entfernen oder abzudecken;
 
 7.  
-die Kennzeichnung nach Abschnitt 3.4.15, die orangefarbenen Tafeln nach Abschnitt 5.3.2 und das Kennzeichen nach den Abschnitten 5.3.3 und 5.3.6 anzubringen oder sichtbar zu machen, die Tafeln nach Absatz 5.3.2.1.8 zu entfernen oder zu verdecken und das Kennzeichen nach Abschnitt 5.3.6 ADR zu entfernen;
+die Kennzeichen nach Abschnitt 3.4.15, die orangefarbenen Tafeln nach Abschnitt 5.3.2 und das Kennzeichen nach den Abschnitten 5.3.3 und 5.3.6 anzubringen oder sichtbar zu machen, die Tafeln nach Absatz 5.3.2.1.8 zu entfernen oder zu verdecken und das Kennzeichen nach Abschnitt 5.3.6 ADR zu entfernen;
 
 8.  
 die in den schriftlichen Weisungen nach Unterabschnitt 5.4.3.4 ADR vorgeschriebenen Maßnahmen zu treffen;
@@ -1659,7 +1715,7 @@ zu beachten.
 (4) Der Verlader, Beförderer und Fahrzeugführer im Straßenverkehr haben die Vorschriften
 
 1.  
-über die Verladung in offene oder belüftete Fahrzeuge oder über das Anbringen der Kennzeichnung nach Abschnitt 7.5.11 Sondervorschrift CV36 ADR und
+über die Verladung in offene oder belüftete Fahrzeuge oder in offene oder belüftete Container oder über das Anbringen des Kennzeichens nach Abschnitt 7.5.11 Sondervorschrift CV36 ADR und
 
 2.  
 über die Beförderung von Nebenprodukten der Aluminiumherstellung oder Aluminiumumschmelzung nach Abschnitt 7.5.11 Sondervorschrift CV37 ADR
@@ -1682,10 +1738,34 @@ Kesselwagen, abnehmbare Tanks und Batteriewagen auch zwischen den Prüfterminen 
 in den Fällen nach den Absätzen 6.8.2.4.4 und 6.8.3.4.14 RID eine außerordentliche Prüfung der Kesselwagen, abnehmbaren Tanks und Batteriewagen durchgeführt wird, wenn die Sicherheit des Tanks oder seiner Ausrüstung beeinträchtigt sein könnte;
 
 4.  
-für Kesselwagen, abnehmbare Tanks und Batteriewagen die Tankakte nach Absatz 4.3.2.1.7 RID geführt, aufbewahrt, an einen neuen Eigentümer oder Betreiber übergeben, auf Anforderung zuständigen Behörden vorgelegt und dem Sachverständigen zur Verfügung gestellt wird, und
+für Kesselwagen, abnehmbare Tanks und Batteriewagen die Tankakte nach Absatz 4.3.2.1.7 RID geführt, aufbewahrt, an einen neuen Eigentümer oder Betreiber übergeben, auf Anforderung zuständigen Behörden vorgelegt und dem Sachverständigen sowie der für die Instandhaltung zuständigen Stelle (ECM) zur Verfügung gestellt wird;
 
 5.  
-ein Kesselwagen, ein abnehmbarer Tank oder ein Batteriewagen nicht verwendet wird, wenn das Datum der nächsten Prüfung überschritten ist.
+ein Kesselwagen, ein abnehmbarer Tank oder ein Batteriewagen nicht verwendet wird, wenn das Datum der nächsten Prüfung überschritten ist, und
+
+6.  
+die Informationen, die nach Unterabschnitt 1.4.3.5 Buchstabe e RID zur Verfügung gestellt werden, auch den Tank und seine Ausrüstung umfassen.
+
+### § 30a Pflichten der für die Instandhaltung zuständigen Stelle im Eisenbahnverkehr
+
+(1) Die für die Instandhaltung zuständige Stelle (ECM) hat dafür zu sorgen, dass
+
+1.  
+die Instandhaltung des Tanks und seiner Ausrüstung nach Unterabschnitt 1.4.3.8 Buchstabe a in einer Weise sichergestellt wird, die gewährleistet, dass der Kesselwagen unter normalen Betriebsbeanspruchungen auch zwischen den Prüfterminen den Bau-, Ausrüstungs- und Kennzeichnungsvorschriften nach den Unterabschnitten 6.8.2.1, 6.8.2.2, 6.8.2.5, 6.8.3.1, 6.8.3.2 und 6.8.3.5 und den anwendbaren Sondervorschriften in Abschnitt 6.8.4 RID entspricht, mit Ausnahme der durch den Befüller anzugebenden beförderten Stoffe und Gase;
+
+2.  
+die nach Unterabschnitt 1.4.3.8 Buchstabe b RID festgelegten Informationen auch den Tank und seine Ausrüstung umfassen, und
+
+3.  
+die Instandhaltungsarbeiten betreffend den Tank und seine Ausrüstung nach Unterabschnitt 1.4.3.8 Buchstabe c RID in den Instandhaltungsunterlagen aufgezeichnet werden.
+
+(2) Soweit der Betreiber eines Kesselwagens die Organisation der Prüfungen der ECM überträgt, hat sie dafür zu sorgen, dass
+
+1.  
+ein Kesselwagen nicht verwendet wird, wenn das Datum der nächsten Prüfung überschritten ist und
+
+2.  
+in den Fällen nach Absatz 6.8.2.4.4 RID eine außerordentliche Prüfung des Kesselwagens durchgeführt wird, wenn die Sicherheit des Tanks oder seiner Ausrüstung beeinträchtigt sein könnte.
 
 ### § 31 Pflichten des Eisenbahninfrastrukturunternehmers im Eisenbahnverkehr
 
@@ -1702,6 +1782,10 @@ dafür zu sorgen, dass nach Kapitel 1.11 RID interne Notfallpläne für Rangierb
 
 b)  
 sicherzustellen, dass er während der Beförderung einen schnellen und uneingeschränkten Zugriff zu den Informationen nach Unterabschnitt 1.4.3.6 Buchstabe b RID hat.
+
+### § 31a Pflichten des Triebfahrzeugführers im Eisenbahnverkehr
+
+Der Triebfahrzeugführer im Eisenbahnverkehr muss nach Unterabschnitt 5.4.3.3 RID vor Antritt der Fahrt die schriftlichen Weisungen zu den bei einem Unfall oder Zwischenfall zu ergreifenden Maßnahmen einsehen.
 
 ### § 32 Pflichten des Reisenden im Eisenbahnverkehr
 
@@ -1730,7 +1814,7 @@ hat die in den schriftlichen Weisungen nach Abschnitt 5.4.3 ADN vorgeschriebenen
 hat dafür zu sorgen, dass die Vorschriften für das Laden, Befördern, Löschen und sonstige Handhaben der Ladung des Teils 7 ADN eingehalten werden, mit Ausnahme der Vorschriften über die Klassifikation von Tankschiffen, Gebrauchsanleitungen, Hinweistafeln und Ausrüstungen;
 
 7.  
-hat zu prüfen, ob der Eigentümer oder Ausrüster seinen Pflichten nach § 34 nachgekommen ist;
+hat zu prüfen, ob der Eigentümer oder Betreiber seinen Pflichten nach § 34 nachgekommen ist;
 
 8.  
 hat während der Beförderung
@@ -1749,9 +1833,9 @@ hat dafür zu sorgen, dass die Vorschriften des Kapitels 8.3 ADN eingehalten wer
 10.  
 darf, wenn er einen Verstoß gegen die vorgenannten Vorschriften der Nummern 1 bis 9 feststellt, die Sendung so lange nicht befördern, bis die Vorschriften erfüllt sind.
 
-### § 34 Pflichten des Eigentümers oder Ausrüsters in der Binnenschifffahrt
+### § 34 Pflichten des Eigentümers oder Betreibers in der Binnenschifffahrt
 
-Der Eigentümer oder, sofern ein Ausrüsterverhältnis besteht, der Ausrüster in der Binnenschifffahrt hat dafür zu sorgen, dass
+Der Eigentümer oder, sofern das Schiff von einem Betreiber gechartert wurde, der Betreiber in der Binnenschifffahrt hat dafür zu sorgen, dass
 
 1.  
 die Vorschriften des Teils 7 ADN über die Klassifikation von Tankschiffen, Gebrauchsanleitungen, Hinweistafeln und Ausrüstungen eingehalten werden;
@@ -1766,64 +1850,336 @@ ein Sachkundiger gemäß den Unterabschnitten 8.2.1.2, 8.2.1.5 und 8.2.1.7 ADN a
 die Vorschriften des Kapitels 8.3 ADN hinsichtlich der Hinweistafeln eingehalten werden;
 
 5.  
-die Vorschriften des Teils 9 ADN eingehalten werden, und
+die Vorschriften des Teils 9 ADN eingehalten werden;
 
 6.  
-bei der Klassifikationsgesellschaft eine Aktualisierung der Schiffsstoffliste nach Absatz 1.16.1.2.5 innerhalb der in Unterabschnitt 1.6.1.1 ADN genannten Frist erfolgt.
+bei der Klassifikationsgesellschaft eine Aktualisierung der Schiffsstoffliste nach Absatz 1.16.1.2.5 innerhalb der in Unterabschnitt 1.6.1.1 ADN genannten Frist erfolgt, und
+
+7.  
+das Schiff nach Abschnitt 1.16.9 ADN in den dort genannten Fällen einer Sonderuntersuchung unterzogen wird.
 
 ### § 34a Pflichten der Besatzung und sonstiger Personen an Bord in der Binnenschifffahrt
 
 Die Besatzung sowie alle sonstigen an Bord befindlichen Personen haben den Anweisungen des Schiffsführers Folge zu leisten. Die Besatzung hat, im Rahmen des Satzes 1, zur Einhaltung dieser Verordnung ihrerseits beizutragen.
 
-### § 35 Fahrweg und Verlagerung im Straßenverkehr
+### § 35 Verlagerung
 
-(1) Für Beförderungen der in Anlage 1 Nummer 1 bis 3 genannten Güter gelten in dem dort festgelegten Rahmen im Straßenverkehr die Absätze 2 bis 7. Für Beförderungen der in Anlage 1 Nummer 4 genannten entzündbaren flüssigen Stoffe der Klasse 3 gelten im Straßenverkehr die Vorschriften der Absätze 2 und 3, mit Ausnahme von Beförderungen
+(1) Die in § 35b genannten gefährlichen Güter müssen in dem dort festgelegten Rahmen auf dem Eisenbahn- oder Wasserweg befördert werden, sofern
 
 1.  
-in Versandstücken einschließlich IBC oder Großverpackungen,
+der Verlader und der Befüller am Beginn und der Entlader am Ende der Beförderung über einen dafür geeigneten Gleis- oder Hafenanschluss verfügen,
 
 2.  
-in nicht wanddickenreduzierten zylindrischen Tanks nach Kapitel 6.7 oder Kapitel 6.8 ADR, die nach einem Berechnungsdruck von mindestens 0,4 Mega-Pascal (4 Bar) bemessen sind oder mit einem Prüfdruck von mindestens 0,4 Mega-Pascal (4 Bar) geprüft sind, wenn dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer besonderen Bescheinigung des Tankherstellers oder eines Sachverständigen nach § 14 Absatz 4 bestätigt ist,
+die Beförderung auf dem Eisenbahn- oder Wasserweg durchführbar ist und
 
 3.  
-in Doppelwandtanks nach Absatz 6.8.2.1.20 Buchstabe b Nummer 2 und 3 linke Spalte und Absatz 6.8.2.1.20 rechte Spalte, in Aufsetztanks nach Absatz 6.8.2.1.20 Buchstabe b letzter Satz linke Spalte oder in Saug-Druck-Tanks für Abfälle nach Kapitel 6.10 ADR oder
+die gesamte Beförderungsstrecke im Geltungsbereich dieser Verordnung mehr als 200 Kilometer beträgt.
+
+(2) Liegen die Bedingungen nach Absatz 1 Nummer 1 und 2 nicht vor, sind die in § 35b genannten gefährlichen Güter in dem dort festgelegten Rahmen im multimodalen Verkehr zu befördern, sofern
+
+1.  
+die gesamte Beförderungsstrecke im Geltungsbereich dieser Verordnung mehr als 400 Kilometer beträgt und
+
+2.  
+die Beförderung auf dem größeren Teil der Strecke mit der Eisenbahn oder dem Schiff durchgeführt werden kann.
+
+In diesem Fall hat der Beförderer vor Beginn der Beförderung im Beförderungspapier die Bezeichnung der Bahnhöfe oder Hafenanlagen anzugeben, die er für die Beförderung in Anspruch nimmt, und zusätzlich zu vermerken „Beförderung nach § 35 Absatz 2 GGVSEB“.
+
+(3) Eine Pflicht zur Verlagerung nach den Absätzen 1 und 2 besteht nicht, wenn die Entfernung auf dem Eisenbahn- oder Wasserweg mindestens doppelt so groß ist wie die tatsächliche Entfernung auf der Straße.
+
+(4) Sofern die Bedingungen für eine Verlagerung nach Absatz 1 Nummer 1 und 2 und Absatz 2 Satz 1 Nummer 2 nicht vorliegen und deshalb eine Beförderung auf der Straße durchgeführt werden soll, ist hierfür eine schriftliche oder elektronische Bescheinigung erforderlich. Die Bescheinigung wird für den jeweiligen Verkehrsträger auf Antrag durch das Eisenbahn-Bundesamt oder die Generaldirektion Wasserstraßen und Schifffahrt ausgestellt. Der Beförderer hat dafür zu sorgen, dass die Bescheinigung nach Satz 1 dem Fahrzeugführer vor Beförderungsbeginn übergeben wird. Der Fahrzeugführer muss die Bescheinigung während der Beförderung mitführen und zuständigen Personen auf Verlangen zur Prüfung aushändigen.
+
+(5) Bei dem Bescheid nach Absatz 4 Satz 1 genügt das Mitführen eines fernkopierten Bescheides oder des Ausdrucks eines elektronisch erteilten und signierten Bescheides sowie dessen digitalisierte Form auf einem Speichermedium, wenn diese derart mitgeführt wird, dass sie bei einer Kontrolle auf Verlangen zuständigen Personen lesbar gemacht werden kann.
+
+### § 35a Fahrweg im Straßenverkehr
+
+(1) Beförderungen von in § 35b genannten gefährlichen Gütern, die teilweise oder vollständig im Straßenverkehr erfolgen, sind in dem dort festgelegten Rahmen auf Autobahnen durchzuführen.
+
+(2) Absatz 1 gilt nicht, wenn
+
+1.  
+die Entfernung bei Benutzung der Autobahn mindestens doppelt so groß ist wie die Entfernung bei Benutzung anderer geeigneter Straßen, oder
+
+2.  
+die Benutzung der Autobahn nach den Vorschriften der Straßenverkehrs-Ordnung oder der Ferienreiseverordnung ausgeschlossen oder beschränkt ist.
+
+(3) Der Fahrweg außerhalb der Autobahnen wird von der nach Landesrecht zuständigen Behörde für eine einzelne Fahrt oder bei vergleichbaren Sachverhalten für eine begrenzte oder unbegrenzte Zahl von Fahrten auf Antrag schriftlich oder elektronisch bestimmt. Die Fahrwegbestimmung kann auch durch Allgemeinverfügung erfolgen. Bei Sperrungen dürfen die ausgewiesenen Umleitungsstrecken ohne erneute Fahrwegbestimmung benutzt werden.
+
+(4) Der Beförderer darf die gefährlichen Güter nur befördern, wenn eine Fahrwegbestimmung erteilt ist. Er hat dafür zu sorgen, dass die Fahrwegbestimmung dem Fahrzeugführer vor Beförderungsbeginn übergeben wird. Der Fahrzeugführer muss die Fahrwegbestimmung beachten und sie während der Beförderung mitführen und zuständigen Personen auf Verlangen zur Prüfung aushändigen.
+
+(5) Bei der Fahrwegbestimmung nach Absatz 3 Satz 1 genügt das Mitführen eines fernkopierten Bescheides oder des Ausdrucks eines elektronisch erteilten und signierten Bescheides sowie dessen digitalisierte Form auf einem Speichermedium, wenn diese derart mitgeführt wird, dass sie bei einer Kontrolle auf Verlangen zuständigen Personen lesbar gemacht werden kann.
+
+### § 35b Gefährliche Güter, für deren Beförderung die §§ 35 und 35a gelten
+
+Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und 35a wie folgt:
+
+Tabelle
+
+lfd.
+Nr.
+
+Klasse/
+Unterklasse
+
+Stoff oder Gegenstand
+
+Geltung
+der §§ 35
+und 35a
+
+Beförderung in
+
+Bemerkungen
+
+Tanks
+ab
+
+Versandstücken
+ab
+
+1
+
+1.1
+
+explosive Stoffe und Gegenstände mit Explosivstoff
+
+§ 35 und § 35a
+
+nicht zulässig
+
+1 000 kg Nettoexplosivstoffmasse
+
+Siehe Ausnahmen nach § 35c Absatz 9
+
+1.2
+
+explosive Stoffe und Gegenstände mit Explosivstoff
+
+§ 35 und § 35a
+
+nicht zulässig
+
+1 000 kg Nettoexplosivstoffmasse
+
+1.5
+
+explosive Stoffe und Gegenstände mit Explosivstoff
+
+§ 35 und § 35a
+
+1 000 kg Nettoexplosivstoffmasse
+
+1 000 kg Nettoexplosivstoffmasse
+
+Beförderungen in Tanks sind nur für die UN-Nummern 0331 und 0332 zulässig (Siehe Ausnahmen nach § 35c Absatz 9)
+
+2
+
+2
+
+entzündbare Gase (Klassifizierungscodes, die nur den Buchstaben F enthalten)
+
+§ 35 und § 35a
+
+9 000 kg Nettomasse
+
+entfällt
+
+§§ 35 und 35a gelten nur für Beförderungen in Tanks (Siehe Ausnahmen nach § 35c Absatz 1 und 5 bis 8)
+
+3
+
+2
+
+giftige Gase (Klassifizierungscodes, die den/die Buchstaben T, TF, TC, TO, TFC oder TOC enthalten)
+
+§ 35 und § 35a
+
+1 000 kg Nettomasse
+
+entfällt
+
+§§ 35 und 35a gelten nur für Beförderungen in Tanks
+
+4
+
+3
+
+entzündbare flüssige Stoffe der Verpackungsgruppen I und II, mit Ausnahme der UN-Nummern 1093, 1099, 1100, 1131 und 1921
+
+§ 35a
+
+3 000 Liter bei Verpackungsgruppe I
+6 000 Liter bei Verpackungsgruppe II
+
+entfällt
+
+§ 35a gilt nur für Beförderungen in Tanks (Siehe Ausnahme nach § 35c Absatz 3)
+
+5
+
+3
+
+UN-Nummern 1093, 1099, 1100, 1131 und 1921 der Verpackungsgruppe I
+
+§ 35 und § 35a
+
+3 000 Liter
+
+entfällt
+
+§§ 35 und 35a gelten nur für Beförderungen in Tanks
+
+6
+
+4.1
+
+desensibilisierte explosive Stoffe der UN-Nummern 3364, 3365, 3367 und 3368
+
+§ 35 und § 35a
+
+nicht zulässig
+
+1 000 kg Nettomasse
+
+7
+
+4.2
+
+UN-Nummer 3394
+
+§ 35 und § 35a
+
+3 000 Liter
+
+entfällt
+
+§§ 35 und 35a gelten nur für Beförderungen in Tanks
+
+8
+
+4.3
+
+UN-Nummern 1928 und 3399
+
+§ 35 und § 35a
+
+3 000 Liter
+
+entfällt
+
+§§ 35 und 35a gelten nur für Beförderungen in Tanks
+
+9
+
+5.1
+
+entzündend (oxidierend) wirkende flüssige Stoffe der Verpackungsgruppe I der UN-Nummern 1745, 1746, 1873 und 2015
+
+§ 35 und § 35a
+
+3 000 Liter
+
+entfällt
+
+§§ 35 und 35a gelten nur für Beförderungen in Tanks
+
+10
+
+6.1
+
+giftige flüssige Stoffe der Verpackungsgruppe I
+
+§ 35 und § 35a
+
+3 000 Liter
+
+entfällt
+
+§§ 35 und 35a gelten nur für Beförderungen in Tanks
+
+11
+
+8
+
+ätzende flüssige Stoffe der Verpackungsgruppe I der UN-Nummern 1052, 1739, 1744, 1777, 1790, 1829 und 2699
+
+§ 35 und § 35a
+
+3 000 Liter
+
+entfällt
+
+§§ 35 und 35a gelten nur für Beförderungen in Tanks
+
+Die angegebenen Mengen beziehen sich auf die Beförderungseinheit. Werden verschiedene Güter der Klasse 1 jeweils in geringeren Mengen als 1 000 kg Nettoexplosivstoffmasse in einer Beförderungseinheit befördert, sind die §§ 35 und 35a ab einer Summe der Nettoexplosivstoffmassen dieser Güter von 1 000 kg in der Beförderungseinheit anzuwenden.
+
+### § 35c Ausnahmen zu den §§ 35 und 35a
+
+(1) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasen nach § 35b Tabelle laufende Nummer 2, wenn Tanks verwendet werden,
+
+1.  
+die als Doppelwandtanks mit Vakuumisolierung gebaut sind,
+
+2.  
+deren Summe der Wanddicken der metallenen Außenwand und des Innentanks die Mindestwanddicke nach Absatz 6.8.2.1.18 ADR nicht unterschreitet,
+
+3.  
+deren Wanddicke des Innentanks die Mindestwanddicke nach Absatz 6.8.2.1.19 ADR nicht unterschreitet und
 
 4.  
-in anderen als in den Nummern 2 und 3 beschriebenen Tanks in Mengen bis zu 3 000 Liter bei Stoffen, die unter die Verpackungsgruppe I fallen, oder bis zu 6 000 Liter bei Stoffen, die unter die Verpackungsgruppe II fallen, jeweils auf Entfernungen bis zu 100 Kilometer.
+deren Innentanks aus austenitischen Chrom-Nickel- oder Chrom-Nickel-Molybdän-Stählen bestehen.
 
-(2) Gefährliche Güter nach Absatz 1 sind auf Autobahnen zu befördern. Dies gilt nicht, wenn die Benutzung der Autobahn
+(2) Für die Tanks nach Absatz 1 ist dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer besonderen Bescheinigung des Tankherstellers oder eines Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu bestätigen. Bescheinigungen nach der Ausnahme Nr. 40 (S) der Gefahrgut-Ausnahmeverordnung (GGAV) sowie der Ausnahme 13 (S) der GGAV gelten weiter.
 
-1.  
-unzumutbar ist, insbesondere wenn die Entfernung bei Benutzung der Autobahn mindestens doppelt so groß ist wie die Entfernung bei Benutzung anderer geeigneter Straßen, oder
-
-2.  
-nach den Vorschriften der Straßenverkehrs-Ordnung oder der Ferienreiseverordnung ausgeschlossen oder beschränkt ist.
-
-(3) Der Fahrweg außerhalb der Autobahnen wird von der Straßenverkehrsbehörde für eine einzelne Fahrt oder bei vergleichbaren Sachverhalten für eine begrenzte oder unbegrenzte Zahl von Fahrten innerhalb einer bestimmten Zeit von höchstens drei Jahren schriftlich bestimmt. Die Fahrwegbestimmung kann auch durch Allgemeinverfügung erfolgen, die öffentlich und auch ohne Befristung bekannt gegeben werden kann. Bei Sperrungen dürfen die ausgewiesenen Umleitungsstrecken ohne Fahrwegbestimmung benutzt werden. Die Fahrwegbestimmung ist vom Beförderer, Absender, Verlader, Befüller oder Empfänger bei den zuständigen Straßenverkehrsbehörden zu beantragen. Der Beförderer darf die gefährlichen Güter nur befördern, wenn eine Fahrwegbestimmung erteilt ist. Er hat dafür zu sorgen, dass der Bescheid über die Fahrwegbestimmung dem Fahrzeugführer vor Beförderungsbeginn übergeben wird. Der Fahrzeugführer muss die Fahrwegbestimmung beachten und sie während der Beförderung mitführen und zuständigen Personen auf Verlangen zur Prüfung aushändigen.
-
-(4) Güter der Anlage 1 dürfen auf der Straße
+(3) § 35a gilt nicht für Beförderungen von entzündbaren flüssigen Stoffen nach § 35b Tabelle laufende Nummer 4, sofern die Beförderungen in
 
 1.  
-nicht befördert werden, wenn das gefährliche Gut in einem Gleis- oder Hafenanschluss verladen und entladen werden kann, es sei denn, dass die Entfernung auf dem Eisenbahn- oder Wasserweg mindestens doppelt so groß ist wie die tatsächliche Entfernung auf der Straße,
+nicht wanddickenreduzierten zylindrischen Tanks nach Kapitel 6.7 oder 6.8 ADR, die nach einem Berechnungsdruck von mindestens 0,4 Mega-Pascal (4 Bar) bemessen sind oder mit einem Prüfdruck von mindestens 0,4 Mega-Pascal (4 Bar) geprüft sind,
 
 2.  
-nur zum oder vom nächstgelegenen geeigneten Bahnhof oder Hafen befördert werden, wenn das gefährliche Gut
+Tanks, deren Sicherheitsniveau um 50 Prozent höher ist, als das eines Tanks aus Baustahl nach Absatz 6.8.2.1.18 ADR (Nummer 12 in Bild 21 des Forschungsberichts 203 „Sicherheitsniveaus von Transporttanks für Gefahrgut“ und Bekanntmachung zur Anwendung des Forschungsberichts 203), wenn die Kenngröße f<sub>3</sub> zur Ermittlung der Risikozahl mindestens 0,5 beträgt und das Sicherheitsniveau von der nach § 12 für die Baumusterprüfung zuständigen Stelle bescheinigt wurde oder
+
+3.  
+Doppelwandtanks nach Absatz 6.8.2.1.20 Buchstabe b Nummer 2 und 3 linke Spalte und Absatz 6.8.2.1.20 rechte Spalte, in Aufsetztanks nach Absatz 6.8.2.1.20 Buchstabe b letzter Satz linke Spalte oder in Saug-Druck-Tanks für Abfälle nach Kapitel 6.10 ADR
+
+durchgeführt werden.
+
+(4) Für die Tanks nach Absatz 3 Nummer 1 und 2 ist dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR oder in einer besonderen Bescheinigung des Tankherstellers oder eines Sachverständigen oder Technischen Dienstes nach § 14 Absatz 4 zu bestätigen. Bescheinigungen nach der Ausnahme Nr. 47 (S) der GGAV sowie der Ausnahme 14 (S) der GGAV gelten weiter.
+
+(5) § 35 gilt nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2), sofern die gesamte Beförderungsstrecke nicht mehr als 300 Kilometer beträgt.
+
+(6) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2) in Tanks nach Abschnitt 1.2.1 ADR bis 11 000 kg Nettomasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist.
+
+(7) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasgemischen der UN-Nummer 1965 (§ 35b Tabelle laufende Nummer 2) in Tanks nach Abschnitt 1.2.1 ADR von mehr als 11 000 kg bis 22 000 kg Nettomasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung und mit einer Fahrdynamikregelung (Electronic Stability Control – ESC) ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist.
+
+(8) § 35 Absatz 2 gilt nicht für Beförderungen von entzündbaren Gasen der UN-Nummern 1038, 1961, 1966, 1972, 3138 und 3312 (§ 35b Tabelle laufende Nummer 2).
+
+(9) Die §§ 35 und 35a gelten nicht für Beförderungen zum Ort der Verwendung, sofern die gesamte Beförderungsstrecke nicht mehr als 300 km beträgt, von explosiven Stoffen und Gegenständen mit Explosivstoff (§ 35b Tabelle laufende Nummer 1)
+
+1.  
+der UN-Nummern 0065, 0082 und 0241 (Unterklasse 1.1) und der UN-Nummern 0331 und 0332 (Unterklasse 1.5), wenn für diese explosiven Stoffe und Gegenstände mit Explosivstoff der Konformitätsnachweis nach § 5 des Sprengstoffgesetzes erbracht wurde und diese explosiven Stoffe und Gegenstände mit Explosivstoff eine Schlagempfindlichkeit von mehr als 30 Joule sowie eine Reibempfindlichkeit von mehr als 280 Newton bei Durchführung der Prüfverfahren haben, und
+
+2.  
+der UN-Nummer 0081 (Unterklasse 1.1)
 
 a)  
-in Tankcontainern, ortsbeweglichen Tanks oder Großcontainern verladen werden kann, die gesamte Beförderungsstrecke im Geltungsbereich dieser Verordnung mehr als 200 Kilometer beträgt und der Container oder die ortsbeweglichen Tanks auf dem größeren Teil dieser Strecke mit der Eisenbahn oder dem Schiff befördert werden können oder
+bis 1 000 kg Nettoexplosivstoffmasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung, oder
 
 b)  
-in Straßenfahrzeuge verladen werden soll und im Huckepackverkehr befördert werden kann, die gesamte Beförderungsstrecke im Geltungsbereich dieser Verordnung mehr als 400 Kilometer beträgt und das Straßenfahrzeug auf dem größeren Teil dieser Strecke mit der Eisenbahn befördert werden kann.
+bis 3 000 kg Nettoexplosivstoffmasse in der Beförderungseinheit, sofern die Fahrzeuge mit einem automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung und mit einer Fahrdynamikregelung (Electronic Stability Control – ESC)
 
-(5) Bei Beförderungen von Gütern der Anlage 1 auf der Straße, mit Ausnahme von Beförderungen nach Absatz 4 Nummer 2, hat der Beförderer durch eine Bescheinigung des Eisenbahn-Bundesamtes nachzuweisen, dass ein Gleisanschluss-, Container- oder Huckepackverkehr nach Absatz 4 nicht möglich ist. Im Containerverkehr hat der Beförderer außerdem durch eine Bescheinigung der Generaldirektion Wasserstraßen und Schifffahrt nachzuweisen, dass Containerverkehr auf dem Wasserweg nicht möglich ist. Die Bescheinigung ist vom Beförderer, Absender, Verlader oder Empfänger zu beantragen. Die Bescheinigungen nach den Sätzen 1 und 2 dürfen bei grenzüberschreitenden Beförderungen auch von der nach Landesrecht zuständigen Behörde erteilt werden. Der Absender, der Verlader, der Befüller und der Empfänger haben dem Eisenbahn-Bundesamt, der Generaldirektion Wasserstraßen und Schifffahrt oder den nach Landesrecht zuständigen Behörden auf Anfrage die erforderlichen Auskünfte für die Prüfung der Voraussetzungen des Absatzes 4 zu erteilen. Die Sätze 1 und 2 gelten nicht für Beförderungen auf der Straße zwischen dem Verlader oder dem Empfänger und dem nächstgelegenen geeigneten Bahnhof oder Binnen- oder Seehafen.
+ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist. Die Ausnahmen nach Satz 1 Nummer 1 und Nummer 2 Buchstabe a oder b können nebeneinander in Anspruch genommen werden. § 35b Satz 3 ist nicht anzuwenden.
 
-(6) Bei Beförderungen zum oder vom nächstgelegenen Bahnhof oder Hafen nach Absatz 4 Nummer 2 muss der Beförderer im Beförderungspapier die Bezeichnung des Bahnhofes oder Hafens angeben und zusätzlich vermerken „Beförderung nach § 35 Absatz 4 Nummer 2 GGVSEB“. Für Beförderungen im Zusammenhang mit einem Huckepackverkehr nach Absatz 4 Nummer 2 Buchstabe b ist für die Anfuhr auf der Straße durch eine Reservierungsbestätigung der Eisenbahn oder den von ihr beauftragten Stellen und für die Abfuhr auf der Straße durch das Beförderungspapier für den Bahntransport die Teilnahme am Huckepackverkehr glaubhaft zu machen.
-
-(7) Der Beförderer hat dafür zu sorgen, dass die Bescheinigungen nach Absatz 5 Satz 1 und 2, die Reservierungsbestätigung oder das Beförderungspapier für den Bahntransport nach Absatz 6 Satz 2 dem Fahrzeugführer vor Beförderungsbeginn übergeben wird. Der Fahrzeugführer muss die Bescheinigungen, die Reservierungsbestätigung oder das Beförderungspapier für den Bahntransport während der Beförderung mitführen und zuständigen Personen auf Verlangen zur Prüfung aushändigen.
+Der Forschungsbericht 203 ist hinterlegt bei der Bundesanstalt für Materialforschung und -prüfung, 12205 Berlin, Unter den Eichen 87.Die Bekanntmachung ist veröffentlicht im Verkehrsblatt 2002 Heft 16 S. 522.Prüfverfahren nach Anhang Teil A.14 der Verordnung (EG) Nr. 440/2008 der Kommission vom 30. Mai 2008 zur Festlegung von Prüfmethoden gemäß der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH) (ABl. L 142 vom 31.5.2008, S. 1) in der jeweils jüngsten im Amtsblatt der Europäischen Union veröffentlichten Fassung.
 
 ### § 36 Prüffrist für Feuerlöschgeräte
 
-Die Prüffrist nach Unterabschnitt 8.1.4.4 Satz 3 ADR beträgt für in Deutschland hergestellte Feuerlöschgeräte zwei Jahre ab dem Herstellungsdatum und danach ab dem Datum der nächsten auf dem Feuerlöschgerät angegebenen Prüfung.
+Die Prüffrist nach Unterabschnitt 8.1.4.4 Satz 2 ADR beträgt für in Deutschland hergestellte Feuerlöschgeräte zwei Jahre ab dem Herstellungsdatum und danach ab dem Datum der nächsten auf dem Feuerlöschgerät angegebenen Prüfung.
+
+### § 36a Beförderung gefährlicher Güter als behördliche Asservate
+
+Sofern es aus ermittlungstaktischen Gründen oder zur Sicherung der Asservate erforderlich ist, dürfen gefährliche Güter, denen in Kapitel 3.2 Tabelle A Spalte 6 die Sondervorschrift 274 zugeordnet ist, im Straßen- und Eisenbahnverkehr durch Polizeibehörden des Bundes und der Länder sowie durch Zoll- und Justizbehörden und in deren Auftrag tätige private Unternehmen befördert werden, ohne dass die offiziellen Benennungen für die Beförderung mit der technischen Benennung des Gutes nach Absatz 3.1.2.8.1 ADR/RID ergänzt werden. Dies gilt auch für die Angabe in einem Beförderungspapier nach Absatz 5.4.1.1.1 Buchstabe b ADR/RID.
 
 ### § 37 Ordnungswidrigkeiten
 
@@ -1842,19 +2198,19 @@ a)
 Absatz 1 Nummer 1 sich nicht oder nicht rechtzeitig vergewissert,
 
 b)  
-Absatz 1 Nummer 2 nicht dafür sorgt, dass eine dort genannte Angabe schriftlich mitgeteilt oder auf § 35 Absatz 1 schriftlich hingewiesen wird,
+Absatz 1 Nummer 2 nicht dafür sorgt, dass eine dort genannte Angabe schriftlich oder elektronisch mitgeteilt oder auf eine dort genannte Vorschrift schriftlich oder elektronisch hingewiesen wird,
 
 c)  
 Absatz 1 Nummer 3 nicht dafür sorgt, dass auf ein gefährliches Gut hingewiesen wird, oder
 
 d)  
-Absatz 2 nicht dafür sorgt, dass eine dort genannte Angabe schriftlich mitgeteilt wird,
+Absatz 2 nicht dafür sorgt, dass eine dort genannte Angabe schriftlich oder elektronisch mitgeteilt wird,
 
 4.  
 entgegen § 18
 
 a)  
-Absatz 1 Nummer 1 einen Hinweis nicht, nicht richtig oder nicht vollständig gibt,
+Absatz 1 Nummer 1 einen Hinweis nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise gibt,
 
 b)  
 Absatz 1 Nummer 2 den Beförderer nicht, nicht richtig oder nicht rechtzeitig informiert,
@@ -1884,7 +2240,7 @@ j)
 Absatz 1 Nummer 10 nicht dafür sorgt, dass ein erforderliches Begleitpapier beigefügt wird,
 
 k)  
-Absatz 1 Nummer 11 den Verlader nicht oder nicht rechtzeitig auf die Begasung schriftlich hinweist,
+Absatz 1 Nummer 11 den Verlader nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig auf die Begasung hinweist,
 
 l)  
 Absatz 1 Nummer 12 eine Kopie des Beförderungspapiers, der Informationen oder Dokumentation nicht oder nicht mindestens drei Monate aufbewahrt,
@@ -1917,13 +2273,16 @@ b)
 Nummer 2 eine Sendung befördert, die nicht die Vorschriften erfüllt,
 
 c)  
-Nummer 3 eine Kopie des Beförderungspapiers, der Informationen oder Dokumentation nicht oder nicht mindestens drei Monate aufbewahrt,
+Nummer 3 nicht dafür sorgt, dass ein Tank nicht zur Beförderung aufgegeben wird,
 
 d)  
-Nummer 4 nicht dafür sorgt, dass die Dokumente die erforderlichen Angaben enthalten, oder
+Nummer 4 eine Kopie des Beförderungspapiers, der Informationen oder Dokumentation nicht oder nicht mindestens drei Monate aufbewahrt,
 
 e)  
-Nummer 5 nicht dafür sorgt, dass die Dokumente die erforderlichen Angaben enthalten,
+Nummer 5 nicht dafür sorgt, dass die Dokumente die erforderlichen Angaben enthalten, oder
+
+f)  
+Nummer 6 nicht dafür sorgt, dass die Dokumente die erforderlichen Angaben enthalten,
 
 6.  
 entgegen § 19 Absatz 2
@@ -1959,7 +2318,7 @@ j)
 Nummer 10 eine Prüffrist nicht einhält,
 
 k)  
-Nummer 11 das Fahrzeug nicht mit einem Großzettel, einer orangefarbenen Kennzeichnung oder einem Kennzeichen ausrüstet oder nicht dafür sorgt, dass eine dort genannte Kennzeichnung angebracht wird,
+Nummer 11 das Fahrzeug nicht mit einem Großzettel, einer orangefarbenen Tafel oder einem Kennzeichen ausrüstet oder nicht dafür sorgt, dass ein dort genanntes Kennzeichen angebracht wird,
 
 l)  
 Nummer 12 nicht dafür sorgt, dass ein Tank verwendet wird, der den dort genannten Anforderungen entspricht,
@@ -2004,13 +2363,22 @@ e)
 Nummer 5 eine schriftliche Weisung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig bereitstellt,
 
 f)  
-Nummer 6 den Triebfahrzeugführer nicht oder nicht rechtzeitig informiert,
+Nummer 6 den Triebfahrzeugführer nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig informiert,
 
 g)  
-Nummer 7 nicht dafür sorgt, dass die vorgeschriebene Ausrüstung auf dem Führerstand mitgeführt wird, oder
+Nummer 7 nicht dafür sorgt, dass die vorgeschriebene Ausrüstung auf dem Führerstand mitgeführt wird,
 
 h)  
 Nummer 8 nicht dafür sorgt, dass die orangefarbenen Tafeln oder die Großzettel (Placards) angebracht sind,
+
+i)  
+Nummer 9 sich nicht vergewissert, dass ein Wagen oder eine Ladung keine Mängel, Undichtigkeiten oder Risse aufweist oder kein Ausrüstungsteil fehlt,
+
+j)  
+Nummer 10 sich nicht vergewissert, dass ein Großzettel, ein Kennzeichen oder eine orangefarbene Tafel angebracht ist, oder
+
+k)  
+Nummer 11 nicht dafür sorgt, dass eine dort genannte Information den Tank oder seine Ausrüstung umfasst,
 
 8.  
 entgegen § 19 Absatz 4
@@ -2088,7 +2456,7 @@ h)
 Absatz 1 Nummer 8 nicht dafür sorgt, dass eine dort genannte Maßnahme ergriffen wird,
 
 i)  
-Absatz 2 Nummer 1 Satz 1 einen Hinweis nicht, nicht richtig oder nicht vollständig gibt,
+Absatz 2 Nummer 1 Satz 1 einen Hinweis nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise gibt,
 
 j)  
 Absatz 2 Nummer 2 nicht dafür sorgt, dass eine dort genannte Vorschrift eingehalten wird,
@@ -2103,7 +2471,7 @@ m)
 Absatz 2 Nummer 5 nicht dafür sorgt, dass nur ein Container eingesetzt wird, der den dort genannten Anforderungen entspricht,
 
 n)  
-Absatz 3 Nummer 1 nicht dafür sorgt, dass eine Vorschrift über die Gefahrzettel und Kennzeichnungen beachtet wird,
+Absatz 3 Nummer 1 nicht dafür sorgt, dass eine Vorschrift über die Gefahrzettel und Kennzeichen beachtet wird,
 
 o)  
 Absatz 3 Nummer 2 nicht dafür sorgt, dass ein Großzettel, ein Rangierzettel, ein Kennzeichen oder eine orangefarbene Tafel angebracht ist,
@@ -2154,46 +2522,52 @@ a)
 Nummer 1 Güter übergibt,
 
 b)  
-Nummer 2 einen Tank befüllt,
+Nummer 2 einen Tank übergibt,
 
 c)  
-Nummer 3 nicht dafür sorgt, dass die Dichtheit einer Verschlusseinrichtung geprüft und ein Tank nicht befördert wird, wenn dieser undicht ist,
+Nummer 3 einen Tank befüllt,
 
 d)  
-Nummer 4 einen Tank befüllt,
+Nummer 4 nicht dafür sorgt, dass die Dichtheit einer Verschlusseinrichtung geprüft und ein Tank nicht befördert wird, wenn dieser undicht ist,
 
 e)  
-Nummer 5 nicht dafür sorgt, dass der Füllungsgrad, die Masse oder Bruttomasse eingehalten wird,
+Nummer 5 einen Tank befüllt,
 
 f)  
-Nummer 6 nicht dafür sorgt, dass die Dichtheit der Verschlüsse und der Ausrüstung geprüft wird oder alle Verschlüsse in geschlossener Stellung sind und keine Undichtheit auftritt,
+Nummer 6 nicht dafür sorgt, dass der Füllungsgrad, die Masse oder Bruttomasse eingehalten wird,
 
 g)  
-Nummer 7 nicht dafür sorgt, dass einem Tank keine Reste anhaften,
+Nummer 7 nicht dafür sorgt, dass die Dichtheit der Verschlüsse und der Ausrüstung geprüft wird oder alle Verschlüsse in geschlossener Stellung sind und keine Undichtheit auftritt,
 
 h)  
-Nummer 8 nicht dafür sorgt, dass nebeneinanderliegende Tankabteile oder -kammern nicht mit gefährlich miteinander reagierenden Stoffen befüllt werden,
+Nummer 8 nicht dafür sorgt, dass einem Tank keine Reste anhaften,
 
 i)  
-Nummer 9 nicht dafür sorgt, dass eine Entleerungs-, Reinigungs- und Entgasungsmaßnahme durchgeführt wird,
+Nummer 9 nicht dafür sorgt, dass nebeneinanderliegende Tankabteile oder -kammern nicht mit gefährlich miteinander reagierenden Stoffen befüllt werden,
 
 j)  
-Nummer 10 nicht dafür sorgt, dass eine Bezeichnung angegeben wird,
+Nummer 10 nicht dafür sorgt, dass ein Tank, Batterie-Fahrzeug, Batteriewagen oder MEGC nicht befüllt oder nicht zur Beförderung aufgegeben wird,
 
 k)  
-Nummer 11 nicht dafür sorgt, dass die Benennung angegeben wird,
+Nummer 11 nicht dafür sorgt, dass eine Entleerungs-, Reinigungs- und Entgasungsmaßnahme durchgeführt wird,
 
 l)  
-Nummer 12 nicht dafür sorgt, dass der MEGC nicht zur Beförderung aufgegeben wird, oder
+Nummer 12 nicht dafür sorgt, dass eine Bezeichnung angegeben wird,
 
 m)  
-Nummer 13 einen Tank befüllt,
+Nummer 13 nicht dafür sorgt, dass die Benennung angegeben wird,
+
+n)  
+Nummer 14 nicht dafür sorgt, dass der MEGC nicht zur Beförderung aufgegeben wird, oder
+
+o)  
+Nummer 15 einen Tank befüllt,
 
 13.  
 entgegen § 23 Absatz 2
 
 a)  
-Nummer 1 einen Hinweis nicht, nicht richtig oder nicht vollständig gibt,
+Nummer 1 einen Hinweis nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise gibt,
 
 b)  
 Nummer 2 eine Nummer nicht mitteilt,
@@ -2220,10 +2594,13 @@ i)
 Nummer 9 nicht dafür sorgt, dass eine Maßnahme zur Vermeidung elektrostatischer Aufladungen durchgeführt wird,
 
 j)  
-Nummer 10 einen Tank befüllt oder
+Nummer 10 einen Tank befüllt,
 
 k)  
-Nummer 11 sich nicht vergewissert, dass die dort genannten Vorschriften eingehalten sind,
+Nummer 11 sich nicht vergewissert, dass die dort genannten Vorschriften eingehalten sind, oder
+
+l)  
+Nummer 12 nicht dafür sorgt, dass eine dort genannte Vorschrift eingehalten wird,
 
 14.  
 entgegen § 23 Absatz 3
@@ -2238,10 +2615,13 @@ c)
 Nummer 3 nicht dafür sorgt, dass eine dort genannte Vorschrift beachtet wird,
 
 d)  
-Nummer 4 nicht dafür sorgt, dass eine Beladevorschrift beachtet wird, oder
+Nummer 4 nicht dafür sorgt, dass eine Beladevorschrift beachtet wird,
 
 e)  
-Nummer 5 nicht sicherstellt, dass die Temperatur nicht überschritten wird,
+Nummer 5 nicht sicherstellt, dass die Temperatur nicht überschritten wird, oder
+
+f)  
+Nummer 6 nicht dafür sorgt, dass eine dort genannte Vorschrift eingehalten wird,
 
 15.  
 entgegen § 23 Absatz 4
@@ -2256,10 +2636,19 @@ c)
 Nummer 3 nicht dafür sorgt, dass ein Tankschiff nur mit den zugelassenen gefährlichen Gütern befüllt wird und das Datum im Zulassungszeugnis nicht überschritten ist,
 
 d)  
-Nummer 4 nicht sicherstellt, dass die landseitige Einrichtung mit einem oder zwei Evakuierungsmitteln ausgerüstet ist, oder
+Nummer 4 nicht sicherstellt, dass die landseitige Einrichtung mit einem oder zwei Evakuierungsmitteln ausgerüstet ist,
 
 e)  
 Nummer 5 nicht sicherstellt, dass die Temperatur nicht überschritten wird,
+
+f)  
+Nummer 6 nicht sicherstellt, dass eine Überwachung gewährleistet ist,
+
+g)  
+Nummer 7 seinen Teil der Prüfliste nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ausfüllt, oder
+
+h)  
+Nummer 8 nicht sicherstellt, dass eine Flammendurchschlagsicherung vorhanden ist,
 
 15a.  
 entgegen § 23a
@@ -2280,7 +2669,7 @@ e)
 Absatz 1 Nummer 4 die Reinigung und Entgiftung nicht sicherstellt,
 
 f)  
-Absatz 1 Nummer 5 nicht dafür sorgt, dass die Gefahrenkennzeichnungen nicht mehr sichtbar sind,
+Absatz 1 Nummer 5 nicht dafür sorgt, dass ein Großzettel, ein Kennzeichen oder eine orangefarbene Tafel nicht mehr sichtbar ist,
 
 g)  
 Absatz 1 Nummer 6 das Warnkennzeichen nicht entfernt,
@@ -2322,10 +2711,10 @@ Absatz 4 Nummer 2 Buchstabe f nicht sicherstellt, dass die Löschpumpe abgeschal
 entgegen § 24
 
 a)  
-Nummer 1 nicht dafür sorgt, dass ein dort genannter Tank oder Container mit orangefarbener Kennzeichnung ausgerüstet ist,
+Nummer 1 nicht dafür sorgt, dass ein dort genannter Tank oder Container mit orangefarbenen Tafeln ausgerüstet ist,
 
 b)  
-Nummer 2 nicht dafür sorgt, dass ein Tankcontainer, ein ortsbeweglicher Tank, ein MEGC oder ein Schüttgutcontainer einer dort genannten Bau-, Ausrüstungs- und Kennzeichnungsvorschrift entspricht,
+Nummer 2 nicht dafür sorgt, dass ein Tankcontainer, ein ortsbeweglicher Tank, ein MEGC, ein Schüttgut-Container oder flexibler Schüttgut-Container einer dort genannten Bau-, Ausrüstungs- und Kennzeichnungsvorschrift entspricht,
 
 c)  
 Nummer 3 nicht dafür sorgt, dass eine außerordentliche Prüfung durchgeführt wird,
@@ -2349,7 +2738,7 @@ Nummer 8 nicht dafür sorgt, dass MEMU untersucht und geprüft werden,
 entgegen § 25
 
 a)  
-Absatz 1 Nummer 1 eine dort genannte Kennzeichnung anbringt,
+Absatz 1 Nummer 1 ein dort genanntes Kennzeichen anbringt,
 
 b)  
 Absatz 1 Nummer 2 die Behörde nicht oder nicht richtig in Kenntnis setzt,
@@ -2361,10 +2750,10 @@ d)
 Absatz 1 Nummer 4 dem Eigentümer eines Bergungsdruckgefäßes eine Kopie der Zulassungsbescheinigung nicht zur Verfügung stellt,
 
 e)  
-Absatz 2 eine dort genannte Kennzeichnung anbringt oder
+Absatz 2 ein dort genanntes Kennzeichen anbringt oder
 
 f)  
-Absatz 3 eine dort genannte Kennzeichnung anbringt,
+Absatz 3 ein dort genanntes Kennzeichen anbringt,
 
 18.  
 entgegen § 26
@@ -2373,9 +2762,12 @@ a)
 Absatz 1 Nummer 1 nicht dafür sorgt, dass einem Tank keine Reste des Füllgutes anhaften,
 
 b)  
-Absatz 1 Nummer 2 nicht dafür sorgt, dass ein Tank verschlossen und dicht ist, oder
+Absatz 1 Nummer 2 nicht dafür sorgt, dass ein Tank verschlossen und dicht ist,
 
 c)  
+Absatz 1 Nummer 3 nicht dafür sorgt, dass ein Großzettel oder ein Kennzeichen angebracht ist, oder
+
+d)  
 Absatz 3 eine technische Dokumentation nicht richtig, nicht vollständig oder nicht rechtzeitig anfertigt,
 
 19.  
@@ -2400,12 +2792,15 @@ f)
 Absatz 4 Sicherungspläne nicht einführt oder anwendet,
 
 g)  
-Absatz 5 Nummer 1 nicht dafür sorgt, dass die Unterweisung erfolgt,
+Absatz 4a Satz 1, auch in Verbindung mit Satz 2, nicht dafür sorgt, dass eine Mitteilung erfolgt,
 
 h)  
-Absatz 5 Nummer 2 nicht dafür sorgt, dass die Aufzeichnungen fünf Jahre aufbewahrt werden, oder
+Absatz 5 Nummer 1 nicht dafür sorgt, dass die Unterweisung erfolgt,
 
 i)  
+Absatz 5 Nummer 2 nicht dafür sorgt, dass die Aufzeichnungen fünf Jahre aufbewahrt werden, oder
+
+j)  
 Absatz 6 nicht dafür sorgt, dass die Personen unterwiesen sind,
 
 20.  
@@ -2430,7 +2825,7 @@ f)
 Nummer 6 einen Großzettel nicht anbringt, entfernt oder abdeckt,
 
 g)  
-Nummer 7 eine dort genannte Kennzeichnung nicht oder nicht richtig anbringt oder nicht oder nicht richtig sichtbar macht oder eine dort genannte Tafel oder ein dort genanntes Kennzeichen nicht, nicht richtig oder nicht vollständig entfernt oder nicht, nicht richtig oder nicht vollständig verdeckt,
+Nummer 7 ein dort genanntes Kennzeichen oder eine dort genannte Tafel nicht oder nicht richtig anbringt, nicht oder nicht richtig sichtbar macht, nicht, nicht richtig oder nicht vollständig entfernt oder nicht, nicht richtig oder nicht vollständig verdeckt,
 
 h)  
 Nummer 8 eine Maßnahme nicht trifft,
@@ -2472,7 +2867,7 @@ c)
 Absatz 3 eine dort genannte Vorschrift über Vorsichtsmaßnahmen nicht beachtet,
 
 d)  
-Absatz 4 Nummer 1 eine Vorschrift über die Verladung oder Kennzeichnung nicht beachtet,
+Absatz 4 Nummer 1 eine Vorschrift über die Verladung oder das Kennzeichen nicht beachtet,
 
 e)  
 Absatz 4 Nummer 2 eine Vorschrift über die Beförderung nicht beachtet, oder
@@ -2493,10 +2888,31 @@ c)
 Nummer 3 nicht dafür sorgt, dass eine außerordentliche Prüfung durchgeführt wird,
 
 d)  
-Nummer 4 nicht dafür sorgt, dass die Tankakte geführt, aufbewahrt, übergeben, vorgelegt oder zur Verfügung gestellt wird, oder
+Nummer 4 nicht dafür sorgt, dass die Tankakte geführt, aufbewahrt, übergeben, vorgelegt oder zur Verfügung gestellt wird,
 
 e)  
-Nummer 5 nicht dafür sorgt, dass ein Kesselwagen, ein abnehmbarer Tank oder ein Batteriewagen nicht verwendet wird,
+Nummer 5 nicht dafür sorgt, dass ein Kesselwagen, ein abnehmbarer Tank oder ein Batteriewagen nicht verwendet wird, oder
+
+f)  
+Nummer 6 nicht dafür sorgt, dass eine dort genannte Information den Tank oder seine Ausrüstung umfasst,
+
+22a.  
+entgegen § 30a
+
+a)  
+Absatz 1 Nummer 1 nicht dafür sorgt, dass die Instandhaltung eines Tanks oder seiner Ausrüstung in einer dort genannten Weise sichergestellt wird,
+
+b)  
+Absatz 1 Nummer 2 nicht dafür sorgt, dass eine dort genannte Information den Tank oder seine Ausrüstung umfasst,
+
+c)  
+Absatz 1 Nummer 3 nicht dafür sorgt, dass eine Aufzeichnung gefertigt wird,
+
+d)  
+Absatz 2 Nummer 1 nicht dafür sorgt, dass ein Kesselwagen nicht verwendet wird, oder
+
+e)  
+Absatz 2 Nummer 2 nicht dafür sorgt, dass eine außerordentliche Prüfung durchgeführt wird,
 
 23.  
 entgegen § 31
@@ -2509,6 +2925,9 @@ Nummer 2 Buchstabe a nicht dafür sorgt, dass ein interner Notfallplan aufgestel
 
 c)  
 Nummer 2 Buchstabe b nicht sicherstellt, dass er Zugriff zu einer Information hat,
+
+23a.  
+entgegen § 31a eine schriftliche Weisung nicht oder nicht rechtzeitig einsieht,
 
 24.  
 entgegen § 32 ein gefährliches Gut mitführt oder befördern lässt,
@@ -2535,7 +2954,7 @@ f)
 Nummer 6 nicht dafür sorgt, dass eine dort genannte Vorschrift eingehalten wird,
 
 g)  
-Nummer 7 nicht prüft, ob der Eigentümer oder Ausrüster seinen Pflichten nachgekommen ist,
+Nummer 7 nicht prüft, ob der Eigentümer oder Betreiber seinen Pflichten nachgekommen ist,
 
 h)  
 Nummer 8 ein Begleitpapier oder die Ausnahmezulassung nicht mitführt oder nicht oder nicht rechtzeitig aushändigt,
@@ -2553,10 +2972,13 @@ a)
 Nummer 1, 2, 4 und 5 nicht dafür sorgt, dass eine dort genannte Vorschrift eingehalten wird,
 
 b)  
-Nummer 3 nicht dafür sorgt, dass ein Sachkundiger an Bord ist, oder
+Nummer 3 nicht dafür sorgt, dass ein Sachkundiger an Bord ist,
 
 c)  
-Nummer 6 nicht dafür sorgt, dass eine Aktualisierung erfolgt,
+Nummer 6 nicht dafür sorgt, dass eine Aktualisierung erfolgt, oder
+
+d)  
+Nummer 7 nicht dafür sorgt, dass ein Schiff einer Sonderuntersuchung unterzogen wird,
 
 26a.  
 entgegen § 34a Satz 1 den Anweisungen des Schiffsführers nicht Folge leistet,
@@ -2565,1896 +2987,39 @@ entgegen § 34a Satz 1 den Anweisungen des Schiffsführers nicht Folge leistet,
 entgegen § 35
 
 a)  
-Absatz 3 Satz 5 ein gefährliches Gut ohne Fahrwegbestimmung befördert,
+Absatz 2 Satz 2 eine Angabe oder einen Vermerk nicht in das Beförderungspapier einträgt,
 
 b)  
-Absatz 3 Satz 6 oder Absatz 7 Satz 1 nicht dafür sorgt, dass ein Bescheid, eine Bescheinigung, eine Reservierungsbestätigung oder ein Beförderungspapier übergeben wird,
+Absatz 4 Satz 3 nicht dafür sorgt, dass eine Bescheinigung übergeben wird, oder
 
 c)  
-Absatz 3 Satz 7 die Fahrwegbestimmung nicht beachtet,
+Absatz 4 Satz 4 eine Bescheinigung nicht mitführt oder nicht oder nicht rechtzeitig aushändigt,
 
-d)  
-Absatz 3 Satz 7 oder Absatz 7 Satz 2 einen Bescheid, eine Bescheinigung, eine Reservierungsbestätigung oder ein Beförderungspapier nicht mitführt oder nicht oder nicht rechtzeitig aushändigt oder
+28.  
+entgegen § 35a
 
-e)  
-Absatz 6 Satz 1 die Angabe und den Vermerk nicht in das Beförderungspapier einträgt.
+a)  
+Absatz 4 Satz 1 ein gefährliches Gut befördert,
+
+b)  
+Absatz 4 Satz 2 nicht dafür sorgt, dass eine Fahrwegbestimmung übergeben wird, oder
+
+c)  
+Absatz 4 Satz 3 eine Fahrwegbestimmung nicht oder nicht richtig beachtet, nicht mitführt oder nicht oder nicht rechtzeitig aushändigt.
 
 (2) Artikel 32 der Revidierten Rheinschifffahrtsakte vom 17. Oktober 1868 (BGBl. 1969 II S. 597) in der Fassung des Zusatzprotokolls Nummer 6 vom 21. Oktober 1999 (BGBl. 2002 II S. 1772, 1773) hinsichtlich der Geldbußen auf dem Rhein bis zu fünfundzwanzigtausend Euro bleibt unberührt.
 
 ### § 38 Übergangsbestimmungen
 
-(1) Bis zum 30. Juni 2015 darf die Beförderung gefährlicher Güter noch nach den Vorschriften dieser Verordnung in der bis zum 31. Dezember 2014 geltenden Fassung durchgeführt werden.
+(1) Bis zum 30. Juni 2017 darf die Beförderung gefährlicher Güter noch nach den Vorschriften dieser Verordnung in der bis zum 31. Dezember 2016 geltenden Fassung durchgeführt werden.
 
-(2) Benannte Stellen nach § 16 der ODV müssen die für die Wahrnehmung der Zuständigkeiten nach § 12 erforderliche zusätzliche Kompetenz durch eine entsprechende Akkreditierung nach der Norm DIN EN ISO/IEC 17020:2012 bis zum 31. Dezember 2016 nachweisen.
+(2) Bis zum 31. Dezember 2017 darf § 35 in Verbindung mit Anlage 1 dieser Verordnung in der Fassung der Bekanntmachung vom 30. März 2015 sowie die Ausnahmen 13 (S) und 14 (S) der Gefahrgut-Ausnahmeverordnung in der Fassung der Bekanntmachung vom 18. Februar 2016 angewendet werden.
 
-### Anlage 1 (zu § 35)Gefährliche Güter, für deren innerstaatliche und grenzüberschreitende Beförderung § 35 gilt
-
-(Fundstelle: BGBl. I 2015, 398 - 410)
-
-1.  
-§ 35 gilt für die in Tabelle 1 genannten Güter der Klassen 1, 4.1 und 6.1, die in Versandstücken (einschließlich IBC) oder Großverpackungen befördert werden, ab jeweils 1 000 kg Nettomasse – bei Explosivstoffen Nettoexplosivstoffmasse – des Stoffes oder Gegenstandes in einer Beförderungseinheit. Werden verschiedene dieser Güter der Klasse 1 jeweils in geringeren Mengen als 1 000 kg (Nettoexplosivstoffmasse) in einer Beförderungseinheit befördert, so ist § 35 ab 1 000 kg Gesamtmasse (Nettoexplosivstoffmasse) dieser Güter in der Beförderungseinheit anzuwenden.
-
-Tabelle 1
-
-Klasse
-
-UN-Nummer und offizielle Benennung der Stoffe und Gegenstände
-
-1
-
-Gegenstände:
-
-0005
-
-PATRONEN FÜR WAFFEN, mit Sprengladung
-
-0006
-
-PATRONEN FÜR WAFFEN, mit Sprengladung
-
-0029
-
-SPRENGKAPSELN, NICHT ELEKTRISCH
-
-0033
-
-BOMBEN, mit Sprengladung
-
-0034
-
-BOMBEN, mit Sprengladung
-
-0037
-
-BOMBEN, BLITZLICHT
-
-0038
-
-BOMBEN, BLITZLICHT
-
-0042
-
-ZÜNDVERSTÄRKER, ohne Detonator
-
-0043
-
-ZERLEGER, mit Explosivstoff
-
-0048
-
-SPRENGKÖRPER
-
-0049
-
-PATRONEN, BLITZLICHT
-
-0056
-
-WASSERBOMBEN
-
-0059
-
-HOHLLADUNGEN, ohne Zündmittel
-
-0060
-
-FÜLLSPRENGKÖRPER
-
-0073
-
-DETONATOREN FÜR MUNITION
-
-0099
-
-LOCKERUNGSSPRENGGERÄTE MIT EXPLOSIVSTOFF, für Erdölbohrungen, ohne Zündmittel
-
-0124
-
-PERFORATIONSHOHLLADUNGSTRÄGER, GELADEN, für Erdölbohrlöcher, ohne Zündmittel
-
-0136
-
-MINEN, mit Sprengladung
-
-0137
-
-MINEN, mit Sprengladung
-
-0167
-
-GESCHOSSE, mit Sprengladung
-
-0168
-
-GESCHOSSE, mit Sprengladung
-
-0180
-
-RAKETEN, mit Sprengladung
-
-0181
-
-RAKETEN, mit Sprengladung
-
-0192
-
-KNALLKAPSELN, EISENBAHN
-
-0196
-
-SIGNALKÖRPER, RAUCH
-
-0221
-
-GEFECHTSKÖPFE, TORPEDO, mit Sprengladung
-
-0271
-
-TREIBSÄTZE
-
-0279
-
-TREIBLADUNGEN FÜR GESCHÜTZE
-
-0280
-
-RAKETENMOTOREN
-
-0284
-
-GRANATEN, Hand oder Gewehr, mit Sprengladung
-
-0286
-
-GEFECHTSKÖPFE, RAKETE, mit Sprengladung
-
-0288
-
-SCHNEIDLADUNG, BIEGSAM, GESTRECKT
-
-0290
-
-SPRENGSCHNUR, mit Metallmantel
-
-0292
-
-GRANATEN, Hand oder Gewehr, mit Sprengladung
-
-0296
-
-FALLLOTE, MIT EXPLOSIVSTOFF
-
-0326
-
-PATRONEN FÜR WAFFEN, MANÖVER
-
-0329
-
-TORPEDOS, mit Sprengladung
-
-0330
-
-TORPEDOS, mit Sprengladung
-
-0333
-
-FEUERWERKSKÖRPER
-
-0354
-
-GEGENSTÄNDE MIT EXPLOSIVSTOFF, N.A.G.
-
-0369
-
-GEFECHTSKÖPFE, RAKETE, mit Sprengladung
-
-0374
-
-FALLLOTE, MIT EXPLOSIVSTOFF
-
-0397
-
-RAKETEN, FLÜSSIGTREIBSTOFF, mit Sprengladung
-
-0399
-
-BOMBEN, DIE ENTZÜNDBARE FLÜSSIGKEIT ENTHALTEN, mit Sprengladung
-
-0408
-
-ZÜNDER, SPRENGKRÄFTIG, mit Sicherungsvorrichtungen
-
-0442
-
-SPRENGLADUNGEN, GEWERBLICHE, ohne Zündmittel
-
-0449
-
-TORPEDOS, MIT FLÜSSIGTREIBSTOFF, mit oder ohne Sprengladung
-
-0451
-
-TORPEDOS, mit Sprengladung
-
-0457
-
-SPRENGLADUNGEN, KUNSTSTOFFGEBUNDEN
-
-0461
-
-BESTANDTEILE, ZÜNDKETTE, N.A.G.
-
-0462
-
-GEGENSTÄNDE MIT EXPLOSIVSTOFF, N.A.G.
-
-0463
-
-GEGENSTÄNDE MIT EXPLOSIVSTOFF, N.A.G.
-
-0464
-
-GEGENSTÄNDE MIT EXPLOSIVSTOFF, N.A.G.
-
-0465
-
-GEGENSTÄNDE MIT EXPLOSIVSTOFF, N.A.G.
-
-Stoffe:
-
-0004
-
-AMMONIUMPIKRAT, trocken oder angefeuchtet mit weniger als 10 Masse-% Wasser
-
-0027
-
-SCHWARZPULVER, gekörnt oder in Mehlform
-
-0072
-
-CYCLOTRIMETHYLENTRINITRAMIN (CYCLONIT), (HEXOGEN), (RDX), ANGEFEUCHTET mit mindestens 15 Masse-% Wasser
-
-0076
-
-DINITROPHENOL, trocken oder angefeuchtet mit weniger als 15 Masse-% Wasser
-
-0078
-
-DINITRORESORCINOL, trocken oder angefeuchtet mit weniger als 15 Masse-% Wasser
-
-0079
-
-HEXANITRODIPHENYLAMIN (DIPIKRYLAMIN), (HEXYL)
-
-0081
-
-SPRENGSTOFF, TYP A
-
-0118
-
-HEXOLIT (HEXOTOL), trocken oder angefeuchtet mit weniger als 15 Masse-% Wasser
-
-0147
-
-NITROHARNSTOFF
-
-0150
-
-PENTAERYTHRITTETRANITRAT (PENTAERYTHRITOLTETRANITRAT) (PETN), ANGEFEUCHTET mit mindestens 25 Masse-% Wasser oder DESENSIBILISIERT mit mindestens 15 Masse-% Phlegmatisierungsmittel
-
-0151
-
-PENTOLIT, trocken oder angefeuchtet mit weniger als 15 Masse-% Wasser
-
-0153
-
-TRINITROANILIN (PIKRAMID)
-
-0154
-
-TRINITROPHENOL (PIKRINSÄURE), trocken oder angefeuchtet mit weniger als 30 Masse-% Wasser
-
-0155
-
-TRINITROCHLORBENZEN (PIKRYLCHLORID)
-
-0160
-
-TREIBLADUNGSPULVER
-
-0207
-
-TETRANITROANILIN
-
-0208
-
-TRINITROPHENYLMETHYLNITRAMIN (TETRYL)
-
-0213
-
-TRINITROANISOL
-
-0214
-
-TRINITROBENZEN, trocken oder angefeuchtet mit weniger als 30 Masse-% Wasser
-
-0215
-
-TRINITROBENZOESÄURE, trocken oder angefeuchtet mit weniger als 30 Masse-% Wasser
-
-0216
-
-TRINITRO-m-CRESOL
-
-0217
-
-TRINITRONAPHTHALEN
-
-0218
-
-TRINITROPHENETOL
-
-0219
-
-TRINITRORESORCINOL (STYPHNINSÄURE), trocken oder angefeuchtet mit weniger als 20 Masse-% Wasser oder einer Alkohol/Wasser-Mischung
-
-0226
-
-CYCLOTETRAMETHYLENTETRANITRAMIN (HMX) (OKTOGEN), ANGEFEUCHTET mit mindestens 15 Masse-% Wasser
-
-0282
-
-NITROGUANIDIN (PICRIT), trocken oder angefeuchtet mit weniger als 20 Masse-% Wasser
-
-0357
-
-EXPLOSIVE STOFFE, N.A.G.
-
-0385
-
-5-NITROBENZOTRIAZOL
-
-0386
-
-TRINITROBENZENSULFONSÄURE
-
-0387
-
-TRINITROFLUORENON
-
-0388
-
-TRINITROTOLUEN (TNT) IN MISCHUNG MIT TRINITROBENZEN oder TRINITROTOLUEN (TNT) IN MISCHUNG MIT HEXANITROSTILBEN
-
-0389
-
-TRINITROTOLUEN (TNT) IN MISCHUNG MIT TRINITROBENZEN UND HEXANITROSTILBEN
-
-0392
-
-HEXANITROSTILBEN
-
-0394
-
-TRINITRORESORCINOL (STYPHNINSÄURE), ANGEFEUCHTET mit mindestens 20 Masse-% Wasser oder einer Alkohol/Wasser-Mischung
-
-0401
-
-DIPIKRYLSULFID, trocken oder angefeuchtet mit weniger als 10 Masse-% Wasser
-
-0411
-
-PENTAERYTHRITTETRANITRAT (PENTAERYTHRITOLTETRANITRAT) (PETN), mit nicht weniger als 7 Masse-% Wachs
-
-0474
-
-EXPLOSIVE STOFFE, N.A.G.
-
-0475
-
-EXPLOSIVE STOFFE, N.A.G.
-
-0476
-
-EXPLOSIVE STOFFE, N.A.G.
-
-0483
-
-CYCLOTRIMETHYLENTRINITRAMIN (CYCLONIT), (HEXOGEN), (RDX), DESENSIBILISIERT
-
-0484
-
-CYCLOTETRAMETHYLENTETRANITRAMIN (HMX), (OKTOGEN), DESENSIBILISIERT
-
-4.1
-
-3364
-
-TRINITROPHENOL (PIKRINSÄURE), ANGEFEUCHTET mit mindestens 10 Masse-% Wasser
-
-3365
-
-TRINITROCHLORBENZEN (PIKRYLCHLORID), ANGEFEUCHTET mit mindestens 10 Masse-% Wasser
-
-3367
-
-TRINITROBENZEN, ANGEFEUCHTET mit mindestens 10 Masse-% Wasser
-
-3368
-
-TRINITROBENZOESÄURE, ANGEFEUCHTET mit mindestens 10 Masse-% Wasser
-
-6.1
-
-Alle in der Anlage 2 Gliederungsnummer 1.2 genannten polychlorierten para-Dibenzodioxine und -furane der UN-Nummern 2810 und 2811 der Verpackungsgruppe I
-
-2.  
-§ 35 gilt für folgende entzündbare; giftige; giftig und entzündbare; giftig und ätzende; giftig, oxidierend und ätzende Stoffe der Klasse 2:
-
-2.1  
-Für die in der Tabelle 2.1 genannten Stoffe gilt § 35 ab jeweils 6 000 kg Nettomasse in einer Beförderungseinheit.
-
-Tabelle 2.1
-
-UN-Nummer und offizielle Benennung der Stoffe
-
-1011
-
-BUTAN
-
-1012
-
-BUT-1-EN oder cis-BUT-2-EN oder trans-BUT-2-EN oder BUTENE, GEMISCH
-
-1027
-
-CYCLOPROPAN
-
-1055
-
-ISOBUTEN
-
-1077
-
-PROPEN
-
-1965
-
-KOHLENWASSERSTOFFGAS, GEMISCH, VERFLÜSSIGT, N.A.G. (Gemisch A, A 01, A 02, A 0, A 1, B 1, B 2, B oder C)
-
-1969
-
-ISOBUTAN
-
-1978
-
-PROPAN
-
-2035
-
-1,1,1-TRIFLUORETHAN (GAS ALS KÄLTEMITTEL R 143a)
-
-Bemerkungen:
-
-1.  
-§ 35 Absatz 5 gilt nicht für die Beförderung von Gasgemischen der UN-Nummer 1965 auf Entfernungen bis zu 100 Kilometer zu Verbrauchern, die keinen Gleisanschluss haben.
-
-2.  
-§ 35 gilt nicht für die in der Tabelle 2.1 genannten Stoffe, sofern diese Stoffe in vorgeschriebenen Stahlflaschen mit einem Fassungsraum von höchstens 150 Liter oder Gefäßen mit einem Fassungsraum von mindestens 100 Liter bis höchstens 1 000 Liter enthalten sind.
-
-3.  
-§ 35 gilt nicht für Beförderungen von Gasgemischen der UN-Nummer 1965 in festverbundenen Tanks (Tankfahrzeuge), Aufsetztanks, ortsbeweglichen Tanks und Tankcontainern – im Folgenden als Tanks bezeichnet –, wenn nachfolgende Bedingungen erfüllt sind:
-
-3.1  
-Bei Beförderungen bis 9 000 kg Nettomasse, sofern
-
-a)  
-Tanks verwendet werden, deren Wanddicke mindestens den Vorschriften des Kapitels 6.7 oder 6.8 entspricht oder
-
-b)  
-Tanks verwendet werden, die nach den Übergangsvorschriften gemäß Anlage 2 Gliederungsnummer 2.2 und nach den Unterabschnitten 1.6.3.1 bis 1.6.3.7 weiterverwendet werden dürfen und wenn eine der folgenden zusätzlichen Bedingungen nach Doppelbuchstabe aa oder bb eingehalten ist:
-
-aa)  
-Die Tanks müssen mit einer äußeren Feststoffisolierung mit Stahlblechabdeckung versehen sein.
-
-bb)  
-Die Fahrzeuge müssen mindestens mit einem Automatischen Blockierverhinderer (ABV) nach § 41 Absatz 18 oder § 41b der Straßenverkehrs-Zulassungs-Ordnung ausgerüstet sein.
-
-3.2  
-Bei Beförderungen von mehr als 9 000 kg bis 11 000 kg Nettomasse, sofern
-
-a)  
-Tanks verwendet werden, deren Wanddicke Nummer 3.1 Buchstabe a entspricht und wenn von den Bedingungen der Nummer 3.1 Buchstabe b entweder Doppelbuchstabe aa oder bb erfüllt ist oder
-
-b)  
-Tanks verwendet werden, deren Wanddicke Nummer 3.1 Buchstabe b entspricht und wenn die Bedingungen der Nummer 3.1 Buchstabe b Doppelbuchstabe aa und bb erfüllt sind.
-
-3.3  
-In der ADR-Zulassungsbescheinigung der Tankfahrzeuge und der Sattelzugmaschinen dieser Fahrzeuge nach Unterabschnitt 9.1.3.1 ADR und in der Prüfbescheinigung für Aufsetztanks nach Absatz 6.8.2.4.5 ist von den Überwachungsstellen nach § 12 zu vermerken, welche Bedingungen der Nummern 3.1 und 3.2 erfüllt sind.
-
-<!-- -->
-
-2.2  
-Für die in der Tabelle 2.2 genannten Stoffe gilt § 35 ab jeweils 1 000 kg Nettomasse in einer Beförderungseinheit.
-
-Tabelle 2.2
-
-UN-Nummer und offizielle Benennung der Stoffe
-
-1005
-
-AMMONIAK, WASSERFREI
-
-1010
-
-BUTADIENE, STABILISIERT oder BUTADIENE UND KOHLENWASSERSTOFF, GEMISCH, STABILISIERT, das bei 70 °C einen Dampfdruck von nicht mehr als 1,1 MPa (11 bar) hat und dessen Dichte bei 50 °C den Wert von 0,525 kg/l nicht unterschreitet
-
-1017
-
-CHLOR
-
-1030
-
-1,1-DIFLUORETHAN (GAS ALS KÄLTEMITTEL R 152a)
-
-1032
-
-DIMETHYLAMIN, WASSERFREI
-
-1033
-
-DIMETHYLETHER
-
-1035
-
-ETHAN
-
-1036
-
-ETHYLAMIN
-
-1037
-
-ETHYLCHLORID
-
-1038
-
-ETHYLEN, TIEFGEKÜHLT, FLÜSSIG
-
-1040
-
-ETHYLENOXID
-
-1040
-
-ETHYLENOXID MIT STICKSTOFF bis zu einem Gesamtdruck von 1 MPa (10 bar) bei 50 °C
-
-1041
-
-ETHYLENOXID UND KOHLENDIOXID, GEMISCH mit mehr als 9 %, aber höchstens 87 % Ethylenoxid
-
-1045
-
-FLUOR, VERDICHTET
-
-1048
-
-BROMWASSERSTOFF, WASSERFREI
-
-1050
-
-CHLORWASSERSTOFF, WASSERFREI
-
-1053
-
-SCHWEFELWASSERSTOFF
-
-1060
-
-METHYLACETYLEN UND PROPADIEN, GEMISCH, STABILISIERT (Gemisch P 1) (Gemisch P 2)
-
-1061
-
-METHYLAMIN, WASSERFREI
-
-1062
-
-METHYLBROMID mit höchstens 2 % Chlorpikrin
-
-1063
-
-METHYLCHLORID (GAS ALS KÄLTEMITTEL R 40)
-
-1064
-
-METHYLMERCAPTAN
-
-1067
-
-DISTICKSTOFFTETROXID (STICKSTOFFDIOXID)
-
-1076
-
-PHOSGEN
-
-1079
-
-SCHWEFELDIOXID
-
-1082
-
-CHLORTRIFLUORETHYLEN, STABILISIERT
-
-1083
-
-TRIMETHYLAMIN, WASSERFREI
-
-1085
-
-VINYLBROMID, STABILISIERT
-
-1086
-
-VINYLCHLORID, STABILISIERT
-
-1087
-
-VINYLMETHYLETHER, STABILISIERT
-
-1581
-
-CHLORPIKRIN UND METHYLBROMID, GEMISCH mit mehr als 2 % Chlorpikrin
-
-1582
-
-CHLORPIKRIN UND METHYLCHLORID, GEMISCH
-
-1741
-
-BORTRICHLORID
-
-1860
-
-VINYLFLUORID, STABILISIERT
-
-1912
-
-METHYLCHLORID UND DICHLORMETHAN, GEMISCH
-
-1959
-
-1,1-DIFLUORETHYLEN (GAS ALS KÄLTEMITTEL R 1132a)
-
-1961
-
-ETHAN, TIEFGEKÜHLT, FLÜSSIG
-
-1962
-
-ETHYLEN
-
-1966
-
-WASSERSTOFF, TIEFGEKÜHLT, FLÜSSIG
-
-1972
-
-METHAN, TIEFGEKÜHLT, FLÜSSIG oder ERDGAS, TIEFGEKÜHLT, FLÜSSIG mit hohem Methangehalt
-
-2517
-
-1-CHLOR-1,1-DIFLUORETHAN (GAS ALS KÄLTEMITTEL R 142b)
-
-3138
-
-ETHYLEN, ACETYLEN UND PROPYLEN, GEMISCH, TIEFGEKÜHLT, FLÜSSIG, mit mindestens 71,5 % Ethylen, höchstens 22,5 % Acetylen und höchstens 6 % Propylen
-
-3160
-
-VERFLÜSSIGTES GAS, GIFTIG, ENTZÜNDBAR, N.A.G.
-
-3300
-
-ETHYLENOXID UND KOHLENDIOXID, GEMISCH mit mehr als 87 % Ethylenoxid
-
-3312
-
-GAS, TIEFGEKÜHLT, FLÜSSIG, ENTZÜNDBAR, N.A.G.
-
-Bemerkungen:
-
-1.  
-§ 35 Absatz 4 Nummer 2 gilt nicht für die Beförderung von Gasen der UN-Nummern 1038, 1961, 1966, 1972, 3138 und 3312.
-
-2.  
-§ 35 gilt nicht für die in Tabelle 2.2 genannten Stoffe – ausgenommen 1045 Fluor, verdichtet und die tiefgekühlten verflüssigten Gase der UN-Nummern 1038, 1961, 1966, 1972, 3138 und 3312 –, sofern diese Stoffe in vorgeschriebenen Stahlflaschen mit einem Fassungsraum von höchstens 150 Liter oder Gefäßen mit einem Fassungsraum von mindestens 100 Liter bis höchstens 1 000 Liter enthalten sind.
-
-<!-- -->
-
-3.  
-Für die in Tabelle 3 genannten flüssigen Stoffe der Klassen 3, 4.2, 4.3, 5.1, 6.1 und 8 der Verpackungsgruppe I gilt § 35 ab jeweils 1 000 kg Nettomasse, sofern diese Stoffe in festverbundenen Tanks oder Aufsetztanks oder Tankcontainern oder ortsbeweglichen Tanks mit einem Einzelfassungsraum von mehr als 3 000 Liter befördert werden.
-
-Tabelle 3
-
-Klasse
-
-UN-Nummer und offizielle Benennung der Stoffe
-
-3
-
-1093
-
-ACRYLNITRIL, STABILISIERT
-
-1099
-
-ALLYLBROMID
-
-1100
-
-ALLYLCHLORID
-
-1131
-
-KOHLENSTOFFDISULFID
-
-1921
-
-PROPYLENIMIN, STABILISIERT
-
-4.2
-
-3394
-
-PYROPHORER METALLORGANISCHER FLÜSSIGER STOFF, MIT WASSER REAGIEREND
-
-4.3
-
-1928
-
-METHYLMAGNESIUMBROMID IN ETHYLETHER
-
-3399
-
-MIT WASSER REAGIERENDER METALLORGANISCHER FLÜSSIGER STOFF, ENTZÜNDBAR
-
-5.1
-
-1745
-
-BROMPENTAFLUORID
-
-1746
-
-BROMTRIFLUORID
-
-1873
-
-PERCHLORSÄURE mit mehr als 50 Masse-%, aber höchstens 72 Masse-% Säure
-
-2015
-
-WASSERSTOFFPEROXID, WÄSSERIGE LÖSUNG, STABILISIERT, mit mehr als 60 %, aber höchstens 70 % Wasserstoffperoxid
-
-2015
-
-WASSERSTOFFPEROXID, WÄSSERIGE LÖSUNG, STABILISIERT, mit mehr als 70 % Wasserstoffperoxid
-
-6.1
-
-1092
-
-ACROLEIN, STABILISIERT
-
-1098
-
-ALLYLALKOHOL
-
-1135
-
-ETHYLENCHLORHYDRIN
-
-1182
-
-ETHYLCHLORFORMIAT
-
-1185
-
-ETHYLENIMIN, STABILISIERT
-
-1238
-
-METHYLCHLORFORMIAT
-
-1259
-
-NICKELTETRACARBONYL
-
-1510
-
-TETRANITROMETHAN
-
-1541
-
-ACETONCYANHYDRIN, STABILISIERT
-
-1553
-
-ARSENSÄURE, FLÜSSIG
-
-1556
-
-ARSENVERBINDUNG, FLÜSSIG, N.A.G., anorganisch, einschließlich Arsenate, n.a.g., Arsenite, n.a.g. und Arsensulfide, n.a.g.
-
-1560
-
-ARSENTRICHLORID
-
-1580
-
-CHLORPIKRIN
-
-1595
-
-DIMETHYLSULFAT
-
-1613
-
-CYANWASSERSTOFF, WÄSSERIGE LÖSUNG (CYANWASSERSTOFFSÄURE, WÄSSERIGE LÖSUNG), mit höchstens 20 % Cyanwasserstoff
-
-1649
-
-ANTIKLOPFMISCHUNG FÜR MOTORKRAFTSTOFF
-
-1670
-
-PERCHLORMETHYLMERCAPTAN
-
-1672
-
-PHENYLCARBYLAMINCHLORID
-
-1694
-
-BROMBENZYLCYANIDE, FLÜSSIG
-
-1722
-
-ALLYLCHLORFORMIAT
-
-1935
-
-CYANID, LÖSUNG, N.A.G.
-
-1994
-
-EISENPENTACARBONYL
-
-2334
-
-ALLYLAMIN
-
-2337
-
-PHENYLMERCAPTAN
-
-2382
-
-DIMETHYLHYDRAZIN, SYMMETRISCH
-
-2558
-
-EPIBROMHYDRIN
-
-2606
-
-METHYLORTHOSILICAT
-
-2810
-
-GIFTIGER ORGANISCHER FLÜSSIGER STOFF, N.A.G. (alle namentlich genannten polychlorierten para-Dibenzodioxine und -furane)
-
-3017
-
-ORGANOPHOSPHOR-PESTIZID, FLÜSSIG, GIFTIG, ENTZÜNDBAR, mit einem Flammpunkt von 23 °C oder darüber
-
-3018
-
-ORGANOPHOSPHOR-PESTIZID, FLÜSSIG, GIFTIG
-
-3079
-
-METHACRYLNITRIL, STABILISIERT
-
-8
-
-1052
-
-FLUORWASSERSTOFF, WASSERFREI
-
-1739
-
-BENZYLCHLORFORMIAT
-
-1744
-
-BROM oder BROM, LÖSUNG
-
-1777
-
-FLUORSULFONSÄURE
-
-1790
-
-FLUORWASSERSTOFFSÄURE mit mehr als 60 % Fluorwasserstoff, aber höchstens 85 % Fluorwasserstoff
-
-1790
-
-FLUORWASSERSTOFFSÄURE mit mehr als 85 % Fluorwasserstoff
-
-1829
-
-SCHWEFELTRIOXID, STABILISIERT
-
-2699
-
-TRIFLUORESSIGSÄURE
-
-4.  
-Für die nachfolgend genannten entzündbaren flüssigen Stoffe der Klasse 3, die unter die Verpackungsgruppe I oder II fallen, gelten unter der Maßgabe des § 35 Absatz 1 die Absätze 2 und 3.
-
-Tabelle 4
-
-UN-Nummer und offizielle Benennung der Stoffe
-
-1088
-
-ACETAL
-
-1089
-
-ACETALDEHYD
-
-1090
-
-ACETON
-
-1091
-
-ACETONÖLE
-
-1105
-
-PENTANOLE
-
-1107
-
-AMYLCHLORIDE
-
-1108
-
-PENT-1-EN (n-AMYLEN)
-
-1111
-
-AMYLMERCAPTAN
-
-1113
-
-AMYLNITRITE
-
-1114
-
-BENZEN
-
-1120
-
-BUTANOLE
-
-1123
-
-BUTYLACETATE
-
-1126
-
-1-BROMBUTAN
-
-1127
-
-CHLORBUTANE
-
-1128
-
-n-BUTYLFORMIAT
-
-1129
-
-BUTYRALDEHYD
-
-1133
-
-KLEBSTOFFE, mit entzündbarem flüssigem Stoff
-
-1133
-
-KLEBSTOFFE, mit entzündbarem flüssigem Stoff (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1133
-
-KLEBSTOFFE, mit entzündbarem flüssigem Stoff (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-1136
-
-STEINKOHLENTEERDESTILLATE, ENTZÜNDBAR
-
-1139
-
-SCHUTZANSTRICHLÖSUNG (einschließlich zu Industrie- oder anderen Zwecken verwendete Oberflächenbehandlungen oder Beschichtungen, wie Zwischenbeschichtung für Fahrzeugkarosserien, Auskleidung für Fässer)
-
-1139
-
-SCHUTZANSTRICHLÖSUNG (einschließlich zu Industrie- oder anderen Zwecken verwendete Oberflächenbehandlungen oder Beschichtungen, wie Zwischenbeschichtung für Fahrzeugkarosserien, Auskleidung für Fässer) (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1144
-
-CROTONYLEN
-
-1145
-
-CYCLOHEXAN
-
-1146
-
-CYCLOPENTAN
-
-1148
-
-DIACETONALKOHOL, technisch
-
-1150
-
-1,2-DICHLORETHYLEN
-
-1155
-
-DIETHYLETHER (ETHYLETHER)
-
-1156
-
-DIETHYLKETON
-
-1159
-
-DIISOPROPYLETHER
-
-1161
-
-DIMETHYLCARBONAT
-
-1164
-
-DIMETHYLSULFID
-
-1165
-
-DIOXAN
-
-1166
-
-DIOXOLAN
-
-1167
-
-DIVINYLETHER, STABILISIERT
-
-1169
-
-EXTRAKTE, AROMATISCH, FLÜSSIG
-
-1169
-
-EXTRAKTE, AROMATISCH, FLÜSSIG (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1170
-
-ETHANOL (ETHYLALKOHOL) oder ETHANOL, LÖSUNG (ETHYLALKOHOL, LÖSUNG)
-
-1173
-
-ETHYLACETAT
-
-1175
-
-ETHYLBENZEN
-
-1176
-
-TRIETHYLBORAT
-
-1178
-
-2-ETHYLBUTYRALDEHYD
-
-1179
-
-ETHYLBUTYLETHER
-
-1190
-
-ETHYLFORMIAT
-
-1193
-
-ETHYLMETHYLKETON (METHYLETHYLKETON)
-
-1195
-
-ETHYLPROPIONAT
-
-1197
-
-EXTRAKTE, GESCHMACKSTOFFE, FLÜSSIG
-
-1197
-
-EXTRAKTE, GESCHMACKSTOFFE, FLÜSSIG (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1197
-
-EXTRAKTE, GESCHMACKSTOFFE, FLÜSSIG (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-1201
-
-FUSELÖL
-
-1203
-
-BENZIN ODER OTTOKRAFTSTOFF
-
-1206
-
-HEPTANE
-
-1208
-
-HEXANE
-
-1210
-
-DRUCKFARBE, entzündbar oder DRUCKFARBZUBEHÖRSTOFFE (einschließlich Druckfarbverdünnung
-und -lösemittel), entzündbar
-
-1210
-
-DRUCKFARBE, entzündbar oder DRUCKFARBZUBEHÖRSTOFFE (einschließlich Druckfarbverdünnung
-und -lösemittel), entzündbar (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1210
-
-DRUCKFARBE, entzündbar oder DRUCKFARBZUBEHÖRSTOFFE (einschließlich Druckfarbverdünnung
-und -lösemittel), entzündbar (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-1213
-
-ISOBUTYLACETAT
-
-1216
-
-ISOOCTENE
-
-1218
-
-ISOPREN, STABILISIERT
-
-1219
-
-ISOPROPANOL (ISOPROPYLALKOHOL)
-
-1220
-
-ISOPROPYLACETAT
-
-1222
-
-ISOPROPYLNITRAT
-
-1224
-
-KETONE, FLÜSSIG, N.A.G. (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1224
-
-KETONE, FLÜSSIG, N.A.G. (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-1231
-
-METHYLACETAT
-
-1234
-
-METHYLAL
-
-1237
-
-METHYLBUTYRAT
-
-1243
-
-METHYLFORMIAT
-
-1245
-
-METHYLISOBUTYLKETON
-
-1246
-
-METHYLISOPROPENYLKETON, STABILISIERT
-
-1247
-
-METHYLMETHACRYLAT, MONOMER, STABILISIERT
-
-1248
-
-METHYLPROPIONAT
-
-1249
-
-METHYLPROPYLKETON
-
-1261
-
-NITROMETHAN
-
-1262
-
-OCTANE
-
-1263
-
-FARBE (einschließlich Farbe, Lack, Emaille, Beize, Schellack, Firnis, Politur, flüssiger Füllstoff und flüssige Lackgrundlage) oder FARBZUBEHÖRSTOFFE (einschließlich Farbverdünnung und -lösemittel)
-
-1263
-
-FARBE (einschließlich Farbe, Lack, Emaille, Beize, Schellack, Firnis, Politur, flüssiger Füllstoff und flüssige Lackgrundlage) oder FARBZUBEHÖRSTOFFE (einschließlich Farbverdünnung und -lösemittel) (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1265
-
-PENTANE, flüssig
-
-1266
-
-PARFÜMERIEERZEUGNISSE mit entzündbaren Lösungsmitteln
-
-1266
-
-PARFÜMERIEERZEUGNISSE mit entzündbaren Lösungsmitteln (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1267
-
-ROHERDÖL
-
-1268
-
-ERDÖLDESTILLATE, N.A.G. oder ERDÖLPRODUKTE, N.A.G.
-
-1268
-
-ERDÖLDESTILLATE, N.A.G. oder ERDÖLPRODUKTE, N.A.G. (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1268
-
-ERDÖLDESTILLATE, N.A.G. oder ERDÖLPRODUKTE, N.A.G. (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-1274
-
-n-PROPANOL (n-PROPYLALKOHOL)
-
-1275
-
-PROPIONALDEHYD
-
-1276
-
-n-PROPYLACETAT
-
-1278
-
-1-CHLORPROPAN
-
-1279
-
-1,2-DICHLORPROPAN
-
-1280
-
-PROPYLENOXID
-
-1281
-
-PROPYLFORMIATE
-
-1282
-
-PYRIDIN
-
-1286
-
-HARZÖL
-
-1286
-
-HARZÖL (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1286
-
-HARZÖL (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-1287
-
-GUMMILÖSUNG
-
-1287
-
-GUMMILÖSUNG (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1287
-
-GUMMILÖSUNG (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-1288
-
-SCHIEFERÖL
-
-1293
-
-TINKTUREN, MEDIZINISCHE
-
-1294
-
-TOLUEN
-
-1300
-
-TERPENTINÖLERSATZ
-
-1301
-
-VINYLACETAT, STABILISIERT
-
-1302
-
-VINYLETHYLETHER, STABILISIERT
-
-1303
-
-VINYLIDENCHLORID, STABILISIERT
-
-1304
-
-VINYLISOBUTYLETHER, STABILISIERT
-
-1306
-
-HOLZSCHUTZMITTEL, FLÜSSIG (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1306
-
-HOLZSCHUTZMITTEL, FLÜSSIG (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-1307
-
-XYLENE
-
-1308
-
-ZIRKONIUM, SUSPENDIERT IN EINEM ENTZÜNDBAREN FLÜSSIGEN STOFF
-
-1308
-
-ZIRKONIUM, SUSPENDIERT IN EINEM ENTZÜNDBAREN FLÜSSIGEN STOFF (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1308
-
-ZIRKONIUM, SUSPENDIERT IN EINEM ENTZÜNDBAREN FLÜSSIGEN STOFF (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-1648
-
-ACETONITRIL
-
-1862
-
-ETHYLCROTONAT
-
-1863
-
-DÜSENKRAFTSTOFF
-
-1863
-
-DÜSENKRAFTSTOFF (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1863
-
-DÜSENKRAFTSTOFF (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-1865
-
-n-PROPYLNITRAT
-
-1866
-
-HARZLÖSUNG, entzündbar
-
-1866
-
-HARZLÖSUNG, entzündbar (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1866
-
-HARZLÖSUNG, entzündbar (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-1917
-
-ETHYLACRYLAT, STABILISIERT
-
-1919
-
-METHYLACRYLAT, STABILISIERT
-
-1987
-
-ALKOHOLE, N.A.G. (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1987
-
-ALKOHOLE, N.A.G. (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-1989
-
-ALDEHYDE, N.A.G.
-
-1989
-
-ALDEHYDE, N.A.G. (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1989
-
-ALDEHYDE, N.A.G. (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-1993
-
-ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G.
-
-1993
-
-ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G. (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1993
-
-ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G. (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-1999
-
-TEERE, FLÜSSIG, einschließlich Straßenöle und Cutback-Bitumen (Verschnittbitumen) (Dampfdruck bei 50 °C größer als 110 kPa)
-
-1999
-
-TEERE, FLÜSSIG, einschließlich Straßenöle und Cutback-Bitumen (Verschnittbitumen) (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-2045
-
-ISOBUTYRALDEHYD (ISOBUTYLALDEHYD)
-
-2047
-
-DICHLORPROPENE
-
-2050
-
-DIISOBUTYLEN, ISOMERE VERBINDUNGEN
-
-2056
-
-TETRAHYDROFURAN
-
-2057
-
-TRIPROPYLEN
-
-2058
-
-VALERALDEHYD
-
-2059
-
-NITROCELLULOSE, LÖSUNG, ENTZÜNDBAR, mit höchstens 12,6 % Stickstoff in der Trockenmasse und höchstens 55 % Nitrocellulose
-
-2059
-
-NITROCELLULOSE, LÖSUNG, ENTZÜNDBAR, mit höchstens 12,6 % Stickstoff in der Trockenmasse und höchstens 55 % Nitrocellulose (Dampfdruck bei 50 °C größer als 110 kPa)
-
-2059
-
-NITROCELLULOSE, LÖSUNG, ENTZÜNDBAR, mit höchstens 12,6 % Stickstoff in der Trockenmasse und höchstens 55 % Nitrocellulose (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-2241
-
-CYCLOHEPTAN
-
-2242
-
-CYCLOHEPTEN
-
-2246
-
-CYCLOPENTEN
-
-2251
-
-BICYCLO-\[2,2,1\]-HEPTA-2,5-DIEN, STABILISIERT (NORBORNAN-2,5-DIEN, STABILISIERT)
-
-2252
-
-1,2-DIMETHOXYETHAN
-
-2256
-
-CYCLOHEXEN
-
-2263
-
-DIMETHYLCYCLOHEXANE
-
-2277
-
-ETHYLMETHACRYLAT, STABILISIERT
-
-2278
-
-n-HEPTEN
-
-2287
-
-ISOHEPTENE
-
-2288
-
-ISOHEXENE
-
-2296
-
-METHYLCYCLOHEXAN
-
-2298
-
-METHYLCYCLOPENTAN
-
-2301
-
-2-METHYLFURAN
-
-2309
-
-OCTADIENE
-
-2338
-
-BENZOTRIFLUORID
-
-2339
-
-2-BROMBUTAN
-
-2340
-
-2-BROMETHYLETHYLETHER
-
-2342
-
-BROMMETHYLPROPANE
-
-2343
-
-2-BROMPENTAN
-
-2344
-
-BROMPROPANE
-
-2345
-
-3-BROMPROPIN
-
-2346
-
-BUTANDION
-
-2347
-
-BUTYLMERCAPTAN
-
-2350
-
-BUTYLMETHYLETHER
-
-2351
-
-BUTYLNITRITE
-
-2352
-
-BUTYLVINYLETHER, STABILISIERT
-
-2356
-
-2-CHLORPROPAN
-
-2358
-
-CYCLOOCTATETRAEN
-
-2362
-
-1,1-DICHLORETHAN
-
-2363
-
-ETHYLMERCAPTAN
-
-2367
-
-alpha-METHYLVALERALDEHYD
-
-2370
-
-HEX-1-EN
-
-2371
-
-ISOPENTENE
-
-2372
-
-1,2-DI-(DIMETHYLAMINO)-ETHAN
-
-2373
-
-DIETHOXYMETHAN
-
-2374
-
-3,3-DIETHOXYPROPEN
-
-2375
-
-DIETHYLSULFID
-
-2376
-
-2,3-DIHYDROPYRAN
-
-2377
-
-1,1-DIMETHOXYETHAN
-
-2380
-
-DIMETHYLDIETHOXYSILAN
-
-2381
-
-DIMETHYLDISULFID
-
-2384
-
-DI-n-PROPYLETHER
-
-2385
-
-ETHYLISOBUTYRAT
-
-2387
-
-FLUORBENZEN
-
-2388
-
-FLUORTOLUENE
-
-2389
-
-FURAN
-
-2390
-
-2-IODBUTAN
-
-2391
-
-IODMETHYLPROPANE
-
-2393
-
-ISOBUTYLFORMIAT
-
-2397
-
-3-METHYLBUTAN-2-ON
-
-2398
-
-METHYL-tert-BUTYLETHER
-
-2400
-
-METHYLISOVALERAT
-
-2402
-
-PROPANTHIOLE
-
-2403
-
-ISOPROPENYLACETAT
-
-2406
-
-ISOPROPYLISOBUTYRAT
-
-2409
-
-ISOPROPYLPROPIONAT
-
-2410
-
-1,2,3,6-TETRAHYDROPYRIDIN
-
-2412
-
-TETRAHYDROTHIOPHEN
-
-2414
-
-THIOPHEN
-
-2416
-
-TRIMETHYLBORAT
-
-2436
-
-THIOESSIGSÄURE
-
-2456
-
-2-CHLORPROPEN
-
-2457
-
-2,3-DIMETHYLBUTAN
-
-2458
-
-HEXADIENE
-
-2459
-
-2-METHYLBUT-1-EN
-
-2460
-
-2-METHYLBUT-2-EN
-
-2461
-
-METHYLPENTADIENE
-
-2536
-
-METHYLTETRAHYDROFURAN
-
-2554
-
-METHYLALLYLCHLORID
-
-2561
-
-3-METHYLBUT-1-EN
-
-2612
-
-METHYLPROPYLETHER
-
-2615
-
-ETHYLPROPYLETHER
-
-2616
-
-TRIISOPROPYLBORAT
-
-2707
-
-DIMETHYLDIOXANE
-
-2749
-
-TETRAMETHYLSILAN
-
-2838
-
-VINYLBUTYRAT, STABILISIERT
-
-3022
-
-1,2-BUTYLENOXID, STABILISIERT
-
-3065
-
-ALKOHOLISCHE GETRÄNKE mit mehr als 70 Vol.-% Alkohol
-
-3269
-
-POLYESTERHARZ-MEHRKOMPONENTENSYSTEME
-
-3271
-
-ETHER, N.A.G.
-
-3272
-
-ESTER, N.A.G.
-
-3295
-
-KOHLENWASSERSTOFFE, FLÜSSIG, N.A.G.
-
-3295
-
-KOHLENWASSERSTOFFE, FLÜSSIG, N.A.G. (Dampfdruck bei 50 °C größer als 110 kPa)
-
-3295
-
-KOHLENWASSERSTOFFE, FLÜSSIG, N.A.G. (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-3336
-
-MERCAPTANE, FLÜSSIG, ENTZÜNDBAR, N.A.G. oder MERCAPTANE, MISCHUNG, FLÜSSIG, ENTZÜNDBAR, N.A.G.
-
-3336
-
-MERCAPTANE, FLÜSSIG, ENTZÜNDBAR, N.A.G. oder MERCAPTANE, MISCHUNG, FLÜSSIG, ENTZÜNDBAR, N.A.G. (Dampfdruck bei 50 °C größer als 110 kPa)
-
-3336
-
-MERCAPTANE, FLÜSSIG, ENTZÜNDBAR, N.A.G. oder MERCAPTANE, MISCHUNG, FLÜSSIG, ENTZÜNDBAR, N.A.G. (Dampfdruck bei 50 °C höchstens 110 kPa)
-
-mit einem Gehalt an flüssigen Salpetersäureestern von mehr als 40 Masse-% (siehe auch SV 616)
+### Anlage 1 (weggefallen)
 
 ### Anlage 2 Einschränkungen aus Gründen der Sicherheit der Beförderung gefährlicher Güter zu den Teilen 1 bis 9 des ADR und zu den Teilen 1 bis 7 des RID für innerstaatliche Beförderungen sowie zu den Teilen 1 bis 9 des ADN für innerstaatliche und grenzüberschreitende Beförderungen
 
-(Fundstelle: BGBl. I 2015, 411 - 419)
+(Fundstelle: BGBl. I 2017, 744 — 749)
 
 **1.**  
 **Im Straßen- und Eisenbahnverkehr gelten für innerstaatliche Beförderungen und in der Binnenschifffahrt gelten für innerstaatliche und grenzüberschreitende Beförderungen die nachstehenden Einschränkungen zu den Teilen 1 bis 7:**
@@ -4553,13 +3118,16 @@ gelten für innerstaatliche Beförderungen weiter.
 **Im Straßenverkehr gelten für innerstaatliche Beförderungen mit Fahrzeugen, die in Deutschland zugelassen sind, die nachstehenden Vorschriften und Einschränkungen zu den Teilen 8 und 9 des ADR:**
 
 **3.1**  
-**Verbot von Feuer und offenem Licht**Bei Ladearbeiten ist der Umgang mit Feuer oder offenem Licht in der Nähe der Fahrzeuge oder Container und in den Fahrzeugen oder Containern untersagt.
+**Verbot von Feuer und offenem Licht**
+Bei Ladearbeiten ist der Umgang mit Feuer oder offenem Licht in der Nähe der Fahrzeuge oder Container und in den Fahrzeugen oder Containern untersagt.
 
 **3.2**  
-**Unterrichtung des Fahrpersonals durch Befüller und Entlader**Übernimmt der Fahrzeugführer das Befüllen des Tanks, so hat der Befüller ihn in die Handhabung der Fülleinrichtung, soweit diese nicht Bestandteil des Fahrzeugs ist, einzuweisen. Entsprechendes gilt hinsichtlich der Entleerungseinrichtung für das Beförderungsunternehmen, das als Entlader tätig wird. Diese Einweisung ist schriftlich zu dokumentieren. Hinsichtlich der Aufbewahrung dieser Dokumentation gilt Abschnitt 1.3.3 ADR in Verbindung mit § 27 Absatz 5 Nummer 2 GGVSEB entsprechend.
+**Unterrichtung des Fahrpersonals durch Befüller und Entlader**
+Übernimmt der Fahrzeugführer das Befüllen des Tanks, so hat der Befüller ihn in die Handhabung der Fülleinrichtung, soweit diese nicht Bestandteil des Fahrzeugs ist, einzuweisen. Entsprechendes gilt hinsichtlich der Entleerungseinrichtung für das Beförderungsunternehmen, das als Entlader tätig wird. Diese Einweisung ist schriftlich zu dokumentieren. Hinsichtlich der Aufbewahrung dieser Dokumentation gilt Abschnitt 1.3.3 ADR in Verbindung mit § 27 Absatz 5 Nummer 2 GGVSEB entsprechend.
 
 **3.3**  
-**Überwachung der Fahrzeuge und Container**Ergänzend zu Kapitel 8.4 sind alle mit orangefarbener Tafel kennzeichnungspflichtigen Fahrzeuge und Container entsprechend den Vorgaben nach Abschnitt 8.4.1 ADR zu überwachen. Gleiches gilt für Anhänger einer kennzeichnungspflichtigen Beförderungseinheit, die von dem Kraftfahrzeug getrennt geparkt werden, sofern diese Anhänger mit gefährlichen Gütern in kennzeichnungspflichtiger Menge beladen sind. Satz 2 gilt nicht für die Überwachung von Anhängern mit UN 1202.
+**Überwachung der Fahrzeuge und Container**
+Ergänzend zu Kapitel 8.4 sind alle mit orangefarbener Tafel kennzeichnungspflichtigen Fahrzeuge und Container entsprechend den Vorgaben nach Abschnitt 8.4.1 ADR zu überwachen. Gleiches gilt für Anhänger einer kennzeichnungspflichtigen Beförderungseinheit, die von dem Kraftfahrzeug getrennt geparkt werden, sofern diese Anhänger mit gefährlichen Gütern in kennzeichnungspflichtiger Menge beladen sind. Satz 2 gilt nicht für die Überwachung von Anhängern mit UN 1202.
 
 **4.**  
 **Im Eisenbahnverkehr gelten für innerstaatliche Beförderungen die nachstehenden Vorschriften und Einschränkungen zu den Teilen 1 bis 7 des RID:**
@@ -4568,7 +3136,8 @@ gelten für innerstaatliche Beförderungen weiter.
 Hinweise in den Teilen 1 bis 7 RID auf das internationale Frachtrecht finden bei innerstaatlichen Beförderungen keine Anwendung. Bei innerstaatlichen Beförderungen gelten das anwendbare nationale Frachtrecht sowie mit ihm übereinstimmende Beförderungsbedingungen der Beförderer.
 
 **4.2**  
-**Gefahrgutbeförderung in Reisezügen**Gefahrgutbeförderungen in Reisezügen sind vorbehaltlich der Regelungen in den Buchstaben a und b verboten.
+**Gefahrgutbeförderung in Reisezügen**
+Gefahrgutbeförderungen in Reisezügen sind vorbehaltlich der Regelungen in den Buchstaben a und b verboten.
 
 a)  
 Die in den Unterabschnitten 1.1.2.2 und 1.1.2.3 in Verbindung mit den Kapiteln 7.6 und 7.7 RID genannten Regelungen bzw. Sicherheitsvorschriften sind auch für die innerstaatliche Beförderung zu beachten.
@@ -4579,23 +3148,28 @@ Im Übersetzverkehr mit der Eisenbahn über den Hindenburgdamm zwischen Niebüll
 aa)  
 Folgende Güter sind in folgenden Beförderungsmitteln zur Beförderung zugelassen:
 
-<table>
-<tbody>
-<tr class="odd">
-<td>Gefahrgüter der Klassen 1.4 und 2 bis 9</td>
-<td>Beförderung in Versandstücken in gedeckten<br />
-und bedeckten Straßenfahrzeugen</td>
-</tr>
-<tr class="even">
-<td>a) Gefahrgüter der Klasse 2 Gruppen A, O und F ohne Nebengefahr giftig,<br />
-b) Gefahrgüter der Klasse 3, Verpackungsgruppe II und III ohne Nebengefahr giftig,<br />
-c) Gefahrgüter der Klasse 8, Verpackungsgruppe II und III ohne Nebengefahr giftig und<br />
-d) Gefahrgüter der Klasse 9, Verpackungsgruppe II und III</td>
-<td>Beförderung in Tanks (Straßentankfahrzeugen, Straßenfahrzeugen mit Aufsetztanks und<br />
-Straßenfahrzeugen mit Tankcontainern)</td>
-</tr>
-</tbody>
-</table>
+Gefahrgüter der Klassen 1.4 und 2 bis 9
+
+Beförderung in Versandstücken
+in gedeckten und bedeckten Straßenfahrzeugen
+
+a)  
+Gefahrgüter der Klasse 2 Gruppen A, O
+und F ohne Nebengefahr giftig,
+
+b)  
+Gefahrgüter der Klasse 3, Verpackungs-
+gruppe II und III ohne Nebengefahr giftig,
+
+c)  
+Gefahrgüter der Klasse 8, Verpackungs-
+gruppe II und III ohne Nebengefahr giftig und
+
+d)  
+Gefahrgüter der Klasse 9, Verpackungs-
+gruppe II und III
+
+Beförderung in Tanks (Straßentankfahrzeugen, Straßenfahrzeugen mit Aufsetztanks und Straßenfahrzeugen mit Tankcontainern)
 
 bb)  
 Die Beförderung gefährlicher Güter erfolgt im Huckepackverkehr unter Beachtung der Vorschriften nach Unterabschnitt 1.1.4.4 RID.
@@ -4631,76 +3205,54 @@ Abweichend von den Abschnitten 7.1.5.1 und 7.2.5.1 ADN dürfen Schiffe, die gef�
 **Folgende Übergangsbestimmungen gelten bei der Beförderung nachstehender Stoffe:**
 
 **6.2.1**  
-Folgende Stoffe dürfen in Typ N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 6 kPa (0,06 bar) (Prüfdruck der Ladetanks von 10 kPa (0,10 bar)) befördert werden:
+Folgende Stoffe dürfen in Tankschiffen des Typs N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 6 kPa (0,06 Bar) (Prüfdruck der Ladetanks von 10 kPa (0,10 Bar)) befördert werden:
 
 a)  
-Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Typ N offen, ein Typ N offen mit Flammendurchschlagsicherung oder ein Typ N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von höchstens 10 kPa (0,10 bar) gefordert wird.
+Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Tankschiff des Typs N offen, Typ N offen mit Flammendurchschlagsicherung oder Typ N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von 10 kPa (0,10 Bar) gefordert wird.
 
 b)  
-Die nachstehend aufgeführten Schiffe hatten am 31. Dezember 1986 eine Sondergenehmigung für bestimmte Stoffe und sind auf Grund ihrer Bauweise, d. h. mit Doppelböden und Wallgängen zugelassen für die Beförderung von den in der separaten Liste aufgenommenen Stoffen:
+Das nachstehend aufgeführte Schiff hatte am 31.12.1986 eine Sondergenehmigung für bestimmte Stoffe und ist auf Grund seiner Bauweise, d. h. mit Doppelboden und Wallgängen, zugelassen für die Beförderung von den in der separaten Liste aufgenommenen Stoffen.
 
 Schiffsname
 
-Amtliche Schiffsnummer
+ENI Nummer
 
 Stoffliste Nummer
 
-T.M.S. EVA M
+T.M.S. PIZ EVEREST
 
-600 3995
-
-3
-
-T.M.S. PRIMAZEE
-
-231 4207
-
-4
-
-T.M.S. PIZ LOGAN
-
-700 1829
-
-2
-
-T.M.S. STOLT MADRID
-
-232 6328
-
-1
-
-T.M.S. STOLT OSLO
-
-232 6324
+0232 6324
 
 1
 
 **6.2.2**  
-Folgende Stoffe dürfen in Typ N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 10 kPa (0,10 bar) (Prüfdruck der Ladetanks von 65 kPa (0,65 bar)) befördert werden:
+Folgende Stoffe dürfen in Tankschiffen des Typs N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 10 kPa (0,10 Bar) (Prüfdruck der Ladetanks von 65 kPa (0,65 Bar)) befördert werden:
 
 a)  
-Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Typ N offen, ein Typ N offen mit Flammendurchschlagsicherung oder ein Typ N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von höchstens 10 kPa (0,10 bar) gefordert wird.Wenn das Hochgeschwindigkeitsventil umgebaut wird auf 50 kPa (0,50 bar), dürfen alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN ein Einstelldruck des Hochgeschwindigkeitsventils von 50 kPa (0,50 bar) gefordert wird, befördert werden.
+Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Tankschiff des Typs N offen, des Typs N offen mit Flammendurchschlagsicherung oder des Typs N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von 10 kPa (0,10 Bar) gefordert wird.Wenn das Hochgeschwindigkeitsventil umgebaut wird auf 50 kPa (0,50 Bar), dürfen alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN ein Einstelldruck des Hochgeschwindigkeitsventils von 50 kPa (0,50 Bar) gefordert wird, befördert werden.
 
 b)  
-Das nachstehend aufgeführte Schiff hatte am 31. Dezember 1986 eine Sondergenehmigung für bestimmte Stoffe und ist auf Grund seiner Bauweise, d. h. mit Doppelböden und Wallgängen zugelassen für die Beförderung von in der separaten Liste aufgenommenen Stoffen:
+Das nachstehend aufgeführte Schiff hatte am 31.12.1986 eine Sondergenehmigung für bestimmte Stoffe und ist auf Grund seiner Bauweise, d. h. mit Doppelboden und Wallgängen, zugelassen für die Beförderung von den in der separaten Liste aufgenommenen Stoffen.
 
 Schiffsname
 
-Amtliche Schiffsnummer
+ENI Nummer
 
 Stoffliste Nummer
 
 T.M.S. EILTANK 9
 
-430 4830
+0430 4830
 
 5
 
 **6.2.3**  
-Folgende Stoffe dürfen in Typ C mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 9 kPa (0,09 bar) befördert werden:Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Typ N oder ein Typ C mit einem Einstelldruck des Hochgeschwindigkeitsventils von höchstens 10 kPa (0,10 bar) gefordert wird.
+Folgende Stoffe dürfen in Tankschiffen des Typs C mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 9 kPa (0,09 Bar) befördert werden:
+Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Tankschiff des Typs N oder des Typs C mit einem Einstelldruck des Hochgeschwindigkeitsventils von 10 kPa (0,10 Bar) gefordert wird.
 
 **6.2.4**  
-Folgende Stoffe dürfen in Typ C mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 35 kPa (0,35 bar) befördert werden:Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Typ N oder ein Typ C mit einem Einstelldruck des Hochgeschwindigkeitsventils von höchstens 35 kPa (0,35 bar) gefordert wird.Wenn das Hochgeschwindigkeitsventil umgebaut wird auf 50 kPa (0,50 bar), dürfen alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN ein Einstelldruck des Hochgeschwindigkeitsventils von 50 kPa (0,50 bar) gefordert wird, befördert werden.
+Folgende Stoffe dürfen in Tankschiffen des Typs C mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 35 kPa (0,35 Bar) befördert werden:
+Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Tankschiff des Typs N oder des Typs C mit einem Einstelldruck des Hochgeschwindigkeitsventils von 35 kPa (0,35 Bar) gefordert wird.Wenn das Hochgeschwindigkeitsventil umgebaut wird auf 50 kPa (0,50 Bar), dürfen alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN ein Einstelldruck des Hochgeschwindigkeitsventils von 50 kPa (0,50 Bar) gefordert wird, befördert werden.
 
 **Stoffliste Nummer 1:**
 
@@ -4769,7 +3321,7 @@ METHYLMETHACRYLAT, MONOMER, STABILISIERT
 
 I
 
-ROHERDÖL, MIT MEHR ALS 10 % BENZEN
+ROHERDÖL, MIT MEHR ALS 10% BENZEN
 
 1267
 
@@ -4777,7 +3329,7 @@ ROHERDÖL, MIT MEHR ALS 10 % BENZEN
 
 II
 
-ROHERDÖL, MIT MEHR ALS 10 % BENZEN
+ROHERDÖL, MIT MEHR ALS 10% BENZEN
 
 1268
 
@@ -4890,7 +3442,7 @@ TETRACHLORKOHLENSTOFF
 
 I
 
-DÜSENKRAFTSTOFF MIT MEHR ALS 10 % BENZEN
+DÜSENKRAFTSTOFF MIT MEHR ALS 10% BENZEN
 
 1863
 
@@ -4898,7 +3450,7 @@ DÜSENKRAFTSTOFF MIT MEHR ALS 10 % BENZEN
 
 II
 
-DÜSENKRAFTSTOFF MIT MEHR ALS 10 % BENZEN
+DÜSENKRAFTSTOFF MIT MEHR ALS 10% BENZEN
 
 1888
 
@@ -5042,858 +3594,8 @@ II
 
 CRESOLE, FEST, GESCHMOLZEN
 
-**Stoffliste Nummer 2:**
-
-UN-
-Nummer
-
-Klasse und
-Klassifizierungscode
-
-Verpackungs-
-gruppe
-
-Benennung und Beschreibung
-
-1114
-
-3, F1
-
-II
-
-BENZEN
-
-1129
-
-3, F1
-
-II
-
-BUTYRALDEHYDE (n-BUTYRALDEHYD)
-
-1134
-
-3, F1
-
-III
-
-CHLORBENZEN (Phenylchlorid)
-
-1203
-
-3, F1
-
-II
-
-BENZIN MIT MEHR ALS 10 % BENZEN
-
-1247
-
-3, F1
-
-II
-
-METHYLMETHACRYLAT, MONOMER, STABILISIERT
-
-1267
-
-3, F1
-
-II
-
-ROHERDÖL, MIT MEHR ALS 10 % BENZEN
-
-1268
-
-3, F1
-
-II
-
-ERDÖLDESTILLATE, N.A.G. MIT MEHR ALS 10 % BENZEN oder ERDÖLPRODUKTE, N.A.G. MIT MEHR ALS 10 % BENZEN
-
-1277
-
-3, FC
-
-II
-
-PROPYLAMIN (1-Aminopropan)
-
-1278
-
-3, F1
-
-II
-
-1-CHLORPROPAN (Propylchlorid)
-
-1296
-
-3, FC
-
-II
-
-TRIETHYLAMIN
-
-1578
-
-6.1, T2
-
-II
-
-CHLORNITROBENZENE, FEST, GESCHMOLZEN
-(p-CHLORNITROBENZEN)
-
-1591
-
-6.1, T1
-
-III
-
-o-DICHLORBENZEN
-
-1593
-
-6.1, T1
-
-III
-
-DICHLORMETHAN (Methylenchlorid)
-
-1605
-
-6.1, T1
-
-I
-
-1,2-DIBROMETHAN
-
-1662
-
-6.1, T1
-
-II
-
-NITROBENZEN
-
-1710
-
-6.1, T1
-
-III
-
-TRICHLORETHYLEN
-
-1750
-
-6.1, TC1
-
-II
-
-CHLORESSIGSÄURE, LÖSUNG
-
-1831
-
-8, CT1
-
-I
-
-SCHWEFELSÄURE, RAUCHEND
-
-1846
-
-6.1, T1
-
-II
-
-TETRACHLORKOHLENSTOFF
-
-1863
-
-3, F1
-
-II
-
-DÜSENKRAFTSTOFF MIT MEHR ALS 10 % BENZEN
-
-1888
-
-6.1, T1
-
-III
-
-CHLOROFORM
-
-1897
-
-6.1, T1
-
-III
-
-TETRACHLORETHYLEN
-
-1917
-
-3, F1
-
-II
-
-ETHYLACRYLAT, STABILISIERT
-
-1993
-
-3, F1
-
-II
-
-ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G.
-MIT MEHR ALS 10 % BENZEN
-
-2238
-
-3, F1
-
-III
-
-CHLORTOLUENE (m-, o- oder p-CHLORTOLUEN)
-
-2263
-
-3, F1
-
-II
-
-DIMETHYLCYCLOHEXANE (cis-1,4-DIMETHYLCYCLOHEXAN)
-
-2263
-
-3, F1
-
-II
-
-DIMETHYLCYCLOHEXANE (trans-1,4-DIMETHYLCYCLOHEXAN)
-
-2266
-
-3, FC
-
-II
-
-DIMETHYL-N-PROPYLAMIN
-
-2312
-
-6.1, T1
-
-II
-
-PHENOL, GESCHMOLZEN
-
-2333
-
-3, FT1
-
-II
-
-ALLYLACETAT
-
-2733
-
-3, FC
-
-II
-
-AMINE, ENTZÜNDBAR, ÄTZEND, N.A.G.
-(2-AMINOBUTAN)
-
-2810
-
-6.1, T1
-
-III
-
-GIFTIGER, ORGANISCHER, FLÜSSIGER STOFF, N.A.G.
-(1,1,2 -Trichlorethan)
-
-2874
-
-6.1, T1
-
-III
-
-FURFURYLALKOHOL
-
-3295
-
-3, F1
-
-II
-
-KOHLENWASSERSTOFFE, FLÜSSIG, N.A.G.
-MIT MEHR ALS 10 % BENZEN
-
-**Stoffliste Nummer 3:**
-
-UN-
-Nummer
-
-Klasse und
-Klassifizierungscode
-
-Verpackungs-
-gruppe
-
-Benennung und Beschreibung
-
-1106
-
-3, FC
-
-II
-
-AMYLAMINE (n-AMYLAMIN)
-
-1114
-
-3, F1
-
-II
-
-BENZEN
-
-1129
-
-3, F1
-
-II
-
-BUTYRALDEHYDE (n-BUTYRALDEHYD)
-
-1134
-
-3, F1
-
-III
-
-CHLORBENZEN (Phenylchlorid)
-
-1143
-
-6.1, TF1
-
-I
-
-CROTONALDEHYD, STABILISIERT
-
-1184
-
-3, FT1
-
-II
-
-ETHYLENDICHLORID (1,2-Dichlorethan)
-
-1203
-
-3, F1
-
-II
-
-BENZIN MIT MEHR ALS 10 % BENZEN
-
-1247
-
-3, F1
-
-II
-
-METHYLMETHACRYLAT, MONOMER, STABILISIERT
-
-1267
-
-3, F1
-
-II
-
-ROHERDÖL, MIT MEHR ALS 10 % BENZEN
-
-1268
-
-3, F1
-
-II
-
-ERDÖLDESTILLATE, N.A.G. MIT MEHR ALS 10 % BENZEN oder ERDÖLPRODUKTE, N.A.G. MIT MEHR ALS 10 % BENZEN
-
-1275
-
-3, F1
-
-II
-
-PROPIONALDEHYD
-
-1277
-
-3, FC
-
-II
-
-PROPYLAMIN (1-Aminopropan)
-
-1278
-
-3, F1
-
-II
-
-1-CHLORPROPAN (Propylchlorid)
-
-1279
-
-3, F1
-
-II
-
-1,2-DICHLORPROPAN oder PROPYLENDICHLORID
-
-1296
-
-3, FC
-
-II
-
-TRIETHYLAMIN
-
-1547
-
-6.1, T1
-
-II
-
-ANILIN
-
-1578
-
-6.1, T2
-
-II
-
-CHLORNITROBENZENE, FEST, GESCHMOLZEN
-(p-CHLORNITROBENZEN)
-
-1593
-
-6.1, T1
-
-III
-
-DICHLORMETHAN (Methylenchlorid)
-
-1605
-
-6.1, T1
-
-I
-
-1,2-DIBROMETHAN
-
-1662
-
-6.1, T1
-
-II
-
-NITROBENZEN
-
-1710
-
-6.1, T1
-
-III
-
-TRICHLORETHYLEN
-
-1750
-
-6.1, TC1
-
-II
-
-CHLORESSIGSÄURE, LÖSUNG
-
-1831
-
-8, CT1
-
-I
-
-SCHWEFELSÄURE, RAUCHEND
-
-1846
-
-6.1, T1
-
-II
-
-TETRACHLORKOHLENSTOFF
-
-1863
-
-3, F1
-
-II
-
-DÜSENKRAFTSTOFF MIT MEHR ALS 10 % BENZEN
-
-1888
-
-6.1, T1
-
-III
-
-CHLOROFORM
-
-1897
-
-6.1, T1
-
-III
-
-TETRACHLORETHYLEN
-
-1917
-
-3, F1
-
-II
-
-ETHYLACRYLAT, STABILISIERT
-
-1993
-
-3, F1
-
-II
-
-ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G.
-MIT MEHR ALS 10 % BENZEN
-
-2078
-
-6.1, T1
-
-II
-
-TOLUYLENDIISOCYANAT (und isomere Gemische)
-(2,4-TOLUYLENDIISOCYANAT)
-
-2205
-
-6.1, T1
-
-III
-
-ADIPONITRIL
-
-2238
-
-3, F1
-
-III
-
-CHLORTOLUENE (m-, o- oder p-CHLORTOLUEN)
-
-2263
-
-3, F1
-
-II
-
-DIMETHYLCYCLOHEXANE (cis-1,4-DIMETHYLCYCLOHEXAN)
-
-2263
-
-3, F1
-
-II
-
-DIMETHYLCYCLOHEXANE (trans-1,4-DIMETHYLCYCLOHEXAN)
-
-2266
-
-3, FC
-
-II
-
-DIMETHYL-N-PROPYLAMIN
-
-2312
-
-6.1, T1
-
-II
-
-PHENOL, GESCHMOLZEN
-
-2333
-
-3, FT1
-
-II
-
-ALLYLACETAT
-
-2733
-
-3, FC
-
-II
-
-AMINE, ENTZÜNDBAR, ÄTZEND, N.A.G.
-(2-AMINOBUTAN)
-
-2810
-
-6.1, T1
-
-III
-
-GIFTIGER, ORGANISCHER, FLÜSSIGER STOFF, N.A.G.
-(1,1,2-Trichlorethan)
-
-2874
-
-6.1, T1
-
-III
-
-FURFURYLALKOHOL
-
-3295
-
-3, F1
-
-II
-
-KOHLENWASSERSTOFFE, FLÜSSIG, N.A.G.
-MIT MEHR ALS 10 % BENZEN
-
-3455
-
-6.1, TC2
-
-II
-
-CRESOLE, FEST, GESCHMOLZEN
-
-**Stoffliste Nummer 4:**
-
-UN-
-Nummer
-
-Klasse und
-Klassifizierungscode
-
-Verpackungs-
-gruppe
-
-Benennung und Beschreibung
-
-1106
-
-3, FC
-
-II
-
-AMYLAMINE (n-AMYLAMIN)
-
-1114
-
-3, F1
-
-II
-
-BENZEN
-
-1129
-
-3, F1
-
-II
-
-BUTYRALDEHYDE (n-BUTYRALDEHYD)
-
-1134
-
-3, F1
-
-III
-
-CHLORBENZEN (Phenylchlorid)
-
-1143
-
-6.1, TF1
-
-I
-
-CROTONALDEHYD, STABILISIERT
-
-1203
-
-3, F1
-
-II
-
-BENZIN MIT MEHR ALS 10 % BENZEN
-
-1247
-
-3, F1
-
-II
-
-METHYLMETHACRYLAT, MONOMER, STABILISIERT
-
-1267
-
-3, F1
-
-II
-
-ROHERDÖL, MIT MEHR ALS 10 % BENZEN
-
-1268
-
-3, F1
-
-II
-
-ERDÖLDESTILLATE, N.A.G. MIT MEHR ALS 10 % BENZEN oder ERDÖLPRODUKTE, N.A.G. MIT MEHR ALS 10 % BENZEN
-
-1275
-
-3, F1
-
-II
-
-PROPIONALDEHYD
-
-1277
-
-3, FC
-
-II
-
-PROPYLAMIN (1-Aminopropan)
-
-1278
-
-3, F1
-
-II
-
-1-CHLORPROPAN (Propylchlorid)
-
-1279
-
-3, F1
-
-II
-
-1,2-DICHLORPROPAN oder PROPYLENDICHLORID
-
-1296
-
-3, FC
-
-II
-
-TRIETHYLAMIN
-
-1863
-
-3, F1
-
-II
-
-DÜSENKRAFTSTOFF MIT MEHR ALS 10 % BENZEN
-
-1917
-
-3, F1
-
-II
-
-ETHYLACRYLAT, STABILISIERT
-
-1993
-
-3, F1
-
-II
-
-ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G.
-MIT MEHR ALS 10 % BENZEN
-
-2238
-
-3, F1
-
-III
-
-CHLORTOLUENE (m-, o- oder p-CHLORTOLUEN)
-
-2263
-
-3, F1
-
-II
-
-DIMETHYLCYCLOHEXANE (cis-1,4-DIMETHYLCYCLOHEXAN)
-
-2263
-
-3, F1
-
-II
-
-DIMETHYLCYCLOHEXANE (trans-1,4-DIMETHYLCYCLOHEXAN)
-
-2266
-
-3, FC
-
-II
-
-DIMETHYL-N-PROPYLAMIN
-
-2333
-
-3, FT1
-
-II
-
-ALLYLACETAT
-
-2733
-
-3, FC
-
-II
-
-AMINE, ENTZÜNDBAR, ÄTZEND, N.A.G.
-(2-AMINOBUTAN)
-
-3295
-
-3, F1
-
-II
-
-KOHLENWASSERSTOFFE, FLÜSSIG, N.A.G.
-MIT MEHR ALS 10 % BENZEN
+Stofflisten Nummer 2 bis 4
+(weggefallen)
 
 **Stoffliste Nummer 5:**
 
@@ -6026,7 +3728,8 @@ ALLYLACETAT
 
 II
 
-AMINE, ENTZÜNDBAR, ÄTZEND, N.A.G. (2-AMINOBUTAN)
+AMINE, ENTZÜNDBAR, ÄTZEND, N.A.G.
+(2-AMINOBUTAN)
 
 3446
 
@@ -6034,4 +3737,5 @@ AMINE, ENTZÜNDBAR, ÄTZEND, N.A.G. (2-AMINOBUTAN)
 
 II
 
-NITROTOLUENE, FEST, GESCHMOLZEN (o-NITROTOLUEN)
+NITROTOLUENE, FEST, GESCHMOLZEN
+(o-NITROTOLUEN)
