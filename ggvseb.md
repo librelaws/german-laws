@@ -5,7 +5,7 @@ Neuf
 Neugefasst durch Bek. v. 30.3.2017 I 711, 993;
 
 Stand  
-geändert durch Art. 2a V v. 7.12.2017 I 3859
+Zuletzt geändert durch Art. 19 V v. 29.11.2018 I 2034
 
 ### 
 
@@ -17,7 +17,9 @@ Diese Verordnung dient der Umsetzung der Richtlinie 2016/2309/EU der Kommission 
 nehmen vgl. § 38 Abs. 2 F v. 17.6.2009 +++)
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
-       EURL 2016/2309            (CELEX Nr: 32016L2309) +++)
+       EURL 2016/2309            (CELEX Nr: 32016L2309) 
+       EARL 59/2013              (CELEX Nr: 32013L0059) vgl. 
+                                  V v. 29.11.2018 I 2034 +++)
 ```
 
 ### Inhaltsverzeichnis
@@ -1593,7 +1595,7 @@ die Aufzeichnungen über die Unterweisung des Arbeitnehmers nach Unterabschnitt 
 
 (4) Die an der Beförderung gefährlicher Güter mit hohem Gefahrenpotenzial im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt beteiligten Auftraggeber des Absenders, Absender, Verpacker, Verlader, Befüller, Beförderer, Entlader und Empfänger müssen Sicherungspläne nach Absatz 1.10.3.2.1, die mindestens den Anforderungen des Absatzes 1.10.3.2.2 ADR/RID/ADN entsprechen, einführen und anwenden. Dies gilt nicht für Auftraggeber des Absenders oder Empfänger, die als Privatpersonen beteiligt sind.
 
-(4a) Die nach Absatz 4 an der Beförderung gefährlicher Güter mit hohem Gefahrenpotenzial im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt Beteiligten haben dafür zu sorgen, dass der zuständigen Polizeibehörde unverzüglich mitgeteilt wird, wenn ihnen Fahrzeuge, Wagen, Beförderungsmittel oder Container mit gefährlichen Gütern mit hohem Gefahrenpotenzial oder diese Güter selbst abhandenkommen. Gleiches gilt im Falle des Wiederauffindens. Beim Abhandenkommen von in Tabelle 1.10.3.1.2 aufgelisteten explosiven Stoffen und Gegenständen mit Explosivstoff und in den Absätzen 1.10.3.1.3 bis 1.10.3.1.5 ADR/RID/ADN genannten radioaktiven Stoffen ist eine gesonderte Mitteilung nach Satz 1 nur erforderlich, sofern die zuständige Polizeibehörde nicht bereits in die entsprechende Meldung nach § 26 Absatz 1 des Sprengstoffgesetzes oder nach § 71 Absatz 1 Satz 1 der Strahlenschutzverordnung einbezogen worden ist. Die Polizeibehörde, die eine Meldung nach den Sätzen 1 bis 3 entgegennimmt, unterrichtet hierüber unverzüglich das Bundeskriminalamt (BKA) sowie das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK).
+(4a) Die nach Absatz 4 an der Beförderung gefährlicher Güter mit hohem Gefahrenpotenzial im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt Beteiligten haben dafür zu sorgen, dass der zuständigen Polizeibehörde unverzüglich mitgeteilt wird, wenn ihnen Fahrzeuge, Wagen, Beförderungsmittel oder Container mit gefährlichen Gütern mit hohem Gefahrenpotenzial oder diese Güter selbst abhandenkommen. Gleiches gilt im Falle des Wiederauffindens. Beim Abhandenkommen von in Tabelle 1.10.3.1.2 aufgelisteten explosiven Stoffen und Gegenständen mit Explosivstoff und in den Absätzen 1.10.3.1.3 bis 1.10.3.1.5 ADR/RID/ADN genannten radioaktiven Stoffen ist eine gesonderte Mitteilung nach Satz 1 nur erforderlich, sofern die zuständige Polizeibehörde nicht bereits in die entsprechende Meldung nach § 26 Absatz 1 des Sprengstoffgesetzes oder nach § 167 Absatz 1 Satz 1 und 2 der Strahlenschutzverordnung einbezogen worden ist. Die Polizeibehörde, die eine Meldung nach den Sätzen 1 bis 3 entgegennimmt, unterrichtet hierüber unverzüglich das Bundeskriminalamt (BKA) sowie das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK).
 
 (5) Die Beteiligten im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt haben dafür zu sorgen, dass
 
