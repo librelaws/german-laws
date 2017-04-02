@@ -2,7 +2,7 @@ Aufenthaltsverordnung (AufenthV)
 ================================
 
 Stand  
-Zuletzt geändert durch Art. 7 G v. 2.2.2016 I 130
+Zuletzt geändert durch Art. 1 V v. 3.4.2017 I 690
 
 ### 
 
@@ -537,7 +537,7 @@ des Artikels 28 in Verbindung mit dem Anhang des Abkommens vom 28. Juli 1951 üb
 
 (7) Binnenschifffahrtsausweise sind in zwischenstaatlichen Vereinbarungen für den Grenzübertritt vorgesehene Ausweise für ziviles Personal, das internationale Binnenwasserstraßen befährt, sowie dessen Familienangehörige, soweit die Geltung für Familienangehörige in den jeweiligen Vereinbarungen vorgesehen ist.
 
-(8) Standardreisedokumente für die Rückführung sind Dokumente nach der Empfehlung des Rates vom 30. November 1994 bezüglich der Einführung eines Standardreisedokuments für die Rückführung von Staatsangehörigen dritter Länder (ABl. EG 1996 Nr. C 274 S. 18).
+(8) Europäische Reisedokumente für die Rückkehr illegal aufhältiger Drittstaatsangehöriger (Europäische Reisedokumente für die Rückkehr) sind Dokumente nach der Verordnung (EU) 2016/1953 des Europäischen Parlaments und des Rates vom 26. Oktober 2016 (ABl. L 311 vom 17.11.2016, S. 13).
 
 Kapitel 2 Einreise und Aufenthalt im Bundesgebiet
 -------------------------------------------------
@@ -631,7 +631,7 @@ die Schülersammelliste (§ 1 Absatz 5),
 die Bescheinigung über die Wohnsitzverlegung (§ 43 Absatz 2),
 
 7.  
-das Standardreisedokument für die Rückführung (§ 1 Absatz 8).
+das Europäische Reisedokument für die Rückkehr (§ 1 Absatz 8).
 
 Passersatzpapiere nach Satz 1 Nummer 3 und 4 werden mit einer Gültigkeitsdauer von bis zu drei Jahren ausgestellt; eine Verlängerung ist nicht zulässig. Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 werden abweichend von Absatz 4 Satz 1 auch als vorläufige Dokumente ohne elektronisches Speicher- und Verarbeitungsmedium ausgegeben, deren Gültigkeit, auch nach Verlängerungen, ein Jahr nicht überschreiten darf. An Kinder bis zum vollendeten zwölften Lebensjahr werden abweichend von Absatz 4 Satz 1 Passersatzpapiere nach Satz 1 Nummer 1, 3 und 4 ohne elektronisches Speicher- und Verarbeitungsmedium ausgegeben; in begründeten Fällen können sie auch mit elektronischem Speicher- und Verarbeitungsmedium ausgegeben werden. Passersatzpapiere nach Satz 4 ohne elektronisches Speicher- und Verarbeitungsmedium sind höchstens sechs Jahre gültig, längstens jedoch bis zur Vollendung des zwölften Lebensjahres. Eine Verlängerung dieser Passersatzpapiere ist vor Ablauf der Gültigkeit bis zur Vollendung des zwölften Lebensjahres zulässig; es ist jeweils ein aktuelles Lichtbild einzubringen. Passersatzpapiere nach Satz 1 Nummer 3 und 4, die an heimatlose Ausländer nach dem Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet ausgestellt werden, können mit einer Gültigkeitsdauer von bis zu zehn Jahren ausgestellt werden.
 
@@ -1254,7 +1254,7 @@ Hat die Forschungseinrichtung ihre Anerkennung durch arglistige Täuschung, Droh
 
 ### § 38c Mitteilungspflichten anerkannter Forschungseinrichtungen gegenüber den Ausländerbehörden
 
-Eine anerkannte Forschungseinrichtung ist verpflichtet, der zuständigen Ausländerbehörde schriftlich mitzuteilen, wenn
+Eine anerkannte Forschungseinrichtung ist verpflichtet, der zuständigen Ausländerbehörde schriftlich oder elektronisch mitzuteilen, wenn
 
 1.  
 Umstände vorliegen, die dazu führen können, dass eine Aufnahmevereinbarung nicht erfüllt werden kann oder die Voraussetzungen ihres Abschlusses nach § 38f Abs. 2 entfallen oder
@@ -1974,7 +1974,7 @@ der für den Wohnort, ersatzweise den Aufenthaltsort im Inland zuständigen Ausl
 einen wiederaufgefundenen Pass oder Passersatz unverzüglich zusammen mit sämtlichen nach dem Verlust ausgestellten Pässen oder in- oder ausländischen Passersatzpapieren der für den Wohnort, ersatzweise den Aufenthaltsort im Inland zuständigen Ausländerbehörde vorzulegen, selbst wenn er den Verlust des Passes oder Passersatzes nicht angezeigt hat; bei Verlust im Ausland kann die Vorlage auch bei einer deutschen Auslandsvertretung erfolgen, welche die zuständige oder zuletzt zuständige Ausländerbehörde unterrichtet,
 
 7.  
-seinen deutschen Passersatz unverzüglich nach Ablauf der Gültigkeitsdauer oder, sofern eine deutsche Auslandsvertretung dies durch Eintragung im Passersatz angeordnet hat, nach der Einreise der zuständigen Ausländerbehörde vorzulegen; dies gilt nicht für Bescheinigungen über die Wohnsitzverlegung (§ 43 Abs. 2), Standardreisedokumente für die Rückführung (§ 1 Abs. 8) und für Schülersammellisten (§ 1 Abs. 5), und
+seinen deutschen Passersatz unverzüglich nach Ablauf der Gültigkeitsdauer oder, sofern eine deutsche Auslandsvertretung dies durch Eintragung im Passersatz angeordnet hat, nach der Einreise der zuständigen Ausländerbehörde vorzulegen; dies gilt nicht für Bescheinigungen über die Wohnsitzverlegung (§ 43 Abs. 2), Europäische Reisedokumente für die Rückkehr (§ 1 Abs. 8) und für Schülersammellisten (§ 1 Abs. 5), und
 
 8.  
 seinen Pass oder Passersatz zur Anbringung von Vermerken über Ort und Zeit der Ein- und Ausreise, des Antreffens im Bundesgebiet sowie über Maßnahmen und Entscheidungen nach dem Aufenthaltsgesetz in seinem Pass oder Passersatz durch die Ausländerbehörden oder die Polizeibehörden des Bundes oder der Länder sowie die sonstigen mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden auf Verlangen vorzulegen und die Vornahme einer solchen Eintragung zu dulden.
@@ -2082,7 +2082,7 @@ für die Ausstellung als vorläufiges Dokument (§ 4 Abs. 1 Satz 2) das in Anlag
 für die Bescheinigung über die Wohnsitzverlegung (§ 4 Abs. 1 Nr. 6) das in Anlage D9 abgedruckte Muster,
 
 10.  
-für das Standardreisedokument für die Rückführung (§ 4 Abs. 1 Nr. 7) das in Anlage D10 abgedruckte Muster,
+für das Europäische Reisedokument für die Rückkehr (§ 4 Abs. 1 Nr. 7) das in Anlage D10 abgedruckte Muster,
 
 11.  
 für das Zusatzblatt
@@ -2288,18 +2288,21 @@ Tag und Ort mit Angabe des Staates der Geburt,
 Geschlecht,
 
 6.  
-Staatsangehörigkeiten,
+Doktorgrad,
 
 7.  
-Aktenzeichen der Ausländerakte,
+Staatsangehörigkeiten,
 
 8.  
-Hinweis auf andere Datensätze, unter denen der Ausländer in der Datei geführt wird,
+Aktenzeichen der Ausländerakte,
 
 9.  
-das Sperrkennwort und die Sperrsumme für die Sperrung oder Entsperrung des elektronischen Identitätsnachweises eines Dokuments nach § 78 Absatz 1 des Aufenthaltsgesetzes und
+Hinweis auf andere Datensätze, unter denen der Ausländer in der Datei geführt wird,
 
 10.  
+das Sperrkennwort und die Sperrsumme für die Sperrung oder Entsperrung des elektronischen Identitätsnachweises eines Dokuments nach § 78 Absatz 1 des Aufenthaltsgesetzes und
+
+11.  
 Angaben zur Ausschaltung und Einschaltung sowie Sperrung und Entsperrung des elektronischen Identitätsnachweises eines Dokuments nach § 78 Absatz 1 des Aufenthaltsgesetzes.
 
 (2) Aufzunehmen sind ferner frühere Namen, abweichende Namensschreibweisen, Aliaspersonalien und andere von dem Ausländer geführte Namen wie Ordens- oder Künstlernamen oder der Familienname nach deutschem Recht, der von dem im Pass eingetragenen Familiennamen abweicht.
@@ -2314,10 +2317,10 @@ In die Ausländerdatei A sollen, soweit die dafür erforderlichen technischen Ei
 Familienstand,
 
 2.  
-gegenwärtige Anschrift,
+gegenwärtige Anschrift und Einzugsdatum,
 
 3.  
-frühere Anschriften,
+frühere Anschriften und Auszugsdatum,
 
 4.  
 Ausländerzentralregister-Nummer,
@@ -2332,7 +2335,7 @@ b)
 Seriennummer,
 
 c)  
-ausstellender Staat,
+ausstellender Staat und ausstellende Behörde,
 
 d)  
 Gültigkeitsdauer,
@@ -2635,7 +2638,7 @@ bei Rücknahme des Visumantrags zwei Jahre nach der Rücknahme und
 3.  
 bei Versagung, Rücknahme, Annullierung, Widerruf oder Aufhebung des Visums fünf Jahre nach diesen Entscheidungen.
 
-Die nach Absatz 2 Nummer 1 Buchstabe n gespeicherten Fingerabdrücke sind unverzüglich zu löschen, sobald
+Die nach Absatz 2 Nummer 1 Buchstabe o gespeicherten Fingerabdrücke sind unverzüglich zu löschen, sobald
 
 1.  
 das Visum ausgehändigt wurde,
@@ -2704,9 +2707,12 @@ Vornamen,
 Tag, Ort und Staat der Geburt,
 
 5.  
-Staatsangehörigkeiten,
+Geschlecht,
 
 6.  
+Staatsangehörigkeiten,
+
+7.  
 Anschrift.
 
 ### § 72 Mitteilungen der Meldebehörden
@@ -2732,10 +2738,19 @@ die Namensänderung,
 die Änderung oder Berichtigung des staatsangehörigkeitsrechtlichen Verhältnisses,
 
 7.  
-die Geburt und
+die Geburt,
 
 8.  
-den Tod
+den Tod,
+
+9.  
+den Tod des Ehegatten oder des Lebenspartners,
+
+10.  
+die eingetragenen Auskunftssperren gemäß § 51 des Bundesmeldegesetzes und deren Wegfall und
+
+11.  
+das Ordnungsmerkmal der Meldebehörde
 
 eines Ausländers.
 
@@ -2748,21 +2763,18 @@ a)
 Doktorgrad,
 
 b)  
-Geschlecht,
-
-c)  
 Familienstand,
 
-d)  
-gesetzliche Vertreter mit Vor- und Familiennamen, Tag der Geburt und Anschrift,
+c)  
+die gesetzlichen Vertreter mit Vor- und Familiennamen, Geschlecht, Tag der Geburt und Anschrift,
 
-e)  
+d)  
 Tag des Einzugs,
 
-f)  
-frühere Anschrift,
+e)  
+frühere Anschrift und bei Zuzug aus dem Ausland auch der Staat,
 
-g)  
+f)  
 Pass, Passersatz oder Ausweisersatz mit Seriennummer, Angabe der ausstellenden Behörde und Gültigkeitsdauer,
 
 2.  
@@ -2775,10 +2787,16 @@ b)
 neue Anschrift,
 
 3.  
-bei einer Änderung der Hauptwohnungdie bisherige Hauptwohnung,
+bei einer Änderung der Hauptwohnung
+
+a)  
+die bisherige Hauptwohnung,
+
+b)  
+das Einzugsdatum,
 
 4.  
-bei einer Eheschließung oder Begründung einer Lebenspartnerschaftder Tag der Eheschließung oder der Begründung der Lebenspartnerschaft sowie
+bei einer Eheschließung oder Begründung einer Lebenspartnerschaft Vor- und Familiennamen des Ehe- oder des Lebenspartners,der Tag der Eheschließung oder der Begründung der Lebenspartnerschaft sowie
 
 4a.  
 bei einer Scheidung, Nichtigerklärung oder Aufhebung einer Ehe oder bei einer Aufhebung der Lebenspartnerschaftder Tag und Grund der Beendigung der Ehe oder der Lebenspartnerschaft,
@@ -2787,19 +2805,25 @@ bei einer Scheidung, Nichtigerklärung oder Aufhebung einer Ehe oder bei einer A
 bei einer Namensänderungder bisherige und der neue Name,
 
 6.  
-bei einer Änderung des staatsangehörigkeitsrechtlichen Verhältnissesdie bisherige und die neue oder weitere Staatsangehörigkeit,
-
-7.  
-bei Geburt
+bei einer Änderung des staatsangehörigkeitsrechtlichen Verhältnisses
 
 a)  
-Geschlecht,
+die neue oder weitere Staatsangehörigkeit und
 
 b)  
-gesetzliche Vertreter mit Vor- und Familiennamen, Tag der Geburt und Anschrift,
+bei Aufgabe oder einem sonstigen Verlust der deutschen Staatsangehörigkeit zusätzlich die in Nummer 1 bezeichneten Daten,
+
+7.  
+bei Geburtdie gesetzlichen Vertreter mit Vor- und Familiennamen, Geschlecht, Tag der Geburt und Anschrift,
 
 8.  
-bei Todder Sterbetag.
+bei Todder Sterbetag,
+
+9.  
+bei Tod des Ehegatten oder des Lebenspartnersder Sterbetag,
+
+10.  
+bei einer eingetragenen Auskunftssperre nach § 51 des Bundesmeldegesetzesdie Auskunftssperre und deren Wegfall.
 
 ### § 72a Mitteilungen der Pass- und Ausweisbehörden
 
@@ -2916,9 +2940,9 @@ Kapitel 7 Übergangs- und Schlussvorschriften
 
 Die in Kapitel 2 Abschnitt 1, Kapitel 3, § 56, Kapitel 5 sowie in den §§ 81 und 82 enthaltenen Regelungen finden auch Anwendung auf Ausländer, deren Rechtsstellung durch das Freizügigkeitsgesetz/EU geregelt ist.
 
-### § 80 Übergangsvorschriften für die Verwendung von Vordrucken
+### § 80 Übergangsregelung für die Verwendung von Mustern
 
-Vordrucke für Reiseausweise für Ausländer, Reiseausweise für Flüchtlinge und Reiseausweise für Staatenlose nach den Anlagen D4c, D7a und D8a in der bis zum 31. Oktober 2014 geltenden Fassung können bis zum 31. Oktober 2015 weiterverwendet werden.
+Geht ein Antrag auf Ausstellung eines Passersatzpapiers vor dem 1. März 2017 beim Dokumentenhersteller ein, kann das Passersatzpapier auf Grundlage der bis zum 28. Februar 2017 geltenden Fassung dieser Verordnung ausgestellt werden.
 
 ### § 81 Weitergeltung von nach bisherigem Recht ausgestellten Passersatzpapieren
 
@@ -2931,7 +2955,7 @@ Reiseausweise für Flüchtlinge nach § 14 Abs. 2 Nr. 1 der Verordnung zur Durch
 Grenzgängerkarten nach § 14 Abs. 1 Nr. 2 der Verordnung zur Durchführung des Ausländergesetzes in Verbindung mit § 19 der Verordnung zur Durchführung des Ausländergesetzes,
 
 3.  
-Eintragungen in Schülersammellisten (§ 1 Abs. 5) und Standardreisedokumente für die Rückführung (§ 1 Abs. 8),
+Eintragungen in Schülersammellisten (§ 1 Abs. 5) und Standardreisedokumente für die Rückführung nach § 1 Absatz 8 in der bis einschließlich 7. April 2017 geltenden Fassung,
 
 4.  
 Reiseausweise für Ausländer, die nach dem in Anlage D4b abgedruckten Muster ausgestellt wurden,
@@ -3244,37 +3268,89 @@ Fundstelle: BGBl. I 2004, 2975 - 2977)
 
 -
 
-### Anlage D4c Reiseausweis für Ausländer nach § 4 Abs. 1 Satz 1 Nr. 1
+### Anlage D4c Ausweismuster Reiseausweis für Ausländer nach § 4 Absatz 1 Satz 1 Nummer 1
 
-(Fundstelle: BGBl. I 2007, 2056 - 2063;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2017, 226 — 235)
 
-- Deckseiten -
-<img src="bgbl1_2007_j1970_0020.jpg" height="2242" />
+|                                                                    |                                                                    |
+|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| – Einband –                                                        |                                                                    |
+| <img src="bgbl1_2017_j0162-1_1140.jpg" width="250" height="355" /> | <img src="bgbl1_2017_j0162-1_1150.jpg" width="250" height="355" /> |
 
-– Vorsatz und Passkartenrückseite –
-<img src="bgbl1_2007_j1970_0030.jpg" height="2126" />
+– Vorsatz und Passkartentitelseite –
 
-– Passkartenvorderseite und Innenseite 1 –
-<img src="bgbl1_2007_j1970_0040.jpg" height="2126" />
-Die Seiten 1 bis 32 werden am unteren Rand mit der Seriennummer versehen.
+<img src="bgbl1_2017_j0162-1_1160.jpg" width="499" height="355" />
 
-– Innenseiten 2 und 3 –
-<img src="bgbl1_2007_j1970_0050.jpg" height="2126" />
+– Passkartendatenseite und Passbuchinnenseite 1 –
 
-– Innenseiten 4 und 5 –
-<img src="bgbl1_2015_j0218-1_0210.jpg" width="1921" height="1333" />
+<img src="bgbl1_2017_j0162-1_1170.jpg" width="499" height="355" />
 
-– Innenseiten 6 bis 11 –
-<img src="bgbl1_2007_j1970_0070.jpg" height="2126" />
-Seiten 6 bis 11 gleichlautend.
+Die Seiten 1 bis 32 sowie der hintere Einband
+werden am unteren Rand mit der Seriennummer perforiert.
 
-– Innenseiten 12 bis 31 –
-<img src="bgbl1_2007_j1970_0080.jpg" height="2126" />
-Seiten 12 bis 31 gleichlautend.
+– Passbuchinnenseiten 2 und 3 –
 
-– Innenseite 32 und Vorsatz –
-<img src="bgbl1_2007_j1970_0090.jpg" height="2126" />
+<img src="bgbl1_2017_j0162-1_1180.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 4 und 5 –
+
+<img src="bgbl1_2017_j0162-1_1190.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 6 und 7 –
+
+<img src="bgbl1_2017_j0162-1_1200.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 8 und 9 –
+
+<img src="bgbl1_2017_j0162-1_1210.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 10 und 11 –
+
+<img src="bgbl1_2017_j0162-1_1220.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 12 und 13 –
+
+<img src="bgbl1_2017_j0162-1_1230.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 14 und 15 –
+
+<img src="bgbl1_2017_j0162-1_1240.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 16 und 17 –
+
+<img src="bgbl1_2017_j0162-1_1250.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 18 und 19 –
+
+<img src="bgbl1_2017_j0162-1_1260.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 20 und 21 –
+
+<img src="bgbl1_2017_j0162-1_1270.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 22 und 23 –
+
+<img src="bgbl1_2017_j0162-1_1280.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 24 und 25 –
+
+<img src="bgbl1_2017_j0162-1_1290.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 26 und 27 –
+
+<img src="bgbl1_2017_j0162-1_1300.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 28 und 29 –
+
+<img src="bgbl1_2017_j0162-1_1310.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 30 und 31 –
+
+<img src="bgbl1_2017_j0162-1_1320.jpg" width="499" height="355" />
+
+– Passbuchinnenseite 32 und Vorsatz des hinteren Einbandes –
+
+<img src="bgbl1_2017_j0162-1_1330.jpg" width="499" height="355" />
 
 ### Anlage D4d Vorläufiger Reiseausweis für Ausländer nach § 4 Abs. 1 Satz 2
 
@@ -3338,37 +3414,89 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 -
 
-### Anlage D7a Reiseausweis für Flüchtlinge nach § 4 Abs. 1 Satz 1 Nr. 3
+### Anlage D7a Ausweismuster Reiseausweis für Flüchtlinge nach § 4 Absatz 1 Satz 1 Nummer 3
 
-(Fundstelle: Fundstelle BGBl. I 2007, 2075 - 2082;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2017, 236 — 245)
 
-- Deckseiten -
-<img src="bgbl1_2007_j1970_0210.jpg" height="2242" />
+|                                                                    |                                                                    |
+|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| – Deckseiten –                                                     |                                                                    |
+| <img src="bgbl1_2017_j0162-1_1340.jpg" width="250" height="355" /> | <img src="bgbl1_2017_j0162-1_1350.jpg" width="250" height="355" /> |
 
-– Vorsatz und Passkartenrückseite –
-<img src="bgbl1_2007_j1970_0220.jpg" height="2126" />
+– Vorsatz und Passkartentitelseite –
 
-– Passkartenvorderseite und Innenseite 1 –
-<img src="bgbl1_2007_j1970_0230.jpg" height="2128" />
-Die Seiten 1 bis 32 werden am unteren Rand mit der Seriennummer versehen.
+<img src="bgbl1_2017_j0162-1_1360.jpg" width="499" height="355" />
 
-– Innenseiten 2 und 3 –
-<img src="bgbl1_2007_j1970_0240.jpg" height="2126" />
+– Passkartendatenseite und Passbuchinnenseite 1 –
 
-– Innenseiten 4 und 5 –
-<img src="bgbl1_2015_j0218-1_0220.jpg" width="1921" height="1333" />
+<img src="bgbl1_2017_j0162-1_1370.jpg" width="499" height="355" />
 
-– Innenseiten 6 bis 11 –
-<img src="bgbl1_2007_j1970_0260.jpg" height="2126" />
-Seiten 6 bis 11 gleichlautend.
+Die Seiten 1 bis 32 sowie der hintere Einband
+werden am unteren Rand mit der Seriennummer perforiert.
 
-- Innenseiten 12 bis 31 –
-<img src="bgbl1_2007_j1970_0270.jpg" height="2126" />
-Seiten 12 bis 31 gleichlautend.
+– Passbuchinnenseiten 2 und 3 –
 
-– Innenseite 32 und Vorsatz –
-<img src="bgbl1_2007_j1970_0280.jpg" height="2126" />
+<img src="bgbl1_2017_j0162-1_1380.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 4 und 5 –
+
+<img src="bgbl1_2017_j0162-1_1390.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 6 und 7 –
+
+<img src="bgbl1_2017_j0162-1_1400.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 8 und 9 –
+
+<img src="bgbl1_2017_j0162-1_1410.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 10 und 11 –
+
+<img src="bgbl1_2017_j0162-1_1420.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 12 und 13 –
+
+<img src="bgbl1_2017_j0162-1_1430.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 14 und 15 –
+
+<img src="bgbl1_2017_j0162-1_1440.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 16 und 17 –
+
+<img src="bgbl1_2017_j0162-1_1450.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 18 und 19 –
+
+<img src="bgbl1_2017_j0162-1_1460.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 20 und 21 –
+
+<img src="bgbl1_2017_j0162-1_1470.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 22 und 23 –
+
+<img src="bgbl1_2017_j0162-1_1480.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 24 und 25 –
+
+<img src="bgbl1_2017_j0162-1_1490.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 26 und 27 –
+
+<img src="bgbl1_2017_j0162-1_1500.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 28 und 29 –
+
+<img src="bgbl1_2017_j0162-1_1510.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 30 und 31 –
+
+<img src="bgbl1_2017_j0162-1_1520.jpg" width="499" height="355" />
+
+– Passbuchinnenseite 32 und Vorsatz des hinteren Einbandes –
+
+<img src="bgbl1_2017_j0162-1_1530.jpg" width="499" height="355" />
 
 ### Anlage D7b Vorläufiger Reiseausweis für Flüchtlinge nach § 4 Abs. 1 Satz 2
 
@@ -3412,37 +3540,89 @@ vorzugsweise den Seiten 6 bis 11, aufzukleben ist;
 
 -
 
-### Anlage D8a Reiseausweis für Staatenlose nach § 4 Abs. 1 Satz 1 Nr. 4
+### Anlage D8a Ausweismuster Reiseausweis für Staatenlose nach § 4 Absatz 1 Satz 1 Nummer 4
 
-(Fundstelle: Fundstelle BGBl. I 2007, 2092 - 2099;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2017, 246 — 255)
 
-- Deckseiten -
-<img src="bgbl1_2007_j1970_0380.jpg" height="2247" />
+|                                                                    |                                                                    |
+|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| – Einband –                                                        |                                                                    |
+| <img src="bgbl1_2017_j0162-1_1540.jpg" width="250" height="355" /> | <img src="bgbl1_2017_j0162-1_1550.jpg" width="250" height="355" /> |
 
-– Vorsatz und Passkartenrückseite –
-<img src="bgbl1_2007_j1970_0390.jpg" height="2126" />
+– Vorsatz und Passkartentitelseite –
 
-– Passkartenvorderseite und Innenseite 1 –
-<img src="bgbl1_2007_j1970_0400.jpg" height="2126" />
-Die Seiten 1 bis 32 werden am unteren Rand mit der Seriennummer versehen.
+<img src="bgbl1_2017_j0162-1_1560.jpg" width="499" height="355" />
 
-– Innenseiten 2 und 3 –
-<img src="bgbl1_2007_j1970_0410.jpg" height="2126" />
+– Passkartendatenseite und Passbuchinnenseite 1 –
 
-– Innenseiten 4 und 5 –
-<img src="bgbl1_2015_j0218-1_0230.jpg" width="1921" height="1333" />
+<img src="bgbl1_2017_j0162-1_1570.jpg" width="499" height="355" />
 
-– Innenseiten 6 bis 11 –
-<img src="bgbl1_2007_j1970_0430.jpg" height="2126" />
-Seiten 6 bis 11 gleichlautend.
+Die Seiten 1 bis 32 sowie der hintere Einband
+werden am unteren Rand mit der Seriennummer perforiert.
 
-– Innenseiten 12 bis 31 –
-<img src="bgbl1_2007_j1970_0440.jpg" height="2126" />
-Seiten 12 bis 31 gleichlautend.
+– Passbuchinnenseiten 2 und 3 –
 
-– Innenseite 32 und Vorsatz –
-<img src="bgbl1_2007_j1970_0450.jpg" height="2126" />
+<img src="bgbl1_2017_j0162-1_1580.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 4 und 5 –
+
+<img src="bgbl1_2017_j0162-1_1590.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 6 und 7 –
+
+<img src="bgbl1_2017_j0162-1_1600.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 8 und 9 –
+
+<img src="bgbl1_2017_j0162-1_1610.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 10 und 11 –
+
+<img src="bgbl1_2017_j0162-1_1620.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 12 und 13 –
+
+<img src="bgbl1_2017_j0162-1_1630.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 14 und 15 –
+
+<img src="bgbl1_2017_j0162-1_1640.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 16 und 17 –
+
+<img src="bgbl1_2017_j0162-1_1650.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 18 und 19 –
+
+<img src="bgbl1_2017_j0162-1_1660.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 20 und 21 –
+
+<img src="bgbl1_2017_j0162-1_1670.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 22 und 23 –
+
+<img src="bgbl1_2017_j0162-1_1680.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 24 und 25 –
+
+<img src="bgbl1_2017_j0162-1_1690.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 26 und 27 –
+
+<img src="bgbl1_2017_j0162-1_1700.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 28 und 29 –
+
+<img src="bgbl1_2017_j0162-1_1710.jpg" width="499" height="355" />
+
+– Passbuchinnenseiten 30 und 31 –
+
+<img src="bgbl1_2017_j0162-1_1720.jpg" width="499" height="355" />
+
+– Passbuchinnenseite 32 und Vorsatz des hinteren Einbandes –
+
+<img src="bgbl1_2017_j0162-1_1730.jpg" width="499" height="355" />
 
 ### Anlage D8b Vorläufiger Reiseausweis für Staatenlose nach § 4 Abs. 1 Satz 2
 
@@ -3488,11 +3668,11 @@ vorzugsweise den Seiten 6 bis 11, aufzukleben ist;
 Fundstelle: BGBl. I 2004, 3019 - 3020;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
 
-### Anlage D10 Standardreisedokument für die Rückführung nach § 4 Abs. 1 Nr. 7
+### Anlage D10 Europäisches Reisedokument für die Rückkehr nach § 4 Absatz 1 Satz 1 Nummer 7
 
-( Inhalt: nicht darstellbares Standardreisedokumentmuster,
-Fundstelle: BGBl. I 2004, 3021;
-bzgl. der einzelnen Änderungen vgl. Fußnote )
+(Fundstelle: BGBl. I 2017, 691)
+
+<img src="bgbl1_2017_j0690-1_0010.jpg" width="426" height="601" />
 
 ### Anlage D11 Zusatzblatt zum Aufenthaltstitel und zur Bescheinigung über die Aussetzung der Abschiebung
 
