@@ -2,7 +2,7 @@ Gesetz zur Sicherstellung von Arbeitsleistungen für Zwecke der Verteidigung ein
 ===============================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 Abs. 2 G v. 29.6.2015 I 1061
+Zuletzt geändert durch Art. 2 G v. 4.4.2017 I 772
 
 ### 
 
@@ -122,6 +122,9 @@ bei Verbänden und Einrichtungen des Zivilschutzes,
 
 4.  
 in Betrieben der Wasser- und Energieversorgung sowie der Abwasser- und Abfallbeseitigung,
+
+4a.  
+in Ernährungsunternehmen nach § 2 Nummer 6 des Ernährungssicherstellungs- und -vorsorgegesetzes,
 
 5.  
 in Krankenanstalten und anderen Einrichtungen, in denen pflegebedürftige Personen betreut werden,
