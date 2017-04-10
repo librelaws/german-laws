@@ -2,16 +2,14 @@ Einführungsgesetz zum Aktiengesetz ()
 =====================================
 
 Stand  
-Zuletzt geändert durch Art. 7 G v. 9.12.2010 I 1900
+Zuletzt geändert durch Art. 9 G v. 11.4.2017 I 802
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 1.1.1986 +++)
- 
 (+++ Maßgaben aufgrund EinigVtr vgl. AktGEG Anhang EV,
      teilweise nicht mehr anzuwenden +++)
- 
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
        EGRL 43/2006    (CELEX Nr: 306L0043) vgl. G v. 25. 5.2009 I 1102 +++)
@@ -19,12 +17,12 @@ Zuletzt geändert durch Art. 7 G v. 9.12.2010 I 1900
 
 ### Übersicht
 
-|     |           |                                                                                 |          |
-|-----|-----------|---------------------------------------------------------------------------------|----------|
-| 1.  | Abschnitt | Übergangsvorschriften                                                           | §§ 1-26d |
-| 2.  | Abschnitt | Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer Rechtsform | §§ 27-28 |
-| 3.  | Abschnitt | Aufhebung und Änderung von Gesetzen                                             | §§ 29-44 |
-| 4.  | Abschnitt | Schlußvorschriften                                                              | §§ 45-46 |
+|     |           |                                                                                 |           |
+|-----|-----------|---------------------------------------------------------------------------------|-----------|
+| 1.  | Abschnitt | Übergangsvorschriften                                                           | §§ 1-26i  |
+| 2.  | Abschnitt | Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer Rechtsform | §§ 27-28a |
+| 3.  | Abschnitt | Aufhebung und Änderung von Gesetzen                                             | §§ 29-44  |
+| 4.  | Abschnitt | Schlußvorschriften                                                              | §§ 45-46  |
 
 ### Eingangsformel
 
@@ -134,6 +132,8 @@ Die Unwirksamkeit gemäß § 52 Aktiengesetz eines vor dem 1. Januar 2000 geschl
 
 (4) § 100 Abs. 5 und § 107 Abs. 4 des Aktiengesetzes in der Fassung des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102) finden keine Anwendung, solange alle Mitglieder des Aufsichtsrats und des Prüfungsausschusses vor dem 29. Mai 2009 bestellt worden sind.
 
+(5) § 100 Absatz 5 und § 107 Absatz 4 des Aktiengesetzes jeweils in der Fassung des Abschlussprüfungsreformgesetzes vom 10. Mai 2016 (BGBl. I S. 1142) müssen so lange nicht angewandt werden, wie alle Mitglieder des Aufsichtsrats und des Prüfungsausschusses vor dem 17. Juni 2016 bestellt worden sind.
+
 ### § 13 Übergangsvorschrift zu § 175 und § 337 Abs. 2 und 3 des Aktiengesetzes
 
 § 175 des Aktiengesetzes in der Fassung des Artikels 1 Nr. 21 des Transparenz- und Publizitätsgesetzes vom 19. Juli 2002 (BGBl. I S. 2681) ist erstmals auf den Konzernabschluss und den Konzernlagebericht für das nach dem 31. Dezember 2001 beginnende Geschäftsjahr anzuwenden. Auf den Konzernabschluss und den Konzernlagebericht für ein vorangehendes Geschäftsjahr sind die §§ 175, 337 Abs. 3 des Aktiengesetzes in der bis zum 25. Juli 2002 geltenden Fassung weiterhin anzuwenden. § 337 Abs. 2 des Aktiengesetzes in der bis zum 25. Juli 2002 geltenden Fassung ist letztmals auf den Konzernabschluss und den Konzernlagebericht für das nach dem 31. Dezember 2001 beginnende Geschäftsjahr anzuwenden.
@@ -200,7 +200,13 @@ Die Pflicht, die inländische Geschäftsanschrift bei dem Gericht nach § 37 des
 
 § 93 Absatz 6 des Aktiengesetzes in der seit dem 15. Dezember 2010 geltenden Fassung ist auch auf die vor dem 15. Dezember 2010 entstandenen und noch nicht verjährten Ansprüche anzuwenden.
 
-### § 25 (weggefallen)
+### § 25 Übergangsvorschrift zu dem Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+
+(1) Die Festlegungen nach § 76 Absatz 4 Satz 1 und 3 sowie nach § 111 Absatz 5 Satz 1 und 3 des Aktiengesetzes haben erstmals bis spätestens 30. September 2015 zu erfolgen. Die nach § 76 Absatz 4 Satz 3 und die nach § 111 Absatz 5 Satz 3 des Aktiengesetzes erstmals festzulegende Frist darf nicht länger als bis zum 30. Juni 2017 dauern.
+
+(2) Der Mindestanteil von jeweils 30 Prozent an Frauen und Männern im Aufsichtsrat nach § 96 Absatz 2 des Aktiengesetzes ist bei erforderlich werdenden Neuwahlen und Entsendungen ab dem 1. Januar 2016 zur Besetzung einzelner oder mehrerer Aufsichtsratssitze zu beachten. Reicht die Anzahl der neu zu besetzenden Aufsichtsratssitze nicht aus, um den Mindestanteil zu erreichen, sind die Sitze mit Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem regulären Ende wahrgenommen werden.
+
+(3) Für die Fälle des § 96 Absatz 3 des Aktiengesetzes gilt Absatz 2 entsprechend.
 
 ### § 26 Kommanditgesellschaften auf Aktien
 
@@ -234,6 +240,28 @@ die Verbindlichkeiten nicht später als vier Jahre nach dem Tag, an dem die Eint
 
 Auf später fällig werdende Verbindlichkeiten im Sinne des Satzes 1 ist das bisher geltende Recht mit der Maßgabe anwendbar, dass die Verjährungsfrist ein Jahr beträgt.
 
+### § 26f Übergangsregelungen zum Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetz
+
+Die §§ 152, 158 und 160 des Aktiengesetzes in der Fassung des Kleinstkapitalgesellschaften-Bilanzrechtsänderungsgesetzes vom 20. Dezember 2012 (BGBl. I S. 2751) sind erstmals auf Jahres- und Konzernabschlüsse anzuwenden, die sich auf einen nach dem 30. Dezember 2012 liegenden Abschlussstichtag beziehen. Auf Jahres- und Konzernabschlüsse, die sich auf einen vor dem 31. Dezember 2012 liegenden Abschlussstichtag beziehen, bleiben die §§ 152, 158 und 160 des Aktiengesetzes vom 6. September 1965 (BGBl. I S. 1089) in der bis zum 27. Dezember 2012 geltenden Fassung anwendbar.
+
+### § 26g Übergangsregelungen zum Bilanzrichtlinie-Umsetzungsgesetz
+
+Die §§ 58, 152, 160, 209, 240, 256 und 261 des Aktiengesetzes in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) sind erstmals auf Jahres- und Konzernabschlüsse anzuwenden, die sich auf ein nach dem 31. Dezember 2015 beginnendes Geschäftsjahr beziehen. Auf Jahres- und Konzernabschlüsse, die sich auf ein vor dem 1. Januar 2016 beginnendes Geschäftsjahr beziehen, bleiben die §§ 58, 152, 160, 209, 240, 256 und 261 des Aktiengesetzes in der bis zum 22. Juli 2015 geltenden Fassung anwendbar.
+
+### § 26h Übergangsvorschrift zur Aktienrechtsnovelle 2016
+
+(1) § 10 Absatz 1 des Aktiengesetzes in der seit dem 31. Dezember 2015 geltenden Fassung ist nicht auf Gesellschaften anzuwenden, deren Satzung vor dem 31. Dezember 2015 durch notarielle Beurkundung festgestellt wurde und deren Aktien auf Inhaber lauten. Für diese Gesellschaften ist § 10 Absatz 1 des Aktiengesetzes in der am 30. Dezember 2015 geltenden Fassung weiter anzuwenden.
+
+(2) Sieht die Satzung einer Gesellschaft einen Umwandlungsanspruch gemäß § 24 des Aktiengesetzes in der bis zum 30. Dezember 2015 geltenden Fassung vor, so bleibt diese Satzungsbestimmung wirksam.
+
+(3) Bezeichnet die Satzung gemäß § 25 Satz 2 des Aktiengesetzes in der bis zum 30. Dezember 2015 geltenden Fassung neben dem Bundesanzeiger andere Informationsmedien als Gesellschaftsblätter, so bleibt diese Satzungsbestimmung auch ab dem 31. Dezember 2015 wirksam. Für einen Fristbeginn oder das sonstige Eintreten von Rechtsfolgen ist ab dem 1. Februar 2016 ausschließlich die Bekanntmachung im Bundesanzeiger maßgeblich.
+
+(4) § 122 des Aktiengesetzes in der Fassung der Aktienrechtsnovelle 2016 vom 22. Dezember 2015 (BGBl. I S. 2565) ist erstmals auf Einberufungs- und Ergänzungsverlangen anzuwenden, die der Gesellschaft am 1. Juni 2016 zugehen. Auf Ergänzungsverlangen, die der Gesellschaft vor dem 1. Juni 2016 zugehen, ist § 122 in der bis zum 30. Dezember 2015 geltenden Fassung weiter anzuwenden.
+
+### § 26i Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz
+
+Die §§ 111, 170, 171, 176, 237 und 283 des Aktiengesetzes in der Fassung des CSR-Richtlinie-Umsetzungsgesetzes vom 11. April 2017 (BGBl. I S. 802) sind erstmals auf Lage- und Konzernlageberichte anzuwenden, die sich auf ein nach dem 31. Dezember 2016 beginnendes Geschäftsjahr beziehen. Auf Lage- und Konzernlageberichte, die sich auf vor dem 1. Januar 2017 beginnende Geschäftsjahre beziehen, bleiben die in Satz 1 bezeichneten Vorschriften in der bis zum 18. April 2017 geltenden Fassung anwendbar.
+
 Zweiter Abschnitt Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer Rechtsform
 -------------------------------------------------------------------------------------------------
 
@@ -241,7 +269,7 @@ Zweiter Abschnitt Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit a
 
 ### § 27 Entscheidung über die Zusammensetzung des Aufsichtsrats
 
-§ 96 Abs. 2, §§ 97 bis 99 des Aktiengesetzes gelten sinngemäß für Gesellschaften mit beschränkter Haftung und bergrechtliche Gewerkschaften.
+§ 96 Absatz 4, §§ 97 bis 99 des Aktiengesetzes gelten sinngemäß für Gesellschaften mit beschränkter Haftung und bergrechtliche Gewerkschaften.
 
 ### § 28
 
@@ -262,11 +290,11 @@ Dritter Abschnitt Aufhebung und Änderung von Gesetzen
 
 ### § 33 Gesetz über die Kapitalerhöhung aus Gesellschaftsmitteln und über die Gewinn- und Verlustrechnung
 
-(1)
+(1) (gegenstandslos)
 
 (2) Haben Kreditinstitute auf Grund einer Aufforderung nach § 11 Abs. 1 des Gesetzes über die Kapitalerhöhung aus Gesellschaftsmitteln und die Gewinn- und Verlustrechnung auf in ihre Sammelverwahrung genommene alte Aktien neue Aktien abgeholt und entfallen neue Aktien noch nach Ablauf eines Jahres seit der Bekanntmachung der Aufforderung zur Abholung oder, wenn diese Frist vor dem Inkrafttreten des Aktiengesetzes abgelaufen ist, noch beim Inkrafttreten des Aktiengesetzes auf Teilrechte, die nicht in einer Hand vereinigt sind und deren Berechtigte sich auch nicht zur Ausübung der Rechte zusammengeschlossen haben, so gelten diese neuen Aktien als nicht abgeholt. Sie sind der Gesellschaft nach Ablauf dieser Frist und, wenn die Frist beim Inkrafttreten des Aktiengesetzes bereits abgelaufen ist, unverzüglich zurückzugeben. Hat die Gesellschaft den Verkauf der nicht abgeholten Aktien noch nicht angedroht, so hat sie ihn unverzüglich nach der Rückgabe der Aktien anzudrohen. Für die Androhung gilt § 214 Abs. 2 Satz 2 und 3 des Aktiengesetzes. § 214 Abs. 3 des Aktiengesetzes gilt sinngemäß; ist die Frist von einem Jahr seit der letzten Bekanntmachung der Androhung beim Inkrafttreten des Aktiengesetzes bereits abgelaufen, so tritt an ihre Stelle eine Frist von drei Monaten seit dem Inkrafttreten des Aktiengesetzes.
 
-(3)
+(3) (Änderungsvorschrift)
 
 (4) Sind Aktien einer Gesellschaft an einer deutschen Börse zum amtlichen Handel zugelassen, so gilt die Zulassung auch für die neuen Aktien, die bei einer Kapitalerhöhung aus Gesellschaftsmitteln auf sie entfallen.
 
