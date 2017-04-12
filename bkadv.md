@@ -2,7 +2,7 @@ Verordnung über die Art der Daten, die nach den §§ 8 und 9 des Bundeskriminal
 ==========================================================================================================================
 
 Stand  
-Geändert durch Art. 2 V v. 4.6.2010 I 716
+Zuletzt geändert durch Art. 6 Abs. 12 G v. 13.4.2017 I 872
 
 ### 
 
@@ -176,7 +176,7 @@ e)
 Angaben zum Opfertyp,
 
 f)  
-Ausgang des Verfahrens einschließlich etwaiger Nebenfolgen, Maßregeln der Besserung und Sicherung oder Entscheidungen über Verfall und Einziehung,
+Ausgang des Verfahrens einschließlich etwaiger Nebenfolgen, Maßregeln der Besserung und Sicherung oder Entscheidungen über die Einziehung,
 
 12.  
 Zugehörigkeit oder sonstige Beziehung zu einer kriminellen Organisation/Tätergruppe mit Angabe des Namens und Sitzes der Gruppe und Rolle innerhalb der Organisation/Gruppe,
