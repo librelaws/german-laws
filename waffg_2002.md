@@ -2,11 +2,22 @@ Waffengesetz (WaffG)
 ====================
 
 Stand  
-Zuletzt geändert durch Art. 288 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 6 Abs. 34 G v. 13.4.2017 I 872
 
 ### 
 
-(+++ Textnachweis ab: 1.4.2003) (+++ Zur Anwendung d. § 28 Abs. 1 u. 8 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. § 29 Abs. 1 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. § 33 Abs. 1 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. § 35 Abs. 1 u. 5 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. § 37 Abs. 1 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. § 39 Abs. 1 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. §§ 41 bis 46 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. § 58 vgl. § 1 WaffV 5 +++) (+++ Zur Anwendung d. § 59 vgl. § 1 WaffV 5 +++)
+```
+(+++ Textnachweis ab: 1.4.2003)
+(+++ Zur Anwendung d. § 28 Abs. 1 u. 8 vgl. § 1 WaffV 5 +++)
+(+++ Zur Anwendung d. § 29 Abs. 1 vgl. § 1 WaffV 5 +++)
+(+++ Zur Anwendung d. § 33 Abs. 1 vgl. § 1 WaffV 5 +++)
+(+++ Zur Anwendung d. § 35 Abs. 1 u. 5 vgl. § 1 WaffV 5 +++)
+(+++ Zur Anwendung d. § 37 Abs. 1 vgl. § 1 WaffV 5 +++)
+(+++ Zur Anwendung d. § 39 Abs. 1 vgl. § 1 WaffV 5 +++)
+(+++ Zur Anwendung d. §§ 41 bis 46 vgl. § 1 WaffV 5 +++)
+(+++ Zur Anwendung d. § 58 vgl. § 1 WaffV 5 +++)
+(+++ Zur Anwendung d. § 59 vgl. § 1 WaffV 5 +++)
+```
 
 Das G wurde als Art. 1 des G 7133-4/1 v. 11.10.2002 I 3970 vom Bundestag mit Zustimmung des Bundesrates erlassen. Es tritt gem. Art. 19 Nr. 1 Satz 2 dieses G mWv 1.4.2003 in Kraft.
 
@@ -345,7 +356,7 @@ Unterabschnitt 2 Erlaubnisse für einzelne Arten des Umgangs mit Waffen oder Mun
 
 (1) Die Erlaubnis zum Erwerb und Besitz von Waffen wird durch eine Waffenbesitzkarte oder durch Eintragung in eine bereits vorhandene Waffenbesitzkarte erteilt. Für die Erteilung einer Erlaubnis für Schusswaffen sind Art, Anzahl und Kaliber der Schusswaffen anzugeben. Die Erlaubnis zum Erwerb einer Waffe gilt für die Dauer eines Jahres, die Erlaubnis zum Besitz wird in der Regel unbefristet erteilt.
 
-(1a) Wer eine Waffe aufgrund einer Erlaubnis nach Absatz 1 Satz 1 erwirbt, hat binnen zwei Wochen der zuständigen Behörde unter Benennung von Name und Anschrift des Überlassenden den Erwerb schriftlich anzuzeigen und seine Waffenbesitzkarte zur Eintragung des Erwerbs vorzulegen.
+(1a) Wer eine Waffe aufgrund einer Erlaubnis nach Absatz 1 Satz 1 erwirbt, hat binnen zwei Wochen der zuständigen Behörde unter Benennung von Name und Anschrift des Überlassenden den Erwerb schriftlich oder elektronisch anzuzeigen und seine Waffenbesitzkarte zur Eintragung des Erwerbs vorzulegen.
 
 (2) Eine Waffenbesitzkarte über Schusswaffen, die mehrere Personen besitzen, kann auf diese Personen ausgestellt werden. Eine Waffenbesitzkarte kann auch einem schießsportlichen Verein oder einer jagdlichen Vereinigung als juristischer Person erteilt werden. Sie ist mit der Auflage zu verbinden, dass der Verein der Behörde vor Inbesitznahme von Vereinswaffen unbeschadet des Vorliegens der Voraussetzung des § 4 Abs. 1 Nr. 5 eine verantwortliche Person zu benennen hat, für die die Voraussetzungen nach § 4 Abs. 1 Nr. 1 bis 3 nachgewiesen sind; diese benannte Person muss nicht vertretungsberechtigtes Organ des Vereins sein. Scheidet die benannte verantwortliche Person aus dem Verein aus oder liegen in ihrer Person nicht mehr alle Voraussetzungen nach § 4 Abs. 1 Nr. 1 bis 3 vor, so ist der Verein verpflichtet, dies unverzüglich der zuständigen Behörde mitzuteilen. Benennt der Verein nicht innerhalb von zwei Wochen eine neue verantwortliche Person, für die die Voraussetzungen nach § 4 Abs. 1 Nr. 1 bis 3 nachgewiesen werden, so ist die dem Verein erteilte Waffenbesitzerlaubnis zu widerrufen und die Waffenbesitzkarte zurückzugeben.
 
@@ -363,7 +374,7 @@ Unterabschnitt 2 Erlaubnisse für einzelne Arten des Umgangs mit Waffen oder Mun
 die Schusswaffen oder die Munition in den Mitgliedstaat im Wege der Selbstvornahme verbringen wird oder
 
 2.  
-eine schriftliche Erklärung vorlegt, dass und aus welchen Gründen sie die Schusswaffen oder die Munition nur im Geltungsbereich dieses Gesetzes zu besitzen beabsichtigt.
+eine schriftliche oder elektronische Erklärung vorlegt, dass und aus welchen Gründen sie die Schusswaffen oder die Munition nur im Geltungsbereich dieses Gesetzes zu besitzen beabsichtigt.
 
 Die Erlaubnis zum Erwerb oder Besitz einer Schusswaffe nach Anlage 1 Abschnitt 3 Nr. 2 (Kategorie B) oder Munition für eine solche darf nur erteilt werden, wenn über die Voraussetzungen des Satzes 1 hinaus eine vorherige Zustimmung dieses Mitgliedstaates hierzu vorgelegt wird.
 
@@ -507,7 +518,7 @@ die zu erwerbende Schusswaffe und Munition nach dem Bundesjagdgesetz in der zum 
 
 (7) Inhabern eines Jugendjagdscheines im Sinne von § 16 des Bundesjagdgesetzes wird eine Erlaubnis zum Erwerb und Besitz von Schusswaffen und der dafür bestimmten Munition nicht erteilt. Sie dürfen Schusswaffen und die dafür bestimmte Munition nur für die Dauer der Ausübung der Jagd oder des Trainings im jagdlichen Schießen einschließlich jagdlicher Schießwettkämpfe ohne Erlaubnis erwerben, besitzen, die Schusswaffen führen und damit schießen; sie dürfen auch im Zusammenhang mit diesen Tätigkeiten die Jagdwaffen nicht schussbereit ohne Erlaubnis führen.
 
-(8) Personen in der Ausbildung zum Jäger dürfen nicht schussbereite Jagdwaffen in der Ausbildung ohne Erlaubnis unter Aufsicht eines Ausbilders erwerben, besitzen und führen, wenn sie das 14. Lebensjahr vollendet haben und der Sorgeberechtigte und der Ausbildungsleiter ihr Einverständnis in einer von beiden unterzeichneten Berechtigungsbescheinigung erklärt haben. Die Person hat in der Ausbildung die Berechtigungsbescheinigung mit sich zu führen.
+(8) Personen in der Ausbildung zum Jäger dürfen nicht schussbereite Jagdwaffen in der Ausbildung ohne Erlaubnis unter Aufsicht eines Ausbilders erwerben, besitzen und führen, wenn sie das 14. Lebensjahr vollendet haben und der Sorgeberechtigte und der Ausbildungsleiter ihr Einverständnis in einer schriftlichen oder elektronischen Berechtigungsbescheinigung erklärt haben. Die Person hat in der Ausbildung die Berechtigungsbescheinigung mit sich zu führen.
 
 ### § 14 Erwerb und Besitz von Schusswaffen und Munition durch Sportschützen
 
@@ -669,7 +680,7 @@ dass der Erwerb der Schusswaffe und der Munition geeignet und erforderlich ist, 
 
 (4) Das Bundesministerium des Innern erstellt nach Anhörung eines Kreises von Vertretern der Wissenschaft, der Betroffenen, der beteiligten Wirtschaft und der für das Waffenrecht zuständigen obersten Landesbehörden dem Stand der Sicherheitstechnik entsprechende Regeln (Technische Richtlinie – Blockiersysteme für Erbwaffen) für ein Blockiersystem nach Absatz 3 Satz 2 sowie für dessen Zulassungsverfahren und veröffentlicht diese im Bundesanzeiger. Die Prüfung der Konformität und die Zulassung neu entwickelter Blockiersysteme gemäß der Technischen Richtlinie erfolgt durch die Physikalisch-Technische Bundesanstalt.
 
-(5) Der Einbau und die Entsperrung von Blockiersystemen darf nur durch hierin eingewiesene Inhaber einer Waffenherstellungserlaubnis oder einer Waffenhandelserlaubnis nach § 21 Abs. 1 oder durch deren hierzu bevollmächtigten Mitarbeiter erfolgen. Die vorübergehende Entsperrung aus besonderem Anlass ist möglich. Die Zeitpunkte aller Einbauten und Entsperrungen sind schriftlich festzuhalten. § 39 Abs. 1 Satz 1 gilt entsprechend.
+(5) Der Einbau und die Entsperrung von Blockiersystemen darf nur durch hierin eingewiesene Inhaber einer Waffenherstellungserlaubnis oder einer Waffenhandelserlaubnis nach § 21 Abs. 1 oder durch deren hierzu bevollmächtigten Mitarbeiter erfolgen. Die vorübergehende Entsperrung aus besonderem Anlass ist möglich. Die Zeitpunkte aller Einbauten und Entsperrungen sind schriftlich oder elektronisch festzuhalten. § 39 Abs. 1 Satz 1 gilt entsprechend.
 
 (6) In der Waffenbesitzkarte ist von der Waffenbehörde einzutragen, dass die Schusswaffe mit einem Blockiersystem gesichert wurde.
 
@@ -774,7 +785,7 @@ Die Seriennummer nach Satz 1 Nr. 5 ist bei zusammengesetzten Langwaffen auf dem 
 
 (4) Wer Waffenhandel betreibt, darf Schusswaffen oder Munition anderen gewerbsmäßig nur überlassen, wenn er festgestellt hat, dass die Schusswaffen gemäß Absatz 1 gekennzeichnet sind, oder wenn er auf Grund von Stichproben überzeugt ist, dass die Munition nach Absatz 3 mit dem Herstellerzeichen gekennzeichnet ist.
 
-(5) Wer gewerbsmäßig Schusswaffen, Munition oder Geschosse für Schussapparate herstellt, Munition wiederlädt oder im Geltungsbereich dieses Gesetzes mit diesen Gegenständen Handel treibt und eine Marke für diese Gegenstände benutzen will, hat dies der Physikalisch-Technischen Bundesanstalt unter Vorlage der Marke vorher schriftlich anzuzeigen. Verbringer, die die Marke eines Herstellers aus einem anderen Staat benutzen wollen, haben diese Marke anzuzeigen.
+(5) Wer gewerbsmäßig Schusswaffen, Munition oder Geschosse für Schussapparate herstellt, Munition wiederlädt oder im Geltungsbereich dieses Gesetzes mit diesen Gegenständen Handel treibt und eine Marke für diese Gegenstände benutzen will, hat dies der Physikalisch-Technischen Bundesanstalt unter Vorlage der Marke vorher schriftlich oder elektronisch anzuzeigen. Verbringer, die die Marke eines Herstellers aus einem anderen Staat benutzen wollen, haben diese Marke anzuzeigen.
 
 (6) Absatz 3 Satz 3 und Absatz 4 gelten nicht, sofern es sich um Munition handelt, die Teil einer Sammlung (§ 17 Abs. 1) oder für eine solche bestimmt ist.
 
@@ -813,9 +824,9 @@ dass bestimmte Waffen- und Munitionsarten von der in § 24 vorgeschriebenen Kenn
 
 ### § 27 Schießstätten, Schießen durch Minderjährige auf Schießstätten
 
-(1) Wer eine ortsfeste oder ortsveränderliche Anlage, die ausschließlich oder neben anderen Zwecken dem Schießsport oder sonstigen Schießübungen mit Schusswaffen, der Erprobung von Schusswaffen oder dem Schießen mit Schusswaffen zur Belustigung dient (Schießstätte), betreiben oder in ihrer Beschaffenheit oder in der Art ihrer Benutzung wesentlich ändern will, bedarf der Erlaubnis der zuständigen Behörde. Die Erlaubnis darf nur erteilt werden, wenn der Antragsteller die erforderliche Zuverlässigkeit (§ 5) und persönliche Eignung (§ 6) besitzt und eine Versicherung gegen Haftpflicht für aus dem Betrieb der Schießstätte resultierende Schädigungen in Höhe von mindestens 1 Million Euro – pauschal für Personen- und Sachschäden – sowie gegen Unfall für aus dem Betrieb der Schießstätte resultierende Schädigungen von bei der Organisation des Schießbetriebs mitwirkenden Personen in Höhe von mindestens 10 000 Euro für den Todesfall und 100 000 Euro für den Invaliditätsfall bei einem im Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugten Versicherungsunternehmen nachweist. § 10 Abs. 2 Satz 2 bis 5 gilt entsprechend. Abweichend von Satz 2 richtet sich die Haftpflichtversicherung für Schießgeschäfte, die der Schaustellerhaftpflichtverordnung unterliegen, nach § 1 Abs. 2 Nr. 2 dieser Verordnung. Bei ortsveränderlichen Schießstätten ist eine einmalige Erlaubnis vor der erstmaligen Aufstellung ausreichend. Der Inhaber einer Erlaubnis nach Satz 5 hat Aufnahme und Beendigung des Betriebs der Schießstätte der örtlich zuständigen Behörde zwei Wochen vorher schriftlich anzuzeigen.
+(1) Wer eine ortsfeste oder ortsveränderliche Anlage, die ausschließlich oder neben anderen Zwecken dem Schießsport oder sonstigen Schießübungen mit Schusswaffen, der Erprobung von Schusswaffen oder dem Schießen mit Schusswaffen zur Belustigung dient (Schießstätte), betreiben oder in ihrer Beschaffenheit oder in der Art ihrer Benutzung wesentlich ändern will, bedarf der Erlaubnis der zuständigen Behörde. Die Erlaubnis darf nur erteilt werden, wenn der Antragsteller die erforderliche Zuverlässigkeit (§ 5) und persönliche Eignung (§ 6) besitzt und eine Versicherung gegen Haftpflicht für aus dem Betrieb der Schießstätte resultierende Schädigungen in Höhe von mindestens 1 Million Euro – pauschal für Personen- und Sachschäden – sowie gegen Unfall für aus dem Betrieb der Schießstätte resultierende Schädigungen von bei der Organisation des Schießbetriebs mitwirkenden Personen in Höhe von mindestens 10 000 Euro für den Todesfall und 100 000 Euro für den Invaliditätsfall bei einem im Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugten Versicherungsunternehmen nachweist. § 10 Abs. 2 Satz 2 bis 5 gilt entsprechend. Abweichend von Satz 2 richtet sich die Haftpflichtversicherung für Schießgeschäfte, die der Schaustellerhaftpflichtverordnung unterliegen, nach § 1 Abs. 2 Nr. 2 dieser Verordnung. Bei ortsveränderlichen Schießstätten ist eine einmalige Erlaubnis vor der erstmaligen Aufstellung ausreichend. Der Inhaber einer Erlaubnis nach Satz 5 hat Aufnahme und Beendigung des Betriebs der Schießstätte der örtlich zuständigen Behörde zwei Wochen vorher schriftlich oder elektronisch anzuzeigen.
 
-(2) Absatz 1 Satz 1 ist nicht anzuwenden auf Schießstätten, bei denen in geschlossenen Räumen ausschließlich zur Erprobung von Schusswaffen oder Munition durch Waffen- oder Munitionshersteller, durch Waffen- oder Munitionssachverständige oder durch wissenschaftliche Einrichtungen geschossen wird. Der Betreiber hat die Aufnahme und Beendigung des Betriebs der Schießstätte der zuständigen Behörde zwei Wochen vorher schriftlich anzuzeigen.
+(2) Absatz 1 Satz 1 ist nicht anzuwenden auf Schießstätten, bei denen in geschlossenen Räumen ausschließlich zur Erprobung von Schusswaffen oder Munition durch Waffen- oder Munitionshersteller, durch Waffen- oder Munitionssachverständige oder durch wissenschaftliche Einrichtungen geschossen wird. Der Betreiber hat die Aufnahme und Beendigung des Betriebs der Schießstätte der zuständigen Behörde zwei Wochen vorher schriftlich oder elektronisch anzuzeigen.
 
 (3) Unter Obhut des zur Aufsichtsführung berechtigten Sorgeberechtigten oder verantwortlicher und zur Kinder- und Jugendarbeit für das Schießen geeigneter Aufsichtspersonen darf
 
@@ -825,11 +836,11 @@ Kindern, die das zwölfte Lebensjahr vollendet haben und noch nicht 14 Jahre alt
 2.  
 Jugendlichen, die das 14. Lebensjahr vollendet haben und noch nicht 18 Jahre alt sind, auch das Schießen mit sonstigen Schusswaffen bis zu einem Kaliber von 5,6 mm lfB (.22 l.r.) für Munition mit Randfeuerzündung, wenn die Mündungsenergie höchstens 200 Joule (J) beträgt und Einzellader-Langwaffen mit glatten Läufen mit Kaliber 12 oder kleiner
 
-gestattet werden, wenn der Sorgeberechtigte schriftlich sein Einverständnis erklärt hat oder beim Schießen anwesend ist. Die verantwortlichen Aufsichtspersonen haben die schriftlichen Einverständniserklärungen der Sorgeberechtigten vor der Aufnahme des Schießens entgegenzunehmen und während des Schießens aufzubewahren. Sie sind der zuständigen Behörde oder deren Beauftragten auf Verlangen zur Prüfung auszuhändigen. Die verantwortliche Aufsichtsperson hat die Geeignetheit zur Kinder- und Jugendarbeit glaubhaft zu machen. Der in Satz 1 genannten besonderen Obhut bedarf es nicht beim Schießen durch Jugendliche mit Waffen nach Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.1 und 1.2 und nicht beim Schießen mit sonstigen Schusswaffen durch Jugendliche, die das 16. Lebensjahr vollendet haben.
+gestattet werden, wenn der Sorgeberechtigte schriftlich oder elektronisch sein Einverständnis erklärt hat oder beim Schießen anwesend ist. Die verantwortlichen Aufsichtspersonen haben die schriftlichen Einverständniserklärungen der Sorgeberechtigten vor der Aufnahme des Schießens entgegenzunehmen und während des Schießens aufzubewahren. Sie sind der zuständigen Behörde oder deren Beauftragten auf Verlangen zur Prüfung auszuhändigen. Die verantwortliche Aufsichtsperson hat die Geeignetheit zur Kinder- und Jugendarbeit glaubhaft zu machen. Der in Satz 1 genannten besonderen Obhut bedarf es nicht beim Schießen durch Jugendliche mit Waffen nach Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.1 und 1.2 und nicht beim Schießen mit sonstigen Schusswaffen durch Jugendliche, die das 16. Lebensjahr vollendet haben.
 
 (4) Die zuständige Behörde kann einem Kind zur Förderung des Leistungssports eine Ausnahme von dem Mindestalter des Absatzes 3 Satz 1 bewilligen. Diese soll bewilligt werden, wenn durch eine ärztliche Bescheinigung die geistige und körperliche Eignung und durch eine Bescheinigung des Vereins die schießsportliche Begabung glaubhaft gemacht sind.
 
-(5) Personen in der Ausbildung zum Jäger dürfen in der Ausbildung ohne Erlaubnis mit Jagdwaffen schießen, wenn sie das 14. Lebensjahr vollendet haben und der Sorgeberechtigte und der Ausbildungsleiter ihr Einverständnis in einer von beiden unterzeichneten Berechtigungsbescheinigung erklärt haben. Die Person hat in der Ausbildung die Berechtigungsbescheinigung mit sich zu führen.
+(5) Personen in der Ausbildung zum Jäger dürfen in der Ausbildung ohne Erlaubnis mit Jagdwaffen schießen, wenn sie das 14. Lebensjahr vollendet haben und der Sorgeberechtigte und der Ausbildungsleiter ihr Einverständnis in einer schriftlichen oder elektronischen Berechtigungsbescheinigung erklärt haben. Die Person hat in der Ausbildung die Berechtigungsbescheinigung mit sich zu führen.
 
 (6) An ortsveränderlichen Schießstätten, die dem Schießen zur Belustigung dienen, darf von einer verantwortlichen Aufsichtsperson Minderjährigen das Schießen mit Druckluft-, Federdruckwaffen und Waffen, bei denen zum Antrieb der Geschosse kalte Treibgase verwendet werden (Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.1 und 1.2), gestattet werden. Bei Kindern hat der Betreiber sicherzustellen, dass die verantwortliche Aufsichtsperson in jedem Fall nur einen Schützen bedient.
 
@@ -974,7 +985,7 @@ Unterabschnitt 6 Obhutspflichten, Anzeige-, Hinweis- und Nachweispflichten
 
 (1) Waffen oder Munition dürfen nur berechtigten Personen überlassen werden. Die Berechtigung muss offensichtlich sein oder nachgewiesen werden. Werden sie zur gewerbsmäßigen Beförderung überlassen, müssen die ordnungsgemäße Beförderung sichergestellt und Vorkehrungen gegen ein Abhandenkommen getroffen sein. Munition darf gewerbsmäßig nur in verschlossenen Packungen überlassen werden; dies gilt nicht im Fall des Überlassens auf Schießstätten gemäß § 12 Abs. 2 Nr. 2 oder soweit einzelne Stücke von Munitionssammlern erworben werden. Wer Waffen oder Munition einem anderen lediglich zur gewerbsmäßigen Beförderung (§ 12 Abs. 1 Nr. 2, Abs. 2 Nr. 1) an einen Dritten übergibt, überlässt sie dem Dritten.
 
-(2) Der Inhaber einer Erlaubnis nach § 21 Abs. 1 Satz 1, der einem anderen auf Grund einer Erlaubnis nach § 10 Abs. 1 oder einer gleichgestellten anderen Erlaubnis zum Erwerb und Besitz eine Schusswaffe überlässt, hat in die Waffenbesitzkarte unverzüglich Herstellerzeichen oder Marke und - wenn gegeben - die Herstellungsnummer der Waffe, ferner den Tag des Überlassens und die Bezeichnung und den Sitz des Betriebs dauerhaft einzutragen und das Überlassen binnen zwei Wochen der zuständigen Behörde schriftlich anzuzeigen. Überlässt sonst jemand einem anderen eine Schusswaffe, zu deren Erwerb es einer Erlaubnis bedarf, so hat er dies binnen zwei Wochen der zuständigen Behörde schriftlich anzuzeigen und ihr, sofern ihm eine Waffenbesitzkarte oder ein Europäischer Feuerwaffenpass erteilt worden ist, diese zur Berichtigung vorzulegen; dies gilt nicht in den Fällen des § 12 Abs. 1. In der Anzeige nach den Sätzen 1 und 2 sind anzugeben Name, Vorname, Geburtsdatum, Geburtsort und Wohnanschrift des Erwerbers sowie Art und Gültigkeitsdauer der Erwerbs- und Besitzberechtigung. Bei Nachweis der Erwerbs- und Besitzerlaubnis durch eine Waffenbesitzkarte sind darüber hinaus deren Nummer und ausstellende Behörde anzugeben. Bei Überlassung an einen Erlaubnisinhaber nach § 21 Abs. 1 Satz 1 sind in der Anzeige lediglich der Name der Firma und die Anschrift der Niederlassung anzugeben.
+(2) Der Inhaber einer Erlaubnis nach § 21 Abs. 1 Satz 1, der einem anderen auf Grund einer Erlaubnis nach § 10 Abs. 1 oder einer gleichgestellten anderen Erlaubnis zum Erwerb und Besitz eine Schusswaffe überlässt, hat in die Waffenbesitzkarte unverzüglich Herstellerzeichen oder Marke und - wenn gegeben - die Herstellungsnummer der Waffe, ferner den Tag des Überlassens und die Bezeichnung und den Sitz des Betriebs dauerhaft einzutragen und das Überlassen binnen zwei Wochen der zuständigen Behörde schriftlich oder elektronisch anzuzeigen. Überlässt sonst jemand einem anderen eine Schusswaffe, zu deren Erwerb es einer Erlaubnis bedarf, so hat er dies binnen zwei Wochen der zuständigen Behörde schriftlich oder elektronisch anzuzeigen und ihr, sofern ihm eine Waffenbesitzkarte oder ein Europäischer Feuerwaffenpass erteilt worden ist, diese zur Berichtigung vorzulegen; dies gilt nicht in den Fällen des § 12 Abs. 1. In der Anzeige nach den Sätzen 1 und 2 sind anzugeben Name, Vorname, Geburtsdatum, Geburtsort und Wohnanschrift des Erwerbers sowie Art und Gültigkeitsdauer der Erwerbs- und Besitzberechtigung. Bei Nachweis der Erwerbs- und Besitzerlaubnis durch eine Waffenbesitzkarte sind darüber hinaus deren Nummer und ausstellende Behörde anzugeben. Bei Überlassung an einen Erlaubnisinhaber nach § 21 Abs. 1 Satz 1 sind in der Anzeige lediglich der Name der Firma und die Anschrift der Niederlassung anzugeben.
 
 (3) Die Absätze 1 und 2 gelten nicht für denjenigen, der Schusswaffen oder Munition einem anderen, der sie außerhalb des Geltungsbereichs des Gesetzes erwirbt, insbesondere im Versandwege unter eigenem Namen überlässt. Die Vorschriften des § 31 bleiben unberührt.
 
@@ -1063,7 +1074,7 @@ in Besitz nimmt, hat dies der zuständigen Behörde unverzüglich anzuzeigen. Di
 
 (2) Sind jemandem Waffen oder Munition, deren Erwerb der Erlaubnis bedarf, oder Erlaubnisurkunden abhanden gekommen, so hat er dies der zuständigen Behörde unverzüglich anzuzeigen und, soweit noch vorhanden, die Waffenbesitzkarte und den Europäischen Feuerwaffenpass zur Berichtigung vorzulegen. Die örtliche Behörde unterrichtet zum Zweck polizeilicher Ermittlungen die örtliche Polizeidienststelle über das Abhandenkommen.
 
-(3) Wird eine Schusswaffe, zu deren Erwerb es einer Erlaubnis bedarf, oder eine verbotene Schusswaffe nach Anlage 2 Abschnitt 1 Nr. 1.2 nach den Anforderungen der Anlage 1 Abschnitt 1 Unterabschnitt 1 Nr. 1.4 unbrauchbar gemacht oder zerstört, so hat der Besitzer dies der zuständigen Behörde binnen zwei Wochen schriftlich anzuzeigen und ihr auf Verlangen den Gegenstand vorzulegen. Dabei hat er seine Personalien sowie Art, Kaliber, Herstellerzeichen oder Marke und - sofern vorhanden - die Herstellungsnummer der Schusswaffe anzugeben.
+(3) Wird eine Schusswaffe, zu deren Erwerb es einer Erlaubnis bedarf, oder eine verbotene Schusswaffe nach Anlage 2 Abschnitt 1 Nr. 1.2 nach den Anforderungen der Anlage 1 Abschnitt 1 Unterabschnitt 1 Nr. 1.4 unbrauchbar gemacht oder zerstört, so hat der Besitzer dies der zuständigen Behörde binnen zwei Wochen schriftlich oder elektronisch anzuzeigen und ihr auf Verlangen den Gegenstand vorzulegen. Dabei hat er seine Personalien sowie Art, Kaliber, Herstellerzeichen oder Marke und - sofern vorhanden - die Herstellungsnummer der Schusswaffe anzugeben.
 
 (4) Inhaber waffenrechtlicher Erlaubnisse und Bescheinigungen sind verpflichtet, bei ihrem Wegzug ins Ausland ihre neue Anschrift der zuletzt für sie zuständigen Waffenbehörde mitzuteilen.
 
@@ -1097,7 +1108,7 @@ im Fall des Schießens mit einer Schießerlaubnis nach § 10 Abs. 5 diese, und
 2.  
 in den Fällen des § 13 Abs. 6 den Jagdschein
 
-mit sich führen und Polizeibeamten oder sonst zur Personenkontrolle Befugten auf Verlangen zur Prüfung aushändigen. In den Fällen des § 13 Abs. 3 und § 14 Abs. 4 Satz 2 genügt an Stelle der Waffenbesitzkarte ein schriftlicher Nachweis darüber, dass die Antragsfrist noch nicht verstrichen oder ein Antrag gestellt worden ist. Satz 1 gilt nicht in Fällen des § 12 Abs. 3 Nr. 1.
+mit sich führen und Polizeibeamten oder sonst zur Personenkontrolle Befugten auf Verlangen zur Prüfung aushändigen. In den Fällen des § 13 Abs. 3 und § 14 Abs. 4 Satz 2 genügt an Stelle der Waffenbesitzkarte ein schriftlicher oder elektronischer Nachweis darüber, dass die Antragsfrist noch nicht verstrichen oder ein Antrag gestellt worden ist. Satz 1 gilt nicht in Fällen des § 12 Abs. 3 Nr. 1.
 
 ### § 39 Auskunfts- und Vorzeigepflicht, Nachschau
 
@@ -1696,7 +1707,7 @@ Das Bundesministerium des Innern erlässt allgemeine Verwaltungsvorschriften üb
 
 ### § 60 Übergangsvorschrift
 
-Die Kostenverordnung zum Waffengesetz in der Fassung der Bekanntmachung vom 20. April 1990 (BGBl. I S. 780), die zuletzt durch Artikel 2 der Verordnung vom 10. Januar 2000 (BGBl. I S. 38) geändert worden ist, gilt in den Ländern bis zum 14. August 2018 fort, solange die Länder keine anderweitigen Regelungen getroffen haben; für die Erhebung von Auslagen ist insoweit § 10 des Verwaltungskostengesetzes vom 23. Juni 1970 in der bis zum14. August 2013 geltenden Fassung weiter anzuwenden.
+Die Kostenverordnung zum Waffengesetz in der Fassung der Bekanntmachung vom 20. April 1990 (BGBl. I S. 780), die zuletzt durch Artikel 2 der Verordnung vom 10. Januar 2000 (BGBl. I S. 38) geändert worden ist, gilt in den Ländern bis zum 1. Oktober 2021 fort, solange die Länder keine anderweitigen Regelungen getroffen haben; für die Erhebung von Auslagen ist insoweit § 10 des Verwaltungskostengesetzes vom 23. Juni 1970 in der bis zum14. August 2013 geltenden Fassung weiter anzuwenden.
 
 ### Anlage 1 (zu § 1 Abs. 4)Begriffsbestimmungen
 
