@@ -2,7 +2,7 @@ Gesetz gegen Doping im Sport (AntiDopG)
 =======================================
 
 Stand  
-Geändert durch Art. 1 V v. 8.7.2016 I 1624
+Zuletzt geändert durch Art. 6 Abs. 5 G v. 13.4.2017 I 872
 
 ### 
 
@@ -128,11 +128,9 @@ aus der sportlichen Betätigung unmittelbar oder mittelbar Einnahmen von erhebli
 
 (8) Nach Absatz 2 wird nicht bestraft, wer freiwillig die tatsächliche Verfügungsgewalt über das Dopingmittel aufgibt, bevor er es anwendet oder anwenden lässt.
 
-### § 5 Erweiterter Verfall und Einziehung
+### § 5 Einziehung
 
-(1) In den Fällen des § 4 Absatz 4 Nummer 2 Buchstabe b ist § 73d des Strafgesetzbuchs anzuwenden.
-
-(2) Gegenstände, auf die sich eine Straftat nach § 4 bezieht, können eingezogen werden. § 74a des Strafgesetzbuchs ist anzuwenden.
+Gegenstände, auf die sich eine Straftat nach § 4 bezieht, können eingezogen werden. § 74a des Strafgesetzbuchs ist anzuwenden.
 
 ### § 6 Verordnungsermächtigungen
 
