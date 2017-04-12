@@ -2,7 +2,7 @@ Ausführungsgesetz zu dem Übereinkommen vom 13. Januar 1993 über das Verbot de
 =====================================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 8 G v. 17.12.2008 I 2586
+Zuletzt geändert durch Art. 6 Abs. 1 G v. 13.4.2017 I 872
 
 ### 
 
@@ -153,7 +153,7 @@ Wer eine Tätigkeit ausübt, die nach einer auf Grund der §§ 2 und 3 erlassene
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darf die ihm bei der Erfüllung seiner Aufgaben auf Grund dieses Gesetzes und der zu diesem erlassenen Rechtsverordnungen bekanntgewordenen Daten, einschließlich personenbezogener Daten, mit anderen bei ihm gespeicherten Daten abgleichen, soweit dies zur Erfüllung der Verpflichtungen aus dem Übereinkommen erforderlich ist.
 
-(2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) übermittelt dem Auswärtigen Amt über das Bundesministerium für Wirtschaft und Technologie die ihm bei der Erfüllung seiner Aufgaben auf Grund dieses Gesetzes und der zu diesem erlassenen Rechtsverordnungen bekanntgewordenen Daten, einschließlich personenbezogener Daten, in dem Umfang, wie dies zur Erfüllung der Verpflichtungen aus dem Übereinkommen erforderlich ist. Die in Satz 1 genannten Behörden dürfen diese Daten an andere Behörden übermitteln, soweit dies zu deren Überprüfung, zur Verfolgung der in den §§ 5 und 7 Abs. 1 des Außenwirtschaftsgesetzes angegebenen Zwecke oder zur Verfolgung von Straftaten nach diesem Gesetz, dem Außenwirtschaftsgesetz, dem Gesetz über die Kontrolle von Kriegswaffen oder von Straftaten von erheblicher Bedeutung erforderlich ist.
+(2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) übermittelt dem Auswärtigen Amt über das Bundesministerium für Wirtschaft und Energie die ihm bei der Erfüllung seiner Aufgaben auf Grund dieses Gesetzes und der zu diesem erlassenen Rechtsverordnungen bekanntgewordenen Daten, einschließlich personenbezogener Daten, in dem Umfang, wie dies zur Erfüllung der Verpflichtungen aus dem Übereinkommen erforderlich ist. Die in Satz 1 genannten Behörden dürfen diese Daten an andere Behörden übermitteln, soweit dies zu deren Überprüfung, zur Verfolgung der in § 4 Absatz 1 und 2 des Außenwirtschaftsgesetzes angegebenen Zwecke oder zur Verfolgung von Straftaten nach diesem Gesetz, dem Außenwirtschaftsgesetz, dem Gesetz über die Kontrolle von Kriegswaffen oder von Straftaten von erheblicher Bedeutung erforderlich ist.
 
 (3) Das Auswärtige Amt darf
 
@@ -303,7 +303,7 @@ Die Bundesregierung kann durch Rechtsverordnung ohne Zustimmung des Bundesrates 
 
 ### § 13 Vereinbarungen über Einrichtungen
 
-(1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird ermächtigt, Vereinbarungen über Einrichtungen mit der Organisation auszuhandeln und im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie und dem Auswärtigen Amt abzuschließen.
+(1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird ermächtigt, Vereinbarungen über Einrichtungen mit der Organisation auszuhandeln und im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Auswärtigen Amt abzuschließen.
 
 (2) Soweit die Bundesrepublik Deutschland nach dem Übereinkommen zum Abschluß einer Vereinbarung über eine Einrichtung verpflichtet ist, hört das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) den Verpflichteten vor Aufnahme der Verhandlungen und Abschluß einer solchen Vereinbarung an. In allen übrigen Fällen holt es seine vorherige Zustimmung ein.
 
@@ -409,7 +409,7 @@ eingezogen werden.
 
 (2) § 74a des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
-(3) In Fällen des § 16 Abs. 1 und 5 und des § 17 Abs. 1, in den Fällen des § 16 Abs. 1 Nr. 2, Abs. 5 und § 17 Abs. 1 auch in Verbindung mit § 18, ist § 73d des Strafgesetzbuches anzuwenden, wenn der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Straftaten verbunden hat.
+(3) (weggefallen)
 
 ### § 20 Befugnisse der Zollbehörden
 
@@ -419,7 +419,7 @@ eingezogen werden.
 
 (3) In den Fällen der Absätze 1 und 2 haben die Beamten der Hauptzollämter und der Zollfahndungsämter die Rechte und Pflichten der Polizeibeamten nach den Bestimmungen der Strafprozeßordnung und des Gesetzes über Ordnungswidrigkeiten. Sie sind insoweit Ermittlungspersonen der Staatsanwaltschaft.
 
-(4) In diesen Fällen können die Hauptzollämter und Zollfahndungsämter sowie deren Beamte im Bußgeldverfahren Beschlagnahmen, Durchsuchungen, Untersuchungen und sonstige Maßnahmen nach den für Ermittlungspersonen der Staatsanwaltschaft geltenden Vorschriften der Strafprozeßordnung vornehmen; unter den Voraussetzungen des § 111l Abs. 2 Satz 2 der Strafprozeßordnung können auch die Hauptzollämter die Notveräußerung anordnen.
+(4) In diesen Fällen können die Hauptzollämter und Zollfahndungsämter sowie deren Beamte im Bußgeldverfahren Beschlagnahmen, Durchsuchungen, Untersuchungen und sonstige Maßnahmen nach den für Ermittlungspersonen der Staatsanwaltschaft geltenden Vorschriften der Strafprozeßordnung vornehmen; unter den Voraussetzungen des § 111p Abs. 2 Satz 2 der Strafprozeßordnung können auch die Hauptzollämter die Notveräußerung anordnen.
 
 ### § 21 Inkrafttreten
 
