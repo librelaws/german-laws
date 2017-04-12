@@ -2,7 +2,13 @@ Insolvenzordnung (InsO)
 =======================
 
 Stand  
-Zuletzt geändert durch Art. 16 G v. 20.11.2015 I 2010
+Zuletzt geändert durch Art. 1 G v. 13.4.2017 I 866
+
+Hinweis  
+Änderung durch Art. 2 G v. 5.6.2017 I 1476 (Nr. 34) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Hinweis  
+Änderung durch Art. 24 Abs. 3 G v. 23.6.2017 I 1693 ist berücksichtigt
 
 ### 
 
@@ -212,11 +218,13 @@ Dem Verzeichnis nach Satz 3 und den Angaben nach den Sätzen 4 und 5 ist die Erk
 
 (2) Der Antrag kann zurückgenommen werden, bis das Insolvenzverfahren eröffnet oder der Antrag rechtskräftig abgewiesen ist.
 
-(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates für die Antragstellung durch den Schuldner ein Formular einzuführen. Soweit nach Satz 1 ein Formular eingeführt ist, muss der Schuldner dieses benutzen. Für Verfahren, die von den Gerichten maschinell bearbeitet, und für solche, die nicht maschinell bearbeitet werden, können unterschiedliche Formulare eingeführt werden.
+(3) Ist der Eröffnungsantrag unzulässig, so fordert das Insolvenzgericht den Antragsteller unverzüglich auf, den Mangel zu beheben und räumt ihm hierzu eine angemessene Frist ein.
+
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates für die Antragstellung durch den Schuldner ein Formular einzuführen. Soweit nach Satz 1 ein Formular eingeführt ist, muss der Schuldner dieses benutzen. Für Verfahren, die von den Gerichten maschinell bearbeitet, und für solche, die nicht maschinell bearbeitet werden, können unterschiedliche Formulare eingeführt werden.
 
 ### § 14 Antrag eines Gläubigers
 
-(1) Der Antrag eines Gläubigers ist zulässig, wenn der Gläubiger ein rechtliches Interesse an der Eröffnung des Insolvenzverfahrens hat und seine Forderung und den Eröffnungsgrund glaubhaft macht. War in einem Zeitraum von zwei Jahren vor der Antragstellung bereits ein Antrag auf Eröffnung eines Insolvenzverfahrens über das Vermögen des Schuldners gestellt worden, so wird der Antrag nicht allein dadurch unzulässig, dass die Forderung erfüllt wird. In diesem Fall hat der Gläubiger auch die vorherige Antragstellung glaubhaft zu machen.
+(1) Der Antrag eines Gläubigers ist zulässig, wenn der Gläubiger ein rechtliches Interesse an der Eröffnung des Insolvenzverfahrens hat und seine Forderung und den Eröffnungsgrund glaubhaft macht. Der Antrag wird nicht allein dadurch unzulässig, dass die Forderung erfüllt wird.
 
 (2) Ist der Antrag zulässig, so hat das Insolvenzgericht den Schuldner zu hören.
 
@@ -238,11 +246,19 @@ Dem Verzeichnis nach Satz 3 und den Angaben nach den Sätzen 4 und 5 ist die Erk
 
 (3) Im Fall der Führungslosigkeit einer Gesellschaft mit beschränkter Haftung ist auch jeder Gesellschafter, im Fall der Führungslosigkeit einer Aktiengesellschaft oder einer Genossenschaft ist auch jedes Mitglied des Aufsichtsrats zur Stellung des Antrags verpflichtet, es sei denn, diese Person hat von der Zahlungsunfähigkeit und der Überschuldung oder der Führungslosigkeit keine Kenntnis.
 
-(4) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer entgegen Absatz 1 Satz 1, auch in Verbindung mit Satz 2 oder Absatz 2 oder Absatz 3, einen Eröffnungsantrag nicht, nicht richtig oder nicht rechtzeitig stellt.
+(4) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer entgegen Absatz 1 Satz 1, auch in Verbindung mit Satz 2 oder Absatz 2 oder Absatz 3, einen Eröffnungsantrag
+
+1.  
+nicht oder nicht rechtzeitig stellt oder
+
+2.  
+nicht richtig stellt.
 
 (5) Handelt der Täter in den Fällen des Absatzes 4 fahrlässig, ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-(6) Auf Vereine und Stiftungen, für die § 42 Absatz 2 des Bürgerlichen Gesetzbuchs gilt, sind die Absätze 1 bis 5 nicht anzuwenden.
+(6) Im Falle des Absatzes 4 Nummer 2, auch in Verbindung mit Absatz 5, ist die Tat nur strafbar, wenn der Eröffnungsantrag rechtskräftig als unzulässig zurückgewiesen wurde.
+
+(7) Auf Vereine und Stiftungen, für die § 42 Absatz 2 des Bürgerlichen Gesetzbuchs gilt, sind die Absätze 1 bis 6 nicht anzuwenden.
 
 ### § 16 Eröffnungsgrund
 
@@ -396,7 +412,10 @@ Namen und Anschrift des Insolvenzverwalters;
 die Stunde der Eröffnung;
 
 4.  
-die Gründe, aus denen das Gericht von einem einstimmigen Vorschlag des vorläufigen Gläubigerausschusses zur Person des Verwalters abgewichen ist; dabei ist der Name der vorgeschlagenen Person nicht zu nennen.
+die Gründe, aus denen das Gericht von einem einstimmigen Vorschlag des vorläufigen Gläubigerausschusses zur Person des Verwalters abgewichen ist; dabei ist der Name der vorgeschlagenen Person nicht zu nennen;
+
+5.  
+eine abstrakte Darstellung der für personenbezogene Daten geltenden Löschungsfristen nach § 3 der Verordnung zu öffentlichen Bekanntmachungen in Insolvenzverfahren im Internet vom 12. Februar 2002 (BGBl. I S. 677), die zuletzt durch Artikel 2 des Gesetzes vom 13. April 2007 (BGBl. I S. 509) geändert worden ist.
 
 (3) Ist die Stunde der Eröffnung nicht angegeben, so gilt als Zeitpunkt der Eröffnung die Mittagsstunde des Tages, an dem der Beschluß erlassen worden ist.
 
@@ -473,7 +492,7 @@ Zweiter Abschnitt Insolvenzmasse. Einteilung der Gläubiger
 
 (1) Das Insolvenzverfahren erfaßt das gesamte Vermögen, das dem Schuldner zur Zeit der Eröffnung des Verfahrens gehört und das er während des Verfahrens erlangt (Insolvenzmasse).
 
-(2) Übt der Schuldner eine selbstständige Tätigkeit aus oder beabsichtigt er, demnächst eine solche Tätigkeit auszuüben, hat der Insolvenzverwalter ihm gegenüber zu erklären, ob Vermögen aus der selbstständigen Tätigkeit zur Insolvenzmasse gehört und ob Ansprüche aus dieser Tätigkeit im Insolvenzverfahren geltend gemacht werden können. § 295 Absatz 3 gilt entsprechend. Auf Antrag des Gläubigerausschusses oder, wenn ein solcher nicht bestellt ist, der Gläubigerversammlung ordnet das Insolvenzgericht die Unwirksamkeit der Erklärung an.
+(2) Übt der Schuldner eine selbstständige Tätigkeit aus oder beabsichtigt er, demnächst eine solche Tätigkeit auszuüben, hat der Insolvenzverwalter ihm gegenüber zu erklären, ob Vermögen aus der selbstständigen Tätigkeit zur Insolvenzmasse gehört und ob Ansprüche aus dieser Tätigkeit im Insolvenzverfahren geltend gemacht werden können. § 295 Absatz 2 gilt entsprechend. Auf Antrag des Gläubigerausschusses oder, wenn ein solcher nicht bestellt ist, der Gläubigerversammlung ordnet das Insolvenzgericht die Unwirksamkeit der Erklärung an.
 
 (3) Die Erklärung des Insolvenzverwalters ist dem Gericht gegenüber anzuzeigen. Das Gericht hat die Erklärung und den Beschluss über ihre Unwirksamkeit öffentlich bekannt zu machen.
 
@@ -1014,33 +1033,69 @@ Zweiter Abschnitt Erfüllung der Rechtsgeschäfte. Mitwirkung des Betriebsrats
 
 (2) Lehnt der Verwalter die Erfüllung ab, so kann der andere Teil eine Forderung wegen der Nichterfüllung nur als Insolvenzgläubiger geltend machen. Fordert der andere Teil den Verwalter zur Ausübung seines Wahlrechts auf, so hat der Verwalter unverzüglich zu erklären, ob er die Erfüllung verlangen will. Unterläßt er dies, so kann er auf der Erfüllung nicht bestehen.
 
-### § 104 Fixgeschäfte. Finanzleistungen
+### § 104 Fixgeschäfte, Finanzleistungen, vertragliches Liquidationsnetting
 
-(1) War die Lieferung von Waren, die einen Markt- oder Börsenpreis haben, genau zu einer festbestimmten Zeit oder innerhalb einer festbestimmten Frist vereinbart und tritt die Zeit oder der Ablauf der Frist erst nach der Eröffnung des Insolvenzverfahrens ein, so kann nicht die Erfüllung verlangt, sondern nur eine Forderung wegen der Nichterfüllung geltend gemacht werden.
-
-(2) War für Finanzleistungen, die einen Markt- oder Börsenpreis haben, eine bestimmte Zeit oder eine bestimmte Frist vereinbart und tritt die Zeit oder der Ablauf der Frist erst nach der Eröffnung des Verfahrens ein, so kann nicht die Erfüllung verlangt, sondern nur eine Forderung wegen der Nichterfüllung geltend gemacht werden. Als Finanzleistungen gelten insbesondere
+(1) War die Lieferung von Waren, die einen Markt- oder Börsenpreis haben, genau zu einer festbestimmten Zeit oder innerhalb einer festbestimmten Frist vereinbart und tritt die Zeit oder der Ablauf der Frist erst nach Eröffnung des Insolvenzverfahrens ein, so kann nicht Erfüllung verlangt, sondern nur eine Forderung wegen Nichterfüllung geltend gemacht werden. Dies gilt auch für Geschäfte über Finanzleistungen, die einen Markt- oder Börsenpreis haben und für die eine bestimmte Zeit oder eine bestimmte Frist vereinbart war, die nach der Eröffnung des Verfahrens eintritt oder abläuft. Als Finanzleistungen gelten insbesondere
 
 1.  
 die Lieferung von Edelmetallen,
 
 2.  
-die Lieferung von Wertpapieren oder vergleichbaren Rechten, soweit nicht der Erwerb einer Beteiligung an einem Unternehmen zur Herstellung einer dauernden Verbindung zu diesem Unternehmen beabsichtigt ist,
+die Lieferung von Finanzinstrumenten oder vergleichbaren Rechten, soweit nicht der Erwerb einer Beteiligung an einem Unternehmen zur Herstellung einer dauernden Verbindung beabsichtigt ist,
 
 3.  
-Geldleistungen, die in ausländischer Währung oder in einer Rechnungseinheit zu erbringen sind,
+Geldleistungen,
+
+a)  
+die in ausländischer Währung oder in einer Rechnungseinheit zu erbringen sind oder
+
+b)  
+deren Höhe unmittelbar oder mittelbar durch den Kurs einer ausländischen Währung oder einer Rechnungseinheit, durch den Zinssatz von Forderungen oder durch den Preis anderer Güter oder Leistungen bestimmt wird,
 
 4.  
-Geldleistungen, deren Höhe unmittelbar oder mittelbar durch den Kurs einer ausländischen Währung oder einer Rechnungseinheit, durch den Zinssatz von Forderungen oder durch den Preis anderer Güter oder Leistungen bestimmt wird,
+von Nummer 2 nicht ausgeschlossene Lieferungen und Geldleistungen aus derivativen Finanzinstrumenten,
 
 5.  
-Optionen und andere Rechte auf Lieferungen oder Geldleistungen im Sinne der Nummern 1 bis 4,
+Optionen und andere Rechte auf Lieferungen nach Satz 1 oder auf Lieferungen, Geldleistungen, Optionen und Rechte im Sinne der Nummern 1 bis 5,
 
 6.  
-Finanzsicherheiten im Sinne des § 1 Abs. 17 des Kreditwesengesetzes.
+Finanzsicherheiten im Sinne des § 1 Absatz 17 des Kreditwesengesetzes.
 
-Sind Geschäfte über Finanzleistungen in einem Rahmenvertrag zusammengefaßt, für den vereinbart ist, daß er bei Vorliegen eines Insolvenzgrundes nur einheitlich beendet werden kann, so gilt die Gesamtheit dieser Geschäfte als ein gegenseitiger Vertrag im Sinne der §§ 103, 104.
+Finanzinstrumente im Sinne von Satz 3 Nummer 2 und 4 sind die in Anhang I Abschnitt C der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU (ABl. L 173 vom 12.6.2014, S. 349; L 74 vom 18.3.2015, S. 38; L 188 vom 13.7.2016, S. 28; L 273 vom 8.10.2016, S. 35), die zuletzt durch die Richtlinie (EU) 2016/1034 (ABl. L 175 vom 30.6.2016, S. 8) geändert worden ist, genannten Instrumente.
 
-(3) Die Forderung wegen der Nichterfüllung richtet sich auf den Unterschied zwischen dem vereinbarten Preis und dem Markt- oder Börsenpreis, der zu einem von den Parteien vereinbarten Zeitpunkt, spätestens jedoch am fünften Werktag nach der Eröffnung des Verfahrens am Erfüllungsort für einen Vertrag mit der vereinbarten Erfüllungszeit maßgeblich ist. Treffen die Parteien keine Vereinbarung, ist der zweite Werktag nach der Eröffnung des Verfahrens maßgebend. Der andere Teil kann eine solche Forderung nur als Insolvenzgläubiger geltend machen.
+(2) Die Forderung wegen Nichterfüllung bestimmt sich nach dem Markt- oder Börsenwert des Geschäfts. Als Markt- oder Börsenwert gilt
+
+1.  
+der Markt- oder Börsenpreis für ein Ersatzgeschäft, das unverzüglich, spätestens jedoch am fünften Werktag nach der Eröffnung des Verfahrens abgeschlossen wird, oder
+
+2.  
+falls kein Ersatzgeschäft nach Nummer 1 abgeschlossen wird, der Markt- oder Börsenpreis für ein Ersatzgeschäft, das am zweiten Werktag nach der Verfahrenseröffnung hätte abgeschlossen werden können.
+
+Sofern das Marktgeschehen den Abschluss eines Ersatzgeschäfts nach Satz 2 Nummer 1 oder 2 nicht zulässt, ist der Markt- und Börsenwert nach Methoden und Verfahren zu bestimmen, die Gewähr für eine angemessene Bewertung des Geschäfts bieten.
+
+(3) Werden Geschäfte nach Absatz 1 durch einen Rahmenvertrag oder das Regelwerk einer zentralen Gegenpartei im Sinne von § 1 Absatz 31 des Kreditwesengesetzes zu einem einheitlichen Vertrag zusammengefasst, der vorsieht, dass die einbezogenen Geschäfte bei Vorliegen bestimmter Gründe nur einheitlich beendet werden können, gilt die Gesamtheit der einbezogenen Geschäfte als ein Geschäft im Sinne des Absatzes 1. Dies gilt auch dann, wenn zugleich andere Geschäfte einbezogen werden; für letztere gelten die allgemeinen Bestimmungen.
+
+(4) Die Vertragsparteien können abweichende Bestimmungen treffen, sofern diese mit den wesentlichen Grundgedanken der jeweiligen gesetzlichen Regelung vereinbar sind, von der abgewichen wird. Sie können insbesondere vereinbaren,
+
+1.  
+dass die Wirkungen nach Absatz 1 auch vor der Verfahrenseröffnung eintreten, insbesondere bei Stellung des Antrags einer Vertragspartei auf Eröffnung eines Insolvenzverfahrens über das eigene Vermögen oder bei Vorliegen eines Eröffnungsgrundes (vertragliche Beendigung),
+
+2.  
+dass einer vertraglichen Beendigung auch solche Geschäfte nach Absatz 1 unterliegen, bei denen die Ansprüche auf die Lieferung der Ware oder die Erbringung der Finanzleistung vor der Verfahrenseröffnung, aber nach dem für die vertragliche Beendigung vorgesehenen Zeitpunkt fällig werden,
+
+3.  
+dass zwecks Bestimmung des Markt- oder Börsenwerts des Geschäfts
+
+a)  
+der Zeitpunkt der vertraglichen Beendigung an die Stelle der Verfahrenseröffnung tritt,
+
+b)  
+die Vornahme des Ersatzgeschäfts nach Absatz 2 Satz 2 Nummer 1 bis zum Ablauf des 20. Werktags nach der vertraglichen Beendigung erfolgen kann, soweit dies für eine wertschonende Abwicklung erforderlich ist,
+
+c)  
+anstelle des in Absatz 2 Satz 2 Nummer 2 genannten Zeitpunkts ein Zeitpunkt oder Zeitraum zwischen der vertraglichen Beendigung und dem Ablauf des fünften darauf folgenden Werktags maßgeblich ist.
+
+(5) Der andere Teil kann die Forderung wegen Nichterfüllung nur als Insolvenzgläubiger geltend machen.
 
 ### § 105 Teilbare Leistungen
 
@@ -1270,7 +1325,11 @@ wenn es nach dem Eröffnungsantrag vorgenommen worden ist und wenn der andere Te
 
 (1) Anfechtbar ist eine Rechtshandlung, die der Schuldner in den letzten zehn Jahren vor dem Antrag auf Eröffnung des Insolvenzverfahrens oder nach diesem Antrag mit dem Vorsatz, seine Gläubiger zu benachteiligen, vorgenommen hat, wenn der andere Teil zur Zeit der Handlung den Vorsatz des Schuldners kannte. Diese Kenntnis wird vermutet, wenn der andere Teil wußte, daß die Zahlungsunfähigkeit des Schuldners drohte und daß die Handlung die Gläubiger benachteiligte.
 
-(2) Anfechtbar ist ein vom Schuldner mit einer nahestehenden Person (§ 138) geschlossener entgeltlicher Vertrag, durch den die Insolvenzgläubiger unmittelbar benachteiligt werden. Die Anfechtung ist ausgeschlossen, wenn der Vertrag früher als zwei Jahre vor dem Eröffnungsantrag geschlossen worden ist oder wenn dem anderen Teil zur Zeit des Vertragsschlusses ein Vorsatz des Schuldners, die Gläubiger zu benachteiligen, nicht bekannt war.
+(2) Hat die Rechtshandlung dem anderen Teil eine Sicherung oder Befriedigung gewährt oder ermöglicht, beträgt der Zeitraum nach Absatz 1 Satz 1 vier Jahre.
+
+(3) Hat die Rechtshandlung dem anderen Teil eine Sicherung oder Befriedigung gewährt oder ermöglicht, welche dieser in der Art und zu der Zeit beanspruchen konnte, tritt an die Stelle der drohenden Zahlungsunfähigkeit des Schuldners nach Absatz 1 Satz 2 die eingetretene. Hatte der andere Teil mit dem Schuldner eine Zahlungsvereinbarung getroffen oder diesem in sonstiger Weise eine Zahlungserleichterung gewährt, wird vermutet, dass er zur Zeit der Handlung die Zahlungsunfähigkeit des Schuldners nicht kannte.
+
+(4) Anfechtbar ist ein vom Schuldner mit einer nahestehenden Person (§ 138) geschlossener entgeltlicher Vertrag, durch den die Insolvenzgläubiger unmittelbar benachteiligt werden. Die Anfechtung ist ausgeschlossen, wenn der Vertrag früher als zwei Jahre vor dem Eröffnungsantrag geschlossen worden ist oder wenn dem anderen Teil zur Zeit des Vertragsschlusses ein Vorsatz des Schuldners, die Gläubiger zu benachteiligen, nicht bekannt war.
 
 ### § 134 Unentgeltliche Leistung
 
@@ -1358,11 +1417,13 @@ Die Anfechtung wird nicht dadurch ausgeschlossen, daß für die Rechtshandlung e
 
 ### § 142 Bargeschäft
 
-Eine Leistung des Schuldners, für die unmittelbar eine gleichwertige Gegenleistung in sein Vermögen gelangt, ist nur anfechtbar, wenn die Voraussetzungen des § 133 Abs. 1 gegeben sind.
+(1) Eine Leistung des Schuldners, für die unmittelbar eine gleichwertige Gegenleistung in sein Vermögen gelangt, ist nur anfechtbar, wenn die Voraussetzungen des § 133 Absatz 1 bis 3 gegeben sind und der andere Teil erkannt hat, dass der Schuldner unlauter handelte.
+
+(2) Der Austausch von Leistung und Gegenleistung ist unmittelbar, wenn er nach Art der ausgetauschten Leistungen und unter Berücksichtigung der Gepflogenheiten des Geschäftsverkehrs in einem engen zeitlichen Zusammenhang erfolgt. Gewährt der Schuldner seinem Arbeitnehmer Arbeitsentgelt, ist ein enger zeitlicher Zusammenhang gegeben, wenn der Zeitraum zwischen Arbeitsleistung und Gewährung des Arbeitsentgelts drei Monate nicht übersteigt. Der Gewährung des Arbeitsentgelts durch den Schuldner steht die Gewährung dieses Arbeitsentgelts durch einen Dritten nach § 267 des Bürgerlichen Gesetzbuchs gleich, wenn für den Arbeitnehmer nicht erkennbar war, dass ein Dritter die Leistung bewirkt hat.
 
 ### § 143 Rechtsfolgen
 
-(1) Was durch die anfechtbare Handlung aus dem Vermögen des Schuldners veräußert, weggegeben oder aufgegeben ist, muß zur Insolvenzmasse zurückgewährt werden. Die Vorschriften über die Rechtsfolgen einer ungerechtfertigten Bereicherung, bei der dem Empfänger der Mangel des rechtlichen Grundes bekannt ist, gelten entsprechend.
+(1) Was durch die anfechtbare Handlung aus dem Vermögen des Schuldners veräußert, weggegeben oder aufgegeben ist, muß zur Insolvenzmasse zurückgewährt werden. Die Vorschriften über die Rechtsfolgen einer ungerechtfertigten Bereicherung, bei der dem Empfänger der Mangel des rechtlichen Grundes bekannt ist, gelten entsprechend. Eine Geldschuld ist nur zu verzinsen, wenn die Voraussetzungen des Schuldnerverzugs oder des § 291 des Bürgerlichen Gesetzbuchs vorliegen; ein darüber hinausgehender Anspruch auf Herausgabe von Nutzungen eines erlangten Geldbetrags ist ausgeschlossen.
 
 (2) Der Empfänger einer unentgeltlichen Leistung hat diese nur zurückzugewähren, soweit er durch sie bereichert ist. Dies gilt nicht, sobald er weiß oder den Umständen nach wissen muß, daß die unentgeltliche Leistung die Gläubiger benachteiligt.
 
@@ -2469,7 +2530,7 @@ wenn seit der Aufhebung des Insolvenzverfahrens drei Jahre verstrichen sind und 
 
 ### § 269 Kosten der Überwachung
 
-Die Kosten der Überwachung trägt der Schuldner. Im Falle des § 260 Abs. 3 trägt die Übernahmegesellschaft die durch ihre Überwachung entstehenden Kosten. Siebter Teil Eigenverwaltung
+Die Kosten der Überwachung trägt der Schuldner. Im Falle des § 260 Abs. 3 trägt die Übernahmegesellschaft die durch ihre Überwachung entstehenden Kosten.
 
 Siebter Teil Eigenverwaltung
 ----------------------------
@@ -2852,7 +2913,7 @@ der Schuldner nach Erteilung der Restschuldbefreiung Auskunfts- oder Mitwirkungs
 Das Insolvenzgericht ordnet die Eintragung in das Schuldnerverzeichnis nach § 882b der Zivilprozessordnung an. Eingetragen werden Schuldner,
 
 1.  
-denen die Restschuldbefreiung nach den §§ 290, 296, 297 oder 297a oder auf Antrag eines Insolvenzgläubigers nach § 300 Absatz 2 versagt worden ist,
+denen die Restschuldbefreiung nach den §§ 290, 296, 297 oder 297a oder auf Antrag eines Insolvenzgläubigers nach § 300 Absatz 3 versagt worden ist,
 
 2.  
 deren Restschuldbefreiung widerrufen worden ist.
@@ -2892,7 +2953,7 @@ einen Schuldenbereinigungsplan; dieser kann alle Regelungen enthalten, die unter
 
 (4) Der Schuldner kann sich vor dem Insolvenzgericht von einer geeigneten Person oder einem Angehörigen einer als geeignet anerkannten Stelle im Sinne des Absatzes 1 Nr. 1 vertreten lassen. Für die Vertretung des Gläubigers gilt § 174 Abs. 1 Satz 3 entsprechend.
 
-(5) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung des Verbraucherinsolvenzverfahrens für die Beteiligten Formulare für die nach Absatz 1 Nummer 1 bis 3 vorzulegenden Bescheinigungen, Anträge und Verzeichnisse einzuführen. Soweit nach Satz 1 Formulare eingeführt sind, muß sich der Schuldner ihrer bedienen. Für Verfahren bei Gerichten, die die Verfahren maschinell bearbeiten und für Verfahren bei Gerichten, die die Verfahren nicht maschinell bearbeiten, können unterschiedliche Formulare eingeführt werden.
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung des Verbraucherinsolvenzverfahrens für die Beteiligten Formulare für die nach Absatz 1 Nummer 1 bis 4 vorzulegenden Bescheinigungen, Anträge und Verzeichnisse einzuführen. Soweit nach Satz 1 Formulare eingeführt sind, muß sich der Schuldner ihrer bedienen. Für Verfahren bei Gerichten, die die Verfahren maschinell bearbeiten, und für Verfahren bei Gerichten, die die Verfahren nicht maschinell bearbeiten, können unterschiedliche Formulare eingeführt werden.
 
 ### § 305a Scheitern der außergerichtlichen Schuldenbereinigung
 
