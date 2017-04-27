@@ -2,7 +2,7 @@ Verordnung über Abschlagszahlungen bei Bauträgerverträgen ()
 ============================================================
 
 Stand  
-Geändert durch Art. 4 Nr. 1 G v. 23.10.2008 I 2022
+Zuletzt geändert durch Art. 4 G v. 28.4.2017 I 969
 
 ### 
 
@@ -14,7 +14,7 @@ Auf Grund des § 27a des AGB-Gesetzes in der Fassung der Bekanntmachung vom 29. 
 
 ### § 1 Zulässige Abschlagszahlungsvereinbarungen
 
-In Werkverträgen, die die Errichtung oder den Umbau eines Hauses oder eines vergleichbaren Bauwerks auf einem Grundstück zum Gegenstand haben und zugleich die Verpflichtung des Unternehmers enthalten, dem Besteller das Eigentum an dem Grundstück zu übertragen oder ein Erbbaurecht zu bestellen oder zu übertragen, kann der Besteller zur Leistung von Abschlagszahlungen entsprechend § 3 Abs. 2 der Makler- und Bauträgerverordnung unter den Voraussetzungen ihres § 3 Abs. 1 verpflichtet werden. Unter den Voraussetzungen des § 7 der Makler- und Bauträgerverordnung kann der Besteller auch abweichend von ihrem § 3 Abs. 1 und 2 zur Leistung von Abschlagszahlungen verpflichtet werden. § 632a Abs. 3 des Bürgerlichen Gesetzbuchs findet Anwendung.
+In Werkverträgen, die die Errichtung oder den Umbau eines Hauses oder eines vergleichbaren Bauwerks auf einem Grundstück zum Gegenstand haben und zugleich die Verpflichtung des Unternehmers enthalten, dem Besteller das Eigentum an dem Grundstück zu übertragen oder ein Erbbaurecht zu bestellen oder zu übertragen, kann der Besteller zur Leistung von Abschlagszahlungen entsprechend § 3 Abs. 2 der Makler- und Bauträgerverordnung unter den Voraussetzungen ihres § 3 Abs. 1 verpflichtet werden. Unter den Voraussetzungen des § 7 der Makler- und Bauträgerverordnung kann der Besteller auch abweichend von ihrem § 3 Abs. 1 und 2 zur Leistung von Abschlagszahlungen verpflichtet werden. § 650m Absatz 2 und 3 des Bürgerlichen Gesetzbuchs findet Anwendung.
 
 ### § 2 Betroffene Verträge
 
