@@ -2,7 +2,7 @@ Verordnung über die Satzung der Bundesanstalt für Finanzdienstleistungsaufsich
 ==================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 15 Abs. 87 G v. 5.2.2009 I 160
+Zuletzt geändert durch Art. 1 V v. 15.5.2017 I 1194
 
 ### 
 
