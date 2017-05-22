@@ -2,7 +2,7 @@ Gesetz über befristete Arbeitsverträge mit Ärzten in der Weiterbildung ()
 =========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 12.4.2007 I 506
+Zuletzt geändert durch Art. 6 Abs. 12 G v. 23.5.2017 I 1228
 
 ### 
 
@@ -33,7 +33,7 @@ Zeiten einer Beurlaubung oder einer Ermäßigung der Arbeitszeit um mindestens e
 Zeiten einer Beurlaubung für eine wissenschaftliche Tätigkeit oder eine wissenschaftliche oder berufliche Aus-, Fort- oder Weiterbildung im Ausland, soweit die Beurlaubung die Dauer von zwei Jahren nicht überschreitet,
 
 3.  
-Zeiten einer Beurlaubung nach § 8a des Mutterschutzgesetzes oder § 15 Abs. 1 des Bundeselterngeld- und Elternzeitgesetzes und Zeiten eines Beschäftigungsverbots nach den §§ 3, 4, 6 und 8 des Mutterschutzgesetzes, soweit eine Beschäftigung nicht erfolgt ist,
+die Elternzeit nach § 15 Abs. 1 des Bundeselterngeld- und Elternzeitgesetzes und Zeiten eines Beschäftigungsverbots nach den §§ 3 bis 6, 10 Absatz 3, § 13 Absatz 1 Nummer 3 und § 16 des Mutterschutzgesetzes, soweit eine Beschäftigung nicht erfolgt ist,
 
 4.  
 Zeiten des Grundwehr- und Zivildienstes und
