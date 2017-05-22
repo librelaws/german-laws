@@ -2,7 +2,7 @@ Verordnung zur Bezeichnung der als Einkommen geltenden sonstigen Einnahmen nach 
 =============================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 4 G v. 23.10.2012 I 2246
+Zuletzt geändert durch Art. 6 Abs. 3 G v. 23.5.2017 I 1228
 
 ### 
 
@@ -42,7 +42,7 @@ Eingliederungshilfe (§ 418);
 (weggefallen)
 
 2.  
-nach dem Fünften, Sechsten und Siebten Buch Sozialgesetzbuch (SGB V, SGB VI, SGB VII), dem Zweiten Gesetz über die Versicherung der Landwirte (KVLG - 1989), dem Mutterschutzgesetz (MuSchG), dem Bundeselterngeld- und Elternzeitgesetz (BEEG),
+nach dem Fünften, Sechsten und Siebten Buch Sozialgesetzbuch (SGB V, SGB VI, SGB VII), dem Zweiten Gesetz über die Krankenversicherung der Landwirte (KVLG - 1989), dem Mutterschutzgesetz (MuSchG), dem Bundeselterngeld- und Elternzeitgesetz (BEEG),
 
 a)  
 Krankengeld (§§ 44ff. SGB V, §§ 12ff. KVLG - 1989),
@@ -51,7 +51,7 @@ b)
 Leistungen der gesetzlichen Krankenkasse zur Erstattung des Verdienstausfalls bei Tätigkeit als Haushaltshilfe im Krankheitsfall des Versicherten (§ 38 Abs. 4 SGB V);
 
 c)  
-Mutterschaftsgeld (§ 24i SGB V, § 13 MuSchG) und Zuschuß zum Mutterschaftsgeld (§ 14 MuSchG), soweit sie das Erziehungsgeld nach dem Bundeserziehungsgeldgesetz oder das nach § 10 des Bundeselterngeld- und Elternzeitgesetzes anrechnungsfreie Elterngeld oder vergleichbare Leistungen der Länder übersteigen,
+Mutterschaftsgeld (§ 24i SGB V, § 19 MuSchG) und Zuschuß zum Mutterschaftsgeld (§ 20 MuSchG), soweit sie das Erziehungsgeld nach dem Bundeserziehungsgeldgesetz oder das nach § 10 des Bundeselterngeld- und Elternzeitgesetzes anrechnungsfreie Elterngeld oder vergleichbare Leistungen der Länder übersteigen,
 
 d)  
 Verletztengeld (§§ 45 ff. SGB VII);
@@ -96,21 +96,22 @@ e)
 Beihilfe zum Lebensunterhalt (§§ 12 bis 15 FlüHG);
 
 5.  
-nach dem Unterhaltssicherungsgesetz, soweit sie nicht zum Ausgleich für den Wehrdienst des Auszubildenden geleistet werden,
+nach dem Unterhaltssicherungsgesetz, soweit sie nicht zum Ausgleich für den freiwilligen Wehrdienst des Auszubildenden geleistet werden,
 
 a)  
-allgemeine Leistungen (§ 5),
+Leistungen an Nichtselbständige (§ 6) und an Selbständige (§ 7),
 
 b)  
-Einzelleistungen (§ 6),
+Reservistendienstleistungsprämie und Zuschläge (§ 10),
 
 c)  
-Leistungen für grundwehrdienstleistende Sanitätsoffiziere (§ 12a),
+Dienstgeld (§ 11),
 
 d)  
-Verdienstausfallentschädigungen (§ 13 Abs. 1, § 13a);
+allgemeine Leistungen (§ 17),
 
-Entsprechendes gilt für gleichartige Leistungen nach § 78 des Zivildienstgesetzes und § 59 des Bundesgrenzschutzgesetzes vom 18. August 1972 (BGBl. I S. 1834), das zuletzt durch Artikel 3 des Gesetzes vom 19. Oktober 1994 (BGBl. I S. 2978) geändert worden ist;
+e)  
+Leistungen an Angehörige, die nicht in einem gemeinsamen Haushalt mit der oder dem freiwilligen Wehrdienst Leistenden leben (§ 22);
 
 6.  
 nach dem BeamtenversorgungsgesetzÜbergangsgeld (§ 47);
