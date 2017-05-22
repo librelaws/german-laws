@@ -2,7 +2,10 @@ Verordnung über Bodenabfertigungsdienste auf Flugplätzen (BADV)
 ===============================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 10.5.2011 I 820
+Zuletzt geändert durch Art. 6 Abs. 16 G v. 23.5.2017 I 1228
+
+Hinweis  
+Änderung durch Art. 1 V v. 6.12.2018 I 2442 (Nr. 46) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -79,7 +82,7 @@ Drittland:jeden Staat, der weder Mitgliedstaat der Europäischen Union noch Vert
 
 (8) Die in Absatz 3 getroffenen Regelungen können bis zum 31. Dezember 2002 ausgesetzt werden.
 
-(9) Beschränkungen nach den Absätzen 4 und 5, deren Verlängerung nach Absatz 7 sowie eine Aussetzung nach Absatz 8 bedürfen der vorherigen Zustimmung der Europäischen Kommission. Die Zustimmung wird durch das Bundesministerium für Verkehr, Bau und Stadtentwicklung spätestens drei Monate vor dem beabsichtigten Inkrafttreten der Beschränkung und in den Fällen des Absatzes 8 bis spätestens zum 1. Juli 2000 beantragt. Der Flugplatzunternehmer ist verpflichtet, dem Bundesministerium für Verkehr, Bau und Stadtentwicklung über die Luftfahrtbehörde die hierfür erforderlichen Unterlagen und Begründungen rechtzeitig zu übermitteln.
+(9) Beschränkungen nach den Absätzen 4 und 5, deren Verlängerung nach Absatz 7 sowie eine Aussetzung nach Absatz 8 bedürfen der vorherigen Zustimmung der Europäischen Kommission. Die Zustimmung wird durch das Bundesministerium für Verkehr und digitale Infrastruktur spätestens drei Monate vor dem beabsichtigten Inkrafttreten der Beschränkung und in den Fällen des Absatzes 8 bis spätestens zum 1. Juli 2000 beantragt. Der Flugplatzunternehmer ist verpflichtet, dem Bundesministerium für Verkehr und digitale Infrastruktur über die Luftfahrtbehörde die hierfür erforderlichen Unterlagen und Begründungen rechtzeitig zu übermitteln.
 
 ### § 4 Trennung der Tätigkeitsbereiche
 
@@ -158,17 +161,17 @@ ungünstiger als inländische Dienstleister und Selbstabfertiger oder
 3.  
 ungünstiger als Dienstleister und Selbstabfertiger aus anderen Drittländern
 
-behandelt, ist das Bundesministerium für Verkehr, Bau und Stadtentwicklung zu unterrichten.
+behandelt, ist das Bundesministerium für Verkehr und digitale Infrastruktur zu unterrichten.
 
 (2) Dieses kann, unbeschadet der internationalen Verpflichtungen der Europäischen Union, die Pflichten, die sich aus der Richtlinie 96/67/EG des Rates vom 15. Oktober 1996 gegenüber den Dienstleistern und Nutzern dieses Drittlandes ergeben, im Einklang mit dem Gemeinschaftsrecht ganz oder teilweise aussetzen.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung unterrichtet die Kommission der Europäischen Gemeinschaften über Art und Ausmaß der Entscheidung.
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur unterrichtet die Kommission der Europäischen Gemeinschaften über Art und Ausmaß der Entscheidung.
 
 ### § 13 Unterrichtung
 
-(1) Die Luftfahrtbehörde meldet dem Bundesministerium für Verkehr, Bau und Stadtentwicklung die unter diese Verordnung fallenden Flugplätze vor dem 1. Juni jeden Jahres mit Angaben zum jeweiligen Passagier- und Frachtaufkommen des abgelaufenen Kalenderjahres und des dem 1. April und dem 1. Oktober des Vorjahres vorausgehenden Sechsmonatszeitraums.
+(1) Die Luftfahrtbehörde meldet dem Bundesministerium für Verkehr und digitale Infrastruktur die unter diese Verordnung fallenden Flugplätze vor dem 1. Juni jeden Jahres mit Angaben zum jeweiligen Passagier- und Frachtaufkommen des abgelaufenen Kalenderjahres und des dem 1. April und dem 1. Oktober des Vorjahres vorausgehenden Sechsmonatszeitraums.
 
-(2) Die Luftfahrtbehörde stellt dem Bundesministerium für Verkehr, Bau und Stadtentwicklung auf dessen Anforderung hin Informationen zur Verfügung, die die Kommission der Europäischen Gemeinschaften zur Erstellung eines Berichts über die Anwendung der Richtlinie 96/67/EG des Rates benötigt.
+(2) Die Luftfahrtbehörde stellt dem Bundesministerium für Verkehr und digitale Infrastruktur auf dessen Anforderung hin Informationen zur Verfügung, die die Kommission der Europäischen Gemeinschaften zur Erstellung eines Berichts über die Anwendung der Richtlinie 96/67/EG des Rates benötigt.
 
 (3) Der Flugplatzunternehmer ist verpflichtet, der Luftfahrtbehörde die nach Absatz 2 erforderlichen Auskünfte zu erteilen und Unterlagen vorzulegen.
 
@@ -311,7 +314,7 @@ die Vorbereitung und Lieferung der Nahrungsmittel und Getränke sowie des entspr
 \*1)  
 Sofern diese Dienste nicht vom Flugverkehrskontrolldienst oder einer Zentralen Vorfeldkontrolle erbracht werden.
 
-### Anlage 2 (zu § 7)Auswahl-Richtlinie des Bundesministeriums für Verkehr, Bau und Stadtentwicklung
+### Anlage 2 (zu § 7)Auswahl-Richtlinie des Bundesministeriums für Verkehr und digitale Infrastruktur
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2889 - 2890;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -415,7 +418,7 @@ im Pflichtenheft nach § 8 Abs. 2 möglicherweise verbindlich vorgegebene techni
 
 (5) In den Fällen, in denen der Flugplatzunternehmer selbst gleichartige Bodenabfertigungsdienste erbringt oder ein Unternehmen, das derartige Dienste erbringt, direkt oder indirekt beherrscht oder an einem solchen Unternehmen beteiligt ist, öffnet die Luftfahrtbehörde nach Ablauf der Bewerbungsfrist die eingegangenen Bewerbungen und stellt eine Liste der Bewerber mit eingereichten Unterlagen zusammen. Ein Vertreter des Flughafenunternehmers, ein Vertreter des Nutzerausschusses und ein Vertreter des Betriebsrates des Flugplatzunternehmens sind zu der Öffnung zuzulassen. Diese haben jedoch keinen Anspruch auf Einsicht in die Bewerbungsunterlagen. Die Luftfahrtbehörde bewertet die Bewerbungen anhand der vorher festgelegten maßgeblichen Bewertungskriterien und trifft nach Anhörung des Nutzerausschusses, des Flugplatzunternehmers und des Betriebsrates des Flugplatzunternehmens die Auswahlentscheidung. Die Auswahlentscheidung ist dem Nutzerausschuß, dem Flugplatzunternehmer sowie den Bewerbern bekanntzugeben.
 
-### Anlage 3 (zu § 8) Anforderungen für die Erbringung von Bodenabfertigungsdiensten
+### Anlage 3 (zu § 8)Anforderungen für die Erbringung von Bodenabfertigungsdiensten
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2890 - 2892;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -485,7 +488,7 @@ Anforderung an Betrieb und Einsatz der Mitarbeiter
 
 (4) Die Bedienung und Handhabung von Abfertigungsgeräten und technischen Einrichtungen im Abfertigungsbereich darf ausschließlich durch geprüfte Flugzeugabfertiger oder Beschäftigte mit gleichwertigen Kenntnissen und Fertigkeiten erfolgen.
 
-(5) Die Einhaltung des Luftverkehrsgesetzes und der hierzu erlassenen Verordnungen, sowie der Gewerbeordnung muß sichergestellt sein. Gleiches gilt für die zwingenden Bestimmungen des Arbeitsrechts und die arbeitsschutzrechtlichen Vorschriften, wie das Arbeitsschutzgesetz und die auf seiner Grundlage erlassenen Rechtsverordnungen, das Arbeitssicherheitsgesetz, das Arbeitszeitgesetz, das Jugendarbeitsschutzgesetz, die Arbeitsstättenverordnung, die Gefahrstoffverordnung und die Unfallverhütungsvorschriften, insbesondere die VBG 78 und die GUV 5.8.
+(5) Die Einhaltung des Luftverkehrsgesetzes und der hierzu erlassenen Verordnungen, sowie der Gewerbeordnung muß sichergestellt sein. Gleiches gilt für die zwingenden Bestimmungen des Arbeitsrechts und die arbeitsschutzrechtlichen Vorschriften, wie das Arbeitsschutzgesetz und die auf seiner Grundlage erlassenen Rechtsverordnungen, das Arbeitssicherheitsgesetz, das Arbeitszeitgesetz, das Jugendarbeitsschutzgesetz, das Mutterschutzgesetz, die Arbeitsstättenverordnung, die Gefahrstoffverordnung und die Unfallverhütungsvorschriften, insbesondere die VBG 78 und die GUV 5.8.
 
 (6) Vor Aufnahme von Bodenabfertigungstätigkeiten nach Anlage 1 ist dem Flugplatzunternehmer der Abschluss einer Haftpflichtversicherung nachzuweisen, die die Haftung des Dienstleisters oder Selbstabfertigers auf Schadensersatz wegen solcher Schäden deckt, die diese in Ausführung der Dienstleistung einem anderen zufügen. Bedient sich der Dienstleister oder Selbstabfertiger zur Erledigung seiner Aufgaben eines anderen Dienstleisters, hat er nachzuweisen, dass dieser über die erforderliche Haftpflichtversicherung verfügt. Ist die Haftung des Dienstleisters oder Selbstabfertigers bereits durch eine Versicherung gedeckt, die der Nutzer unterhält, kann der Dienstleister oder Selbstabfertiger seiner Pflicht nach Satz 1 auch durch den Nachweis dieser Versicherung nachkommen. Ist die Haftung des Dienstleisters oder Selbstabfertigers bereits durch eine Versicherung gedeckt, die der Flugplatzunternehmer unterhält, bedarf es des Nachweises nach Satz 1 nicht.
 
@@ -515,7 +518,7 @@ Die nicht allgemein zugänglichen und sicherheitsempfindlichen Bereiche eines Fl
 
 (12) Der Flugplatzunternehmer kann von Dienstleistern und Selbstabfertigern angemessene Kautionen oder Sicherheiten verlangen sowie Finanzierungs- oder Zahlungsbedingungen geltend machen, ohne daß hierdurch Marktzugangshindernisse entstehen.
 
-### Anlage 4 (zu § 5) Anforderungen an eine Geschäftsordnung für den Nutzerausschuß
+### Anlage 4 (zu § 5)Anforderungen an eine Geschäftsordnung für den Nutzerausschuß
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2892 - 2893
 Die Geschäftsordnung, die sich der Nutzerausschuß eines Flugplatzes gemäß § 5 Abs. 1 zu geben hat, hat folgende Grundsätze zu beachten:
@@ -558,7 +561,7 @@ Der Vorsitzende und zwei Stellvertreter werden durch die Mitglieder aus ihrer Mi
 Verantwortlicher Organisator für die Durchführung der Sitzungen des Nutzerausschusses ist die Luftfahrtbehörde oder der Flugplatzunternehmer, soweit ihm die Luftfahrtbehörde diese Aufgaben übertragen hat.
 
 3.4  
-Der Organisator ist zuständig für die Erstellung von Einladung, Tagesordnung und Niederschrift der Sitzungen des Nutzerausschusses sowie für die Bereitstellung des Sitzungsraumes. Die Einladung zu den Sitzungen erfolgt schriftlich mit einer Frist von drei Wochen, es sei denn, der Vorsitzende hält eine kürzere Frist für geboten. Der Termin der Sitzung wird im Einvernehmen mit dem Vorsitzenden festgelegt. Die Niederschrift ist vom Leiter der Sitzung zu unterzeichnen.
+Der Organisator ist zuständig für die Erstellung von Einladung und Tagesordnung, für die schriftliche oder elektronische Protokollierung der Sitzungen des Nutzerausschusses sowie für die Bereitstellung des Sitzungsraumes. Die Einladung zu den Sitzungen erfolgt schriftlich mit einer Frist von drei Wochen, es sei denn, der Vorsitzende hält eine kürzere Frist für geboten. Der Termin der Sitzung wird im Einvernehmen mit dem Vorsitzenden festgelegt. Die Niederschrift ist vom Leiter der Sitzung zu unterzeichnen.
 
 3.5  
 Die Sitzung des Nutzerausschusses wird vom Organisator mindestens einmal im Jahr einberufen. Sie muß vom Organisator einberufen werden, wenn
@@ -567,7 +570,7 @@ Die Sitzung des Nutzerausschusses wird vom Organisator mindestens einmal im Jahr
 die Mitwirkung des Nutzerausschusses gemäß 1.1 erforderlich ist oder
 
 -  
-dies schriftlich unter Angabe des Zwecks und der Gründe von mehr als einem Viertel der Mitglieder des Nutzerausschusses verlangt wird oder
+dies schriftlich oder elektronisch unter Angabe des Zwecks und der Gründe von mehr als einem Viertel der Mitglieder des Nutzerausschusses verlangt wird oder
 
 -  
 der Vorsitzende aus anderen Gründen die Einberufung für erforderlich hält.
@@ -782,9 +785,11 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flug
 
 Dienst gemäß Anlage 1
 
-Zahl Selbstabfertiger
+Zahl
+Selbstabfertiger
 
-Zahl Drittabfertiger
+Zahl
+Drittabfertiger
 
 3
 
@@ -792,27 +797,29 @@ Gepäckabfertigung
 
 2
 
-2
+3
 
 4
 
 Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug)
 
- 
-
 4.1
 
-in bezug auf Fracht ohne Zollagerbetrieb
+in Bezug auf Fracht ohne Zolllagerbetrieb
 
 2
 
-2
+3
 
 4.2
 
-in bezug auf Post
+in Bezug auf Post
 
-Postabfertigung entfällt
+Postabfertigung
+entfällt
+
+Postabfertigung
+entfällt
 
 5.1
 
@@ -826,9 +833,9 @@ Lotsen
 
 Unterstützen beim Parken
 
-2
+unbegrenzt
 
-2
+unbegrenzt
 
 5.3
 
@@ -840,11 +847,14 @@ unbegrenzt
 
 5.4
 
-Be- und Entladung sowie Beförderung Besatzung/Fluggast/Gepäck
+Be- und Entladung sowie Beförderung Fluggast/Gepäck
+Beförderung Besatzung
 
 2
+unbegrenzt
 
-2
+3
+unbegrenzt
 
 5.5
 
@@ -852,7 +862,7 @@ Anlassen/Triebwerke
 
 2
 
-2
+3
 
 5.6
 
@@ -860,7 +870,7 @@ Bewegen des Flugzeugs/Bereitstellen
 
 2
 
-2
+3
 
 5.7
 
@@ -873,8 +883,6 @@ Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken
 7
 
 Betankungsdienste
-
- 
 
 7.1
 
@@ -1426,37 +1434,82 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flug
 
 Dienst gemäß Anlage 1
 
-Zahl Selbstabfertiger
+Zahl
+Selbstabfertiger
 
-Zahl Drittabfertiger
+Zahl
+Drittabfertiger
 
 3
 
 Gepäckabfertigung
 
-2
+3
 
-2
+3
 
 4
 
 Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug)
 
-2
+3
 
-2
+3
 
-5.1 bis 5.6
+5.1
 
-Vorfelddienste
+Lotsen
 
-2
+3
 
-2
+3
+
+5.2
+
+Unterstützen beim Parken
+
+3
+
+3
+
+5.3
+
+Kommunikation Flugzeug/Abfertiger
+
+3
+
+3
+
+5.4
+
+Be- und Entladung sowie Beförderung Fluggast/Gepäck
+Beförderung Besatzung
+
+3
+unbegrenzt
+
+3
+unbegrenzt
+
+5.5
+
+Anlassen/Triebwerke
+
+3
+
+3
+
+5.6
+
+Bewegen des Flugzeugs/Bereitstellen (mit Ausnahme sogenannter Werftschlepps)
+
+3
+
+3
 
 5.7
 
-Beförderung, Ein-/Ausladen von Nahrungsmitteln/ Getränken
+Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken
 
 unbegrenzt
 
@@ -1692,4 +1745,4 @@ Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flug
 (weggefallen)
 Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
 
-Anmerkung: Bestimmungen für Drittabfertiger gelten erst ab Jahr 2001.Anmerkung: Bestimmungen für Drittabfertiger gelten erst ab Jahr 2001.Anmerkung: Bestimmungen für Drittabfertiger gelten erst ab Jahr 2001.Anmerkung: Bestimmungen für Drittabfertiger gelten erst ab Jahr 2001.
+Anmerkung: Bestimmungen für Drittabfertiger gelten erst ab Jahr 2001.Anmerkung: Bestimmungen für Drittabfertiger gelten erst ab Jahr 2001.
