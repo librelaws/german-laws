@@ -2,12 +2,16 @@ Entwicklungshelfer-Gesetz (EhfG)
 ================================
 
 Stand  
-Zuletzt geändert durch Art. 21 G v. 20.12.2011 I 2854
+Zuletzt geändert durch Art. 6 Abs. 13 G v. 23.5.2017 I 1228
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 1.1.1982 +++)
+ 
+(+++ Maßgaben aufgrund EinigVtr vgl. SonntRPapIndAusnV Anhang EV;
+     Maßgaben nicht mehr anzuwenden gem. Art. 1 Nr. 12 
+     G v. 21.1.2013 I 91 +++)
 ```
 
 ### Eingangsformel
@@ -27,7 +31,7 @@ I. Allgemeiner Teil
 in Entwicklungsländern ohne Erwerbsabsicht Dienst leistet, um in partnerschaftlicher Zusammenarbeit zum Fortschritt dieser Länder beizutragen (Entwicklungsdienst),
 
 2.  
-sich zur Leistung des Entwicklungsdienstes gegenüber einem anerkannten Träger des Entwicklungsdienstes für eine ununterbrochene Zeit von mindestens zwei Jahren vertraglich verpflichtet hat,
+sich zur Leistung des Entwicklungsdienstes gegenüber einem anerkannten Träger des Entwicklungsdienstes für eine ununterbrochene Zeit von mindestens einem Jahr vertraglich verpflichtet hat,
 
 3.  
 für den Entwicklungsdienst nur Leistungen erhält, die dieses Gesetz vorsieht,
@@ -60,7 +64,7 @@ Satz 1 Nummer 1 gilt nicht für juristische Personen des privaten Rechts, an den
 
 (2) Über die Anerkennung eines Trägers des Entwicklungsdienstes entscheidet auf dessen Antrag der Bundesminister für wirtschaftliche Zusammenarbeit. Er kann die Anerkennung mit Auflagen verbinden, insbesondere über die allgemeinen Bedingungen der mit den Entwicklungshelfern zu schließenden Verträge, über Entsendungsgrundsätze, die im Interesse der Gesundheit des Entwicklungshelfers erforderlich sind, über den Versicherungsschutz, über die Höhe der Unterhaltsleistungen, der Wiedereingliederungsbeihilfen und der Reisekostenerstattung sowie über Art und Dauer der Fortbildung (§ 22) und des Vorbereitungsdienstes. Die Auflagen können unter dem Vorbehalt späterer Änderungen erteilt werden.
 
-(3) Der Bundesminister für wirtschaftliche Zusammenarbeit hat die Anerkennung zu widerrufen, wenn eine der in Absatz 1 genannten Voraussetzungen nicht mehr vorliegt, es sei denn, die Voraussetzung des Absatz 1 Nr. 1 ist nur deshalb entfallen, weil die Mehrheit der Entsandten allein wegen Fehlens der deutschen Staatsangehörigkeit keine Entwicklungshelfer nach § 1 Abs. 1 sind; die Anerkennung kann auch aus anderen wichtigen Gründen widerrufen werden, insbesondere, wenn eine Auflage nicht erfüllt worden ist. Durch den Widerruf oder die Rücknahme der Anerkennung werden die Rechte des Entwicklungshelfers nach diesem Gesetz nicht berührt.
+(3) Der Bundesminister für wirtschaftliche Zusammenarbeit hat die Anerkennung zu widerrufen, wenn eine der in Absatz 1 genannten Voraussetzungen nicht mehr vorliegt, es sei denn, die Voraussetzung des Absatzes 1 Satz 1 Nr. 1 ist nur deshalb entfallen, weil die Mehrheit der Entsandten allein wegen Fehlens der deutschen Staatsangehörigkeit keine Entwicklungshelfer nach § 1 Abs. 1 sind; die Anerkennung kann auch aus anderen wichtigen Gründen widerrufen werden, insbesondere, wenn eine Auflage nicht erfüllt worden ist. Durch den Widerruf oder die Rücknahme der Anerkennung werden die Rechte des Entwicklungshelfers nach diesem Gesetz nicht berührt.
 
 ### § 3 Finanzierungen durch den Bund
 
@@ -88,13 +92,11 @@ die Übernahme der Pflichten, die nach dem Bundesurlaubsgesetz und dem Muttersch
 
 ### § 5 Leistungen durch andere Stellen
 
-(1) Wirkt der Entwicklungshelfer auf Veranlassung des Trägers in Entwicklungsländern an Vorhaben mit, die von anderen Stellen als dem Träger durchgeführt werden, so hat der Träger dafür zu sorgen, daß die andere Stelle gegenüber dem Entwicklungshelfer vertraglich die in *§ 4 Nr. 4* bezeichneten Pflichten übernimmt.
+(1) Wirkt der Entwicklungshelfer auf Veranlassung des Trägers in Entwicklungsländern an Vorhaben mit, die von anderen Stellen als dem Träger durchgeführt werden, so hat der Träger dafür zu sorgen, daß die andere Stelle gegenüber dem Entwicklungshelfer vertraglich die in § 4 Absatz 1 Nummer 4 bezeichneten Pflichten übernimmt.
 
 (2) Die in § 4 Abs. 1 Nr. 1 bis 3, §§ 6, 7 Abs. 1, §§ 8 und 11 genannten und die nach § 4 Abs. 2 zugelassenen Leistungen können auch von einer Stelle im Entwicklungsland oder der Stelle im Sinne des Absatzes 1 erbracht werden, die das Vorhaben durchführt.
 
 (3) Bei Leistungen anderer Stellen nach Absatz 1 oder Absatz 2 haftet auch der Träger dem Entwicklungshelfer für eine ordnungsgemäße Erfüllung.
-
-§ 5 Abs. 1 Kursivdruck: Vgl. jetzt § 4 Abs. 1 Nr. 4
 
 II. Besonderer Teil
 -------------------
@@ -116,7 +118,7 @@ II. Besonderer Teil
 (1) Für die Zeit des Entwicklungsdienstes hat der Träger einen Gruppenversicherungsvertrag abzuschließen und aufrechtzuerhalten, der dem Entwicklungshelfer sowie dessen unterhaltsberechtigtem Ehegatten und unterhaltsberechtigten Kindern, solange diese sich außerhalb des Geltungsbereichs dieses Gesetzes aufhalten, für den Fall der Krankheit, der Entbindung und des Unfalles, soweit nicht Leistungen auf Grund sozialversicherungsrechtlicher Vorschriften oder nach § 10 dieses Gesetzes gewährt werden, Versicherungsschutz mit mindestens folgenden Leistungen gewährt:
 
 1.  
-Erstattung von Krankheitskosten und Entbindungskosten in voller Höhe bis zu 5.000 DM je Versicherungsfall (Krankheit, Entbindung, Unfall),
+Erstattung von Krankheitskosten und Entbindungskosten in voller Höhe bis zu 2 556 Euro je Versicherungsfall (Krankheit, Entbindung, Unfall),
 
 2.  
 Erstattung von Rückführungs- und Überführungskosten.
@@ -125,13 +127,13 @@ In dem Gruppenversicherungsvertrag muß außerdem bestimmt sein, daß der Versic
 
 (2) Für die Zeit des Vorbereitungsdienstes hat der Träger für den Fall, daß der Entwicklungshelfer in der gesetzlichen Krankenversicherung versichert ist, die Beiträge in voller Höhe zu übernehmen; ist der Entwicklungshelfer oder ein Familienangehöriger im Sinne des Absatzes 1 Satz 1 bereits in einer privaten Krankheitskostenversicherung versichert, so hat der Träger die Beiträge oder Prämien in Höhe der Aufwendungen zu übernehmen, höchstens jedoch den Betrag, der für einen versicherungspflichtigen Angestellten mit einem Arbeitsverdienst in Höhe der für die gesetzliche Krankenversicherung geltenden Beitragsbemessungsgrenze zu zahlen wäre; hierbei ist der Beitragssatz der für den Sitz des Trägers zuständigen allgemeinen Ortskrankenkasse zugrunde zu legen. Sind der Entwicklungshelfer und seine Familienangehörigen im Sinne des Absatzes 1 Satz 1 für diese Zeit weder in der gesetzlichen Krankenversicherung noch anderweitig in einer privaten Krankheitskostenversicherung versichert, so hat der Träger sie nach Absatz 1 zu versichern.
 
-(3) Entstehen dem Entwicklungshelfer oder einem Familienangehörigen im Sinne des Absatzes 1 Satz 1 durch den Eintritt eines Versicherungsfalles (Absatz 1 Nr. 1 oder 2) notwendige Kosten, die weder nach Absatz 1 noch durch Leistungen auf Grund sozialversicherungsrechtlicher Vorschriften gedeckt sind, so trägt diese der Bund, soweit die Gesamtkosten die ortsüblichen Kosten nicht übersteigen. Der Bund kann in diesem Umfang auch Kosten übernehmen, die nach Beendigung des Entwicklungsdienstes erwachsen, sofern dies zur Abwendung einer unbilligen Härte geboten ist.
+(3) Entstehen dem Entwicklungshelfer oder einem Familienangehörigen im Sinne des Absatzes 1 Satz 1 durch den Eintritt eines Versicherungsfalles (Absatz 1 Satz 1 Nummer 1 oder 2) notwendige Kosten, die weder nach Absatz 1 noch durch Leistungen auf Grund sozialversicherungsrechtlicher Vorschriften gedeckt sind, so trägt diese der Bund, soweit die Gesamtkosten die ortsüblichen Kosten nicht übersteigen. Der Bund kann in diesem Umfang auch Kosten übernehmen, die nach Beendigung des Entwicklungsdienstes erwachsen, sofern dies zur Abwendung einer unbilligen Härte geboten ist.
 
 ### § 8 Weitergewährung der Unterhaltsleistungen
 
 (1) Ist der Entwicklungshelfer an der Dienstleistung verhindert und hat er die Verhinderung nicht vorsätzlich herbeigeführt, so hat der Träger ihm die vertraglichen Unterhaltsleistungen für die Dauer der Verhinderung, jedoch längstens bis zum Ende der sechsten Woche weiterzugewähren; dies gilt auch, wenn während dieser Zeit das Dienstverhältnis des Entwicklungshelfers aufgelöst wird.
 
-(2) Im Falle der Schwangerschaft einer Entwicklungshelferin hat der Träger die vertraglichen Unterhaltsleistungen für die Dauer der Schutzfristen nach § 3 Abs. 2 und § 6 Abs. 1 des Mutterschutzgesetzes weiterzugewähren, und zwar auch dann, wenn das Dienstverhältnis während der Schutzfristen endet.
+(2) Im Falle der Schwangerschaft einer Entwicklungshelferin hat der Träger die vertraglichen Unterhaltsleistungen für die Zeit der Beschäftigungsverbote nach den §§ 3 bis 6, 10 Absatz 3, § 13 Absatz 1 Nummer 3 und § 16 des Mutterschutzgesetzes weiterzugewähren, und zwar auch dann, wenn das Dienstverhältnis während der Schutzfristen nach § 3 des Mutterschutzgesetzes endet.
 
 ### § 9 Tagegeld bei Arbeitsunfähigkeit
 
@@ -152,18 +154,18 @@ Wird das Dienstverhältnis des Entwicklungshelfers während der Arbeitsunfähigk
 
 (3) Der Anspruch auf Tagegeld endet mit dem Tag, von dem an
 
-a)  
+1.  
 Rente wegen voller Erwerbsminderung, Erwerbsunfähigkeit oder Altersrente aus der gesetzlichen Rentenversicherung oder
 
-b)  
+2.  
 eine entsprechende Leistung aus einer nach Artikel 2 § 1 des Angestelltenversicherungs-Neuregelungsgesetzes in der Fassung des Finanzänderungsgesetzes 1967 vom 21. Dezember 1967 (BGBl. I S. 1259) von der Versicherungspflicht befreienden Lebensversicherung, an der sich der Arbeitgeber mit Beitragszuschüssen beteiligt hat, oder
 
-c)  
+3.  
 eine entsprechende Leistung aus einer Versicherungs- oder Versorgungseinrichtung im Sinne der Vorschrift über die Versicherungsbefreiung in der gesetzlichen Rentenversicherung zugebilligt wird.
 
-Ist über diesen Zeitraum hinaus Tagegeld gezahlt worden, so geht der Anspruch auf die unter den Buchstaben a bis c bezeichneten Leistungen bis zur Höhe des für denselben Zeitraum gezahlten Tagegeldes auf den Bund über. Übersteigt das Tagegeld die genannten Leistungen, so kann der überschießende Betrag nicht zurückgefordert werden.
+Ist über diesen Zeitraum hinaus Tagegeld gezahlt worden, so geht der Anspruch auf die in Satz 1 bezeichneten Leistungen bis zur Höhe des für denselben Zeitraum gezahlten Tagegeldes auf den Bund über. Übersteigt das Tagegeld die genannten Leistungen, so kann der überschießende Betrag nicht zurückgefordert werden.
 
-(4) Wird dem Anspruchsberechtigten während des Tagegeldbezugs Rente wegen teilweiser Erwerbsminderung oder Berufsunfähigkeit aus der gesetzlichen Rentenversicherung zugebilligt, so wird das Tagegeld um den Betrag der für denselben Zeitraum gewährten Rente gekürzt. Insoweit geht bei rückwirkender Gewährung der Rente aus der gesetzlichen Rentenversicherung der Rentenanspruch auf den Bund über. Entsprechendes gilt für Leistungen nach Absatz 3 Buchstaben b und c, wenn sie wegen teilweiser Erwerbsminderung oder Berufsunfähigkeit gewährt werden.
+(4) Wird dem Anspruchsberechtigten während des Tagegeldbezugs Rente wegen teilweiser Erwerbsminderung oder Berufsunfähigkeit aus der gesetzlichen Rentenversicherung zugebilligt, so wird das Tagegeld um den Betrag der für denselben Zeitraum gewährten Rente gekürzt. Insoweit geht bei rückwirkender Gewährung der Rente aus der gesetzlichen Rentenversicherung der Rentenanspruch auf den Bund über. Entsprechendes gilt für Leistungen nach Absatz 3 Satz 1 Nummer 2 und 3, wenn sie wegen teilweiser Erwerbsminderung oder Berufsunfähigkeit gewährt werden.
 
 (5) Der Anspruch auf Tagegeld entfällt, solange von einem Träger der Rentenversicherung Übergangsgeld gewährt wird. Absatz 3 Satz 2 und 3 gilt entsprechend.
 
@@ -209,7 +211,7 @@ Wer nach Beendigung des Entwicklungsdienstes einen neuen Arbeitsplatz sucht, sol
 
 (1) Die vom Bund nach § 7 Abs. 3, §§ 9, 10 dieses Gesetzes zu erbringenden Leistungen werden auf Antrag festgestellt.
 
-(2) Die Durchführung der Aufgaben nach § 7 Abs. 3, §§ 9, 10, 15 dieses Gesetzes obliegt der Unfallkasse des Bundes.
+(2) Die Durchführung der Aufgaben nach § 7 Abs. 3, §§ 9, 10, 15 dieses Gesetzes obliegt der Unfallversicherung Bund und Bahn.
 
 (3) (weggefallen)
 
@@ -249,47 +251,18 @@ IV. Übergangs- und Schlußvorschriften
 
 Hat jemand im Dienst eines Trägers des Entwicklungsdienstes vor dessen Anerkennung einen Schaden erlitten, der einen Anspruch auf Leistungen nach § 7 Abs. 3, §§ 8, 9, 10 oder 15 dieses Gesetzes begründen würde, so werden diese Leistungen mit Wirkung vom Tag der Anerkennung des Trägers des Entwicklungsdienstes an gewährt. Als Schaden im Sinne des § 10 gelten auch Arbeitslosigkeit sowie die Folgen eines Unfalles oder einer Krankheit, die jemand vor Anerkennung eines Trägers des Entwicklungsdienstes bei einer Tätigkeit, welche der eines Entwicklungshelfers entspricht, erlitten hat, wenn der Unfall oder die Krankheit nicht ein Arbeitsunfall oder eine Berufskrankheit ist. Angerechnet werden die Leistungen, die der Berechtigte wegen des Schadens vom Träger des Entwicklungsdienstes oder aus Privatversicherungsverträgen erhalten hat oder erhält, die vom Träger des Entwicklungsdienstes oder einer Stelle im Entwicklungsland für ihn abgeschlossen worden sind, ehe der Träger nach § 2 dieses Gesetzes anerkannt wurde.
 
-### § 23a Übergangsvorschrift zu § 13
-
-(1) Ist der Anspruch auf Arbeitslosenbeihilfe vor dem 1. Januar 1985 entstanden, ist § 13 Abs. 2 Nr. 2 in der bis zum 31. Dezember 1984 geltenden Fassung anzuwenden.
-
-(2) Ist in der Zeit vom 29. bis zum 31. Dezember 1984 ein Anspruch auf Arbeitslosenbeihilfe mit einer Anspruchsdauer von 312 Tagen noch nicht erschöpft, so erhöht sich diese Anspruchsdauer auf 468 Tage, wenn der Arbeitslose bei Entstehung des Anspruches das 49. Lebensjahr vollendet hatte.
+### § 23a (weggefallen)
 
 ### § 23b Übergangsvorschrift zu § 13
 
-(1) Zeiten des Entwicklungsdienstes einschließlich des Vorbereitungsdienstes, die vor der Entstehung eines Anspruchs auf Arbeitslosenbeihilfe liegen, werden für einen Anspruch auf Arbeitslosengeld nach dem Dritten Buch Sozialgesetzbuch nicht berücksichtigt.
-
-(2) Die §§ 13, 14, 15 Abs. 1, § 16 Abs. 3 und die §§ 19 und 23 in der bis zum 30. Juni 1987 geltenden Fassung sind auf Ansprüche auf Arbeitslosenbeihilfe, die vor dem 1. Juli 1987 entstanden sind, weiter anzuwenden.
+Zeiten des Entwicklungsdienstes einschließlich des Vorbereitungsdienstes, die vor der Entstehung eines Anspruchs auf Arbeitslosenbeihilfe liegen, werden für einen Anspruch auf Arbeitslosengeld nach dem Dritten Buch Sozialgesetzbuch nicht berücksichtigt.
 
 ### § 23c Übergangsvorschrift zu § 10
 
 Bestand am 31. Dezember 1991 Anspruch auf Leistungen nach § 10 Abs. 1 und 2, ist § 312 des Sechsten Buches Sozialgesetzbuch auch dann entsprechend anzuwenden, wenn die Gesundheitsstörung oder der Tod nach dem 31. Dezember 1978 eingetreten ist.
 
-### § 24 Geltung in Berlin
-
-Dieses Gesetz gilt mit Ausnahme des § 22 nach Maßgabe des § 12 und des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
+### § 24 (weggefallen)
 
 ### § 25 Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVII Abschnitt III (BGBl. II 1990, 889, 1137) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
-Entwicklungshelfer-Gesetz vom 18. Juni 1969 (BGBl. I S. 549), zuletzt geändert durch Artikel 75 des Gesetzes vom 18. Dezember 1989 (BGBl. I S. 2261),
-mit folgenden Maßgaben:
-
-a)  
-Soweit in § 8 Abs. 2 auf § 3 Abs. 2 und § 6 Abs. 1 des Mutterschutzgesetzes Bezug genommen wird, gilt bis zu dessen Überleitung am 1. Januar 1991 für Geburten vor dem 1. Januar 1991 § 244 Abs. 1 bis 3 des Arbeitsgesetzbuches vom 16. Juni 1977 (GBl. I Nr. 18 S. 185), zuletzt geändert durch Gesetz vom 22. Juni 1990 (GBl. I Nr. 35 S. 371) \*).
-
-b)  
-Soweit in den §§ 9 bis 11 auf Rechtsvorschriften des Rentenversicherungsrechts Bezug genommen wird, sind bis zum 31. Dezember 1991 die für die Renten- und Unfallversicherung geltenden Rechtsvorschriften in Anlage II Kapitel VIII Sachgebiet F Abschnitt III heranzuziehen.
-
-c)  
-Als Beitragssatz und Beitragsbemessungsgrenze nach § 7 Abs. 2 Satz 1 letzter Teilsatz sind bis zum 31. Dezember 1990 die für die gesetzliche Krankenversicherung in dem in Artikel 3 des Vertrages genannten Gebiet geltenden Werte zugrunde zu legen.
-
------
-
-\*)  
-siehe Anlage II Kapitel X Sachgebiet A Abschnitt III Nr. 1
