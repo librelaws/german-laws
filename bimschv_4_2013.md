@@ -1,8 +1,8 @@
 Vierte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (4. BImSchV)
 ===================================================================================
 
-Stand  
-Geändert durch Art. 3 V v. 28.4.2015 I 670
+Neuf  
+Neugefasst durch Bek. v. 31.5.2017 I 1440
 
 ### 
 
@@ -88,7 +88,7 @@ Anlagen nach Artikel 10 in Verbindung mit Anhang I der Richtlinie 2010/75/EU des
 
 ### Anhang 1
 
-(Fundstelle: BGBl. I 2013, 975 - 996)
+(Fundstelle: BGBl. I 2017, 1443 — 1465)
 
 **Rohstoffbegriff in Nummer 7**
 
@@ -102,7 +102,7 @@ Der in den Anlagenbeschreibungen unter den Nummern 8.2 bis 8.15 verwendete Begri
 
 Wird in Anlagenbeschreibungen unter Nummer 7 auf diese Mischungsregel Bezug genommen, errechnet sich die Produktionskapazität **P** beim Einsatz tierischer und pflanzlicher Rohstoffe wie folgt:
 
-<img src="bgbl1_2013_j0973-1_0010.jpg" width="135" height="25" />
+<img src="bgbl1_2017_j1440-1_0010.jpg" width="138" height="25" />
 
 wobei **A** den gewichtsprozentualen Anteil der tierischen Rohstoffe an den insgesamt eingesetzten Rohstoffen darstellt.
 
@@ -165,7 +165,7 @@ Anlagen zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder erhitztem
 
 1.2.1
 
-Kohle, Koks einschließlich Petrolkoks, Kohlebriketts, Torfbriketts, Brenntorf, naturbelassenem Holz, emulgiertem Naturbitumen, Heizölen, ausgenommen Heizöl EL, mit einer Feuerungswärmeleistung von 1 Megawatt bis weniger als 50 Megawatt,
+Kohle, Koks einschließlich Petrolkoks, Kohlebriketts, Torfbriketts, Brenntorf, naturbelassenem Holz sowie in der eigenen Produktionsanlage anfallendem gestrichenem, lackiertem oder beschichtetem Holz oder Sperrholz, Spanplatten, Faserplatten oder sonst verleimtem Holz sowie daraus anfallenden Resten, soweit keine Holzschutzmittel aufgetragen oder infolge einer Behandlung enthalten sind und Beschichtungen keine halogenorganischen Verbindungen oder Schwermetalle enthalten, emulgiertem Naturbitumen, Heizölen, ausgenommen Heizöl EL, mit einer Feuerungswärmeleistung von 1 Megawatt bis weniger als 50 Megawatt,
 
 **V**
 
@@ -637,23 +637,23 @@ Anlagen zum Schmelzen, zum Legieren oder zur Raffination von Nichteisenmetallen 
 Vakuum-Schmelzanlagen,
 
 2.  
-Schmelzanlagen für Gusslegierungen aus Zinn und Wismut oder aus
-Feinzink und Aluminium in Verbindung mit Kupfer oder Magnesium,
+Schmelzanlagen für Gusslegierungen aus Zinn und Wismut oder aus Feinzink und Aluminium in Verbindung mit Kupfer oder Magnesium,
 
 3.  
-Schmelzanlagen, die Bestandteil von Druck- oder Kokillengießmaschinen sind oder die ausschließlich im Zusammenhang mit einzelnen Druck- oder Kokillengießmaschinen gießfertige Nichteisenmetalle oder gießfertige Legierungen niederschmelzen,
+Schmelzanlagen, die Bestandteil von Druck- oder Kokillengießmaschinen sind oder die ausschließlich im Zusammenhang mit einzelnen Druck-
+oder Kokillengießmaschinen gießfertige Nichteisenmetalle oder
+gießfertige Legierungen niederschmelzen,
 
 4.  
-Schmelzanlagen für Edelmetalle oder für Legierungen, die nur aus
-Edelmetallen oder aus Edelmetallen und Kupfer bestehen,
-
-**V**
+Schmelzanlagen für Edelmetalle oder für Legierungen, die nur aus Edelmetallen oder aus Edelmetallen und Kupfer bestehen,
 
 5.  
 Schwalllötbäder und
 
 6.  
 Heißluftverzinnungsanlagen;
+
+**V**
 
 **3.5**
 
@@ -743,6 +743,7 @@ Gießereien, in denen in metallische Formen abgegossen wird, und
 
 3.  
 Gießereien, in denen das Material in ortsbeweglichen Tiegeln
+
 niedergeschmolzen wird;
 
 **V**
@@ -777,7 +778,19 @@ mit Hilfe von schmelzflüssigen Bädern auf Metalloberflächen mit einer Verarbe
 
 3.9.2
 
-durch Flamm-, Plasma- oder Lichtbogenspritzen auf Metall- oder Kunststoffoberflächen mit einem Durchsatz an Blei, Zinn, Zink, Nickel, Kobalt oder ihren Legierungen von 2 Kilogramm oder mehr je Stunde;
+durch Flamm-, Plasma- oder Lichtbogenspritzen
+
+3.9.2.1
+
+auf Metalloberflächen mit einer Verarbeitungskapazität von 2 Tonnen oder mehr Rohstahl je Stunde,
+
+**G**
+
+**E**
+
+3.9.2.2
+
+auf Metall- oder Kunststoffoberflächen mit einem Durchsatz an Blei, Zinn, Zink, Nickel, Kobalt oder ihren Legierungen von 2 Kilogramm oder mehr je Stunde;
 
 **V**
 
@@ -907,8 +920,7 @@ Anlagen zur Herstellung von Metallpulvern oder -pasten, insbesondere Aluminium-,
 
 **3.24**
 
-Anlagen für den Bau und die Montage von Kraftfahrzeugen oder Anlagen
-für den Bau von Kraftfahrzeugmotoren mit einer Kapazität von jeweils 100 000 Stück oder mehr je Jahr;
+Anlagen für den Bau und die Montage von Kraftfahrzeugen oder Anlagen für den Bau von Kraftfahrzeugmotoren mit einer Kapazität von jeweils 100 000 Stück oder mehr je Jahr;
 
 **G**
 
@@ -1074,7 +1086,7 @@ phosphor-, stickstoff- oder kaliumhaltigen Düngemitteln (Einnährstoff- oder Me
 
 4.1.18
 
-Pflanzenschutzmittel, Schädlingsbekämpfungsmittel oder Biozide,
+Pflanzenschutzmittel oder Biozide,
 
 **G**
 
@@ -1113,8 +1125,7 @@ organischen Grundchemikalien,
 anorganischen Grundchemikalien,
 
 –  
-phosphor-, stickstoff- oder kaliumhaltigen Düngemitteln
-(Einnährstoff oder Mehrnährstoff),
+phosphor-, stickstoff- oder kaliumhaltigen Düngemitteln (Einnährstoff oder Mehrnährstoff),
 
 –  
 Ausgangsstoffen für Pflanzenschutzmittel und Bioziden,
@@ -1134,7 +1145,7 @@ im Verbund, bei denen sich mehrere Einheiten nebeneinander befinden und in funkt
 
 **4.2**
 
-Anlagen, in denen Pflanzenschutzmittel, Schädlingsbekämpfungsmittel, Biozide oder ihre Wirkstoffe gemahlen oder maschinell gemischt, abgepackt oder umgefüllt werden, soweit diese Stoffe in einer Menge von 5 Tonnen je Tag oder mehr gehandhabt werden;
+Anlagen, in denen Pflanzenschutzmittel, Biozide oder ihre Wirkstoffe gemahlen oder maschinell gemischt, abgepackt oder umgefüllt werden, soweit diese Stoffe in einer Menge von 5 Tonnen je Tag oder mehr gehandhabt werden;
 
 **V**
 
@@ -1222,8 +1233,7 @@ Anlagen zum Erschmelzen von Naturharzen oder Kunstharzen mit einer Kapazität vo
 
 **4.10**
 
-Anlagen zur Herstellung von Anstrich- oder Beschichtungsstoffen
-(Lasuren, Firnis, Lacke, Dispersionsfarben) oder Druckfarben unter Einsatz von 25 Tonnen oder mehr je Tag an flüchtigen organischen Verbindungen, die bei einer Temperatur von 293,15 Kelvin einen Dampfdruck von mindestens 0,01 Kilopascal haben;
+Anlagen zur Herstellung von Anstrich- oder Beschichtungsstoffen (Lasuren, Firnis, Lacke, Dispersionsfarben) oder Druckfarben unter Einsatz von 25 Tonnen oder mehr je Tag an flüchtigen organischen Verbindungen, die bei einer Temperatur von 293,15 Kelvin einen Dampfdruck von mindestens 0,01 Kilopascal haben;
 
 **G**
 
@@ -1535,8 +1545,7 @@ Sauen einschließlich dazugehörender Ferkelaufzuchtplätze (Ferkel bis weniger 
 
 7.1.9
 
-Ferkeln für die getrennte Aufzucht (Ferkel von 10 Kilogramm bis weniger als
-30 Kilogramm Lebendgewicht) mit
+Ferkeln für die getrennte Aufzucht (Ferkel von 10 Kilogramm bis weniger als 30 Kilogramm Lebendgewicht) mit
 
 7.1.9.1
 
@@ -1620,7 +1629,7 @@ Anlagen
 
 7.3.1
 
-zur Erzeugung von Speisefetten aus tierischen Rohstoffen, ausgenommen von Milch, mit einer Produktionskapazität von
+zur Erzeugung von Speisefetten aus tierischen Rohstoffen, ausgenommen bei Verarbeitung von ausschließlich Milch, mit einer Produktionskapazität von
 
 7.3.1.1
 
@@ -1656,11 +1665,11 @@ weniger als 75 Tonnen Fertigerzeugnissen je Tag, ausgenommen Anlagen zur Verarbe
 
 **7.4**
 
-Anlagen zur Herstellung von Nahrungs- oder Futtermittelkonserven mit einer Produktionskapazität von
+Anlagen zur Herstellung von Nahrungs- oder Futtermittelkonserven aus
 
 7.4.1
 
-tierischen Rohstoffen, ausgenommen Milch, allein oder mit pflanzlichen Rohstoffen,
+tierischen Rohstoffen, allein, ausgenommen bei Verarbeitung von ausschließlich Milch, oder mit pflanzlichen Rohstoffen, mit einer Produktionskapazität von
 
 7.4.1.1
 
@@ -1672,7 +1681,7 @@ tierischen Rohstoffen, ausgenommen Milch, allein oder mit pflanzlichen Rohstoffe
 
 7.4.1.2
 
-1 Tonne bis weniger als **P** Tonnen Konserven je Tag gemäß Mischungsregel, ausgenommen Anlagen zum Sterilisieren oder Pasteurisieren dieser Nahrungsmittel in geschlossenen Behältnissen,
+1 Tonne bis weniger als **P** Tonnen Konserven je Tag gemäß Mischungsregel, ausgenommen Anlagen zum Sterilisieren oder Pasteurisieren von Nahrungs- oder Futtermitteln in geschlossenen Behältnissen,
 
 **V**
 
@@ -1714,7 +1723,7 @@ weniger als 75 Tonnen geräucherten Waren je Tag, ausgenommen
 Anlagen in Gaststätten oder
 
 2.  
-Räuchereien mit einer Räucherkapazität von weniger als 1 Tonne Fleisch- oder Fischwaren je Woche;
+Räuchereien mit einer Produktionskapazität von weniger als 1 Tonne Fleisch- oder Fischwaren je Woche;
 
 **V**
 
@@ -1803,13 +1812,13 @@ Beseitigung oder Verwertung von Tierkörpern oder tierischen Abfällen mit einer
 
 7.12.1.3
 
-weniger als 50 Kilogramm je Stunde,
+weniger als 50 Kilogramm je Stunde und weniger als 50 Kilogramm je Charge,
 
 **V**
 
 7.12.2
 
-Sammlung oder Lagerung von Tierkörpern, Tierkörperteilen oder Abfällen tierischer Herkunft zum Einsatz in Anlagen nach Nummer 7.12.1, ausgenommen Anlagen mit einem gekühlten Lagervolumen von weniger als 2 Kubikmetern;
+Sammlung oder Lagerung von Tierkörpern, Tierkörperteilen oder Abfällen tierischer Herkunft zum Einsatz in Anlagen nach Nummer 7.12.1, ausgenommen die Aufbewahrung gemäß § 10 des Tierische Nebenprodukte-Beseitigungsgesetzes vom 25. Januar 2004 (BGBl. I S. 82), das zuletzt durch Artikel 1 des Gesetzes vom 4. August 2016 (BGBl. I S. 1966) geändert worden ist, und Anlagen mit einem gekühlten Lagervolumen von weniger als 2 Kubikmetern;
 
 **G**
 
@@ -1845,29 +1854,67 @@ Kottrocknungsanlagen;
 
 **7.16**
 
-Anlagen zur Herstellung von Fischmehl oder Fischöl;
+Anlagen zur Herstellung von Fischmehl oder Fischöl mit einer Produktionskapazität von
+
+7.16.1
+
+75 Tonnen oder mehr je Tag,
+
+**G**
+
+**E**
+
+7.16.2
+
+weniger als 75 Tonnen je Tag;
 
 **G**
 
 **7.17**
 
-Anlagen
+Anlagen zur Aufbereitung, Verarbeitung, Lagerung oder zum Umschlag von Fischmehl oder Fischöl
 
 7.17.1
 
-zur Aufbereitung oder ungefassten Lagerung von Fischmehl,
+mit einer Aufbereitungs- oder Verarbeitungskapazität von 75 Tonnen oder mehr je Tag,
 
 **G**
 
+**E**
+
 7.17.2
 
-zum Umschlag oder zur Verarbeitung von ungefasstem Fischmehl, soweit 200 Tonnen oder mehr je Tag bewegt oder verarbeitet werden können;
+mit einer Aufbereitungs- oder Verarbeitungskapazität von weniger als 75 Tonnen je Tag,
+
+**V**
+
+7.17.3
+
+in denen Fischmehl ungefasst gelagert wird,
+
+**V**
+
+7.17.4
+
+mit einer Umschlagkapazität für ungefasstes Fischmehl von 200 Tonnen oder mehr je Tag;
 
 **V**
 
 **7.18**
 
-Anlagen zum Brennen von Melasse;
+Anlagen zum Brennen von Melasse, soweit nicht von Nummer 4.1.2 erfasst, mit einer Produktionskapazität von
+
+7.18.1
+
+300 Tonnen oder mehr je Tag oder 600 Tonnen oder mehr je Tag, sofern die Anlage an nicht mehr als 90 aufeinanderfolgenden Tagen im Jahr in Betrieb ist,
+
+**G**
+
+**E**
+
+7.18.2
+
+weniger als 300 Tonnen je Tag oder weniger als 600 Tonnen je Tag, sofern die Anlage an nicht mehr als 90 aufeinanderfolgenden Tagen im Jahr in Betrieb ist;
 
 **V**
 
@@ -1971,13 +2018,37 @@ weniger als 300 Tonnen Fertigerzeugnissen oder weniger als 600 Tonnen Fertigerze
 
 **7.25**
 
-Anlagen zur Trocknung von Grünfutter, ausgenommen Anlagen zur Trocknung von selbst gewonnenem Grünfutter im landwirtschaftlichen Betrieb;
+Anlagen zur Trocknung von Grünfutter mit einer Produktionskapazität von
+
+7.25.1
+
+300 Tonnen oder mehr je Tag oder 600 Tonnen oder mehr je Tag, sofern die Anlage an nicht mehr als 90 aufeinanderfolgenden Tagen im Jahr in Betrieb ist,
+
+**G**
+
+**E**
+
+7.25.2
+
+weniger als 300 Tonnen je Tag oder weniger als 600 Tonnen je Tag, sofern die Anlage an nicht mehr als 90 aufeinanderfolgenden Tagen im Jahr in Betrieb ist, ausgenommen Anlagen zur Trocknung von selbst gewonnenem Grünfutter im landwirtschaftlichen Betrieb;
 
 **V**
 
 **7.26**
 
-Anlagen zur Trocknung von Biertreber;
+Anlagen zur Trocknung von Biertreber mit einer Produktionskapazität von
+
+7.26.1
+
+300 Tonnen oder mehr je Tag oder 600 Tonnen oder mehr je Tag, sofern die Anlage an nicht mehr als 90 aufeinanderfolgenden Tagen im Jahr in Betrieb ist,
+
+**G**
+
+**E**
+
+7.26.2
+
+weniger als 300 Tonnen je Tag oder weniger als 600 Tonnen je Tag, sofern die Anlage an nicht mehr als 90 aufeinanderfolgenden Tagen im Jahr in Betrieb ist;
 
 **V**
 
@@ -1995,7 +2066,7 @@ Brauereien mit einer Produktionskapazität von
 
 7.27.2
 
-200 Hektoliter Bier je Tag als Vierteljahresdurchschnitt bis weniger als 3 000 Hektoliter Bier je Tag oder weniger als 6 000 Hektoliter Bier je Tag, sofern die Anlage an nicht mehr als 90 aufeinander folgenden Tagen im Jahr in Betrieb ist;
+200 Hektoliter Bier oder mehr je Tag als Vierteljahresdurchschnittswert, soweit nicht durch Nummer 7.27.1 erfasst;
 
 **V**
 
@@ -2005,7 +2076,7 @@ Anlagen zur Herstellung von Speisewürzen aus
 
 7.28.1
 
-tierischen Rohstoffen, ausgenommen Milch, allein oder mit pflanzlichen Rohstoffen mit einer Produktionskapazität von
+tierischen Rohstoffen, allein, ausgenommen bei Verarbeitung von ausschließlich Milch, oder mit pflanzlichen Rohstoffen mit einer Produktionskapazität von
 
 7.28.1.1
 
@@ -2085,7 +2156,7 @@ Süßwaren oder Sirup mit einer Produktionskapazität von
 
 7.31.1.1
 
-**P** Tonnen oder mehr je Tag gemäß Mischungsregel bei der Verwendung von tierischen Rohstoffen, ausgenommen Milch, allein oder mit pflanzlichen Rohstoffen,
+**P** Tonnen oder mehr je Tag gemäß Mischungsregel bei der Verwendung von tierischen Rohstoffen, allein, ausgenommen bei Verarbeitung von ausschließlich Milch, oder mit pflanzlichen Rohstoffen,
 
 **G**
 
@@ -2105,7 +2176,7 @@ Kakaomasse aus Rohkakao oder thermischen Veredelung von Kakao oder Schokoladenma
 
 7.31.2.1
 
-50 Kilogramm bis weniger als **P** Tonnen je Tag gemäß Mischungsregel bei der Verwendung tierischer Rohstoffe, ausgenommen Milch, allein oder mit pflanzlichen Rohstoffen,
+50 Kilogramm bis weniger als **P** Tonnen je Tag gemäß Mischungsregel bei der Verwendung tierischer Rohstoffe, allein, ausgenommen bei Verarbeitung von ausschließlich Milch, oder mit pflanzlichen Rohstoffen,
 
 **V**
 
@@ -2121,7 +2192,7 @@ Lakritz mit einer Produktionskapazität von
 
 7.31.3.1
 
-50 Kilogramm bis weniger als **P** Tonnen je Tag gemäß Mischungsregel bei der Verwendung tierischer Rohstoffe, ausgenommen Milch, allein oder mit pflanzlichen Rohstoffen,
+50 Kilogramm bis weniger als **P** Tonnen je Tag gemäß Mischungsregel bei der Verwendung tierischer Rohstoffe, allein, ausgenommen bei Verarbeitung von ausschließlich Milch, oder mit pflanzlichen Rohstoffen,
 
 **V**
 
@@ -2133,11 +2204,11 @@ weniger als 300 Tonnen je Tag bei der Verwendung ausschließlich pflanzlicher Ro
 
 **7.32**
 
-Anlagen zur Behandlung oder Verarbeitung von Milch, Milcherzeugnissen oder Milchbestandteilen mit einer Kapazität der Einsatzstoffe als Jahresdurchschnittswert von
+Anlagen zur Behandlung oder Verarbeitung von
 
 7.32.1
 
-200 Tonnen oder mehr Milch je Tag,
+ausschließlich Milch mit einer Kapazität der eingehenden Milchmenge als Jahresdurchschnittswert von 200 Tonnen oder mehr Milch je Tag,
 
 **G**
 
@@ -2145,7 +2216,13 @@ Anlagen zur Behandlung oder Verarbeitung von Milch, Milcherzeugnissen oder Milch
 
 7.32.2
 
-5 Tonnen bis weniger als 200 Tonnen Milch, Milcherzeugnissen oder Milchbestandteilen je Tag bei Sprühtrocknern;
+ausschließlich Milch in Sprühtrocknern mit einer Kapazität der eingehenden Milchmenge als Jahresdurchschnittswert von 5 Tonnen bis weniger als 200 Tonnen je Tag,
+
+**V**
+
+7.32.3
+
+Milcherzeugnissen oder Milchbestandteilen in Sprühtrocknern mit einer Produktionskapazität von 5 Tonnen oder mehr je Tag, soweit nicht von Nummer 7.34.1 erfasst;
 
 **V**
 
@@ -2159,7 +2236,7 @@ Anlagen zur Herstellung von sonstigen Nahrungs- oder Futtermittelerzeugnissen au
 
 7.34.1
 
-tierischen Rohstoffen, ausgenommen Milch, allein oder mit pflanzlichen Rohstoffen mit einer Produktionskapazität von **P** Tonnen Fertigerzeugnissen oder mehr je Tag gemäß Mischungsregel,
+tierischen Rohstoffen, allein, ausgenommen bei Verarbeitung von ausschließlich Milch, oder mit pflanzlichen Rohstoffen mit einer Produktionskapazität von **P** Tonnen Fertigerzeugnissen oder mehr je Tag gemäß Mischungsregel,
 
 **G**
 
@@ -2213,7 +2290,13 @@ weniger als 10 Tonnen gefährlichen Abfällen je Tag,
 
 8.1.1.4
 
-weniger als 3 Tonnen nicht gefährlichen Abfällen je Stunde, soweit die Feuerungswärmeleistung 1 Megawatt oder mehr beträgt,
+weniger als 3 Tonnen nicht gefährlichen Abfällen je Stunde, ausgenommen die Verbrennung von Altholz der Altholzkategorie A I und A II nach der Altholzverordnung vom 15. August 2002 (BGBl. I S. 3302), die zuletzt durch Artikel 6 der Verordnung vom 2. Dezember 2016 (BGBl. I S. 2770) geändert worden ist,
+
+**V**
+
+8.1.1.5
+
+weniger als 3 Tonnen nicht gefährlichen Abfällen je Stunde, soweit ausschließlich Altholz der Altholzkategorie A I und A II nach der Altholzverordnung verbrannt wird und die Feuerungswärmeleistung 1 Megawatt oder mehr beträgt,
 
 **V**
 
@@ -2243,21 +2326,7 @@ Abfackeln von Deponiegas oder anderen gasförmigen Stoffen, ausgenommen über No
 
 **8.2**
 
-Anlagen zur Erzeugung von Strom, Dampf, Warmwasser, Prozesswärme oder erhitztem Abgas in einer Verbrennungseinrichtung (wie Kraftwerk, Heizkraftwerk, Heizwerk, sonstige Feuerungsanlage), einschließlich zugehöriger Dampfkessel, durch den Einsatz von gestrichenem, lackiertem oder beschichtetem Holz oder Sperrholz, Spanplatten, Faserplatten oder sonst verleimtem Holz sowie daraus anfallenden Resten, soweit keine Holzschutzmittel aufgetragen oder infolge einer Behandlung enthalten sind oder Beschichtungen keine halogenorganischen Verbindungen oder Schwermetalle enthalten, mit einer Feuerungswärmeleistung von
-
-8.2.1
-
-50 Megawatt oder mehr,
-
-**G**
-
-**E**
-
-8.2.2
-
-1 Megawatt bis weniger als 50 Megawatt;
-
-**V**
+(nicht besetzt)
 
 **8.3**
 
@@ -2635,7 +2704,7 @@ einer Gesamtlagerfläche von 1 000 bis weniger als 15 000 Quadratmetern oder e
 
 **8.13**
 
-Anlagen zur zeitweiligen Lagerung von nicht gefährlichen Abfällen, soweit es sich um Gülle oder Gärreste handelt, mit einem Fassungsvermögen von 6 500 Kubikmetern oder mehr;
+Anlagen zur zeitweiligen Lagerung von nicht gefährlichen Abfällen, soweit es sich um Gülle oder Gärreste handelt, mit einer Lagerkapazität von 6 500 Kubikmetern oder mehr;
 
 **V**
 
@@ -2719,7 +2788,7 @@ Anlagen zum Umschlagen von Abfällen, ausgenommen Anlagen zum Umschlagen von Erd
 
 **9.1**
 
-Anlagen, die der Lagerung von Stoffen oder Gemischen, die bei einer Temperatur von 293,15 Kelvin einen absoluten Dampfdruck von mindestens 101,3 Kilopascal und einen Explosionsbereich mit Luft haben (brennbare Gase), in Behältern oder von Erzeugnissen, die diese Stoffe oder Gemische z. B. als Treibmittel oder Brenngas enthalten, dienen, ausgenommen Erdgasröhrenspeicher und Anlagen, die von Nummer 9.3 erfasst werden,
+Anlagen, die der Lagerung von Stoffen oder Gemischen, die bei einer Temperatur von 293,15 Kelvin und einem Standarddruck von 101,3 Kilopascal vollständig gasförmig vorliegen und dabei einen Explosionsbereich in Luft haben (entzündbare Gase), in Behältern oder von Erzeugnissen, die diese Stoffe oder Gemische z. B. als Treibmittel oder Brenngas enthalten, dienen, ausgenommen Erdgasröhrenspeicher und Anlagen, die von Nummer 9.3 erfasst werden,
 
 9.1.1
 
@@ -2739,7 +2808,7 @@ soweit es sich nicht ausschließlich um Einzelbehältnisse mit einem Volumen von
 
 9.1.2
 
-soweit es sich ausschließlich um Einzelbehältnisse mit einem Volumen von jeweils nicht mehr als 1 000 Kubikzentimeter handelt, mit einem Fassungsvermögen von 30 Tonnen oder mehr;
+soweit es sich ausschließlich um Einzelbehältnisse mit einem Volumen von jeweils nicht mehr als 1 000 Kubikzentimeter handelt, mit einem Fassungsvermögen entzündbarer Gase von 30 Tonnen oder mehr;
 
 **V**
 
@@ -2821,11 +2890,7 @@ Anlagen, die der Lagerung von Erdöl, petrochemischen oder chemischen Stoffen od
 Anlagen, in denen mit explosionsgefährlichen oder explosionsfähigen Stoffen im Sinne des Sprengstoffgesetzes umgegangen wird zur
 
 1.  
-Herstellung, Bearbeitung oder Verarbeitung dieser Stoffe, zur
-Verwendung als Sprengstoffe, Zündstoffe, Treibstoffe, pyrotechnische
-Sätze oder zur Herstellung derselben, ausgenommen Anlagen im
-handwerklichen Umfang und zur Herstellung von Zündhölzern sowie
-ortsbewegliche Mischladegeräte, oder
+Herstellung, Bearbeitung oder Verarbeitung dieser Stoffe, zur Verwendung als Sprengstoffe, Zündstoffe, Treibstoffe, pyrotechnische Sätze oder zur Herstellung derselben, ausgenommen Anlagen im handwerklichen Umfang und zur Herstellung von Zündhölzern sowie ortsbewegliche Mischladegeräte, oder
 
 2.  
 Wiedergewinnung oder Vernichtung dieser Stoffe;
@@ -2950,8 +3015,7 @@ Verbrennungsmotoren, ausgenommen
 Rollenprüfstände, die in geschlossenen Räumen betrieben werden, und
 
 2.  
-Anlagen, in denen mit Katalysator oder Dieselrußfilter ausgerüstete
-Serienmotoren geprüft werden,
+Anlagen, in denen mit Katalysator oder Dieselrußfilter ausgerüstete Serienmotoren geprüft werden,
 
 mit einer Feuerungswärmeleistung von insgesamt 300 Kilowatt oder mehr,
 
@@ -3023,7 +3087,7 @@ Anlagen zur Begasung, Sterilisation oder Entgasung,
 
 10.22.1
 
-mit einem Rauminhalt der Begasungs- oder Sterilisationskammer oder des zu begasenden Behälters von 1 Kubikmeter oder mehr, soweit sehr giftige oder giftige Stoffe oder Gemische eingesetzt werden,
+mit einem Rauminhalt der Begasungs- oder Sterilisationskammer oder des zu begasenden Behälters von 1 Kubikmeter oder mehr, soweit Stoffe oder Gemische eingesetzt werden, die gemäß der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinie 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1), die zuletzt durch die Verordnung (EU) Nr. 2016/918 (ABl. L 156 vom 14.6.2016, S. 1) geändert worden ist, in die Gefahrenklassen „akute Toxizität“ Kategorien 1, 2 oder 3, „spezifische Zielorgan-Toxizität (einmalige Exposition)“ Kategorie 1 oder „Spezifische Zielorgan-Toxizität (wiederholte Exposition)“ Kategorie 1 einzustufen sind,
 
 **V**
 
@@ -3051,7 +3115,7 @@ Kälteanlagen mit einem Gesamtinhalt an Kältemittel von 3 Tonnen Ammoniak oder 
 
 ### Anhang 2 Stoffliste zu Nr. 9.3 des Anhangs 1
 
-(Fundstelle: BGBl. I 2013, 997)
+(Fundstelle: BGBl. I 2017, 1466 — 1467)
 
 Nr.
 
@@ -3135,8 +3199,7 @@ Schwefeltrioxid
 
  8
 
-ammoniumnitrathaltige Zubereitungen der Gruppe B nach Anhang I
-Nummer 5 der Gefahrstoffverordnung
+ammoniumnitrathaltige Zubereitungen der Gruppe B nach Anhang I Nummer 5 der Gefahrstoffverordnung
 
 100
 
@@ -3304,7 +3367,7 @@ Toluylendiisocyanat (TDI)
 
 29
 
-sehr giftige Stoffe oder Gemische
+Stoffe oder Gemische, die gemäß der Verordnung (EG) Nr. 1272/2008 in die Gefahrenklasse „akute Toxizität“ Kategorien 1 oder 2 einzustufen sind
 
 2
 
@@ -3312,7 +3375,64 @@ sehr giftige Stoffe oder Gemische
 
 30
 
-sehr giftige, giftige, brandfördernde oder explosionsgefährliche Stoffe oder Gemische
+1.  
+Stoffe oder Gemische, die gemäß der Verordnung (EG) Nr. 1272/2008 in die Gefahrenklassen
+
+–  
+„akute Toxizität“ Kategorien 1, 2 oder 3,
+
+–  
+„spezifische Zielorgan-Toxizität (einmalige Exposition)“
+Kategorie 1,
+
+–  
+„spezifische Zielorgan-Toxizität (wiederholte Exposition)“
+Kategorie 1,
+
+–  
+„explosive Stoffe, Gemische und Erzeugnisse mit Explosivstoff“,
+
+–  
+„selbstzersetzliche Stoffe und Gemische“,
+
+–  
+„organische Peroxide“,
+
+–  
+„oxidierende Gase“,
+
+–  
+„oxidierende Flüssigkeiten“ oder
+
+–  
+„oxidierende Feststoffe“
+
+einzustufen sind, ausgenommen Stoffe oder Gemische, die in die Gefahrenklassen
+
+–  
+„explosive Stoffe, Gemische und Erzeugnisse mit Explosivstoff“, Unterklasse 1.6,
+
+–  
+„selbstzersetzliche Stoffe und Gemische“, Typ G, oder
+
+–  
+„organische Peroxide“, Typ G,
+
+einzustufen sind, sowie
+
+2.  
+Stoffe und Gemische mit explosiven Eigenschaften nach Methode A.14 der Verordnung (EG) Nr. 440/2008 der Kommission vom 30. Mai 2008 zur Festlegung von Prüfmethoden gemäß der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH) (ABl. L 142 vom 31.5.2008, S. 1), die zuletzt durch die Verordnung (EU) Nr. 2016/266 (ABl. L 54 vom 1.3.2016, S. 1) geändert worden ist, die nicht einzustufen sind in die Gefahrenklassen
+
+–  
+„explosive Stoffe, Gemische und Erzeugnisse mit Explosivstoff“,
+
+–  
+„selbstzersetzliche Stoffe und Gemische“ oder
+
+–  
+„organische Peroxide“
+
+gemäß der Verordnung (EG) Nr. 1272/2008
 
 10
 
