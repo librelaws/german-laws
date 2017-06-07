@@ -2,7 +2,7 @@ Bundespolizeibeamtengesetz (BPolBG)
 ===================================
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 15.3.2012 I 462
+Zuletzt geändert durch Art. 12 G v. 8.6.2017 I 1570
 
 ### 
 
@@ -64,7 +64,27 @@ die Laufbahn des gehobenen Polizeivollzugsdienstes,
 c)  
 die Laufbahn des höheren Polizeivollzugsdienstes.
 
-(2) Die Bundesregierung wird ermächtigt, die allgemeinen Vorschriften über die Laufbahnen durch Rechtsverordnung ohne Zustimmung des Bundesrates zu erlassen. Das Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die besonderen Vorschriften für die in Absatz 1 Nr. 1 und 2 genannten Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) zu erlassen.
+(2) Die Bundesregierung wird ermächtigt, die allgemeinen Vorschriften über die Laufbahnen durch Rechtsverordnung ohne Zustimmung des Bundesrates zu erlassen. Insbesondere soll Folgendes geregelt werden:
+
+1.  
+die Gestaltung der Laufbahnen, einschließlich der regelmäßig zu durchlaufenden Ämter,
+
+2.  
+der Erwerb der Laufbahnbefähigung,
+
+3.  
+Altersgrenzen für die Einstellung in einen Vorbereitungsdienst,
+
+4.  
+die Voraussetzungen und das Verfahren für den Aufstieg,
+
+5.  
+die Voraussetzungen für den Laufbahnwechsel,
+
+6.  
+Grundsätze der Fortbildung.
+
+Das Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die besonderen Vorschriften für die in Absatz 1 Nr. 1 und 2 genannten Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) zu erlassen.
 
 ### § 4 Polizeidienstunfähigkeit
 
@@ -230,7 +250,7 @@ Juni–Dezember
 
 10
 
-(3) § 147 Abs. 3 des Bundesbeamtengesetzes gilt entsprechend.
+(3) § 147 Absatz 2 des Bundesbeamtengesetzes gilt entsprechend.
 
 ### § 6
 
