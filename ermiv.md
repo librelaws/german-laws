@@ -2,7 +2,7 @@ Verordnung über das Inverkehrbringen von Saatgut von Erhaltungsmischungen ()
 ============================================================================
 
 Stand  
-Geändert durch Art. 5 V v. 25.10.2012 I 2270
+Zuletzt geändert durch Art. 3 V v. 9.6.2017 I 1614
 
 ### 
 
@@ -113,18 +113,21 @@ eine Genehmigung nach § 3 Absatz 1 erteilt worden ist,
 am Entnahmeort der Erhaltungsmischung mindestens 40 Jahre lang vor Beantragung der Inverkehrbringensgenehmigung nach § 3 Absatz 1 kein Saatgut ausgesät worden ist, es sei denn, es handelt sich um Saatgut einer Erhaltungsmischung, das nach den Maßgaben dieser Verordnung erzeugt worden ist,
 
 3.  
+die Erhaltungsmischung kein Saatgut von Ambrosia artemisiifolia, Avena fatua, Avena sterilis, Bunias orientalis, Heracleum mantegazzianum, Senecio jacobaea, Senecio aquaticus, Senecio alpinus, Senecio inaequidens, Senecio vernalis und von Cuscuta spp., außer von in Deutschland natürlich vorkommenden Cuscuta-Arten und nicht mehr als 0,05 Gewichtsprozent an Saatgut von Rumex spp., außer Rumex acetosa und Rumex acetosella, enthält,
+
+4.  
 eine direkt geerntete Mischung
 
 a)  
 hinsichtlich der prozentualen Zusammensetzung (Gewichtsprozent) und der Keimfähigkeit ihrer einzelnen Bestandteile geeignet ist, die Art des Lebensraumes des Entnahmeortes an einem anderen Ort wiederherzustellen,
 
 b)  
-nicht mehr als 1 Gewichtsprozent an Arten oder Unterarten enthält, die nicht die Anforderungen hinsichtlich der prozentualen Zusammensetzung nach Buchstabe a erfüllen und
+nicht mehr als 1 Gewichtsprozent an Arten oder Unterarten enthält, die nicht die Anforderungen hinsichtlich der prozentualen Zusammensetzung nach Buchstabe a erfüllen,
 
 c)  
-kein Saatgut von Ambrosia artemisiifolia, Avena fatua, Avena sterilis, Bunias orientalis, Heracleum mantegazzianum und von Cuscuta spp., außer von in Deutschland natürlich vorkommenden Cuscuta-Arten und nicht mehr als 0,05 Gewichtsprozent an Saatgut von Rumex spp., außer Rumex acetosa und Rumex acetosella, enthält,
+(weggefallen)
 
-4.  
+5.  
 bei einer angebauten Mischung sichergestellt ist, dass
 
 a)  
@@ -134,23 +137,31 @@ b)
 das Saatgut der Arten, die unter die Richtlinie 66/401/EWG fallen, die Anforderungen an Handelssaatgut nach Anhang II Abschnitt III in Verbindung mit den Spalten 4 bis 15 der Tabelle in Abschnitt I Nummer 2 Buchstabe A des Anhangs II der Richtlinie 66/401/EWG erfüllt,
 
 c)  
-die Vermehrung der jeweiligen Bestandteile der Mischung nicht über mehr als fünf Generationen erfolgt ist.
+die Vermehrung der jeweiligen Bestandteile der Mischung nicht über mehr als fünf Generationen erfolgt ist,
 
-Im Falle des Satzes 1 Nummer 4 Buchstaben c ist die Vermehrung auch dann zulässig, wenn sich eine Vermehrungsfläche unmittelbar an der Grenze zweier benachbarter Produktionsräume befindet und in den benachbarten Produktionsraum hinein erstreckt.
+6.  
+das Bundessortenamt demjenigen, der das Saatgut auf der ersten Handelsstufe in den Verkehr bringt, eine Saatgutmenge nach § 6 zugewiesen hat.
+
+Im Falle des Satzes 1 Nummer 5 Buchstabe c ist die Vermehrung auch dann zulässig, wenn sich eine Vermehrungsfläche unmittelbar an der Grenze zweier benachbarter Produktionsräume befindet und in den benachbarten Produktionsraum hinein erstreckt.
 
 (2) Saatgut von Erhaltungsmischungen oder von deren Komponenten darf darüber hinaus bis zum 1. März 2020 auch in den unmittelbar an das Ursprungsgebiet der jeweiligen Erhaltungsmischung angrenzenden Ursprungsgebieten in den Verkehr gebracht werden, sofern für einzelne Komponenten einer aus diesen angrenzenden Ursprungsgebieten stammenden Erhaltungsmischung Saatgut nicht in ausreichender Menge zur Verfügung steht und Saatgut anderer Arten aus den betroffenen angrenzenden Ursprungsgebieten nicht als Ersatz in Frage kommt.
 
 ### § 5 Überwachung durch Sichtkontrollen und Prüfungen
 
-Die zuständige Behörde überwacht die Einhaltung der Anforderungen nach
+(1) Die zuständige Behörde überwacht die Einhaltung der Anforderungen nach
 
 1.  
-§ 4 Nummer 3 durch Sichtkontrollen am Entnahmeort,
+§ 4 Absatz 1 Satz 1 Nummer 3 durch Sichtkontrollen am Entnahmeort oder durch Untersuchung von Saatgutproben,
 
 2.  
-§ 4 Nummer 4 Buchstabe a und b durch Untersuchung von Saatgutproben, die den zum Inverkehrbringen aufbereiteten Bestandteilen von Saatgutmischungen oder den zum Inverkehrbringen aufbereiteten und verpackten Saatgutmischungen entnommen worden sind.
+§ 4 Absatz 1 Satz 1 Nummer 4 durch Sichtkontrollen am Entnahmeort,
 
-Für die Probenahme gelten die Vorschriften nach Artikel 7 Absatz 2 in Verbindung mit Anlage 3 der Richtlinie 66/401/EWG. Die zuständige Behörde hat die Durchführung der Überwachung aufzuzeichnen.
+3.  
+§ 4 Absatz 1 Satz 1 Nummer 5 Buchstabe a und b durch Untersuchung von Saatgutproben.
+
+(2) Die nach Absatz 1 zu untersuchenden Saatgutproben müssen den zum Inverkehrbringen aufbereiteten Bestandteilen von Saatgutmischungen oder den zum Inverkehrbringen aufbereiteten und verpackten Saatgutmischungen entnommen worden sein. Für die Probenahme gelten die Vorschriften nach Artikel 7 Absatz 2 in Verbindung mit Anlage 3 der Richtlinie 66/401/EWG.
+
+(3) Die zuständige Behörde hat die Durchführung der Überwachung aufzuzeichnen.
 
 ### § 5a Gestattung des Inverkehrbringens
 
@@ -172,7 +183,40 @@ das Unternehmen kein wirtschaftliches Interesse am Ergebnis der Prüfung hat.
 
 (3) Das Zertifizierungsunternehmen hat die fachlichen Kenntnisse und Fähigkeiten des eingesetzten Personals durch geeignete Zeugnisse und Bescheinigungen nachzuweisen. Das Zertifizierungsunternehmen ist verpflichtet, Änderungen hinsichtlich des weiteren Vorliegens der Voraussetzungen nach Absatz 2 unverzüglich der zuständigen Behörde anzuzeigen. Die zuständige Behörde widerruft die Anerkennung, wenn die Voraussetzungen nach Absatz 2 nicht mehr vorliegen. Die zuständige Behörde kann die Anerkennung widerrufen, wenn gegen die Pflichten nach Satz 2 verstoßen wird. Im Übrigen bleiben die verwaltungsverfahrensrechtlichen Bestimmungen über Rücknahme und Widerruf unberührt.
 
-### § 6 Verschließung
+### § 6 Beschränkung des Inverkehrbringens
+
+(1) Das Bundessortenamt setzt die Höchstmenge des in Erhaltungsmischungen in den Verkehr gebrachten Saatgutes von Arten, die unter die Richtlinie 66/401/EWG in der jeweils geltenden Fassung fallen, derart fest, dass die festgesetzte Höchstmenge 5 vom Hundert des Gesamtgewichtes aller Saatgutmischungen, die im Rahmen der Richtlinie 66/401/EWG in der jeweils geltenden Fassung im Inland jährlich in den Verkehr gebracht werden, nicht übersteigt.
+
+(2) Die Anträge auf Zuweisung der Saatgutmenge sind unter Verwendung der Vordrucke des Bundessortenamtes bis zu dem im Blatt für Sortenwesen bekannt gemachten Termin beim Bundessortenamt zu stellen. Eine Durchschrift des Antrages hat der Antragsteller der zuständigen Behörde zuzuleiten.
+
+(3) Der Antragsteller hat im Antrag anzugeben:
+
+1.  
+Name und Anschrift des Herstellers der Mischung,
+
+2.  
+Information, ob es sich um eine direkt geerntete oder um eine angebaute Mischung handelt,
+
+3.  
+bei direkt geernteten Mischungen
+
+a)  
+für die Pflanzenarten, die unter die Richtlinie 66/401/EWG in der jeweils geltenden Fassung fallen, die insgesamt beantragte Saatgutmenge,
+
+b)  
+die Größe und Lage der Fläche am Entnahmeort, von der die Mischung entnommen werden soll,
+
+c)  
+die Erhaltungsmischungsnummer,
+
+4.  
+bei angebauten Mischungen für jede Pflanzenart, die unter die Richtlinie 66/401/EWG in der jeweils geltenden Fassung fällt, die beantragte Saatgutmenge.
+
+(4) Das Bundessortenamt weist den Antragstellern die Saatgutmengen zu. Übersteigt die Summe der von den Antragstellern beantragten Saatgutmengen die vom Bundessortenamt festgelegte Höchstmenge, weist das Bundessortenamt den Antragstellern die Saatgutmengen anteilmäßig gekürzt zu.
+
+(5) Wer Saatgut von Erhaltungsmischungen in den Verkehr bringt, hat am Ende eines jeden Kalenderjahres dem Bundessortenamt die Menge des in den Verkehr gebrachten Saatgutes je Erhaltungsmischung schriftlich mitzuteilen.
+
+### § 7 Verschließung
 
 (1) Packungen oder Behältnisse von Saatgut von Erhaltungsmischungen sind von demjenigen zu schließen und mit einer Sicherung zu versehen, der sie gekennzeichnet hat. § 34 Absatz 2 und 4 der Saatgutverordnung gilt entsprechend.
 
@@ -180,7 +224,7 @@ das Unternehmen kein wirtschaftliches Interesse am Ergebnis der Prüfung hat.
 
 (3) Ist eine Verschließung nach Absatz 1 bei direkt geernteten Mischungen aus technischen Gründen nicht möglich, dann darf das Saatgut dieser Mischungen auch in nicht geschlossenen Packungen oder Behältnissen und ohne Verschlusssicherung in den Verkehr gebracht werden.
 
-### § 7 Kennzeichnung
+### § 8 Kennzeichnung
 
 (1) Saatgut einer Erhaltungsmischung darf nur in Packungen in den Verkehr gebracht werden, auf denen sich ein Herstelleretikett, ein Aufdruck oder ein Stempel mit folgenden Angaben befindet:
 
