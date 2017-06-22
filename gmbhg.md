@@ -2,10 +2,7 @@ Gesetz betreffend die Gesellschaften mit beschränkter Haftung (GmbHG)
 =====================================================================
 
 Stand  
-Zuletzt geändert durch Art. 5 G v. 22.12.2015 I 2565
-
-Hinweis  
-Änderung durch Art. 8 G v. 10.5.2016 I 1142 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 14 G v. 23.6.2017 I 1822
 
 ### 
 
@@ -323,7 +320,7 @@ der Gesellschaftsvertrag und im Fall des § 2 Abs. 2 die Vollmachten der Vertret
 die Legitimation der Geschäftsführer, sofern dieselben nicht im Gesellschaftsvertrag bestellt sind,
 
 3.  
-eine von den Anmeldenden unterschriebene Liste der Gesellschafter, aus welcher Name, Vorname, Geburtsdatum und Wohnort der letzteren sowie die Nennbeträge und die laufenden Nummern der von einem jeden derselben übernommenen Geschäftsanteile ersichtlich sind,
+eine von den Anmeldenden unterschriebene Liste der Gesellschafter nach den Vorgaben des § 40,
 
 4.  
 im Fall des § 5 Abs. 4 die Verträge, die den Festsetzungen zugrunde liegen oder zu ihrer Ausführung geschlossen worden sind, und der Sachgründungsbericht,
@@ -627,13 +624,17 @@ Die Geschäftsführer einer Gesellschaft, die der Mitbestimmung unterliegt, lege
 
 (4) (weggefallen)
 
-### § 40 Liste der Gesellschafter
+### § 40 Liste der Gesellschafter, Verordnungsermächtigung
 
-(1) Die Geschäftsführer haben unverzüglich nach Wirksamwerden jeder Veränderung in den Personen der Gesellschafter oder des Umfangs ihrer Beteiligung eine von ihnen unterschriebene Liste der Gesellschafter zum Handelsregister einzureichen, aus welcher Name, Vorname, Geburtsdatum und Wohnort der letzteren sowie die Nennbeträge und die laufenden Nummern der von einem jeden derselben übernommenen Geschäftsanteile zu entnehmen sind. Die Änderung der Liste durch die Geschäftsführer erfolgt auf Mitteilung und Nachweis.
+(1) Die Geschäftsführer haben unverzüglich nach Wirksamwerden jeder Veränderung in den Personen der Gesellschafter oder des Umfangs ihrer Beteiligung eine von ihnen unterschriebene Liste der Gesellschafter zum Handelsregister einzureichen, aus welcher Name, Vorname, Geburtsdatum und Wohnort derselben sowie die Nennbeträge und die laufenden Nummern der von einem jeden derselben übernommenen Geschäftsanteile sowie die durch den jeweiligen Nennbetrag eines Geschäftsanteils vermittelte jeweilige prozentuale Beteiligung am Stammkapital zu entnehmen sind. Ist ein Gesellschafter selbst eine Gesellschaft, so sind bei eingetragenen Gesellschaften in die Liste deren Firma, Satzungssitz, zuständiges Register und Registernummer aufzunehmen, bei nicht eingetragenen Gesellschaften deren jeweilige Gesellschafter unter einer zusammenfassenden Bezeichnung mit Name, Vorname, Geburtsdatum und Wohnort. Hält ein Gesellschafter mehr als einen Geschäftsanteil, ist in der Liste der Gesellschafter zudem der Gesamtumfang der Beteiligung am Stammkapital als Prozentsatz gesondert anzugeben. Die Änderung der Liste durch die Geschäftsführer erfolgt auf Mitteilung und Nachweis.
 
 (2) Hat ein Notar an Veränderungen nach Absatz 1 Satz 1 mitgewirkt, hat er unverzüglich nach deren Wirksamwerden ohne Rücksicht auf etwaige später eintretende Unwirksamkeitsgründe die Liste anstelle der Geschäftsführer zu unterschreiben, zum Handelsregister einzureichen und eine Abschrift der geänderten Liste an die Gesellschaft zu übermitteln. Die Liste muss mit der Bescheinigung des Notars versehen sein, dass die geänderten Eintragungen den Veränderungen entsprechen, an denen er mitgewirkt hat, und die übrigen Eintragungen mit dem Inhalt der zuletzt im Handelsregister aufgenommenen Liste übereinstimmen.
 
 (3) Geschäftsführer, welche die ihnen nach Absatz 1 obliegende Pflicht verletzen, haften denjenigen, deren Beteiligung sich geändert hat, und den Gläubigern der Gesellschaft für den daraus entstandenen Schaden als Gesamtschuldner.
+
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen über die Ausgestaltung der Gesellschafterliste zu treffen.
+
+(5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass bestimmte in der Liste der Gesellschafter enthaltene Angaben in strukturierter maschinenlesbarer Form an das Handelsregister zu übermitteln sind, soweit nicht durch das Bundesministerium der Justiz und für Verbraucherschutz nach § 387 Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechende Vorschriften erlassen werden. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 ### § 41 Buchführung
 
