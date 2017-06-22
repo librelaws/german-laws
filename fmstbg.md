@@ -2,7 +2,7 @@ Gesetz zur Beschleunigung und Vereinfachung des Erwerbs von Anteilen an sowie Ri
 =================================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 8 G v. 22.12.2015 I 2565
+Zuletzt geändert durch Art. 24 Abs. 25 G v. 23.6.2017 I 1693
 
 ### 
 
@@ -168,7 +168,7 @@ Dasselbe gilt, wenn der Beschluss der Hauptversammlung eine Vereinbarung mit dem
 
 ### § 11 Keine Mitteilungspflicht für wesentliche Beteiligung
 
-§ 27a des Wertpapierhandelsgesetzes findet keine Anwendung auf den Erwerb von Anteilen durch den Fonds.
+§ 43 des Wertpapierhandelsgesetzes findet keine Anwendung auf den Erwerb von Anteilen durch den Fonds.
 
 ### § 11a Keine Anzeigepflicht für bedeutende Beteiligung
 
