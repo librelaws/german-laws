@@ -2,10 +2,7 @@ Einlagensicherungsgesetz (EinSiG)
 =================================
 
 Stand  
-Geändert durch Art. 8 G v. 2.11.2015 I 1864
-
-Hinweis  
-Änderung durch Art. 24 Abs. 36 G v. 23.6.2017 I 1693 (Nr. 39) mWv 3.1.2018 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 24 Abs. 36 G v. 23.6.2017 I 1693
 
 ### 
 
@@ -265,7 +262,7 @@ vom CRR-Kreditinstitut nach den geltenden gesetzlichen und vertraglichen Bedingu
 Von Einlagen nach Satz 1 ausgenommen ist ein Guthaben, wenn
 
 1.  
-die Existenz dieses Guthabens nur durch ein Finanzinstrument im Sinne des § 2 Absatz 2b des Wertpapierhandelsgesetzes nachgewiesen werden kann, es sei denn, es handelt sich um ein Sparprodukt, das durch ein auf eine benannte Person lautendes Einlagenzertifikat verbrieft ist und bereits zum 2. Juli 2014 bestand,
+die Existenz dieses Guthabens nur durch ein Finanzinstrument im Sinne des § 2 Absatz 4 des Wertpapierhandelsgesetzes nachgewiesen werden kann, es sei denn, es handelt sich um ein Sparprodukt, das durch ein auf eine benannte Person lautendes Einlagenzertifikat verbrieft ist und bereits zum 2. Juli 2014 bestand,
 
 2.  
 das Guthaben nicht zum Nennwert rückzahlbar ist oder
