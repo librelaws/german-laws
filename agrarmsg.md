@@ -2,7 +2,7 @@ Gesetz zur Weiterentwicklung der Marktstruktur im Agrarbereich (AgrarMSG)
 =========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 8.7.2016 I 1612, 2252
+Zuletzt geändert durch Art. 2 G v. 26.6.2017 I 1942
 
 ### 
 
@@ -349,7 +349,15 @@ die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) als zustän
 
 (2) Soweit nach Absatz 1 Nummer 2 die Bundesanstalt als zuständige Stelle zur Führung des Agrarorganisationenregisters bestimmt wird, sind die erforderlichen Registerdaten von der in § 6 Absatz 1 genannten Stelle der Bundesanstalt zu übermitteln. In Rechtsverordnungen nach Absatz 1 Nummer 2 kann das Verfahren zur Übermittlung der Registerdaten näher geregelt werden.
 
-(3) In Rechtsverordnungen nach § 4 Absatz 1 Nummer 2 Buchstabe c und d Doppelbuchstabe aa kann die jeweilige Ermächtigung ganz oder teilweise auf die Landesregierungen übertragen werden, um besonderen regionalen Gegebenheiten Rechnung zu tragen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden übertragen.
+(3) Um besonderen regionalen Gegebenheiten Rechnung zu tragen, kann in Rechtsverordnungen
+
+1.  
+nach § 4 Absatz 1 Nummer 1 die Ermächtigung im Hinblick auf Branchenverbände, die Anhang-I-Erzeugnisse aus dem Weinbereich betreffen, und
+
+2.  
+nach § 4 Absatz 1 Nummer 2 Buchstabe c und d Doppelbuchstabe aa die jeweilige Ermächtigung ganz oder teilweise
+
+auf die Landesregierungen übertragen werden. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden übertragen.
 
 (4) Rechtsverordnungen nach diesem Gesetz können auch ohne Zustimmung des Bundesrates erlassen werden, wenn ihr unverzügliches Inkrafttreten zur Durchführung des Unionsrechts erforderlich ist und ihre Geltungsdauer auf einen bestimmten Zeitraum von höchstens sechs Monaten begrenzt wird.
 
