@@ -2,7 +2,13 @@ Verordnung über Vorausleistungen für die Einrichtung von Anlagen des Bundes zu
 =====================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 6.7.2004 I 1476
+Zuletzt geändert durch Art. 21 G v. 27.6.2017 I 1966
+
+Sonst  
+Bek. v. 16.6.2017 I 1676 ist berücksichtigt
+
+Sonst  
+Berichtigung vom 19.5.2017 I 1222 ist berücksichtigt
 
 ### 
 
@@ -16,13 +22,13 @@ Auf Grund des § 21b Abs. 3 in Verbindung mit § 54 des Atomgesetzes in der Fass
 
 ### § 1 Erhebung von Vorausleistungen
 
-Zur Deckung des notwendigen Aufwandes für Anlagen zur Endlagerung radioaktiver Abfälle erhebt das Bundesamt für Strahlenschutz nach dieser Verordnung Vorausleistungen auf die nach § 21b des Atomgesetzes zu entrichtenden Beiträge.
+Zur Deckung des notwendigen Aufwandes für Anlagen zur Endlagerung radioaktiver Abfälle erhebt das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit nach dieser Verordnung Vorausleistungen auf die nach § 21b des Atomgesetzes zu entrichtenden Beiträge.
 
 ### § 2 Vorausleistungspflichtige
 
-(1) Die Vorausleistungen werden von demjenigen erhoben, dem eine Genehmigung nach den §§ 6, 7 oder 9 des Atomgesetzes oder nach § 7 der Strahlenschutzverordnung erteilt worden ist, wenn auf Grund der genehmigten Tätigkeit mit einem Anfall von radioaktiven Abfällen, die an ein Endlager abgeliefert werden müssen, zu rechnen ist. Die Vorausleistungspflicht bleibt auch dann bestehen, wenn eine Genehmigung nach Satz 1 zwar nicht mehr vorliegt, aber auf Grund der Ausnutzung der erteilten Genehmigung radioaktive Abfälle, die an ein Endlager abgeliefert werden müssen, angefallen sind. Wenn auf Grund einer genehmigten Tätigkeit nach Satz 1 radioaktive Abfälle angefallen sind und sowohl nach Satz 2 ein ehemaliger Genehmigungsinhaber als auch nach Satz 1 ein derzeitiger Genehmigungsinhaber vorausleistungspflichtig sind, haften diese gesamtschuldnerisch.
+(1) Die Vorausleistungen werden von demjenigen erhoben, dem eine Genehmigung nach den §§ 6, 7 oder 9 des Atomgesetzes oder nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes erteilt worden ist, wenn auf Grund der genehmigten Tätigkeit mit einem Anfall von radioaktiven Abfällen, die an ein Endlager abgeliefert werden müssen, zu rechnen ist. Die Vorausleistungspflicht bleibt auch dann bestehen, wenn eine Genehmigung nach Satz 1 zwar nicht mehr vorliegt, aber auf Grund der Ausnutzung der erteilten Genehmigung radioaktive Abfälle, die an ein Endlager abgeliefert werden müssen, angefallen sind. Wenn auf Grund einer genehmigten Tätigkeit nach Satz 1 radioaktive Abfälle angefallen sind und sowohl nach Satz 2 ein ehemaliger Genehmigungsinhaber als auch nach Satz 1 ein derzeitiger Genehmigungsinhaber vorausleistungspflichtig sind, haften diese gesamtschuldnerisch. Soweit die Finanzierungspflicht für Anlagen zur Endlagerung radioaktiver Abfälle nach § 1 des Entsorgungsübergangsgesetzes auf den Fonds nach § 1 Absatz 1 des Entsorgungsfondsgesetzes übergegangen ist, ist der Fonds anstelle des Genehmigungsinhabers vorausleistungspflichtig.
 
-(2) Genehmigungen nach § 7 der Strahlenschutzverordnung werden nicht berücksichtigt, wenn der Umgang mit sonstigen radioaktiven Stoffen im Zusammenhang mit einer Tätigkeit erfolgt, für die nach dem Atomgesetz eine Genehmigung nach Absatz 1 erteilt worden ist.
+(2) Genehmigungen nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes werden nicht berücksichtigt, wenn der Umgang mit sonstigen radioaktiven Stoffen im Zusammenhang mit einer Tätigkeit erfolgt, für die nach dem Atomgesetz eine Genehmigung nach Absatz 1 erteilt worden ist.
 
 (3) Von Landessammelstellen werden keine Vorausleistungen erhoben.
 
@@ -54,7 +60,9 @@ die Errichtung, die Erweiterung und die Erneuerung.
 
 (1) Der notwendige Aufwand ist einzeln für jede Anlage nach den tatsächlich entstandenen Kosten zu ermitteln und abzurechnen.
 
-(2) Vor Beginn eines jeden Kalenderjahres (Bemessungszeitraum) ist eine Kostenkalkulation der Maßnahmen zu erstellen, die für dieses Kalenderjahr vorgesehen sind; die vorgesehenen Maßnahmen und die Kostenkalkulation sollen den Vorausleistungspflichtigen vor Beginn des Kalenderjahres bekannt gegeben werden. Während des laufenden Kalenderjahres werden die Kosten für die Maßnahmen dieses Jahres aktualisiert und bekannt gegeben. Der gesamte notwendige Aufwand wird im darauf folgenden Kalenderjahr ermittelt.
+(2) Vor Beginn eines jeden Kalenderjahres (Bemessungszeitraum) ist vom Bundesamt für kerntechnische Entsorgungssicherheit und dem Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes eine Kostenkalkulation der Maßnahmen zu erstellen, die für dieses Kalenderjahr vorgesehen sind; die vorgesehenen Maßnahmen und die Kostenkalkulation sollen den Vorausleistungspflichtigen vor Beginn des Kalenderjahres bekannt gegeben werden. Während des laufenden Kalenderjahres werden die Kosten für die Maßnahmen dieses Jahres aktualisiert und bekannt gegeben. Der gesamte notwendige Aufwand wird im darauf folgenden Kalenderjahr ermittelt.
+
+(2a) Für den nach Absatz 2 Satz 3 ermittelten gesamten notwendigen Aufwand ist eine Abschlussprüfung durch einen Wirtschaftsprüfer oder eine Wirtschaftsprüfergesellschaft vorzunehmen. Der ermittelte gesamte notwendige Aufwand bedarf zudem der Genehmigung durch das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit.
 
 (3) Vorausleistungen werden erhoben
 
@@ -88,7 +96,7 @@ b)
 zu 6 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine Anlage zur Aufarbeitung bestrahlter Brennelemente mit einer Leistung bis zu 50 Jahrestonnen erteilt worden ist,
 
 c)  
-zu 29,6 Prozent auf diejenigen Vorausleistungspflichtigen, denen sonst eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes oder eine Genehmigung nach § 6 oder § 9 des Atomgesetzes oder nach § 7 der Strahlenschutzverordnung erteilt worden ist,
+zu 29,6 Prozent auf diejenigen Vorausleistungspflichtigen, denen sonst eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes oder eine Genehmigung nach § 6 oder § 9 des Atomgesetzes oder nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes erteilt worden ist,
 
 2.  
 für ein Endlager für alle Arten radioaktiver Abfälle
@@ -100,13 +108,15 @@ b)
 zu 0,7 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine Anlage zur Aufarbeitung bestrahlter Brennelemente mit einer Leistung bis zu 50 Jahrestonnen erteilt worden ist,
 
 c)  
-zu 2,8 Prozent auf diejenigen Vorausleistungspflichtigen, denen sonst eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes oder eine Genehmigung nach § 6 oder § 9 des Atomgesetzes oder nach § 7 der Strahlenschutzverordnung erteilt worden ist.
+zu 2,8 Prozent auf diejenigen Vorausleistungspflichtigen, denen sonst eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes oder eine Genehmigung nach § 6 oder § 9 des Atomgesetzes oder nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes erteilt worden ist.
 
-(2) Vor der Verteilung nach Absatz 1 wird von dem notwendigen Aufwand die Summe der in dem betreffenden Jahr von den Landessammelstellen für die Endlagerung erhobenen und an das Bundesamt für Strahlenschutz abgeführten Kosten und Entgelte, soweit sie zur Deckung des Aufwandes nach § 3 bestimmt sind, abgezogen.
+(2) Vor der Verteilung nach Absatz 1 wird von dem notwendigen Aufwand die Summe der in dem betreffenden Jahr von den Landessammelstellen für die Endlagerung erhobenen und an das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit abgeführten Kosten und Entgelte, soweit sie zur Deckung des Aufwandes nach § 3 bestimmt sind, abgezogen.
 
 (3) Unter den Vorausleistungspflichtigen nach Absatz 1 Nr. 1 Buchstabe a und b und Absatz 1 Nr. 2 Buchstabe a und b wird der Aufwand nach dem Verhältnis der Leistungen der jeweiligen Anlagen verteilt. Soweit die Vorausleistungspflicht auf einer Genehmigung nach § 7 Abs. 3 des Atomgesetzes beruht, wird für die Verteilung die zuletzt genehmigte Leistung zugrunde gelegt. Unter den Vorausleistungspflichtigen nach Absatz 1 Nr. 1 Buchstabe c und Absatz 1 Nr. 2 Buchstabe c wird der Aufwand nach dem Verhältnis der bei den einzelnen Vorausleistungspflichtigen insgesamt angefallenen und voraussichtlich noch anfallenden radioaktiven Abfälle verteilt, die an ein Endlager abgeliefert werden müssen. Maßgebend für die Bestimmung der Daten über Leistungen nach Satz 1 und Abfälle nach Satz 3 ist der 31. Dezember des Vorjahres.
 
-(4) Die Verteilung des Aufwandes ist im Abstand von jeweils drei Jahren zu überprüfen. Bei erheblichen Abweichungen ist eine Anpassung mit Wirkung auch für die Vergangenheit durch Novellierung dieser Verordnung vorzunehmen.
+(4) Der Fonds nach § 1 Absatz 1 des Entsorgungsfondsgesetzes ist für den nach Absatz 3 auf die Genehmigungsinhaber, deren Finanzierungspflicht nach § 1 des Entsorgungsübergangsgesetzes übergegangen ist, zu verteilenden Aufwand vorausleistungspflichtig.
+
+(5)Die Verteilung des Aufwandes ist im Abstand von jeweils drei Jahren zu überprüfen. Bei erheblichen Abweichungen ist eine Anpassung mit Wirkung auch für die Vergangenheit durch Novellierung dieser Verordnung vorzunehmen.
 
 ### § 7 Fälligkeit der Vorausleistungen
 
