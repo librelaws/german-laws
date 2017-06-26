@@ -2,13 +2,14 @@ Gesetz über die Besteuerung bei Auslandsbeziehungen ()
 ======================================================
 
 Stand  
-Zuletzt geändert durch Art. 6 G v. 26.6.2013 I 1809
+Zuletzt geändert durch Art. 5 G v. 27.6.2017 I 2074
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 29.8.1980 +++)
-(+++ Zur Anwendung vgl. § 21 +++)
+(+++ Zur Anwendung vgl. §§ 7, 10 u. 21 +++)
+(+++ Zur Anwendung d. § 8 Abs. 3 Satz 2, 3 vgl. § 4j EStG +++)
 ```
 
 Das G wurde als Art. 1 d. G v. 8.9.1972 I 1713 vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 8 dieses G am 13.9.1972 in Kraft getreten.
@@ -38,18 +39,18 @@ die Person oder der Steuerpflichtige imstande ist, bei der Vereinbarung der Bedi
 (4) Geschäftsbeziehungen im Sinne dieser Vorschrift sind
 
 1.  
-einzelne oder mehrere zusammenhängende wirtschaftliche Vorgänge (Geschäftsvorfälle) zwischen einem Steuerpflichtigen und einer nahestehenden Person,
+einzelne oder mehrere zusammenhängende wirtschaftliche Vorgänge (Geschäftsvorfälle) zwischen einem Steuerpflichtigen und einer ihm nahestehenden Person,
 
 a)  
-die Teil einer Tätigkeit sind, auf die die §§ 13, 15, 18 oder 21 des Einkommensteuergesetzes anzuwenden sind oder im Fall einer ausländischen nahestehenden Person anzuwenden wären, wenn sich der Geschäftsvorfall im Inland ereignet hätte, und
+die Teil einer Tätigkeit des Steuerpflichtigen oder der nahestehenden Person sind, auf die die §§ 13, 15, 18 oder 21 des Einkommensteuergesetzes anzuwenden sind oder anzuwenden wären, wenn sich der Geschäftsvorfall im Inland unter Beteiligung eines unbeschränkt Steuerpflichtigen und einer inländischen nahestehenden Person ereignet hätte, und
 
 b)  
-denen keine gesellschaftsvertragliche Vereinbarung zugrunde liegt;
+denen keine gesellschaftsvertragliche Vereinbarung zugrunde liegt; eine gesellschaftsvertragliche Vereinbarung ist eine Vereinbarung, die unmittelbar zu einer rechtlichen Änderung der Gesellschafterstellung führt;
 
 2.  
 Geschäftsvorfälle zwischen einem Unternehmen eines Steuerpflichtigen und seiner in einem anderen Staat gelegenen Betriebsstätte (anzunehmende schuldrechtliche Beziehungen).
 
-Liegen einer Geschäftsbeziehung keine schuldrechtlichen Vereinbarungen zugrunde, ist davon auszugehen, dass voneinander unabhängige ordentliche und gewissenhafte Geschäftsleiter schuldrechtliche Vereinbarungen getroffen hätten oder bestehende Rechtspositionen geltend machen würden, die der Besteuerung zugrunde zu legen sind, es sei denn, der Steuerpflichtige macht im Einzelfall etwas anderes glaubhaft.
+Liegt einem Geschäftsvorfall keine schuldrechtliche Vereinbarung zugrunde, ist davon auszugehen, dass voneinander unabhängige ordentliche und gewissenhafte Geschäftsleiter eine schuldrechtliche Vereinbarung getroffen hätten oder eine bestehende Rechtsposition geltend machen würden, die der Besteuerung zugrunde zu legen ist, es sei denn, der Steuerpflichtige macht im Einzelfall etwas anderes glaubhaft.
 
 (5) Die Absätze 1, 3 und 4 sind entsprechend anzuwenden, wenn für eine Geschäftsbeziehung im Sinne des Absatzes 4 Satz 1 Nummer 2 die Bedingungen, insbesondere die Verrechnungspreise, die der Aufteilung der Einkünfte zwischen einem inländischen Unternehmen und seiner ausländischen Betriebsstätte oder der Ermittlung der Einkünfte der inländischen Betriebsstätte eines ausländischen Unternehmens steuerlich zugrunde gelegt werden, nicht dem Fremdvergleichsgrundsatz entsprechen und dadurch die inländischen Einkünfte eines beschränkt Steuerpflichtigen gemindert oder die ausländischen Einkünfte eines unbeschränkt Steuerpflichtigen erhöht werden. Zur Anwendung des Fremdvergleichsgrundsatzes ist eine Betriebsstätte wie ein eigenständiges und unabhängiges Unternehmen zu behandeln, es sei denn, die Zugehörigkeit der Betriebsstätte zum Unternehmen erfordert eine andere Behandlung. Um die Betriebsstätte wie ein eigenständiges und unabhängiges Unternehmen zu behandeln, sind ihr in einem ersten Schritt zuzuordnen:
 
@@ -69,7 +70,7 @@ Auf der Grundlage dieser Zuordnung sind in einem zweiten Schritt die Art der Ges
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Einzelheiten des Fremdvergleichsgrundsatzes im Sinne der Absätze 1, 3 und 5 und Einzelheiten zu dessen einheitlicher Anwendung zu regeln sowie Grundsätze zur Bestimmung des Dotationskapitals im Sinne des Absatzes 5 Satz 3 Nummer 4 festzulegen.
 
-(+++ § 1: Zur Anwendung vgl. § 21 Abs. 4, 11, 16, 20 +++)
+(+++ § 1: Zur Anwendung vgl. § 21 Abs. 4, 11, 16, 20, 22 +++)
 
 Zweiter Teil Wohnsitzwechsel in niedrigbesteuernde Gebiete
 ----------------------------------------------------------
@@ -102,10 +103,10 @@ die Belastung der Person durch die in dem ausländischen Gebiet erhobene Einkomm
 sie zu Beginn des Veranlagungszeitraums Unternehmer oder Mitunternehmer eines im Geltungsbereich dieses Gesetzes belegenen Gewerbebetriebs ist oder, sofern sie Kommanditist ist, mehr als 25 Prozent der Einkünfte im Sinne des § 15 Abs. 1 Satz 1 Nr. 2 des Einkommensteuergesetzes aus der Gesellschaft auf sie entfallen oder ihr eine Beteiligung im Sinne des § 17 Abs. 1 des Einkommensteuergesetzes an einer inländischen Kapitalgesellschaft gehört oder
 
 2.  
-ihre Einkünfte, die bei unbeschränkter Einkommensteuerpflicht nicht ausländische Einkünfte im Sinne des § 34c Abs. 1 des Einkommensteuergesetzes sind, im Veranlagungszeitraum mehr als 30 Prozent ihrer sämtlichen Einkünfte betragen oder 62 000 Euro übersteigen oder
+ihre Einkünfte, die bei unbeschränkter Einkommensteuerpflicht nicht ausländische Einkünfte im Sinne des § 34d des Einkommensteuergesetzes sind, im Veranlagungszeitraum mehr als 30 Prozent ihrer sämtlichen Einkünfte betragen oder 62 000 Euro übersteigen oder
 
 3.  
-zu Beginn des Veranlagungszeitraums ihr Vermögen, dessen Erträge bei unbeschränkter Einkommensteuerpflicht nicht ausländische Einkünfte im Sinne des § 34c Abs. 1 des Einkommensteuergesetzes wären, mehr als 30 Prozent ihres Gesamtvermögens beträgt oder 154 000 Euro übersteigt.
+zu Beginn des Veranlagungszeitraums ihr Vermögen, dessen Erträge bei unbeschränkter Einkommensteuerpflicht nicht ausländische Einkünfte im Sinne des § 34d des Einkommensteuergesetzes wären, mehr als 30 Prozent ihres Gesamtvermögens beträgt oder 154 000 Euro übersteigt.
 
 (4) Bei der Anwendung der Absätze 1 und 3 sind bei einer Person Gewerbebetriebe, Beteiligungen, Einkünfte und Vermögen einer ausländischen Gesellschaft im Sinne des § 5, an der die Person unter den dort genannten Voraussetzungen beteiligt ist, entsprechend ihrer Beteiligung zu berücksichtigen.
 
@@ -123,13 +124,13 @@ zu Beginn des Veranlagungszeitraums ihr Vermögen, dessen Erträge bei unbeschr�
 
 ### § 4 Erbschaftsteuer
 
-(1) War bei einem Erblasser oder Schenker zur Zeit der Entstehung der Steuerschuld § 2 Abs. 1 Satz 1 anzuwenden, so tritt bei Erbschaftsteuerpflicht nach § 2 Abs. 1 Nr. 3 des Erbschaftsteuergesetzes die Steuerpflicht über den dort bezeichneten Umfang hinaus für alle Teile des Erwerbs ein, deren Erträge bei unbeschränkter Einkommensteuerpflicht nicht ausländische Einkünfte im Sinne des § 34c Abs. 1 des Einkommensteuergesetzes wären.
+(1) War bei einem Erblasser oder Schenker zur Zeit der Entstehung der Steuerschuld § 2 Abs. 1 Satz 1 anzuwenden, so tritt bei Erbschaftsteuerpflicht nach § 2 Abs. 1 Nr. 3 des Erbschaftsteuergesetzes die Steuerpflicht über den dort bezeichneten Umfang hinaus für alle Teile des Erwerbs ein, deren Erträge bei unbeschränkter Einkommensteuerpflicht nicht ausländische Einkünfte im Sinne des § 34d des Einkommensteuergesetzes wären.
 
 (2) Absatz 1 findet keine Anwendung, wenn nachgewiesen wird, daß für die Teile des Erwerbs, die nach dieser Vorschrift über § 2 Abs. 1 Nr. 3 des Erbschaftsteuergesetzes hinaus steuerpflichtig wären, im Ausland eine der deutschen Erbschaftsteuer entsprechende Steuer zu entrichten ist, die mindestens 30 Prozent der deutschen Erbschaftsteuer beträgt, die bei Anwendung des Absatzes 1 auf diese Teile des Erwerbs entfallen würde.
 
 ### § 5 Zwischengeschaltete Gesellschaften
 
-(1) Sind natürliche Personen, die in den letzten zehn Jahren vor dem Ende ihrer unbeschränkten Steuerpflicht nach § 1 Abs. 1 Satz 1 des Einkommensteuergesetzes als Deutscher insgesamt mindestens fünf Jahre unbeschränkt einkommensteuerpflichtig waren und die Voraussetzungen des § 2 Abs. 1 Satz 1 Nr. 1 erfüllen (Person im Sinne des § 2), allein oder zusammen mit unbeschränkt Steuerpflichtigen an einer ausländischen Gesellschaft im Sinne des § 7 beteiligt, so sind Einkünfte, mit denen diese Personen bei unbeschränkter Steuerpflicht nach den §§ 7, 8 und 14 steuerpflichtig wären und die nicht ausländische Einkünfte im Sinne des § 34c Abs. 1 des Einkommensteuergesetzes sind, diesen Personen zuzurechnen. Liegen die Voraussetzungen des Satzes 1 vor, so sind die Vermögenswerte der ausländischen Gesellschaft, deren Erträge bei unbeschränkter Steuerpflicht nicht ausländische Einkünfte im Sinne des § 34c Abs. 1 des Einkommensteuergesetzes wären, im Fall des § 4 dem Erwerb entsprechend der Beteiligung zuzurechnen.
+(1) Sind natürliche Personen, die in den letzten zehn Jahren vor dem Ende ihrer unbeschränkten Steuerpflicht nach § 1 Abs. 1 Satz 1 des Einkommensteuergesetzes als Deutscher insgesamt mindestens fünf Jahre unbeschränkt einkommensteuerpflichtig waren und die Voraussetzungen des § 2 Abs. 1 Satz 1 Nr. 1 erfüllen (Person im Sinne des § 2), allein oder zusammen mit unbeschränkt Steuerpflichtigen an einer ausländischen Gesellschaft im Sinne des § 7 beteiligt, so sind Einkünfte, mit denen diese Personen bei unbeschränkter Steuerpflicht nach den §§ 7, 8 und 14 steuerpflichtig wären und die nicht ausländische Einkünfte im Sinne des § 34d des Einkommensteuergesetzes sind, diesen Personen zuzurechnen. Liegen die Voraussetzungen des Satzes 1 vor, so sind die Vermögenswerte der ausländischen Gesellschaft, deren Erträge bei unbeschränkter Steuerpflicht nicht ausländische Einkünfte im Sinne des § § 34d des Einkommensteuergesetzes wären, im Fall des § 4 dem Erwerb entsprechend der Beteiligung zuzurechnen.
 
 (2) Das Vermögen, das den nach Absatz 1 einer Person zuzurechnenden Einkünften zugrunde liegt, haftet für die von dieser Person für diese Einkünfte geschuldeten Steuern.
 
@@ -179,7 +180,10 @@ im Fall des Absatzes 1 Satz 2 Nr. 1 der Rechtsnachfolger des Steuerpflichtigen e
 im Fall des Absatzes 1 Satz 2 Nr. 2 der Steuerpflichtige einer der deutschen unbeschränkten Einkommensteuerpflicht vergleichbaren Steuerpflicht in einem Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des EWR-Abkommens unterliegt und Staatsangehöriger eines dieser Staaten ist oder
 
 3.  
-im Fall des Absatzes 1 Satz 2 Nr. 3 der Steuerpflichtige die Anteile in einen Betrieb oder eine Betriebsstätte in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des EWR-Abkommens einlegt.
+im Fall des Absatzes 1 Satz 2 Nr. 3 der Steuerpflichtige die Anteile in einen Betrieb oder eine Betriebsstätte in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des EWR-Abkommens einlegt oder
+
+4.  
+im Fall des Absatzes 1 Satz 2 Nummer 4 der Steuerpflichtige Anteile an einer in einem Mitgliedstaat der Europäischen Union oder in einem Vertragsstaat des EWR-Abkommens ansässigen Gesellschaft hält.
 
 Die Stundung ist zu widerrufen,
 
@@ -204,6 +208,7 @@ Ein Umwandlungsvorgang, auf den die §§ 11, 15 oder 21 des Umwandlungssteuerges
 (+++ § 6 Abs. 1: Zur erstmaligen Anwendung vgl. § 21 Abs. 13 Satz 1 +++)
 (+++ § 6 Abs. 3 Nr. 4: Zur Erst- und letztmaligen Anwendung vgl. § 21 Abs. 8 +++)
 (+++ § 6 Abs. 2 bis 7: Zur Anwendung vgl. § 21 Abs. 13 Satz 2 +++)
+(+++ § 6 Abs. 5 Satz 3: Zur Anwendung vgl. § 21 Abs. 23 +++)
 
 Vierter Teil Beteiligung an ausländischen Zwischengesellschaften
 ----------------------------------------------------------------
@@ -222,11 +227,11 @@ Vierter Teil Beteiligung an ausländischen Zwischengesellschaften
 
 (5) Ist für die Gewinnverteilung der ausländischen Gesellschaft nicht die Beteiligung am Nennkapital maßgebend oder hat die Gesellschaft kein Nennkapital, so ist der Aufteilung der Einkünfte nach Absatz 1 der Maßstab für die Gewinnverteilung zugrunde zu legen.
 
-(6) Ist eine ausländische Gesellschaft Zwischengesellschaft für Zwischeneinkünfte mit Kapitalanlagecharakter im Sinne des Absatz 6a und ist ein unbeschränkt Steuerpflichtiger an der Gesellschaft zu mindestens 1 Prozent beteiligt, sind diese Zwischeneinkünfte bei diesem Steuerpflichtigen in dem in Absatz 1 bestimmten Umfang steuerpflichtig, auch wenn die Voraussetzungen des Absatzes 1 im übrigen nicht erfüllt sind. Satz 1 ist nicht anzuwenden, wenn die den Zwischeneinkünften mit Kapitalanlagecharakter zugrunde liegenden Bruttoerträge nicht mehr als 10 Prozent der den gesamten Zwischeneinkünften zugrunde liegenden Bruttoerträge der ausländischen Zwischengesellschaft betragen und die bei einer Zwischengesellschaft oder bei einem Steuerpflichtigen hiernach außer Ansatz zu lassenden Beträge insgesamt 80.000 Euro nicht übersteigen. Satz 1 ist auch anzuwenden bei einer Beteiligung von weniger als 1 Prozent, wenn die ausländische Gesellschaft ausschließlich oder fast ausschließlich Bruttoerträge erzielt, die Zwischeneinkünften mit Kapitalanlagecharakter zugrunde liegen, es sei denn, dass mit der Hauptgattung der Aktien der ausländischen Gesellschaft ein wesentlicher und regelmäßiger Handel an einer anerkannten Börse stattfindet.
+(6) Ist eine ausländische Gesellschaft Zwischengesellschaft für Zwischeneinkünfte mit Kapitalanlagecharakter im Sinne des Absatz 6a und ist ein unbeschränkt Steuerpflichtiger an der Gesellschaft zu mindestens 1 Prozent beteiligt, sind diese Zwischeneinkünfte bei diesem Steuerpflichtigen in dem in Absatz 1 bestimmten Umfang steuerpflichtig, auch wenn die Voraussetzungen des Absatzes 1 im übrigen nicht erfüllt sind. Satz 1 ist nicht anzuwenden, wenn die den Zwischeneinkünften mit Kapitalanlagecharakter zugrunde liegenden Bruttoerträge nicht mehr als 10 Prozent der den gesamten Zwischeneinkünften zugrunde liegenden Bruttoerträge der ausländischen Zwischengesellschaft betragen und die bei einer Zwischengesellschaft oder bei einem Steuerpflichtigen hiernach außer Ansatz zu lassenden Beträge insgesamt 80 000 Euro nicht übersteigen. Satz 1 ist auch anzuwenden bei einer Beteiligung von weniger als 1 Prozent, wenn die ausländische Gesellschaft ausschließlich oder fast ausschließlich Bruttoerträge erzielt, die Zwischeneinkünften mit Kapitalanlagecharakter zugrunde liegen, es sei denn, dass mit der Hauptgattung der Aktien der ausländischen Gesellschaft ein wesentlicher und regelmäßiger Handel an einer anerkannten Börse stattfindet.
 
 (6a) Zwischeneinkünfte mit Kapitalanlagecharakter sind Einkünfte der ausländischen Zwischengesellschaft (§ 8), die aus dem Halten, der Verwaltung, Werterhaltung oder Werterhöhung von Zahlungsmitteln, Forderungen, Wertpapieren, Beteiligungen (mit Ausnahme der in § 8 Abs. 1 Nr. 8 und 9 genannten Einkünfte) oder ähnlichen Vermögenswerten stammen, es sei denn, der Steuerpflichtige weist nach, dass sie aus einer Tätigkeit stammen, die einer unter § 8 Abs. 1 Nr. 1 bis 6 fallenden eigenen Tätigkeit der ausländischen Gesellschaft dient, ausgenommen Tätigkeiten im Sinne des § 1 Abs. 1 Nr. 6 des Kreditwesengesetzes in der Fassung der Bekanntmachung vom 9. September 1998 (BGBl. I S. 2776), das zuletzt durch Artikel 3 Abs. 3 des Gesetzes vom 22. August 2002 (BGBl. I S. 3387) geändert worden ist, in der jeweils geltenden Fassung.
 
-(7) Die Absätze 1 bis 6a sind nicht anzuwenden, wenn auf die Einkünfte, für die die ausländische Gesellschaft Zwischengesellschaft ist, die Vorschriften des Investmentsteuergesetzes in der jeweils geltenden Fassung anzuwenden sind, es sei denn, Ausschüttungen oder ausschüttungsgleiche Erträge wären nach einem Abkommen zur Vermeidung der Doppelbesteuerung von der inländischen Bemessungsgrundlage auszunehmen.
+(7) Die Absätze 1 bis 6a sind nicht anzuwenden, wenn auf die Einkünfte, für die die ausländische Gesellschaft Zwischengesellschaft ist, die Vorschriften des Investmentsteuergesetzes in der jeweils geltenden Fassung anzuwenden sind.
 
 (8) Sind unbeschränkt Steuerpflichtige an einer ausländischen Gesellschaft beteiligt und ist diese an einer Gesellschaft im Sinne des § 16 des REIT-Gesetzes vom 28. Mai 2007 (BGBl. I S. 914) in der jeweils geltenden Fassung beteiligt, gilt Absatz 1 unbeschadet des Umfangs der jeweiligen Beteiligung an der ausländischen Gesellschaft, es sei denn, dass mit der Hauptgattung der Aktien der ausländischen Gesellschaft ein wesentlicher und regelmäßiger Handel an einer anerkannten Börse stattfindet.
 
@@ -296,6 +301,7 @@ Umwandlungen, die ungeachtet des § 1 Abs. 2 und 4 des Umwandlungssteuergesetzes
 (3) Eine niedrige Besteuerung im Sinne des Absatzes 1 liegt vor, wenn die Einkünfte der ausländischen Gesellschaft einer Belastung durch Ertragsteuern von weniger als 25 Prozent unterliegen, ohne dass dies auf einem Ausgleich mit Einkünften aus anderen Quellen beruht. In die Belastungsberechnung sind Ansprüche einzubeziehen, die der Staat oder das Gebiet der ausländischen Gesellschaft im Fall einer Gewinnausschüttung der ausländischen Gesellschaft dem unbeschränkt Steuerpflichtigen oder einer anderen Gesellschaft, an der der Steuerpflichtige direkt oder indirekt beteiligt ist, gewährt. Eine niedrige Besteuerung im Sinne des Absatzes 1 liegt auch dann vor, wenn Ertragsteuern von mindestens 25 Prozent zwar rechtlich geschuldet, jedoch nicht tatsächlich erhoben werden.
 
 (+++ § 8: Zur Anwendung vgl. § 21 Abs. 7, 9, 11, 14, 15, 17, 19, 21 +++)
+(+++ § 8 Abs. 3 Satz 2, 3: Zur Anwendung vgl. § 4j EStG +++)
 
 ### § 9 Freigrenze bei gemischten Einkünften
 
@@ -309,7 +315,7 @@ Für die Anwendung des § 7 Abs. 1 sind Einkünfte, für die eine ausländische 
 
 (2) Der Hinzurechnungsbetrag gehört zu den Einkünften im Sinne des § 20 Abs. 1 Nr. 1 des Einkommensteuergesetzes und gilt unmittelbar nach Ablauf des maßgebenden Wirtschaftsjahrs der ausländischen Gesellschaft als zugeflossen. Gehören Anteile an der ausländischen Gesellschaft zu einem Betriebsvermögen, so gehört der Hinzurechnungsbetrag zu den Einkünften aus Gewerbebetrieb, aus Land- und Forstwirtschaft oder aus selbständiger Arbeit und erhöht den nach dem Einkommen- oder Körperschaftsteuergesetz ermittelten Gewinn des Betriebs für das Wirtschaftsjahr, das nach dem Ablauf des maßgebenden Wirtschaftsjahrs der ausländischen Gesellschaft endet. Auf den Hinzurechnungsbetrag sind § 3 Nr. 40 Satz 1 Buchstabe d, § 32d des Einkommensteuergesetzes und § 8b Abs. 1 des Körperschaftsteuergesetzes nicht anzuwenden. § 3c Abs. 2 des Einkommensteuergesetzes gilt entsprechend.
 
-(3) Die dem Hinzurechnungsbetrag zugrunde liegenden Einkünfte sind in entsprechender Anwendung der Vorschriften des deutschen Steuerrechts zu ermitteln; für die Ermittlung der Einkünfte aus Anteilen an einem inländischen oder ausländischen Investmentvermögen sind die Vorschriften des Investmentsteuergesetzes vom 15. Dezember 2003 (BGBl. I S. 2676, 2724) in der jeweils geltenden Fassung sinngemäß anzuwenden, sofern dieses Gesetz auf das Investmentvermögen anwendbar ist. Eine Gewinnermittlung entsprechend den Grundsätzen des § 4 Abs. 3 des Einkommensteuergesetzes steht einer Gewinnermittlung nach § 4 Abs. 1 oder § 5 des Einkommensteuergesetzes gleich. Bei mehreren Beteiligten kann das Wahlrecht für die Gesellschaft nur einheitlich ausgeübt werden. Steuerliche Vergünstigungen, die an die unbeschränkte Steuerpflicht oder an das Bestehen eines inländischen Betriebs oder einer inländischen Betriebsstätte anknüpfen und die Vorschriften des § 4h des Einkommensteuergesetzes sowie der §§ 8a, 8b Abs. 1 und 2 des Körperschaftsteuergesetzes bleiben unberücksichtigt; dies gilt auch für die Vorschriften des Umwandlungssteuergesetzes, soweit Einkünfte aus einer Umwandlung nach § 8 Abs. 1 Nr. 10 hinzuzurechnen sind. Verluste, die bei Einkünften entstanden sind, für die die ausländische Gesellschaft Zwischengesellschaft ist, können in entsprechender Anwendung des § 10d des Einkommensteuergesetzes, soweit sie die nach § 9 außer Ansatz zu lassenden Einkünfte übersteigen, abgezogen werden. Soweit sich durch den Abzug der Steuern nach Absatz 1 ein negativer Betrag ergibt, erhöht sich der Verlust im Sinne des Satzes 5.
+(3) Die dem Hinzurechnungsbetrag zugrunde liegenden Einkünfte sind in entsprechender Anwendung der Vorschriften des deutschen Steuerrechts zu ermitteln. Eine Gewinnermittlung entsprechend den Grundsätzen des § 4 Abs. 3 des Einkommensteuergesetzes steht einer Gewinnermittlung nach § 4 Abs. 1 oder § 5 des Einkommensteuergesetzes gleich. Bei mehreren Beteiligten kann das Wahlrecht für die Gesellschaft nur einheitlich ausgeübt werden. Steuerliche Vergünstigungen, die an die unbeschränkte Steuerpflicht oder an das Bestehen eines inländischen Betriebs oder einer inländischen Betriebsstätte anknüpfen, und die §§ 4h, 4j des Einkommensteuergesetzes sowie die §§ 8a, 8b Absatz 1 und 2 des Körperschaftsteuergesetzes bleiben unberücksichtigt; dies gilt auch für die Vorschriften des Umwandlungssteuergesetzes, soweit Einkünfte aus einer Umwandlung nach § 8 Absatz 1 Nummer 10 hinzuzurechnen sind. Verluste, die bei Einkünften entstanden sind, für die die ausländische Gesellschaft Zwischengesellschaft ist, können in entsprechender Anwendung des § 10d des Einkommensteuergesetzes, soweit sie die nach § 9 außer Ansatz zu lassenden Einkünfte übersteigen, abgezogen werden. Soweit sich durch den Abzug der Steuern nach Absatz 1 ein negativer Betrag ergibt, erhöht sich der Verlust im Sinne des Satzes 5.
 
 (4) Bei der Ermittlung der Einkünfte, für die die ausländische Gesellschaft Zwischengesellschaft ist, dürfen nur solche Betriebsausgaben abgezogen werden, die mit diesen Einkünften in wirtschaftlichem Zusammenhang stehen.
 
@@ -646,6 +652,12 @@ für die Einkommen- und Körperschaftsteuer für den Veranlagungszeitraum,
 für die Gewerbesteuer für den Erhebungszeitraum,
 
 für den Zwischeneinkünfte hinzuzurechnen sind, die in einem Wirtschaftsjahr der Zwischengesellschaft oder der Betriebsstätte entstanden sind, das nach dem 31. Dezember 2012 beginnt. § 15 Absatz 1, 5 bis 11 sowie § 18 Absatz 4 sind in der Fassung des Artikels 6 des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1809) für die Einkommen- und Körperschaftsteuer erstmals anzuwenden für den Veranlagungszeitraum 2013.
+
+(22) § 1 Absatz 4 in der am 31. Dezember 2014 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2015 anzuwenden.
+
+(23) § 6 Absatz 5 Satz 3 in der am 31. Dezember 2014 geltenden Fassung ist in allen Fällen anzuwenden, in denen die geschuldete Steuer noch nicht entrichtet ist.
+
+(24) Die §§ 7 und 10 in der am 1. Januar 2018 geltenden Fassung sind ab dem 1. Januar 2018 anzuwenden.
 
 ### § 22 Neufassung des Gesetzes
 
