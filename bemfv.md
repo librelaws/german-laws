@@ -2,7 +2,7 @@ Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder
 =======================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 4 Abs. 111 G v. 18.7.2016 I 1666
+Zuletzt geändert durch Art. 3 Abs. 3 G v. 27.6.2017 I 1947
 
 ### 
 
@@ -32,7 +32,7 @@ Auf Grund des § 12 und des § 16 Abs. 1 Nr. 3 des Gesetzes über Funkanlagen un
 | § 12  | Änderung der Funkanlage                               |
 | § 13  | Überprüfung                                           |
 | § 14  | Anordnungen                                           |
-| § 15  | Gebühren und Auslagen                                 |
+| § 15  | (weggefallen)                                         |
 | § 15a | Ordnungswidrigkeiten                                  |
 | § 16  | Übergangsbestimmungen                                 |
 | § 17  | Inkrafttreten                                         |
@@ -223,21 +223,11 @@ Angabe der Konfiguration der installierten ortsfesten Amateurfunkanlage, einschl
 
 Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen trifft die erforderlichen Anordnungen, um die Einhaltung dieser Verordnung zu gewährleisten. Sie kann insbesondere den Betrieb der ortsfesten Funkanlage beschränken oder untersagen. Anordnungen, die die Einhaltung des § 3 Satz 1 Nr. 1 gewährleisten, sind im Einvernehmen mit der zuständigen Immissionsschutzbehörde zu treffen.
 
-### § 15 Gebühren und Auslagen
-
-Für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen aufgrund der vorgenannten Regelungen werden Gebühren und Auslagen nach Anlage 1 erhoben. In den Fällen
-
-1.  
-der Zurücknahme eines Antrages nach dem Beginn der sachlichen Bearbeitung und vor der Beendigung der individuell zurechenbaren öffentlichen Leistung oder der Ablehnung eines Antrages aus anderen Gründen als wegen Unzuständigkeit werden bis zu 75 Prozent der Gebühr für den beantragten Verwaltungsakt,
-
-2.  
-einer vollständigen oder teilweisen Zurückweisung eines Widerspruchs gegen eine Sachentscheidung, soweit die Erfolglosigkeit nicht nur auf der Unbeachtlichkeit der Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes beruht, werden bis zu 100 Prozent der Gebühr für die angegriffene individuell zurechenbare öffentliche Leistung
-
-erhoben.
+### § 15 (weggefallen)
 
 ### § 15a Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 17 Absatz 1 Nummer 7 des Gesetzes über Funkanlagen und Telekommunikationsendeinrichtungen handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, entgegen § 5 Absatz 2 Satz 2 oder entgegen § 5 Absatz 3 Satz 5 eine ortsfeste Funkanlage betreibt.
+Ordnungswidrig im Sinne des § 37 Absatz 1 Nummer 14 des Gesetzes über die Bereitstellung von Funkanlagen auf dem Markt handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, entgegen § 5 Absatz 2 Satz 2 oder entgegen § 5 Absatz 3 Satz 5 eine ortsfeste Funkanlage betreibt.
 
 ### § 16 Übergangsbestimmungen
 
@@ -251,30 +241,6 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-### Anlage (zu § 15)
-
-Fundstelle des Originaltextes: BGBl. I 2002, 3371
-
-|       |                                                                                                                                                                                                                                                |                                                                                                             |
-|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| A.    | Gebühren für die Erteilung einer Standortbescheinigung                                                                                                                                                                                         | Gebühr in Euro                                                                                              |
-| A.1   | Grundbetrag für die Bearbeitung eines Antrages                                                                                                                                                                                                 | 73                                                                                                          |
-| A.2   | Zusätzlich zu A.1 für jede zu bewertende Sendeantenne (auch für bereits am Standort vorhandene und zu bewertende Sendeantennen bei Standortmitbenutzungen; auch bei vorläufigen Standortbescheinigungen gemäß § 5 Abs. 4)                      | 92                                                                                                          |
-| A.3   | Zusätzlich zu A.1 bei Betrachtung eines Standortes nach § 5 Abs. 3                                                                                                                                                                             | Die Höhe der Gebühr bemisst sich nach dem tatsächlichen Aufwand anhand der Gebührennummern A.5.1 bis A.5.3. |
-| A.4   | Je zu bewertender Sendeantenne bei der Umwandlung einer vorläufigen in eine endgültige Standortbescheinigung                                                                                                                                   | 92                                                                                                          |
-| A.5   | Zusätzlich zu den Gebührenpositionen A.2 bis A.4, wenn Messungen oder Nahfeldberechnungen erforderlich sind                                                                                                                                    | Die Höhe der Gebühr bemisst sich nach dem tatsächlichen Aufwand anhand der Gebührennummern A.5.1 bis A.5.5. |
-| A.5.1 | Stundensatz für Beamte des höheren Dienstes                                                                                                                                                                                                    | 240,17                                                                                                      |
-| A.5.2 | Stundensatz für Beamte des gehobenen Dienstes                                                                                                                                                                                                  | 169,37                                                                                                      |
-| A.5.3 | Stundensatz für Beamte des mittleren Dienstes                                                                                                                                                                                                  | 129,82                                                                                                      |
-| A.5.4 | Stundensatz für den Einsatz von Mess-Kfz (einschließlich messtechnischer Einrichtungen im Mess-Kfz)                                                                                                                                            | 57,26                                                                                                       |
-| A.5.5 | Fahrleistung eines Mess-Kfz je Kilometer                                                                                                                                                                                                       | 0,23                                                                                                        |
-|       |                                                                                                                                                                                                                                                |                                                                                                             |
-| B.    | Sonstige Gebühren                                                                                                                                                                                                                              | Gebühr in Euro                                                                                              |
-| B.1   | Anzeige einer nicht bescheinigungspflichtigen Funkanlage gemäß § 11 Abs. 2                                                                                                                                                                     | 22                                                                                                          |
-| B.2   | Zweitschrift einer Standortbescheinigung                                                                                                                                                                                                       | 25                                                                                                          |
-|       |                                                                                                                                                                                                                                                |                                                                                                             |
-| C.    | Betrieb einer Funkanlage ohne die erforderliche Standortbescheinigung oder unter Verstoß gegen deren Bestimmungen; Verletzung von Anzeige- und Dokumentationspflichten; Betrieb einer Amateurfunkanlage unter Verstoß gegen § 8 der Verordnung | Gebühr in Euro                                                                                              |
-| C.1   | Verwaltungsmäßiges Bearbeiten eines Verstoßes einschließlich Festlegen der Maßnahmen nach Aufwand                                                                                                                                              | 100 bis 2.000                                                                                               |
-| C.2   | Zusätzlich zu C.1 bei Ausführen eines mobilen Messeinsatzes                                                                                                                                                                                    | Die Höhe der Gebühr bemisst sich nach dem tatsächlichen Aufwand anhand der Gebührennummern A.5.1 bis A.5.5. |
+### Anlage (weggefallen)
 
 
