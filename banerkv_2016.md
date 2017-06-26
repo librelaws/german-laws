@@ -1,14 +1,11 @@
 Verordnung über die Anforderungen an und das Verfahren für die Anerkennung von Konformitätsbewertungsstellen im Bereich der elektromagnetischen Verträglichkeit von Betriebsmitteln und im Bereich der Bereitstellung von Funkanlagen (AnerkV)
 ==============================================================================================================================================================================================================================================
 
-Hinweis  
-Änderung durch Art. 4 Abs. 110 G v. 18.7.2016 I 1666 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Stand  
+Zuletzt geändert durch Art. 3 Abs. 2 G v. 27.6.2017 I 1947
 
-Hinweis  
-Änderung durch Art. 5 Abs. 12 G v. 18.7.2016 I 1666 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 2 Abs. 4 G v. 14.12.2016 I 2879 (Nr. 61) noch nicht berücksichtigt
+Sonst  
+Mittelbare Änderung durch Art. 3 Abs. 4 G v. 27.6.2017 I 1947 ist berücksichtigt
 
 ### 
 
@@ -24,7 +21,7 @@ Das Bundesministerium für Wirtschaft und Energie verordnet auf Grund
 des § 8 Absatz 1 Satz 6 des Gesetzes über Funkanlagen und Telekommunikationsendeinrichtungen, der zuletzt durch Artikel 2 Nummer 3 des Gesetzes vom 20. April 2012 (BGBl. I S. 606) geändert worden ist, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Verkehr und digitale Infrastruktur und
 
 –  
-des § 10 Absatz 2, § 17 Absatz 2 in Verbindung mit § 17 Absatz 1 Nummer 3 des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln, der zuletzt durch Artikel 461 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist,
+des § 21 Absatz 2 des Elektromagnetische-Verträglichkeit-Gesetzes vom 14. Dezember 2016 (BGBl. I S. 2879)
 
 jeweils in Verbindung mit § 23 Absatz 2 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154):
 
@@ -71,7 +68,7 @@ Schlussvorschriften
 |      |                                 |
 |------|---------------------------------|
 | § 14 | Widerruf der erteilten Befugnis |
-| § 15 | Gebühren und Auslagen           |
+| § 15 | (weggefallen)                   |
 | § 16 | Inkrafttreten, Außerkrafttreten |
 
 <table>
@@ -89,7 +86,7 @@ Schlussvorschriften
 <tr class="odd">
 <td>Anlage 3<br />
 (zu § 15)</td>
-<td>Gebühren und Auslagen für die Anerkennung von notifizierten Stellen und Konformitätsbewertungsstellen für Drittstaaten</td>
+<td>(weggefallen)</td>
 </tr>
 </tbody>
 </table>
@@ -178,9 +175,9 @@ c)
 des Geräts für das oder der Funkanlage für die der Antragsteller Kompetenz beansprucht und
 
 2.  
-wenn vorhanden, eine Akkreditierungsurkunde, die von der nationalen Akkreditierungsstelle ausgestellt wurde, und in der diese bescheinigt, dass der Antragsteller die Anforderungen des § 5 dieser Verordnung in Verbindung mit § 10 Absatz 1 Satz 1 des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln in der jeweils geltenden Fassung erfüllt.
+wenn vorhanden, eine Akkreditierungsurkunde, die von der nationalen Akkreditierungsstelle ausgestellt wurde, und in der diese bescheinigt, dass der Antragsteller die Anforderungen des § 5 dieser Verordnung erfüllt.
 
-(3) Kann der Antragsteller keine Akkreditierungsurkunde vorweisen, so legt er der Bundesnetzagentur als Nachweis alle Unterlagen vor, die erforderlich sind, um zu überprüfen, festzustellen und regelmäßig überwachen zu können, ob die Anforderungen des § 5 dieser Verordnung in Verbindung mit § 10 Absatz 1 Satz 1 des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln in der jeweils geltenden Fassung erfüllt sind.
+(3) Kann der Antragsteller keine Akkreditierungsurkunde vorweisen, so legt er der Bundesnetzagentur als Nachweis alle Unterlagen vor, die erforderlich sind, um zu überprüfen, festzustellen und regelmäßig überwachen zu können, ob die Anforderungen des § 5 dieser Verordnung erfüllt sind.
 
 (4) Die Bundesnetzagentur kann erforderliche Unterlagen nachfordern und eine Prüfung beim Antragsteller durchführen.
 
@@ -188,7 +185,7 @@ wenn vorhanden, eine Akkreditierungsurkunde, die von der nationalen Akkreditieru
 
 ### § 4 Anerkennung als notifizierte Stelle
 
-(1) Hat die Bundesnetzagentur festgestellt, dass der Antragsteller die Anforderungen des § 5 dieser Verordnung in Verbindung mit § 10 Absatz 1 Satz 1 des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln in der jeweils geltenden Fassung erfüllt, so erteilt sie diesem die Befugnis, Konformitätsbewertungen durchzuführen. Die Befugnis wird durch schriftlichen Bescheid erteilt. Der Bescheid muss Folgendes enthalten:
+(1) Hat die Bundesnetzagentur festgestellt, dass der Antragsteller die Anforderungen des § 5 dieser Verordnung erfüllt, so erteilt sie diesem die Befugnis, Konformitätsbewertungen durchzuführen. Die Befugnis wird durch schriftlichen Bescheid erteilt. Der Bescheid muss Folgendes enthalten:
 
 1.  
 Vollständige Angaben zu
@@ -203,7 +200,7 @@ c)
 dem betreffenden Gerät oder der betreffenden Funkanlage,
 
 2.  
-die Bestätigung, dass die Voraussetzungen des § 5 dieser Verordnung in Verbindung mit § 10 Absatz 1 Satz 1 des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln in der jeweils geltenden Fassung erfüllt sind und
+die Bestätigung, dass die Voraussetzungen des § 5 dieser Verordnung erfüllt sind und
 
 3.  
 die Befristung der Anerkennung als notifizierte Stelle.
@@ -309,7 +306,7 @@ die Fähigkeit zur Erstellung von EU-Baumusterprüfbescheinigungen oder Zulassun
 
 ### § 6 Konformitätsvermutung bei notifizierten Stellen
 
-Weist eine Konformitätsbewertungsstelle nach, dass sie die Kriterien der einschlägigen harmonisierten Normen, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht worden sind, oder von Teilen davon erfüllt, so wird vermutet, dass sie die Anforderungen nach § 5 dieser Verordnung in Verbindung mit § 10 Absatz 1 Satz 1 des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln in der jeweils geltenden Fassung erfüllt, in dem Maße, wie die anwendbaren harmonisierten Normen diese Anforderungen abdecken.
+Weist eine Konformitätsbewertungsstelle nach, dass sie die Kriterien der einschlägigen harmonisierten Normen, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht worden sind, oder von Teilen davon erfüllt, so wird vermutet, dass sie die Anforderungen nach § 5 dieser Verordnung erfüllt, in dem Maße, wie die anwendbaren harmonisierten Normen diese Anforderungen abdecken.
 
 (+++ § 6: Zur Anwendung vgl. § 11 Abs. 2, § 13 Abs. 2 +++)
 
@@ -365,7 +362,7 @@ auf Verlangen, jede Konformitätsbewertungstätigkeit, der sie im Geltungsbereic
 
 (1) Mit der Konformitätsbewertung verbundene Aufgaben dürfen nur mit Zustimmung des Auftraggebers an Unterauftragnehmer oder Zweigunternehmen übertragen werden.
 
-(2) Vergibt eine notifizierte Stelle mit der Konformitätsbewertung verbundene Aufgaben an Unterauftragsnehmer oder überträgt sie diese einem Zweigunternehmen, stellt sie sicher, dass der Unterauftragnehmer oder das Zweigunternehmen die Anforderungen nach § 5 dieser Verordnung in Verbindung mit § 10 Absatz 1 Satz 1 des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln in der jeweils geltenden Fassung erfüllt und unterrichtet die Bundesnetzagentur entsprechend.
+(2) Vergibt eine notifizierte Stelle mit der Konformitätsbewertung verbundene Aufgaben an Unterauftragsnehmer oder überträgt sie diese einem Zweigunternehmen, stellt sie sicher, dass der Unterauftragnehmer oder das Zweigunternehmen die Anforderungen nach § 5 dieser Verordnung erfüllt und unterrichtet die Bundesnetzagentur entsprechend.
 
 (3) Die notifizierte Stelle trägt die volle Verantwortung für die Arbeiten, die von Unterauftragnehmern oder Zweigunternehmen ausgeführt werden, unabhängig davon, wo diese niedergelassen sind.
 
@@ -380,13 +377,7 @@ Abschnitt 2 Funkanlagen
 
 ### § 10 Befugnis der notifizierten Stelle
 
-Mit der Anerkennung als notifizierte Stelle im Sinne des Gesetzes über Funkanlagen und Telekommunikationsendeinrichtungen ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft befugt, folgende Aufgaben wahrzunehmen:
-
-1.  
-die Konformitätsbewertung nach den Anhängen III bis V der Richtlinie 1999/5/EG des Europäischen Parlaments und des Rates vom 9. März 1999 über Funkanlagen und Telekommunikationsendeinrichtungen und die gegenseitige Anerkennung ihrer Konformität (ABl. L 91 vom 7.4.1999, S. 10) sowie
-
-2.  
-ab dem 13. Juni 2016 die Konformitätsbewertung nach Anhang III sowie die Bewertung und Überwachung von Qualitätsmanagementsystemen nach Anhang IV der Richtlinie 2014/53/EU.
+Mit der Anerkennung als notifizierte Stelle im Sinne des Funkanlagengesetzes ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft befugt, die Konformitätsbewertung nach Anhang III der Richtlinie 2014/53/EU sowie die Bewertung und Überwachung von Qualitätsmanagementsystemen nach Anhang IV der Richtlinie 2014/53/EU wahrzunehmen.
 
 (+++ § 10: Zur Anwendung vgl. § 11 Abs. 2, § 13 Abs. 2 +++)
 
@@ -405,13 +396,7 @@ Abschnitt 3 Elektromagnetische Verträglichkeit
 
 ### § 12 Befugnis der notifizierten Stelle
 
-Mit der Anerkennung als notifizierte Stelle im Sinne des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft befugt, die folgenden Aufgaben wahrzunehmen:
-
-1.  
-die Konformitätsbewertung nach § 7 Absatz 4 des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln vom 26. Februar 2008 (BGBl. I S. 220) sowie
-
-2.  
-ab dem 20. April 2016 die Konformitätsbewertung nach Anhang III der Richtlinie 2014/30/EU.
+Mit der Anerkennung als notifizierte Stelle im Sinne des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft befugt, die Konformitätsbewertung nach Anhang III der Richtlinie 2014/30/EU wahrzunehmen.
 
 ### § 13 Befugnis der Konformitätsbewertungsstelle für Drittstaaten
 
@@ -430,7 +415,7 @@ Abschnitt 4 Schlussvorschriften
 
 (1) Die Anerkennung als notifizierte Stelle oder Konformitätsbewertungsstelle für Drittstaaten erlischt mit der Einstellung des Betriebs dieser Stelle. Die Einstellung ist der Bundesnetzagentur unverzüglich schriftlich anzuzeigen.
 
-(2) Stellt die Bundesnetzagentur fest, dass eine notifizierte Stelle oder eine Konformitätsbewertungsstelle für Drittstaaten die in § 5 dieser Verordnung in Verbindung mit § 10 Absatz 1 Satz 1 des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln in der jeweils geltenden Fassung genannten Anforderungen nicht mehr erfüllt oder sonstigen Verpflichtungen nicht nachkommt, widerruft sie ganz oder teilweise die erteilte Befugnis. Sie unterrichtet unverzüglich die Europäische Kommission und die übrigen Mitgliedstaaten darüber.
+(2) Stellt die Bundesnetzagentur fest, dass eine notifizierte Stelle oder eine Konformitätsbewertungsstelle für Drittstaaten die in § 5 dieser Verordnung genannten Anforderungen nicht mehr erfüllt oder sonstigen Verpflichtungen nicht nachkommt, widerruft sie ganz oder teilweise die erteilte Befugnis. Sie unterrichtet unverzüglich die Europäische Kommission und die übrigen Mitgliedstaaten darüber.
 
 (3) Die Anerkennung als notifizierte Stelle oder Konformitätsbewertungsstelle für Drittsaaten ist zu widerrufen, wenn
 
@@ -448,15 +433,11 @@ die Akten dieser Stelle von einer anderen notifizierten Stelle oder einer andere
 2.  
 die Akten für die Marktüberwachungsbehörde und für die Bundesnetzagentur auf Verlangen bereitgehalten werden.
 
-### § 15 Gebühren und Auslagen
-
-Für individuell zurechenbare öffentliche Leistungen aufgrund der vorgenannten Regelungen werden Gebühren und Auslagen nach Anlage 3 zu dieser Verordnung erhoben. Für den Widerruf oder die Rücknahme eines Verwaltungsaktes, für die Ablehnung eines Antrags auf Vornahme einer individuell zurechenbaren öffentlichen Leistung sowie in den Fällen der Zurücknahme eines Antrags auf Vornahme einer individuell zurechenbaren öffentlichen Leistung werden Gebühren nach Maßgabe des § 23 Absatz 5 Satz 1 und 2 des Bundesgebührengesetzes erhoben.
+### § 15 (weggefallen)
 
 ### § 16 Inkrafttreten, Außerkrafttreten
 
-(1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Anerkennungs-Verordnung vom 7. Juni 2002 (BGBl. I S. 1792), die zuletzt durch Artikel 460 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, außer Kraft.
-
-(2) (weggefallen)
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Anerkennungs-Verordnung vom 7. Juni 2002 (BGBl. I S. 1792), die zuletzt durch Artikel 460 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, außer Kraft.
 
 ### Anlage 1 (zu § 11)Abkommen im Hinblick auf die Anerkennung von Konformitätsbewertungsstellen im Sektor Telekommunikation
 
@@ -486,109 +467,4 @@ Beschluss des Rates 98/78/EG vom 22. Juni 1998 über den Abschluss des Abkommens
 
 Beschluss des Rates 2001/747/EG vom 27. September 2001 über den Abschluss des Abkommens zwischen der Europäischen Gemeinschaft und Japan über die gegenseitige Anerkennung (ABl. L 284 vom 29.10.2001, S. 1), zuletzt geändert durch Beschluss des Rates 2002/804/EG (ABl. L 278 vom 16.10.2002, S. 23)
 
-### Anlage 3 (zu § 15)Gebühren und Auslagen für die Anerkennung von notifizierten Stellen und Konformitätsbewertungsstellen für Drittstaaten
-
-(Fundstelle: BGBl. I 2016, 85)
-
-Lfd.
-Nr.
-
-Gebührentatbestand
-
-Gebühr
-in Euro
-
-1  
-
-Verwaltungsmäßige Bearbeitung des Antrags auf Anerkennung als notifizierte Stelle nach § 10 oder § 12 oder auf Anerkennung als Konformitätsbewertungsstelle für Drittstaaten nach § 11 oder § 13
-
-1 000
-
-2  
-
-Antragstellung nach § 3 Absatz 2 i. V. m. § 10 oder § 12
-(zusätzlich zu den Gebühren nach Gebührenposition 1)
-
-2.1
-
-Prüfung der nach § 3 Absatz 2 Nummer 1 i. V. m. § 10 oder § 12 vorgelegten Beschreibung des beantragten Konformitätsbewertungsbereiches und Einhaltung der grundlegenden Anforderungen der jeweiligen Richtlinie
-
-491,84
-bis
-2 459,20
-
-2.2
-
-Prüfung der nach § 3 Absatz 2 Nummer 2 i. V. m. § 10 oder § 12 vorgelegten Akkreditierungsurkunde der DAkkS auf Plausibilität und Vollständigkeit
-
-491,84
-bis
-1 967,36
-
-2.3
-
-Regelmäßige Überprüfung nach § 4 Absatz 7 i. V. m. § 10 oder § 12
-
-491,84
-bis
-1 475,52
-
-3  
-
-Antragstellung nach § 3 Absatz 3 i. V. m. § 10, § 11, § 12 oder § 13
-(zusätzlich zu den Gebühren nach Gebührenposition 1)
-
-3.1
-
-Prüfung der nach § 3 Absatz 2 Nummer 1 i. V. m. § 10 oder § 12 vorgelegten Beschreibung des beantragten Konformitätsbewertungsbereiches
-
-491,84
-bis
-2 459,20
-
-3.2
-
-Überprüfung der Einhaltung der formalen Anforderungen zur Anerkennung nach § 3 Absatz 3 i. V. m. § 10, § 11, § 12 oder § 13
-
-1 475,52
-bis
-7 377,60
-
-3.3
-
-Überprüfung der fachlichen Anforderungen und der Kompetenz des Personals durch interne Begutachter mittels Fachgesprächen vor Ort nach § 3 Absatz 3 i. V. m. § 10, § 11, § 12 oder § 13 pro Person und Tag
-
-491,84
-
-3.4
-
-Gebühr bei fachlicher Prüfung von durchgeführten oder fiktiven Konformitätsbewertungen durch externe Begutachter vor Ort nach § 3 Absatz 3 i. V. m. § 10, § 11, § 12 oder § 13 pro Person und Tag
-(zusätzlich zu Gebührenposition 3.2)
-
-800
-bis
-5 000
-
-3.5
-
-Regelmäßige Überprüfung nach § 4 Absatz 7 i. V. m. § 10, § 11, § 12 oder § 13
-
-983,68
-bis
-2 951,04
-
-4  
-
-Erstellung eines Bescheids nach § 4 Absatz 1
-(zusätzlich zu den Gebühren nach Gebührenposition 1)
-
-250
-
-5  
-
-Anlassbezogene Überprüfung der Anforderungen nach § 2 Absatz 4
-(zusätzlich zu den Gebühren nach Gebührenposition 2 oder 3)
-
-1 475,52
-bis
-4 426,56
+### Anlage 3 (weggefallen)
