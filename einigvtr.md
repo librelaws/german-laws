@@ -2,7 +2,7 @@ Vertrag zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen
 ==========================================================================================================================================
 
 Stand  
-Zuletzt angepasst durch Art. 1 G v. 21.1.2013 I 91
+Zuletzt angepasst durch Art. 32 Abs. 3 G v. 27.6.2017 I 1966
 
 ### 
 
@@ -1100,7 +1100,7 @@ Lastenausgleichsgesetz in der Fassung der Bekanntmachung vom 1. Oktober 1969 (BG
 5.  
 Kriegsgefangenenentschädigungsgesetz in der Fassung der Bekanntmachung vom 4. Februar 1987 (BGBl. I S. 506), zuletzt geändert durch Artikel 5 des Gesetzes vom 22. Dezember 1989 (BGBl. I S. 2398)In § 3 Abs. 1 Satz 3 wird der Punkt durch einen Strichpunkt ersetzt und folgender Halbsatz angefügt "das gilt auch beim Zusammentreffen von eigenen Ansprüchen mit Ansprüchen nach § 5."
 
-### Anlage I Kap II D III Anlage I Kapitel II Sachgebiet D - Kriegsfolgenrecht Abschnitt III
+### Anlage I Kap II D III Anlage I Kapitel IISachgebiet D - KriegsfolgenrechtAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -1120,7 +1120,7 @@ c)
 Die Bestimmungen der §§ 4 bis 6 über die entsprechende Anwendung des Bundesversorgungsgesetzes und der zu seiner Durchführung erlassenen Vorschriften gelten in dem in Artikel 3 des Vertrages genannten Gebiet mit den in Anlage I Kapitel VIII Sachgebiet K Abschnitt III aufgeführten Maßgaben.
 
 d)  
-Erbrachte Leistungen für Berechtigte nach § 1 Abs. 1 in dem Gebiet, in dem das Häftlingshilfegesetz schon vor dem Beitritt gegolten hat, sind anzurechnen.
+(nicht mehr anzuwenden)
 
 4.  
 Lastenausgleichsgesetz in der Fassung der Bekanntmachung vom 1. Oktober 1969 (BGBl. I S. 1909), zuletzt geändert durch Artikel 2 des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1247),mit folgenden Maßgaben:
@@ -4485,15 +4485,7 @@ b)
 und c) (nicht mehr anzuwenden)
 
 d)  
-Die nachfolgenden Vorschriften des Artikels 1 treten am 1. Januar 1991 mit folgenden Maßgaben in Kraft:... §§ ..., 31 Abs. 1 ... Satz 2, Abs. 2 Satz 1 und Abs. 3, §§ ..., 235 und 301 Abs. 1:
-
-aa)  
-(früherer Satz 1 nicht mehr anzuwenden)
-Das Übergangsgeld wird in Höhe des Krankengeldes gezahlt, wenn zuvor Krankengeld bezogen wurde.Das Übergangsgeld erhöht sich bis zum 31. Dezember 1991 nach dem Ende des Bemessungszeitraums jeweils in den Zeitabständen und um den Vomhundertsatz wie die Renten in dem in Artikel 3 des Vertrages genannten Gebiet.
-(früherer Satz 4 nicht mehr anzuwenden)
-
-bb)  
-Bis zum 31. Dezember 1990 kann in dem in Artikel 3 des Vertrages genannten Gebiet nach den beim Wirksamwerden des Beitritts geltenden Regeln verfahren werden.
+(nicht mehr anzuwenden)
 
 e)  
 (nicht mehr anzuwenden)
@@ -5410,34 +5402,16 @@ Nach den mit der Deutschen Demokratischen Republik gemäß dem Übereinkommen vo
 Nach den bisherigen Vorschriften der Deutschen Demokratischen Republik erteilte Bauartgenehmigungen gelten als vorschriftsmäßig im Sinne von § 22a, wenn sie nach dieser Bestimmung bauartgenehmigungspflichtig wären, oder werden - ohne Bauartgenehmigungspflicht - als vorschriftsmäßig im Sinne von § 22 angesehen.
 
 (28)  
-bis (37) (nicht mehr anzuwenden)
-
-(38)  
-Bei Fahrzeugen, die nach den bisherigen Vorschriften der Deutschen Demokratischen Republik einer Abgassonderuntersuchung unterzogen wurden, muß die erste Untersuchung nach § 47a spätestens ein Jahr nach der gemäß den Bestimmungen der Deutschen Demokratischen Republik erfolgten Untersuchung vorgenommen werden.
-
-(39)  
-Bei Fahrzeugen, die bislang einer Abgassonderuntersuchung nicht unterzogen wurden, ist die erste Untersuchung nach § 47a spätestens in dem Jahr und in dem Monat durchzuführen, der für die nächste vorgeschriebene Hauptuntersuchung nach § 29 maßgeblich ist.
-
-(40)  
-Abweichend von § 47b gelten Anerkennungen nach den bisherigen Vorschriften der Deutschen Demokratischen Republik noch bis 30. Juni 1991.
+bis (40) (nicht mehr anzuwenden)
 
 (41)  
-§§ 35, 56 Abs. 2 Nr. 6 gelten für die ab 1. Juli 1991 erstmals in den Verkehr kommenden Fahrzeuge.
+§§ 35, *56 Abs. 2 Nr. 6* gelten für die ab 1. Juli 1991 erstmals in den Verkehr kommenden Fahrzeuge.
 
 (42)  
 § 57a gilt für die ab 1. Januar 1991 erstmals in den Verkehr kommenden Fahrzeuge.
 
 (43)  
-Fahrzeuge, die unter Beachtung der bisherigen Vorschriften der Deutschen Demokratischen Republik über Bau, Betrieb und Ausrüstung bis 31. Dezember 1990 erstmals in den Verkehr gekommen sind, gelten weiterhin als vorschriftsmäßig, wenn sie
-
-1.  
-spätestens bis zur nächsten vorgeschriebenen Hauptuntersuchung (§ 29) den Bestimmungen des § 35a Abs. 7 bis 9 (soweit geeignete Verankerungen vorhanden sind), §§ 35g, 35h, 36 Abs. 2a Satz 2 und 3, § 41 Abs. 14 sowie §§ 53a und 54b entsprechen,
-
-2.  
-spätestens bis 1. Juli 1991 den Bestimmungen der § 56 Abs. 3, §§ 57a, 58 entsprechen,
-
-3.  
-spätestens bis 31. Dezember 1997 der Vorschrift des § 41 Abs. 17 entsprechen.
+(nicht mehr anzuwenden)
 
 (44)  
 Das nach den bisherigen Vorschriften der Deutschen Demokratischen Republik vorgeschriebene Erste-Hilfe-Material gilt als vorschriftsmäßig im Sinne des § 35h. Die nach den bisherigen Vorschriften der Deutschen Demokratischen Republik vorgeschriebenen Feuerlöscher gelten als vorschriftsmäßig im Sinne des § 35g und die nach den bisherigen Vorschriften der Deutschen Demokratischen Republik vorgesehenen Warndreiecke und Warnleuchten als vorschriftsmäßig im Sinne des § 53a Abs. 1 und 2.
@@ -5473,10 +5447,7 @@ bis 13. (nicht mehr anzuwenden)
 Straßenverkehrs-Ordnung vom 16. November 1970 (BGBl. I S. 1565, 1971 I S. 38), zuletzt geändert durch Verordnung vom 9. November 1989 (BGBl. I S. 1976),mit folgenden Maßgaben:
 
 a)  
-bis c) (nicht mehr anzuwenden)
-
-d)  
-Das Zeichen 401 - Bundesstraßennummernschild - im Sinne des § 12 Abs. 3 Nr. 8 Buchstabe a steht dem Zeichen 306 - Vorfahrtstraße - gleich.
+bis d) (nicht mehr anzuwenden)
 
 e)  
 (nicht mehr anzuwenden)
@@ -5492,6 +5463,8 @@ Neben den in den §§ 39 bis 43 geregelten Verkehrszeichen bleiben diejenigen Ve
 
 15.  
 bis 18. (nicht mehr anzuwenden)
+
+Abschn. III Nr. 2 Abs. 41 Kursivdruck: Nicht mehr anzuwenden in Bezug auf § 56 Abs. 2 Nr. 6 der Straßenverkehrs-Zulassungs-Ordnung gem. Art. 122 Nr. 3 Buchst. a DBuchst. aa bbb G v. 8.7.2016 I 1594 mWv 15.7.2016
 
 ### Anlage I Kap XI C II Anlage I Kapitel XI Sachgebiet C - Luftfahrt Abschnitt II
 
@@ -5587,7 +5560,7 @@ Bei Schiffsbauwerken, deren Kiel in dem in Artikel 3 genannten Gebiet vor Wirksa
 (nicht mehr anzuwenden)
 
 9.  
-Schiffsvermessungsverordnung vom 5. Juli 1982 (BGBl. I S. 916, 1169), zuletzt geändert durch Verordnung vom 3. September 1990 (BGBl. I S. 1993),mit folgenden Maßgaben:Für Schiffe, die bis zum Wirksamwerden des Beitritts zur Führung der Staatsflagge der Deutschen Demokratischen Republik berechtigt waren, sowie für Sport- und Vergnügungsfahrzeuge, die bis zum Wirksamwerden des Beitritts nach einem vereinfachten Verfahren vermessen wurden, gelten die Meßbriefe und amtlich erteilten Vermessungsbescheinigungen als Meßbriefe und Bescheinigungen im Sinne von § 9, sofern innerhalb von drei Monaten nach Wirksamwerden des Beitritts ein Antrag auf Erteilung eines neuen Zeugnisses im Sinne von § 9 gestellt wird. Die Erteilung ist in diesem Fall gebührenfrei.
+(nicht mehr anzuwenden)
 
 10.  
 Sportbootführerscheinverordnung-See vom 20. Dezember 1973 (BGBl. I S. 1988), zuletzt geändert durch Verordnung vom 8. August 1989 (BGBl. I S. 1583),mit folgenden Maßgaben:
@@ -5599,7 +5572,7 @@ b)
 Die privaten Organisationen in dem in Artikel 3 des Vertrages genannten Gebiet für die Ausübung des Wassersports im Seebereich wirken bei der Erfüllung der Aufgaben nach §§ 4 und 6 mit, sofern die erforderlichen Voraussetzungen dafür gegeben sind.
 
 11.  
-Seetagebuchverordnung vom 8. Februar 1985 (BGBl. I S. 306)mit folgender Maßgabe:Von Schiffen der Deutschen Demokratischen Republik an Bord geführte Schiffstagebücher und Maschinentagebücher dürfen bis zu einer Neuregelung, mindestens für ein Jahr nach Wirksamwerden des Beitritts, als Seetagebücher im Sinne der Verordnung weitergeführt werden.
+(nicht mehr anzuwenden)
 
 12.  
 (nicht mehr anzuwenden)
@@ -5614,16 +5587,7 @@ b)
 Die vor Wirksamwerden des Beitritts nach den bisherigen Vorschriften der Deutschen Demokratischen Republik ausgestellten und gültigen Befähigungszeugnisse und sonstigen Qualifikationsnachweise von Kapitänen, Schiffsoffizieren und anderen Besatzungsmitgliedern für die Besetzung von Schiffen gelten als Befähigungszeugnisse und Qualifikationsnachweise nach dieser Verordnung entsprechend.
 
 14.  
-Schiffsoffizier-Ausbildungsverordnung vom 11. Februar 1985 (BGBl. I S. 323), geändert durch Verordnung vom 18. Dezember 1989 (BGBl. I S. 2457),Schiffsmechaniker-Ausbildungsverordnung vom 24. März 1983 (BGBl. I S. 338), zuletzt geändert durch Verordnung vom 23. März 1988 (BGBl. I S. 402), undSchiffsbetriebsmeister-Verordnung vom 18. April 1978 (BGBl. I S. 514)mit folgenden Maßgaben:
-
-a)  
-Die Vorschriften der Verordnungen, die organisatorische Änderungen im Bildungs- und Berufsbildungsbereich voraussetzen, werden erst dann angewendet, wenn die Voraussetzungen hierfür gegeben sind.
-
-b)  
-Als Befähigungsnachweise im Sinne der Schiffsoffizier-Ausbildungsverordnung gelten auch die entsprechenden vor Wirksamwerden des Beitritts nach den bisherigen Vorschriften und gültigen Befähigungszeugnisse, Berechtigungsscheine und Qualifikationsnachweise mit den damit verbundenen Befugnissen.
-
-c)  
-Die vor Wirksamwerden des Beitritts nach den bisherigen Vorschriften der Deutschen Demokratischen Republik erworbenen Qualifikationen werden bei Anwendung der Verordnungen von der zuständigen Stelle als Zulassungsvoraussetzungen im Sinne dieser Verordnungen entsprechend anerkannt.
+(nicht mehr anzuwenden)
 
 15.  
 Verordnung über die Krankenfürsorge auf Kauffahrteischiffen vom 25. April 1972 (BGBl. I S. 734), geändert durch Verordnung vom 8. Dezember 1987 (BGBl. I S. 2553),mit folgenden Maßgaben:
@@ -9518,7 +9482,7 @@ Anordnung vom 27. Februar 1979 über die Mitnahme gefährlicher Güter in öffen
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1226 - 1227)
 
-### Anlage II Kap XII III Anlage II Kapitel XII Fortgeltendes Recht der Deutschen Demokratischen Republik Abschnitt III
+### Anlage II Kap XII III Anlage II Kapitel XIIFortgeltendes Recht der Deutschen Demokratischen RepublikAbschnitt III
 
 1.  
 Umweltrahmengesetz vom 29. Juni 1990 (GBl. I Nr. 42 S. 649)mit folgenden Maßgaben:Folgende Regelungen gelten fort:
@@ -9596,10 +9560,10 @@ f)
 Artikel 4 § 3 in Verbindung mit Artikel 1 § 4 Abs. 3 in der oben geänderten Fassung.
 
 2.  
-Verordnung über die Gewährleistung von Atomsicherheit und Strahlenschutz vom 11. Oktober 1984 (GBl. I Nr. 30 S. 341) nebst Durchführungsbestimmung zur Verordnung über die Gewährleistung von Atomsicherheit und Strahlenschutz vom 11. Oktober 1984 (GBl. I Nr. 30 S. 348; Ber. GBl. I 1987 Nr. 18 S. 196)mit folgender Maßgabe:Die Vorschriften gelten fort für bergbauliche und andere Tätigkeiten, soweit dabei radioaktive Stoffe, insbesondere Radonfolgeprodukte, anwesend sind. An die Stelle des in den fortgeltenden Regelungen genannten Staatlichen Amtes für Atomsicherheit und Strahlenschutz oder des Präsidenten dieses Amtes treten die zuständigen Stellen.
+(weggefallen)
 
 3.  
-Anordnung zur Gewährleistung des Strahlenschutzes bei Halden und industriellen Absetzanlagen und bei der Verwendung darin abgelagerter Materialien vom 17. November 1980 (GBl. I Nr. 34 S. 347) mit der in Nummer 2 genannten Maßgabe.
+(weggefallen)
 
 4.  
 Anordnung vom 2. Februar 1984 über Abwassereinleitungsentgelt (GBl. I Nr. 5 S. 70), geändert durch Anordnung Nr. 2 vom 1. Juni 1987 (GBl. I Nr. 14 S. 164)mit folgender Maßgabe:Die Anordnung tritt am 31. Dezember 1990 außer Kraft.
