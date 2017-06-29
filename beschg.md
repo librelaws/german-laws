@@ -2,7 +2,7 @@ Gesetz über die Prüfung und Zulassung von Feuerwaffen, Böllern, Geräten, bei
 ========================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 Abs. 17 G v. 7.8.2013 I 3154
+Zuletzt geändert durch Art. 3 G v. 30.6.2017 I 2133
 
 ### 
 
@@ -29,6 +29,7 @@ Das G wurde als Art. 2 des G 7133-4/1 v. 11.10.2002 I 3970 vom Bundestag mit Zus
 | § 6                                      |
 | § 7                                      |
 | § 8                                      |
+| § 8a                                     |
 | § 9                                      |
 | § 10                                     |
 | § 11                                     |
@@ -327,17 +328,17 @@ den Anforderungen einer Rechtsverordnung nach § 14 Abs. 3 entsprechende Patrone
 
 (3) Hat die Schusswaffe ein Patronen- oder Kartuschenlager mit einem Durchmesser kleiner als 6 Millimeter und einer Länge kleiner als 7 Millimeter, so ist die Zulassung der Bauart ferner zu versagen, wenn die Bauart nicht haltbar, nicht funktionssicher oder nicht maßhaltig ist. Das Gleiche gilt für höchstbeanspruchte Teile von Handfeuerwaffen nach § 2 Abs. 2 Satz 2 Nr. 1 bis 3, die zum einmaligen Gebrauch bestimmt sind.
 
+### § 8a Prüfung und Zulassung von unbrauchbar gemachten Schusswaffen; Verordnungsermächtigung
+
+(1) Wer eine Schusswaffe unbrauchbar gemacht hat, muss diese der zuständigen Behörde binnen zwei Wochen zur Einzelzulassung vorlegen. Dabei ist die Dokumentation der Unbrauchbarmachung nach dem Waffengesetz oder nach einer auf Grund des Waffengesetzes erlassenen Verordnung beizufügen.
+
+(2) Die zuständige Behörde prüft die Einhaltung der Anforderungen nach Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.4 des Waffengesetzes. Sie kennzeichnet die unbrauchbar gemachte Waffe und ihre wesentlichen Teile. Darüber hinaus stellt sie dem Besitzer eine Deaktivierungsbescheinigung in deutscher und englischer Sprache aus.
+
+(3) Das Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Durchführungsregelungen zu den Maßgaben des Anhangs I Tabelle I bis III der Durchführungsverordnung (EU) 2015/2403 der Kommission vom 15.12.2015 zur Festlegung gemeinsamer Leitlinien über Deaktivierungsstandards und -techniken, die gewährleisten, dass Feuerwaffen bei der Deaktivierung endgültig unbrauchbar gemacht werden (ABl. L 333 vom 19.12.2015, S. 62), zu treffen sowie Einzelheiten zur Kennzeichnung der unbrauchbar gemachten Schusswaffe und ihrer wesentlichen Teile und zur Deaktivierungsbescheinigung zu regeln.
+
 ### § 9 Anzeige, Prüfung, Zulassung von sonstigen Waffen und Kartuschenmunition mit Reizstoffen
 
-(1) Wer
-
-1.  
-Schusswaffen nach Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.5 zum Waffengesetz,
-
-2.  
-unbrauchbar gemachte Schusswaffen oder aus Schusswaffen hergestellte Gegenstände
-
-eines bestimmten Modells gewerbsmäßig erstmals herstellen oder in den Geltungsbereich dieses Gesetzes verbringen will, hat dies der zuständigen Stelle zwei Monate vorher schriftlich anzuzeigen und den Gegenstand zur Prüfung und Zulassung einzureichen. Soweit es sich nicht um Einzelstücke handelt, ist der Stelle ein Muster und eine Abbildung, eine Beschreibung der Handhabung und der Konstruktion sowie der verwendeten Stoffe oder der zur Änderung nach Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.5 zum Waffengesetz benutzten Werkstoffe unter Angabe der Arbeitstechnik in deutscher Sprache zu überlassen. Die Stelle unterrichtet die Physikalisch-Technische Bundesanstalt schriftlich vom Ergebnis der Prüfung.
+(1) Wer Schusswaffen nach Anlage 2 Abschnitt 2 Unterabschnitt 2 Nummer 1.5 des Waffengesetzes eines bestimmten Modells gewerbsmäßig erstmals herstellen oder in den Geltungsbereich dieses Gesetzes verbringen will, hat dies der zuständigen Stelle zwei Monate vorher schriftlich anzuzeigen und den Gegenstand zur Prüfung und Zulassung einzureichen. Soweit es sich nicht um Einzelstücke handelt, ist der Stelle ein Muster und eine Abbildung, eine Beschreibung der Handhabung und der Konstruktion sowie der verwendeten Stoffe oder der zur Änderung nach Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.5 zum Waffengesetz benutzten Werkstoffe unter Angabe der Arbeitstechnik in deutscher Sprache zu überlassen. Die Stelle unterrichtet die Physikalisch-Technische Bundesanstalt schriftlich oder elektronisch vom Ergebnis der Prüfung.
 
 (2) Wer
 
@@ -620,6 +621,8 @@ die zugelassene pyrotechnische Munition nicht mehr gewerbsmäßig herstellt oder
 
 (2) Zuständig für die Beschussprüfung, die Zulassung von Munition, für Kontrollen, Anordnungen und Untersagungen für Munition ist jede Behörde nach Absatz 1, bei der ein Gegenstand zur Beschussprüfung vorgelegt wird oder bei der eine Zulassung oder Kontrolle beantragt wird. Die periodische Kontrolle der Munition ist bei der Behörde zu beantragen, welche die Zulassung erteilt hat.
 
+(2a) Zuständig für die Prüfung und Zulassung nach § 8a ist jede Behörde nach Absatz 1, bei der eine unbrauchbar gemachte Schusswaffe vorgelegt wird.
+
 (3) Zuständig für die Zulassung der in den §§ 7 und 8 und die Prüfung der in § 9 Abs. 4 bezeichneten Schusswaffen und technischen Gegenstände ist die Physikalisch-Technische Bundesanstalt; ihr gegenüber sind auch die Anzeigen nach § 9 Abs. 2 zu machen. Für die Prüfung und Zulassung der in § 10 bezeichneten pyrotechnischen Munition sowie der in § 11 Absatz 1 in Verbindung mit Anlage 1 Abschnitt 1 Unterabschnitt 3 Nummer 1.3 zum Waffengesetz bezeichneten hülsenlosen Munition ohne Geschoss ist die Bundesanstalt für Materialforschung und -prüfung zuständig.
 
 (4) Die Physikalisch-Technische Bundesanstalt führt eine Liste der Prüfungen und Zulassungen, die folgende Angaben enthalten soll:
@@ -647,6 +650,9 @@ entgegen § 3 Abs. 1 Satz 1, auch in Verbindung mit Satz 3, oder Abs. 2 Satz 1, 
 
 2.  
 entgegen § 7 Abs. 1 Satz 1, auch in Verbindung mit Satz 2, oder § 8 Abs. 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 14 Abs. 2 Satz 1 Nr. 4, oder entgegen § 10 Abs. 1 einen dort genannten Gegenstand in den Geltungsbereich dieses Gesetzes verbringt oder gewerbsmäßig herstellt,
+
+2a.  
+entgegen § 8a Absatz 1 Satz 1 eine unbrauchbar gemachte Schusswaffe nicht oder nicht rechtzeitig vorlegt,
 
 3.  
 entgegen § 9 Abs. 1 Satz 1 oder Abs. 2 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
@@ -707,3 +713,7 @@ Abschnitt 4 Übergangsvorschriften
 (6) Bis zum Inkrafttreten einer Verordnung zu diesem Gesetz findet die Dritte Verordnung zum Waffengesetz in der Fassung der Bekanntmachung vom 2. September 1991 (BGBl. I S. 1872), zuletzt geändert durch die Verordnung vom 10. Januar 2000 (BGBl. I S. 38), sinngemäß Anwendung.
 
 (7) Bis zum Inkrafttreten einer Kostenverordnung zu diesem Gesetz findet die Kostenverordnung zum Waffengesetz in der Fassung der Bekanntmachung vom 20. April 1990 (BGBl. I S. 780), zuletzt geändert durch die Verordnung vom 10. Januar 2000 (BGBl. I S. 38), sinngemäß Anwendung.
+
+(8) Prüfungsverfahren, die auf der Grundlage des § 9 Absatz 1 Satz 1 Nummer 2 oder Absatz 5 in der Fassung dieses Gesetzes vom 11. Oktober 2002 (BGBl. I S. 3970) eingeleitet worden sind, sind nach Maßgabe dieses Gesetzes abzuschließen oder in Prüfungsverfahren nach diesem Gesetz zu überführen.
+
+(9) Der Besitz von unbrauchbar gemachten Schusswaffen, die vor dem 8. April 2016 nach § 9 Absatz 1 Satz 1 Nummer 2 oder Absatz 5 in der Fassung dieses Gesetzes vom 11. Oktober 2002 (BGBl. I S. 3970) zugelassen worden sind, darf durch den bisherigen Besitzer fortgesetzt werden. Im Übrigen richtet sich der Umgang nach den Bestimmungen, die im Waffengesetz oder auf Grund des Waffengesetzes getroffen sind.
