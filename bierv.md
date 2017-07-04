@@ -2,7 +2,7 @@ Bierverordnung ()
 =================
 
 Stand  
-Zuletzt geändert durch Art. 5 V v. 8.5.2008 I 797
+Zuletzt geändert durch Art. 26 V v. 5.7.2017 I 2272
 
 ### 
 
@@ -22,7 +22,7 @@ auf Grund des Artikels 4 Abs. 1 Nr. 8 und 9 und Abs. 2 des Gesetzes zur Gesamtre
 
 (1) Unter der Bezeichnung Bier - allein oder in Zusammensetzung - oder unter Bezeichnungen oder bildlichen Darstellungen, die den Anschein erwecken, als ob es sich um Bier handelt, dürfen gewerbsmäßig nur Getränke in den Verkehr gebracht werden, die gegoren sind und den Vorschriften des § 9 Abs. 1, 2 und 4 bis 6 des Vorläufigen Biergesetzes und den §§ 16 bis 19, § 20 Abs. 1 Satz 2 und §§ 21 und 22 Abs. 1 der Verordnung zur Durchführung des Vorläufigen Biergesetzes entsprechen.
 
-(2) Abweichend von Absatz 1 dürfen im Ausland hergestellte gegorene Getränke, die nicht den in Absatz 1 genannten Vorschriften entsprechen, unter der Bezeichnung "Bier" gewerbsmäßig in den Verkehr gebracht werden, wenn sie im jeweiligen Herstellungsland unter der Bezeichnung "Bier" oder einer dieser Bezeichnung entsprechenden Verkehrsbezeichnung verkehrsfähig sind. Sind diesen Getränken zulassungsbedürftige Zusatzstoffe zugesetzt worden, so gilt dies jedoch nur, wenn für diese Zusatzstoffe eine Ausnahmeregelung nach dem Lebensmittel- und Futtermittelgesetzbuch getroffen worden ist.
+(2) Abweichend von Absatz 1 dürfen im Ausland hergestellte gegorene Getränke, die nicht den in Absatz 1 genannten Vorschriften entsprechen, unter der Bezeichnung "Bier" gewerbsmäßig in den Verkehr gebracht werden, wenn sie im jeweiligen Herstellungsland unter der Bezeichnung "Bier" oder einer dieser Bezeichnung entsprechenden Bezeichnung des Lebensmittels verkehrsfähig sind. Sind diesen Getränken zulassungsbedürftige Zusatzstoffe zugesetzt worden, so gilt dies jedoch nur, wenn für diese Zusatzstoffe eine Ausnahmeregelung nach dem Lebensmittel- und Futtermittelgesetzbuch getroffen worden ist.
 
 (3) Ein Getränk, bei dem die Gärung unterbrochen ist, gilt ebenfalls als gegoren.
 
