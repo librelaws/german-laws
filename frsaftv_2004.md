@@ -2,7 +2,7 @@ Verordnung über Fruchtsaft, einige ähnliche Erzeugnisse, Fruchtnektar und koff
 ===================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 V v. 30.6.2015 I 1090
+Zuletzt geändert durch Art. 12 V v. 5.7.2017 I 2272
 
 ### 
 
@@ -74,9 +74,9 @@ werden.
 
 ### § 3 Kennzeichnung
 
-(1) Für die in Anlage 1 aufgeführten Erzeugnisse sind die dort in Spalte 1 genannten Bezeichnungen Verkehrsbezeichnungen im Sinne der Lebensmittel-Kennzeichnungsverordnung.
+(1) Für die in Anlage 1 aufgeführten Erzeugnisse sind die dort in Spalte 1 genannten Bezeichnungen Bezeichnungen der Lebensmittel nach der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der jeweils geltenden Fassung.
 
-(2) Die in Anlage 1 vorgeschriebenen Bezeichnungen sind den dort in Spalte 1 genannten Erzeugnissen vorbehalten. Abweichend von Satz 1 dürfen Erzeugnisse aus einer einzigen Fruchtart nur dann in den Verkehr gebracht werden, wenn der Wortbestandteil "Frucht" durch die Bezeichnung der Fruchtart ersetzt wurde. Bei den in Anlage 1 aufgeführten Erzeugnissen, Fruchtmark und konzentriertem Fruchtmark, die mit der entsprechenden Verkehrsbezeichnung oder der gebräuchlichen Bezeichnung der jeweils verwendeten Früchte benannt sind, sind bei der Herstellung die in Anlage 6 mit ihren botanischen Namen aufgeführten Fruchtarten zu verwenden. Bei Fruchtarten, die nicht in Anlage 6 aufgeführt sind, ist der korrekte botanische oder allgemein gebräuchliche Name der Frucht in der Verkehrsbezeichnung anzugeben. Die Bezeichnung "Süßmost" darf nur in Verbindung mit der Verkehrsbezeichnung "Fruchtsaft" oder "Fruchtnektar" verwendet werden für:
+(2) Die in Anlage 1 vorgeschriebenen Bezeichnungen sind den dort in Spalte 1 genannten Erzeugnissen vorbehalten. Abweichend von Satz 1 dürfen Erzeugnisse aus einer einzigen Fruchtart nur dann in den Verkehr gebracht werden, wenn der Wortbestandteil "Frucht" durch die Bezeichnung der Fruchtart ersetzt wurde. Bei den in Anlage 1 aufgeführten Erzeugnissen, Fruchtmark und konzentriertem Fruchtmark, die mit der entsprechenden Bezeichnung des Lebensmittels oder der gebräuchlichen Bezeichnung der jeweils verwendeten Früchte benannt sind, sind bei der Herstellung die in Anlage 6 mit ihren botanischen Namen aufgeführten Fruchtarten zu verwenden. Bei Fruchtarten, die nicht in Anlage 6 aufgeführt sind, ist der korrekte botanische oder allgemein gebräuchliche Name der Frucht in der Bezeichnung des Lebensmittels anzugeben. Die Bezeichnung "Süßmost" darf nur in Verbindung mit der Bezeichnung des Lebensmittels "Fruchtsaft" oder "Fruchtnektar" verwendet werden für:
 
 1.  
 Fruchtsaft, der aus Äpfeln oder Birnen, letzterer gegebenenfalls unter Hinzufügung von Äpfeln, hergestellt wurde,
@@ -86,10 +86,10 @@ Fruchtnektar, der ausschließlich aus Fruchtsäften, konzentrierten Fruchtsäfte
 
 Ergänzend zu den nach den Sätzen 1 und 2 vorgeschriebenen Bezeichnungen können die in Anlage 7 vorgesehenen Bezeichnungen nach den dort genannten Maßgaben verwendet werden.
 
-(3) In Anlage 1 aufgeführte Erzeugnisse dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn zusätzlich zu den nach der Lebensmittel-Kennzeichnungsverordnung vorgeschriebenen Angaben nach Maßgabe des Absatzes 4 angegeben sind:
+(3) In Anlage 1 aufgeführte Erzeugnisse dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn zusätzlich zu den nach der Verordnung (EU) Nr. 1169/2011 vorgeschriebenen Angaben nach Maßgabe des Absatzes 4 angegeben sind:
 
 1.  
-bei Erzeugnissen aus zwei oder mehr Fruchtarten als Bestandteil der Verkehrsbezeichnung die Angabe der verwendeten Fruchtarten in absteigender Reihenfolge des Volumens der enthaltenen Fruchtsäfte oder des enthaltenen Fruchtmarks entsprechend den Angaben im Verzeichnis der Zutaten,
+bei Erzeugnissen aus zwei oder mehr Fruchtarten als Bestandteil der Bezeichnung des Lebensmittels die Angabe der verwendeten Fruchtarten in absteigender Reihenfolge des Volumens der enthaltenen Fruchtsäfte oder des enthaltenen Fruchtmarks entsprechend den Angaben im Verzeichnis der Zutaten,
 
 2.  
 bei Fruchtsäften der Zusatz von Fruchtfleisch oder Zellen,
@@ -105,9 +105,9 @@ bei konzentriertem Fruchtsaft oder Fruchtsaftkonzentrat nach Anlage 1 Nummer 2, 
 
 Die Angabe nach Satz 1 Nummer 5 hat auf der Verpackung, auf einem an der Verpackung angebrachten Etikett oder in einem Begleitdokument zu erfolgen. Abweichend von Satz 1 Nr. 1 kann bei aus drei oder mehr Fruchtarten hergestellten Erzeugnissen statt der dort vorgeschriebenen Angabe die Angabe "Mehrfrucht", eine ähnliche Angabe oder die Angabe der Zahl der verwendeten Fruchtarten gebraucht werden; Zitronensaft oder Limettensaft, der nach Maßgabe von Anlage 3 Nr. 2 verwendet wurde, muss bei der Feststellung der Zahl der verwendeten Fruchtarten nicht berücksichtigt werden.
 
-(4) Die Angabe nach Absatz 3 Satz 1 Nummer 3 ist deutlich hervortretend und in Verbindung mit der Verkehrsbezeichnung anzubringen. Die Angabe nach Absatz 3 Satz 1 Nummer 4 ist im selben Sichtfeld wie die Verkehrsbezeichnung anzubringen. Im Übrigen gilt für die Art und Weise der Kennzeichnung nach Absatz 3 § 3 Abs. 3 Satz 1, 2 und 3 erster Halbsatz und Abs. 4 der Lebensmittel-Kennzeichnungsverordnung entsprechend.
+(4) Die Angabe nach Absatz 3 Satz 1 Nummer 3 ist deutlich hervortretend und in Verbindung mit der Bezeichnung des Lebensmittels anzubringen. Die Angabe nach Absatz 3 Satz 1 Nummer 4 ist im selben Sichtfeld wie die Bezeichnung des Lebensmittels anzubringen. Im Übrigen gelten Artikel 8 Absatz 7, Artikel 12 Absatz 1 und 2 und Artikel 13 Absatz 1 bis 3 der Verordnung (EU) Nr. 1169/2011 sowie § 2 der Lebensmittelinformations-Durchführungsverordnung entsprechend.
 
-(5) Abweichend von § 3 Abs. 1 Nr. 3 der Lebensmittel-Kennzeichnungsverordnung ist die Angabe der zur Wiederherstellung des ursprünglichen Zustandes der in Anlage 1 aufgeführten Erzeugnisse unerlässlichen Zutaten im Zutatenverzeichnis nicht erforderlich.
+(5) Abweichend von Artikel 9 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1169/2011 ist die Angabe der zur Wiederherstellung des ursprünglichen Zustandes der in Anlage 1 aufgeführten Erzeugnisse unerlässlichen Zutaten im Zutatenverzeichnis nicht erforderlich.
 
 (6) Fruchtnektar darf mit der Angabe, dass diesem kein Zucker zugesetzt wurde, oder einer Angabe, bei der davon auszugehen ist, dass diese für den Verbraucher dieselbe Bedeutung hat, nur in den Verkehr gebracht werden, wenn das Erzeugnis keine zugesetzten
 
@@ -147,26 +147,28 @@ auf Grund natürlicher und unvermeidbarer Gärungsprozesse in anderen verwendete
 
 ### § 6 Kennzeichnung koffeinhaltiger Erfrischungsgetränke
 
-(1) Koffeinhaltige Erfrischungsgetränke dürfen gewerbsmäßig ferner nur in den Verkehr gebracht werden, wenn sie mit den Angaben nach den Absätzen 2 oder 3 unter den dort genannten Voraussetzungen und nach Maßgabe des Absatzes 4 sowie des Absatzes 5 versehen sind.
-
-(2) Koffeinhaltige Erfrischungsgetränke sind mit einer Angabe zu versehen, die klar und eindeutig auf den Koffeingehalt hinweist. Satz 1 gilt nicht für koffeinhaltige Erfrischungsgetränke auf der Grundlage von Kaffee, Tee oder Kaffee- oder Tee-Extrakt, wenn dies aus der Kennzeichnung oder Aufmachung klar erkennbar ist.
-
-(3) Koffeinhaltige Erfrischungsgetränke mit einem Koffeingehalt von mehr als 150 Milligramm Koffein pro Liter im verzehrfertigen Zustand sind mit der Angabe „erhöhter Koffeingehalt“, gefolgt von der Angabe des Koffeingehaltes in Klammern in Milligramm pro 100 Milliliter, zu versehen. Bei konzentrierten Erzeugnissen kann auf den verzehrfertigen Zustand Bezug genommen werden. Konzentrierte Erzeugnisse sind mit Hinweisen zur Zubereitung der verzehrfertigen Erzeugnisse zu versehen. Satz 1 gilt nicht für koffeinhaltige Erfrischungsgetränke auf der Grundlage von Kaffee, Tee oder Kaffee- oder Tee-Extrakt, deren Verkehrsbezeichnung die Wortbestandteile „Kaffee“ oder „Tee“ enthält.
-
-(4) Werden die koffeinhaltigen Erfrischungsgetränke in Fertigpackungen im Sinne des § 1 Absatz 1 Satz 1 der Lebensmittel-Kennzeichnungsverordnung an Verbraucherinnen oder Verbraucher abgegeben, gilt für die Art und Weise der Kennzeichnung § 3 Absatz 3 Satz 1, 2 und 3 erster Halbsatz der Lebensmittel-Kennzeichnungsverordnung entsprechend. Die Angaben nach Absatz 3 Satz 1 sind im selben Sichtfeld wie die Verkehrsbezeichnung anzubringen.
-
-(5) Bei koffeinhaltigen Erfrischungsgetränken, die auf eine andere als der in Absatz 4 Satz 1 genannten Weise an Verbraucherinnen oder Verbraucher abgegeben werden, sind die Angaben nach Absatz 2 und 3 wie folgt anzubringen:
+(1) Koffeinhaltige Erfrischungsgetränke mit einem Koffeingehalt von mehr als 150 Milligramm Koffein pro Liter im verzehrfertigen Zustand, die
 
 1.  
-bei loser Abgabe auf einem Schild auf oder neben dem koffeinhaltigen Erfrischungsgetränk,
+ohne Verpackung zum Verkauf angeboten werden,
 
 2.  
-bei der Abgabe von koffeinhaltigen Erfrischungsgetränken in Gaststätten auf Speise- und Getränkekarten,
+auf Wunsch des Endverbrauchers oder des Anbieters von Gemeinschaftsverpflegung am Verkaufsort verpackt werden oder
 
 3.  
-bei der Abgabe von koffeinhaltigen Erfrischungsgetränken in Einrichtungen zur Gemeinschaftsverpflegung auf Speisekarten oder in Preisverzeichnissen oder, soweit keine solchen ausgelegt sind oder ausgehändigt werden, in einem sonstigen Aushang oder einer schriftlichen Mitteilung.
+im Hinblick auf ihren unmittelbaren Verkauf vorverpackt und nicht zur Selbstbedienung angeboten werden,
 
-In den Fällen der Nummern 2 und 3 darf die vorgeschriebene Angabe in Fußnoten angebracht werden, wenn bei der Verkehrsbezeichnung auf die Fußnoten hingewiesen wird.
+dürfen mit dem Ziel der Abgabe an den Endverbraucher oder an Anbieter von Gemeinschaftsverpflegung nur in den Verkehr gebracht werden, wenn sie nach Maßgabe des Absatzes 2 mit den Angaben nach Anhang III Nummer 4.1. der Verordnung (EU) Nr. 1169/2011 versehen sind.
+
+(2) Die Angaben nach Absatz 1 sind wie folgt anzubringen:
+
+1.  
+bei der Abgabe ohne Verpackung auf einem Schild auf oder neben dem koffeinhaltigen Erfrischungsgetränk oder
+
+2.  
+bei der Abgabe von koffeinhaltigen Erfrischungsgetränken durch Anbieter von Gemeinschaftsverpflegung: auf Speise- und Getränkekarten oder in Preisverzeichnissen oder, sofern keine solchen ausgelegt oder ausgehändigt werden, in einem sonstigen Aushang oder in einer schriftlichen Mitteilung.
+
+(3) Im Fall von Absatz 2 Nummer 2 dürfen die vorgeschriebenen Angaben in Fußnoten angebracht werden, wenn bei der Bezeichnung des Lebensmittels auf die entsprechende Fußnote hingewiesen wird.
 
 Abschnitt 4 Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen
 -------------------------------------------------------------------------------------
@@ -211,13 +213,14 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage 1 (zu § 1 Absatz 1, § 2 Absatz 1 bis 5, § 3 Absatz 1 bis 3 und § 7)
 
-(Fundstelle: BGBl. I 2013, 3891 - 3892)
+(Fundstelle: BGBl. I 2013, 3891 - 3892;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-Verkehrsbezeichnungen, Herstellungsanforderungen
+Bezeichnungen der Lebensmittel, Herstellungsanforderungen
 
 Lfd. Nr.
 
-Verkehrsbezeichnungen
+Bezeichnungen der Lebensmittel
 
 Herstellungsanforderungen
 
@@ -685,7 +688,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 <td>Ergänzende Bezeichnungen</td>
 </tr>
 <tr class="odd">
-<td>Verkehrsbezeichnungen</td>
+<td>Bezeichnungen der Lebensmittel</td>
 </tr>
 <tr class="even">
 <td>1.</td>
@@ -714,7 +717,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 </tbody>
 </table>
 
-In den Fällen der Nummern 4 und 5 sind die Verkehrsbezeichnungen durch die Angabe der verwendeten Frucht in dänischer Sprache zu ergänzen.
+In den Fällen der Nummern 4 und 5 sind die Bezeichnungen der Lebensmittel durch die Angabe der verwendeten Frucht in dänischer Sprache zu ergänzen.
 
 ### Anlage 8 (zu den §§ 4 und 5)
 
