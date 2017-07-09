@@ -86,7 +86,7 @@ eine eigenständig begründete schriftliche Bewertung des Ursachenzusammenhangs 
 
 (1) Diese Verordnung tritt am 1. Dezember 1997 in Kraft.
 
-(2)
+(2) (Aufhebungsvorschriften)
 
 ### Schlußformel
 
