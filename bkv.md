@@ -2,7 +2,7 @@ Berufskrankheiten-Verordnung (BKV)
 ==================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 11.6.2009 I 1273
+Zuletzt geändert durch Art. 1 V v. 10.7.2017 I 2299
 
 ### 
 
@@ -40,7 +40,7 @@ gezahlt. Renten wegen Minderung der Erwerbsfähigkeit sind nicht zu berücksicht
 
 (1) Die für den medizinischen Arbeitsschutz zuständigen Stellen wirken bei der Feststellung von Berufskrankheiten und von Krankheiten, die nach § 9 Abs. 2 des Siebten Buches Sozialgesetzbuch wie Berufskrankheiten anzuerkennen sind, nach Maßgabe der Absätze 2 bis 4 mit.
 
-(2) Die Unfallversicherungsträger haben die für den medizinischen Arbeitsschutz zuständigen Stellen über die Einleitung eines Feststellungsverfahrens unverzüglich schriftlich zu unterrichten; als Unterrichtung gilt auch die Übersendung der Anzeige nach § 193 Abs. 2 und 7 oder § 202 des Siebten Buches Sozialgesetzbuch. Die Unfallversicherungsträger beteiligen die für den medizinischen Arbeitsschutz zuständigen Stellen an dem weiteren Feststellungsverfahren; das nähere Verfahren können die Unfallversicherungsträger mit den für den medizinischen Arbeitsschutz zuständigen Stellen durch Vereinbarung regeln.
+(2) Die Unfallversicherungsträger haben die für den medizinischen Arbeitsschutz zuständigen Stellen über die Einleitung eines Feststellungsverfahrens unverzüglich zu unterrichten; als Unterrichtung gilt auch die Übersendung der Anzeige nach § 193 Abs. 2 und 7 oder § 202 des Siebten Buches Sozialgesetzbuch. Die Unfallversicherungsträger beteiligen die für den medizinischen Arbeitsschutz zuständigen Stellen an dem weiteren Feststellungsverfahren; das nähere Verfahren können die Unfallversicherungsträger mit den für den medizinischen Arbeitsschutz zuständigen Stellen durch Vereinbarung regeln.
 
 (3) In den Fällen der weiteren Beteiligung nach Absatz 2 Satz 2 haben die Unfallversicherungsträger vor der abschließenden Entscheidung die für den medizinischen Arbeitsschutz zuständigen Stellen über die Ergebnisse ihrer Ermittlungen zu unterrichten. Soweit die Ermittlungsergebnisse aus Sicht der für den medizinischen Arbeitsschutz zuständigen Stellen nicht vollständig sind, können sie den Unfallversicherungsträgern ergänzende Beweiserhebungen vorschlagen; diesen Vorschlägen haben die Unfallversicherungsträger zu folgen.
 
@@ -62,17 +62,21 @@ eine eigenständig begründete schriftliche Bewertung des Ursachenzusammenhangs 
 
 ### § 6 Rückwirkung
 
-(1) Leiden Versicherte am 1. Juli 2009 an einer Krankheit nach Nummer 2112, 4114 oder 4115 der Anlage 1, ist diese auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 30. September 2002 eingetreten ist. Leiden Versicherte am 1. Juli 2009 an einer Krankheit nach Nummer 4113 der Anlage 1, ist diese auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 30. November 1997 eingetreten ist. Leiden Versicherte am 1. Juli 2009 an einer Krankheit nach Nummer 1318 der Anlage 1, ist die Krankheit auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall vor diesem Tag eingetreten ist.
+(1) Leiden Versicherte am 1. August 2017 an einer Krankheit nach den Nummern 1320, 1321, 2115, 4104 (Eierstockkrebs) oder 4113 (Kehlkopfkrebs) der Anlage 1, ist die Krankheit auf Antrag als Berufskrankheit anzuerkennen, wenn sie vor diesem Tag eingetreten ist.
 
-(2) Leidet ein Versicherter am 1. Oktober 2002 an einer Krankheit nach Nummer 4112 der Anlage 1, ist diese auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 30. November 1997 eingetreten ist. Satz 1 gilt auch für eine Krankheit nach Nummer 2106 der Anlage 1, wenn diese nicht bereits nach der Nummer 2106 der Anlage 1 in der am 1. Dezember 1997 in Kraft getretenen Fassung als Berufskrankheit anerkannt werden kann.
+(2) Leiden Versicherte am 1. Januar 2015 an einer Krankheit nach Nummer 1319, 2113, 2114 oder 5103 der Anlage 1, ist die Krankheit auf Antrag als Berufskrankheit anzuerkennen, wenn sie vor diesem Tag eingetreten ist.
 
-(3) Leidet ein Versicherter am 1. Dezember 1997 an einer Krankheit nach Nummer 1316, 1317, 4104 (Kehlkopfkrebs) oder 4111 der Anlage 1, ist diese auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 31. Dezember 1992 eingetreten ist. Abweichend von Satz 1 ist eine Erkrankung nach Nummer 4111 der Anlage 1 auch dann als Berufskrankheit anzuerkennen, wenn die Erkrankung bereits vor dem 1. Januar 1993 eingetreten und einem Unfallversicherungsträger bis zum 31. Dezember 2009 bekannt geworden ist.
+(3) Leiden Versicherte am 1. Juli 2009 an einer Krankheit nach Nummer 2112, 4114 oder 4115 der Anlage 1, ist diese auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 30. September 2002 eingetreten ist. Leiden Versicherte am 1. Juli 2009 an einer Krankheit nach Nummer 4113 der Anlage 1, ist diese auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 30. November 1997 eingetreten ist. Leiden Versicherte am 1. Juli 2009 an einer Krankheit nach Nummer 1318 der Anlage 1, ist die Krankheit auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall vor diesem Tag eingetreten ist.
 
-(4) Hat ein Versicherter am 1. Januar 1993 an einer Krankheit gelitten, die erst auf Grund der Zweiten Verordnung zur Änderung der Berufskrankheiten-Verordnung vom 18. Dezember 1992 (BGBl. I S. 2343) als Berufskrankheit anerkannt werden kann, ist die Krankheit auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 31. März 1988 eingetreten ist.
+(4) Leidet ein Versicherter am 1. Oktober 2002 an einer Krankheit nach Nummer 4112 der Anlage 1, ist diese auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 30. November 1997 eingetreten ist. Satz 1 gilt auch für eine Krankheit nach Nummer 2106 der Anlage 1, wenn diese nicht bereits nach der Nummer 2106 der Anlage 1 in der am 1. Dezember 1997 in Kraft getretenen Fassung als Berufskrankheit anerkannt werden kann.
 
-(5) Hat ein Versicherter am 1. April 1988 an einer Krankheit gelitten, die erst auf Grund der Verordnung zur Änderung der Berufskrankheiten-Verordnung vom 22. März 1988 (BGBl. I S. 400) als Berufskrankheit anerkannt werden kann, ist die Krankheit auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 31. Dezember 1976 eingetreten ist.
+(5) Leidet ein Versicherter am 1. Dezember 1997 an einer Krankheit nach Nummer 1316, 1317, 4104 (Kehlkopfkrebs) oder 4111 der Anlage 1, ist diese auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 31. Dezember 1992 eingetreten ist. Abweichend von Satz 1 ist eine Erkrankung nach Nummer 4111 der Anlage 1 auch dann als Berufskrankheit anzuerkennen, wenn die Erkrankung bereits vor dem 1. Januar 1993 eingetreten und einem Unfallversicherungsträger bis zum 31. Dezember 2009 bekannt geworden ist.
 
-(6) Bindende Bescheide und rechtskräftige Entscheidungen stehen der Anerkennung als Berufskrankheit nach den Absätzen 1 bis 5 nicht entgegen. Leistungen werden rückwirkend längstens für einen Zeitraum bis zu vier Jahren erbracht; der Zeitraum ist vom Beginn des Jahres an zu rechnen, in dem der Antrag gestellt worden ist.
+(6) Hat ein Versicherter am 1. Januar 1993 an einer Krankheit gelitten, die erst auf Grund der Zweiten Verordnung zur Änderung der Berufskrankheiten-Verordnung vom 18. Dezember 1992 (BGBl. I S. 2343) als Berufskrankheit anerkannt werden kann, ist die Krankheit auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 31. März 1988 eingetreten ist.
+
+(7) Hat ein Versicherter am 1. April 1988 an einer Krankheit gelitten, die erst auf Grund der Verordnung zur Änderung der Berufskrankheiten-Verordnung vom 22. März 1988 (BGBl. I S. 400) als Berufskrankheit anerkannt werden kann, ist die Krankheit auf Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 31. Dezember 1976 eingetreten ist.
+
+(8) Bindende Bescheide und rechtskräftige Entscheidungen stehen der Anerkennung als Berufskrankheit nach den Absätzen 1 bis 7 nicht entgegen. Leistungen werden rückwirkend längstens für einen Zeitraum bis zu vier Jahren erbracht; der Zeitraum ist vom Beginn des Jahres an zu rechnen, in dem der Antrag gestellt worden ist.
 
 ### § 7
 
@@ -235,6 +239,18 @@ Polyneuropathie oder Enzephalopathie durch organische Lösungsmittel oder deren 
 
 Erkrankungen des Blutes, des blutbildenden und des lymphatischen Systems durch Benzol
 
+1319
+
+Larynxkarzinom durch intensive und mehrjährige Exposition gegenüber schwefelsäurehaltigen Aerosolen
+
+1320
+
+Chronisch-myeloische oder chronisch-lymphatische Leukämie durch 1,3-Butadien bei Nachweis der Einwirkung einer kumulativen Dosis von mindestens 180 Butadien-Jahren (ppm x Jahre)
+
+1321
+
+Schleimhautveränderungen, Krebs oder andere Neubildungen der Harnwege durch polyzyklische aromatische Kohlenwasserstoffe bei Nachweis der Einwirkung einer kumulativen Dosis von mindestens 80 Benzo(a)pyren-Jahren \[(µg/m<sup>3</sup>) x Jahre\]
+
  
 
 Zu den Nummern 1101 bis 1110, 1201 und 1202, 1303 bis 1309 und 1315:
@@ -299,6 +315,18 @@ Erhöhte Zahnabrasionen durch mehrjährige quarzstaubbelastende Tätigkeit
 
 Gonarthrose durch eine Tätigkeit im Knien oder vergleichbare Kniebelastung mit einer kumulativen Einwirkungsdauer während des Arbeitslebens von mindestens 13 000 Stunden und einer Mindesteinwirkungsdauer von insgesamt einer Stunde pro Schicht
 
+2113
+
+Druckschädigung des Nervus medianus im Carpaltunnel (Carpaltunnel-Syndrom) durch repetitive manuelle Tätigkeiten mit Beugung und Streckung der Handgelenke, durch erhöhten Kraftaufwand der Hände oder durch Hand-Arm-Schwingungen
+
+2114
+
+Gefäßschädigung der Hand durch stoßartige Krafteinwirkung (Hypothenar-Hammer-Syndrom und Thenar-Hammer-Syndrom)
+
+2115
+
+Fokale Dystonie als Erkrankung des zentralen Nervensystems bei Instrumentalmusikern durch feinmotorische Tätigkeit hoher Intensität
+
 22
 
 Druckluft
@@ -349,7 +377,7 @@ Tropenkrankheiten, Fleckfieber
 
 **4**
 
-**Erkrankungen der Atemwege und der Lungen, des Rippenfells und Bauchfells**
+**Erkrankungen der Atemwege und der Lungen, des Rippenfells und Bauchfells und der Eierstöcke**
 
 41
 
@@ -369,7 +397,7 @@ Asbeststaublungenerkrankung (Asbestose) oder durch Asbeststaub verursachte Erkra
 
 4104
 
-Lungenkrebs oder Kehlkopfkrebs
+Lungenkrebs, Kehlkopfkrebs oder Eierstockkrebs
 
  
 
@@ -423,7 +451,7 @@ Lungenkrebs durch die Einwirkung von kristallinem Siliziumdioxid (SiO(tief)2) be
 
 4113
 
-Lungenkrebs durch polyzyklische aromatische Kohlenwasserstoffe bei Nachweis der Einwirkung einer kumulativen Dosis von mindestens 100 Benzo\[a\]pyren-Jahren \[(µg/m<sup>3</sup>) x Jahre\]
+Lungenkrebs oder Kehlkopfkrebs durch polyzyklische aromatische Kohlenwasserstoffe bei Nachweis der Einwirkung einer kumulativen Dosis von mindestens 100 Benzo\[a\]pyren-Jahren \[(µg/m<sup>3</sup>) x Jahre\]
 
 4114
 
@@ -472,6 +500,10 @@ Schwere oder wiederholt rückfällige Hauterkrankungen, die zur Unterlassung all
 5102
 
 Hautkrebs oder zur Krebsbildung neigende Hautveränderungen durch Ruß, Rohparaffin, Teer, Anthrazen, Pech oder ähnliche Stoffe
+
+5103
+
+Plattenepithelkarzinome oder multiple aktinische Keratosen der Haut durch natürliche UV-Strahlung
 
 **6**
 
