@@ -1,11 +1,14 @@
 Gesetz über die Berufe in der Altenpflege (AltPflG)
 ===================================================
 
+Aufh  
+G aufgeh. durch Art. 15 Abs. 5 G v. 17.7.2017 I 2581 mWv 1.1.2020
+
 Neuf  
 Neugefasst durch Bek. v. 25.8.2003 I 1690;
 
 Stand  
-Zuletzt geändert durch Art. 34 G v. 18.4.2016 I 886
+zuletzt geändert durch Art. 1b G v. 17.7.2017 I 2581
 
 ### 
 
@@ -620,7 +623,7 @@ In der Freien und Hansestadt Hamburg wird die Ausbildung zu den in diesem Gesetz
 
 ### § 32
 
-§ 6 Nummer 3 tritt am 31. Dezember 2017 außer Kraft.
+§ 6 Nummer 3 tritt am 31. Dezember 2019 außer Kraft.
 
 ### § 33
 
