@@ -2,10 +2,7 @@ Gesetz über die Wahrnehmung behördlicher Aufgaben bei der Betreuung Volljähri
 =======================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 28.8.2013 I 3393
-
-Hinweis  
-Änderung durch Art. 5 G v. 17.7.2017 I 2426 mWv 22.7.2017 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 5 G v. 17.7.2017 I 2426
 
 ### 
 
