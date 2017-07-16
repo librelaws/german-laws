@@ -2,16 +2,7 @@ Aktiengesetz ()
 ===============
 
 Stand  
-Zuletzt geändert durch Art. 5 G v. 10.5.2016 I 1142
-
-Hinweis  
-Änderung durch Art. 8 G v. 11.4.2017 I 802 (Nr. 20) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 24 Abs. 16 G v. 23.6.2017 I 1693 (Nr. 39) mWv 3.1.2018 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 9 G v. 17.7.2017 I 2446 mWv 22.7.2017 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 9 G v. 17.7.2017 I 2446
 
 ### 
 
@@ -281,7 +272,7 @@ zu deren Abnahme das Unternehmen, ein von ihm abhängiges Unternehmen oder ein a
 
 (7) Rechte aus Aktien, die einem nach Absatz 1 oder 4 mitteilungspflichtigen Unternehmen gehören, bestehen für die Zeit, für die das Unternehmen die Mitteilungspflicht nicht erfüllt, weder für das Unternehmen noch für ein von ihm abhängiges Unternehmen oder für einen anderen, der für Rechnung des Unternehmens oder eines von diesem abhängigen Unternehmens handelt. Dies gilt nicht für Ansprüche nach § 58 Abs. 4 und § 271, wenn die Mitteilung nicht vorsätzlich unterlassen wurde und nachgeholt worden ist.
 
-(8) Die Absätze 1 bis 7 gelten nicht für Aktien eines Emittenten im Sinne des § 21 Abs. 2 des Wertpapierhandelsgesetzes.
+(8) Die Absätze 1 bis 7 gelten nicht für Aktien eines Emittenten im Sinne des § 33 Absatz 4 des Wertpapierhandelsgesetzes.
 
 ### § 21 Mitteilungspflichten der Gesellschaft
 
@@ -293,7 +284,7 @@ zu deren Abnahme das Unternehmen, ein von ihm abhängiges Unternehmen oder ein a
 
 (4) Rechte aus Anteilen, die einer nach Absatz 1 oder 2 mitteilungspflichtigen Gesellschaft gehören, bestehen nicht für die Zeit, für die sie die Mitteilungspflicht nicht erfüllt. § 20 Abs. 7 Satz 2 gilt entsprechend.
 
-(5) Die Absätze 1 bis 4 gelten nicht für Aktien eines Emittenten im Sinne des § 21 Abs. 2 des Wertpapierhandelsgesetzes.
+(5) Die Absätze 1 bis 4 gelten nicht für Aktien eines Emittenten im Sinne des § 33 Absatz 4 des Wertpapierhandelsgesetzes.
 
 ### § 22 Nachweis mitgeteilter Beteiligungen
 
@@ -457,7 +448,7 @@ Prüfungsgesellschaften, von deren gesetzlichen Vertretern mindestens einer in d
 (1) Von einer Prüfung durch Gründungsprüfer kann bei einer Gründung mit Sacheinlagen oder Sachübernahmen (§ 33 Abs. 2 Nr. 4) abgesehen werden, soweit eingebracht werden sollen:
 
 1.  
-übertragbare Wertpapiere oder Geldmarktinstrumente im Sinne des § 2 Absatz 1 und 1a des Wertpapierhandelsgesetzes, wenn sie mit dem gewichteten Durchschnittspreis bewertet werden, zu dem sie während der letzten drei Monate vor dem Tag ihrer tatsächlichen Einbringung auf einem oder mehreren organisierten Märkten im Sinne von § 2 Abs. 5 des Wertpapierhandelsgesetzes gehandelt worden sind,
+übertragbare Wertpapiere oder Geldmarktinstrumente im Sinne des § 2 Absatz 1 und 2 des Wertpapierhandelsgesetzes, wenn sie mit dem gewichteten Durchschnittspreis bewertet werden, zu dem sie während der letzten drei Monate vor dem Tag ihrer tatsächlichen Einbringung auf einem oder mehreren organisierten Märkten im Sinne von § 2 Absatz 11 des Wertpapierhandelsgesetzes gehandelt worden sind,
 
 2.  
 andere als die in Nummer 1 genannten Vermögensgegenstände, wenn eine Bewertung zu Grunde gelegt wird, die ein unabhängiger, ausreichend vorgebildeter und erfahrener Sachverständiger nach den allgemein anerkannten Bewertungsgrundsätzen mit dem beizulegenden Zeitwert ermittelt hat und wenn der Bewertungsstichtag nicht mehr als sechs Monate vor dem Tag der tatsächlichen Einbringung liegt.
@@ -1867,9 +1858,9 @@ entsprechend den Vorschlägen des Vorstands oder des Aufsichtsrats oder für den
 
 vorsehen. Bietet das Kreditinstitut die Stimmrechtsausübung gemäß Satz 4 Nr. 1 oder Nr. 2 an, so hat es sich zugleich zu erbieten, im Rahmen des Zumutbaren und bis auf Widerruf einer Aktionärsvereinigung oder einem sonstigen Vertreter nach Wahl des Aktionärs die zur Stimmrechtsausübung erforderlichen Unterlagen zuzuleiten. Das Kreditinstitut hat den Aktionär jährlich und deutlich hervorgehoben auf die Möglichkeiten des jederzeitigen Widerrufs der Vollmacht und der Änderung des Bevollmächtigten hinzuweisen. Die Erteilung von Weisungen zu den einzelnen Tagesordnungspunkten, die Erteilung und der Widerruf einer generellen Vollmacht nach Satz 4 und eines Auftrags nach Satz 5 einschließlich seiner Änderung sind dem Aktionär durch ein Formblatt oder Bildschirmformular zu erleichtern.
 
-(2) Ein Kreditinstitut, das das Stimmrecht auf Grund einer Vollmacht nach Absatz 1 Satz 4 Nr. 1 ausüben will, hat dem Aktionär rechtzeitig eigene Vorschläge für die Ausübung des Stimmrechts zu den einzelnen Gegenständen der Tagesordnung zugänglich zu machen. Bei diesen Vorschlägen hat sich das Kreditinstitut vom Interesse des Aktionärs leiten zu lassen und organisatorische Vorkehrungen dafür zu treffen, dass Eigeninteressen aus anderen Geschäftsbereichen nicht einfließen; es hat ein Mitglied der Geschäftsleitung zu benennen, das die Einhaltung dieser Pflichten sowie die ordnungsgemäße Ausübung des Stimmrechts und deren Dokumentation zu überwachen hat. Zusammen mit seinen Vorschlägen hat das Kreditinstitut darauf hinzuweisen, dass es das Stimmrecht entsprechend den eigenen Vorschlägen ausüben werde, wenn der Aktionär nicht rechtzeitig eine andere Weisung erteilt. Gehört ein Vorstandsmitglied oder ein Mitarbeiter des Kreditinstituts dem Aufsichtsrat der Gesellschaft oder ein Vorstandsmitglied oder ein Mitarbeiter der Gesellschaft dem Aufsichtsrat des Kreditinstituts an, so hat das Kreditinstitut hierauf hinzuweisen. Gleiches gilt, wenn das Kreditinstitut an der Gesellschaft eine Beteiligung hält, die nach § 21 des Wertpapierhandelsgesetzes meldepflichtig ist, oder einem Konsortium angehörte, das die innerhalb von fünf Jahren zeitlich letzte Emission von Wertpapieren der Gesellschaft übernommen hat.
+(2) Ein Kreditinstitut, das das Stimmrecht auf Grund einer Vollmacht nach Absatz 1 Satz 4 Nr. 1 ausüben will, hat dem Aktionär rechtzeitig eigene Vorschläge für die Ausübung des Stimmrechts zu den einzelnen Gegenständen der Tagesordnung zugänglich zu machen. Bei diesen Vorschlägen hat sich das Kreditinstitut vom Interesse des Aktionärs leiten zu lassen und organisatorische Vorkehrungen dafür zu treffen, dass Eigeninteressen aus anderen Geschäftsbereichen nicht einfließen; es hat ein Mitglied der Geschäftsleitung zu benennen, das die Einhaltung dieser Pflichten sowie die ordnungsgemäße Ausübung des Stimmrechts und deren Dokumentation zu überwachen hat. Zusammen mit seinen Vorschlägen hat das Kreditinstitut darauf hinzuweisen, dass es das Stimmrecht entsprechend den eigenen Vorschlägen ausüben werde, wenn der Aktionär nicht rechtzeitig eine andere Weisung erteilt. Gehört ein Vorstandsmitglied oder ein Mitarbeiter des Kreditinstituts dem Aufsichtsrat der Gesellschaft oder ein Vorstandsmitglied oder ein Mitarbeiter der Gesellschaft dem Aufsichtsrat des Kreditinstituts an, so hat das Kreditinstitut hierauf hinzuweisen. Gleiches gilt, wenn das Kreditinstitut an der Gesellschaft eine Beteiligung hält, die nach § 33 des Wertpapierhandelsgesetzes meldepflichtig ist, oder einem Konsortium angehörte, das die innerhalb von fünf Jahren zeitlich letzte Emission von Wertpapieren der Gesellschaft übernommen hat.
 
-(3) Hat der Aktionär dem Kreditinstitut keine Weisung für die Ausübung des Stimmrechts erteilt, so hat das Kreditinstitut im Falle des Absatzes 1 Satz 4 Nr. 1 das Stimmrecht entsprechend seinen eigenen Vorschlägen auszuüben, es sei denn, dass es den Umständen nach annehmen darf, dass der Aktionär bei Kenntnis der Sachlage die abweichende Ausübung des Stimmrechts billigen würde. Ist das Kreditinstitut bei der Ausübung des Stimmrechts von einer Weisung des Aktionärs oder, wenn der Aktionär keine Weisung erteilt hat, von seinem eigenen Vorschlag abgewichen, so hat es dies dem Aktionär mitzuteilen und die Gründe anzugeben. In der eigenen Hauptversammlung darf das bevollmächtigte Kreditinstitut das Stimmrecht auf Grund der Vollmacht nur ausüben, soweit der Aktionär eine ausdrückliche Weisung zu den einzelnen Gegenständen der Tagesordnung erteilt hat. Gleiches gilt in der Versammlung einer Gesellschaft, an der es mit mehr als 20 Prozent des Grundkapitals unmittelbar oder mittelbar beteiligt ist; für die Berechnung der Beteiligungsschwelle bleiben mittelbare Beteiligungen im Sinne des § 22a Absatz 3 bis 6 des Wertpapierhandelsgesetzes außer Betracht.
+(3) Hat der Aktionär dem Kreditinstitut keine Weisung für die Ausübung des Stimmrechts erteilt, so hat das Kreditinstitut im Falle des Absatzes 1 Satz 4 Nr. 1 das Stimmrecht entsprechend seinen eigenen Vorschlägen auszuüben, es sei denn, dass es den Umständen nach annehmen darf, dass der Aktionär bei Kenntnis der Sachlage die abweichende Ausübung des Stimmrechts billigen würde. Ist das Kreditinstitut bei der Ausübung des Stimmrechts von einer Weisung des Aktionärs oder, wenn der Aktionär keine Weisung erteilt hat, von seinem eigenen Vorschlag abgewichen, so hat es dies dem Aktionär mitzuteilen und die Gründe anzugeben. In der eigenen Hauptversammlung darf das bevollmächtigte Kreditinstitut das Stimmrecht auf Grund der Vollmacht nur ausüben, soweit der Aktionär eine ausdrückliche Weisung zu den einzelnen Gegenständen der Tagesordnung erteilt hat. Gleiches gilt in der Versammlung einer Gesellschaft, an der es mit mehr als 20 Prozent des Grundkapitals unmittelbar oder mittelbar beteiligt ist; für die Berechnung der Beteiligungsschwelle bleiben mittelbare Beteiligungen im Sinne des § 35 Absatz 3 bis 6 des Wertpapierhandelsgesetzes außer Betracht.
 
 (4) Ein Kreditinstitut, das in der Hauptversammlung das Stimmrecht auf Grund einer Vollmacht nach Absatz 1 Satz 4 Nr. 2 ausüben will, hat den Aktionären die Vorschläge des Vorstands und des Aufsichtsrats zugänglich zu machen, sofern dies nicht anderweitig erfolgt. Absatz 2 Satz 3 sowie Absatz 3 Satz 1 bis 3 gelten entsprechend.
 
@@ -2197,7 +2188,7 @@ die Zahl der Bezugsrechte gemäß § 192 Absatz 2 Nummer 3;
 das Bestehen einer wechselseitigen Beteiligung unter Angabe des Unternehmens;
 
 8.  
-das Bestehen einer Beteiligung, die nach § 20 Abs. 1 oder Abs. 4 dieses Gesetzes oder nach § 21 Abs. 1 oder Abs. 1a des Wertpapierhandelsgesetzes mitgeteilt worden ist; dabei ist der nach § 20 Abs. 6 dieses Gesetzes oder der nach § 26 Abs. 1 des Wertpapierhandelsgesetzes veröffentlichte Inhalt der Mitteilung anzugeben.
+das Bestehen einer Beteiligung, die nach § 20 Abs. 1 oder Abs. 4 dieses Gesetzes oder nach § 33 Absatz 1 oder Absatz 2 des Wertpapierhandelsgesetzes mitgeteilt worden ist; dabei ist der nach § 20 Abs. 6 dieses Gesetzes oder der nach § 40 Absatz 1 des Wertpapierhandelsgesetzes veröffentlichte Inhalt der Mitteilung anzugeben.
 
 (2) Die Berichterstattung hat insoweit zu unterbleiben, als es für das Wohl der Bundesrepublik Deutschland oder eines ihrer Länder erforderlich ist.
 
@@ -2207,7 +2198,7 @@ das Bestehen einer Beteiligung, die nach § 20 Abs. 1 oder Abs. 4 dieses Gesetze
 
 ### § 161 Erklärung zum Corporate Governance Kodex
 
-(1) Vorstand und Aufsichtsrat der börsennotierten Gesellschaft erklären jährlich, dass den vom Bundesministerium der Justiz und für Verbraucherschutz im amtlichen Teil des Bundesanzeigers bekannt gemachten Empfehlungen der „Regierungskommission Deutscher Corporate Governance Kodex“ entsprochen wurde und wird oder welche Empfehlungen nicht angewendet wurden oder werden und warum nicht. Gleiches gilt für Vorstand und Aufsichtsrat einer Gesellschaft, die ausschließlich andere Wertpapiere als Aktien zum Handel an einem organisierten Markt im Sinn des § 2 Abs. 5 des Wertpapierhandelsgesetzes ausgegeben hat und deren ausgegebene Aktien auf eigene Veranlassung über ein multilaterales Handelssystem im Sinn des § 2 Abs. 3 Satz 1 Nr. 8 des Wertpapierhandelsgesetzes gehandelt werden.
+(1) Vorstand und Aufsichtsrat der börsennotierten Gesellschaft erklären jährlich, dass den vom Bundesministerium der Justiz und für Verbraucherschutz im amtlichen Teil des Bundesanzeigers bekannt gemachten Empfehlungen der „Regierungskommission Deutscher Corporate Governance Kodex“ entsprochen wurde und wird oder welche Empfehlungen nicht angewendet wurden oder werden und warum nicht. Gleiches gilt für Vorstand und Aufsichtsrat einer Gesellschaft, die ausschließlich andere Wertpapiere als Aktien zum Handel an einem organisierten Markt im Sinn des § 2 Absatz 11 des Wertpapierhandelsgesetzes ausgegeben hat und deren ausgegebene Aktien auf eigene Veranlassung über ein multilaterales Handelssystem im Sinn des § 2 Absatz 8 Satz 1 Nummer 8 des Wertpapierhandelsgesetzes gehandelt werden.
 
 (2) Die Erklärung ist auf der Internetseite der Gesellschaft dauerhaft öffentlich zugänglich zu machen.
 
@@ -2716,7 +2707,7 @@ Vierter Unterabschnitt Kapitalerhöhung aus Gesellschaftsmitteln
 
 (1) Mit der Eintragung des Beschlusses über die Erhöhung des Grundkapitals ist das Grundkapital erhöht.
 
-(2)
+(2) (weggefallen)
 
 ### § 212 Aus der Kapitalerhöhung Berechtigte
 
@@ -3768,7 +3759,7 @@ Zweiter Abschnitt Abschluß, Änderung und Beendigung von Unternehmensverträgen
 
 (3) Der Vertrag bedarf der schriftlichen Form.
 
-(4)
+(4) (weggefallen)
 
 ### § 293a Bericht über den Unternehmensvertrag
 
