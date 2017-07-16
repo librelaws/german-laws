@@ -2,7 +2,7 @@ Gesetz zur Neuregelung des Fremdrenten- und Auslandsrentenrechts und zur Anpassu
 =========================================================================================================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 16 G v. 20.4.2007 I 554
+Zuletzt geändert durch Art. 6 G v. 17.7.2017 I 2575
 
 ### 
 
@@ -93,17 +93,9 @@ Für Berechtigte nach Satz 1 Buchstabe b findet § 8a des Fremdrentengesetzes ke
 
 (1a) § 2 Satz 1 Buchstabe a des Fremdrentengesetzes gilt nicht für Arbeitsunfälle und Berufskrankheiten, wenn für die Entscheidung über die Entschädigung eine Stelle in Estland, Lettland oder Litauen nach dem 30. April 2004 zuständig ist.
 
-(2) Bis die verfügbare Standardrente (§ 68 Abs. 3 Sechstes Buch Sozialgesetzbuch) im Beitrittsgebiet 70 vom Hundert der verfügbaren Standardrente im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet erreicht hat, ist bei Berechtigten nach dem Fremdrentengesetz, die
+(2) (weggefallen)
 
-a)  
-ihren gewöhnlichen Aufenthalt im Beitrittsgebiet haben, oder
-
-b)  
-nach dem 31. Dezember 1990 ihren gewöhnlichen Aufenthalt aus dem Beitrittsgebiet in das Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet verlegen,
-
-und jeweils dort nach dem 31. Dezember 1991 einen Anspruch auf Zahlung einer Rente nach dem Fremdrentengesetz erwerben, für nach dem Fremdrentengesetz zu entschädigende Arbeitsunfälle und Berufskrankheiten die Rente festzusetzen, indem der sich ohne Anwendung des § 8 Abs. 3 Fremdrentengesetz ergebende Rentenzahlbetrag mit dem Vomhundertsatz vervielfältigt wird, der dem jeweiligen Verhältnis der verfügbaren Standardrente im Beitrittsgebiet zur verfügbaren Standardrente im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet entspricht. Bei Berechtigten nach dem Fremdrentengesetz, die nach dem 31. Dezember 1991 ihren gewöhnlichen Aufenthalt aus dem Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet in das Beitrittsgebiet verlegen und bereits vor der Verlegung des gewöhnlichen Aufenthalts einen Anspruch auf Zahlung einer Rente nach dem Fremdrentengesetz für Arbeitsunfälle und Berufskrankheiten haben, die außerhalb des Gebiets der Bundesrepublik Deutschland eingetreten sind, ist diese Rente entsprechend Satz 1 neu festzusetzen. Bei Berechtigten nach Satz 1 Buchstabe a und nach Satz 2, die ihren gewöhnlichen Aufenthalt aus dem Beitrittsgebiet in das Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet verlegen, verbleibt es für nach dem Fremdrentengesetz zu entschädigende Arbeitsunfälle und Berufskrankheiten bei dem nach den Sätzen 1 oder 2 festgesetzten Rentenzahlbetrag.
-
-(3) Renten, deren Zahlbeträge nach Absatz 3 mit dem dort bezeichneten Vomhundertsatz vervielfältigt wurden, werden zu dem Zeitpunkt und um den Vomhundertsatz erhöht, um den die Renten im Beitrittsgebiet aufgrund allgemeiner Rentenanpassungen erhöht werden, bis die verfügbare Standardrente im Beitrittsgebiet 70 vom Hundert der verfügbaren Standardrente im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet erreicht; ab diesem Zeitpunkt werden die Renten zu dem Zeitpunkt und um den Vomhundertsatz erhöht, um den die Renten im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet erhöht werden. Bei Personen, die vor dem 1. Januar 1991 ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschland einschließlich des Beitrittsgebiets genommen haben, sowie bei Personen nach Absatz 1 Buchstabe b und c werden Renten nach Satz 1 auch nach dem in Satz 1 genannten Zeitpunkt zu dem Zeitpunkt und um den Vomhundertsatz erhöht, um den die Renten im Beitrittsgebiet aufgrund allgemeiner Rentenanpassungen erhöht werden.
+(3) (weggefallen)
 
 (4) Auf Berechtigte nach dem Fremdrentengesetz mit einer Rente, die auf einem Arbeitsunfall oder einer Berufskrankheit in dem in Artikel 3 des Einigungsvertrages genannten Gebiet beruht, ist § 12 des Fremdrentengesetzes nicht anzuwenden, wenn sie ihren gewöhnlichen Aufenthalt vor dem 19. Mai 1990 im Gebiet der Bundesrepublik Deutschland ohne das in Artikel 3 des Einigungsvertrages genannte Gebiet genommen hat. Während einer Zeit, in der Berechtigte nach Satz 1 ihren gewöhnlichen Aufenthalt außerhalb der Bundesrepublik Deutschland haben, ist die Rente entsprechend Absatz 2 Satz 1 neu festzusetzen und auf diese der Absatz 3 entsprechend anzuwenden.
 
@@ -140,7 +132,7 @@ Art 6
 
 (4a) Ist eine bereits vorher geleistete Rente neu festzustellen und sind dabei die persönlichen Entgeltpunkte neu zu ermitteln, sind die Vorschriften des Fremdrentengesetzes maßgebend, die bei erstmaliger Feststellung der Rente anzuwenden waren, soweit § 317 Abs. 2a des Sechsten Buches Sozialgesetzbuch nichts anderes bestimmt.
 
-(5) § 22 Abs. 3 des Fremdrentengesetzes in der bis zum 31. Dezember 1991 geltenden Fassung und § 22 Abs. 4 des Fremdrentengesetzes in der ab 1. Januar 1992 sowie in der vom 7. Mai 1996 an geltenden Fassung finden keine Anwendung auf Berechtigte, die nach Maßgabe des Abkommens vom 8. Dezember 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über Soziale Sicherheit Ansprüche und Anwartschaften auf der Grundlage des Abkommens vom 9. Oktober 1975 zwischen der Bundesrepublik Deutschland und der Volksrepublik Polen über Unfallversicherung haben oder
+(5) § 22 Abs. 3 des Fremdrentengesetzes in der bis zum 31. Dezember 1991 geltenden Fassung und § 22 Abs. 4 des Fremdrentengesetzes in der ab 1. Januar 1992 sowie in der vom 7. Mai 1996 an geltenden Fassung finden keine Anwendung auf Berechtigte, die nach Maßgabe des Abkommens vom 8. Dezember 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über Soziale Sicherheit Ansprüche und Anwartschaften auf der Grundlage des Abkommens vom 9. Oktober 1975 zwischen der Bundesrepublik Deutschland und der Volksrepublik Polen über Renten- und Unfallversicherung haben.
 
 (6) Bei Berechtigten nach dem Fremdrentengesetz, die
 
@@ -389,7 +381,7 @@ Art 7
 
 ### § 3
 
-(1) Dieses Gesetz tritt mit Wirkung vom 1. Januar 1959 in Kraft. *Mit dem gleichen Zeitpunkt treten unbeschadet der Absätze 2 und 3 alle ihm entgegenstehenden und inhaltsgleichen Vorschriften außer Kraft, insbesondere folgende Verordnungen und Bekanntmachungen mit den zu ihrer Änderung, Ergänzung und Durchführung erlassenen Verordnungen, Erlassen und Bekanntmachungen:*
+(1) Dieses Gesetz tritt mit Wirkung vom 1. Januar 1959 in Kraft.*Mit dem gleichen Zeitpunkt treten unbeschadet der Absätze 2 und 3 alle ihm entgegenstehenden und inhaltsgleichen Vorschriften außer Kraft, insbesondere folgende Verordnungen und Bekanntmachungen mit den zu ihrer Änderung, Ergänzung und Durchführung erlassenen Verordnungen, Erlassen und Bekanntmachungen:*
 
 *a)*  
 *bis p) ...*
@@ -402,4 +394,4 @@ Art 7
 
 (2) (weggefallen)
 
-(3)
+(3) (gegenstandslos)
