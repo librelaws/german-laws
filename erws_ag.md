@@ -2,7 +2,7 @@ Gesetz zur Ausführung des Haager Übereinkommens vom 13. Januar 2000 über den 
 =============================================================================================================================
 
 Stand  
-Geändert durch Art. 46 G v. 17.12.2008 I 2586
+Zuletzt geändert durch Art. 4 G v. 17.7.2017 I 2426
 
 Sonst  
 Das G ist gem. Bek. v. 12.12.2008; 2009 II 39 mWv 1.1.2009 in Kraft getreten
@@ -121,9 +121,9 @@ Abschnitt 3 Anerkennungsfeststellung, Vollstreckbarerklärung, Konsultationsverf
 
 ### § 8 Allgemeine Verfahrensvorschriften für die Anerkennungsfeststellung und Vollstreckbarerklärung
 
-(1) Das Verfahren nach den Artikeln 23 und 25 des Übereinkommens richtet sich nach den Buch 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit. Die §§ 275, 276, 297 Abs. 5, §§ 308, 309 und 311 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sind entsprechend anzuwenden.
+(1) Das Verfahren nach den Artikeln 23 und 25 des Übereinkommens richtet sich nach dem Buch 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit. Die §§ 275, 276, 297 Abs. 5, §§ 308, 309 und 311 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sind entsprechend anzuwenden.
 
-(2) Das Gericht hat den Betroffenen persönlich anzuhören, wenn die anzuerkennende oder für vollstreckbar zu erklärende Maßnahme eine im Inland vorzunehmende Unterbringung im Sinn des § 312 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, eine Untersuchung des Gesundheitszustands, eine Heilbehandlung oder einen ärztlichen Eingriff im Sinn des § 1904 des Bürgerlichen Gesetzbuchs oder eine im Inland vorzunehmende Sterilisation beinhaltet. Im Übrigen soll das Gericht den Betroffenen persönlich anhören. § 278 Abs. 3 bis 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit gilt entsprechend.
+(2) Das Gericht hat den Betroffenen persönlich anzuhören, wenn die anzuerkennende oder für vollstreckbar zu erklärende Maßnahme eine im Inland vorzunehmende Maßnahme im Sinn des § 312 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, eine Untersuchung des Gesundheitszustands, eine Heilbehandlung oder einen ärztlichen Eingriff im Sinn des § 1904 des Bürgerlichen Gesetzbuchs oder eine im Inland vorzunehmende Sterilisation beinhaltet. Im Übrigen soll das Gericht den Betroffenen persönlich anhören. § 278 Abs. 3 bis 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit gilt entsprechend.
 
 (3) Das Gericht kann die im Inland zuständige Betreuungsbehörde anhören, wenn es der Betroffene verlangt oder wenn es der Sachaufklärung dient. Die Anhörung anderer Personen liegt im Ermessen des Gerichts.
 
@@ -173,7 +173,7 @@ einer erforderlichen Genehmigung der Ausländerbehörde Gründe entgegenstehen o
 6.  
 die Übernahme der Kosten für die Unterbringung nicht geregelt ist.
 
-(2) Im Fall einer Unterbringung, die mit Freiheitsentzug verbunden ist, oder einer Maßnahme im Sinn des § 1906 Abs. 4 des Bürgerlichen Gesetzbuchs spricht sich das Gericht unbeschadet des Absatzes 1 nach Artikel 33 Abs. 2 des Übereinkommens gegen das Ersuchen aus, wenn
+(2) Im Fall einer Unterbringung, die mit Freiheitsentzug verbunden ist, oder einer Maßnahme im Sinn des § 1906 Absatz 4 oder § 1906a Absatz 1 oder Absatz 4 des Bürgerlichen Gesetzbuchs spricht sich das Gericht unbeschadet des Absatzes 1 nach Artikel 33 Abs. 2 des Übereinkommens gegen das Ersuchen aus, wenn
 
 1.  
 im ersuchenden Staat über die ersuchte Maßnahme kein Gericht entscheidet oder
