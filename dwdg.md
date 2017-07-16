@@ -2,7 +2,7 @@ Gesetz über den Deutschen Wetterdienst ()
 =========================================
 
 Stand  
-Zuletzt geändert durch Art. 585 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 1 G v. 17.7.2017 I 2642
 
 ### 
 
@@ -74,39 +74,47 @@ Der Deutsche Wetterdienst untersteht der Dienst- und Fachaufsicht des Bundesmini
 (1) Aufgaben des Deutschen Wetterdienstes sind
 
 1.  
-die Erbringung meteorologischer Dienstleistungen für die Allgemeinheit oder einzelne Kunden und Nutzer, insbesondere auf den Gebieten des Verkehrs, der gewerblichen Wirtschaft, der Land- und Forstwirtschaft, des Bauwesens, des Gesundheitswesens, der Wasserwirtschaft einschließlich des vorbeugenden Hochwasserschutzes, des Umwelt- und Naturschutzes und der Wissenschaft,
+die Erbringung meteorologischer und klimatologischer Dienstleistungen für die Allgemeinheit oder einzelne Kunden und Nutzer, insbesondere auf den Gebieten des Verkehrs, der gewerblichen Wirtschaft, der Land- und Forstwirtschaft, des Bauwesens, des Gesundheitswesens, der Wasserwirtschaft einschließlich des vorbeugenden Hochwasserschutzes, des Umwelt- und Naturschutzes und der Wissenschaft,
 
 2.  
-die meteorologische Sicherung der Luft- und Seefahrt,
+die meteorologische Sicherung der Luft- und Seefahrt, der Verkehrswege sowie wichtiger Infrastrukturen, insbesondere der Energieversorgung und der Kommunikationssysteme,
 
 3.  
-die Herausgabe von amtlichen Warnungen über Wettererscheinungen, die zu einer Gefahr für die öffentliche Sicherheit und Ordnung führen können, insbesondere in Bezug auf drohende Hochwassergefahren,
+die Herausgabe amtlicher Warnungen über Wettererscheinungen,
+
+a)  
+die zu einer Gefahr für die öffentliche Sicherheit und Ordnung führen können oder
+
+b)  
+die in Bezug zu drohenden Wetter- und Witterungsereignissen mit hohem Schadenspotenzial stehen,
 
 4.  
 die kurzfristige und langfristige Erfassung, Überwachung und Bewertung der meteorologischen Prozesse, Struktur und Zusammensetzung der Atmosphäre,
 
 5.  
-die Erfassung der meteorologischen Wechselwirkung zwischen der Atmosphäre und anderen Bereichen der Umwelt,
+die Erfassung der meteorologischen und klimatologischen Wechselwirkung zwischen der Atmosphäre und anderen Bereichen der Umwelt,
 
 6.  
-die Vorhersage der meteorologischen Vorgänge,
+die Analyse und Vorhersage der meteorologischen und klimatologischen Vorgänge sowie die Analyse und Projektion des Klimawandels und dessen Auswirkungen,
 
 7.  
 die Überwachung der Atmosphäre auf radioaktive Spurenstoffe und die Vorhersage deren Verfrachtung,
 
 8.  
-der Betrieb der erforderlichen Meß- und Beobachtungssysteme zur Erfüllung der unter den Nummern 1 bis 7 genannten Aufgaben und
+der Betrieb der erforderlichen Mess- und Beobachtungssysteme zur Erfüllung der in den Nummern 1 bis 7 genannten Aufgaben als Teil der Geodateninfrastruktur und
 
 9.  
-der Bereithaltung, Archivierung und Dokumentierung meteorologischer Daten und Produkte.
+die Bereithaltung, Archivierung, Dokumentierung und Abgabe meteorologischer und klimatologischer Geodaten und Dienstleistungen.
 
-(2) Zur Erfüllung seiner Aufgaben betreibt der Deutsche Wetterdienst wissenschaftliche Forschung im Bereich der Meteorologie und verwandter Wissenschaften und wirkt bei der Entwicklung entsprechender Standards und Normen mit.
+(2) Zur Erfüllung seiner Aufgaben betreibt der Deutsche Wetterdienst wissenschaftliche Forschung im Bereich der Meteorologie, Klimatologie und verwandter Wissenschaften und wirkt bei der Entwicklung entsprechender Standards und Normen mit.
 
-(3) Der Deutsche Wetterdienst ist der nationale meteorologische Dienst der Bundesrepublik Deutschland. Er nimmt an der internationalen Zusammenarbeit auf dem Gebiet der Meteorologie teil und erfüllt die sich daraus ergebenden Verpflichtungen.
+(3) Der Deutsche Wetterdienst ist der nationale meteorologische Dienst der Bundesrepublik Deutschland. Er nimmt an der internationalen Zusammenarbeit auf dem Gebiet der Meteorologie und Klimatologie teil und erfüllt die sich daraus ergebenden Verpflichtungen.
 
-(4) Im Rahmen seiner Aufgaben nach Absatz 1 unterstützt der Deutsche Wetterdienst die Länder bei der Durchführung ihrer Aufgaben im Bereich des Katastrophenschutzes insbesondere bei extremen Wetterereignissen und beteiligt sich an den Aufgaben im Rahmen der Zivilen Verteidigung und der zivil-militärischen Zusammenarbeit.
+(4) Im Rahmen seiner Aufgaben nach Absatz 1 unterstützt der Deutsche Wetterdienst den Bund, die Länder und die Gemeinden und Gemeindeverbände bei der Durchführung ihrer Aufgaben im Bereich von Katastrophenschutz, Bevölkerungs- und Umweltschutz, insbesondere bei Wetter- und Klimaereignissen mit hohem Schadenspotenzial und beteiligt sich an den Aufgaben im Rahmen der Zivilen Verteidigung und der zivil-militärischen Zusammenarbeit.
 
-(5) Die Vorschriften des Strahlenschutzvorsorgegesetzes vom 19. Dezember 1986 (BGBl. I S. 2610), zuletzt geändert durch Artikel 8 § 8 des Gesetzes vom 24. Juni 1994 (BGBl. I S. 1416, 1422), des Gesetzes über die Errichtung eines Umweltbundesamtes vom 22. Juli 1974 (BGBl. I S. 1505), zuletzt geändert durch Artikel 1 des Gesetzes vom 2. Mai 1996 (BGBl. I S. 660), und des Gesetzes über die Errichtung eines Bundesamtes für Strahlenschutz vom 9. Oktober 1989 (BGBl. I S. 1830) bleiben unberührt.
+(5) Das Strahlenschutzgesetz, die aufgrund des Strahlenschutzgesetzes erlassenen Rechtsverordnungen und das Gesetz über die Errichtung eines Bundesamtes für Strahlenschutz bleiben unberührt.
+
+(6) Der Deutsche Wetterdienst darf Leistungen, die im Sinne des § 6 Absatz 2a unentgeltlich zur Verfügung gestellt werden, selbst öffentlich verbreiten, soweit dies zu seinen gesetzlichen Aufgaben gehört.
 
 ### § 5 Befugnisse
 
@@ -123,7 +131,16 @@ der Bereithaltung, Archivierung und Dokumentierung meteorologischer Daten und Pr
 
 (2) Der Deutsche Wetterdienst verlangt für die Erbringung seiner Dienstleistungen eine Vergütung. Die Höhe der Vergütung wird vom Vorstand auf Basis betriebswirtschaftlicher Kalkulationsverfahren, gegebenenfalls erhöht auf Grund des wirtschaftlichen Wertes oder ermäßigt auf Grund eines besonderen öffentlichen Interesses, oder auf Grund internationaler Vereinbarungen in einer Preisliste festgesetzt. Sie enthält die Preise für Daten, Produkte und Spezialdienstleistungen.
 
-(2a) Leistungen des Deutschen Wetterdienstes an die Länder im Rahmen des § 4 Abs. 4 sind entgeltfrei.
+(2a) Sofern nicht auf Grund anderer gesetzlicher Regelungen eine Pflicht zur Entrichtung von Gebühren besteht, sind folgende Dienstleistungen des Deutschen Wetterdienstes entgeltfrei:
+
+1.  
+jene an Bund, Länder und Gemeinden und Gemeindeverbände nach § 4 Absatz 4,
+
+2.  
+jene an die Allgemeinheit nach § 4 Absatz 1 Nummer 3 und 7 zur öffentlichen Verbreitung,
+
+3.  
+die Bereitstellung von Geodaten und Geodatendiensten im Sinne des § 3 Absatz 1 und 3 des Geodatenzugangsgesetzes im Geoportal der nationalen Geodateninfrastruktur.
 
 (3) (weggefallen)
 
@@ -201,9 +218,9 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur kann im Einvernehm
 
 (2) Bis zur Annahme und Genehmigung der Geschäftsordnung des Wissenschaftlichen Beirates gemäß § 9 Abs. 3 gilt die bestehende Geschäftsordnung des Wissenschaftlichen Beirates nach § 6 des Gesetzes über den Deutschen Wetterdienst in der im Bundesgesetzblatt Teil III, Gliederungsnummer 97-1, veröffentlichten bereinigten Fassung, zuletzt geändert gemäß Artikel 69 der Verordnung vom 26. Februar 1993 (BGBl. I S. 278). Desgleichen ist bis zur Annahme und Genehmigung der Geschäftsordnung nach § 10 Abs. 2 die für den Verwaltungsbeirat gemäß § 5 des Gesetzes über den Deutschen Wetterdienst beschlossene Geschäftsordnung sinngemäß auf den Bund-Länder-Beirat anzuwenden.
 
-### § 13 Gebührenordnung
+### § 13 Evaluierung
 
-Bis zum Inkrafttreten der Preisliste gemäß § 6 werden die Entgelte nach Maßgabe der Gebührenordnung des Deutschen Wetterdienstes vom 24. November 1975 (BAnz. Nr. 233 vom 16. Dezember 1975) und ihrer Anlage in der zum Zeitpunkt des Inkrafttretens dieses Gesetzes geltenden Fassung erhoben.
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird die Anwendung der Regelungen in Artikel 1 des Ersten Gesetzes zur Änderung des Gesetzes über den Deutschen Wetterdienst vom 17. Juli 2017 (BGBl. I S. 2642) nach Ablauf des Jahres 2019 evaluieren. Die Bundesregierung unterrichtet den Deutschen Bundestag über die Ergebnisse der Evaluierung.
 
 ### § 14 Inkrafttreten, Außerkrafttreten
 
