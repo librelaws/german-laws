@@ -2,7 +2,7 @@ Gesetz zur zusätzlichen Aufsicht über beaufsichtigte Unternehmen eines Finanzk
 ================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 35 G v. 1.4.2015 I 434
+Zuletzt geändert durch Art. 14 Abs. 4 G v. 17.7.2017 I 2446
 
 ### 
 
@@ -90,10 +90,10 @@ e)
 Anbieter von Nebendienstleistungen im Sinne des § 1 Absatz 3c des Kreditwesengesetzes,
 
 f)  
-E-Geld-Institute im Sinne des § 1a Absatz 1 Nummer 5 des Zahlungsdiensteaufsichtsgesetzes,
+E-Geld-Institute im Sinne des § 1 Absatz 2 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes,
 
 g)  
-Zahlungsinstitute im Sinne des § 1 Absatz 1 Nummer 5 des Zahlungsdiensteaufsichtsgesetzes sowie
+Zahlungsinstitute im Sinne des § 1 Absatz 1 Satz 2 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes sowie
 
 h)  
 den Buchstaben a bis h entsprechende Unternehmen mit Sitz im Ausland;
