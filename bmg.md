@@ -2,13 +2,7 @@ Bundesmeldegesetz (BMG)
 =======================
 
 Stand  
-Zuletzt geändert durch Art. 9 G v. 2.2.2016 I 130
-
-Hinweis  
-Änderung durch Art. 1 G v. 11.10.2016 I 2218 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 2 G v. 11.10.2016 I 2218 (Nr. 48) noch nicht berücksichtigt
+Zuletzt geändert durch Art. 11 Abs. 4 G v. 18.7.2017 I 2745
 
 ### 
 
@@ -383,9 +377,9 @@ im Spannungs- oder Verteidigungsfall für die Wehrerfassungdie Tatsache, dass ei
 die in § 3 Absatz 2 Nummer 1 genannten Daten nur an die Stellen übermittelt werden dürfen, die für die Vorbereitung und Durchführung der dort genannten Wahlen und Abstimmungen zuständig sind, und
 
 2.  
-die in § 3 Absatz 2 Nummer 2 und 3 genannten Daten nur an das Bundeszentralamt für Steuern übermittelt werden dürfen.
+die in § 3 Absatz 2 Nummer 2 und 3 genannten Daten nur an das Bundeszentralamt für Steuern übermittelt werden dürfen. Das in § 3 Absatz 2 Nummer 2 Buchstabe c genannte Datum zur Auflösung der Ehe oder Lebenspartnerschaft darf auch an die amtliche Statistik übermittelt werden.
 
-Die in Satz 2 Nummer 1 und 2 genannten Daten dürfen nach § 33 auch an die Meldebehörden übermittelt werden. Das in § 3 Absatz 2 Nummer 2 Buchstabe c genannte Datum zur Auflösung der Ehe oder Lebenspartnerschaft darf auch an die amtliche Statistik übermittelt werden.
+Die in Satz 2 Nummer 1 und 2 genannten Daten dürfen nach § 33 auch an die Meldebehörden übermittelt werden.
 
 ### § 6 Richtigkeit und Vollständigkeit des Melderegisters
 
@@ -453,7 +447,7 @@ Bei Datenübermittlungen durch ein automatisiertes Abrufverfahren oder eine auto
 
 (2) Die Auskunft kann auch elektronisch durch Datenübertragung über das Internet erteilt werden. Dabei ist sicherzustellen, dass dem jeweiligen Stand der Technik entsprechende Maßnahmen auch im Bereich der Verschlüsselungstechnik und der Authentifizierung getroffen werden, um den Datenschutz und die Datensicherheit zu gewährleisten, insbesondere im Hinblick auf die Vertraulichkeit und die Unversehrtheit der Daten, die im Melderegister gespeichert sind und an die betroffene Person übermittelt werden.
 
-(3) Die Identität des Antragstellers ist mittels des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes oder mittels eines Identitätsbestätigungsdienstes nach § 6 Absatz 1 des De-Mail-Gesetzes vom 28. April 2011 (BGBl. I S. 666) in der jeweils geltenden Fassung in Verbindung mit einer sicheren Anmeldung nach § 4 Absatz 1 des De-Mail-Gesetzes zu überprüfen. Alternativ kann die Identität des Antragstellers anhand einer qualifizierten elektronischen Signatur nach dem Signaturgesetz überprüft werden.
+(3) Die Identität des Antragstellers ist mittels des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes oder mittels eines Identitätsbestätigungsdienstes nach § 6 Absatz 1 des De-Mail-Gesetzes vom 28. April 2011 (BGBl. I S. 666) in der jeweils geltenden Fassung in Verbindung mit einer sicheren Anmeldung nach § 4 Absatz 1 des De-Mail-Gesetzes zu überprüfen. Alternativ kann die Identität des Antragstellers anhand einer qualifizierten elektronischen Signatur überprüft werden.
 
 ### § 11 Auskunftsbeschränkungen
 
@@ -1076,12 +1070,15 @@ Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat,
 Doktorgrad,
 
 7.  
-derzeitige Anschriften oder Wegzugsanschrift, gekennzeichnet nach Haupt- und Nebenwohnung,
+Geschlecht,
 
 8.  
-Sterbedatum und Sterbeort sowie
+derzeitige Anschriften oder Wegzugsanschrift, gekennzeichnet nach Haupt- und Nebenwohnung,
 
 9.  
+Sterbedatum und Sterbeort sowie
+
+10.  
 bedingte Sperrvermerke nach § 52.
 
 (2) Ein Abruf ist nur zulässig, soweit diese Daten der abrufenden Stelle zur Erfüllung ihrer Aufgaben bekannt sein müssen. Ist im Melderegister eine Auskunftssperre nach § 51 eingetragen, erhält die abrufende Stelle eine Mitteilung, die keine Rückschlüsse darauf zulassen darf, ob zu der betroffenen Person keine Daten vorhanden sind oder eine Auskunftssperre besteht; in diesen Fällen ist der Abruf von der Meldebehörde wie ein Ersuchen um Datenübermittlung nach § 34 zu behandeln.
@@ -1089,21 +1086,18 @@ bedingte Sperrvermerke nach § 52.
 (3) Den in § 34 Absatz 4 Satz 1 genannten Behörden dürfen darüber hinaus durch das automatisierte Abrufverfahren folgende Daten übermittelt werden:
 
 1.  
-Geschlecht,
-
-2.  
 derzeitige Staatsangehörigkeiten,
 
-3.  
+2.  
 frühere Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung,
 
-4.  
+3.  
 Einzugsdatum und Auszugsdatum,
 
-5.  
+4.  
 Ausstellungsbehörde, Ausstellungsdatum, Gültigkeitsdauer, Seriennummer des Personalausweises, vorläufigen Personalausweises oder Ersatz-Personalausweises, des anerkannten und gültigen Passes oder Passersatzpapiers und
 
-6.  
+5.  
 Daten nach § 3 Absatz 2 Nummer 7 und 8.
 
 (4) Als Auswahldaten für Abrufe dürfen die in § 34 Absatz 4 Satz 1 genannten Behörden Daten nach § 34 Absatz 1 verwenden, alle übrigen öffentlichen Stellen nur den Familiennamen, frühere Namen, Vornamen, das Geschlecht, das Geburtsdatum und den Geburtsort sowie bei Geburt im Ausland auch den Staat und die derzeitige oder eine frühere Anschrift. Für Familiennamen, frühere Namen und Vornamen ist eine phonetische Suche zulässig. Werden auf Grund eines Abrufs die Datensätze mehrerer Personen angezeigt, darf die abrufberechtigte Stelle diese Daten nur in dem Umfang verwenden, der zur Erfüllung der ihr durch Rechtsvorschrift übertragenen Aufgaben erforderlich ist. Nicht erforderliche Daten sind unverzüglich zu löschen.
@@ -1480,12 +1474,53 @@ Absatz 1 Satz 2 gilt entsprechend.
 (4) Auskünfte dürfen nur erteilt werden, wenn
 
 1.  
-der Antragsteller die betroffene Person sowohl mit Familienname oder früheren Namen und mindestens einem Vornamen sowie mit zwei weiteren auf Grund von § 3 Absatz 1, ausgenommen die Nummern 1 bis 4, 7, 10 und 11, gespeicherten Daten bezeichnet hat, wobei für Familienname, frühere Namen und Vornamen eine phonetische Suche zulässig ist, und
+der Antragsteller die betroffene Person mit ihrem Familiennamen oder einem früheren Familiennamen und mindestens einem jeweils dazugehörigen Vornamen, wobei für Vor-und Familiennamen eine phonetische Suche zulässig ist, sowie entweder mit einer Anschrift oder mit zwei weiteren Daten bezeichnet hat, wobei die Daten nach Absatz 5 Nummer 5 und 9 nicht zusammen verwendet werden dürfen, und
 
 2.  
 die Identität der betroffenen Person durch einen automatisierten Abgleich der im Antrag angegebenen Daten mit den im Melderegister gespeicherten Daten der betroffenen Person eindeutig festgestellt worden ist.
 
-(5) § 10 Absatz 2 Satz 2 und § 40 gelten entsprechend.
+(5) Für die weitere Bezeichnung der betroffenen Person nach Absatz 4 Nummer 1 können folgende Daten zusätzlich verwendet werden:
+
+1.  
+Ordensname,
+
+2.  
+Künstlername,
+
+3.  
+Geburtsdatum,
+
+4.  
+Geburtsort sowie bei Geburt im Ausland auch den Staat,
+
+5.  
+Geschlecht,
+
+6.  
+Vorname und Familienname des gesetzlichen Vertreters,
+
+7.  
+Einzugsdatum zu einer Anschrift,
+
+8.  
+Auszugsdatum zu einer Anschrift,
+
+9.  
+Familienstand,
+
+10.  
+Datum und Ort der Eheschließung oder Begründung der Lebenspartnerschaft sowie bei Eheschließung oder Begründung der Lebenspartnerschaft im Ausland auch den Staat,
+
+11.  
+Vorname und Familienname des Ehegatten oder Lebenspartners,
+
+12.  
+Sterbedatum,
+
+13.  
+Sterbeort sowie bei Versterben im Ausland auch den Staat.
+
+(6) § 10 Absatz 2 Satz 2 und § 40 gelten entsprechend.
 
 ### § 50 Melderegisterauskünfte in besonderen Fällen
 
@@ -1531,6 +1566,8 @@ Die übermittelten Daten dürfen nur für die Herausgabe von Adressbüchern (Adr
 (5) Die betroffene Person hat das Recht, der Übermittlung ihrer Daten nach den Absätzen 1 bis 3 zu widersprechen; hierauf ist bei der Anmeldung nach § 17 Absatz 1 sowie einmal jährlich durch ortsübliche Bekanntmachung hinzuweisen.
 
 (6) Eine Erteilung von Auskünften nach den Absätzen 1 bis 3 unterbleibt, wenn eine Auskunftssperre nach § 51 vorliegt. Eine Auskunft nach Absatz 3 darf außerdem nicht erteilt werden, wenn ein bedingter Sperrvermerk nach § 52 eingetragen ist.
+
+§ 50 Abs. 4 Satz 1: Hessen - Abweichung durch Gebührennummer 421 der Anlage zu § 1 der Verwaltungskostenordnung für den Geschäftsbereich des Ministeriums des Innern und für Sport (VwKostO-MdIS) v. 7.6.2013 GVBl. S. 410 mWv 1.11.2015 (vgl. BGBl. I 2017, 4016)
 
 ### § 51 Auskunftssperren
 
