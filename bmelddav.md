@@ -1,8 +1,8 @@
 Verordnung zu Voraussetzungen von automatisierten Meldedatenabrufen durch Behörden oder sonstige öffentliche Stellen des Bundes und der Länder (BMeldDAV)
 =========================================================================================================================================================
 
-Hinweis  
-Änderung durch Art. 4 V v. 11.10.2016 I 2249 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Stand  
+Zuletzt geändert durch Art. 11 Abs. 6 G v. 18.7.2017 I 2745
 
 ### 
 
@@ -24,7 +24,7 @@ Auf Grund des § 56 Absatz 1 Nummer 3 und Absatz 2 des Bundesmeldegesetzes vom 3
 
 (1) Datenabrufe nach den §§ 38 und 39 des Bundesmeldegesetzes erfolgen elektronisch unter Zugrundelegung des Datenaustauschformats OSCI-XMeld und Nutzung des Übermittlungsprotokolls OSCI-Transport in der im Bundesanzeiger jeweils bekannt gemachten geltenden Fassung. § 3 des Gesetzes über die Verbindung der informationstechnischen Netze des Bundes und der Länder – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes – vom 10. August 2009 (BGBl. I S. 2702, 2706) in der jeweils geltenden Fassung bleibt unberührt. Soweit bei der Nutzung des Verbindungsnetzes gleichwertige Funktionalitäten zur Verfügung stehen, kann bis zum 30. April 2018 auf die Verwendung des Übermittlungsprotokolls OSCI-Transport verzichtet werden.
 
-(2) Bei Datenabrufen über das Internet sind die zu übermittelnden Daten mit einer fortgeschrittenen elektronischen Signatur nach § 2 Nummer 2 des Signaturgesetzes zu versehen und nach dem jeweiligen Stand der Technik zu verschlüsseln.
+(2) Bei Datenabrufen über das Internet sind die zu übermittelnden Daten mit einer fortgeschrittenen elektronischen Signatur zu versehen und nach dem jeweiligen Stand der Technik zu verschlüsseln.
 
 (3) Betreiben mehrere Länder gemeinsam eine Vermittlungsstelle, kann bei Datenabrufen auch ein anderes Übermittlungsprotokoll eingesetzt werden, wenn es dem Übermittlungsprotokoll OSCI-Transport hinsichtlich der Sicherstellung der Vertraulichkeit, Integrität und Authentizität der übertragenen Daten gleichwertig ist. Die Gleichwertigkeit ist durch die verantwortliche Stelle zu dokumentieren.
 
