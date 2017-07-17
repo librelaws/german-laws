@@ -2,7 +2,7 @@ Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte (RVG)
 =======================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 4 G v. 17.02.2016 I 203
+Zuletzt geändert durch Art. 2 Abs. 8 G v. 18.7.2017 I 2739
 
 ### 
 
@@ -384,7 +384,7 @@ das Verfahren zur Bestimmung des zuständigen Gerichts und das Verfahren, für d
 eine Scheidungssache oder ein Verfahren über die Aufhebung einer Lebenspartnerschaft und die Folgesachen;
 
 5.  
-das Verfahren über die Anordnung eines Arrests, über den Erlass einer einstweiligen Verfügung oder einstweiligen Anordnung, über die Anordnung oder Wiederherstellung der aufschiebenden Wirkung, über die Aufhebung der Vollziehung oder die Anordnung der sofortigen Vollziehung eines Verwaltungsakts und jedes Verfahren über deren Abänderung oder Aufhebung;
+das Verfahren über die Anordnung eines Arrests, zur Erwirkung eines Europäischen Beschlusses zur vorläufigen Kontenpfändung, über den Erlass einer einstweiligen Verfügung oder einstweiligen Anordnung, über die Anordnung oder Wiederherstellung der aufschiebenden Wirkung, über die Aufhebung der Vollziehung oder die Anordnung der sofortigen Vollziehung eines Verwaltungsakts und jedes Verfahren über deren Abänderung, Aufhebung oder Widerruf;
 
 6.  
 das Verfahren nach § 3 Abs. 1 des Gesetzes zur Ausführung des Vertrages zwischen der Bundesrepublik Deutschland und der Republik Österreich vom 6. Juni 1959 über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 319-12, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 23 des Gesetzes vom 27. Juli 2001 (BGBl. I S. 1887) geändert worden ist, und das Verfahren nach § 3 Abs. 2 des genannten Gesetzes;
@@ -436,19 +436,19 @@ das Mahnverfahren und das streitige Verfahren,
 das vereinfachte Verfahren über den Unterhalt Minderjähriger und das streitige Verfahren,
 
 4.  
-das Verfahren in der Hauptsache und ein Verfahren über
+das Verfahren in der Hauptsache und ein Verfahren
 
 a)  
-die Anordnung eines Arrests,
+auf Anordnung eines Arrests oder zur Erwirkung eines Europäischen Beschlusses zur vorläufigen Kontenpfändung,
 
 b)  
-den Erlass einer einstweiligen Verfügung oder einer einstweiligen Anordnung,
+auf Erlass einer einstweiligen Verfügung oder einer einstweiligen Anordnung,
 
 c)  
-die Anordnung oder Wiederherstellung der aufschiebenden Wirkung, die Aufhebung der Vollziehung oder die Anordnung der sofortigen Vollziehung eines Verwaltungsakts sowie
+über die Anordnung oder Wiederherstellung der aufschiebenden Wirkung, über die Aufhebung der Vollziehung oder über die Anordnung der sofortigen Vollziehung eines Verwaltungsakts sowie
 
 d)  
-die Abänderung oder Aufhebung einer in einem Verfahren nach den Buchstaben a bis c ergangenen Entscheidung,
+über die Abänderung, die Aufhebung oder den Widerruf einer in einem Verfahren nach den Buchstaben a bis c ergangenen Entscheidung,
 
 5.  
 der Urkunden- oder Wechselprozess und das ordentliche Verfahren, das nach Abstandnahme vom Urkunden- oder Wechselprozess oder nach einem Vorbehaltsurteil anhängig bleibt (§§ 596, 600 der Zivilprozessordnung),
@@ -586,7 +586,7 @@ die Einreichung von Schutzschriften;
 außergerichtliche Verhandlungen;
 
 3.  
-Zwischenstreite, die Bestellung von Vertretern durch das in der Hauptsache zuständige Gericht, die Ablehnung von Richtern, Rechtspflegern, Urkundsbeamten der Geschäftsstelle oder Sachverständigen, die Entscheidung über einen Antrag betreffend eine Sicherungsanordnung, die Wertfestsetzung;
+Zwischenstreite, die Bestellung von Vertretern durch das in der Hauptsache zuständige Gericht, die Ablehnung von Richtern, Rechtspflegern, Urkundsbeamten der Geschäftsstelle oder Sachverständigen, die Entscheidung über einen Antrag betreffend eine Sicherungsanordnung, die Wertfestsetzung, die Beschleunigungsrüge nach § 155b des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit;
 
 4.  
 das Verfahren vor dem beauftragten oder ersuchten Richter;
@@ -1011,7 +1011,7 @@ betrifft. Satz 1 gilt im Fall der Beiordnung in Lebenspartnerschaftssachen nach 
 die Zwangsvollstreckung, die Vollstreckung und den Verwaltungszwang;
 
 2.  
-das Verfahren über den Arrest, die einstweilige Verfügung und die einstweilige Anordnung;
+das Verfahren über den Arrest, den Europäischen Beschluss zur vorläufigen Kontenpfändung, die einstweilige Verfügung und die einstweilige Anordnung;
 
 3.  
 das selbstständige Beweisverfahren;
@@ -1867,8 +1867,8 @@ Berufung, Revision, bestimmte Beschwerden und Verfahren vor dem Finanzgericht***
 
 *Vorbemerkung 3.2:*
    (1) Dieser Abschnitt ist auch in Verfahren vor dem Rechtsmittelgericht über die Zulassung des Rechtsmittels anzuwenden.
-   (2) Wenn im Verfahren über einen Antrag auf Anordnung, Abänderung oder Aufhebung eines Arrests oder einer einstweiligen Verfügung das Rechtsmittelgericht als Gericht der Hauptsache anzusehen ist (§ 943 ZPO), bestimmen sich die Gebühren nach den für die erste Instanz geltenden Vorschriften. Dies gilt entsprechend im Verfahren der einstweiligen Anordnung und im Verfahren auf Anordnung oder Wiederherstellung der aufschiebenden Wirkung, auf Aussetzung oder Aufhebung der Vollziehung oder Anordnung der sofortigen Vollziehung eines Verwaltungsakts.
-Satz 1 gilt ferner entsprechend in Verfahren über einen Antrag nach § 115 Abs. 2 Satz 5 und 6, § 118 Abs. 1 Satz 3 oder nach § 121 GWB.
+   (2) Wenn im Verfahren auf Anordnung eines Arrests, zur Erwirkung eines Europäischen Beschlusses zur vorläufigen Kontenpfändung oder auf Erlass einer einstweiligen Verfügung sowie im Verfahren über die Aufhebung, den Widerruf oder die Abänderung der genannten Entscheidungen das Rechtsmittelgericht als Gericht der Hauptsache anzusehen ist (§ 943, auch i. V. m. § 946 Abs. 1 Satz 2 ZPO), bestimmen sich die Gebühren nach den für die erste Instanz geltenden Vorschriften. Dies gilt entsprechend im Verfahren der einstweiligen Anordnung und im Verfahren auf Anordnung oder Wiederherstellung der aufschiebenden Wirkung, auf Aussetzung oder Aufhebung der Vollziehung oder Anordnung der sofortigen Vollziehung eines Verwaltungsakts.
+Satz 1 gilt ferner entsprechend in Verfahren über einen Antrag nach § 169 Absatz 2 Satz 5 und 6, § 173 Absatz 1 Satz 3 oder nach § 176 GWB.
 
  
 
@@ -1922,6 +1922,9 @@ gegen die Entscheidung des Verwaltungs- oder Sozialgerichts wegen des Hauptgegen
 
 b)  
 nach dem WpHG,
+
+c)  
+gegen die Entscheidung über den Widerspruch des Schuldners (§ 954 Abs. 1 Satz 1 ZPO) im Fall des Artikels 5 Buchstabe a der Verordnung (EU) Nr. 655/2014,
 
 4.  
 über Rechtsbeschwerden nach dem StVollzG, auch i. V. m. § 92 JGG.
@@ -2136,7 +2139,7 @@ Die Terminsgebühr bestimmt sich nach Abschnitt 1.
 Verfahrensgebühr
 
 1.  
-für das Verfahren vor dem Oberlandesgericht nach § 16 Abs. 4 des Urheberrechtswahrnehmungsgesetzes,
+für das Verfahren vor dem Oberlandesgericht nach § 129 VGG,
 
 2.  
 für das erstinstanzliche Verfahren vor dem Bundesverwaltungsgericht, dem Bundessozialgericht, dem Oberverwaltungsgericht (Verwaltungsgerichtshof) und dem Landessozialgericht sowie
@@ -2220,7 +2223,7 @@ Die Gebühr entsteht neben der Gebühr 3305 nur, wenn innerhalb der Widerspruchs
 Vollstreckung und Vollziehung*
 
 *Vorbemerkung 3.3.3:*
-Dieser Unterabschnitt gilt für
+(1) Dieser Unterabschnitt gilt für
 
 1.  
 die Zwangsvollstreckung,
@@ -2239,6 +2242,8 @@ Verfahren des Verwaltungszwangs und
 
 4.  
 die Vollziehung eines Arrestes oder einstweiligen Verfügung, soweit nachfolgend keine besonderen Gebühren bestimmt sind. Er gilt auch für Verfahren auf Eintragung einer Zwangshypothek (§§ 867 und 870a ZPO).
+
+(2) Im Verfahren nach der Verordnung (EU) Nr. 655/2014 werden Gebühren nach diesem Unterabschnitt nur im Fall des Artikels 5 Buchstabe b der Verordnung (EU) Nr. 655/2014 erhoben. In den Fällen des Artikels 5 Buchstabe a der Verordnung (EU) Nr. 655/2014 bestimmen sich die Gebühren nach den für Arrestverfahren geltenden Vorschriften.
 
  
 
@@ -2327,7 +2332,7 @@ Insolvenzverfahren, Verteilungsverfahren nach der Schifffahrtsrechtlichen Vertei
 *Vorbemerkung 3.3.5:*
    (1) Die Gebührenvorschriften gelten für die Verteilungsverfahren nach der SVertO, soweit dies ausdrücklich angeordnet ist.
    (2) Bei der Vertretung mehrerer Gläubiger, die verschiedene Forderungen geltend machen, entstehen die Gebühren jeweils besonders.
-   (3) Für die Vertretung des ausländischen Insolvenzverwalters im Sekundärinsolvenzverfahren entstehen die gleichen Gebühren wie für die Vertretung des Schuldners.
+   (3) Für die Vertretung des ausländischen Insolvenzverwalters entstehen die gleichen Gebühren wie für die Vertretung des Schuldners.
 
  
 
@@ -2377,7 +2382,7 @@ Verfahrensgebühr für das Insolvenzverfahren ........
 
  
 
-Die Gebühr entsteht auch im Verteilungsverfahren nach der SVertO.
+Die Gebühr entsteht auch im Verteilungsverfahren nach der SVertO und im Verfahren über Anträge nach Artikel 36 Abs. 9 der Verordnung (EU) 2015/848.
 
  
 
@@ -2842,7 +2847,7 @@ Terminsgebühr in den in Nummer 3500 genannten Verfahren .......................
 
 3514
 
-In dem Verfahren über die Beschwerde gegen die Zurückweisung des Antrags auf Anordnung eines Arrests oder des Antrags auf Erlass einer einstweiligen Verfügung bestimmt das Beschwerdegericht Termin zur mündlichen Verhandlung:
+In dem Verfahren über die Beschwerde gegen die Zurückweisung des Antrags auf Anordnung eines Arrests, des Antrags auf Erlass eines Europäischen Beschlusses zur vorläufigen Kontenpfändung oder des Antrags auf Erlass einer einstweiligen Verfügung bestimmt das Beschwerdegericht Termin zur mündlichen Verhandlung:
 Die Gebühr 3513 beträgt ............................
 
 1,2
@@ -3378,7 +3383,7 @@ Verfahrensgebühr bei Einziehung und verwandten Maßnahmen .....................
 
  
 
-   (1) Die Gebühr entsteht für eine Tätigkeit für den Beschuldigten, die sich auf die Einziehung, dieser gleichstehende Rechtsfolgen (§ 442 StPO), die Abführung des Mehrerlöses oder auf eine diesen Zwecken dienende Beschlagnahme bezieht.
+   (1) Die Gebühr entsteht für eine Tätigkeit für den Beschuldigten, die sich auf die Einziehung, dieser gleichstehende Rechtsfolgen (§ 439 StPO), die Abführung des Mehrerlöses oder auf eine diesen Zwecken dienende Beschlagnahme bezieht.
    (2) Die Gebühr entsteht nicht, wenn der Gegenstandswert niedriger als 30,00 € ist.
    (3) Die Gebühr entsteht für das Verfahren des ersten Rechtszugs einschließlich des vorbereitenden Verfahrens und für jeden weiteren Rechtszug.
 
@@ -3906,7 +3911,7 @@ Verfahrensgebühr bei Einziehung und verwandten Maßnahmen .....................
 
  
 
-   (1) Die Gebühr entsteht für eine Tätigkeit für den Betroffenen, die sich auf die Einziehung oder dieser gleichstehende Rechtsfolgen (§ 46 Abs. 1 OWiG, § 442 StPO) oder auf eine diesen Zwecken dienende Beschlagnahme bezieht.
+   (1) Die Gebühr entsteht für eine Tätigkeit für den Betroffenen, die sich auf die Einziehung oder dieser gleichstehende Rechtsfolgen (§ 46 Abs. 1 OWiG, § 439 StPO) oder auf eine diesen Zwecken dienende Beschlagnahme bezieht.
    (2) Die Gebühr entsteht nicht, wenn der Gegenstandswert niedriger als 30,00 € ist.
    (3) Die Gebühr entsteht nur einmal für das Verfahren vor der Verwaltungsbehörde und für das gerichtliche Verfahren im ersten Rechtszug. Im Rechtsbeschwerdeverfahren entsteht die Gebühr besonders.
 
