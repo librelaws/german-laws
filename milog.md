@@ -2,7 +2,7 @@ Gesetz zur Regelung eines allgemeinen Mindestlohns (MiLoG)
 ==========================================================
 
 Stand  
-Geändert durch Art. 2 Abs. 10 G v. 17.02.2016 I 203
+Zuletzt geändert durch Art. 2 Abs. 4 G v. 18.7.2017 I 2739
 
 ### 
 
@@ -378,7 +378,7 @@ einen Nachunternehmer einsetzt oder zulässt, dass ein Nachunternehmer tätig wi
 
 (4) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind die in § 14 genannten Behörden jeweils für ihren Geschäftsbereich.
 
-(5) Für die Vollstreckung zugunsten der Behörden des Bundes und der bundesunmittelbaren juristischen Personen des öffentlichen Rechts sowie für die Vollziehung des dinglichen Arrestes nach § 111d der Strafprozessordnung in Verbindung mit § 46 des Gesetzes über Ordnungswidrigkeiten durch die in § 14 genannten Behörden gilt das Verwaltungs-Vollstreckungsgesetz des Bundes.
+(5) Für die Vollstreckung zugunsten der Behörden des Bundes und der bundesunmittelbaren juristischen Personen des öffentlichen Rechts sowie für die Vollziehung des Vermögensarrestes nach § 111e der Strafprozessordnung in Verbindung mit § 46 des Gesetzes über Ordnungswidrigkeiten durch die in § 14 genannten Behörden gilt das Verwaltungs-Vollstreckungsgesetz des Bundes.
 
 Abschnitt 4 Schlussvorschriften
 -------------------------------
