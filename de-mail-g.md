@@ -2,7 +2,7 @@ De-Mail-Gesetz ()
 =================
 
 Stand  
-Zuletzt geändert durch Art. 3 Abs. 8 G v. 7.8.2013 I 3154
+Zuletzt geändert durch Art. 3 G v. 18.7.2017 I 2745
 
 ### 
 
@@ -61,7 +61,7 @@ c)
 anhand eines elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes,
 
 d)  
-anhand einer qualifizierten elektronischen Signatur nach § 2 Nummer 3 des Signaturgesetzes oder
+anhand einer qualifizierten elektronischen Signatur oder
 
 e)  
 anhand sonstiger geeigneter technischer Verfahren mit gleichwertiger Sicherheit zu einer Identifizierung anhand der Dokumente nach Buchstabe a;
@@ -155,7 +155,7 @@ den Namen und Vornamen oder die Firma des akkreditierten Diensteanbieters, der d
 4.  
 die Prüfsumme der zu bestätigenden Nachricht.
 
-Der akkreditierte Diensteanbieter des Senders hat die Versandbestätigung mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz zu versehen.
+Der akkreditierte Diensteanbieter des Senders hat die Versandbestätigung mit einer qualifizierten elektronischen Signatur zu versehen.
 
 (8) Auf Antrag des Senders wird der Eingang einer Nachricht im De-Mail-Postfach des Empfängers bestätigt. Hierbei wirken der akkreditierte Diensteanbieter des Senders und der akkreditierte Diensteanbieter des Empfängers zusammen. Der akkreditierte Diensteanbieter des Empfängers erstellt eine Eingangsbestätigung. Die Eingangsbestätigung enthält folgende Angaben:
 
@@ -171,7 +171,7 @@ den Namen und Vornamen oder die Firma des akkreditierten Diensteanbieters, der d
 4.  
 die Prüfsumme der zu bestätigenden Nachricht.
 
-Der akkreditierte Diensteanbieter des Empfängers hat die Eingangsbestätigung mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz zu versehen. Der akkreditierte Diensteanbieter des Empfängers sendet diesem ebenfalls die Eingangsbestätigung zu.
+Der akkreditierte Diensteanbieter des Empfängers hat die Eingangsbestätigung mit einer qualifizierten elektronischen Signatur zu versehen. Der akkreditierte Diensteanbieter des Empfängers sendet diesem ebenfalls die Eingangsbestätigung zu.
 
 (9) Eine öffentliche Stelle, welche zur förmlichen Zustellung nach den Vorschriften der Prozessordnungen und der Gesetze, die die Verwaltungszustellung regeln, berechtigt ist, kann eine Abholbestätigung verlangen. Aus der Abholbestätigung ergibt sich, dass sich der Empfänger nach dem Eingang der Nachricht im Postfach an seinem De-Mail-Konto sicher im Sinne des § 4 angemeldet hat. Hierbei wirken der akkreditierte Diensteanbieter der öffentlichen Stelle als Senderin und der akkreditierte Diensteanbieter des Empfängers zusammen. Der akkreditierte Diensteanbieter des Empfängers erzeugt die Abholbestätigung. Die Abholbestätigung muss folgende Angaben enthalten:
 
@@ -190,7 +190,7 @@ den Namen und Vornamen oder die Firma des akkreditierten Diensteanbieters, der d
 5.  
 die Prüfsumme der zu bestätigenden Nachricht.
 
-Der akkreditierte Diensteanbieter des Empfängers hat die Abholbestätigung mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz zu versehen. Der akkreditierte Diensteanbieter des Empfängers sendet diesem ebenfalls die Abholbestätigung zu. Die in Satz 5 genannten Daten dürfen ausschließlich zum Nachweis der förmlichen Zustellung im Sinne von § 5 Absatz 6 verarbeitet und genutzt werden.
+Der akkreditierte Diensteanbieter des Empfängers hat die Abholbestätigung mit einer qualifizierten elektronischen Signatur zu versehen. Der akkreditierte Diensteanbieter des Empfängers sendet diesem ebenfalls die Abholbestätigung zu. Die in Satz 5 genannten Daten dürfen ausschließlich zum Nachweis der förmlichen Zustellung im Sinne von § 5 Absatz 6 verarbeitet und genutzt werden.
 
 (10) Der akkreditierte Diensteanbieter stellt sicher, dass Nachrichten, für die eine Eingangsbestätigung nach Absatz 8 oder eine Abholbestätigung nach Absatz 9 erteilt worden ist, durch den Empfänger ohne eine sichere Anmeldung an seinem De-Mail-Konto erst 90 Tage nach ihrem Eingang gelöscht werden können.
 
@@ -198,7 +198,7 @@ Der akkreditierte Diensteanbieter des Empfängers hat die Abholbestätigung mit 
 
 ### § 6 Identitätsbestätigungsdienst
 
-(1) Der akkreditierte Diensteanbieter kann einen Identitätsbestätigungsdienst anbieten. Ein solcher liegt vor, wenn sich der Nutzer der nach § 3 hinterlegten Identitätsdaten bedienen kann, um seine Identität gegenüber einem Dritten, der ebenfalls Nutzer eines De-Mail-Kontos ist, sicher elektronisch bestätigen zu lassen. Die Übermittlung der Identitätsdaten erfolgt mittels einer De-Mail-Nachricht, die der akkreditierte Diensteanbieter im Auftrag des Nutzers an den Dritten, welchem gegenüber er seine Identitätsdaten mitteilen möchte, sendet. Die De-Mail-Nachricht wird durch den akkreditierten Diensteanbieter mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz versehen.
+(1) Der akkreditierte Diensteanbieter kann einen Identitätsbestätigungsdienst anbieten. Ein solcher liegt vor, wenn sich der Nutzer der nach § 3 hinterlegten Identitätsdaten bedienen kann, um seine Identität gegenüber einem Dritten, der ebenfalls Nutzer eines De-Mail-Kontos ist, sicher elektronisch bestätigen zu lassen. Die Übermittlung der Identitätsdaten erfolgt mittels einer De-Mail-Nachricht, die der akkreditierte Diensteanbieter im Auftrag des Nutzers an den Dritten, welchem gegenüber er seine Identitätsdaten mitteilen möchte, sendet. Die De-Mail-Nachricht wird durch den akkreditierten Diensteanbieter mit einer qualifizierten elektronischen Signatur versehen.
 
 (2) Der akkreditierte Diensteanbieter hat Vorkehrungen dafür zu treffen, dass Identitätsdaten nicht unbemerkt gefälscht oder verfälscht werden können.
 
@@ -216,7 +216,7 @@ Der akkreditierte Diensteanbieter des Empfängers hat die Abholbestätigung mit 
 
 ### § 8 Dokumentenablage
 
-Der akkreditierte Diensteanbieter kann dem Nutzer eine Dokumentenablage zur sicheren Ablage von Dokumenten anbieten. Bietet er die Dokumentenablage an, so hat er dafür Sorge zu tragen, dass die Dokumente sicher abgelegt werden; Vertraulichkeit, Integrität und ständige Verfügbarkeit der abgelegten Dokumente sind zu gewährleisten. Der akkreditierte Diensteanbieter ist verpflichtet, alle Dokumente verschlüsselt abzulegen. Der Nutzer kann für jede einzelne Datei eine für den Zugriff erforderliche sichere Anmeldung nach § 4 festlegen. Auf Verlangen des Nutzers hat der akkreditierte Diensteanbieter ein Protokoll über die Einstellung und Herausnahme von Dokumenten bereitzustellen, das mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz gesichert ist.
+Der akkreditierte Diensteanbieter kann dem Nutzer eine Dokumentenablage zur sicheren Ablage von Dokumenten anbieten. Bietet er die Dokumentenablage an, so hat er dafür Sorge zu tragen, dass die Dokumente sicher abgelegt werden; Vertraulichkeit, Integrität und ständige Verfügbarkeit der abgelegten Dokumente sind zu gewährleisten. Der akkreditierte Diensteanbieter ist verpflichtet, alle Dokumente verschlüsselt abzulegen. Der Nutzer kann für jede einzelne Datei eine für den Zugriff erforderliche sichere Anmeldung nach § 4 festlegen. Auf Verlangen des Nutzers hat der akkreditierte Diensteanbieter ein Protokoll über die Einstellung und Herausnahme von Dokumenten bereitzustellen, das mit einer qualifizierten elektronischen Signatur gesichert ist.
 
 Abschnitt 3 De-Mail-Dienste-Nutzung
 -----------------------------------
