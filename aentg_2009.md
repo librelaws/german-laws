@@ -2,7 +2,7 @@ Gesetz über zwingende Arbeitsbedingungen für grenzüberschreitend entsandte un
 ===============================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 11 G v. 17.02.2016 I 203
+Zuletzt geändert durch Art. 2 Abs. 5 G v. 18.7.2017 I 2739
 
 Sonst  
 Außerkrafttreten gem. Art. 15 Abs. 2 G v. 11.8.2014 I 1348 ist berücksichtigt
@@ -14,6 +14,7 @@ Außerkrafttreten gem. Art. 15 Abs. 2 G v. 11.8.2014 I 1348 ist berücksichtigt
 (+++ Zur Anwendung vgl. § 13 G v. 11.8.2014 I 1348 (MiLoG) +++)
 (+++ Zur Anwendung d. § 18 Abs. 1 bis 4 vgl. § 1 Abs. 2 MiLoDokV +++)
 (+++ Zur Anwendung d. § 19 Abs. 1 u. 2 vgl. § 1 Abs. 2 MiLoDokV +++)
+(+++ Zur Anwendung d. Abschn. 5 vgl. § 12 SokaSiG +++)
 ```
 
 ### Eingangsformel
@@ -135,11 +136,11 @@ Die Arbeitsbedingungen nach Satz 1 Nummer 1 bis 3 umfassen auch Regelungen zur F
 
 (6) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 5 findet dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige Betriebsabteilung im Auftrag eines Dritten überwiegend auf inländischen Steinkohlebergwerken Grubenräume erstellt oder sonstige untertägige bergbauliche Spezialarbeiten ausführt.
 
-(7) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 6 findet dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige Betriebsabteilung gewerbsmäßig überwiegend Textilien für gewerbliche Kunden sowie öffentlich-rechtliche oder kirchliche Einrichtungen wäscht, unabhängig davon, ob die Wäsche im Eigentum der Wäscherei oder des Kunden steht. Dieser Abschnitt findet keine Anwendung auf Wäschereidienstleistungen, die von Werkstätten für behinderte Menschen im Sinne des § 136 des Neunten Buches Sozialgesetzbuch erbracht werden.
+(7) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 6 findet dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige Betriebsabteilung gewerbsmäßig überwiegend Textilien für gewerbliche Kunden sowie öffentlich-rechtliche oder kirchliche Einrichtungen wäscht, unabhängig davon, ob die Wäsche im Eigentum der Wäscherei oder des Kunden steht. Dieser Abschnitt findet keine Anwendung auf Wäschereidienstleistungen, die von Werkstätten für behinderte Menschen im Sinne des § 219 des Neunten Buches Sozialgesetzbuch erbracht werden.
 
 (8) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 7 findet dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige Betriebsabteilung überwiegend Abfälle im Sinne des § 3 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes sammelt, befördert, lagert, beseitigt oder verwertet oder Dienstleistungen des Kehrens und Reinigens öffentlicher Verkehrsflächen und Schnee- und Eisbeseitigung von öffentlichen Verkehrsflächen einschließlich Streudienste erbringt.
 
-(9) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 8 findet dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige Betriebsabteilung überwiegend Aus- und Weiterbildungsmaßnahmen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch durchführt. Ausgenommen sind Einrichtungen der beruflichen Rehabilitation im Sinne des § 35 Abs. 1 Satz 1 des Neunten Buches Sozialgesetzbuch.
+(9) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 8 findet dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige Betriebsabteilung überwiegend Aus- und Weiterbildungsmaßnahmen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch durchführt. Ausgenommen sind Einrichtungen der beruflichen Rehabilitation im Sinne des § 51 Absatz 1 Satz 1 des Neunten Buches Sozialgesetzbuch.
 
 (10) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nummer 9 findet dieser Abschnitt Anwendung in Betrieben und selbstständigen Betriebsabteilungen, in denen überwiegend geschlachtet oder Fleisch verarbeitet wird (Betriebe der Fleischwirtschaft) sowie in Betrieben und selbstständigen Betriebsabteilungen, die ihre Arbeitnehmer und Arbeitnehmerinnen überwiegend in Betrieben der Fleischwirtschaft einsetzen. Das Schlachten umfasst dabei alle Tätigkeiten des Schlachtens und Zerlegens von Tieren mit Ausnahme von Fischen. Die Verarbeitung umfasst alle Tätigkeiten der Weiterverarbeitung von beim Schlachten gewonnenen Fleischprodukten zur Herstellung von Nahrungsmitteln sowie deren Portionierung und Verpackung. Nicht erfasst ist die Verarbeitung, wenn die Behandlung, die Portionierung oder die Verpackung beim Schlachten gewonnener Fleischprodukte direkt auf Anforderung des Endverbrauchers erfolgt.
 
@@ -262,20 +263,29 @@ Abschnitt 5 Zivilrechtliche Durchsetzung
 
 ### 
 
+```
 (+++ Abschn. 5 (§§ 14 u. 15): Zur Anwendung vgl. §§ 13 u. 13a +++)
+(+++ Abschn. 5 (§§ 14 u. 15): Zur Anwendung vgl. § 12 SokaSiG +++)
+```
 
 ### § 14 Haftung des Auftraggebers
 
 Ein Unternehmer, der einen anderen Unternehmer mit der Erbringung von Werk- oder Dienstleistungen beauftragt, haftet für die Verpflichtungen dieses Unternehmers, eines Nachunternehmers oder eines von dem Unternehmer oder einem Nachunternehmer beauftragten Verleihers zur Zahlung des Mindestentgelts an Arbeitnehmer oder Arbeitnehmerinnen oder zur Zahlung von Beiträgen an eine gemeinsame Einrichtung der Tarifvertragsparteien nach § 8 wie ein Bürge, der auf die Einrede der Vorausklage verzichtet hat. Das Mindestentgelt im Sinne des Satzes 1 umfasst nur den Betrag, der nach Abzug der Steuern und der Beiträge zur Sozialversicherung und zur Arbeitsförderung oder entsprechender Aufwendungen zur sozialen Sicherung an Arbeitnehmer oder Arbeitnehmerinnen auszuzahlen ist (Nettoentgelt).
 
+```
 (+++ Abschn. 5 (§§ 14 u. 15): Zur Anwendung vgl. §§ 13 u. 13a +++)
+(+++ Abschn. 5 (§§ 14 u. 15): Zur Anwendung vgl. § 12 SokaSiG +++)
 (+++ § 14: Zur Anwendung vgl. § 13 G v. 11.8.2014 I 1348 (MiLoG) +++)
+```
 
 ### § 15 Gerichtsstand
 
 Arbeitnehmer und Arbeitnehmerinnen, die in den Geltungsbereich dieses Gesetzes entsandt sind oder waren, können eine auf den Zeitraum der Entsendung bezogene Klage auf Erfüllung der Verpflichtungen nach den §§ 2, 8 oder 14 auch vor einem deutschen Gericht für Arbeitssachen erheben. Diese Klagemöglichkeit besteht auch für eine gemeinsame Einrichtung der Tarifvertragsparteien nach § 5 Nr. 3 in Bezug auf die ihr zustehenden Beiträge.
 
+```
 (+++ Abschn. 5 (§§ 14 u. 15): Zur Anwendung vgl. §§ 13 u. 13a +++)
+(+++ Abschn. 5 (§§ 14 u. 15): Zur Anwendung vgl. § 12 SokaSiG +++)
+```
 
 Abschnitt 6 Kontrolle und Durchsetzung durch staatliche Behörden
 ----------------------------------------------------------------
@@ -401,9 +411,9 @@ wie das Meldeverfahren vereinfacht oder abgewandelt werden kann, sofern die ents
 
 ### § 21 Ausschluss von der Vergabe öffentlicher Aufträge
 
-(1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder Dienstleistungsauftrag der in § 98 des Gesetzes gegen Wettbewerbsbeschränkungen genannten Auftraggeber sollen Bewerber oder Bewerberinnen für eine angemessene Zeit bis zur nachgewiesenen Wiederherstellung ihrer Zuverlässigkeit ausgeschlossen werden, die wegen eines Verstoßes nach § 23 mit einer Geldbuße von wenigstens zweitausendfünfhundert Euro belegt worden sind. Das Gleiche gilt auch schon vor Durchführung eines Bußgeldverfahrens, wenn im Einzelfall angesichts der Beweislage kein vernünftiger Zweifel an einer schwerwiegenden Verfehlung im Sinne des Satzes 1 besteht.
+(1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder Dienstleistungsauftrag der in §§ 99 und 100 des Gesetzes gegen Wettbewerbsbeschränkungen genannten Auftraggeber sollen Bewerber oder Bewerberinnen für eine angemessene Zeit bis zur nachgewiesenen Wiederherstellung ihrer Zuverlässigkeit ausgeschlossen werden, die wegen eines Verstoßes nach § 23 mit einer Geldbuße von wenigstens zweitausendfünfhundert Euro belegt worden sind. Das Gleiche gilt auch schon vor Durchführung eines Bußgeldverfahrens, wenn im Einzelfall angesichts der Beweislage kein vernünftiger Zweifel an einer schwerwiegenden Verfehlung im Sinne des Satzes 1 besteht.
 
-(2) Die für die Verfolgung oder Ahndung der Ordnungswidrigkeiten nach § 23 zuständigen Behörden dürfen öffentlichen Auftraggebern nach § 98 Nr. 1 bis 3 und 5 des Gesetzes gegen Wettbewerbsbeschränkungen und solchen Stellen, die von öffentlichen Auftraggebern zugelassene Präqualifikationsverzeichnisse oder Unternehmer- und Lieferantenverzeichnisse führen, auf Verlangen die erforderlichen Auskünfte geben.
+(2) Die für die Verfolgung oder Ahndung der Ordnungswidrigkeiten nach § 23 zuständigen Behörden dürfen öffentlichen Auftraggebern nach § 99 des Gesetzes gegen Wettbewerbsbeschränkungen und solchen Stellen, die von öffentlichen Auftraggebern zugelassene Präqualifikationsverzeichnisse oder Unternehmer- und Lieferantenverzeichnisse führen, auf Verlangen die erforderlichen Auskünfte geben.
 
 (3) Öffentliche Auftraggeber nach Absatz 2 fordern im Rahmen ihrer Tätigkeit beim Gewerbezentralregister Auskünfte über rechtskräftige Bußgeldentscheidungen wegen einer Ordnungswidrigkeit nach § 23 Abs. 1 oder 2 an oder verlangen von Bewerbern oder Bewerberinnen eine Erklärung, dass die Voraussetzungen für einen Ausschluss nach Absatz 1 nicht vorliegen. Im Falle einer Erklärung des Bewerbers oder der Bewerberin können öffentliche Auftraggeber nach Absatz 2 jederzeit zusätzlich Auskünfte des Gewerbezentralregisters nach § 150a der Gewerbeordnung anfordern.
 
@@ -458,7 +468,7 @@ einen Nachunternehmer einsetzt oder zulässt, dass ein Nachunternehmer tätig wi
 
 (4) Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten sind die in § 16 genannten Behörden jeweils für ihren Geschäftsbereich.
 
-(5) Für die Vollstreckung zugunsten der Behörden des Bundes und der bundesunmittelbaren juristischen Personen des öffentlichen Rechts sowie für die Vollziehung des dinglichen Arrestes nach § 111d der Strafprozessordnung in Verbindung mit § 46 des Gesetzes über Ordnungswidrigkeiten durch die in § 16 genannten Behörden gilt das Verwaltungs-Vollstreckungsgesetz des Bundes.
+(5) Für die Vollstreckung zugunsten der Behörden des Bundes und der bundesunmittelbaren juristischen Personen des öffentlichen Rechts sowie für die Vollziehung des Vermögensarrestes nach § 111e der Strafprozessordnung in Verbindung mit § 46 des Gesetzes über Ordnungswidrigkeiten durch die in § 16 genannten Behörden gilt das Verwaltungs-Vollstreckungsgesetz des Bundes.
 
 (+++ Abschn. 6 (§§ 16 bis 23): Zur Anwendung vgl. §§ 13 u. 13a +++)
 
@@ -470,10 +480,6 @@ Abschnitt 7 Schlussvorschriften
 ### § 24 Evaluation
 
 Die nach § 7 festgesetzten Mindestentgeltsätze sind im Hinblick auf ihre Beschäftigungswirkungen, insbesondere auf sozialversicherungspflichtige Beschäftigung sowie die Schaffung angemessener Mindestarbeitsbedingungen, fünf Jahre nach Inkrafttreten des Gesetzes zu überprüfen.
-
-### § 24a Übergangsregelung
-
-In der Zeit vom 1. Januar 2015 bis zum 31. Dezember 2017 gilt § 1 mit der Maßgabe, dass eine Unterschreitung des nach dem Mindestlohngesetz vorgeschriebenen Mindestlohns mit den Zielen des § 1 vereinbar ist, wenn diese Unterschreitung erforderlich ist, um in der betreffenden Branche eine schrittweise Heranführung des Lohnniveaus an die Vorgaben des Mindestlohngesetzes zu bewirken und dabei faire und funktionierende Wettbewerbsbedingungen und den Erhalt sozialversicherungspflichtiger Beschäftigung zu berücksichtigen.
 
 ### § 25 Inkrafttreten, Außerkrafttreten
 
