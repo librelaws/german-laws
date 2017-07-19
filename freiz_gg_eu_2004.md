@@ -2,12 +2,12 @@ Gesetz über die allgemeine Freizügigkeit von Unionsbürgern (FreizügG/EU)
 ========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 6 G v. 22.12.2015 I 2557
+Zuletzt geändert durch Art. 6 G v. 20.7.2017 I 2780
 
 ### 
 
 ```
-(+++ Textnachweis ab:  1.1.2005 +++)
+(+++ Textnachweis ab: 1.1.2005 +++)
 ```
 
 Das G wurde als Artikel 2 d. G v. 30.7.2004 I 1950 (Zuwanderungsgesetz) vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es tritt gem. Art. 15 Abs. 3 dieses G am 1.1.2005 in Kraft. § 11 Satz 1 tritt am 6.8.2004 in Kraft.
@@ -244,6 +244,8 @@ für die Dauer des Aufenthalts im Bundesgebiet den erforderlichen Pass oder Pass
 3.  
 den Pass oder Passersatz sowie die Aufenthaltskarte, die Bescheinigung des Daueraufenthalts und die Daueraufenthaltskarte den mit der Ausführung dieses Gesetzes betrauten Behörden auf Verlangen vorzulegen, auszuhändigen und vorübergehend zu überlassen, soweit dies zur Durchführung oder Sicherung von Maßnahmen nach diesem Gesetz erforderlich ist.
 
+(1a) Unionsbürger und ihre Familienangehörigen sind verpflichtet, die in Absatz 1 Nummer 3 genannten Dokumente auf Verlangen einer zur Überprüfung der Identität befugten Behörde vorzulegen und es ihr zu ermöglichen, das Gesicht mit dem Lichtbild im Dokument abzugleichen.
+
 (2) Die mit dem Vollzug dieses Gesetzes betrauten Behörden dürfen unter den Voraussetzungen des Absatzes 1 Nr. 3 die auf dem elektronischen Speicher- und Verarbeitungsmedium eines Dokumentes nach Absatz 1 gespeicherten biometrischen und sonstigen Daten auslesen, die benötigten biometrischen Daten beim Inhaber des Dokumentes erheben und die biometrischen Daten miteinander vergleichen. Biometrische Daten nach Satz 1 sind nur die Fingerabdrücke, das Lichtbild und die Irisbilder. Die Polizeivollzugsbehörden, die Zollverwaltung und die Meldebehörden sind befugt, Maßnahmen nach Satz 1 zu treffen, soweit sie die Echtheit des Dokumentes oder die Identität des Inhabers überprüfen dürfen. Die nach den Sätzen 1 und 3 erhobenen Daten sind unverzüglich nach Beendigung der Prüfung der Echtheit des Dokumentes oder der Identität des Inhabers zu löschen.
 
 ### § 9 Strafvorschriften
@@ -256,19 +258,25 @@ den Pass oder Passersatz sowie die Aufenthaltskarte, die Bescheinigung des Dauer
 
 ### § 10 Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer entgegen § 8 Absatz 1 Nummer 1 Buchstabe b oder entgegen § 8 Absatz 1 Nummer 3 ein dort genanntes Dokument nicht oder nicht rechtzeitig vorlegt.
+(1) Ordnungswidrig handelt, wer
+
+1.  
+entgegen § 8 Absatz 1 Nummer 1 Buchstabe b oder Nummer 3 ein dort genanntes Dokument nicht oder nicht rechtzeitig vorlegt oder
+
+2.  
+entgegen § 8 Absatz 1a ein dort genanntes Dokument nicht oder nicht rechtzeitig vorlegt oder einen Abgleich mit dem Lichtbild nicht oder nicht rechtzeitig ermöglicht.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen § 8 Abs. 1 Nr. 2 einen Pass oder Passersatz nicht besitzt.
 
 (3) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen § 8 Abs. 1 Nr. 1 Buchstabe a einen Pass oder Passersatz nicht mit sich führt.
 
-(4) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 3 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, in den übrigen Fällen mit einer Geldbuße bis zu tausend Euro geahndet werden.
+(4) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 3 mit einer Geldbuße bis zu dreitausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu tausend Euro geahndet werden.
 
 (5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 3 die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde.
 
 ### § 11 Anwendung des Aufenthaltsgesetzes
 
-(1) Auf Unionsbürger und ihre Familienangehörigen, die nach § 2 Abs. 1 das Recht auf Einreise und Aufenthalt haben, finden § 3 Abs. 2, § 11 Absatz 8, die §§ 13, 14 Abs. 2, die §§ 36, 44 Abs. 4, die §§ 45a, 46 Absatz 2, § 50 Absatz 3 bis 6, § 59 Absatz 1 Satz 6 und 7, §§ 69, 73, 74 Abs. 2, § 77 Abs. 1, die §§ 80, 82 Abs. 5, die §§ 85 bis 88, 90, 91, 95 Abs. 1 Nr. 4 und 8, Abs. 2 Nr. 2, Abs. 4, die §§ 96, 97, 98 Abs. 2 Nr. 2, Abs. 2a, 3 Nr. 3, Abs. 4 und 5 sowie § 99 des Aufenthaltsgesetzes entsprechende Anwendung. § 73 des Aufenthaltsgesetzes ist zur Feststellung von Gründen gemäß § 6 Abs. 1 anzuwenden. § 78 des Aufenthaltsgesetzes ist für die Ausstellung von Aufenthaltskarten nach § 5 Absatz 1 Satz 1 und Daueraufenthaltskarten nach § 5 Absatz 5 Satz 2 entsprechend anzuwenden. Aufenthaltskarten nach § 5 Absatz 1 Satz 1 tragen die Bezeichnung „Aufenthaltskarte (Familienangehöriger EU)“ und Daueraufenthaltskarten nach § 5 Absatz 5 Satz 2 die Bezeichnung „Daueraufenthaltskarte (Familienangehöriger EU)“. Für Aufenthaltskarten nach § 5 Absatz 1 Satz 1 und Daueraufenthaltskarten nach § 5 Absatz 5 Satz 2 wird in der Zone für das automatische Lesen anstelle der Abkürzungen nach § 78 Absatz 2 Satz 2 Nummer 1 des Aufenthaltsgesetzes die Abkürzung „AF“ verwandt. Unter den Voraussetzungen des § 78a Absatz 1 Satz 1 des Aufenthaltsgesetzes können Aufenthaltskarten nach § 5 Absatz 1 Satz 1 und Daueraufenthaltskarten nach § 5 Absatz 5 Satz 2 auf einem einheitlichen Vordruck ausgestellt werden. Für Aufenthaltskarten nach § 5 Absatz 1 Satz 1 und Daueraufenthaltskarten nach § 5 Absatz 5 Satz 2 gilt § 105b des Aufenthaltsgesetzes entsprechend. Die Verpflichtungen aus § 82 Abs. 5 Satz 1 Nr. 1 des Aufenthaltsgesetzes gelten entsprechend für Unionsbürger, deren Lichtbilder zur Führung der Ausländerdateien benötigt werden. Die Mitteilungspflichten nach § 87 Abs. 2 Nr. 1 bis 3 des Aufenthaltsgesetzes bestehen insoweit, als die dort genannten Umstände auch für die Feststellung nach § 2 Absatz 7, § 5 Absatz 4 und § 6 Abs. 1 entscheidungserheblich sein können. § 88a Absatz 1 Satz 1, 3 und 4 des Aufenthaltsgesetzes findet entsprechende Anwendung, soweit die Übermittlung von teilnehmerbezogenen Daten im Rahmen der Durchführung von Integrationskursen nach § 44 Absatz 4 des Aufenthaltsgesetzes, zur Überwachung einer Eingliederungsvereinbarung nach dem Zweiten Buch Sozialgesetzbuch oder zur Durchführung des Einbürgerungsverfahrens erforderlich ist. Das Aufenthaltsgesetz findet auch dann Anwendung, wenn es eine günstigere Rechtsstellung vermittelt als dieses Gesetz.
+(1) Auf Unionsbürger und ihre Familienangehörigen, die nach § 2 Abs. 1 das Recht auf Einreise und Aufenthalt haben, finden § 3 Abs. 2, § 11 Absatz 8, die §§ 13, 14 Abs. 2, die §§ 36, 44 Abs. 4, die §§ 45a, 46 Absatz 2, § 50 Absatz 3 bis 6, § 59 Absatz 1 Satz 6 und 7, §§ 69, 73, 74 Abs. 2, § 77 Abs. 1, die §§ 80, 82 Abs. 5, die §§ 85 bis 88, 90, 91, 95 Abs. 1 Nr. 4 und 8, Abs. 2 Nr. 2, Abs. 4, die §§ 96, 97, 98 Abs. 2 Nr. 2, Abs. 2a, 3 Nr. 3, Abs. 4 und 5 sowie § 99 des Aufenthaltsgesetzes entsprechende Anwendung. § 73 des Aufenthaltsgesetzes ist zur Feststellung von Gründen gemäß § 6 Abs. 1 anzuwenden. § 78 des Aufenthaltsgesetzes ist für die Ausstellung von Aufenthaltskarten nach § 5 Absatz 1 Satz 1 und Daueraufenthaltskarten nach § 5 Absatz 5 Satz 2 entsprechend anzuwenden. Aufenthaltskarten nach § 5 Absatz 1 Satz 1 tragen die Bezeichnung „Aufenthaltskarte (Familienangehöriger EU)“ und Daueraufenthaltskarten nach § 5 Absatz 5 Satz 2 die Bezeichnung „Daueraufenthaltskarte (Familienangehöriger EU)“. Für Aufenthaltskarten nach § 5 Absatz 1 Satz 1 und Daueraufenthaltskarten nach § 5 Absatz 5 Satz 2 wird in der Zone für das automatische Lesen anstelle der Abkürzungen nach § 78 Absatz 2 Satz 2 Nummer 1 des Aufenthaltsgesetzes die Abkürzung „AF“ verwandt. Unter den Voraussetzungen des § 78a Absatz 1 Satz 1 des Aufenthaltsgesetzes können Aufenthaltskarten nach § 5 Absatz 1 Satz 1 und Daueraufenthaltskarten nach § 5 Absatz 5 Satz 2 auf einem einheitlichen Vordruck ausgestellt werden. Für Aufenthaltskarten nach § 5 Absatz 1 Satz 1 und Daueraufenthaltskarten nach § 5 Absatz 5 Satz 2 gilt § 105b des Aufenthaltsgesetzes entsprechend. Die Verpflichtungen aus § 82 Abs. 5 Satz 1 Nr. 1 des Aufenthaltsgesetzes gelten entsprechend für Unionsbürger, deren Lichtbilder zur Führung der Ausländerdateien benötigt werden. Die Mitteilungspflichten nach § 87 Absatz 2 Satz 1 Nummer 1 bis 3 des Aufenthaltsgesetzes bestehen insoweit, als die dort genannten Umstände auch für die Feststellung nach § 2 Absatz 7, § 5 Absatz 4 und § 6 Abs. 1 entscheidungserheblich sein können. § 88a Absatz 1 Satz 1, 3 und 4 des Aufenthaltsgesetzes findet entsprechende Anwendung, soweit die Übermittlung von teilnehmerbezogenen Daten im Rahmen der Durchführung von Integrationskursen nach § 44 Absatz 4 des Aufenthaltsgesetzes, zur Überwachung einer Eingliederungsvereinbarung nach dem Zweiten Buch Sozialgesetzbuch oder zur Durchführung des Einbürgerungsverfahrens erforderlich ist. Das Aufenthaltsgesetz findet auch dann Anwendung, wenn es eine günstigere Rechtsstellung vermittelt als dieses Gesetz.
 
 (2) Hat die Ausländerbehörde das Nichtbestehen oder den Verlust des Rechts nach § 2 Abs. 1 festgestellt, findet das Aufenthaltsgesetz Anwendung, sofern dieses Gesetz keine besonderen Regelungen trifft.
 
@@ -288,7 +296,7 @@ Soweit nach Maßgabe des Beitrittsvertrages eines Mitgliedstaates zur Europäisc
 
 ### § 14 Bestimmungen zum Verwaltungsverfahren
 
-Von den in § 11 Abs. 1 in Verbindung mit § 87 Abs. 1, 2 Satz 1 und 2, Abs. 4 Satz 1, 2 und 4 und Abs. 6, §§ 90, 91 Abs. 1 und 2, § 99 Abs. 1 und 2 des Aufenthaltsgesetzes getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
+Von den in § 11 Abs. 1 in Verbindung mit § 87 Absatz 1, 2 Satz 1 und 2, Abs. 4 Satz 1, 2 und 4, §§ 90, 91 Abs. 1 und 2, § 99 Abs. 1 und 2 des Aufenthaltsgesetzes getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
 
 ### § 15 Übergangsregelung
 
