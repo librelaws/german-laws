@@ -2,7 +2,7 @@ Bundesberggesetz (BBergG)
 =========================
 
 Stand  
-Zuletzt geändert durch Art. 303 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 2 Abs. 4 G v. 20.7.2017 I 2808
 
 ### 
 
@@ -21,6 +21,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 |----------------|-----------------------------------------------------------|
 | Erster Teil    |                                                           |
 |                | Einleitende Bestimmungen                                  |
+|                |                                                           |
 |                |                                                           |
 |                |                                                           |
 |                |                                                           |
@@ -106,6 +107,10 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 |                |                                                           |
 |                |                                                           |
 |                |                                                           |
+|                |                                                           |
+|                |                                                           |
+|                |                                                           |
+|                |                                                           |
 |                | **Drittes Kapitel**                                       |
 |                |                                                           |
 |                |                                                           |
@@ -335,7 +340,7 @@ das Errichten und Betreiben von Untergrundspeichern sowie der Einrichtungen, die
 3.  
 sonstige Tätigkeiten und Einrichtungen,
 
-soweit dies ausdrücklich bestimmt ist.
+soweit dies ausdrücklich bestimmt ist. Satz 1 Nummer 1 und 2 ist nur anwendbar, soweit nicht Tätigkeiten oder Einrichtungen des Absatzes 1 betroffen sind.
 
 (3) Dieses Gesetz gilt im Bereich des Festlandsockels der Bundesrepublik Deutschland für die durch die Absätze 1 und 2 Nr. 1 und 2 erfaßten Tätigkeiten und Einrichtungen, für Unterwasserkabel, Transit-Rohrleitungen und für Forschungshandlungen in bezug auf den Festlandsockel. Die völkerrechtlichen Regeln über die Hohe See, die ausschließliche Wirtschaftszone und den Festlandsockel bleiben unberührt.
 
@@ -431,7 +436,7 @@ wenn der Unternehmer Bodenschätze der aufzubereitenden Art in unmittelbarem bet
 
 (4) Wiedernutzbarmachung ist die ordnungsgemäße Gestaltung der vom Bergbau in Anspruch genommenen Oberfläche unter Beachtung des öffentlichen Interesses.
 
-(5) Unternehmer ist eine natürliche oder juristische Person oder Personenhandelsgesellschaft, die eine der in § 2 Abs. 1 Nr. 1 und 2 bezeichneten Tätigkeiten auf eigene Rechnung durchführt oder durchführen läßt.
+(5) Unternehmer ist eine natürliche oder juristische Person oder Personenhandelsgesellschaft, die eine der in § 2 Absatz 1 Nummer 1 und 2 sowie Absatz 2 und 3 bezeichneten Tätigkeiten auf eigene Rechnung durchführt oder durchführen läßt.
 
 (6) Gewinnungsberechtigung ist das Recht zur Gewinnung von bergfreien oder grundeigenen Bodenschätzen.
 
@@ -446,6 +451,12 @@ wenn der Unternehmer Bodenschätze der aufzubereitenden Art in unmittelbarem bet
 ### § 5 Anwendung des Verwaltungsverfahrensgesetzes
 
 Auf die Ausführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen ist, soweit in diesem Gesetz nichts anderes bestimmt ist, das Verwaltungsverfahrensgesetz anzuwenden.
+
+### § 5a Öffentliche Bekanntgabe
+
+(1) Entscheidungen, die in Ausführung dieses Gesetzes ergehen und auf die § 1 Absatz 1 Satz 1 Nummer 1, 5 oder 6 des Umwelt-Rechtsbehelfsgesetzes Anwendung findet, können von der zuständigen Behörde auch öffentlich bekannt gegeben werden. Vorschriften über die Bekanntgabe einer Entscheidung mittels Zustellung sowie andere Vorschriften über die öffentliche Bekanntgabe bleiben unberührt.
+
+(2) Die öffentliche Bekanntgabe wird dadurch bewirkt, dass der verfügende Teil der Entscheidung und die Rechtsbehelfsbelehrung im amtlichen Veröffentlichungsblatt der zuständigen Behörde und außerdem in örtlichen Tageszeitungen bekannt gemacht werden, die in dem Bereich verbreitet sind, in dem sich die Entscheidung voraussichtlich auswirken wird; auf Auflagen ist hinzuweisen. Sofern die Entscheidung nicht vollständig bekannt gemacht wird, ist die Entscheidung einschließlich zugehöriger Pläne und der Begründung mit Rechtsbehelfsbelehrung nach der Bekanntmachung zwei Wochen zur Einsicht auszulegen. Nach Ablauf von zwei Wochen nach der Bekanntmachung gilt die Entscheidung auch denjenigen, denen Rechtsbehelfe nach dem Umwelt-Rechtsbehelfsgesetz zustehen, als bekannt gegeben; hierauf ist in der Bekanntmachung hinzuweisen. Nach der öffentlichen Bekanntmachung kann die Entscheidung bis zum Ablauf der Rechtsbehelfsfrist von den in Satz 3 genannten Vereinigungen und denjenigen, denen die Entscheidung bekannt zu geben war, schriftlich angefordert werden. In der öffentlichen Bekanntmachung ist anzugeben, wo und wann die Entscheidung nach Satz 2 eingesehen und nach Satz 4 angefordert werden kann.
 
 Zweiter Teil Bergbauberechtigungen
 ----------------------------------
@@ -908,7 +919,7 @@ Beteiligter ist auch, wem ein Recht zur Gewinnung in dem Feld der fremden Berech
 Von Amts wegen ist ein Vertreter auch zu bestellen für Mitberechtigte, wenn sie der Aufforderung der zuständigen Behörde, einen gemeinsamen Vertreter zu bestellen, innerhalb der ihnen gesetzten Frist nicht nachgekommen sind.
 
 3.  
-In der mündlichen Verhandlung ist auf eine Einigung hinzuwirken. Kommt eine Einigung zustande, so ist diese in der Verhandlungsniederschrift zu beurkunden. Auf die Beurkundung sind die §§ 3 bis 13 und 16 bis 26 des Beurkundungsgesetzes vom 28. August 1969 (BGBl. I S. 1513), zuletzt geändert durch Gesetz vom 20. Februar 1980 (BGBl. I S. 157), entsprechend anzuwenden. Die Niederschrift über die Einigung steht einer notariellen Beurkundung der Einigung gleich. Eine Auflassung kann die zuständige Behörde nicht entgegennehmen.
+In der mündlichen Verhandlung ist auf eine Einigung hinzuwirken. Kommt eine Einigung zustande, so ist diese in der Verhandlungsniederschrift zu beurkunden. Auf die Beurkundung sind die §§ 3 bis 13 und 16 bis 26 des Beurkundungsgesetzes entsprechend anzuwenden. Die Niederschrift über die Einigung steht einer notariellen Beurkundung der Einigung gleich. Eine Auflassung kann die zuständige Behörde nicht entgegennehmen.
 
 4.  
 Kommt eine Einigung nicht zustande, so entscheidet die zuständige Behörde über den Antrag. Das Recht zum grenzüberschreitenden Abbau ist für ein bestimmtes Feld, für bestimmte Bodenschätze und zeitlich beschränkt zu erteilen. § 16 Abs. 3 gilt entsprechend.
@@ -1068,7 +1079,7 @@ Dritter Abschnitt Verbote und Beschränkungen
 
 (1) Unberührt bleiben Rechtsvorschriften, die auf Grundstücken solche Tätigkeiten verbieten oder beschränken, die ihrer Art nach der Aufsuchung oder Gewinnung dienen können, wenn die Grundstücke durch Gesetz oder auf Grund eines Gesetzes einem öffentlichen Zweck gewidmet oder im Interesse eines öffentlichen Zwecks geschützt sind. Bei Anwendung dieser Vorschriften ist dafür Sorge zu tragen, daß die Aufsuchung und Gewinnung so wenig wie möglich beeinträchtigt werden.
 
-(2) In anderen Fällen als denen des Absatzes 1 und des § 15 kann, unbeschadet anderer öffentlich-rechtlicher Vorschriften, die für die Zulassung von Betriebsplänen zuständige Behörde eine Aufsuchung oder eine Gewinnung beschränken oder untersagen, soweit ihr überwiegende öffentliche Interessen entgegenstehen. Soweit die öffentlichen Interessen zugleich den Schutz von Rechten Dritter umfassen, kann die für die Zulassung von Betriebsplänen zuständige Behörde den Plan auslegen, wenn voraussichtlich mehr als 300 Personen betroffen sind oder der Kreis der Betroffenen nicht abschließend bekannt ist. § 73 Abs. 3, 4 und 5 Satz 1 und 2 Nr. 1, 2 und 4 Buchstabe b des Verwaltungsverfahrensgesetzes ist mit der Maßgabe entsprechend anzuwenden, daß an die Stelle der Gemeinde die zuständige Behörde tritt. Verspätet erhobene Einwendungen sind ausgeschlossen. Hierauf ist in der Bekanntmachung hinzuweisen.
+(2) In anderen Fällen als denen des Absatzes 1 und des § 15 kann, unbeschadet anderer öffentlich-rechtlicher Vorschriften, die für die Zulassung von Betriebsplänen zuständige Behörde eine Aufsuchung oder eine Gewinnung beschränken oder untersagen, soweit ihr überwiegende öffentliche Interessen entgegenstehen. Bei der Prüfung, ob eine Beschränkung oder Untersagung zu erfolgen hat, sind bei raumbedeutsamen Vorhaben Ziele der Raumordnung zu beachten. Soweit die öffentlichen Interessen zugleich den Schutz von Rechten Dritter umfassen, kann die für die Zulassung von Betriebsplänen zuständige Behörde den Plan auslegen, wenn voraussichtlich mehr als 300 Personen betroffen sind oder der Kreis der Betroffenen nicht abschließend bekannt ist. § 73 Abs. 3, 4 und 5 Satz 1 und 2 Nr. 1, 2 und 4 Buchstabe b des Verwaltungsverfahrensgesetzes ist mit der Maßgabe entsprechend anzuwenden, daß an die Stelle der Gemeinde die zuständige Behörde tritt. Verspätet erhobene Einwendungen sind ausgeschlossen. Hierauf ist in der Bekanntmachung hinzuweisen.
 
 ### § 49 Beschränkung der Aufsuchung auf dem Festlandsockel und innerhalb der Küstengewässer
 
@@ -1146,17 +1157,21 @@ für einen bestimmten längeren, nach den jeweiligen Umständen bemessenen Zeitr
 2.  
 für bestimmte Teile des Betriebes oder für bestimmte Vorhaben Sonderbetriebspläne aufgestellt werden.
 
-(2a) Die Aufstellung eines Rahmenbetriebsplanes ist zu verlangen und für dessen Zulassung ein Planfeststellungsverfahren nach Maßgabe der §§ 57a und 57b durchzuführen, wenn ein Vorhaben nach § 57c einer Umweltverträglichkeitsprüfung bedarf. Die zuständige Behörde soll mit dem Unternehmer auf der Grundlage des Verlangens Gegenstand, Umfang und Methoden der Umweltverträglichkeitsprüfung sowie sonstige für die Durchführung dieser Prüfung erhebliche Fragen erörtern; hierzu können andere Behörden, Sachverständige und Dritte hinzugezogen werden. Anforderungen eines vorsorgenden Umweltschutzes, die sich bei der Umweltverträglichkeitsprüfung ergeben und über die Zulassungsvoraussetzungen des § 55 sowie der auf das Vorhaben anwendbaren Vorschriften in anderen Gesetzen hinausgehen, sind dabei öffentliche Interessen im Sinne des § 48 Abs. 2.
+(2a) Die Aufstellung eines Rahmenbetriebsplanes ist zu verlangen und für dessen Zulassung ein Planfeststellungsverfahren nach Maßgabe der §§ 57a und 57b durchzuführen, wenn ein Vorhaben gemäß der Verordnung nach § 57c in Verbindung mit den Vorschriften des Teils 2 Abschnitt 1 des Gesetzes über die Umweltverträglichkeitsprüfung einer Umweltverträglichkeitsprüfung bedarf. Bei einem Vorhaben, das einzeln oder im Zusammenwirken mit anderen Vorhaben, Projekten oder Plänen geeignet ist, ein Natura 2000-Gebiet erheblich zu beeinträchtigen, wird die Verträglichkeitsprüfung nach § 34 Absatz 1 des Bundesnaturschutzgesetzes zusammen mit der Umweltverträglichkeitsprüfung im Planfeststellungsverfahren nach Satz 1 vorgenommen. Anforderungen eines vorsorgenden Umweltschutzes, die sich bei der Umweltverträglichkeitsprüfung ergeben und über die Zulassungsvoraussetzungen des § 55 sowie der auf das Vorhaben anwendbaren Vorschriften in anderen Gesetzen hinausgehen, sind dabei öffentliche Interessen im Sinne des § 48 Abs. 2.
 
 (2b) Für Vorhaben einschließlich notwendiger Folgemaßnahmen, die wegen ihrer räumlichen Ausdehnung oder zeitlichen Erstreckung in selbständigen Abschnitten oder Stufen durchgeführt werden, kann der Rahmenbetriebsplan nach Absatz 2a Satz 1 entsprechend den Abschnitten oder Stufen aufgestellt und zugelassen werden, es sei denn, daß dadurch die erforderliche Einbeziehung der erheblichen Auswirkungen des gesamten Vorhabens auf die Umwelt ganz oder teilweise unmöglich wird. Für Vorhaben, die einem besonderen Verfahren im Sinne des § 54 Abs. 2 Satz 3 unterliegen, finden Absatz 2a, § 11 Absatz 1 Wasserhaushaltsgesetz und § 17 Absatz 10 Bundesnaturschutzgesetz und entsprechende Vorschriften über Verfahren zur Durchführung der Umweltverträglichkeitsprüfung in anderen Rechtsvorschriften keine Anwendung, wenn in diesem Verfahren die Durchführung einer Umweltverträglichkeitsprüfung gewährleistet ist, die den Anforderungen dieses Gesetzes entspricht. Das Ergebnis dieser Umweltverträglichkeitsprüfung ist bei Zulassungen, Genehmigungen oder sonstigen behördlichen Entscheidungen über die Zulässigkeit des Vorhabens nach Maßgabe der dafür geltenden Vorschriften zu berücksichtigen.
 
-(2c) Die Absätze 2a und 2b gelten auch für die wesentliche Änderung eines Vorhabens im Sinne des Absatzes 2a Satz 1, wenn die Änderung erhebliche Auswirkungen auf die Umwelt haben kann.
+(2c) Die Absätze 2a und 2b gelten auch für die wesentliche Änderung eines Vorhabens.
+
+(2d) Bei Vorhaben nach Absatz 2a Satz 1 hat die zuständige Behörde nach Maßgabe der auf das Vorhaben anwendbaren Vorschriften festzulegen, welche Maßnahmen der Unternehmer zur Überwachung erheblicher nachteiliger Auswirkungen auf die Umwelt zu treffen hat. Die Festlegung kann auch im Rahmen der Zulassung des Haupt-, Sonder- oder Abschlussbetriebsplans erfolgen. Bei der Auswahl der Art der zu überwachenden Parameter und der Dauer der Überwachung sind nach Maßgabe der anwendbaren Vorschriften insbesondere die Art, der Standort und der Umfang des Vorhabens sowie das Ausmaß seiner Auswirkungen auf die Umwelt zu berücksichtigen.
 
 (3) Für Arbeiten und Einrichtungen, die von mehreren Unternehmen nach einheitlichen Gesichtspunkten durchgeführt, errichtet oder betrieben werden müssen, haben die beteiligten Unternehmer auf Verlangen der zuständigen Behörde gemeinschaftliche Betriebspläne aufzustellen.
 
 (4) Die Betriebspläne müssen eine Darstellung des Umfanges, der technischen Durchführung und der Dauer des beabsichtigten Vorhabens sowie den Nachweis enthalten, daß die in § 55 Abs. 1 Satz 1 Nr. 1 und 3 bis 13 bezeichneten Voraussetzungen erfüllt sind. Sie können verlängert, ergänzt und abgeändert werden.
 
 (5) Für bestimmte Arbeiten und Einrichtungen, die nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung einer besonderen Genehmigung bedürfen oder allgemein zuzulassen sind, kann in Haupt- und Sonderbetriebsplänen an Stelle der nach Absatz 4 Satz 1 erforderlichen Darstellung und Nachweise der Nachweis treten, daß die Genehmigung oder Zulassung vorliegt oder beantragt ist.
+
+(+++ § 52 Abs. 2a bis 2c: Zur Anwendung vgl. § 171a AtG +++)
 
 ### § 53 Betriebsplan für die Einstellung des Betriebes, Betriebschronik
 
@@ -1289,36 +1304,17 @@ sind, soweit es zur Sicherstellung der Voraussetzungen nach § 55 Abs. 1 Satz 1 
 
 ### § 57a Planfeststellungsverfahren, Umweltverträglichkeitsprüfung
 
-(1) Das im Falle des § 52 Abs. 2a durchzuführende Planfeststellungsverfahren tritt an die Stelle des Verfahrens nach den §§ 54 und 56 Abs. 1. Anhörungsbehörde und Planfeststellungsbehörde ist die für die Zulassung von Betriebsplänen zuständige Behörde. Bei Vorhaben im Bereich des Festlandsockels tritt bei der Anwendung der Vorschriften der Verwaltungsverfahrensgesetze über das Planfeststellungsverfahren an die Stelle der Gemeinde die zuständige Behörde; als Bereich, in dem sich das Vorhaben voraussichtlich auswirken wird, gilt der Sitz dieser Behörde.
+(1) Das im Falle des § 52 Abs. 2a durchzuführende Planfeststellungsverfahren tritt an die Stelle des Verfahrens nach den §§ 54 und 56 Abs. 1. Anhörungsbehörde und Planfeststellungsbehörde ist die für die Zulassung von Betriebsplänen zuständige Behörde. Bei Vorhaben im Bereich des Festlandsockels tritt bei der Anwendung der Vorschriften der Verwaltungsverfahrensgesetze über das Planfeststellungsverfahren an die Stelle der Gemeinde die zuständige Behörde; als Bereich, in dem sich das Vorhaben voraussichtlich auswirken wird, gilt der Sitz dieser Behörde. Für das Verfahren sind die §§ 15 bis 27 sowie 31 des Gesetzes über die Umweltverträglichkeitsprüfung sowie die nachfolgenden Regelungen anzuwenden.
 
-(2) Der Rahmenbetriebsplan muß den Anforderungen genügen, die sich aus den Voraussetzungen für die Durchführung des Planfeststellungsverfahrens unter Berücksichtigung der Antragserfordernisse für die vom Planfeststellungsbeschluß eingeschlossenen behördlichen Entscheidungen ergeben. Der Rahmenbetriebsplan muß alle für die Umweltverträglichkeitsprüfung bedeutsamen Angaben enthalten, soweit sie nicht schon nach Satz 1 zu machen sind, insbesondere
-
-1.  
-eine Beschreibung der zu erwartenden erheblichen Auswirkungen des Vorhabens auf die Umwelt unter Berücksichtigung des allgemeinen Kenntnisstandes und der allgemein anerkannten Prüfungsmethoden,
-
-2.  
-alle sonstigen Angaben, um solche Auswirkungen feststellen und beurteilen zu können, sowie
-
-3.  
-eine Beschreibung der Maßnahmen, mit denen erhebliche Beeinträchtigungen der Umwelt vermieden, vermindert oder soweit möglich ausgeglichen werden, sowie der Ersatzmaßnahmen bei nicht ausgleichbaren aber vorrangigen Eingriffen in Natur und Landschaft.
-
-Weitere Angaben zur Umwelt und ihren Bestandteilen, Angaben zu geprüften Vorhabenalternativen und über etwaige Schwierigkeiten bei der Angabenzusammenstellung sind erforderlich, soweit
-
-1.  
-sie in Anbetracht der besonderen Merkmale des Vorhabens und der möglichen Auswirkungen auf die Umwelt von Bedeutung sind und
-
-2.  
-ihre Zusammenstellung für den Unternehmer unter Berücksichtigung des allgemeinen Kenntnisstandes und der allgemein anerkannten Prüfungsmethoden zumutbar ist.
-
-Einzelheiten regelt das Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung nach § 57c. Der Unternehmer hat dem Rahmenbetriebsplan einen zur Auslegung geeigneten Plan und eine allgemeinverständliche Zusammenfassung der beizubringenden Angaben beizufügen.
+(2) Der Rahmenbetriebsplan muß den Anforderungen genügen, die sich aus den Voraussetzungen für die Durchführung des Planfeststellungsverfahrens unter Berücksichtigung der Antragserfordernisse für die vom Planfeststellungsbeschluß eingeschlossenen behördlichen Entscheidungen ergeben. Der Rahmenbetriebsplan muss alle für die Umweltverträglichkeitsprüfung bedeutsamen Angaben in der Form eines Berichts zu den voraussichtlichen Umweltauswirkungen des Vorhabens (UVP-Bericht) nach Maßgabe des § 16 des Gesetzes über die Umweltverträglichkeitsprüfung und der Rechtsverordnung nach § 57c enthalten. Der Unternehmer hat dem Rahmenbetriebsplan einen zur Auslegung geeigneten Plan beizufügen.
 
 (3) Verfügen die beteiligten Behörden zu den nach Absatz 2 Satz 2 und 3 zu machenden Angaben über zweckdienliche Informationen, so unterrichten sie den Unternehmer und stellen ihm die Informationen auf Verlangen zur Verfügung. Das gilt insbesondere für Informationen aus einem vorausgegangenen Raumordnungsverfahren; die dafür zuständige Behörde hat die Unterlagen aus diesem Verfahren, die für die Umweltverträglichkeitsprüfung von Bedeutung sein können, der nach Absatz 1 Satz 2 zuständigen Behörde zur Verfügung zu stellen.
 
-(4) Die Entscheidung über die Planfeststellung ist hinsichtlich der eingeschlossenen Entscheidungen nach Maßgabe der hierfür geltenden Vorschriften zu treffen. Das Verhältnis zwischen Unternehmer und Betroffenen und der Schutz von Belangen Dritter im Sinne des Bergrechts bestimmen sich nach den dafür geltenden Vorschriften dieses Gesetzes; dies gilt auch für eine Aufhebung des Planfeststellungsbeschlusses. In der Begründung der Entscheidung ist zur Bewertung der Auswirkungen des Vorhabens auf die Umwelt eine zusammenfassende Darstellung dieser Auswirkungen aufzunehmen.
+(4) Die Entscheidung über die Planfeststellung ist hinsichtlich der eingeschlossenen Entscheidungen nach Maßgabe der hierfür geltenden Vorschriften zu treffen. Das Verhältnis zwischen Unternehmer und Betroffenen und der Schutz von Belangen Dritter im Sinne des Bergrechts bestimmen sich nach den dafür geltenden Vorschriften dieses Gesetzes; dies gilt auch für eine Aufhebung des Planfeststellungsbeschlusses.
 
 (5) Hinsichtlich der vom Vorhaben berührten Belange Dritter und der Aufgabenbereiche Beteiligter im Sinne des § 54 Abs. 2 erstrecken sich die Rechtswirkungen der Planfeststellung auch auf die Zulassung und Verlängerung der zur Durchführung des Rahmenbetriebsplanes erforderlichen Haupt-, Sonder- und Abschlußbetriebspläne, soweit über die sich darauf beziehenden Einwendungen entschieden worden ist oder bei rechtzeitiger Geltendmachung hätte entschieden werden können; Entscheidungen nach § 48 Abs. 2 werden außer in den in § 48 Abs. 2 Satz 2 genannten Fällen des Schutzes von Rechten Dritter durch einen Planfeststellungsbeschluß ausgeschlossen.
 
-(6) Bei Vorhaben, die in einem anderen Mitgliedstaat der Europäischen Gemeinschaften erhebliche Auswirkungen auf die Umwelt haben können, sind die zuständigen Behörden des anderen Mitgliedstaats wie die im Planfeststellungsverfahren beteiligten Behörden zu unterrichten. Für Nachbarstaaten der Bundesrepublik Deutschland, die nicht Mitgliedstaaten der Europäischen Gemeinschaften sind, gilt unter den Voraussetzungen der Grundsätze von Gegenseitigkeit und Gleichwertigkeit Satz 1 entsprechend. Einzelheiten regelt das Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung nach § 57c.
+(6) Für das Verfahren zur grenzüberschreitenden Umweltverträglichkeitsprüfung sind die Vorschriften des Teils 5 des Gesetzes über die Umweltverträglichkeitsprüfung anzuwenden.
 
 ### § 57b Vorzeitiger Beginn, Vorbescheide, Teilgenehmigungen, Vorrang
 
@@ -1349,7 +1345,7 @@ eine erneute Umweltverträglichkeitsprüfung durchzuführen ist, soweit bisher n
 
 (3) Sind für ein Vorhaben nach § 52 Abs. 2a auch nach anderen Vorschriften Planfeststellungsverfahren oder vergleichbare behördliche Entscheidungen vorgesehen, so ist nur das Verfahren nach den §§ 57a bis 57c durchzuführen. In den Fällen des § 126 Abs. 3 hat § 9b des Atomgesetzes Vorrang. Sind für Folgemaßnahmen nach anderen Vorschriften Planfeststellungsverfahren vorgesehen, so ist insoweit das Verfahren nach den anderen Vorschriften durchzuführen.
 
-### § 57c Ermächtigung
+### § 57c Verordnungsermächtigung
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften darüber zu erlassen,
 
@@ -1357,12 +1353,38 @@ Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einverneh
 welche betriebsplanpflichtigen Vorhaben, die erhebliche Auswirkungen auf die Umwelt haben können, unter Beachtung der Rechtsakte des Rates oder der Kommission der Europäischen Gemeinschaften einer Umweltverträglichkeitsprüfung bedürfen,
 
 2.  
-welche Angaben im einzelnen entscheidungserheblich im Sinne des § 57a Abs. 2 sind, welchen Anforderungen die Angaben genügen müssen und welche Unterlagen dazu beizubringen sind,
+welche Angaben im einzelnen im Rahmen des UVP-Berichts zu machen sind, welchen Anforderungen die Angaben genügen müssen und welche Unterlagen dazu beizubringen sind.
+
+In der Rechtsverordnung können für die Bestimmung der Vorhaben nach Satz 1 Nr. 1 auch Gruppen oder Arten von Vorhaben durch Festlegung von Schwellenwerten und anderen Kriterien bestimmt werden. In einer Rechtsverordnung nach Satz 1 Nummer 2 kann insbesondere bestimmt werden, welche Angaben nach Anlage 4 des Gesetzes über die Umweltverträglichkeitsprüfung der UVP-Bericht bei bestimmten Vorhaben enthalten muss.
+
+### § 57d Zulassungsverfahren für störfallrelevante Vorhaben
+
+(1) Bei der Zulassung eines Betriebsplans zur Errichtung oder Änderung eines Betriebs ist ein Rahmen- oder Sonderbetriebsplan zu verlangen und die Öffentlichkeit entsprechend § 23b Absatz 2 des Bundes-Immissionsschutzgesetzes zu beteiligen, wenn
+
+1.  
+es sich dabei um eine störfallrelevante Errichtung und einen Betrieb oder eine störfallrelevante Änderung einer Anlage nach § 3 Absatz 5b des Bundes-Immissionsschutzgesetzes handelt, die Betriebsbereich oder Bestandteil eines Betriebsbereichs nach § 3 Absatz 5a des Bundes-Immissionsschutzgesetzes ist und die keiner Genehmigung nach dem Bundes-Immissionsschutzgesetz bedarf,
+
+2.  
+durch die störfallrelevante Errichtung und den Betrieb oder die störfallrelevante Änderung der angemessene Sicherheitsabstand zu benachbarten Schutzobjekten nach § 3 Absatz 5c des Bundes-Immissionsschutzgesetzes erstmalig unterschritten wird, der bereits unterschrittene Sicherheitsabstand räumlich noch weiter unterschritten wird oder eine erhebliche Gefahrenerhöhung ausgelöst wird und
 
 3.  
-unter welchen Voraussetzungen und nach welchem Verfahren die zuständigen Behörden benachbarter Staaten im Rahmen der Umweltverträglichkeitsprüfung beteiligt werden.
+keine Öffentlichkeitsbeteiligung im Rahmen eines Planfeststellungsverfahrens nach § 52 Absatz 2a Satz 1 vorgesehen ist.
 
-In der Rechtsverordnung können für die Bestimmung der Vorhaben nach Satz 1 Nr. 1 auch Gruppen oder Arten von Vorhaben durch Festlegung von Schwellenwerten und anderen Kriterien bestimmt werden.
+§ 18 der Störfall-Verordnung ist mit der Maßgabe entsprechend anzuwenden, dass anstelle des Antrags nach § 23b Absatz 1 des Bundes-Immissionsschutzgesetzes der Antrag auf Betriebsplanzulassung tritt. Anforderungen nach § 22 des Bundes-Immissionsschutzgesetzes sowie der auf Grundlage des § 23 des Bundes-Immissionsschutzgesetzes erlassenen Verordnungen sind, sofern sie über die Anforderungen nach § 55 hinausgehen, öffentliche Interessen im Sinne des § 48 Absatz 2 Satz 1.
+
+(2) Bei Vorhaben, die die Voraussetzungen des Absatzes 1 Satz 1 Nummer 1 und 2 erfüllen und bei denen die Öffentlichkeitsbeteiligung nach den in Absatz 1 Satz 1 Nummer 3 genannten Vorschriften erfolgt, ist die Öffentlichkeitsbeteiligung mit der Maßgabe durchzuführen, dass sich der Umfang der vorzulegenden Unterlagen, Berichte und Empfehlungen entsprechend § 23b Absatz 2 Satz 2 des Bundes-Immissionsschutzgesetzes bestimmt. Die Regelungen des § 18 der Störfall-Verordnung sind dabei mit der Maßgabe entsprechend anzuwenden, dass
+
+1.  
+an die Stelle des Antrags nach § 23b Absatz 1 des Bundes-Immissionsschutzgesetzes der Antrag auf Betriebsplanzulassung tritt und
+
+2.  
+an die Stelle der in § 18 Absatz 2 Nummer 4 der Störfall-Verordnung genannten Frist die im Verfahren nach § 52 Absatz 2a Satz 1 geltende Frist tritt.
+
+3. u. 4 (weggefallen)
+
+Absatz 1 Satz 3 ist anzuwenden.
+
+(3) Absatz 1 Satz 1 und 2 und Absatz 2 Satz 1 und 2 gelten nicht, soweit dem Gebot, den angemessenen Sicherheitsabstand zu wahren, bereits auf Ebene einer raumbedeutsamen Planung oder Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist.
 
 Drittes Kapitel Verantwortliche Personen
 ----------------------------------------
@@ -1558,11 +1580,17 @@ die den hierfür in der Bergverordnung festgesetzten persönlichen und fachliche
 11.  
 unter welchen Voraussetzungen und in welcher Weise die aus Anzeigen nach § 74 gewonnenen Erkenntnisse, ausgenommen Einzelangaben über persönliche und sachliche Verhältnisse, zum Zwecke der Verbesserung der Sicherheit und Unfallverhütung durch in der Bergverordnung zu bezeichnende Stellen veröffentlicht werden dürfen.
 
-Die Regelung über Sicherheitszonen (Satz 1 Nr. 3) läßt § 27 des Bundeswasserstraßengesetzes vom 2. April 1968 (BGBl. II S. 173), zuletzt geändert durch *Artikel 5 des Gesetzes vom 10. Mai 1978 (BGBl. I S. 613),* und § 9 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt vom 24. Mai 1965 (BGBl. II S. 833) in der Fassung der Bekanntmachung vom 30. Juni 1977 (BGBl. I S. 1314), *geändert durch Artikel 1 des Gesetzes vom 10. Mai 1978 (BGBl. I S. 613),* unberührt. Rechtsverordnungen (Bergverordnungen) können gemäß Satz 1 auch erlassen werden, soweit dies zur Durchführung von Rechtsakten des Rates oder der Kommission der Europäischen Gemeinschaften oder von Beschlüssen internationaler Organisationen oder von zwischenstaatlichen Vereinbarungen, die Gegenstände dieses Gesetzes betreffen, erforderlich ist; durch solche Rechtsverordnungen können auch anderen Personen als Unternehmern und Beschäftigten Pflichten auferlegt werden.
+Die Regelung über Sicherheitszonen (Satz 1 Nr. 3) läßt § 27 des Bundeswasserstraßengesetzes vom 2. April 1968 (BGBl. II S. 173), zuletzt geändert durch *Artikel 5 des Gesetzes vom 10. Mai 1978 (BGBl. I S. 613),* und § 9 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt vom 24. Mai 1965 (BGBl. II S. 833) in der Fassung der Bekanntmachung vom 30. Juni 1977 (BGBl. I S. 1314), *geändert durch Artikel 1 des Gesetzes vom 10. Mai 1978 (BGBl. I S. 613),* unberührt. Rechtsverordnungen (Bergverordnungen) können gemäß Satz 1 auch erlassen werden, soweit dies zur Durchführung von Rechtsakten des Rates oder der Kommission der Europäischen Gemeinschaften oder von Beschlüssen internationaler Organisationen oder von zwischenstaatlichen Vereinbarungen, die Gegenstände dieses Gesetzes betreffen, erforderlich ist; durch solche Rechtsverordnungen können auch anderen Personen als Unternehmern und Beschäftigten Pflichten auferlegt werden. Rechtsverordnungen zur Durchführung von Rechtsakten im Sinne des Satzes 3 (Bergverordnungen) können auch festlegen:
+
+1.  
+die Art und den Umfang einer Deckungsvorsorge für Haftungsverbindlichkeiten, die infolge bergbaulicher Tätigkeiten entstehen können, sowie Anforderungen an den Nachweis der Deckungsvorsorge und
+
+2.  
+die Art und den Umfang der technischen und finanziellen Leistungsfähigkeit, die erforderlich ist, um Vermeidungs-, Schadensbegrenzungs-, Notfalleinsatz- und Sanierungsmaßnahmen durchzuführen, sowie Anforderungen an den Nachweis der technischen und finanziellen Leistungsfähigkeit.
 
 ### § 67 Technische und statistische Unterlagen, Markscheidewesen
 
-Soweit es zur Durchführung der Bergaufsicht, der Vorschriften über Erteilung, Verleihung und Aufrechterhaltung von Bergbauberechtigungen und zum Schutze der in § 11 Nr. 8 und 9 oder § 66 genannten Rechtsgüter und Belange erforderlich ist, kann durch Rechtsverordnung (Bergverordnung) bestimmt werden,
+Soweit es zur Durchführung der Bergaufsicht, der Vorschriften über Erteilung, Verleihung und Aufrechterhaltung von Bergbauberechtigungen und zum Schutze der in § 11 Nr. 8 und 9 oder § 66 genannten Rechtsgüter und Belange oder im Fall von Nummer 7 zur Regelung der Festlegung von Einwirkungsbereichen, erforderlich ist, kann durch Rechtsverordnung (Bergverordnung) bestimmt werden,
 
 1.  
 daß bestimmte rißliche und sonstige zeichnerische Darstellungen über Tätigkeiten im Sinne des § 2 Abs. 1 Nr. 1 und 2 und über Einrichtungen im Sinne des § 2 Abs. 1 Nr. 3 einzureichen und nachzutragen, daß bestimmte Listen, Bücher und Statistiken über Beschäftigte und betriebliche Vorgänge zu führen und vorzulegen, Anzeigen zu erstatten und den Anzeigen bestimmte Unterlagen beizufügen sind,
@@ -1583,7 +1611,7 @@ welche Risse, Karten, Pläne und Unterlagen zum Rißwerk gehören und in welchen
 für welche Arten von Betrieben unter welchen Voraussetzungen der Unternehmer zur Anfertigung eines Rißwerks verpflichtet ist,
 
 7.  
-in welcher Weise der Bereich festzulegen ist, in dem durch einen Gewinnungsbetrieb auf die Oberfläche eingewirkt werken kann (Einwirkungsbereich),
+in welcher Weise der Bereich festzulegen ist, in dem durch einen Bergbaubetrieb oder sonstige Tätigkeiten nach den §§ 126 bis 129 auf die Oberfläche eingewirkt werken kann (Einwirkungsbereich),
 
 8.  
 daß und für welchen Zeitraum die Unterlagen, Darstellungen, Listen, Bücher und Statistiken aufzubewahren sind.
@@ -1624,6 +1652,8 @@ Fünfter Teil Bergaufsicht
 ### § 69 Allgemeine Aufsicht
 
 (1) Der Bergbau unterliegt der Aufsicht durch die zuständige Behörde (Bergaufsicht).
+
+(1a) Bei Vorhaben nach § 52 Absatz 2a Satz 1 hat die zuständige Behörde im Rahmen der Aufsicht nach Absatz 1 durch geeignete Überwachungsmaßnahmen insbesondere sicherzustellen, dass das Vorhaben im Einklang mit den umweltbezogenen Bestimmungen des Planfeststellungsbeschlusses und den erforderlichen Haupt-, Sonder- und Abschlussbetriebsplanzulassungen sowie den damit verbundenen Nebenbestimmungen durchgeführt wird; dies gilt insbesondere für Bestimmungen zu umweltbezogenen Merkmalen des Vorhabens, dem Standort des Vorhabens, für Maßnahmen, mit denen erhebliche nachteilige Umweltauswirkungen ausgeschlossen, vermindert oder ausgeglichen werden sollen, sowie für Ersatzmaßnahmen bei Eingriffen in Natur und Landschaft. Hierbei sind bereits bestehende Überwachungsmechanismen zu nutzen und Ergebnisse der nach § 52 Absatz 2d durch den Unternehmer vorzunehmenden Überwachungsmaßnahmen zu berücksichtigen.
 
 (2) Die Bergaufsicht endet nach der Durchführung des Abschlußbetriebsplanes (§ 53) oder entsprechender Anordnungen der zuständigen Behörde (§ 71 Abs. 3) zu dem Zeitpunkt, in dem nach allgemeiner Erfahrung nicht mehr damit zu rechnen ist, daß durch den Betrieb Gefahren für Leben und Gesundheit Dritter, für andere Bergbaubetriebe und für Lagerstätten, deren Schutz im öffentlichen Interesse liegt, oder gemeinschädliche Einwirkungen eintreten werden.
 
@@ -1720,6 +1750,25 @@ Baubeschränkungsgebiete.
 (1) Die Einsicht in das Berechtsamsbuch, in die Berechtsamskarte und in Urkunden, auf die in der Eintragung Bezug genommen wird, ist jedem gestattet, der ein berechtigtes Interesse darlegt. Ausgenommen sind Urkunden, die Geschäfts- oder Betriebsgeheimnisse enthalten.
 
 (2) Soweit die Einsicht gestattet ist, können Auszüge gefordert werden, die auf Verlangen zu beglaubigen sind.
+
+(3) Die zuständige Behörde gestattet auf Antrag ohne Darlegung eines berechtigten Interesses Einsicht in folgende Angaben zu den in § 75 Absatz 2 Nummer 1 genannten Bergbauberechtigungen:
+
+1.  
+Inhaber,
+
+2.  
+Felder, auf die sich die Bergbauberechtigung bezieht,
+
+3.  
+Datum der Beantragung und der Erteilung,
+
+4.  
+Laufzeit sowie
+
+5.  
+Bodenschatz, auf den sich die Bergbauberechtigung bezieht.
+
+§ 3 Absatz 2 des Umweltinformationsgesetzes ist entsprechend anzuwenden. Die zuständige Behörde kann die in Satz 1 genannten Angaben öffentlich einsehbar machen. Die Einsicht in weitere Angaben nach Absatz 1, die Anforderung von Auszügen nach Absatz 2 und die Gestattung der Einsicht oder die Veröffentlichung von Angaben auf Grund der Zustimmung des betroffenen Unternehmers oder auf Grund anderer Vorschriften bleiben unberührt.
 
 Siebenter Teil Bergbau und Grundbesitz, Öffentliche Verkehrsanlagen
 -------------------------------------------------------------------
@@ -2287,19 +2336,19 @@ entsprechend. Der Ersatzpflichtige ist jedoch nicht verpflichtet, über die Haft
 
 ### § 120 Bergschadensvermutung
 
-(1) Entsteht im Einwirkungsbereich der untertägigen Aufsuchung oder Gewinnung eines Bergbaubetriebes durch Senkungen, Pressungen oder Zerrungen der Oberfläche oder durch Erdrisse ein Schaden, der seiner Art nach ein Bergschaden sein kann, so wird vermutet, daß der Schaden durch diesen Bergbaubetrieb verursacht worden ist. Dies gilt nicht, wenn feststeht, daß
+(1) Entsteht im Einwirkungsbereich der untertägigen Aufsuchung oder Gewinnung eines Bergbaubetriebes oder bei einer bergbaulichen Tätigkeit mit Hilfe von Bohrungen, die nicht der Aufsuchung oder Gewinnung von Gasen oder Erdwärme aus Grubenräumen stillgelegter Bergwerke dienen, durch Senkungen, Hebungen, Pressungen oder Zerrungen der Oberfläche oder durch Erdrisse oder durch Erschütterungen ein Schaden, der seiner Art nach ein Bergschaden sein kann, so wird vermutet, daß der Schaden durch diesen Bergbaubetrieb verursacht worden ist. Dies gilt nicht, wenn feststeht, daß
 
 1.  
 der Schaden durch einen offensichtlichen Baumangel oder eine baurechtswidrige Nutzung verursacht sein kann oder
 
 2.  
-die Senkungen, Pressungen, Zerrungen oder Erdrisse
+die Senkungen, Hebungen, Pressungen, Zerrungen, Erdrisse oder Erschütterungen
 
 a)  
 durch natürlich bedingte geologische oder hydrologische Gegebenheiten oder Veränderungen des Baugrundes oder
 
 b)  
-von einem Dritten verursacht sein können, der, ohne Bodenschätze untertägig aufzusuchen oder zu gewinnen, im Einwirkungsbereich des Bergbaubetriebes auf die Oberfläche eingewirkt hat.
+von einem Dritten verursacht sein können, der, ohne Bodenschätze untertägig aufzusuchen oder zu gewinnen oder ohne bergbauliche Tätigkeiten mit Hilfe von Bohrungen durchzuführen, im Einwirkungsbereich des Bergbaubetriebes auf die Oberfläche eingewirkt hat.
 
 (2) Wer sich wegen eines Schadens an einer baulichen Anlage auf eine Bergschadensvermutung beruft, hat dem Ersatzpflichtigen auf Verlangen Einsicht in die Baugenehmigung und die dazugehörigen Unterlagen für diese bauliche Anlage sowie bei Anlagen, für die wiederkehrende Prüfungen vorgeschrieben sind, auch Einsicht in die Prüfunterlagen zu gewähren oder zu ermöglichen.
 
@@ -2395,7 +2444,7 @@ Achter Teil Sonstige Tätigkeiten und Einrichtungen
 
 ### § 126 Untergrundspeicherung
 
-(1) Auf Untersuchungen des Untergrundes auf seine Eignung zur Errichtung von Untergrundspeichern und auf Untergrundspeicher sind die §§ 39, 40, 48, 50 bis 74, 77 bis 104, 106 und 131 entsprechend anzuwenden. Mit der Vorlage des ersten Betriebsplans hat der Unternehmer nachzuweisen, daß er eine allgemeine Beschreibung des geplanten Untergrundspeichers unter möglichst genauer Angabe der Lage und der voraussichtlich größten Ausdehnung im Untergrund durch Veröffentlichung in mindestens zwei der im Bereich des Standorts des Untergrundspeichers allgemein verbreiteten Tageszeitungen mindestens einen Monat vorher bekanntgemacht hat. Bei nachträglichen Veränderungen ist dieser Nachweis erneut zu erbringen, wenn sich die Ausdehnung des Untergrundspeichers im Untergrund wesentlich ändert.
+(1) Auf Untersuchungen des Untergrundes auf seine Eignung zur Errichtung von Untergrundspeichern und auf Untergrundspeicher sind die §§ 39, 40, 48, 50 bis 74, 77 bis 104, 106 und 131 entsprechend anzuwenden. Soweit zur Errichtung des Untergrundspeichers ein künstlicher Hohlraum geschaffen wird oder geschaffen worden ist, sind auf die Errichtung und den Betrieb von Untergrundspeichern zudem die §§ 110 bis 123 entsprechend anzuwenden. Mit der Vorlage des ersten Betriebsplans hat der Unternehmer nachzuweisen, daß er eine allgemeine Beschreibung des geplanten Untergrundspeichers unter möglichst genauer Angabe der Lage und der voraussichtlich größten Ausdehnung im Untergrund durch Veröffentlichung in mindestens zwei der im Bereich des Standorts des Untergrundspeichers allgemein verbreiteten Tageszeitungen mindestens einen Monat vorher bekanntgemacht hat. Bei nachträglichen Veränderungen ist dieser Nachweis erneut zu erbringen, wenn sich die Ausdehnung des Untergrundspeichers im Untergrund wesentlich ändert.
 
 (2) Eine Untersuchung des Untergrundes auf seine Eignung zur Errichtung von Untergrundspeichern liegt nur vor, soweit damit eine Aufsuchung nicht verbunden ist.
 
@@ -2499,7 +2548,7 @@ Für die Erteilung der Genehmigung nach Satz 1 Nr. 1 ist die gemäß § 136 best
 
 (2) Die Genehmigungen nach Absatz 1 dürfen nur versagt werden, wenn eine Gefährdung des Lebens oder der Gesundheit von Personen oder von Sachgütern oder eine Beeinträchtigung überwiegender öffentlicher Interessen zu besorgen ist, die nicht durch eine Befristung, durch Bedingungen oder Auflagen verhütet oder ausgeglichen werden kann. Eine Beeinträchtigung überwiegender öffentlicher Interessen liegt insbesondere in den in § 132 Abs. 2 Nr. 3 genannten Fällen vor. Die nachträgliche Aufnahme, Änderung oder Ergänzung von Auflagen ist zulässig, wenn sie für den Unternehmer und für Rohrleitungen vergleichbarer Art wirtschaftlich vertretbar und nach den allgemein anerkannten Regeln der Technik erfüllbar ist.
 
-(2a) Für die Errichtung und den Betrieb einer Transit-Rohrleitung, die zugleich ein Vorhaben im Sinne des § 3 des Gesetzes über die Umweltverträglichkeitsprüfung ist, ist eine Prüfung der Umweltverträglichkeit im Genehmigungsverfahren nach Absatz 1 Satz 1 Nr. 2 nach dem Gesetz über die Umweltverträglichkeitsprüfung durchzuführen. Bei der Anwendung der Vorschriften des Verwaltungsverfahrensgesetzes nach § 9 Abs. 1 Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung tritt an die Stelle der Gemeinde die Genehmigungsbehörde. Auf die Auslegung der Unterlagen nach § 6 des Gesetzes über die Umweltverträglichkeitsprüfung ist durch amtliche Bekanntmachung im Verkündungsblatt der Genehmigungsbehörde und durch Veröffentlichung in zwei überregionalen Tageszeitungen hinzuweisen.
+(2a) Für die Errichtung und den Betrieb einer Transit-Rohrleitung, die zugleich ein Vorhaben im Sinne des § 1 Absatz 1 Nummer 1 des Gesetzes über die Umweltverträglichkeitsprüfung ist, ist eine Prüfung der Umweltverträglichkeit im Genehmigungsverfahren nach Absatz 1 Satz 1 Nr. 2 nach dem Gesetz über die Umweltverträglichkeitsprüfung durchzuführen. Bei der Anwendung der Vorschriften des Verwaltungsverfahrensgesetzes nach § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung tritt an die Stelle der Gemeinde die Genehmigungsbehörde. Auf die Auslegung des Plans nach § 73 Absatz 2 des Verwaltungsverfahrensgesetzes und der Unterlagen nach § 19 Absatz 2 des Gesetzes über die Umweltverträglichkeitsprüfung ist durch amtliche Bekanntmachung im Verkündungsblatt der Genehmigungsbehörde und durch Veröffentlichung in zwei überregionalen Tageszeitungen hinzuweisen.
 
 (3) Für die Errichtung und den Betrieb einer Transit-Rohrleitung gelten die §§ 58 bis 62 und 65 bis 74 mit folgender Maßgabe entsprechend:
 Für die Aufsicht nach den §§ 69 bis 74 ist, soweit sich aus § 134 nichts anderes ergibt, das Bundesamt für Seeschiffahrt und Hydrographie im Rahmen des mit der Genehmigung nach Absatz 1 Satz 1 Nr. 2 verfolgten Zwecks, im übrigen die nach § 136 bestimmte Behörde zuständig.
@@ -2520,7 +2569,7 @@ die nach § 72 Abs. 1, § 132 Abs. 4 und § 133 Abs. 3, auch in Verbindung mit A
 
 (2) Im Bereich des Festlandsockels werden die auf Grund dieses Gesetzes erlassenen Verwaltungsakte nach dem Verwaltungs-Vollstreckungsgesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 201-4, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 40 des Gesetzes vom 14. Dezember 1976 (BGBl. I S. 3341), und dem Gesetz über den unmittelbaren Zwang bei Ausübung öffentlicher Gewalt durch Vollzugsbeamte des Bundes vollzogen. Unmittelbarer Zwang wird von den Vollzugsbeamten der Bundespolizei und der Zollverwaltung angewandt.
 
-(3) Die Bundesministerien für Verkehr und digitale Infrastruktur, des Innern und der Finanzen regeln im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Vereinbarung das Zusammenwirken der Wasser- und Schiffahrtsverwaltung, der Bundespolizei und der Zollverwaltung.
+(3) Die Bundesministerien für Verkehr und digitale Infrastruktur, des Innern und der Finanzen regeln im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Vereinbarung das Zusammenwirken der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Bundespolizei und der Zollverwaltung.
 
 ### § 135 Gebühren- und Auslagenermächtigung
 
@@ -2576,7 +2625,7 @@ Die Bundesprüfanstalt hat Prüfungen und Abnahmen im Sinne des § 65 Nr. 3 und 
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Vorschriften über die vertragliche Inanspruchnahme der Bundesprüfanstalt und die Gebühren und Auslagen für ihre Nutzleistungen zu erlassen. Die Gebühren sind nach dem Personal- und Sachaufwand für die Nutzleistung unter Berücksichtigung ihres wirtschaftlichen Wertes für den Antragsteller zu bestimmen. Der Personalaufwand kann nach der Zahl der Stunden bemessen werden, die Bedienstete der Bundesprüfanstalt für Prüfungen und Untersuchungen bestimmter Arten von Prüf- oder Untersuchungsgegenständen durchschnittlich benötigen.
 
-(2) Die Gebühr für eine Nutzleistung darf in der Regel zehntausend Deutsche Mark nicht übersteigen. Erfordert die Nutzleistung einen außergewöhnlichen Aufwand, insbesondere für die Prüfung oder Abnahme umfangreicher Anlagen, so kann der Höchstbetrag um den entsprechenden Mehrbetrag überschritten werden.
+(2) Die Gebühr für eine Nutzleistung darf in der Regel 10 000 Euro nicht übersteigen. Erfordert die Nutzleistung einen außergewöhnlichen Aufwand, insbesondere für die Prüfung oder Abnahme umfangreicher Anlagen, so kann der Höchstbetrag um den entsprechenden Mehrbetrag überschritten werden.
 
 (3) Für die Abgeltung mehrfacher gleichartiger Nutzungsleistungen für denselben Empfänger können Pauschgebühren vorgesehen werden. Bei der Bemessung der Pauschgebührensätze ist der geringere Umfang des Verwaltungsaufwandes zu berücksichtigen.
 
@@ -2703,7 +2752,7 @@ a)
 Nummer 4, 6 und 8 bis 18 gelten auch für Untersuchungen des Untergrundes und Untergrundspeicher nach § 126 Abs. 1, für die Errichtung und den Betrieb von Anlagen zur Lagerung, Sicherstellung oder Endlagerung radioaktiver Stoffe nach § 126 Abs. 3 sowie für das Aufsuchen und Gewinnen mineralischer Rohstoffe in alten Halden nach § 128,
 
 b)  
-Nummer 4, 6, 8 bis 12 und 14 bis 18 gelten auch für Bohrungen nach § 127 Abs. 1 und Hohlraumbauten nach § 130,
+Nummer 4, 6, 8 bis 12 und 14 bis 18 gelten auch für Bohrungen nach § 127 Abs. 1,
 
 c)  
 Nummer 4, 6, 8 bis 16 und 18 gelten auch für Versuchsgruben nach § 129 Abs. 1,
@@ -3083,7 +3132,7 @@ Verantwortliche Personen sind, soweit nach § 59 Abs. 2 oder nach den §§ 126 b
 
 ### § 170 Haftung für verursachte Schäden
 
-Auf Schäden im Sinne des § 114, die ausschließlich vor Inkrafttreten dieses Gesetzes verursacht worden sind, sind die für solche Schäden vor Inkrafttreten dieses Gesetzes geltenden Vorschriften anzuwenden.
+Auf Schäden im Sinne des § 114, die ausschließlich vor Inkrafttreten dieses Gesetzes verursacht worden sind, sind die für solche Schäden vor Inkrafttreten dieses Gesetzes geltenden Vorschriften anzuwenden. Auf Schäden im Sinne des § 114, die ausschließlich vor dem 12. August 2016 verursacht worden sind, sind die §§ 120 und 126 in der bis dahin geltenden Fassung anzuwenden.
 
 ### § 170a Verjährung bei Bergschäden
 
@@ -3098,6 +3147,18 @@ Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche findet m
 (3) Die Anfechtung von Verwaltungsakten, die vor Inkrafttreten dieses Gesetzes auf Grund der außer Kraft getretenen Vorschriften ergangen und noch nicht unanfechtbar geworden sind, sowie das weitere Verfahren und die Entscheidung richten sich nach den Vorschriften dieses Gesetzes über die entsprechenden Verwaltungsakte. Ein nach den bisher geltenden Vorschriften zulässiger Rechtsbehelf wird als ein nach diesem Gesetz zulässiger Rechtsbehelf behandelt, auch wenn er bei einer nicht mehr zuständigen Stelle eingelegt wird.
 
 (4) Die Anfechtung von gerichtlichen Entscheidungen, die vor dem Inkrafttreten dieses Gesetzes ergangen und noch nicht unanfechtbar geworden sind oder die in den beim Inkrafttreten dieses Gesetzes anhängigen gerichtlichen Verfahren ergehen, sowie das weitere Verfahren bis zur rechtskräftigen Entscheidung richten sich nach den bisher geltenden Vorschriften.
+
+### § 171a Übergangsvorschrift
+
+Verfahren nach § 52 Absatz 2a bis Absatz 2c des Bundesberggesetzes sind nach der Fassung dieses Gesetzes, die am 29. Juli 2017 galt, zu Ende zu führen, wenn vor dem 16. Mai 2017
+
+1.  
+das Verfahren zur Unterrichtung über Gegenstand, Umfang und Methoden der Umweltverträglichkeitsprüfung nach § 52 Absatz 2a Satz 2 in der bis dahin geltenden Fassung dieses Gesetzes eingeleitet wurde oder
+
+2.  
+die Angaben nach § 57a Absatz 2 Satz 2 bis 5 dieses Gesetzes in Verbindung mit § 2 der Verordnung über die Umweltverträglichkeitsprüfung bergbaulicher Vorhaben in der bis dahin geltenden Fassung gemacht wurden.
+
+§ 74 Absatz 1 des Gesetzes über die Umweltverträglichkeitsprüfung bleibt unberührt.
 
 ### § 172 Mutungen
 
@@ -3445,9 +3506,7 @@ die Verordnung über die polizeiliche Beaufsichtigung der bergbaulichen Nebengew
 
 (4) *Soweit in Gesetzen und Verordnungen des Bundes auf die nach Absatz 1 oder § 175 außer Kraft getretenen Vorschriften verwiesen wird, treten an ihre Stelle die entsprechenden Vorschriften dieses Gesetzes.*
 
-### § 177 Berlin-Klausel
-
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
+### § 177 (weggefallen)
 
 ### § 178 Inkrafttreten
 
