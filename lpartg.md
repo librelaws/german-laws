@@ -2,7 +2,7 @@ Gesetz über die Eingetragene Lebenspartnerschaft (LPartG)
 =========================================================
 
 Stand  
-Zuletzt geändert durch Art. 19 G v. 20.11.2015 I 2010
+Zuletzt geändert durch Art. 2 Abs. 1 G v. 20.7.2017 I 2787
 
 ### 
 
@@ -96,7 +96,7 @@ Die Lebenspartner können ihre güterrechtlichen Verhältnisse durch Vertrag (Le
 
 (5) Der Elternteil, dem die elterliche Sorge für ein unverheiratetes Kind allein oder gemeinsam mit dem anderen Elternteil zusteht, und sein Lebenspartner können dem Kind, das sie in ihren gemeinsamen Haushalt aufgenommen haben, durch Erklärung gegenüber dem Standesamt ihren Lebenspartnerschaftsnamen erteilen. § 1618 Satz 2 bis 6 des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
-(6) Nimmt ein Lebenspartner ein Kind allein an, ist hierfür die Einwilligung des anderen Lebenspartners erforderlich. § 1749 Abs. 1 Satz 2 und 3 sowie Abs. 3 des Bürgerlichen Gesetzbuchs gilt entsprechend.
+(6) Nimmt ein Lebenspartner ein Kind allein an, ist hierfür die Einwilligung des anderen Lebenspartners erforderlich. § 1749 Absatz 1 Satz 2 und 3 sowie Absatz 2 des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
 (7) Ein Lebenspartner kann ein Kind seines Lebenspartners allein annehmen. Für diesen Fall gelten die §§ 1742, 1743 Satz 1, § 1751 Abs. 2 und 4 Satz 2, § 1754 Abs. 1 und 3, § 1755 Abs. 2, § 1756 Abs. 2, § 1757 Abs. 2 Satz 1 und § 1772 Abs. 1 Satz 1 Buchstabe c des Bürgerlichen Gesetzbuchs entsprechend.
 
@@ -187,7 +187,7 @@ Das Gericht hebt die Lebenspartnerschaft ferner auf, wenn bei einem Lebenspartne
 
 (3) Die Lebenspartnerschaft soll nach Absatz 2 Satz 1 nicht aufgehoben werden, obwohl die Lebenspartner seit mehr als drei Jahren getrennt leben, wenn und solange die Aufhebung der Lebenspartnerschaft für den Antragsgegner, der sie ablehnt, aufgrund außergewöhnlicher Umstände eine so schwere Härte darstellen würde, dass die Aufrechterhaltung der Lebenspartnerschaft auch unter Berücksichtigung der Belange des Antragstellers ausnahmsweise geboten erscheint.
 
-(4) Die Aufhebung nach Absatz 2 Satz 2 ist bei einer Bestätigung der Lebenspartnerschaft ausgeschlossen; § 1315 Abs. 1 Nr. 3 und 4 und § 1317 des Bürgerlichen Gesetzbuchs gelten entsprechend.
+(4) Die Aufhebung nach Absatz 2 Satz 2 ist bei einer Bestätigung der Lebenspartnerschaft ausgeschlossen; § 1315 Absatz 1 Satz 1 Nummer 3 und 4 und § 1317 des Bürgerlichen Gesetzbuchs gelten entsprechend.
 
 (5) Die Lebenspartner leben getrennt, wenn zwischen ihnen keine häusliche Gemeinschaft besteht und ein Lebenspartner sie erkennbar nicht herstellen will, weil er die lebenspartnerschaftliche Gemeinschaft ablehnt. § 1567 Abs. 1 Satz 2 und Abs. 2 des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
@@ -217,7 +217,16 @@ Für die Behandlung der gemeinsamen Wohnung und der Haushaltsgegenstände anläs
 
 (4) Die Absätze 1 bis 3 sind nicht anzuwenden, wenn die Lebenspartnerschaft vor dem 1. Januar 2005 begründet worden ist und die Lebenspartner eine Erklärung nach § 21 Abs. 4 nicht abgegeben haben.
 
-Abschnitt 5 Übergangsvorschriften
+Abschnitt 5 Umwandlung einer Lebenspartnerschaft in eine Ehe
+------------------------------------------------------------
+
+### 
+
+### § 20a
+
+Eine Lebenspartnerschaft wird in eine Ehe umgewandelt, wenn zwei Lebenspartnerinnen oder Lebenspartner gegenseitig persönlich und bei gleichzeitiger Anwesenheit erklären, miteinander eine Ehe auf Lebenszeit führen zu wollen. Die Erklärungen können nicht unter einer Bedingung oder Zeitbestimmung abgegeben werden.Die Erklärungen werden wirksam, wenn sie vor dem Standesbeamten abgegeben werden.
+
+Abschnitt 6 Übergangsvorschriften
 ---------------------------------
 
 ### 
@@ -230,7 +239,7 @@ Abschnitt 5 Übergangsvorschriften
 
 Die bis zum Inkrafttreten dieses Gesetzes nach Landesrecht für die Begründung der Lebenspartnerschaft zuständigen Stellen haben die bei ihnen entstandenen Vorgänge einer jeden Lebenspartnerschaft an das Standesamt abzugeben, das nach § 17 des Personenstandsgesetzes für die Entgegennahme der Erklärungen der Lebenspartner zuständig gewesen wäre. Sind danach mehrere Standesämter zuständig, so sind die Unterlagen an das Standesamt, in dessen Bezirk beide Lebenspartner ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt haben, abzugeben; haben die Lebenspartner keinen gemeinsamen Wohnsitz oder gewöhnlichen Aufenthalt, so ist das Standesamt zuständig, in dessen Bezirk einer der Lebenspartner seinen Wohnsitz oder seinen gewöhnlichen Aufenthalt hat. Verbleiben auch danach noch mehrere Zuständigkeiten, so ist die abgebende Behörde bei der Wahl unter den zuständigen Standesämtern frei. Der Standesbeamte des danach zuständigen Standesamts hat die in § 17 in Verbindung mit den §§ 15, 16 des Personenstandsgesetzes bezeichneten Angaben unter Hinweis auf die Behörde, vor der die Lebenspartnerschaft begründet worden ist, in ein gesondertes Lebenspartnerschaftsregister einzutragen.
 
-Abschnitt 6 Länderöffnungsklausel
+Abschnitt 7 Länderöffnungsklausel
 ---------------------------------
 
 ### 
