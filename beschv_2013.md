@@ -2,7 +2,7 @@ Verordnung über die Beschäftigung von Ausländerinnen und Ausländern (BeschV)
 ============================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 24.10.2015 I 1789
+Zuletzt geändert durch Art. 2 V v. 1.8.2017 I 3066
 
 ### 
 
@@ -101,10 +101,10 @@ Die Zustimmung wird ohne Vorrangprüfung erteilt.
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels an
 
 1.  
-wissenschaftliches Personal von Hochschulen und von Forschungs- und Entwicklungseinrichtungen,
+wissenschaftliches Personal von Hochschulen und von Forschungs- und Entwicklungseinrichtungen, das nicht bereits in den Anwendungsbereich der §§ 20 und 20b des Aufenthaltsgesetzes fällt,
 
 2.  
-Gastwissenschaftlerinnen und Gastwissenschaftler an einer Hochschule oder an einer öffentlich-rechtlichen oder überwiegend aus öffentlichen Mitteln finanzierten oder als öffentliches Unternehmen in privater Rechtsform geführten Forschungseinrichtung,
+Gastwissenschaftlerinnen und Gastwissenschaftler an einer Hochschule oder an einer öffentlich-rechtlichen oder überwiegend aus öffentlichen Mitteln finanzierten oder als öffentliches Unternehmen in privater Rechtsform geführten Forschungseinrichtung, die nicht bereits in den Anwendungsbereich der §§ 20 und 20b des Aufenthaltsgesetzes fallen,
 
 3.  
 Ingenieurinnen und Ingenieure sowie Technikerinnen und Techniker als technische Mitarbeiterinnen und Mitarbeiter im Forschungsteam einer Gastwissenschaftlerin oder eines Gastwissenschaftlers,
@@ -202,11 +202,26 @@ Die Zustimmung wird ohne Vorrangprüfung erteilt.
 
 (2) In den Fällen des Absatzes 1 Satz 1 Nummer 2 kann die Zustimmung auch für Arbeitnehmerinnen und Arbeitnehmer des Auftraggebers des Auslandsprojektes erteilt werden, wenn sie im Zusammenhang mit den vorbereitenden Arbeiten vorübergehend vom Auftragnehmer beschäftigt werden, der Auftrag eine entsprechende Verpflichtung für den Auftragnehmer enthält und die Beschäftigung für die spätere Tätigkeit im Rahmen des fertig gestellten Projektes notwendig ist. Satz 1 wird auch angewendet, wenn der Auftragnehmer weder eine Zweigstelle noch einen Betrieb im Ausland hat.
 
+### § 10a Unternehmensintern transferierte Arbeitnehmer
+
+(1) Die Zustimmung zur Erteilung einer ICT-Karte nach § 19b des Aufenthaltsgesetzes und zur Erteilung einer Mobiler-ICT-Karte nach § 19d des Aufenthaltsgesetzes kann erteilt werden, wenn
+
+1.  
+die Beschäftigung in der aufnehmenden Niederlassung als Führungskraft, als Spezialistin oder Spezialist oder als Trainee erfolgt,
+
+2.  
+das Arbeitsentgelt nicht ungünstiger ist als das vergleichbarer deutscher Arbeitnehmerinnen und Arbeitnehmer und
+
+3.  
+die Beschäftigung nicht zu ungünstigeren Arbeitsbedingungen erfolgt als die vergleichbarer entsandter Arbeitnehmerinnen und Arbeitnehmer.
+
+(2) Die Zustimmung wird ohne Vorrangprüfung erteilt.
+
 ### § 11 Sprachlehrerinnen und Sprachlehrer, Spezialitätenköchinnen und Spezialitätenköche
 
 (1) Die Zustimmung kann für Lehrkräfte zur Erteilung muttersprachlichen Unterrichts in Schulen unter Aufsicht der jeweils zuständigen berufskonsularischen Vertretung mit einer Geltungsdauer von bis zu fünf Jahren erteilt werden. Die Zustimmung wird ohne Vorrangprüfung erteilt.
 
-(2) Die Zustimmung kann für Spezialitätenköchinnen und Spezialitätenköche für die Ausübung einer Vollzeitbeschäftigung in Spezialitätenrestaurants mit einer Geltungsdauer von bis zu vier Jahren erteilt werden. Die erstmalige Zustimmung wird in der Zeit bis zum 1. August 2015 längstens für ein Jahr erteilt.
+(2) Die Zustimmung kann für Spezialitätenköchinnen und Spezialitätenköche für die Ausübung einer Vollzeitbeschäftigung in Spezialitätenrestaurants mit einer Geltungsdauer von bis zu vier Jahren erteilt werden. Die erstmalige Zustimmung wird längstens für ein Jahr erteilt.
 
 (3) Für eine erneute Beschäftigung nach den Absätzen 1 und 2 darf die Zustimmung nicht vor Ablauf von drei Jahren nach Ablauf des früheren Aufenthaltstitels erteilt werden.
 
@@ -243,23 +258,105 @@ vorwiegend aus karitativen oder religiösen Gründen Beschäftigte.
 Keiner Zustimmung bedarf die Erteilung eines Aufenthaltstitels für ein Praktikum
 
 1.  
-während eines Aufenthaltes zum Zweck der schulischen Ausbildung oder des Studiums, das vorgeschriebener Bestandteil der Ausbildung ist oder zur Erreichung des Ausbildungszieles nachweislich erforderlich ist,
+nach § 17b des Aufenthaltsgesetzes,
 
 2.  
-im Rahmen eines von der Europäischen Union oder der bilateralen Entwicklungszusammenarbeit finanziell geförderten Programms,
+während eines Aufenthaltes zum Zweck der schulischen Ausbildung oder des Studiums, das vorgeschriebener Bestandteil der Ausbildung ist oder zur Erreichung des Ausbildungszieles nachweislich erforderlich ist,
 
 3.  
-mit einer Dauer von bis zu einem Jahr im Rahmen eines internationalen Austauschprogramms von Verbänden, öffentlich-rechtlichen Einrichtungen oder studentischen Organisationen an Studierende oder Absolventen ausländischer Hochschulen im Einvernehmen mit der Bundesagentur für Arbeit,
+im Rahmen eines von der Europäischen Union oder der bilateralen Entwicklungszusammenarbeit finanziell geförderten Programms,
 
 4.  
-an Fach- und Führungskräfte, die ein Stipendium aus öffentlichen deutschen Mitteln, Mitteln der Europäischen Union oder Mitteln internationaler zwischenstaatlicher Organisationen erhalten, oder
+mit einer Dauer von bis zu einem Jahr im Rahmen eines internationalen Austauschprogramms von Verbänden, öffentlich-rechtlichen Einrichtungen oder studentischen Organisationen an Studierende oder Absolventen ausländischer Hochschulen im Einvernehmen mit der Bundesagentur für Arbeit,
 
 5.  
+an Fach- und Führungskräfte, die ein Stipendium aus öffentlichen deutschen Mitteln, Mitteln der Europäischen Union oder Mitteln internationaler zwischenstaatlicher Organisationen erhalten, oder
+
+6.  
 mit einer Dauer von bis zu einem Jahr während eines Studiums an einer ausländischen Hochschule, das nach dem vierten Semester studienfachbezogen im Einvernehmen mit der Bundesagentur für Arbeit ausgeübt wird.
 
-### § 15a Saisonbeschäftigungen
+### § 15a Saisonabhängige Beschäftigung
 
-Die Zustimmung kann zu einem Aufenthaltstitel zur Ausübung einer Beschäftigung in der Land- und Forstwirtschaft, im Hotel- und Gaststättengewerbe, in der Obst- und Gemüseverarbeitung sowie in Sägewerken von mindestens 30 Stunden wöchentlich bei durchschnittlich mindestens sechs Stunden arbeitstäglich bis zu insgesamt sechs Monaten im Kalenderjahr erteilt werden, wenn die betreffenden Personen auf Grund einer Absprache der Bundesagentur für Arbeit mit der Arbeitsverwaltung des Herkunftslandes über das Verfahren und die Auswahl vermittelt worden sind. Der Zeitraum für die Beschäftigung von Arbeitnehmerinnen und Arbeitnehmern nach Satz 1 ist für einen Betrieb auf acht Monate im Kalenderjahr begrenzt. Satz 2 gilt nicht für Betriebe des Obst-, Gemüse-, Wein-, Hopfen- und Tabakanbaus.
+(1) Ausländerinnen und Ausländern, die auf Grund einer Absprache der Bundesagentur für Arbeit mit der Arbeitsverwaltung des Herkunftslandes über das Verfahren und die Auswahl zum Zweck der Saisonbeschäftigung nach der Richtlinie 2014/36/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 über die Bedingungen für die Einreise und den Aufenthalt von Drittstaatsangehörigen zwecks Beschäftigung als Saisonarbeitnehmer (ABl. L 94 vom 28.3.2014, S. 375) vermittelt worden sind, kann die Bundesagentur für Arbeit zur Ausübung einer saisonabhängigen Beschäftigung von regelmäßig mindestens 30 Stunden wöchentlich in der Land- und Forstwirtschaft, im Gartenbau, im Hotel- und Gaststättengewerbe, in der Obst- und Gemüseverarbeitung sowie in Sägewerken
+
+1.  
+eine Arbeitserlaubnis für die Dauer von bis zu 90 Tagen je Zeitraum von 180 Tagen erteilen, wenn es sich um Staatsangehörige eines in Anhang II der Verordnung (EG) Nr. 539/2001 genannten Staates handelt, oder
+
+2.  
+eine Zustimmung erteilen, wenn
+
+a)  
+die Aufenthaltsdauer mehr als 90 Tage je Zeitraum von 180 Tagen beträgt oder
+
+b)  
+es sich um Staatsangehörige eines in Anhang I der Verordnung (EG) Nr. 539/2001 genannten Staates handelt.
+
+Die saisonabhängige Beschäftigung eines Ausländers oder einer Ausländerin darf sechs Monate innerhalb eines Zeitraums von zwölf Monaten nicht überschreiten. Die Dauer der saisonabhängigen Beschäftigung darf den Gültigkeitszeitraum des Reisedokuments nicht überschreiten. Im Fall des § 39 Nummer 11 der Aufenthaltsverordnung gilt die Zustimmung als erteilt, bis über sie entschieden ist. Ausländerinnen und Ausländern, die in den letzten fünf Jahren mindestens einmal als Saisonbeschäftigte im Bundesgebiet tätig waren, sind im Rahmen der durch die Bundesagentur für Arbeit festgelegten Zahl der Arbeitserlaubnisse und Zustimmungen bevorrechtigt zu berücksichtigen. Der Zeitraum für die Beschäftigung von Saisonbeschäftigten ist für einen Betrieb auf acht Monate innerhalb eines Zeitraums von zwölf Monaten begrenzt. Satz 5 gilt nicht für Betriebe des Obst-, Gemüse-, Wein-, Hopfen- und Tabakanbaus.
+
+(2) Die Erteilung einer Arbeitserlaubnis oder der Zustimmung setzt voraus, dass
+
+1.  
+der Nachweis über ausreichenden Krankenversicherungsschutz erbracht wird,
+
+2.  
+der oder dem Saisonbeschäftigten eine angemessene Unterkunft zur Verfügung steht und
+
+3.  
+ein konkretes Arbeitsplatzangebot oder ein gültiger Arbeitsvertrag vorliegt, in dem insbesondere festgelegt sind
+
+a)  
+der Ort und die Art der Arbeit,
+
+b)  
+die Dauer der Beschäftigung,
+
+c)  
+die Vergütung,
+
+d)  
+die Arbeitszeit pro Woche oder Monat,
+
+e)  
+die Dauer des bezahlten Urlaubs,
+
+f)  
+gegebenenfalls andere einschlägige Arbeitsbedingungen und
+
+g)  
+falls möglich, der Zeitpunkt des Beginns der Beschäftigung.
+
+Stellt der Arbeitgeber der oder dem Saisonbeschäftigten eine Unterkunft zur Verfügung, so muss der Mietzins angemessen sein und darf nicht vom Lohn einbehalten werden. In diesem Fall muss der oder die Saisonbeschäftigte einen Mietvertrag erhalten, in dem die Mietbedingungen festgelegt sind. Der Arbeitgeber hat der Bundesagentur für Arbeit jeden Wechsel der Unterkunft des oder der Saisonbeschäftigten unverzüglich anzuzeigen.
+
+(3) Die Arbeitserlaubnis oder die Zustimmung ist zu versagen oder zu entziehen, wenn
+
+1.  
+sich die Ausländerin oder der Ausländer bereits im Bundesgebiet aufhält, es sei denn, die Einreise ist zur Aufnahme der Saisonbeschäftigung erfolgt oder die Arbeitserlaubnis oder die Zustimmung wird für eine an eine Saisonbeschäftigung anschließende weitere Saisonbeschäftigung beantragt,
+
+2.  
+der oder die Saisonbeschäftigte einen Antrag nach Artikel 16a des Grundgesetzes gestellt hat oder um internationalen Schutz gemäß der Richtlinie 2011/95/EU nachsucht; § 55 Absatz 2 des Asylgesetzes bleibt unberührt,
+
+3.  
+der oder die Saisonbeschäftigte den aus einer früheren Entscheidung über die Zulassung zur Saisonbeschäftigung erwachsenen Verpflichtungen nicht nachgekommen ist,
+
+4.  
+über das Unternehmen des Arbeitgebers ein Insolvenzverfahren eröffnet wurde, das auf Auflösung des Unternehmens und Abwicklung des Geschäftsbetriebs gerichtet ist,
+
+5.  
+das Unternehmen des Arbeitgebers im Rahmen der Durchführung eines Insolvenzverfahrens aufgelöst wurde und der Geschäftsbetrieb abgewickelt wurde,
+
+6.  
+die Eröffnung eines Insolvenzverfahrens über das Vermögen des Unternehmens des Arbeitgebers mangels Masse abgelehnt wurde und der Geschäftsbetrieb eingestellt wurde oder
+
+7.  
+das Unternehmen des Arbeitgebers keine Geschäftstätigkeit ausübt.
+
+Die Arbeitserlaubnis oder die Zustimmung ist zu versagen, wenn die durch die Bundesagentur für Arbeit festgelegte Zahl der Arbeitserlaubnisse und Zustimmungen für den maßgeblichen Zeitraum erreicht ist. § 39 Absatz 2 des Aufenthaltsgesetzes bleibt unberührt.
+
+(4) Die Arbeitserlaubnis ist vom Arbeitgeber bei der Bundesagentur für Arbeit zu beantragen.
+
+(5) Bei einer ein- oder mehrmaligen Verlängerung des Beschäftigungsverhältnisses bei demselben oder einem anderen Arbeitgeber kann eine weitere Arbeitserlaubnis erteilt werden, soweit die in Absatz 1 Satz 1 Nummer 1 genannte Höchstdauer nicht überschritten wird.
+
+(6) Die Arbeitserlaubnis und die Zustimmung werden ohne Vorrangprüfung erteilt, soweit die Bundesagentur für Arbeit eine am Bedarf orientierte Zulassungszahl nach § 39 Absatz 6 Satz 3 des Aufenthaltsgesetzes festgelegt hat.
 
 ### § 15b Schaustellergehilfen
 
@@ -521,10 +618,13 @@ jeder Beschäftigung nach einem ununterbrochen vierjährigen erlaubten, geduldet
 (5) Die Zustimmung zur Ausübung einer Beschäftigung wird Ausländerinnen und Ausländern mit einer Duldung oder Aufenthaltsgestattung ohne Vorrangprüfung erteilt, wenn sie
 
 1.  
-eine Beschäftigung nach § 2 Absatz 2, § 6 oder § 8 aufnehmen oder
+eine Beschäftigung nach § 2 Absatz 2, § 6 oder § 8 aufnehmen,
 
 2.  
-sich seit 15 Monaten ununterbrochen erlaubt, geduldet oder mit einer Aufenthaltsgestattung im Bundesgebiet aufhalten.
+sich seit 15 Monaten ununterbrochen erlaubt, geduldet oder mit einer Aufenthaltsgestattung im Bundesgebiet aufhalten oder
+
+3.  
+eine Beschäftigung in dem Bezirk einer der in der Anlage zu § 32 aufgeführten Agenturen für Arbeit ausüben.
 
 ### § 33 (weggefallen)
 
@@ -538,18 +638,24 @@ Teil 8 Verfahrensregelungen
 (1) Die Bundesagentur für Arbeit kann die Zustimmung zur Ausübung einer Beschäftigung beschränken hinsichtlich
 
 1.  
-der beruflichen Tätigkeit,
+der Geltungsdauer,
 
 2.  
-des Arbeitgebers,
+des Betriebs,
 
 3.  
-der Region, in der die Beschäftigung ausgeübt werden kann, und
+der beruflichen Tätigkeit,
 
 4.  
+des Arbeitgebers,
+
+5.  
+der Region, in der die Beschäftigung ausgeübt werden kann, und
+
+6.  
 der Lage und Verteilung der Arbeitszeit.
 
-(2) Die Zustimmung wird für die Dauer der Beschäftigung, längstens für drei Jahre erteilt.
+(2) Die Zustimmung wird längstens für drei Jahre erteilt.
 
 (3) Bei Beschäftigungen zur beruflichen Aus- und Weiterbildung nach § 17 Absatz 1 und § 17a Absatz 1 Satz 3 des Aufenthaltsgesetzes ist die Zustimmung wie folgt zu erteilen:
 
@@ -595,6 +701,442 @@ Die Anwerbung in Staaten und die Arbeitsvermittlung aus Staaten, die in der Anla
 ### § 39 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 404 Absatz 2 Nummer 9 des Dritten Buches Sozialgesetzbuch handelt, wer vorsätzlich oder fahrlässig entgegen § 38 eine Anwerbung oder Arbeitsvermittlung durchführt.
+
+### Anlage (zu § 32)
+
+(Fundstelle: BGBl I 2016, 1953 bis 1956)
+
+**Schleswig-Holstein**
+
+1.  
+AA Bad Oldesloe
+
+2.  
+AA Elmshorn
+
+3.  
+AA Flensburg
+
+4.  
+AA Heide
+
+5.  
+AA Kiel
+
+6.  
+AA Lübeck
+
+7.  
+AA Neumünster
+
+**Hamburg**
+
+8.  
+AA Hamburg
+
+**Niedersachsen**
+
+9.  
+AA Braunschweig – Goslar
+
+10.  
+AA Celle
+
+11.  
+AA Emden – Leer
+
+12.  
+AA Göttingen
+
+13.  
+AA Hameln
+
+14.  
+AA Hannover
+
+15.  
+AA Helmstedt
+
+16.  
+AA Hildesheim
+
+17.  
+AA Lüneburg – Uelzen
+
+18.  
+AA Nordhorn
+
+19.  
+AA Oldenburg – Wilhelmshaven
+
+20.  
+AA Osnabrück
+
+21.  
+AA Stade
+
+22.  
+AA Vechta
+
+23.  
+AA Nienburg – Verden
+
+**Bremen**
+
+24.  
+AA Bremen – Bremerhaven
+
+**Nordrhein-Westfalen**
+
+25.  
+AA Aachen – Düren
+
+26.  
+AA Bergisch Gladbach
+
+27.  
+AA Bielefeld
+
+28.  
+AA Bonn
+
+29.  
+AA Brühl
+
+30.  
+AA Coesfeld
+
+31.  
+AA Detmold
+
+32.  
+AA Düsseldorf
+
+33.  
+AA Hagen
+
+34.  
+AA Hamm
+
+35.  
+AA Herford
+
+36.  
+AA Iserlohn
+
+37.  
+AA Köln
+
+38.  
+AA Krefeld
+
+39.  
+AA Mettmann
+
+40.  
+AA Mönchengladbach
+
+41.  
+AA Ahlen – Münster
+
+42.  
+AA Paderborn
+
+43.  
+AA Rheine
+
+44.  
+AA Siegen
+
+45.  
+AA Meschede – Soest
+
+46.  
+AA Wesel
+
+47.  
+AA Solingen – Wuppertal
+
+**Hessen**
+
+48.  
+AA Bad Hersfeld – Fulda
+
+49.  
+AA Darmstadt
+
+50.  
+AA Frankfurt
+
+51.  
+AA Gießen
+
+52.  
+AA Hanau
+
+53.  
+AA Bad Homburg
+
+54.  
+AA Kassel
+
+55.  
+AA Korbach
+
+56.  
+AA Limburg – Wetzlar
+
+57.  
+AA Marburg
+
+58.  
+AA Offenbach
+
+59.  
+AA Wiesbaden
+
+**Rheinland-Pfalz**
+
+60.  
+AA Bad Kreuznach
+
+61.  
+AA Kaiserslautern – Pirmasens
+
+62.  
+AA Koblenz – Mayen
+
+63.  
+AA Ludwigshafen
+
+64.  
+AA Mainz
+
+65.  
+AA Montabaur
+
+66.  
+AA Landau
+
+67.  
+AA Neuwied
+
+68.  
+AA Trier
+
+**Baden-Württemberg**
+
+69.  
+AA Aalen
+
+70.  
+AA Balingen
+
+71.  
+AA Freiburg
+
+72.  
+AA Göppingen
+
+73.  
+AA Heidelberg
+
+74.  
+AA Heilbronn
+
+75.  
+AA Karlsruhe – Rastatt
+
+76.  
+AA Konstanz – Ravensburg
+
+77.  
+AA Lörrach
+
+78.  
+AA Ludwigsburg
+
+79.  
+AA Mannheim
+
+80.  
+AA Nagold – Pforzheim
+
+81.  
+AA Offenburg
+
+82.  
+AA Reutlingen
+
+83.  
+AA Waiblingen
+
+84.  
+AA Schwäbisch Hall – Tauberbischofsheim
+
+85.  
+AA Stuttgart
+
+86.  
+AA Ulm
+
+87.  
+AA Rottweil – Villingen-Schwenningen
+
+**Bayern**
+
+88.  
+AA Ansbach – Weißenburg
+
+89.  
+AA Regensburg
+
+90.  
+AA Schwandorf
+
+91.  
+AA Würzburg
+
+92.  
+AA Deggendorf
+
+93.  
+AA Donauwörth
+
+94.  
+AA Freising
+
+95.  
+AA Ingolstadt
+
+96.  
+AA Kempten – Memmingen
+
+97.  
+AA Landshut – Pfarrkirchen
+
+98.  
+AA Rosenheim
+
+99.  
+AA Weilheim
+
+**Saarland**
+
+100.  
+AA Saarland
+
+**Berlin**
+
+101.  
+AA Berlin Süd
+
+102.  
+AA Berlin Nord
+
+103.  
+AA Berlin Mitte
+
+**Brandenburg**
+
+104.  
+AA Cottbus
+
+105.  
+AA Eberswalde
+
+106.  
+AA Frankfurt (Oder)
+
+107.  
+AA Neuruppin
+
+108.  
+AA Potsdam
+
+**Mecklenburg-Vorpommern**
+– keine Agenturbezirke –
+
+**Sachsen**
+
+109.  
+AA Annaberg-Buchholz
+
+110.  
+AA Bautzen
+
+111.  
+AA Chemnitz
+
+112.  
+AA Dresden
+
+113.  
+AA Leipzig
+
+114.  
+AA Oschatz
+
+115.  
+AA Pirna
+
+116.  
+AA Plauen
+
+117.  
+AA Riesa
+
+118.  
+AA Freiberg
+
+119.  
+AA Zwickau
+
+**Sachsen-Anhalt**
+
+120.  
+AA Bernburg
+
+121.  
+AA Dessau-Roßlau – Wittenberg
+
+122.  
+AA Halberstadt
+
+123.  
+AA Halle
+
+124.  
+AA Magdeburg
+
+125.  
+AA Weißenfels
+
+126.  
+AA Sangerhausen
+
+127.  
+AA Stendal
+
+**Thüringen**
+
+128.  
+AA Erfurt
+
+129.  
+AA Altenburg – Gera
+
+130.  
+AA Gotha
+
+131.  
+AA Jena
+
+132.  
+AA Nordhausen
+
+133.  
+AA Suhl
 
 ### Anlage (zu § 38)
 
