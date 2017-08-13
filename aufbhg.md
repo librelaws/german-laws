@@ -2,7 +2,7 @@ Gesetz zur Errichtung eines Sondervermögens „Aufbauhilfe“ (AufbhG)
 ==================================================================
 
 Stand  
-Geändert durch Art. 4 G v. 24.6.2015 I 974
+Zuletzt geändert durch Art. 12 G v. 14.8.2017 I 3122
 
 ### 
 
@@ -46,7 +46,7 @@ Aus den Mitteln des Fonds werden Soforthilfen, über die im Jahr 2013 Verwaltung
 
 (2) Die Länder beteiligen sich an der Finanzierung nach Maßgabe des Absatzes 3.
 
-(3) Die finanzielle Beteiligung der Länder an dem Fonds in den Jahren 2014 bis 2019 erfolgt durch die Änderung der Beträge im Rahmen der Umsatzsteuerverteilung nach Maßgabe von § 1 Satz 5 des Finanzausgleichsgesetz vom 20. Dezember 2001 (BGBl. I S. 3955, 3956), das zuletzt durch Artikel 2 des Gesetzes vom 15. Juli 2013 (BGBl. I S. 2401) geändert worden ist. In den Jahren 2020 bis 2033 leisten die Länder jährlich einen Betrag in Höhe von 202 Millionen Euro, den sie in monatlichen Teilbeträgen von jeweils einem Zwölftel an den Bund zahlen. Der Anteil eines Landes errechnet sich nach dem Anteil dieses Landes an den Einwohnerzahlen aller Länder. Für die Berechnung der Anteile der Länder ist die Einwohnerzahl maßgebend, die das Statistische Bundesamt zum 30. Juni des Vorjahres festgestellt hat.
+(3) Die finanzielle Beteiligung der Länder an dem Fonds in den Jahren von 2014 bis 2033 erfolgt im Rahmen der vertikalen Umsatzsteuerverteilung nach Maßgabe von § 1 des Finanzausgleichsgesetzes.
 
 (4) Die im Jahr 2013 vor Inkrafttreten der Rechtsverordnung nach § 2 Absatz 4 geleisteten Aufbauhilfen nach § 2 Absatz 2 Satz 1 und die Soforthilfen nach § 2 Absatz 2 Satz 2 werden aus dem Fonds erstattet.
 
