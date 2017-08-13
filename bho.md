@@ -2,16 +2,18 @@ Bundeshaushaltsordnung (BHO)
 ============================
 
 Stand  
-Zuletzt geändert durch Art. 8 Abs. 10 G v. 3.12.2015 I 2178
+Zuletzt geändert durch Art. 11 G v. 14.8.2017 I 3122
 
 ### 
 
 ```
 (+++ Textnachweis Geltung ab: 14.7.1980 +++)
-(+++ Zur Anwendung d. § 37 vgl. § 4 HG 2014, § 4 HG 2015 u. § 4 HG 2016 +++)
+(+++ Zur Anwendung d. § 37 vgl. § 4 HG 2014, § 4 HG 2015, § 4 HG 2016, § 4 HG 2017, § 4 HG 2018 u. § 4 HG 2019 +++)
 (+++ Zur Nichtanwendung d. §§ 65 bis 69 vgl. § 61 SAG +++)
 (+++ Zur Anwendung d. §§ 89, 90, 92 bis 100 vgl. § 55 EinSiG +++)
 (+++ Zur Anwendung d. § 113 vgl. § 5 KInvFErrG +++)
+(+++ Zur Nichtanwendung d. § 109 Abs. 2 u. 3 vgl. §§ 37 u. 8 FFG 2017 +++)
+(+++ Zur Anwendung u. Nichtanwendung d. § 59 vgl. § 36 FFG 2017 +++)
 ```
 
 Teil I Allgemeine Vorschriften zum Haushaltsplan
@@ -313,9 +315,9 @@ sind Übersichten dem Haushaltsplan als Anlagen beizufügen oder in die Erläute
 
 (1) Das Bundesministerium der Finanzen prüft die Voranschläge und stellt den Entwurf des Haushaltsplans auf. Es kann die Voranschläge nach Benehmen mit den beteiligten Stellen ändern.
 
-(2) Über Angelegenheiten von grundsätzlicher oder erheblicher finanzieller Bedeutung kann der zuständige Bundesminister die Entscheidung der Bundesregierung einholen. Entscheidet die Bundesregierung gegen oder ohne die Stimme des Bundesministers der Finanzen, so steht ihm ein Widerspruchsrecht zu. Das Nähere regelt die Geschäftsordnung der Bundesregierung.
+(2) Über Angelegenheiten von grundsätzlicher oder erheblicher finanzieller Bedeutung kann die zuständige Bundesministerin oder der zuständige Bundesminister die Entscheidung der Bundesregierung einholen. Entscheidet die Bundesregierung gegen oder ohne die Stimme der Bundesministerin oder des Bundesministers der Finanzen, so steht ihr oder ihm ein Widerspruchsrecht zu. Das Nähere regelt die Geschäftsordnung der Bundesregierung.
 
-(3) Abweichungen von den Voranschlägen des Bundespräsidenten und der Präsidenten des Bundestages, des Bundesrates, des Bundesverfassungsgerichts und des Bundesrechnungshofes sind vom Bundesministerium der Finanzen der Bundesregierung mitzuteilen, soweit den Änderungen nicht zugestimmt worden ist.
+(3) Abweichungen von den Voranschlägen der Bundespräsidentin oder des Bundespräsidenten, des Deutschen Bundestages, des Bundesrates, des Bundesverfassungsgerichts, des Bundesrechnungshofes oder der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit sind vom Bundesministerium der Finanzen der Bundesregierung mitzuteilen, soweit den Änderungen nicht zugestimmt worden ist.
 
 ### § 29 Beschluß über den Entwurf des Haushaltsplans
 
@@ -323,7 +325,7 @@ sind Übersichten dem Haushaltsplan als Anlagen beizufügen oder in die Erläute
 
 (2) Einnahmen, Ausgaben, Verpflichtungsermächtigungen und Vermerke, die das Bundesministerium der Finanzen in den Entwurf des Haushaltsplans nicht aufgenommen hat, unterliegen auf Antrag des zuständigen Bundesministers der Beschlußfassung der Bundesregierung, wenn es sich um Angelegenheiten von grundsätzlicher oder erheblicher finanzieller Bedeutung handelt. Dasselbe gilt für Vorschriften des Entwurfs des Haushaltsgesetzes. Auf die Beschlußfassung der Bundesregierung ist § 28 Abs. 2 Satz 2 entsprechend anzuwenden. Das Nähere regelt die Geschäftsordnung der Bundesregierung.
 
-(3) Weicht der Entwurf des Haushaltsplans von den Voranschlägen des Bundespräsidenten und der Präsidenten des Bundestages, des Bundesrates, des Bundesverfassungsgerichts und des Bundesrechnungshofes ab und ist der Änderung nicht zugestimmt worden, so sind die Teile, über die kein Einvernehmen erzielt worden ist, unverändert dem Entwurf des Haushaltsplans beizufügen.
+(3) Weicht der Entwurf des Haushaltsplans von den Voranschlägen der Bundespräsidentin oder des Bundespräsidenten, des Deutschen Bundestages, des Bundesrates, des Bundesverfassungsgerichts, des Bundesrechnungshofes oder der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit ab und ist der Änderung nicht zugestimmt worden, so sind die Teile, über die kein Einvernehmen erzielt worden ist, unverändert dem Entwurf des Haushaltsplans beizufügen.
 
 ### § 30 Vorlagefrist
 
@@ -378,7 +380,7 @@ Nur mit vorheriger Zustimmung (Einwilligung) des Bundesministeriums der Finanzen
 
 (6) Mehrausgaben bei übertragbaren Ausgaben (Vorgriffe) sind unter den Voraussetzungen des Absatzes 1 Satz 1 und 2 auf die nächstjährige Bewilligung für den gleichen Zweck anzurechnen. Das Bundesministerium der Finanzen kann Ausnahmen zulassen.
 
-(+++ § 37 Abs. 4: Zur entsprechenden Anwendung vgl. § 4 Abs. 2 Satz 6 HG 2014, § 4 Abs. 2 Satz 6 HG 2015 u. § 4 Abs 2 Satz 6 HG 2016 +++)
+(+++ § 37 Abs. 4: Zur entsprechenden Anwendung vgl. § 4 Abs. 2 Satz 6 HG 2014, § 4 Abs. 2 Satz 6 HG 2015, § 4 Abs. 2 Satz 6 HG 2016, § 4 Abs. 2 Satz 6 HG 2017, § 4 Abs. 2 Satz 6 HG 2018 u. § 4 Abs. 2 Satz 6 HG 2019 +++)
 
 ### § 38 Verpflichtungsermächtigungen
 
@@ -442,7 +444,7 @@ Bei Vorlagen, die dem Bundestag und dem Bundesrat nach § 8 Abs. 1 des Gesetzes 
 
 (2) Sollen Bundesmittel oder Vermögensgegenstände des Bundes von Stellen außerhalb der Bundesverwaltung verwaltet werden, ist Absatz 1 entsprechend anzuwenden.
 
-(3) Juristischen Personen des privaten Rechts kann mit ihrem Einverständnis die Befugnis verliehen werden, Verwaltungsaufgaben auf dem Gebiet der Zuwendungen im eigenen Namen und in den Handlungsformen des öffentlichen Rechts wahrzunehmen, wenn sie die Gewähr für eine sachgerechte Erfüllung der ihnen übertragenen Aufgaben bieten und die Beleihung im öffentlichen Interesse liegt. Die Verleihung und die Entziehung der Befugnis obliegen dem zuständigen Bundesministerium; die Verleihung bedarf der Einwilligung des Bundesministeriums der Finanzen. Die Beliehene unterliegt der Aufsicht des zuständigen Bundesministeriums; dieses kann die Aufsicht auf nachgeordnete Behörden übertragen.
+(3) Juristischen Personen des privaten Rechts kann mit ihrem Einverständnis die Befugnis verliehen werden, Verwaltungsaufgaben auf dem Gebiet der Zuwendungen im eigenen Namen und in den Handlungsformen des öffentlichen Rechts wahrzunehmen, wenn sie die Gewähr für eine sachgerechte Erfüllung der ihnen übertragenen Aufgaben bieten und die Beleihung im öffentlichen Interesse liegt. Die Verleihung und die Entziehung der Befugnis obliegen dem zuständigen Bundesministerium; im Falle der Verleihung ist das Bundesministerium der Finanzen zu unterrichten. Die Beliehene unterliegt der Aufsicht des zuständigen Bundesministeriums; dieses kann die Aufsicht auf nachgeordnete Behörden übertragen. Im Falle der Staatshaftung wegen Ansprüchen Dritter kann der Bund gegenüber einer beliehenen juristischen Person des Privatrechts bei Vorliegen von Vorsatz oder grober Fahrlässigkeit Rückgriff nehmen.
 
 ### § 44a
 
@@ -472,9 +474,29 @@ Deckungsfähige Ausgaben dürfen, solange sie verfügbar sind, nach Maßgabe des
 
 (4) Die Absätze 1 bis 3 gelten für Stellen der Angestellten und Arbeiter entsprechend.
 
-### § 48 Einstellung und Versetzung von Beamten
+### § 48 Höchstaltersgrenze bei der Berufung in ein Beamten- oder Soldatenverhältnis oder Versetzung von Beamtinnen und Beamten in den Bundesdienst
 
-Einstellung und Versetzung von Beamten in den Bundesdienst bedürfen der Einwilligung des Bundesministeriums der Finanzen, wenn der Bewerber ein vom Bundesministerium der Finanzen allgemein festzusetzendes Lebensalter überschritten hat.
+(1) Berufungen in ein Beamtenverhältnis oder Versetzungen in den Bundesdienst dürfen nur erfolgen, wenn
+
+1.  
+die Bewerberin oder der Bewerber das 50. Lebensjahr noch nicht vollendet hat oder
+
+2.  
+ein außerordentlicher Mangel an gleich geeigneten jüngeren Bewerberinnen und Bewerbern besteht und die Berufung oder Versetzung einen erheblichen Vorteil für den Bund bedeutet.
+
+An die Stelle des 50. Lebensjahres tritt
+
+1.  
+das 55. Lebensjahr, wenn die zukünftigen Versorgungslasten nach dem Versorgungslastenteilungs-Staatsvertrag, nach § 107b des Beamtenversorgungsgesetzes, nach § 92b des Soldatenversorgungsgesetzes oder dem Militärseelsorgevertrag vom 22. Februar 1957 (BGBl. 1957 II S. 702) mit dem abgebenden Dienstherrn geteilt werden, oder
+
+2.  
+das 62. Lebensjahr, wenn bereits Ansprüche auf Versorgung nach beamten- oder soldatenrechtlichen Vorschriften oder Grundsätzen zu Lasten des Bundes erworben wurden und das vorgesehene Amt höchstens der Besoldungsgruppe zugeordnet ist, aus der zuletzt Dienstbezüge gezahlt wurden.
+
+(2) Für die Berufung oder Versetzung in den Polizeivollzugsdienst des Bundes gilt Absatz 1 Satz 1 mit der Maßgabe, dass bei einer Verwendung im Bundesministerium des Innern, im Bundeskriminalamt oder im Polizeivollzugsdienst beim Deutschen Bundestag an die Stelle des 50. Lebensjahres das 45. Lebensjahr und bei einer Verwendung in anderen Bereichen an die Stelle des 50. Lebensjahres das 40. Lebensjahr tritt. Außerdem gilt in diesen Fällen Absatz 1 Satz 2 Nummer 2 mit der Maßgabe, dass an die Stelle des 62. Lebensjahres das 52. Lebensjahr tritt. Absatz 1 Satz 2 Nummer 1 findet keine Anwendung.
+
+(3) Für die Berufung in ein Soldatenverhältnis oder die Umwandlung des Dienstverhältnisses eines Soldaten auf Zeit in das Dienstverhältnis eines Berufssoldaten gilt Absatz 1 Satz 1 mit der Maßgabe, dass an die Stelle des 50. Lebensjahres das 40. Lebensjahr tritt. Außerdem gilt in diesen Fällen Absatz 1 Satz 2 Nummer 2 mit der Maßgabe, dass an die Stelle des 62. Lebensjahres eine Diensterwartung von mehr als drei Jahren tritt. Absatz 1 Satz 2 Nummer 1 findet keine Anwendung.
+
+(4) Die Entscheidung über Berufungen in ein Beamtenverhältnis oder über Versetzungen in den Bundesdienst trifft die jeweils zuständige oberste Bundesbehörde für ihren Geschäftsbereich.
 
 ### § 49 Einweisung in eine Planstelle
 
@@ -514,7 +536,7 @@ Leistungen aus Gründen der Billigkeit dürfen nur gewährt werden, wenn dafür 
 
 ### § 55 Öffentliche Ausschreibung
 
-(1) Dem Abschluß von Verträgen über Lieferungen und Leistungen muß eine öffentliche Ausschreibung vorausgehen, sofern nicht die Natur des Geschäfts oder besondere Umstände eine Ausnahme rechtfertigen.
+(1) Dem Abschluss von Verträgen über Lieferungen und Leistungen muss eine Öffentliche Ausschreibung oder eine Beschränkte Ausschreibung mit Teilnahmewettbewerb vorausgehen, sofern nicht die Natur des Geschäfts oder besondere Umstände eine Ausnahme rechtfertigen. Teilnahmewettbewerb ist ein Verfahren, bei dem der öffentliche Auftraggeber nach vorheriger öffentlicher Aufforderung zur Teilnahme eine beschränkte Anzahl von geeigneten Unternehmen nach objektiven, transparenten und nichtdiskriminierenden Kriterien auswählt und zur Abgabe von Angeboten auffordert.
 
 (2) Beim Abschluß von Verträgen ist nach einheitlichen Richtlinien zu verfahren.
 
@@ -560,6 +582,9 @@ Das zuständige Bundesministerium kann seine Befugnisse übertragen.
 (2) Maßnahmen nach Absatz 1 bedürfen der Einwilligung des Bundesministeriums der Finanzen, soweit es nicht darauf verzichtet.
 
 (3) Andere Regelungen in Rechtsvorschriften bleiben unberührt.
+
+(+++ § 59 Abs. 1: Zur entsprechenden Anwendung vgl. § 36 Abs. 1 Satz 1 FFG 2017 +++)
+(+++ § 59 Abs. 2: Zur entsprechenden Anwendung vgl. § 36 Abs. 1 Satz 2 FFG 2017 +++)
 
 ### § 60 Vorschüsse, Verwahrungen
 
@@ -1007,10 +1032,13 @@ Teile des Bundeshaushaltsplans ausführen oder vom Bund Ersatz von Aufwendungen 
 Bundesmittel oder Vermögensgegenstände des Bundes verwalten,
 
 3.  
-vom Bund Zuwendungen erhalten oder
+vom Bund Zuwendungen erhalten,
 
 4.  
-als juristische Personen des privaten Rechts, an denen der Bund einschließlich seiner Sondervermögen unmittelbar oder mittelbar mit Mehrheit beteiligt ist, nicht im Wettbewerb stehen, bestimmungsgemäß ganz oder überwiegend öffentliche Aufgaben erfüllen oder diesem Zweck dienen und hierfür Haushaltsmittel oder Gewährleistungen des Bundes oder eines seiner Sondervermögen erhalten.
+als juristische Personen des privaten Rechts, an denen der Bund einschließlich seiner Sondervermögen unmittelbar oder mittelbar mit Mehrheit beteiligt ist, nicht im Wettbewerb stehen, bestimmungsgemäß ganz oder überwiegend öffentliche Aufgaben erfüllen oder diesem Zweck dienen und hierfür Haushaltsmittel oder Gewährleistungen des Bundes oder eines seiner Sondervermögen erhalten oder
+
+5.  
+Finanzierungsmittel bewirtschaften, die der Bund den Ländern zweckgebunden zur Erfüllung von Länderaufgaben zugewiesen hat.
 
 Leiten diese Stellen die Mittel an Dritte weiter, so kann der Bundesrechnungshof auch bei diesen prüfen.
 
@@ -1031,6 +1059,8 @@ Leiten diese Stellen die Mittel an Dritte weiter, so kann der Bundesrechnungshof
 ### § 93 Gemeinsame Prüfung
 
 (1) Ist für die Prüfung sowohl der Bundesrechnungshof als auch ein Landesrechnungshof zuständig, so soll gemeinsam geprüft werden. Soweit nicht Artikel 114 Abs. 2 Satz 1 des Grundgesetzes die Prüfung durch den Bundesrechnungshof vorschreibt, kann der Bundesrechnungshof durch Vereinbarung Prüfungsaufgaben auf die Landesrechnungshöfe übertragen. Der Bundesrechnungshof kann durch Vereinbarung auch Prüfungsaufgaben von den Landesrechnungshöfen übernehmen.
+
+(1a) In den in § 91 Absatz 1 Satz 1 Nummer 5 genannten Fällen hat der Bundesrechnungshof seine Prüfungen im Benehmen mit den jeweils zuständigen Landesrechnungshöfen durchzuführen.
 
 (2) Der Bundesrechnungshof kann durch Vereinbarung mit ausländischen oder über- oder zwischenstaatlichen Prüfungsbehörden die Durchführung einzelner Prüfungen übertragen oder übernehmen, sowie Prüfungsaufgaben für über- oder zwischenstaatliche Einrichtungen übernehmen, wenn er durch völkerrechtliche Verträge oder Verwaltungsabkommen oder durch die Bundesregierung dazu ermächtigt wird.
 
@@ -1053,6 +1083,10 @@ Leiten diese Stellen die Mittel an Dritte weiter, so kann der Bundesrechnungshof
 (2) Dem Bundesrechnungshof und seinen Beauftragten sind die erbetenen Auskünfte zu erteilen.
 
 (+++ § 95: Zur Anwendung vgl. § 55 Abs. 1 Satz 2 EinSiG +++)
+
+### § 95a Prüfungsanordnung und Entfall der aufschiebenden Wirkung
+
+Erlässt der Bundesrechnungshof zur Durchsetzung seiner Rechte nach § 94 Absatz 1 und § 95 Anordnungen, so hat die Anfechtungsklage hiergegen keine aufschiebende Wirkung.
 
 ### § 96 Prüfungsergebnis
 
@@ -1205,6 +1239,9 @@ Der Haushaltsplan und die Festsetzung der Umlagen oder der Beiträge bedürfen b
 (2) Die Rechnung und die Haushalts- und Wirtschaftsführung der bundesunmittelbaren juristischen Person des öffentlichen Rechts sind, unbeschadet einer Prüfung durch den Bundesrechnungshof nach § 111, von durch Gesetz oder Satzung bestimmten Stellen zu prüfen. Die Satzungsvorschrift über die Durchführung der Prüfung bedarf der Zustimmung des zuständigen Bundesministeriums im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesrechnungshof. Die Ergebnisse der Prüfung sind dem Bundesrechnungshof vorzulegen. Er kann zulassen, daß die Prüfung beschränkt wird.
 
 (3) Die Entlastung erteilt das zuständige Bundesministerium im Einvernehmen mit dem Bundesministerium der Finanzen. Ist ein besonderes Beschlußorgan vorhanden, obliegt ihm die Entlastung; die Entlastung bedarf dann der Genehmigung des zuständigen Bundesministeriums und des Bundesministeriums der Finanzen.
+
+(+++ § 109 Abs. 2: Zur Nichtanwendung vgl. § 37 Abs. 4 Satz 3 FFG 2017 +++)
+(+++ § 109 Abs. 3: Zur Nichtanwendung vgl. § 8 Abs. 2 Satz 2 FFG 2017 +++)
 
 ### § 110 Wirtschaftsplan
 
