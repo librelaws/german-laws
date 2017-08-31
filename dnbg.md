@@ -2,7 +2,7 @@ Gesetz über die Deutsche Nationalbibliothek (DNBG)
 ==================================================
 
 Stand  
-Geändert durch Art. 15 Abs. 62 G v. 5.2.2009 I 160
+Zuletzt geändert durch Art. 2 G v. 1.9.2017 I 3346
 
 ### 
 
@@ -158,6 +158,12 @@ Ablieferungspflichtig ist, wer berechtigt ist, das Medienwerk zu verbreiten oder
 
 Die Ablieferungspflichtigen haben die Medienwerke vollständig, in einwandfreiem, nicht befristet benutzbarem Zustand und zur dauerhaften Archivierung durch die Bibliothek geeignet unentgeltlich und auf eigene Kosten binnen einer Woche seit Beginn der Verbreitung oder der öffentlichen Zugänglichmachung an die Bibliothek oder der von dieser benannten Stelle abzuliefern. Medienwerke in unkörperlicher Form können nach den Maßgaben der Bibliothek auch zur Abholung bereitgestellt werden.
 
+### § 16a Urheberrechtlich erlaubte Nutzungen
+
+(1) Die Bibliothek darf Medienwerke in unkörperlicher Form für eigene und fremde Pflichtexemplarbestände vergütungsfrei vervielfältigen und übermitteln, auch automatisiert und systematisch. Dies gilt nur, soweit die Medienwerke entweder ohne Beschränkungen, insbesondere für jedermann und unentgeltlich, öffentlich zugänglich oder zur Abholung durch die Bibliothek bereitgestellt sind. Die nach den Sätzen 1 und 2 erstellten Vervielfältigungen dürfen anschließend wie andere Bestandswerke weitergenutzt werden.
+
+(2) Die Bibliothek darf im Auftrag eines Nutzers Werke oder andere nach dem Urheberrechtsgesetz geschützte Schutzgegenstände für die nicht kommerzielle wissenschaftliche Forschung zur Erleichterung von Zitaten vergütungsfrei vervielfältigen und unter einer dauerhaft gleichbleibenden Internetadresse öffentlich zugänglich machen. Dies gilt nur, wenn die Werke und sonstigen Schutzgegenstände ohne Beschränkungen, insbesondere für jedermann und unentgeltlich, öffentlich zugänglich sind und zudem ihre dauerhafte Erreichbarkeit nicht durch die Bibliothek selbst oder durch Dritte gesichert ist, etwa dadurch, dass die Werke und sonstigen Schutzgegenstände über andere, entgeltliche oder unentgeltliche Dienste erreichbar sind.
+
 ### § 17 Auskunftspflicht
 
 Die Ablieferungspflichtigen haben der Bibliothek bei Ablieferung der Medienwerke unentgeltlich die zu ihrer Aufgabenerfüllung notwendigen Auskünfte auf Verlangen zu erteilen. Kommen sie dieser Pflicht nicht nach, ist die Bibliothek nach Ablauf eines Monats seit Beginn der Verbreitung oder öffentlichen Zugänglichmachung berechtigt, die Informationen auf Kosten der Auskunftspflichtigen anderweitig zu beschaffen.
@@ -200,7 +206,7 @@ die Voraussetzungen und das Verfahren bei der Gewährung von Zuschüssen.
 
 ### § 21 Landesrechtliche Regelungen
 
-Die landesrechtlichen Regelungen über die Ablieferung von Medienwerken bleiben unberührt.
+Die landesrechtlichen Regelungen über die Ablieferung von Medienwerken bleiben unberührt. Für die nach Landesrecht bestimmten Einrichtungen für die Ablieferung von Medienwerken gilt § 16a entsprechend.
 
 ### § 22 Inkrafttreten, Außerkrafttreten
 
