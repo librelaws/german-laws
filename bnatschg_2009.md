@@ -2,16 +2,7 @@ Gesetz über Naturschutz und Landschaftspflege (BNatSchG)
 ========================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 30.6.2017 I 2193
-
-Hinweis  
-Änderung durch Art. 7 G v. 17.8.2017 I 3202 (Nr. 58) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 1 G v. 8.9.2017 I 3370 (Nr 62) mWv 16.9.2017 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 1 G v. 15.9.2017 I 3434 (Nr 64) mWv 29.9.2017 bzw. 1.4.2018 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 1 G v. 15.9.2017 I 3434
 
 ### 
 
@@ -77,20 +68,19 @@ Abschnitt 1
 Biotopverbund und Biotopvernetzung;
 geschützte Teile von Natur und Landschaft
 
-|       |                                                         |
-|-------|---------------------------------------------------------|
-| § 20  | Allgemeine Grundsätze                                   |
-| § 21  | Biotopverbund, Biotopvernetzung                         |
-| § 22  | Erklärung zum geschützten Teil von Natur und Landschaft |
-| § 23  | Naturschutzgebiete                                      |
-| § 24  | Nationalparke, Nationale Naturmonumente                 |
-| § 25  | Biosphärenreservate                                     |
-| § 26  | Landschaftsschutzgebiete                                |
-| § 27  | Naturparke                                              |
-| § 28  | Naturdenkmäler                                          |
-| § 28a | Invasive Arten                                          |
-| § 29  | Geschützte Landschaftsbestandteile                      |
-| § 30  | Gesetzlich geschützte Biotope                           |
+|      |                                                         |
+|------|---------------------------------------------------------|
+| § 20 | Allgemeine Grundsätze                                   |
+| § 21 | Biotopverbund, Biotopvernetzung                         |
+| § 22 | Erklärung zum geschützten Teil von Natur und Landschaft |
+| § 23 | Naturschutzgebiete                                      |
+| § 24 | Nationalparke, Nationale Naturmonumente                 |
+| § 25 | Biosphärenreservate                                     |
+| § 26 | Landschaftsschutzgebiete                                |
+| § 27 | Naturparke                                              |
+| § 28 | Naturdenkmäler                                          |
+| § 29 | Geschützte Landschaftsbestandteile                      |
+| § 30 | Gesetzlich geschützte Biotope                           |
 
 Abschnitt 2
 
@@ -310,6 +300,7 @@ zum Zweck der Erholung in der freien Landschaft nach ihrer Beschaffenheit und La
 (6) Freiräume im besiedelten und siedlungsnahen Bereich einschließlich ihrer Bestandteile, wie Parkanlagen, großflächige Grünanlagen und Grünzüge, Wälder und Waldränder, Bäume und Gehölzstrukturen, Fluss- und Bachläufe mit ihren Uferzonen und Auenbereichen, stehende Gewässer, Naturerfahrungsräume sowie gartenbau- und landwirtschaftlich genutzte Flächen, sind zu erhalten und dort, wo sie nicht in ausreichendem Maße vorhanden sind, neu zu schaffen.
 
 § 1 Abs. 2 bis 6 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 2 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
+§ 1 Abs. 5 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 20 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 533)
 
 ### § 2 Verwirklichung der Ziele
 
@@ -325,7 +316,8 @@ zum Zweck der Erholung in der freien Landschaft nach ihrer Beschaffenheit und La
 
 (6) Das allgemeine Verständnis für die Ziele des Naturschutzes und der Landschaftspflege ist mit geeigneten Mitteln zu fördern. Erziehungs-, Bildungs- und Informationsträger klären auf allen Ebenen über die Bedeutung von Natur und Landschaft, über deren Bewirtschaftung und Nutzung sowie über die Aufgaben des Naturschutzes und der Landschaftspflege auf und wecken das Bewusstsein für einen verantwortungsvollen Umgang mit Natur und Landschaft.
 
-§ 1 Abs. 4 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 1 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
+§ 2 Abs. 4 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 1 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
+§ 2 Abs. 4 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 2 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 533)
 
 ### § 3 Zuständigkeiten, Aufgaben und Befugnisse, vertragliche Vereinbarungen, Zusammenarbeit der Behörden
 
@@ -349,10 +341,12 @@ das Bundesamt für Naturschutz, soweit ihm nach diesem Gesetz Zuständigkeiten z
 
 (7) Aufgaben nach diesem Gesetz obliegen einer Gemeinde oder einem Gemeindeverband nur, wenn der Gemeinde oder dem Gemeindeverband die Aufgaben durch Landesrecht übertragen worden sind.
 
+§ 3 Abs. 2 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 4 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 533)
 § 3 Abs. 3 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 2 Abs. 6 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); geänderte Abweichung durch § 2 Abs. 6 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 3 Buchst. b u. d G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1648)
 § 3 Abs. 3 idF d. G v. 29.7.2009 I 2542: Hessen - Abweichung durch § 3 Abs. 1 Satz 1 des Hessischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (HAGBNatSchG) v. 20.12.2010 GVBl. I S. 629 mWv 29.12.2010 (vgl. BGBl. I 2011, 663)
 § 3 Abs. 3 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch § 2a des Sächsischen Naturschutzgesetzes (SächsNatSchG) idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)
 § 3 Abs. 4 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 5 Abs. 2 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
+§ 3 Abs. 4 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 65 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 533)
 
 ### § 4 Funktionssicherung bei Flächen für öffentliche Zwecke
 
@@ -403,7 +397,7 @@ die Tierhaltung hat in einem ausgewogenen Verhältnis zum Pflanzenbau zu stehen 
 auf erosionsgefährdeten Hängen, in Überschwemmungsgebieten, auf Standorten mit hohem Grundwasserstand sowie auf Moorstandorten ist ein Grünlandumbruch zu unterlassen;
 
 6.  
-die Anwendung von Düngemitteln und Pflanzenschutzmitteln hat nach Maßgabe des landwirtschaftlichen Fachrechtes zu erfolgen; eine Dokumentation über die Anwendung von Düngemitteln ist nach Maßgabe des § 7 der Düngeverordnung in der Fassung der Bekanntmachung vom 27. Februar 2007 (BGBl. I S. 221), die zuletzt durch Artikel 18 des Gesetzes vom 31. Juli 2009 (BGBl. I S. 2585) geändert worden ist, sowie eine Dokumentation über die Anwendung von Pflanzenschutzmittel ist nach Maßgabe des Artikels 67 Absatz 1 Satz 2 der Verordnung (EG) Nr. 1107/2009 zu führen.
+die Anwendung von Düngemitteln und Pflanzenschutzmitteln hat nach Maßgabe des landwirtschaftlichen Fachrechtes zu erfolgen; es sind eine Dokumentation über die Anwendung von Düngemitteln nach Maßgabe des § 10 der Düngeverordnung vom 26. Mai 2017 (BGBl. I S. 1305) in der jeweils geltenden Fassung sowie eine Dokumentation über die Anwendung von Pflanzenschutzmitteln nach Maßgabe des Artikels 67 Absatz 1 Satz 2 der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates (ABl. L 309 vom 24.11.2009, S. 1) zu führen.
 
 (3) Bei der forstlichen Nutzung des Waldes ist das Ziel zu verfolgen, naturnahe Wälder aufzubauen und diese ohne Kahlschläge nachhaltig zu bewirtschaften. Ein hinreichender Anteil standortheimischer Forstpflanzen ist einzuhalten.
 
@@ -414,6 +408,7 @@ die Anwendung von Düngemitteln und Pflanzenschutzmitteln hat nach Maßgabe des 
 § 5 Abs. 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 3 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); geänderte Abweichung durch § 3 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 4 G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1648)
 § 5 Abs. 2 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 3 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
 § 5 Abs. 2 idF d. G v. 29.7.2009 I 2542: Nordrhein-Westfalen - Abweichung durch § 4 Abs. 1 des Landesnaturschutzgesetzes idF d. Bek. v. 21.7.2000 GV. NRW. S. 568, das durch G v. 15.11.216 GV. NRW. S. 934 neu gefasst wurde mWv 25.11.2016 (vgl. BGBl. I 2017, 3285)
+§ 5 Abs. 2 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 7 Abs. 4 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 534)
 § 5 Abs. 2 Nr. 6 letzter Halbsatz idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 3 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); Abweichung aufgeh. durch § 3 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 4 G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1656)
 § 5 Abs. 3 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 3 Abs. 3 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); Abweichung aufgeh. durch § 3 Abs. 3 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 4 G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1656)
 § 5 Abs. 4 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 3 Abs. 4 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); Abweichung aufgeh. durch § 3 Abs. 4 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 4 G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1656)
@@ -683,6 +678,7 @@ Auf die Verwertbarkeit der Darstellungen der Landschaftsplanung für die Raumord
 (5) In Planungen und Verwaltungsverfahren sind die Inhalte der Landschaftsplanung zu berücksichtigen. Insbesondere sind die Inhalte der Landschaftsplanung für die Beurteilung der Umweltverträglichkeit und der Verträglichkeit im Sinne des § 34 Absatz 1 dieses Gesetzes sowie bei der Aufstellung der Maßnahmenprogramme im Sinne der §§ 45h und 82 des Wasserhaushaltsgesetzes heranzuziehen. Soweit den Inhalten der Landschaftsplanung in den Entscheidungen nicht Rechnung getragen werden kann, ist dies zu begründen.
 
 § 9 idF d. G v. 29.7.2009 I 2542: Berlin - Abweichung durch § 7 des Berliner Naturschutzgesetzes (NatSchG Bln) v. 29.5.2013 GVBl. BE S. 140 mWv 9.6.2013 (vgl. BGBl. I 2013, 2829)
+§ 9 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 10 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 534)
 § 9 Abs. 2 Satz 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 5 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); Abweichung aufgeh. durch § 5 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 7 Buchst. a G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1657)
 
 ### § 10 Landschaftsprogramme und Landschaftsrahmenpläne
@@ -695,6 +691,7 @@ Auf die Verwertbarkeit der Darstellungen der Landschaftsplanung für die Raumord
 
 (4) Die Zuständigkeit, das Verfahren der Aufstellung und das Verhältnis von Landschaftsprogrammen und Landschaftsrahmenplänen zu Raumordnungsplänen richten sich nach Landesrecht.
 
+§ 10 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 11 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 534)
 § 10 Abs. 1 idF d. G v. 29.7.2009 I 2542: Hessen - Abweichung durch § 6 Abs. 1 Satz 1 des Hessischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (HAGBNatSchG) v. 20.12.2010 GVBl. I S. 629 mWv 29.12.2010 (vgl. BGBl. I 2011, 663)
 § 10 Abs. 1 Satz 1 idF d. G v. 29.7.2009 I 2542: Mecklenburg-Vorpommern - Abweichung durch § 11 Abs. 1 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
 § 10 Abs. 2 idF d. G v. 29.7.2009 I 2542: Mecklenburg-Vorpommern - Abweichung durch § 11 Abs. 1 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
@@ -716,6 +713,7 @@ Auf die Verwertbarkeit der Darstellungen der Landschaftsplanung für die Raumord
 (5) Die Zuständigkeit und das Verfahren zur Aufstellung der Landschaftspläne und Grünordnungspläne sowie deren Durchführung richten sich nach Landesrecht.
 
 § 11 idF d. G v. 29.7.2009 I 2542: Nordrhein-Westfalen - Abweichung durch § 7 Abs. 3 des Landesnaturschutzgesetzes idF d. Bek. v. 21.7.2000 GV. NRW. S. 568, das durch G v. 15.11.216 GV. NRW. S. 934 neu gefasst wurde mWv 25.11.2016 (vgl. BGBl. I 2017, 3285)
+§ 11 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 12 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 534)
 § 11 Abs. 1 idF d. G v. 29.7.2009 I 2542: Berlin - Abweichung durch § 9 Abs. 1 des Berliner Naturschutzgesetzes (NatSchG Bln) v. 29.5.2013 GVBl. BE S. 140 mWv 9.6.2013 (vgl. BGBl. I 2013, 2829)
 § 11 Abs. 1 Satz 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 5 Abs. 1 u. § 7 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); Abweichung aufgeh. durch § 5 Abs. 1 u. § 7 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 7 Buchst. a u. Nr. 9 Buchst. b G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1657)
 § 11 Abs. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 5 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); Abweichung aufgeh. durch § 5 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 7 Buchst. a G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1658)
@@ -755,6 +753,7 @@ auf Grund der Durchführung von vorgezogenen Kompensationsmaßnahmen, die vorgez
 § 14 Abs. 1 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 6 Abs. 1 u. 2 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
 § 14 Abs. 1 idF d. G v. 29.7.2009 I 2542: Berlin - Abweichung durch § 16 des Berliner Naturschutzgesetzes (NatSchG Bln) v. 29.5.2013 GVBl. BE S. 140 mWv 9.6.2013 (vgl. BGBl. I 2013, 2829)
 § 14 Abs. 1 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 6 Abs. 1 des Landesnaturschutzgesetzes (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569, geändert durch Gesetz vom 15.1.2015 GVBl LSA S. 21, mWv 22.1.2015 (vgl. BGBl. I 2015, 183)
+§ 14 Abs. 1 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 14 Abs. 1 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 534)
 § 14 Abs. 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 8 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); geänderte Abweichung durch § 8 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 10 G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1649)
 § 14 Abs. 2 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 6 Abs. 4 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 14 Abs. 3 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 6 des Naturschutzgesetzes des Landes Sachsen-Anhalt (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569 mWv 17.12.2010 (vgl. BGBl. I 2011, 30)
@@ -796,7 +795,10 @@ Solange und soweit das Bundesministerium für Umwelt, Naturschutz, Bau und Reakt
 § 15 Abs. 2 Satz 2 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch § 9 Abs. 3 Satz 1 des Sächsischen Naturschutzgesetzes (SächsNatSchG) idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)
 § 15 Abs. 2 Satz 3 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 9 Abs. 6 Nr. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); geänderte Abweichung durch § 9 Abs. 6 Nr 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 11 Buchst. f G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1649)
 § 15 Abs. 2 Satz 3 idF d. G v. 29.7.2009 I 2542: Hessen - Abweichung durch § 7 Abs. 2 Satz 1 u. 2 des Hessischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (HAGBNatSchG) v. 20.12.2010 GVBl. I S. 629 mWv 29.12.2010 (vgl. BGBl. I 2011, 663)
+§ 15 Abs. 2 Satz 3 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 15 Abs. 1 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 535)
+§ 15 Abs. 2 Satz 5 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 15 Abs. 2 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 535)
 § 15 Abs. 3 Satz 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 9 Abs. 3 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); Abweichung aufgeh. durch § 9 Abs. 4 (ursprünglich Abs. 3) des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 11 Buchst. b G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1658)
+§ 15 Abs. 4 Satz 1 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 15 Abs. 3 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 535)
 § 15 Abs. 4 Satz 3 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 7 Abs. 2 des Naturschutzgesetzes des Landes Sachsen-Anhalt (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569 mWv 17.12.2010 (vgl. BGBl. I 2011, 30)
 § 15 Abs. 5 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 9 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450) u. Abweichung durch § 11a Abs. 1 Satz 2 des Landesnaturschutzgesetzes (LNatSchG), idF d. Art. 1 Nr. 13 G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1646); geänderte Abweichung durch § 9 Abs. 3 (ursprünglich Abs. 2) des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 4 G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1649)
 § 15 Abs. 6 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 9 Abs. 1 des Landesnaturschutzgesetzes (LNatschG) v. 24.2.2010 GVOBl. Schl.-H. S. 301, ber. S. 486), idF d. Art. 2 Nr. 1 Buchst. a G v. 13.7.2011 GVOBl. Schl.-H. S. 225 mWv 29.7.2011 (vgl. BGBl. I 2011, 1979)
@@ -829,9 +831,11 @@ sie Programmen und Plänen nach den §§ 10 und 11 nicht widersprechen und
 5.  
 eine Dokumentation des Ausgangszustands der Flächen vorliegt; Vorschriften der Länder zu den Anforderungen an die Dokumentation bleiben unberührt.
 
+Absatz 1 Satz 1 Nummer 3 ist nicht auf durchgeführte oder zugelassene Maßnahmen des Naturschutzes und der Landschaftspflege anzuwenden, die der Kompensation von zu erwartenden Eingriffen durch Maßnahmen des Küsten- oder Hochwasserschutzes dienen und durch Träger von Küsten- oder Hochwasserschutzvorhaben durchgeführt werden oder durchgeführt worden sind.
+
 (2) Die Bevorratung von vorgezogenen Ausgleichs- und Ersatzmaßnahmen mittels Ökokonten, Flächenpools oder anderer Maßnahmen, insbesondere die Erfassung, Bewertung oder Buchung vorgezogener Ausgleichs- und Ersatzmaßnahmen in Ökokonten, deren Genehmigungsbedürftigkeit und Handelbarkeit sowie der Übergang der Verantwortung nach § 15 Absatz 4 auf Dritte, die vorgezogene Ausgleichs- und Ersatzmaßnahmen durchführen, richtet sich nach Landesrecht. Im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels richtet sich die Bevorratung nach § 56a.
 
-§ 16 Abs. 1 Nr. 1 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 7 Abs. 2 des Landesnaturschutzgesetzes (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569, geändert durch Gesetz vom 15.1.2015 GVBl LSA S. 21, mWv 22.1.2015 (vgl. BGBl. I 2015, 183)
+§ 16 Abs. 1 Satz 1 Nr. 1 (früher Abs. 1 Nr. 1) idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 7 Abs. 2 des Landesnaturschutzgesetzes (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569, geändert durch Gesetz vom 15.1.2015 GVBl LSA S. 21, mWv 22.1.2015 (vgl. BGBl. I 2015, 183)
 
 ### § 17 Verfahren; Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -881,6 +885,7 @@ Die zuständige Behörde kann die Vorlage von Gutachten verlangen, soweit dies z
 § 17 Abs. 4 Satz 1 Nr. 2 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 10 Abs. 1 des Landesnaturschutzgesetzes (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569, geändert durch Gesetz vom 15.1.2015 GVBl LSA S. 21, mWv 22.1.2015 (vgl. BGBl. I 2015, 183)
 § 17 Abs. 6 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 18 Abs. 2 Satz 2 des Naturschutzgesetzes des Landes Sachsen-Anhalt (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569 mWv 17.12.2010 (vgl. BGBl. I 2011, 30)
 § 17 Abs. 6 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 9 Satz 4 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
+§ 17 Abs. 7 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 17 Abs. 4 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 535)
 § 17 Abs. 8 Satz 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 11 Abs. 9 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); geänderte Abweichung durch § 11 Abs. 9 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 12 Buchst. b G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (§ 11 Abs. 7 neu des LNatSchG) (vgl. BGBl. I 2016, 1651)
 § 17 Abs. 8 Satz 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 11 Abs. 10 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); geänderte Abweichung durch § 11 Abs. 10 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 12 Buchst. b u. d G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (§ 11 Abs. 10 neu des LNatSchG)(vgl. BGBl. I 2016, 1651)
 § 17 Abs. 9 Satz 3 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 11 Abs. 10 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); geänderte Abweichung durch § 11 Abs. 11 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 12 Buchst. b u. e G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1652)
@@ -1006,6 +1011,7 @@ wenn sie zur Erreichung des in Absatz 1 genannten Zieles geeignet sind.
 
 (6) Auf regionaler Ebene sind insbesondere in von der Landwirtschaft geprägten Landschaften zur Vernetzung von Biotopen erforderliche lineare und punktförmige Elemente, insbesondere Hecken und Feldraine sowie Trittsteinbiotope, zu erhalten und dort, wo sie nicht in ausreichendem Maße vorhanden sind, zu schaffen (Biotopvernetzung).
 
+§ 21 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 22 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 535)
 § 21 Abs. 5 Satz 1 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 9 Abs. 2 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
 
 ### § 22 Erklärung zum geschützten Teil von Natur und Landschaft
@@ -1022,7 +1028,10 @@ wenn sie zur Erreichung des in Absatz 1 genannten Zieles geeignet sind.
 
 § 22 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 54 Abs. 3 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 22 Abs. 1 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 10 Abs. 1 Satz 3 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
+§ 22 Abs. 1 Satz 2 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 29 Abs. 2 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 536)
 § 22 Abs. 1 Satz 3 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 12 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
+§ 22 Abs. 1 Satz 3 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 28 Abs. 2 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 536)
+§ 22 Abs. 3 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 26 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 536)
 § 22 Abs. 4 Satz 1 idF d. G v. 29.7.2009 I 2542: Niedersachsen - Abweichung durch § 14 Abs. 10 Satz 2 des Niedersächsischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (NAGBNatSchG) v. 19.2.2010 Nds. GVBl. S. 104 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
 § 22 Abs. 4 Satz 1 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 12 Abs. 1 Satz 1 u. 2 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
 
@@ -1044,6 +1053,7 @@ wegen ihrer Seltenheit, besonderen Eigenart oder hervorragenden Schönheit.
 (3) In Naturschutzgebieten ist die Errichtung von Anlagen zur Durchführung von Gewässerbenutzungen im Sinne des § 9 Absatz 2 Nummer 3 und 4 des Wasserhaushaltsgesetzes verboten.
 
 § 23 Abs. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 13 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
+§ 23 Abs. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 28 Abs. 1 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 536)
 § 23 Abs. 2 Satz 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 13 Abs. 3 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); geänderte Abweichung durch § 13 Abs. 3 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 18 Buchst. b G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1652)
 
 ### § 24 Nationalparke, Nationale Naturmonumente
@@ -1139,11 +1149,14 @@ der Erhaltung, Entwicklung oder Wiederherstellung einer durch vielfältige Nutzu
 6.  
 besonders dazu geeignet sind, eine nachhaltige Regionalentwicklung zu fördern.
 
-(2) Naturparke sollen entsprechend ihren in Absatz 1 beschriebenen Zwecken unter Beachtung der Ziele des Naturschutzes und der Landschaftspflege geplant, gegliedert, erschlossen und weiterentwickelt werden.
+(2) Naturparke sollen auch der Bildung für nachhaltige Entwicklung dienen.
+
+(3) Naturparke sollen entsprechend ihren in Absatz 1 beschriebenen Zwecken unter Beachtung der Ziele des Naturschutzes und der Landschaftspflege geplant, gegliedert, erschlossen und weiterentwickelt werden.
 
 § 27 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 16 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); geänderte Abweichung durch § 16 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 20 G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1652)
 § 27 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 15 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 27 Abs. 1 Nr. 2 idF d. G v. 29.7.2009 I 2542: Niedersachsen - Abweichung durch § 20 Abs. 1 Satz 2 des Niedersächsischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (NAGBNatSchG) v. 19.2.2010 Nds. GVBl. S. 104 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
+§ 27 Abs. 1 Nr. 2 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 29 Abs. 1 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 536)
 
 ### § 28 Naturdenkmäler
 
@@ -1160,8 +1173,10 @@ wegen ihrer Seltenheit, Eigenart oder Schönheit.
 § 28 Abs. 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 17 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 § 28 Abs. 1 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 10 Abs. 2 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
 § 28 Abs. 1 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch § 21 Abs. 1 Nr. 2 des Sächsischen Naturschutzgesetzes (SächsNatSchG) idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)
+§ 28 Abs. 1 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 30 Abs. 1 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 537)
 § 28 Abs. 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 17 Abs. 3 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 § 28 Abs. 2 idF d. G v. 29.7.2009 I 2542: Niedersachsen - Abweichung durch § 21 Abs. 2 Satz 1 des Niedersächsischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (NAGBNatSchG) v. 19.2.2010 Nds. GVBl. S. 104 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
+§ 28 Abs. 2 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 30 Abs. 2 Satz 2 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 537)
 
 ### § 29 Geschützte Landschaftsbestandteile
 
@@ -1186,7 +1201,9 @@ Der Schutz kann sich für den Bereich eines Landes oder für Teile des Landes au
 (3) Vorschriften des Landesrechts über den gesetzlichen Schutz von Alleen bleiben unberührt.
 
 § 29 Abs. 1 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch § 22 Abs. 1 Nr. 3 u. 5, Abs 2 u. Abs. 3 Satz 4 des Sächsischen Naturschutzgesetzes (SächsNatSchG) idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)
+§ 29 Abs. 1 Satz 1 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 31 Abs. 1 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 537)
 § 29 Abs. 1 Satz 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 18 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); Abweichung aufgeh. durch § 18 Abs. 1 Satz 2 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 21 G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1659)
+§ 29 Abs. 1 Satz 2 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 31 Abs. 2 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 537)
 § 29 Abs. 2 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch § 22 Abs. 2 u. Abs. 3 Satz 4 des Sächsischen Naturschutzgesetzes (SächsNatSchG) idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)
 § 29 Abs. 2 idF d. G v. 29.7.2009 I 2542: Berlin - Abweichung durch § 26 Abs. 3 des Berliner Naturschutzgesetzes (NatSchG Bln) v. 29.5.2013 GVBl. BE S. 140 mWv 9.6.2013 (vgl. BGBl. I 2013, 2829)
 § 29 Abs. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Niedersachsen - Abweichung durch § 22 Abs. 4 Satz 2 des Niedersächsischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (NAGBNatSchG) v. 19.2.2010 Nds. GVBl. S. 104 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
@@ -1211,12 +1228,12 @@ offene Binnendünen, offene natürliche Block-, Schutt- und Geröllhalden, Lehm-
 Bruch-, Sumpf- und Auenwälder, Schlucht-, Blockhalden- und Hangschuttwälder, subalpine Lärchen- und Lärchen-Arvenwälder,
 
 5.  
-offene Felsbildungen, alpine Rasen sowie Schneetälchen und Krummholzgebüsche,
+offene Felsbildungen, Höhlen sowie naturnahe Stollen, alpine Rasen sowie Schneetälchen und Krummholzgebüsche,
 
 6.  
 Fels- und Steilküsten, Küstendünen und Strandwälle, Strandseen, Boddengewässer mit Verlandungsbereichen, Salzwiesen und Wattflächen im Küstenbereich, Seegraswiesen und sonstige marine Makrophytenbestände, Riffe, sublitorale Sandbänke, Schlickgründe mit bohrender Bodenmegafauna sowie artenreiche Kies-, Grobsand- und Schillgründe im Meeres- und Küstenbereich.
 
-Die Verbote des Satzes 1 gelten auch für weitere von den Ländern gesetzlich geschützte Biotope.
+Die Verbote des Satzes 1 gelten auch für weitere von den Ländern gesetzlich geschützte Biotope. Satz 1 Nummer 5 gilt nicht für genutzte Höhlen- und Stollenbereiche sowie für Maßnahmen zur Verkehrssicherung von Höhlen und naturnahen Stollen.
 
 (3) Von den Verboten des Absatzes 2 kann auf Antrag eine Ausnahme zugelassen werden, wenn die Beeinträchtigungen ausgeglichen werden können.
 
@@ -1239,18 +1256,23 @@ Die Verbote des Satzes 1 gelten auch für weitere von den Ländern gesetzlich ge
 § 30 Abs. 2 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 14 Abs. 1 iVm Anlage des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
 § 30 Abs. 2 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 23 Abs. 2 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 30 Abs. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Niedersachsen - Abweichung durch § 24 Abs. 1 des Niedersächsischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (NAGBNatSchG) v. 19.2.2010 Nds. GVBl. S. 104 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
+§ 30 Abs. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 33 Abs. 4 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 537)
+§ 30 Abs. 2 Satz 1 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 33 Abs. 1 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 538)
 § 30 Abs. 2 u. 3 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch § 26 Abs. 3 u. 4 des Sächsischen Naturschutzgesetzes (SächsNatSchG) idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)
 § 30 Abs. 2 u. 3 idF d. G v. 29.7.2009 I 2542: Rheinland-Pfalz - Abweichung durch § 15 Abs. 2 u. 3 des Landesnaturschutzgesetzes (LNatschG) v. 6.10.2015 GVBl. S. 283 mWv 16.10.2015 (vgl. BGBl. I 2016, 158)
 § 30 Abs. 3 idF d. G v. 29.7.2009 I 2542: Mecklenburg-Vorpommern - Abweichung durch § 20 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
 § 30 Abs. 3 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 23 Abs. 2, 3 u. 4 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 30 Abs. 3 idF d. G v. 29.7.2009 I 2542: Rheinland-Pfalz - Abweichung durch § 16 des Landesnaturschutzgesetzes (LNatschG) v. 6.10.2015 GVBl. S. 283 mWv 16.10.2015 (vgl. BGBl. I 2016, 158)
+§ 30 Abs. 3 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 33 Abs. 3 Satz 2 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 538)
 § 30 Abs. 3 u. 4 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 14 Abs. 3 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
+§ 30 Abs. 6 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 33 Abs. 5 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 538)
 § 30 Abs. 5 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 21 Abs. 4 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); geänderte Abweichung durch § 21 Abs. 4 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 23 Buchst. d G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1653)
 § 30 Abs. 5 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 22 Abs. 2 des Naturschutzgesetzes des Landes Sachsen-Anhalt (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569 mWv 17.12.2010 (vgl. BGBl. I 2011, 30)
 § 30 Abs. 5 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 14 Abs. 3 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
 § 30 Abs. 5 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 23 Abs. 2 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 30 Abs. 6 idF d. G v. 29.7.2009 I 2542: Sachsen-Anhalt - Abweichung durch § 22 Abs. 2 des Naturschutzgesetzes des Landes Sachsen-Anhalt (NatSchG LSA) v. 10.12.2010 GVBl. LSA S. 569 mWv 17.12.2010 (vgl. BGBl. I 2011, 30)
 § 30 Abs. 6 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 14 Abs. 3 des Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93)
+§ 30 Abs. 6 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 33 Abs. 5 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 538)
 
 Abschnitt 2 Netz „Natura 2000“
 ------------------------------
@@ -1276,9 +1298,11 @@ Der Bund und die Länder erfüllen die sich aus den Richtlinien 92/43/EWG und 20
 (6) Die Auswahl und die Erklärung von Gebieten im Sinne des Absatzes 1 Satz 1 und des Absatzes 2 im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels zu geschützten Teilen von Natur und Landschaft im Sinne des § 20 Absatz 2 richten sich nach § 57.
 
 § 32 Abs. 2 bis 4 idF d. G v. 29.7.2009 I 2542: Hessen - Abweichung durch § 14 Abs. 2 u. 3 des Hessischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (HAGBNatSchG) v. 20.12.2010 GVBl. I S. 629 mWv 29.12.2010 (vgl. BGBl. I 2011, 663)
+§ 32 Abs. 3 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 36 Abs. 2 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 538)
 § 32 Abs. 4 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 23 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 § 32 Abs. 4 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 20 Abs. 2 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
 § 32 Abs. 5 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 27 Abs. 1 Satz 3 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (ohne Mitteilung daher ohne Fundstelle im BGBl.); geänderte Abweichung durch § 27 Abs. 1 Satz 3 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 28 G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1653)
+§ 32 Abs. 5 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 36 Abs. 6 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 538)
 
 ### § 33 Allgemeine Schutzvorschriften
 
@@ -1298,6 +1322,7 @@ zur untertägigen Ablagerung von Lagerstättenwasser, das bei Maßnahmen nach Nu
 
 § 33 Abs. 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 24 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450); geänderte Abweichung durch § 24 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 2010, S 301, ber. S. 486; GVOBl. Schl.-H. 2011, S. 225, dieser geändert durch Art. 1 Nr. 25 G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1654)
 § 33 Abs. 1 idF d. G v. 29.7.2009 I 2542: Berlin - Abweichung durch § 34 des Berliner Naturschutzgesetzes (NatSchG Bln) v. 29.5.2013 GVBl. BE S. 140 mWv 9.6.2013 (vgl. BGBl. I 2013, 2830)
+§ 33 Abs. 1 Satz 2 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 37 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 539)
 
 ### § 34 Verträglichkeit und Unzulässigkeit von Projekten; Ausnahmen
 
@@ -1324,6 +1349,7 @@ zumutbare Alternativen, den mit dem Projekt verfolgten Zweck an anderer Stelle o
 (8) Die Absätze 1 bis 7 gelten mit Ausnahme von Bebauungsplänen, die eine Planfeststellung ersetzen, nicht für Vorhaben im Sinne des § 29 des Baugesetzbuches in Gebieten mit Bebauungsplänen nach § 30 des Baugesetzbuches und während der Planaufstellung nach § 33 des Baugesetzbuches.
 
 § 34 Abs. 1 Satz 2 idF d. G v. 29.7.2009 I 2542: Mecklenburg-Vorpommern - Abweichung durch § 21 Abs. 6 des Naturschutzausführungsgesetzes (NatSchAG M-V) v. 23.2.2010 GVOBl. M.-V. S. 66 mWv 1.3.2010 (vgl. BGBl. I 2010, 1621)
+§ 34 Abs. 6 Satz 1 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 38 Abs. 4 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 539)
 
 ### § 35 Gentechnisch veränderte Organismen
 
@@ -1341,6 +1367,7 @@ ist § 34 Absatz 1 und 2 entsprechend anzuwenden.
 § 35 idF d. G v. 29.7.2009 I 2542: Rheinland-Pfalz - Abweichung durch § 19 des Landesnaturschutzgesetzes (LNatschG) v. 6.10.2015 GVBl. S. 283 mWv 16.10.2015 (vgl. BGBl. I 2016, 158)
 § 35 idF d. G v. 29.7.2009 I 2542: Nordrhein-Westfalen - Abweichung durch § 54 Abs. 1 des Landesnaturschutzgesetzes idF d. Bek. v. 21.7.2000 GV. NRW. S. 568, das durch G v. 15.11.216 GV. NRW. S. 934 neu gefasst wurde mWv 25.11.2016 (vgl. BGBl. I 2017, 3285)
 § 35 Nr. 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 26 des Landesnaturschutzgesetzes (LNatSchG), idF d. Art. 1 Nr. 27 G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1647)
+§ 35 Nr. 2 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 35 Abs. 5 und 6 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 539)
 
 ### § 36 Pläne
 
@@ -2226,6 +2253,7 @@ dies aus Gründen des überwiegenden öffentlichen Interesses, einschließlich s
 Der Bund, die Länder und sonstige juristische Personen des öffentlichen Rechts stellen in ihrem Eigentum oder Besitz stehende Grundstücke, die sich nach ihrer natürlichen Beschaffenheit für die Erholung der Bevölkerung eignen oder den Zugang der Allgemeinheit zu solchen Grundstücken ermöglichen oder erleichtern, in angemessenem Umfang für die Erholung bereit, soweit dies mit einer nachhaltigen Nutzung und den sonstigen Zielen von Naturschutz und Landschaftspflege vereinbar ist und eine öffentliche Zweckbindung dem nicht entgegensteht.
 
 § 62 idF d. G v. 29.7.2009 I 2542: Bayern - Abweichung durch Art. 37 des Bayerischen Naturschutzgesetzes (BayNatSchG) v. 23.2.2011 GVBl S. 82, BayRS 791-1-UG mWv 1.3.2011 (vgl. BGBl. I 2011, 365)
+§ 62 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 48 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 539)
 
 Kapitel 8 Mitwirkung von anerkannten Naturschutzvereinigungen
 -------------------------------------------------------------
@@ -2292,6 +2320,7 @@ soweit sie durch das Vorhaben in ihrem satzungsgemäßen Aufgabenbereich berühr
 § 63 Abs. 2 idF d. G v. 29.7.2009 I 2542: Hamburg - Abweichung durch § 21 Abs. 1 u. 2 d. Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402 mWv 1.6.2010 (vgl. BGBl. I 2011, 93); geänderte Abweichung durch § 21 Abs. 1 Nr. 4 d. Hamburgischen Gesetzes zur Ausführung des Bundesnaturschutzgesetzes (HmbBNatSchAG) v. 11.5.2010 HmbGVBl. S. 350, 402, dieser geändert durch Art. 2 G v. 2.12.2013 HmbGVBl. S. 484, mWv 7.12.2013 (vgl. BGBl. I 2015, 123)
 § 63 Abs. 2 idF d. G v. 29.7.2009 I 2542: Berlin - Abweichung durch § 45 Abs. 1 d. Berliner Naturschutzgesetzes (NatSchG Bln) v. 29.5.2013 GVBl. BE S. 140 mWv 9.6.2013 (vgl. BGBl. I 2013, 2830)
 § 63 Abs. 2 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 40 Abs. 2 des Landesnaturschutzgesetzes (LNatSchG), idF d. Art. 1 Nr. 39 G v. 27.5.2016 GVOBl. Schl.-H. S. 162, mWv 24.6.2016 (vgl. BGBl. I 2016, 1647)
+§ 63 Abs. 2 idF d. G v. 29.7.2009 I 2542: Baden-Württemberg - Abweichung durch § 49 Abs. 1 des Gesetzes des Landes Baden-Württemberg zum Schutz der Natur und zur Pflege der Landschaft (NatSchG) v. 23.6.2015 GBl. BW 2015, S. 585, geändert durch Artikel 1 des Gesetzes vom 21.11.2017 GBl. BW 2017, S. 597, ber. S. 643, ber. 2018 S. 4, mWv. 14.7.2015 (vgl. BGBl. I 2018, 539)
 § 63 Abs. 2 Nr. 8 idF d. G v. 29.7.2009 I 2542: Sachsen - Abweichung durch § 56 d. Sächsischen Naturschutzgesetzes (SächsNatSchG) idF d. Bek. v. 3.7.2007 SächsGVBl. S. 321, zuletzt geändert durch Artikel 17 des G v. 15.12.2010 SächsGVBl. S. 387, 398, mWv 15.5.2010 (vgl. BGBl. I 2011, 842)
 § 63 Abs. 3 Satz 1 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 40 Abs. 3 d. Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 
@@ -2574,7 +2603,8 @@ entgegen Artikel 3 Absatz 1 Satz 1 einen Pelz einer dort genannten Tierart oder 
 
 § 69 Abs. 3 Nr. 1 idF d. G v. 29.7.2009 I 2542: Niedersachsen - Abweichung durch § 43 Abs. 1 des Niedersächsischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (NAGBNatSchG) v. 19.2.2010 Nds. GVBl. S. 104 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
 § 69 Abs. 3 Nr. 5 idF d. G v. 29.7.2009 I 2542: Niedersachsen - Abweichung durch § 43 Abs. 2 des Niedersächsischen Ausführungsgesetzes zum Bundesnaturschutzgesetz (NAGBNatSchG) v. 19.2.2010 Nds. GVBl. S. 104 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
-§ 69 Abs. 3 Nr. 19 u. 26 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 57 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
+§ 69 Abs. 3 Nr. 19 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 57 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
+§ 69 Abs. 3 Nr. 26 idF d. G v. 29.7.2009 I 2542: Schleswig-Holstein - Abweichung durch § 57 Abs. 1 des Landesnaturschutzgesetzes (LNatSchG) v. 24.2.2010 GVOBl. Schl.-H. S. 301 mWv 1.3.2010 (vgl. BGBl. I 2010, 450)
 
 ### § 70 Verwaltungsbehörde
 
