@@ -2,10 +2,7 @@ Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugniss
 ========================================================================================================================================================
 
 Stand  
-Geändert durch Art. 1 AnO v. 5.9.2014 I 1545
-
-Hinweis  
-Änderung durch Art. 1 AnO v. 14.12.2016 I 3068 (Nr. 63) noch nicht berücksichtigt
+Zuletzt geändert durch Art. 1 AnO v. 17.9.2017 I 3430
 
 ### 
 
@@ -39,6 +36,9 @@ des Zentralen Sanitätsdienstes der Bundeswehr,
 e)  
 der Streitkräftebasis,
 
+f)  
+des Cyber- und Informationsraums,
+
 2.  
 der Befehlshaberin oder dem Befehlshaber des Einsatzführungskommandos der Bundeswehr,
 
@@ -55,15 +55,18 @@ c)
 des Bundesamtes für das Personalmanagement der Bundeswehr,
 
 d)  
-des Bundesamtes für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr,
+des Bundesamtes für den Militärischen Abschirmdienst,
 
 e)  
-des Bundessprachenamtes,
+des Bundesamtes für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr,
 
 f)  
-der Truppendienstgerichte,
+des Bundessprachenamtes,
 
 g)  
+der Truppendienstgerichte,
+
+h)  
 der Universitäten der Bundeswehr,
 
 4.  
@@ -73,19 +76,25 @@ der Amtschefin oder dem Amtschef des Luftfahrtamtes der Bundeswehr,
 der Präsidentin, dem Präsidenten, der Amtschefin oder dem Amtschef des Planungsamtes der Bundeswehr,
 
 6.  
-der Leiterin oder dem Leiter des Evangelischen Kirchenamtes für die Bundeswehr,
+der Kommandeurin oder dem Kommandeur der Führungsakademie der Bundeswehr,
 
 7.  
-dem Leiter des Katholischen Militärbischofsamtes,
+der Kommandeurin oder dem Kommandeur des Zentrums Innere Führung,
 
 8.  
-der Bundeswehrdisziplinaranwältin oder dem Bundeswehrdisziplinaranwalt,
+der Leiterin oder dem Leiter des Evangelischen Kirchenamtes für die Bundeswehr,
 
 9.  
-der dienstaufsichtführenden Rechtsberaterin oder dem dienstaufsichtführenden Rechtsberater in den dem Bundesministerium der Verteidigung unmittelbar nachgeordneten Dienststellen sowie
+dem Leiter des Katholischen Militärbischofsamtes,
 
 10.  
-der Leiterin oder dem Leiter des Fachbereichs Bundeswehrverwaltung der Fachhochschule des Bundes für öffentliche Verwaltung.
+der Bundeswehrdisziplinaranwältin oder dem Bundeswehrdisziplinaranwalt,
+
+11  
+der dienstaufsichtführenden Rechtsberaterin oder dem dienstaufsichtführenden Rechtsberater in den dem Bundesministerium der Verteidigung unmittelbar nachgeordneten Dienststellen sowie
+
+12.  
+der Leiterin oder dem Leiter des Fachbereichs Bundeswehrverwaltung der Hochschule des Bundes für öffentliche Verwaltung.
 
 ### § 2
 
