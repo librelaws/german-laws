@@ -2,7 +2,7 @@ Bundes-Bodenschutz- und Altlastenverordnung (BBodSchV)
 ======================================================
 
 Stand  
-Zuletzt geändert durch Art. 102 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 3 Abs. 4 V v. 27.9.2017 I 3465
 
 ### 
 
@@ -337,7 +337,7 @@ eine erhebliche Anreicherung von anderen Schadstoffen erfolgt, die auf Grund ihr
 
 ### § 12 Anforderungen an das Aufbringen und Einbringen von Materialien auf oder in den Boden
 
-(1) Zur Herstellung einer durchwurzelbaren Bodenschicht dürfen in und auf Böden nur Bodenmaterial sowie Baggergut nach DIN 19731 (Ausgabe 5/98) und Gemische von Bodenmaterial mit solchen Abfällen, die die stofflichen Qualitätsanforderungen der nach § 11 des Kreislaufwirtschaftsgesetzes und § 8 des bis zum 1. Juni 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen Verordnungen sowie der Klärschlammverordnung erfüllen, auf- und eingebracht werden.
+(1) Zur Herstellung einer durchwurzelbaren Bodenschicht dürfen in und auf Böden nur Bodenmaterial sowie Baggergut nach DIN 19731 (Ausgabe 5/98) und Gemische von Bodenmaterial mit solchen Abfällen, die die stofflichen Qualitätsanforderungen der nach § 11 des Kreislaufwirtschaftsgesetzes und § 8 des bis zum 1. Juni 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen Verordnungen erfüllen, auf- und eingebracht werden.
 
 (2) Das Auf- und Einbringen von Materialien auf oder in eine durchwurzelbare Bodenschicht oder zur Herstellung einer durchwurzelbaren Bodenschicht im Rahmen von Rekultivierungsvorhaben einschließlich Wiedernutzbarmachung ist zulässig, wenn
 
@@ -534,13 +534,13 @@ die Möglichkeit der inhalativen Aufnahme von Bodenpartikeln,
 die Relevanz weiterer Wirkungspfade.
 
 Für die Beurteilung der Gefahren durch die inhalative Aufnahme von Bodenpartikeln sind die obersten zwei Zentimeter des Bodens maßgebend. Inhalativ bedeutsam sind solche Schadstoffe, für die sich der inhalative Pfad nach den Ableitungsmaßstäben gemäß § 4 Abs. 5 dieser Verordnung als ausschlaggebend für die Festlegung des Prüfwertes erwiesen hat. Durch Rückstellproben ist sicherzustellen, daß der Schadstoffgehalt in der für die Staubbildung relevanten Feinkornfraktion bis 63 mym gegebenenfalls getrennt analysiert werden kann.
-Ist auf Grund vorliegender Erkenntnisse davon auszugehen, daß die Schadstoffe in der beurteilungsrelevanten Bodenschicht annähernd gleichmäßig über eine Fläche verteilt sind, kann auf Flächen bis 10.000 qm für jeweils 1.000 qm, mindestens aber von 3 Teilflächen, eine Mischprobe entnommen werden. Die Mischprobe soll aus 15 bis 25 Einzelproben einer Beprobungstiefe gewonnen werden. Bei Flächen unter 500 qm sowie in Hausgärten oder sonstigen Gärten entsprechender Nutzung kann auf eine Teilung verzichtet werden. Für Flächen über 10.000 qm sollen mindestens jedoch 10 Teilflächen beprobt werden.
+Ist auf Grund vorliegender Erkenntnisse davon auszugehen, daß die Schadstoffe in der beurteilungsrelevanten Bodenschicht annähernd gleichmäßig über eine Fläche verteilt sind, kann auf Flächen bis 10 000 qm für jeweils 1 000 qm, mindestens aber von 3 Teilflächen, eine Mischprobe entnommen werden. Die Mischprobe soll aus 15 bis 25 Einzelproben einer Beprobungstiefe gewonnen werden. Bei Flächen unter 500 qm sowie in Hausgärten oder sonstigen Gärten entsprechender Nutzung kann auf eine Teilung verzichtet werden. Für Flächen über 10 000 qm sollen mindestens jedoch 10 Teilflächen beprobt werden.
 
   
 2.1.2  
 Wirkungspfad Boden - Nutzpflanze
 
-Bei landwirtschaftlich einschließlich gartenbaulich genutzten Böden mit annähernd gleichmäßiger Bodenbeschaffenheit und Schadstoffverteilung soll auf Flächen bis 10 Hektar in der Regel für jeweils 1 Hektar, mindestens aber von 3 Teilflächen eine Mischprobe entsprechend den Beprobungstiefen entnommen werden. Bei Flächen unter 5.000 qm kann auf eine Teilung verzichtet werden. Für Flächen größer 10 Hektar sollen mindestens jedoch 10 Teilflächen beprobt werden. Die Probennahme erfolgt nach den Regeln der Probennahme auf landwirtschaftlich genutzten Böden (E DIN ISO 10381-1: 02.96, E DIN ISO 10381-4: 02.96) durch 15 bis 25 Einzeleinstiche je Teilfläche, die zu jeweils einer Mischprobe vereinigt werden.
+Bei landwirtschaftlich einschließlich gartenbaulich genutzten Böden mit annähernd gleichmäßiger Bodenbeschaffenheit und Schadstoffverteilung soll auf Flächen bis 10 Hektar in der Regel für jeweils 1 Hektar, mindestens aber von 3 Teilflächen eine Mischprobe entsprechend den Beprobungstiefen entnommen werden. Bei Flächen unter 5 000 qm kann auf eine Teilung verzichtet werden. Für Flächen größer 10 Hektar sollen mindestens jedoch 10 Teilflächen beprobt werden. Die Probennahme erfolgt nach den Regeln der Probennahme auf landwirtschaftlich genutzten Böden (E DIN ISO 10381-1: 02.96, E DIN ISO 10381-4: 02.96) durch 15 bis 25 Einzeleinstiche je Teilfläche, die zu jeweils einer Mischprobe vereinigt werden.
 In Nutzgärten erfolgt die Probennahme in der Regel durch Entnahme einer grundstücksbezogenen Mischprobe für jede Beprobungstiefe und im übrigen in Anlehnung an die Regeln der Probennahme auf Ackerflächen.
 Für die Eignung von Geräten zur Probennahme ist E DIN ISO 10381-2: 02.96 maßgebend.
 
@@ -648,7 +648,7 @@ Verfahren zur Herstellung von Eluaten mit Wasser</strong></td>
 **Gewinnung des Bodensättigungsextraktes:**Zur Vorbereitung wird der Bodenprobe in einem Polyethylen-Gefäß langsam soviel bidestilliertes Wasser zugegeben, daß sie vollständig durchfeuchtet ist. Die benötigte Menge an Wasser zur Vorbefeuchtung ist bodenartabhängig und sollte ungefähr der Feldkapazität entsprechen. Bei sandigen Proben wird von ca. 25%, bei lehmig/schluffigen Proben von ca. 35% und bei tonigen Proben von ca. 40% der Einwaage lufttrockenen Bodens ausgegangen. Die zugegebene Wassermenge ist gravimetrisch zu erfassen und zu notieren. Die Probe wird gut vermischt und unter Verdunstungsschutz 24 h bei 5 Grad C stehengelassen.Zur Herstellung des Bodensättigungsextrakts wird das vorbefeuchtete Bodenmaterial in Zentrifugenbecher überführt. Bidestilliertes Wasser wird unter ständigem Rühren langsam zugegeben, bis die Fließgrenze erreicht ist (Bildung einer glänzenden Oberfläche und Zerfließen einer Spachtelkerbe). Bei tonigen Proben muß 15 min bis zum Abschluß der Quellung gewartet und gegebenenfalls Wasser nachgegeben werden. Die zugegebene Wassermenge wird gravimetrisch erfaßt und die Bodenpaste mit einem Glasstab verrührt. Die Bodenpaste ist zur Gleichgewichtseinstellung 24 h im Kühlschrank oder -raum bei 5 Grad C unter Verdunstungsschutz aufzubewahren.Aus der Einwaage lufttrockenen Bodens und zweimaliger Wasserzugabe wird das Boden/Wasser-Verhältnis berechnet. Dabei ist der Wassergehalt der lufttrockenen Probe an einem Aliquot separat zu erfassen (Trocknung bei 105 Grad C bis zur Gewichtskonstanz) und rechnerisch zu berücksichtigen.Zur Gewinnung der Gleichgewichtsbodenlösung erfolgt die Zentrifugation in einer Kühlzentrifuge für 30 min. Die überstehende Lösung wird dekantiert und zur Abtrennung suspendierter Partikel in zuvor gewogene Polyethylen-Weithalsflaschen mittels Unterdruck membranfiltriert. Die Filtratmenge ist gravimetrisch zu bestimmen. Die Lösungen sind durch Zugabe von 10 Volumenanteilen Salpetersäure (c = 5 mol/l) zu stabilisieren, wobei die Säurezugabe bei der Auswertung von Meßergebnissen und der Erstellung von Kalibrierlösungen zu berücksichtigen ist.
 
 (2)  
-**Filtrationsschritt:**Verwendet wird eine Druckfiltrationseinheit für Membranfilter (142 mm Durchmesser, medienführende Teile aus PTFE) mit einem Membranfilter mit 0,45 mym Porenweite. Bei Nutzung abweichender Geräte ist das zu filtrierende Volumen entsprechend der Filterfläche zu verändern; das Verhältnis von filtrierendem Volumen und Filterfläche ist einzuhalten.Nach dem Schütteln ist die Suspension ca. 15 min zur Sedimentation der gröberen Partikel stehenzulassen. Die überstehende Flüssigkeit ist im Zentrifugenbecher weitestgehend zu dekantieren. Die Zentrifugation erfolgt für 30 min mit 2.000 g. Danach erfolgt das weitestgehend vollständige Dekantieren der überstehenden Flüssigkeit in die Membrandruckfiltrationsapparatur. Nach 5 min druckloser Filtration wird zur Beschleunigung der Filtration ein Druck von 1 bar angelegt. Haben nach 15 min weniger als zwei Drittel des Eluats das Filter passiert, wird der Druck auf 2 bar erhöht. Falls erforderlich, wird der Druck nach weiteren 30 min auf 3,5 bar erhöht. Die Filtration wird solange fortgesetzt, bis der gesamte Überstand der Zentrifugation das Filter passiert hat. Ist die Filtration nach 120 min noch unvollständig, wird sie abgebrochen und mit dem unvollständigen Filtrat weitergearbeitet.
+**Filtrationsschritt:**Verwendet wird eine Druckfiltrationseinheit für Membranfilter (142 mm Durchmesser, medienführende Teile aus PTFE) mit einem Membranfilter mit 0,45 mym Porenweite. Bei Nutzung abweichender Geräte ist das zu filtrierende Volumen entsprechend der Filterfläche zu verändern; das Verhältnis von filtrierendem Volumen und Filterfläche ist einzuhalten.Nach dem Schütteln ist die Suspension ca. 15 min zur Sedimentation der gröberen Partikel stehenzulassen. Die überstehende Flüssigkeit ist im Zentrifugenbecher weitestgehend zu dekantieren. Die Zentrifugation erfolgt für 30 min mit 2 000 g. Danach erfolgt das weitestgehend vollständige Dekantieren der überstehenden Flüssigkeit in die Membrandruckfiltrationsapparatur. Nach 5 min druckloser Filtration wird zur Beschleunigung der Filtration ein Druck von 1 bar angelegt. Haben nach 15 min weniger als zwei Drittel des Eluats das Filter passiert, wird der Druck auf 2 bar erhöht. Falls erforderlich, wird der Druck nach weiteren 30 min auf 3,5 bar erhöht. Die Filtration wird solange fortgesetzt, bis der gesamte Überstand der Zentrifugation das Filter passiert hat. Ist die Filtration nach 120 min noch unvollständig, wird sie abgebrochen und mit dem unvollständigen Filtrat weitergearbeitet.
 
 3.1.3  
 Analysenverfahren
@@ -1161,11 +1161,11 @@ Maßeinheiten
 | 1 ng (Nanogramm)                                | = 10(hoch)-9 g          | = 0,000 000 001 Gramm                                      |
 | 1 myg (Mikrogramm)                              | = 10(hoch)-6 g          | = 0,000 001 Gramm                                          |
 | 1 mg (Milligramm)                               | = 10(hoch)-3 g          | = 0,001 Gramm                                              |
-| 1 kg (Kilogramm)                                | = 10(hoch) 3 g          | = 1.000 Gramm                                              |
+| 1 kg (Kilogramm)                                | = 10(hoch) 3 g          | = 1 000 Gramm                                              |
 | 1 mym (Mikrometer)                              | = 10(hoch)-6 m          | = 0,000 001 Meter                                          |
 | 1 mm (Millimeter)                               | = 10(hoch)-3 m          | = 0,001 Meter                                              |
 | 1 cm (Zentimeter)                               | = 10(hoch)-2 m          | = 0,01 Meter                                               |
-| 1 ha (Hektar)                                   | = 10(hoch) 4 qm         | = 10.000 Quadratmeter                                      |
+| 1 ha (Hektar)                                   | = 10(hoch) 4 qm         | = 10 000 Quadratmeter                                      |
 | Grad C - Grad Celsius                           |                         |                                                            |
 | 5.2                                             | Instrumentelle Analytik |                                                            |
 | AAS                                             | -                       | Atomabsorptionsspektrometrie                               |
@@ -1318,7 +1318,7 @@ DIN 38414 - 4: 10.84
 Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung; Schlamm und Sedimente (Gruppe S); Bestimmung der Eluierbarkeit mit Wasser (S 4)
 DIN 38414 - 20: 01.96
 Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung - Schlamm und Sedimente (Gruppe S) - Teil 20: Bestimmung von 6 polychlorierten Biphenylen (PCB) (S 20)
-DIN 38414 - 24: 04.98
+DIN 38414-24:2000-10
 Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung - Schlamm und Sedimente (Gruppe S) - Teil 24: Bestimmung von polychlorierten Dibenzodioxinen (PCDD) und polychlorierten Dibenzofuranen (PCDF) (S 24)
 DIN EN 1483: 08.97
 Wasseranalytik - Bestimmung von Quecksilber; Deutsche Fassung EN 1483: 1997 (E 12)
@@ -1353,7 +1353,6 @@ Blatt 2: Techniken für die aktive Entnahme von Bodenluftproben (Januar 1998);
 -  
 Blatt 3: Messen organischer Bodenverunreinigungen; Gaschromatographische Bestimmung von niedrigsiedenden organischen Verbindungen in Bodenluft nach Anreicherung an Aktivkohle oder XAD-4 und Desorption mit organischen Lösungsmitteln (Entwurf November 1996);
 
-VDI-Richtlinie 3499, Blatt 1: Messen von Emissionen - Messen von Reststoffen. Messen von polychlorierten Dibenzodioxinen und -furanen in Rein- und Rohgas von Feuerungsanlagen mit der Verdünnungsmethode, Bestimmung in Filterstaub, Kesselasche und in Schlacken. VDI-Handbuch Reinhaltung der Luft, Band 5 (Entwurf März 1990)
 Arbeitsgruppe Bodenkunde der Geologischen Landesämter und der Bundesanstalt für Geowissenschaften und Rohstoffe (1994): Bodenkundliche Kartieranleitung. - 4. Auflage, berichtigter Nachdruck Hannover 1996, E. Schweizerbart'sche Verlagsbuchhandlung Stuttgart
 Landesumweltamt Nordrhein-Westfalen (LUA NRW): Bestimmung von polyzyklischen aromatischen Kohlenwasserstoffen (PAK) in Bodenproben. Merkblätter LUA NRW Nr. 1, Essen 1994
 Hessische Landesanstalt für Umwelt (LfU HE): Bestimmung von Polycyclischen Aromatischen Kohlenwasserstoffen in Feststoffen aus dem Altlastenbereich. Handbuch Altlasten, Band 7, Wiesbaden 1998
@@ -1413,7 +1412,8 @@ Park- und FreizeitanlagenAnlagen für soziale, gesundheitliche und sportliche Zw
 d)  
 Industrie- und GewerbegrundstückeUnbefestigte Flächen von Arbeits- und Produktionsstätten, die nur während der Arbeitszeit genutzt werden.
 
-1.2 Maßnahmenwerte nach § 8 Abs. 1 Satz 2 Nr. 2 des Bundes-Bodenschutzgesetzes für die direkte Aufnahme von Dioxinen/Furanen auf Kinderspielflächen, in Wohngebieten, Park- und Freizeitanlagen und Industrie- und Gewerbegrundstücken (in ng/kg Trockenmasse, Feinboden, Analytik nach Anhang 1)
+1.2  
+Maßnahmenwerte nach § 8 Abs. 1 Satz 2 Nr. 2 des Bundes-Bodenschutzgesetzes für die direkte Aufnahme von Dioxinen/Furanen auf Kinderspielflächen, in Wohngebieten, Park- und Freizeitanlagen und Industrie- und Gewerbegrundstücken (in ng/kg Trockenmasse, Feinboden, Analytik nach Anhang 1)
 
 |                         |                                 |
 |-------------------------|---------------------------------|
@@ -1424,7 +1424,10 @@ Industrie- und GewerbegrundstückeUnbefestigte Flächen von Arbeits- und Produkt
 1.3  
 Anwendung der Maßnahmenwerte
 
-Bei Vorliegen dioxinhaltiger Laugenrückstände aus Kupferschiefer ("Kieselrot") erfolgt eine Anwendung der Maßnahmenwerte aufgrund der geringen Resorption im menschlichen Organismus nicht unmittelbar zum Schutz der menschlichen Gesundheit als vielmehr zum Zweck der nachhaltigen Gefahrenabwehr. 1.4 Prüfwerte nach § 8 Abs. 1 Satz 2 Nr. 1 des Bundes-Bodenschutzgesetzes für die direkte Aufnahme von Schadstoffen auf Kinderspielflächen, in Wohngebieten, Park- und Freizeitanlagen und Industrie- und Gewerbegrundstücken (in mg/kg Trockenmasse, Feinboden, Analytik nach Anhang 1)
+Bei Vorliegen dioxinhaltiger Laugenrückstände aus Kupferschiefer ("Kieselrot") erfolgt eine Anwendung der Maßnahmenwerte aufgrund der geringen Resorption im menschlichen Organismus nicht unmittelbar zum Schutz der menschlichen Gesundheit als vielmehr zum Zweck der nachhaltigen Gefahrenabwehr.
+
+1.4  
+Prüfwerte nach § 8 Abs. 1 Satz 2 Nr. 1 des Bundes-Bodenschutzgesetzes für die direkte Aufnahme von Schadstoffen auf Kinderspielflächen, in Wohngebieten, Park- und Freizeitanlagen und Industrie- und Gewerbegrundstücken (in mg/kg Trockenmasse, Feinboden, Analytik nach Anhang 1)
 
 <table>
 <colgroup>
@@ -1505,6 +1508,8 @@ Bei Vorliegen dioxinhaltiger Laugenrückstände aus Kupferschiefer ("Kieselrot")
 </tbody>
 </table>
 
+<!-- -->
+
 **2.**  
 **Wirkungspfad Boden - Nutzpflanze**
 
@@ -1520,7 +1525,8 @@ NutzgartenHausgarten-, Kleingarten- und sonstige Gartenflächen, die zum Anbau v
 c)  
 GrünlandFlächen unter Dauergrünland
 
-2.2 Prüf- und Maßnahmenwerte nach § 8 Abs. 1 Satz 2 Nr. 1 und 2 des Bundes-Bodenschutzgesetzes für den Schadstoffübergang Boden - Nutzpflanze auf Ackerbauflächen und in Nutzgärten im Hinblick auf die Pflanzenqualität (in mg/kg Trockenmasse, Feinboden, Analytik nach Anhang 1)
+2.2  
+Prüf- und Maßnahmenwerte nach § 8 Abs. 1 Satz 2 Nr. 1 und 2 des Bundes-Bodenschutzgesetzes für den Schadstoffübergang Boden - Nutzpflanze auf Ackerbauflächen und in Nutzgärten im Hinblick auf die Pflanzenqualität (in mg/kg Trockenmasse, Feinboden, Analytik nach Anhang 1)
 
  
 
@@ -1582,7 +1588,8 @@ Benzo(a)pyren
 
 -
 
-2.3 Maßnahmenwerte nach § 8 Abs. 1 Satz 2 Nr. 2 des Bundes-Bodenschutzgesetzes für den Schadstoffübergang Boden - Nutzpflanze auf Grünlandflächen im Hinblick auf die Pflanzenqualität (in mg/kg Trockenmasse, Feinboden, Arsen und Schwermetalle im Königswasser-Extrakt, Analytik nach Anhang 1)
+2.3  
+Maßnahmenwerte nach § 8 Abs. 1 Satz 2 Nr. 2 des Bundes-Bodenschutzgesetzes für den Schadstoffübergang Boden - Nutzpflanze auf Grünlandflächen im Hinblick auf die Pflanzenqualität (in mg/kg Trockenmasse, Feinboden, Arsen und Schwermetalle im Königswasser-Extrakt, Analytik nach Anhang 1)
 
  
 
@@ -1598,7 +1605,7 @@ Arsen
 
 Blei
 
-1.200
+1 200
 
 Cadmium
 
@@ -1606,11 +1613,11 @@ Cadmium
 
 Kupfer
 
-1.300
+1 300
 
 Nickel
 
-1.900
+1 900
 
 Quecksilber
 
@@ -1624,7 +1631,8 @@ Polychlorierte Biphenyle (PCB(tief)6)
 
 0,2
 
-2.4 Prüfwerte nach § 8 Abs. 1 Satz 2 Nr. 1 des Bundes-Bodenschutzgesetzes für den Schadstoffübergang Boden - Pflanze auf Ackerbauflächen im Hinblick auf Wachstumsbeeinträchtigungen bei Kulturpflanzen (in mg/kg Trockenmasse, Feinboden, im Ammoniumnitrat-Extrakt, Analytik nach Anhang 1)
+2.4  
+Prüfwerte nach § 8 Abs. 1 Satz 2 Nr. 1 des Bundes-Bodenschutzgesetzes für den Schadstoffübergang Boden - Pflanze auf Ackerbauflächen im Hinblick auf Wachstumsbeeinträchtigungen bei Kulturpflanzen (in mg/kg Trockenmasse, Feinboden, im Ammoniumnitrat-Extrakt, Analytik nach Anhang 1)
 
  
 
@@ -1960,7 +1968,7 @@ Bei den Vorsorgewerten der Tabelle 4.1 ist der Säuregrad der Böden wie folgt z
 Bei Böden der Bodenart Ton mit einem pH-Wert von &lt; 6,0 gelten für Cadmium, Nickel und Zink die Vorsorgewerte der Bodenart Lehm/Schluff.
 
 -  
-Bei Böden der Bodenart Lehm/Schluff mit einem pH-Wert von &lt; 6,0 gelten für Cadmium, Nickel und Zink die Vorsorgewerte der Bodenart Sand. § 4 Abs. 8 Satz 2 der Klärschlammverordnung vom 15. April 1992 (BGBl. I S. 912), zuletzt geändert durch Verordnung vom 6. März 1997 (BGBl. I S. 446), bleibt unberührt.
+Bei Böden der Bodenart Lehm/Schluff mit einem pH-Wert von &lt; 6,0 gelten für Cadmium, Nickel und Zink die Vorsorgewerte der Bodenart Sand.
 
 -  
 Bei Böden mit einem pH-Wert von &lt; 5,0 sind die Vorsorgewerte für Blei entsprechend den ersten beiden Anstrichen herabzusetzen.
@@ -2001,7 +2009,7 @@ Quecksilber
 
 Zink
 
-1.200
+1 200
 
 Summe der 2,3,7,8 - TCDD-Toxizitätsäquivalente (nach NATO/CCMS).Extraktionsverfahren für Arsen und Schwermetalle: AN = Ammoniumnitrat, KW = Königswasser.Bei Böden mit zeitweise reduzierenden Verhältnissen gilt ein Prüfwert von 50 mg/kg Trockenmasse.Auf Flächen mit Brotweizenanbau oder Anbau stark Cadmiumanreichernder Gemüsearten gilt als Maßnahmenwert 0,04 mg/kg Trockenmasse; ansonsten gilt als Maßnahmenwert 0,1 mg/kg Trockenmasse.Bei Grünlandnutzung durch Schafe gilt als Maßnahmenwert 200 mg/kg Trockenmasse.
 
