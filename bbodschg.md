@@ -2,7 +2,7 @@ Gesetz zum Schutz vor schädlichen Bodenveränderungen und zur Sanierung von Alt
 ===============================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 101 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 3 Abs. 3 V v. 27.9.2017 I 3465
 
 ### 
 
@@ -136,7 +136,7 @@ zur Beseitigung oder Verminderung schädlicher Veränderungen der physikalischen
 (1) Dieses Gesetz findet auf schädliche Bodenveränderungen und Altlasten Anwendung, soweit
 
 1.  
-Vorschriften des Kreislaufwirtschaftsgesetzes über das Aufbringen von Abfällen zur Verwertung als Düngemittel im Sinne des § 2 des Düngegesetzes und der hierzu auf Grund des Kreislaufwirtschaftsgesetzes und des bis zum 1. Juni 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen Rechtsverordnungen sowie der Klärschlammverordnung vom 15. April 1992 (BGBl. I S. 912), die zuletzt durch Artikel 9 der Verordnung vom 9. November 2010 (BGBl. I S. 1504) geändert worden ist,
+Vorschriften des Kreislaufwirtschaftsgesetzes über das Aufbringen von Abfällen zur Verwertung als Düngemittel im Sinne des § 2 des Düngegesetzes und der hierzu auf Grund des Kreislaufwirtschaftsgesetzes und des bis zum 1. Juni 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen Rechtsverordnungen,
 
 2.  
 Vorschriften des Kreislaufwirtschaftsgesetzes über die Zulassung und den Betrieb von Abfallbeseitigungsanlagen zur Beseitigung von Abfällen sowie über die Stillegung von Deponien,
@@ -170,7 +170,7 @@ Vorschriften des Bundes-Immissionsschutzgesetzes und der auf Grund dieses Gesetz
 
 Einwirkungen auf den Boden nicht regeln.
 
-(2) Dieses Gesetz findet keine Anwendung auf Anlagen, Tätigkeiten, Geräte oder Vorrichtungen, Kernbrennstoffe und sonstige radioaktive Stoffe, soweit Rechtsvorschriften den Schutz vor den Gefahren der Kernenergie und der Wirkung ionisierender Strahlen regeln. Dieses Gesetz gilt ferner nicht für das Aufsuchen, Bergen, Befördern, Lagern, Behandeln und Vernichten von Kampfmitteln.
+(2) Dieses Gesetz findet keine Anwendung auf Anlagen, Tätigkeiten, Geräte oder Vorrichtungen, Kernbrennstoffe und sonstige radioaktive Stoffe, Grundstücke, Teile von Grundstücken, Gewässer und Grubenbaue, soweit Rechtsvorschriften den Schutz vor den Gefahren der Kernenergie oder der Wirkung ionisierender Strahlen regeln. Dieses Gesetz gilt ferner nicht für das Aufsuchen, Bergen, Befördern, Lagern, Behandeln und Vernichten von Kampfmitteln.
 
 (3) Im Hinblick auf das Schutzgut Boden gelten schädliche Bodenveränderungen im Sinne des § 2 Abs. 3 dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, soweit sie durch Immissionen verursacht werden, als schädliche Umwelteinwirkungen nach § 3 Abs. 1 des Bundes-Immissionsschutzgesetzes, im übrigen als sonstige Gefahren, erhebliche Nachteile oder erhebliche Belästigungen nach § 5 Abs. 1 Nr. 1 des Bundes-Immissionsschutzgesetzes. Zur näheren Bestimmung der immissionsschutzrechtlichen Vorsorgepflichten sind die in einer Rechtsverordnung nach § 8 Abs. 2 festgelegten Werte heranzuziehen, sobald in einer Rechtsverordnung oder in einer Verwaltungsvorschrift des Bundes bestimmt worden ist, welche Zusatzbelastungen durch den Betrieb einer Anlage nicht als ursächlicher Beitrag zum Entstehen schädlicher Bodenveränderungen anzusehen sind. In der Rechtsverordnung oder der Verwaltungsvorschrift soll gleichzeitig geregelt werden, daß bei Unterschreitung bestimmter Emissionsmassenströme auch ohne Ermittlung der Zusatzbelastung davon auszugehen ist, daß die Anlage nicht zu schädlichen Bodenveränderungen beiträgt.
 
@@ -301,7 +301,7 @@ enthält. Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten K
 
 (5) Soweit entnommenes Bodenmaterial im Bereich der von der Altlastensanierung betroffenen Fläche wieder eingebracht werden soll, gilt § 28 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes nicht, wenn durch einen für verbindlich erklärten Sanierungsplan oder eine Anordnung zur Durchsetzung der Pflichten nach § 4 sichergestellt wird, daß das Wohl der Allgemeinheit nicht beeinträchtigt wird.
 
-(6) Die zuständige Behörde kann den Plan, auch unter Abänderungen oder mit Nebenbestimmungen, für verbindlich erklären. Ein für verbindlich erklärter Plan schließt andere die Sanierung betreffende behördliche Entscheidungen mit Ausnahme von Zulassungsentscheidungen für Vorhaben, die nach § 3 in Verbindung mit der Anlage zu § 3 des Gesetzes über die Umweltverträglichkeitsprüfung oder kraft Landesrechts einer Umweltverträglichkeitsprüfung unterliegen, mit ein, soweit sie im Einvernehmen mit der jeweils zuständigen Behörde erlassen und in dem für verbindlich erklärten Plan die miteingeschlossenen Entscheidungen aufgeführt werden.
+(6) Die zuständige Behörde kann den Plan, auch unter Abänderungen oder mit Nebenbestimmungen, für verbindlich erklären. Ein für verbindlich erklärter Plan schließt andere die Sanierung betreffende behördliche Entscheidungen mit Ausnahme von Zulassungsentscheidungen für Vorhaben, die nach § 1 in Verbindung mit der Anlage 5 des Gesetzes über die Umweltverträglichkeitsprüfung oder kraft Landesrechts einer Umweltverträglichkeitsprüfung unterliegen, mit ein, soweit sie im Einvernehmen mit der jeweils zuständigen Behörde erlassen und in dem für verbindlich erklärten Plan die miteingeschlossenen Entscheidungen aufgeführt werden.
 
 ### § 14 Behördliche Sanierungsplanung
 
@@ -330,7 +330,7 @@ auf Grund der großflächigen Ausdehnung der Altlast, der auf der Altlast beruhe
 
 (1) Neben den im Zweiten Teil dieses Gesetzes vorgesehenen Anordnungen kann die zuständige Behörde zur Erfüllung der Pflichten, die sich aus dem Dritten Teil dieses Gesetzes ergeben, die erforderlichen Anordnungen treffen.
 
-(2) Soweit ein für verbindlich erklärter Sanierungsplan im Sinne des § 13 Abs. 6 nicht vorliegt, schließen Anordnungen zur Durchsetzung der Pflichten nach § 4 andere die Sanierung betreffende behördliche Entscheidungen mit Ausnahme von Zulassungsentscheidungen für Vorhaben, die nach § 3 in Verbindung mit der Anlage zu § 3 des Gesetzes über die Umweltverträglichkeitsprüfung oder kraft Landesrechts einer Umweltverträglichkeitsprüfung unterliegen, mit ein, soweit sie im Einvernehmen mit der jeweils zuständigen Behörde erlassen und in der Anordnung die miteingeschlossenen Entscheidungen aufgeführt werden.
+(2) Soweit ein für verbindlich erklärter Sanierungsplan im Sinne des § 13 Abs. 6 nicht vorliegt, schließen Anordnungen zur Durchsetzung der Pflichten nach § 4 andere die Sanierung betreffende behördliche Entscheidungen mit Ausnahme von Zulassungsentscheidungen für Vorhaben, die § 1 Absatz 1 Nummer 1 in Verbindung mit der Anlage 1 des Gesetzes über die Umweltverträglichkeitsprüfung oder kraft Landesrechts einer Umweltverträglichkeitsprüfung unterliegen, mit ein, soweit sie im Einvernehmen mit der jeweils zuständigen Behörde erlassen und in der Anordnung die miteingeschlossenen Entscheidungen aufgeführt werden.
 
 Vierter Teil Landwirtschaftliche Bodennutzung
 ---------------------------------------------
