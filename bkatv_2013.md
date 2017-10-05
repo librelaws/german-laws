@@ -2,10 +2,7 @@ Verordnung über die Erteilung einer Verwarnung, Regelsätze für Geldbußen und
 ==================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 V v. 30.10.2014 I 1666
-
-Hinweis  
-Mittelbare Änderung durch Art. 7b V v. 16.4.2014 I 348 ist berücksichtigt
+Zuletzt geändert durch Art. 3 V v. 6.10.2017 I 3549; 2018 I 53
 
 ### 
 
@@ -87,10 +84,10 @@ der Nummern 9.1 bis 9.3, der Nummern 11.1 bis 11.3, jeweils in Verbindung mit Ta
 der Nummern 12.6.3, 12.6.4, 12.6.5, 12.7.3, 12.7.4 oder 12.7.5 der Tabelle 2 des Anhangs,
 
 3.  
-der Nummern 19.1.1, 19.1.2, 21.1, 21.2, 83.3, 89b.2, 132.1, 132.2, 132.3, 132.3.1, 132.3.2, 152.1 oder
+der Nummern 19.1.1, 19.1.2, 21.1, 21.2, 50.1, 50.2, 50.3, 135, 135.1, 135.2, 83.3, 89b.2, 132.1, 132.2, 132.3, 132.3.1, 132.3.2, 152.1 oder
 
 4.  
-der Nummern 244 oder 248
+der Nummern 244, 246.2, 246.3 oder 250a
 
 des Bußgeldkatalogs verwirklicht wird. Wird in diesen Fällen ein Fahrverbot angeordnet, so ist in der Regel die dort bestimmte Dauer festzusetzen.
 
@@ -339,11 +336,7 @@ Schienenbahn nicht durchfahren lassen
 
 5a
 
-Fahren bei Glatteis, Schneeglätte, Schneematsch,
-Eis- oder Reifglätte ohne Reifen, welche die in
-Anhang II Nummer 2.2 der Richtlinie 92/23/EWG des Rates vom 31. März 1992 über Reifen von Kraftfahrzeugen und Kraftfahrzeuganhängern und über ihre
-Montage (ABl. L 129 vom 14.5.1992, S. 95), die zuletzt durch die Richtlinie 2005/11/EG (ABl. L 46 vom
-17.2.2005, S. 42) geändert worden ist, beschriebenen Eigenschaften erfüllen (M+S-Reifen)
+Fahren bei Glatteis, Schneeglätte, Schneematsch, Eis- oder Reifglätte ohne Bereifung, welche die in § 36 Absatz 4 StVZO beschriebenen Eigenschaften erfüllt
 
 § 2 Absatz 3a Satz 1
 § 49 Absatz 1 Nummer 2
@@ -1216,7 +1209,7 @@ gefährdet
 
 (46)
 
-(*aufgeboben*)
+(*aufgehoben*)
 
 **Einfahren und Anfahren**
 
@@ -1266,13 +1259,40 @@ behindert
 
 50
 
-Bei stockendem Verkehr auf einer Autobahn oder
-Außerortsstraße für die Durchfahrt von Polizei- oder Hilfsfahrzeugen keine vorschriftsmäßige Gasse gebildet
+Bei stockendem Verkehr auf einer Autobahn oder Außerortsstraße für die Durchfahrt von Polizei- oder Hilfsfahrzeugen keine vorschriftsmäßige Gasse gebildet
 
 § 11 Absatz 2
 § 49 Absatz 1 Nummer 11
 
- 20 €
+200 €
+
+50.1
+
+– mit Behinderung
+
+§ 11 Absatz 2
+§ 1 Absatz 2
+§ 49 Absatz 1 Nummer 11
+
+240 €
+**Fahrverbot
+1 Monat**
+
+50.2
+
+– mit Gefährdung
+
+280 €
+**Fahrverbot
+1 Monat**
+
+50.3
+
+– mit Sachbeschädigung
+
+320 €
+**Fahrverbot
+1 Monat**
 
 **Halten und Parken**
 
@@ -2544,6 +2564,16 @@ nicht angelegt
 
  30 €
 
+100.1
+
+Vorgeschriebenes Rollstuhl-Rückhaltesystem oder
+Rollstuhlnutzer-Rückhaltesystem während der Fahrt nicht angelegt
+
+§ 21a Absatz 1 Satz 1
+§ 49 Absatz 1 Nummer 20a
+
+  30 €
+
 101
 
 Während der Fahrt keinen geeigneten Schutzhelm
@@ -3223,9 +3253,28 @@ Absatz 2, Absatz 3 Satz 3
 Einem Einsatzfahrzeug, das blaues Blinklicht zusammen mit dem Einsatzhorn verwendet hatte, nicht sofort freie Bahn geschaffen
 
 § 38 Absatz 1 Satz 2
+§ 1 Absatz 2
 § 49 Absatz 3 Nummer 3
 
- 20 €
+240 €
+**Fahrverbot
+1 Monat**
+
+135.1
+
+– mit Gefährdung
+
+280 €
+**Fahrverbot
+1 Monat**
+
+135.2
+
+– mit Sachbeschädigung
+
+320 €
+**Fahrverbot
+1 Monat**
 
 **Vorschriftzeichen**
 
@@ -4156,7 +4205,7 @@ Die Zulassungsbescheinigung Teil I oder sonstige
 Bescheinigung nicht mitgeführt
 
 § 4 Absatz 5 Satz 1
-§ 11 Absatz 5
+§ 11 Absatz 6
 § 26 Absatz 1 Satz 6
 § 48 Nummer 5
 
@@ -4180,7 +4229,7 @@ Kraftfahrzeug oder Kraftfahrzeuganhänger außerhalb des auf dem Saisonkennzeich
 
 § 8 Absatz 1a Satz 6
 § 9 Absatz 3 Satz 5
-§ 16a Absatz 3 Satz 5
+§ 16a Absatz 4 Satz 3
 § 19 Absatz 1 Nummer 4 Satz 3
 § 48 Nummer 1
 
@@ -4215,11 +4264,10 @@ Fahrzeug außerhalb des auf dem Saisonkennzeichen angegebenen Betriebszeitraums 
 
 178a
 
-Betriebsverbot wegen Verstoßes gegen Mitteilungspflichten oder die Pflichten beim Erwerb des Fahrzeugs nicht beachtet
+Betriebsverbot wegen Verstoßes gegen Mitteilungspflichten oder gegen die Pflichten beim Erwerb des Fahrzeugs nicht beachtet
 
-§ 13 Absatz 1 Satz 5,
-Absatz 4 Satz 1
-§ 48 Nummer 7, 12
+§ 13 Absatz 1 Satz 5, auch i. V. m. Absatz 4 Satz 7, Absatz 3 Satz 2
+§ 48 Nummer 7
 
  40 €
 
@@ -4228,9 +4276,8 @@ Absatz 4 Satz 1
 Ein Fahrzeug in Betrieb gesetzt, dessen Kennzeichen nicht wie vorgeschrieben ausgestaltet oder angebracht ist; ausgenommen ist das Fehlen des vorgeschriebenen Kennzeichens
 
 § 10 Absatz 12 i. V. m. § 10 Absatz 1, 2 Satz 2 und 3 Halbsatz 1, Absatz 6, 7, 8 Halbsatz 1, Absatz 9 Satz 1 auch i. V. m.
-§ 16 Absatz 5 Satz 3 oder
-§ 16a Absatz 5 i. V. m.
 § 16 Absatz 5 Satz 3
+§ 16a Absatz 3 Satz 4
 § 17 Absatz 2 Satz 4
 § 19 Absatz 1 Nummer 3 Satz 5
 § 48 Nummer 1
@@ -4260,6 +4307,15 @@ Absatz 2 Satz 1, Absatz 8
 
  65 €
 
+179c
+
+Fahrzeug mit CC- oder CD-Zeichen auf öffentlichen Straßen in Betrieb genommen, ohne dass hierzu eine Berechtigung besteht und diese in der Zulassungsbescheinigung Teil I eingetragen ist
+
+§ 10 Absatz 11 Satz 3
+§ 48 Nummer 9b
+
+ 10 €
+
 **Mitteilungs-, Anzeige- und Vorlagepflichten, Zurückziehen aus dem
 Verkehr, Verwertungsnachweis**
 
@@ -4275,14 +4331,50 @@ Absatz 3 Satz 1
 
 180a
 
-Verwertungsnachweis nicht vorgelegt
+Als Halter ein Fahrzeug nicht oder nicht ordnungsgemäß außer Betrieb setzen lassen
 
-§ 15 Absatz 1 Satz 1
-§ 48 Nummer 13
+§ 15 Absatz 1 Satz 1, Absatz 2 Satz 1
+§ 48 Nummer 8 Buchstabe b
 
  15 €
 
-**Prüfungs-, Probe-, Überführungsfahrten**
+**Internetbasierte Zulassung**
+
+180b
+
+Als Halter einen Plakettenträger nicht, nicht rechtzeitig oder nicht ordnungsgemäß (ausgenommen auf einem anderen als dem zugehörigen zugeteilten Kennzeichen) angebracht
+
+§ 15e Absatz 6 Satz 1
+§ 48 Nummer 14
+
+40 €
+
+180c
+
+Plakettenträger auf einem Kennzeichenschild mit einem anderen als dem zugehörigen zugeteilten Kennzeichen angebracht
+
+§ 15e Absatz 6 Satz 2
+§ 48 Nummer 14a
+
+65 €
+
+180d
+
+Fahrzeug ohne die dafür übersandten Plakettenträger oder mit einem anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen in Betrieb gesetzt
+
+§ 15e Absatz 6 Satz 3
+§ 48 Nummer 1 Buchstabe c
+
+70 €
+
+180e
+
+Als Halter die Inbetriebnahme eines Fahrzeuges ohne die dafür übersandten Plakettenträger oder mit einem anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen zugelassen oder angeordnet
+
+§ 15e Absatz 6 Satz 4
+§ 48 Nummer 2
+
+70 €
 
 181
 
@@ -4295,30 +4387,18 @@ Gegen die Pflicht zur Eintragung in Fahrzeugscheinhefte verstoßen oder das rote
 
 181a
 
-Kurzzeitkennzeichen für andere als Probe- oder Überführungsfahrten verwendet
-
-§ 16a Absatz 2 Satz 2
-Nummer 1
-§ 48 Nummer 15a
-
-50 €
+(aufgehoben)
 
 181b
 
-Kurzzeitkennzeichen einer anderen Person zur Nutzung an einem anderen Fahrzeug überlassen
-
-§ 16a Absatz 2 Satz 2
-Nummer 2
-§ 48 Nummer 15b
-
-50 €
+(aufgehoben)
 
 182
 
-Kurzzeitkennzeichen an nicht nur einem Fahrzeug verwendet
+Kurzzeitkennzeichen für unzulässige Fahrten oder an einem anderen Fahrzeug verwendet
 
-§ 16a Absatz 3 Satz 4
-§ 48 Nummer 16
+§ 16 Absatz 3 Satz 1
+§ 48 Nummer 18a
 
 50 €
 
@@ -4345,7 +4425,7 @@ Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen oder Fahrzeugscheinheft 
 
 Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen nicht mitgeführt
 
-§ 16a Absatz 3 Satz 1
+§ 16a Absatz 5 Satz 3
 § 48 Nummer 5
 
 20 €
@@ -4843,6 +4923,65 @@ bis zu einem Alter von 15 Monaten
 
 25 €
 
+**Rollstuhlplätze und Rückhaltesysteme**
+
+203a
+
+Als Halter die Inbetriebnahme eines Personenkraftwagens, in dem ein Rollstuhlnutzer befördert wurde, angeordnet oder zugelassen, obwohl er nicht mit dem vorgeschriebenen Rollstuhlstellplatz ausgerüstet war
+
+§ 35a Absatz 4a Satz 1
+§ 31 Absatz 2
+§ 69a Absatz 5 Nummer 3
+
+35 €
+
+203b
+
+Personenkraftwagen, in dem ein Rollstuhlnutzer befördert wurde, in Betrieb genommen, obwohl er nicht mit dem vorgeschriebenen Rollstuhlstellplatz ausgerüstet war
+
+§ 35a Absatz 4a Satz 1
+§ 69a Absatz 3 Nummer 7
+
+35 €
+
+203c
+
+Als Halter die Inbetriebnahme eines Personenkraftwagens, in dem ein Rollstuhlnutzer befördert wurde, angeordnet oder zugelassen, obwohl der Rollstuhlstellplatz nicht mit dem vorgeschriebenen Rollstuhl-Rückhaltesystem oder Rollstuhlnutzer-Rückhaltesystem ausgerüstet war
+
+§ 35a Absatz 4a Satz 2, 3
+§ 31 Absatz 2,
+§ 69a Absatz 5 Nummer 3
+
+30 €
+
+203d
+
+Einen Personenkraftwagen, in dem ein Rollstuhlnutzer befördert wurde, in Betrieb genommen, obwohl der Rollstuhlstellplatz nicht mit dem vorgeschriebenen Rollstuhl-Rückhaltesystem oder Rollstuhlnutzer-Rückhaltesystem ausgerüstet war
+
+§ 35a Absatz 4a Satz 2, 3
+§ 69a Absatz 3 Nummer 7
+
+30 €
+
+203e
+
+Als Fahrer nicht sichergestellt, dass das Rollstuhl-Rückhaltesystem oder Rollstuhlnutzer-Rückhaltesystem in der vom Hersteller des jeweiligen Systems vorgesehenen Weise während der Fahrt betrieben wurde
+
+§ 35a Absatz 4a Satz 4
+§ 69a Absatz 3 Nummer 7
+
+30 €
+
+203f
+
+Als Halter nicht sichergestellt, dass das Rollstuhl-Rückhaltesystem oder Rollstuhlnutzer-Rückhaltesystem in der vom Hersteller des jeweiligen Systems vorgesehenen Weise während der Fahrt betrieben wurde
+
+§ 35a Absatz 4a Satz 4
+§ 31 Absatz 2
+§ 69a Absatz 5 Nummer 3
+
+30 €
+
 **Feuerlöscher in Kraftomnibussen**
 
 204
@@ -4923,7 +5062,7 @@ angeordnet oder zugelassen
 Kraftfahrzeug oder Anhänger, die unzulässig mit
 Diagonal- und mit Radialreifen ausgerüstet waren, in Betrieb genommen
 
-§ 36 Absatz 2a Satz 1, 2
+§ 36 Absatz 6 Satz 1, 2
 § 69a Absatz 3 Nummer 8
 
  15 €
@@ -4935,7 +5074,7 @@ oder Anhängers, die unzulässig mit Diagonal- und mit Radialreifen ausgerüstet
 zugelassen
 
 § 31 Absatz 2 i. V. m.
-§ 36 Absatz 2a Satz 1, 2
+§ 36 Absatz 6 Satz 1, 2
 § 69a Absatz 5 Nummer 3
 
  30 €
@@ -4945,7 +5084,7 @@ zugelassen
 Mofa in Betrieb genommen, dessen Reifen keine
 ausreichenden Profilrillen oder Einschnitte oder keine ausreichende Profil- oder Einschnitttiefe besaß
 
-§ 36 Absatz 2 Satz 5
+§ 36 Absatz 3 Satz 5
 § 31d Absatz 4 Satz 1
 § 69a Absatz 3 Num-
 mer 1c, 8
@@ -4958,7 +5097,7 @@ Als Halter die Inbetriebnahme eines Mofas angeordnet oder zugelassen, dessen Rei
 Profil- oder Einschnitttiefe besaß
 
 § 31 Absatz 2 i. V. m.
-§ 36 Absatz 2 Satz 5
+§ 36 Absatz 3 Satz 5
 § 31d Absatz 4 Satz 1
 § 69a Absatz 5 Nummer 3
 
@@ -4969,7 +5108,7 @@ Profil- oder Einschnitttiefe besaß
 Kraftfahrzeug (außer Mofa) oder Anhänger in Betrieb genommen, dessen Reifen keine ausreichenden Profilrillen oder Einschnitte oder keine ausreichende Profil-
 oder Einschnitttiefe besaß
 
-§ 36 Absatz 2 Satz 3 bis 5
+§ 36 Absatz 3 Satz 3 bis 5
 § 31d Absatz 4 Satz 1
 § 69a Absatz 3 Num-
 mer 1c, 8
@@ -4984,11 +5123,21 @@ zugelassen, dessen Reifen keine ausreichenden Profilrillen oder Einschnitte oder
 oder Einschnitttiefe besaß
 
 § 31 Absatz 2 i. V. m.
-§ 36 Absatz 2 Satz 3 bis 5
+§ 36 Absatz 3 Satz 3 bis 5
 § 31d Absatz 4 Satz 1
 § 69a Absatz 5 Nummer 3
 
  75 €
+
+213a
+
+Als Halter die Inbetriebnahme eines Kraftfahrzeugs bei Glatteis, Schneeglätte, Schneematsch, Eis- oder Reifglätte angeordnet oder zugelassen, dessen Bereifung, die in § 36 Absatz 4 oder Absatz 4a StVZO beschriebenen Eigenschaften nicht erfüllt, wenn das Kraftfahrzeug gemäß § 2 Absatz 3a StVO bei Glatteis, Schneeglätte, Schneematsch, Eis- oder Reifglätte nur mit solchen Reifen gefahren werden darf, die die in § 36 Absatz 4 StVZO beschriebenen Eigenschaften erfüllen
+
+§ 31 Absatz 2 i. V. m.
+§ 36 Absatz 4 und 4a
+§ 69a Absatz 5 Nummer 3
+
+75 €
 
 **Sonstige Pflichten für den verkehrssicheren Zustand des Fahrzeugs**
 
@@ -5343,11 +5492,11 @@ Fahrrad unter Verstoß gegen eine Vorschrift über die Einrichtungen für Schall
 
 230
 
-Fahrrad oder Fahrrad mit Beiwagen unter Verstoß
-gegen eine Vorschrift über nach vorn wirkende Scheinwerfer, Schlussleuchten oder Rückstrahler in Betrieb genommen
+Fahrrad oder Fahrradanhänger oder Fahrrad mit Beiwagen unter Verstoß gegen eine Vorschrift über lichttechnische Einrichtungen im öffentlichen Straßenverkehr in Betrieb genommen
 
-§ 67 Absatz 3, Absatz 4 Satz 1, 3
-§ 69a Absatz 4 Nummer 8
+§ 67
+§ 67a
+§ 69a Absatz 4 Nummer 8, 9
 
  20 €
 
@@ -5555,7 +5704,7 @@ Buchstabe a
 
 246
 
-Mobil- oder Autotelefon verbotswidrig benutzt
+Elektronisches Gerät rechtswidrig benutzt
 
 § 23 Absatz 1a
 § 49 Absatz 1 Nummer 22
@@ -5564,46 +5713,56 @@ Mobil- oder Autotelefon verbotswidrig benutzt
 
 beim Führen eines Fahrzeugs
 
- 60 €
+100 €
 
 246.2
 
+– mit Gefährdung
+
+150 €
+**Fahrverbot
+1 Monat**
+
+246.3
+
+– mit Sachbeschädigung
+
+200 €
+**Fahrverbot
+1 Monat**
+
+246.4
+
 beim Radfahren
 
- 25 €
+55 €
 
 247
 
 Beim Führen eines Kraftfahrzeugs verbotswidrig ein technisches Gerät zur Feststellung von Verkehrsüberwachungsmaßnahmen betrieben oder betriebsbereit
 mitgeführt
 
-§ 23 Absatz 1b
+§ 23 Absatz 1c
 § 49 Absatz 1 Nummer 22
 
  75 €
 
-**Kraftfahrzeugrennen**
+247a
+
+Beim Führen eines Kraftfahrzeugs Gesicht verdeckt oder verhüllt
+
+§ 23 Absatz 4 Satz 1
+§ 49 Absatz 1 Nummer 22
+
+60 €
 
 248
 
-Beim Führen eines Kraftfahrzeugs an einem Kraftfahrzeugrennen teilgenommen
-
-§ 29 Absatz 1
-§ 49 Absatz 2 Nummer 5
-
-400 €
-**Fahrverbot
-1 Monat**
+(weggefallen)
 
 249
 
-Als Veranstaltender ein Kraftfahrzeugrennen ohne
-Erlaubnis durchgeführt
-
-§ 29 Absatz 2 Satz 1
-§ 49 Absatz 2 Nummer 6
-
-500 €
+(weggefallen)
 
 **Genehmigungs- oder Erlaubnisbescheid**
 
@@ -5617,6 +5776,22 @@ Genehmigungs- oder Erlaubnisbescheid auf Verlangen nicht ausgehändigt
  10 €
 
 **b) Fahrerlaubnis-Verordnung**
+
+**Verkehrseinrichtungen zum Schutz der Infrastruktur**
+
+250a
+
+Vorschriftswidrig ein Verbot für Kraftwagen mit einem die Gesamtmasse beschränkenden Zusatzzeichen (Zeichen 251 mit Zusatzzeichen 1053-33) oder eine tatsächliche Höhenbeschränkung (Zeichen 265) nicht beachtet, wobei die Straßenfläche zusätzlich durch Verkehrseinrichtungen (Anlage 4 lfd. Nr. 1 bis 4 zu § 43 Absatz 3) gekennzeichnet ist.
+
+§ 41 Absatz 1 i.V.m.
+Anlage 2 lfd. Nr. 27 Spalte 3, lfd. Nr. 29 (Zeichen 251) Spalte 3, lfd. Nr. zu 36 bis 40,
+lfd. Nr. 39 (Zeichen 265)
+§ 43 Absatz 3 Satz 2
+§ 49 Absatz 3 Nummer 4, 6
+
+500 €
+**Fahrverbot
+2 Monate**
 
 **Aushändigen von Führerscheinen und Bescheinigungen**
 
@@ -5654,7 +5829,7 @@ Die Zulassungsbescheinigung Teil I oder sonstige
 Bescheinigung auf Verlangen nicht ausgehändigt
 
 § 4 Absatz 5 Satz 1
-§ 11 Absatz 5
+§ 11 Absatz 6
 § 26 Absatz 1 Satz 6
 § 48 Nummer 5
 
@@ -5698,6 +5873,7 @@ Verlangen nicht ausgehändigt
  10 €
 
 Anlage Nr. 46 Spalte 2 Kursivdruck: Müsste richtig lauten "(aufgehoben)"
+Anlage Nr. 46 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "aufgeboben" durch das Wort "aufgehoben" ersetzt
 
 ### Anhang (zu Nummer 11 der Anlage)Tabelle 1
 
