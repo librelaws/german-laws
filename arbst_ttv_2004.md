@@ -2,7 +2,7 @@ Verordnung über Arbeitsstätten (ArbStättV)
 ==========================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 30.11.2016 I 2681; 2017 I 2839
+Zuletzt geändert durch Art. 5 Abs. 1 V v. 18.10.2017 I 3584
 
 ### 
 
@@ -17,10 +17,8 @@ der Richtlinie 92/58/EWG des Rates vom 24. Juni 1992 über Mindestvorschriften f
 3.  
 des Anhangs IV (Mindestvorschriften für Sicherheit und Gesundheitsschutz auf Baustellen) der Richtlinie 92/57/EWG des Rates vom 24. Juni 1992 über die auf zeitlich begrenzte oder ortsveränderliche Baustellen anzuwendenden Mindestvorschriften für die Sicherheit und den Gesundheitsschutz (Achte Einzelrichtlinie im Sinne des Artikels 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. EG Nr. L 245 S. 6).
 
-```
 (+++ Textnachweis ab: 25. 8.2004 +++)
-```
-
+(+++ Zur Anwendung vgl. § 1 +++)
 Die V wurde als Artikel 1 d. V v. 12.8.2004 I 2179 von der Bundesregierung und dem Bundesministerium für Wirtschaft und Arbeit mit Zustimmung des Bundesrates erlassen. Sie ist gem. Artikel 4 Satz 1 dieser V am 25.8.2004 in Kraft getreten.
 
 ```
@@ -28,7 +26,15 @@ Die V wurde als Artikel 1 d. V v. 12.8.2004 I 2179 von der Bundesregierung und d
      Umsetzung der
        EWGRL 654/89 (CELEX Nr: 389L0654)
        EWGRL 58/92  (CELEX Nr: 392L0058)
-       EWGRL 57/92  (CELEX Nr: 392L0057) +++)
+       EWGRL 57/92  (CELEX Nr: 392L0057) 
+       EWGRL 270/90 (CELEX Nr: 31990L0270) vgl. 
+                     V v. 18.10.2017 I 3584
+       EWGRL 269/90 (CELEX Nr: 31990L0269) vgl. 
+                     V v. 18.10.2017 I 3584
+       EGRL 10/2003 (CELEX Nr: 32003L0010) vgl. 
+                     V v. 18.10.2017 I 3584
+       EGRL 44/2002 (CELEX Nr: 32002L0044) vgl. 
+                     V v. 18.10.2017 I 3584 +++)
 ```
 
 ### Inhaltsübersicht
@@ -86,7 +92,7 @@ Rechenmaschinen, Registrierkassen oder andere Arbeitsmittel mit einer kleinen Da
 4.  
 Schreibmaschinen klassischer Bauart mit einem Display.
 
-(5) Diese Verordnung gilt nicht für Arbeitsstätten in Betrieben, die dem Bundesberggesetz unterliegen.
+(5) Diese Verordnung ist für Arbeitsstätten in Betrieben, die dem Bundesberggesetz unterliegen, nur für Bildschirmarbeitsplätze einschließlich Telearbeitsplätze anzuwenden.
 
 (6) Das Bundeskanzleramt, das Bundesministerium des Innern, das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit, das Bundesministerium der Verteidigung oder das Bundesministerium der Finanzen können, soweit sie hierfür jeweils zuständig sind, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und, soweit nicht das Bundesministerium des Innern selbst zuständig ist, im Einvernehmen mit dem Bundesministerium des Innern Ausnahmen von den Vorschriften dieser Verordnung zulassen, soweit öffentliche Belange dies zwingend erfordern, insbesondere zur Aufrechterhaltung oder Wiederherstellung der öffentlichen Sicherheit. In diesem Fall ist gleichzeitig festzulegen, wie die Sicherheit und der Schutz der Gesundheit der Beschäftigten nach dieser Verordnung auf andere Weise gewährleistet werden.
 
