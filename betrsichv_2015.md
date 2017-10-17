@@ -2,10 +2,7 @@ Verordnung über Sicherheit und Gesundheitsschutz bei der Verwendung von Arbeits
 ==================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 15 V v. 2.6.2016 I 1257
-
-Hinweis  
-Änderung durch Art. 2 V v. 15.11.2016 I 2549 (Nr. 54) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 5 Abs. 7 V v. 18.10.2017 I 3584
 
 Sonst  
 Ersetzt V 805-3-9 v. 27.9.2002 I 3777 (BetrSichV)
@@ -14,8 +11,13 @@ Ersetzt V 805-3-9 v. 27.9.2002 I 3777 (BetrSichV)
 
 ```
 (+++ Textnachweis ab: 1.6.2015 +++)
- 
 (+++ Zur Anwendung vgl. § 20 +++)
+(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
+     Umsetzung der
+       EWGRL 270/90    (CELEX Nr: 31990L0270)
+       EWGRL 269/90    (CELEX Nr: 31990L0269)
+       EGRL 10/2003    (CELEX Nr: 32003L0010)
+       EGRL 44/2002    (CELEX Nr: 32002L0044) vgl. V v. 18.10.2017 I 3584 +++)
 ```
 
 Die V wurde als Artikel 1 der V v. 3.2.2015 I 49 von der Bundesregierung, dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Arbeit und Soziales mit Zustimmung des Bundesrates und im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit sowie mit dem Bundesministerium des Innern beschlossen. Sie tritt gem. Art. 3 Satz 1 dieser V am 1.6.2015 in Kraft.
@@ -218,11 +220,11 @@ vorhersehbare Betriebsstörungen und die Gefährdung bei Maßnahmen zu deren Bes
 
 (3) Die Gefährdungsbeurteilung soll bereits vor der Auswahl und der Beschaffung der Arbeitsmittel begonnen werden. Dabei sind insbesondere die Eignung des Arbeitsmittels für die geplante Verwendung, die Arbeitsabläufe und die Arbeitsorganisation zu berücksichtigen. Die Gefährdungsbeurteilung darf nur von fachkundigen Personen durchgeführt werden. Verfügt der Arbeitgeber nicht selbst über die entsprechenden Kenntnisse, so hat er sich fachkundig beraten zu lassen.
 
-(4) Der Arbeitgeber hat sich die Informationen zu beschaffen, die für die Gefährdungsbeurteilung notwendig sind. Dies sind insbesondere die nach § 21 Absatz 4 Nummer 1 bekannt gegebenen Regeln und Erkenntnisse, Gebrauchs- und Betriebsanleitungen sowie die ihm zugänglichen Erkenntnisse aus der arbeitsmedizinischen Vorsorge. Der Arbeitgeber darf diese Informationen übernehmen, sofern sie auf die Arbeitsmittel, Arbeitsbedingungen und Verfahren in seinem Betrieb anwendbar sind. Bei der Informationsbeschaffung kann der Arbeitgeber davon ausgehen, dass die vom Hersteller des Arbeitsmittels mitgelieferten Informationen zutreffend sind, es sei denn, dass er über andere Erkenntnisse verfügt.
+(4) Der Arbeitgeber hat sich die Informationen zu beschaffen, die für die Gefährdungsbeurteilung notwendig sind. Dies sind insbesondere die nach § 21 Absatz 6 Nummer 1 bekannt gegebenen Regeln und Erkenntnisse, Gebrauchs- und Betriebsanleitungen sowie die ihm zugänglichen Erkenntnisse aus der arbeitsmedizinischen Vorsorge. Der Arbeitgeber darf diese Informationen übernehmen, sofern sie auf die Arbeitsmittel, Arbeitsbedingungen und Verfahren in seinem Betrieb anwendbar sind. Bei der Informationsbeschaffung kann der Arbeitgeber davon ausgehen, dass die vom Hersteller des Arbeitsmittels mitgelieferten Informationen zutreffend sind, es sei denn, dass er über andere Erkenntnisse verfügt.
 
 (5) Der Arbeitgeber kann bei der Festlegung der Schutzmaßnahmen bereits vorhandene Gefährdungsbeurteilungen, hierzu gehören auch gleichwertige Unterlagen, die ihm der Hersteller oder Inverkehrbringer mitgeliefert hat, übernehmen, sofern die Angaben und Festlegungen in dieser Gefährdungsbeurteilung den Arbeitsmitteln einschließlich der Arbeitsbedingungen und -verfahren, im eigenen Betrieb entsprechen.
 
-(6) Der Arbeitgeber hat Art und Umfang erforderlicher Prüfungen von Arbeitsmitteln sowie die Fristen von wiederkehrenden Prüfungen nach den §§ 14 und 16 zu ermitteln und festzulegen, soweit diese Verordnung nicht bereits entsprechende Vorgaben enthält. Satz 1 gilt auch für Aufzugsanlagen. Die Fristen für die wiederkehrenden Prüfungen sind so festzulegen, dass die Arbeitsmittel bis zur nächsten festgelegten Prüfung sicher verwendet werden können. Bei der Festlegung der Fristen für die wiederkehrenden Prüfungen nach § 14 Absatz 4 dürfen die in Anhang 3 Abschnitt 1 Nummer 3, Abschnitt 2 Nummer 4.1 Tabelle 1 und Abschnitt 3 Nummer 3.2 Tabelle 1 genannten Höchstfristen nicht überschritten werden. Bei der Festlegung der Fristen für die wiederkehrenden Prüfungen nach § 16 dürfen die in Anhang 2 Abschnitt 2 Nummer 4.1 und 4.3, Abschnitt 3 Nummer 5.1 bis 5.3 und Abschnitt 4 Nummer 5.8 in Verbindung mit Tabelle 1 genannten Höchstfristen nicht überschritten werden, es sei denn, dass in den genannten Anhängen etwas anderes bestimmt ist. Ferner hat der Arbeitgeber zu ermitteln und festzulegen, welche Voraussetzungen die zur Prüfung befähigten Personen erfüllen müssen, die von ihm mit den Prüfungen von Arbeitsmitteln nach den §§ 14, 15 und 16 zu beauftragen sind.
+(6) Der Arbeitgeber hat Art und Umfang erforderlicher Prüfungen von Arbeitsmitteln sowie die Fristen von wiederkehrenden Prüfungen nach den §§ 14 und 16 zu ermitteln und festzulegen, soweit diese Verordnung nicht bereits entsprechende Vorgaben enthält. Satz 1 gilt auch für Aufzugsanlagen. Die Fristen für die wiederkehrenden Prüfungen sind so festzulegen, dass die Arbeitsmittel bis zur nächsten festgelegten Prüfung sicher verwendet werden können. Bei der Festlegung der Fristen für die wiederkehrenden Prüfungen nach § 14 Absatz 2 Satz 1 für die in Anhang 3 genannten Arbeitsmittel dürfen die dort genannten Prüffristen nicht überschritten werden. Bei der Festlegung der Fristen für die wiederkehrenden Prüfungen nach § 16 dürfen die in Anhang 2 Abschnitt 2 Nummer 4.1 und 4.3, Abschnitt 3 Nummer 5.1 bis 5.3 und Abschnitt 4 Nummer 5.8 in Verbindung mit Tabelle 1 genannten Höchstfristen nicht überschritten werden, es sei denn, dass in den genannten Anhängen etwas anderes bestimmt ist. Ferner hat der Arbeitgeber zu ermitteln und festzulegen, welche Voraussetzungen die zur Prüfung befähigten Personen erfüllen müssen, die von ihm mit den Prüfungen von Arbeitsmitteln nach den §§ 14, 15 und 16 zu beauftragen sind.
 
 (7) Die Gefährdungsbeurteilung ist regelmäßig zu überprüfen. Dabei ist der Stand der Technik zu berücksichtigen. Soweit erforderlich, sind die Schutzmaßnahmen bei der Verwendung von Arbeitsmitteln entsprechend anzupassen. Der Arbeitgeber hat die Gefährdungsbeurteilung unverzüglich zu aktualisieren, wenn
 
@@ -246,7 +248,7 @@ die Gefährdungen, die bei der Verwendung der Arbeitsmittel auftreten,
 die zu ergreifenden Schutzmaßnahmen,
 
 3.  
-wie die Anforderungen dieser Verordnung eingehalten werden, wenn von den nach § 21 Absatz 4 Nummer 1 bekannt gegebenen Regeln und Erkenntnissen abgewichen wird,
+wie die Anforderungen dieser Verordnung eingehalten werden, wenn von den nach § 21 Absatz 6 Nummer 1 bekannt gegebenen Regeln und Erkenntnissen abgewichen wird,
 
 4.  
 Art und Umfang der erforderlichen Prüfungen sowie die Fristen der wiederkehrenden Prüfungen (Absatz 6 Satz 1) und
@@ -273,7 +275,7 @@ festgestellt hat, dass die Verwendung der Arbeitsmittel nach dem Stand der Techn
 
 (2) Ergibt sich aus der Gefährdungsbeurteilung, dass Gefährdungen durch technische Schutzmaßnahmen nach dem Stand der Technik nicht oder nur unzureichend vermieden werden können, hat der Arbeitgeber geeignete organisatorische und personenbezogene Schutzmaßnahmen zu treffen. Technische Schutzmaßnahmen haben Vorrang vor organisatorischen, diese haben wiederum Vorrang vor personenbezogenen Schutzmaßnahmen. Die Verwendung persönlicher Schutzausrüstung ist für jeden Beschäftigten auf das erforderliche Minimum zu beschränken.
 
-(3) Bei der Festlegung der Schutzmaßnahmen hat der Arbeitgeber die Vorschriften dieser Verordnung einschließlich der Anhänge zu beachten und die nach § 21 Absatz 4 Nummer 1 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen. Bei Einhaltung dieser Regeln und Erkenntnisse ist davon auszugehen, dass die in dieser Verordnung gestellten Anforderungen erfüllt sind. Von den Regeln und Erkenntnissen kann abgewichen werden, wenn Sicherheit und Gesundheit durch andere Maßnahmen zumindest in vergleichbarer Weise gewährleistet werden.
+(3) Bei der Festlegung der Schutzmaßnahmen hat der Arbeitgeber die Vorschriften dieser Verordnung einschließlich der Anhänge zu beachten und die nach § 21 Absatz 6 Nummer 1 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen. Bei Einhaltung dieser Regeln und Erkenntnisse ist davon auszugehen, dass die in dieser Verordnung gestellten Anforderungen erfüllt sind. Von den Regeln und Erkenntnissen kann abgewichen werden, wenn Sicherheit und Gesundheit durch andere Maßnahmen zumindest in vergleichbarer Weise gewährleistet werden.
 
 (4) Der Arbeitgeber hat dafür zu sorgen, dass Arbeitsmittel, für die in § 14 und im Abschnitt 3 dieser Verordnung Prüfungen vorgeschrieben sind, nur verwendet werden, wenn diese Prüfungen durchgeführt und dokumentiert wurden.
 
@@ -693,7 +695,7 @@ Anlagen, in denen Wasserdampf oder Heißwasser in einem Herstellungsverfahren du
 2.  
 Anlagen zum Entsorgen von Kältemitteln, die einem Wärmetauscher entnommen und in ein ortsbewegliches Druckgerät gefüllt werden.
 
-(3) Die Erlaubnis ist schriftlich zu beantragen. Ein Antrag auf eine Teilerlaubnis ist möglich. Dem Antrag sind alle Unterlagen beizufügen, die für die Beurteilung des Antrages notwendig sind. Aus den Unterlagen muss hervorgehen, dass Aufstellung, Bauart und Betriebsweise den Anforderungen dieser Verordnung und hinsichtlich des Brand- und Explosionsschutzes auch der Gefahrstoffverordnung entsprechen und dass die vorgesehenen sicherheitstechnischen Maßnahmen geeignet sind. Aus den Unterlagen muss weiterhin hervorgehen, dass
+(3) Die Erlaubnis ist schriftlich oder elektronisch zu beantragen. Ein Antrag auf eine Teilerlaubnis ist möglich. Dem Antrag sind alle Unterlagen beizufügen, die für die Beurteilung des Antrages notwendig sind. Erfolgt die Antragstellung elektronisch, kann die zuständige Behörde Mehrfertigungen sowie die Übermittlung der dem Antrag beizufügenden Unterlagen auch in schriftlicher Form verlangen. Aus den Unterlagen muss hervorgehen, dass Aufstellung, Bauart und Betriebsweise den Anforderungen dieser Verordnung und hinsichtlich des Brand- und Explosionsschutzes auch der Gefahrstoffverordnung entsprechen und dass die vorgesehenen sicherheitstechnischen Maßnahmen geeignet sind. Aus den Unterlagen muss weiterhin hervorgehen, dass
 
 1.  
 auch die möglichen Gefährdungen, die sich aus der Arbeitsumgebung und durch Wechselwirkungen mit anderen Arbeitsmitteln, insbesondere anderen überwachungsbedürftigen Anlagen, die in einem räumlichen oder betriebstechnischen Zusammenhang mit der beantragten Anlage verwendet werden, betrachtet wurden und die Anforderungen und die vorgesehenen Schutzmaßnahmen geeignet sind, und
@@ -802,10 +804,10 @@ die von den zugelassenen Überwachungsstellen nach § 37 Absatz 5 Nummer 8 des P
 (6) Nach Prüfung kann das Bundesministerium für Arbeit und Soziales
 
 1.  
-die vom Ausschuss für Betriebssicherheit ermittelten Regeln und Erkenntnisse nach Absatz 3 Satz 1 Nummer 2 im Gemeinsamen Ministerialblatt bekannt geben und
+die vom Ausschuss für Betriebssicherheit ermittelten Regeln und Erkenntnisse nach Absatz 5 Nummer 2 im Gemeinsamen Ministerialblatt bekannt geben und
 
 2.  
-die Empfehlungen nach Absatz 3 Satz 1 Nummer 1 sowie die Beratungsergebnisse nach Absatz 3 Satz 1 Nummer 3 in geeigneter Weise veröffentlichen.
+die Empfehlungen nach Absatz 5 Nummer 1 sowie die Beratungsergebnisse nach Absatz 5 Nummer 3 in geeigneter Weise veröffentlichen.
 
 (7) Die Bundesministerien sowie die zuständigen obersten Landesbehörden können zu den Sitzungen des Ausschusses Vertreter entsenden. Diesen ist auf Verlangen in der Sitzung das Wort zu erteilen.
 
@@ -878,7 +880,7 @@ entgegen § 6 Absatz 1 Satz 2 in Verbindung mit Anhang 1 Nummer 2.2 Satz 1 nicht
 entgegen § 6 Absatz 1 Satz 2 in Verbindung mit Anhang 1 Nummer 2.3.2 nicht dafür sorgt, dass ein dort genanntes Arbeitsmittel abgebremst und eine ungewollte Bewegung verhindert werden kann,
 
 20.  
-entgegen § 6 Absatz 1 Satz 2 in Verbindung mit Anhang 1 Nummer 2.4 Satz 2 nicht dafür sorgt, dass das Heben eines Beschäftigten nur mit einem dort genannten Arbeitsmittel oder einer dort genannten Zusatzausrüstung erfolgt,
+entgegen § 6 Absatz 1 Satz 2 in Verbindung mit Anhang 1 Nummer 2.4 Satz 2 nicht dafür sorgt, dass das Heben eines Beschäftigten nur mit einem dort genannten Arbeitsmittel erfolgt,
 
 21.  
 entgegen § 6 Absatz 1 Satz 2 in Verbindung mit Anhang 1 Nummer 2.5 Buchstabe b oder Buchstabe c nicht dafür sorgt, dass Lasten sicher angeschlagen werden oder Lasten oder Lastaufnahme- oder Anschlagmittel sich nicht unbeabsichtigt lösen oder verschieben können,
@@ -905,7 +907,7 @@ entgegen § 12 Absatz 2 Satz 1 eine Betriebsanweisung nicht, nicht richtig, nich
 entgegen § 14 Absatz 1 Satz 1 oder Absatz 4 Satz 1 ein Arbeitsmittel nicht oder nicht rechtzeitig prüfen lässt,
 
 29.  
-entgegen § 14 Absatz 3 Satz 1 ein Arbeitsmittel einer außerordentlichen Überprüfung nicht oder nicht rechtzeitig unterziehen lässt,
+entgegen § 14 Absatz 3 Satz 2 ein Arbeitsmittel einer außerordentlichen Überprüfung nicht oder nicht rechtzeitig unterziehen lässt,
 
 30.  
 entgegen § 14 Absatz 7 Satz 1 nicht dafür sorgt, dass ein Ergebnis aufgezeichnet und aufbewahrt wird,
@@ -946,7 +948,7 @@ entgegen § 15 Absatz 1 Satz 1 nicht sicherstellt, dass eine überwachungsbedür
 entgegen § 16 Absatz 1 in Verbindung mit Anhang 2 Abschnitt 2 Nummer 4.1 oder 4.3, Abschnitt 3 Nummer 5.1 Satz 1 bis 3 oder 4, Nummer 5.2 Satz 1 oder Nummer 5.3 Satz 1 oder Abschnitt 4 Nummer 5.1 Satz 1, 2 oder 3, Nummer 5.2 bis 5.4 oder 5.5, Nummer 5.7 Satz 3, Nummer 5.8 oder Nummer 5.9 Satz 1 nicht sicherstellt, dass eine überwachungsbedürftige Anlage geprüft wird,
 
 8.  
-ohne Erlaubnis nach § 18 Absatz 1 Satz 1 eine dort genannte Anlage errichtet oder betreibt,
+ohne Erlaubnis nach § 18 Absatz 1 Satz 1 eine dort genannte Anlage errichtet, betreibt oder ändert,
 
 9.  
 einer vollziehbaren Anordnung nach § 19 Absatz 5 Satz 1 zuwiderhandelt oder
@@ -980,7 +982,8 @@ eine in Absatz 1 Nummer 9 oder Nummer 24 bezeichnete Handlung in Bezug auf eine 
 
 ### Anhang 1 (zu § 6 Absatz 1 Satz 2)Besondere Vorschriften für bestimmte Arbeitsmittel
 
-(Fundstelle: BGBl. I 2015, 63 - 69)
+(Fundstelle: BGBl. I 2015, 63 - 69;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Inhaltsübersicht**
 
@@ -1152,7 +1155,7 @@ Gefährdungen durch Quetschen oder Einklemmen der Beschäftigten oder Zusammenst
 d)  
 Bei Störungen im Personenaufnahmemittel sind festsitzende Beschäftigte vor Gefährdungen zu schützen und müssen gefahrlos befreit werden können.
 
-Der Arbeitgeber hat dafür zu sorgen, dass das Heben von Beschäftigten nur mit hierfür vorgesehenen Arbeitsmitteln und Zusatzausrüstungen erfolgt. Abweichend davon ist das Heben von Beschäftigten mit hierfür nicht vorgesehenen Arbeitsmitteln ausnahmsweise zulässig, wenn
+Der Arbeitgeber hat dafür zu sorgen, dass das Heben von Beschäftigten nur mit hierfür vorgesehenen Arbeitsmitteln einschließlich der notwendigen Zusatzausrüstungen erfolgt. Abweichend davon ist das Heben von Beschäftigten mit hierfür nicht vorgesehenen Arbeitsmitteln ausnahmsweise zulässig, wenn
 
 a)  
 die Sicherheit der Beschäftigten auf andere Weise gewährleistet ist,
@@ -1421,7 +1424,8 @@ Druckgase dürfen nur in geeignete Behälter abgefüllt werden.
 
 ### Anhang 2 (zu den §§ 15 und 16)Prüfvorschriften für überwachungsbedürftige Anlagen
 
-(Fundstelle: BGBl. I 2015, 70 - 86)
+(Fundstelle: BGBl. I 2015, 70 - 86;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Abschnitt 1
 
