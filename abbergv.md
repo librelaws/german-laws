@@ -2,7 +2,7 @@ Bergverordnung für alle bergbaulichen Bereiche (ABBergV)
 ========================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 V v. 4.8.2016 I 1957
+Zuletzt geändert durch Art. 4 V v. 18.10.2017 I 3584
 
 ### 
 
@@ -28,6 +28,8 @@ Richtlinie 92/58/EWG des Rates vom 24. Juni 1992 über Mindestvorschriften für 
 
 ```
 (+++ Textnachweis ab: 1.1.1996 +++)
+(+++ Zur Anwendung d. § 5 vgl. § 17 OffshoreBergV +++)
+(+++ Zur Anwendung d. § 3 vgl. § 19 OffshoreBergV +++)
 (+++ Amtliche Hinweise des Normgebers auf EG-Recht:
      Umsetzung der
        EWGRL  91/92 (CELEX Nr: 392L0091) vgl. V v. 3.8.2016 I 1866
@@ -69,7 +71,7 @@ Tätigkeiten in Versuchsgruben und sonstigen bergbaulichen Versuchsanstalten,
 5.  
 Einrichtungen, die überwiegend Tätigkeiten nach den Nummern 1 bis 4 dienen oder zu dienen bestimmt sind,
 
-auf dem Festland sowie im Bereich des Festlandsockels und der Küstengewässer.
+auf dem Festland sowie im Bereich des Festlandsockels und der Küstengewässer. Die §§ 2 bis 22 und 23 sind auch für Anlagen zur Lagerung, Sicherstellung und Endlagerung radioaktiver Stoffe nach § 126 Absatz 3 des Bundesberggesetzes anzuwenden.
 
 ### § 2 Allgemeine Pflichten
 
@@ -167,6 +169,8 @@ dies erforderlich ist, um eine Wiederholung von nach § 74 Abs. 3 des Bundesberg
 
 (4) Das Ergebnis der regelmäßigen Prüfung nach § 2 Abs. 2 ist bei den auf der Grundlage des Sicherheits- und Gesundheitsschutzdokuments getroffenen Maßnahmen schriftlich festzuhalten.
 
+(+++ § 3 Abs. 1: Zur Anwendung vgl. § 19 Abs. 2 OffshoreBergV +++)
+
 ### § 4 Zusammenarbeit der Unternehmer
 
 (1) Werden Beschäftigte mehrerer Unternehmer zeitlich und örtlich gemeinsam in einem Betrieb tätig, so ist jeder Unternehmer für den Bereich verantwortlich, der seinem Weisungsrecht unterliegt. Die Unternehmer haben bei den zur Gewährleistung der Sicherheit und des Gesundheitsschutzes erforderlichen Maßnahmen zusammenzuarbeiten. Sie haben ihre Beschäftigten über die bei den Arbeiten möglichen Gefahren für Sicherheit und Gesundheitsschutz in dem Betrieb zu unterrichten und angemessene Anweisungen zu erteilen.
@@ -211,6 +215,8 @@ Die in Betracht kommenden Arbeiten und Arbeitsstätten sowie Einzelheiten der Be
 (5) Bei Arbeiten, die von mehreren Beschäftigten gemeinsam und ohne ständige Anwesenheit einer verantwortlichen Person ausgeführt werden, hat der Unternehmer sicherzustellen, daß ein Beschäftigter Weisungen erteilen darf.
 
 (6) Der Unternehmer kann die Beaufsichtigung selbst wahrnehmen, wenn er die hierfür erforderlichen Voraussetzungen nach § 59 Abs. 1 des Bundesberggesetzes erfüllt.
+
+(+++ § 5: Zur Anwendung vgl. § 17 Abs. 2 OffshoreBergV +++)
 
 ### § 6 Unterrichtung, Unterweisung, Anhörung
 
@@ -528,7 +534,7 @@ Instandhaltungs-, Instandsetzungs- und Umbauarbeiten nur von hierzu beauftragten
 (3) Der Unternehmer darf nur persönliche Schutzausrüstungen bereitstellen,
 
 1.  
-die den Anforderungen der Verordnung über das Inverkehrbringen von persönlichen Schutzausrüstungen entsprechen und
+die den Anforderungen der Achte Verordnung zum Produktsicherheitsgesetz (Verordnung über die Bereitstellung von persönlichen Schutzausrüstungen auf dem Markt) in der Fassung der Bekanntmachung vom 20. Februar 1997 (BGBl. I S. 316) in der jeweils geltenden Fassung entsprechen und
 
 2.  
 deren Eignung durch die Bewertung nach Absatz 2 Satz 2 festgestellt worden ist.
@@ -553,7 +559,7 @@ Nummer 2 gilt nicht für persönliche Schutzausrüstungen, die für Arbeiten ber
 
 ### § 20 Präventivmedizinische Überwachung, ärztliche Untersuchungen
 
-Der Unternehmer hat zu gewährleisten, daß die Gesundheit der Beschäftigten in Abhängigkeit von den Sicherheits- und Gesundheitsrisiken am Arbeitsplatz in geeigneter Weise überwacht wird. Für die ärztlichen Untersuchungen sind die §§ 2 und 3 der Gesundheitsschutz-Bergverordnung oder § 16 Absatz 2 und 3 und § 23 Absatz 3 Nummer 2, Absatz 4 Nummer 2 und Absatz 5 der Offshore-Bergverordnung vom 3. August 2016 (BGBl. I S. 1866), sowie ergänzend die Regelungen der Verordnung zur arbeitsmedizinischen Vorsorge vom 18. Dezember 2008 (BGBl. I S. 2768), die zuletzt durch Artikel 1 der Verordnung vom 23. Oktober 2013 (BGBl. I S. 3882) geändert worden ist, maßgebend.
+Der Unternehmer hat zu gewährleisten, daß die Gesundheit der Beschäftigten in Abhängigkeit von den Sicherheits- und Gesundheitsrisiken am Arbeitsplatz in geeigneter Weise überwacht wird. Für die ärztlichen Untersuchungen sind die §§ 2 bis 6 der Gesundheitsschutz-Bergverordnung oder § 16 Absatz 2 und 3 und § 23 Absatz 3 Nummer 2, Absatz 4 Nummer 2 und Absatz 5 der Offshore-Bergverordnung vom 3. August 2016 (BGBl. I S. 1866), sowie ergänzend die Regelungen der Verordnung zur arbeitsmedizinischen Vorsorge vom 18. Dezember 2008 (BGBl. I S. 2768), die zuletzt durch Artikel 1 der Verordnung vom 23. Oktober 2013 (BGBl. I S. 3882) geändert worden ist, maßgebend.
 
 ### § 21 Pflichten der Beschäftigten
 
@@ -685,9 +691,9 @@ Eine nachteilige Veränderung des Grundwassers darf hierdurch nicht zu besorgen 
 
 (3) Bei allen Tätigkeiten nach den Absätzen 1 und 2 ist der Stand der Technik einzuhalten.
 
-(4) Das Verbot der untertägigen Einbringung von Lagerstättenwasser in bestimmte Gesteinsformationen nach Absatz 1 Satz 3 gilt für Vorhaben, für die vor dem 6. August 2016 ein bestandskräftig zugelassener Betriebsplan vorgelegen hat, ab dem 7. August 2021.
+(4) Für Vorhaben, für die vor dem 11. Februar 2017 ein bestandskräftig zugelassener Betriebsplan vorgelegen hat, gilt das Verbot der untertägigen Einbringung von Lagerstättenwasser in bestimmte Gesteinsformationen nach Absatz 1 Satz 3 ab dem 11. Februar 2022, wenn der Anlagenbetreiber spätestens bis zum 11. Februar 2019 grundsätzlich zulassungsfähige Anträge für die erforderlichen Zulassungen für eine anderweitige Entsorgung des Lagerstättenwassers (Entsorgungskonzept) nach § 104a Absatz 2 Satz 1 und 2 des Wasserhaushaltsgesetzes vorlegt und die zuständige Behörde die grundsätzliche Zulassungsfähigkeit der Anträge bestätigt. Andernfalls gilt das Verbot nach Absatz 1 Satz 3 für Vorhaben nach Satz 1 ab dem 11. Februar 2020.
 
-§§ 22b u. 22c: Eingef. durch Art. 2 Nr. 1 V v. 4.8.2016 I 1957 mWv 6.8.2016 § 22c Abs. 1 Satz 6 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "untertätigen" abweichend vom Bundesgesetzblatt in "untertägigen" korrigiert
+§ 22c Abs. 1 Satz 6 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "untertätigen" abweichend vom Bundesgesetzblatt in "untertägigen" korrigiert
 
 ### § 23 Übertragung der Verantwortlichkeit
 
