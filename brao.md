@@ -2,7 +2,7 @@ Bundesrechtsanwaltsordnung ()
 =============================
 
 Stand  
-Zuletzt geändert Art. 1 G v. 12.5.2017 I 1121
+Zuletzt geändert Art. 3 G v. 30.10.2017 I 3618
 
 ### 
 
@@ -103,6 +103,7 @@ Allgemeines
 | §  43b | Werbung                                                                                       |
 | §  43c | Fachanwaltschaft                                                                              |
 | §  43d | Darlegungs- und Informationspflichten bei Inkassodienstleistungen                             |
+| §  43e | Inanspruchnahme von Dienstleistungen                                                          |
 | §  44  | Mitteilung der Ablehnung eines Auftrags                                                       |
 | §  45  | Tätigkeitsverbote                                                                             |
 | §  46  | Angestellte Rechtsanwälte und Syndikusrechtsanwälte                                           |
@@ -114,6 +115,7 @@ Allgemeines
 | §  49  | Pflichtverteidigung und Beistandsleistung                                                     |
 | §  49a | Pflicht zur Übernahme der Beratungshilfe                                                      |
 | §  49b | Vergütung                                                                                     |
+| §  49c | Einreichung von Schutzschriften                                                               |
 | §  50  | Handakten                                                                                     |
 | §  51  | Berufshaftpflichtversicherung                                                                 |
 | §  51a | Berufshaftpflichtversicherung einer Partnerschaftsgesellschaft mit beschränkter Berufshaftung |
@@ -877,10 +879,10 @@ den Familiennamen und den oder die Vornamen des Rechtsanwalts;
 den Namen der Kanzlei und deren Anschrift; wird keine Kanzlei geführt, eine zustellfähige Anschrift;
 
 3.  
-den Namen und die Anschrift bestehender Zweigstellen;
+den Namen und die Anschrift bestehender weiterer Kanzleien und Zweigstellen;
 
 4.  
-von dem Rechtsanwalt mitgeteilte Telekommunikationsdaten und Internetadressen der Kanzlei und bestehender Zweigstellen;
+von dem Rechtsanwalt mitgeteilte Telekommunikationsdaten und Internetadressen der Kanzlei und bestehender weiterer Kanzleien und Zweigstellen;
 
 5.  
 die Berufsbezeichnung und Fachanwaltsbezeichnungen;
@@ -889,7 +891,7 @@ die Berufsbezeichnung und Fachanwaltsbezeichnungen;
 den Zeitpunkt der Zulassung;
 
 7.  
-bestehende Berufs-, Berufsausübungs- und Vertretungsverbote;
+bestehende Berufs-, Berufsausübungs- und Vertretungsverbote sowie bestehende, sofort vollziehbare Rücknahmen und Widerrufe der Zulassung;
 
 8.  
 die Bestellung eines Vertreters oder Abwicklers sowie die Benennung eines Zustellungsbevollmächtigten unter Angabe von Familienname, Vorname oder Vornamen und Anschrift des Vertreters, Abwicklers oder Zustellungsbevollmächtigten;
@@ -912,6 +914,10 @@ in den Fällen des § 29 Absatz 1 oder des § 29a Absatz 2 den Inhalt der Befrei
 (4) Sobald die Mitgliedschaft in einer Rechtsanwaltskammer aus anderen Gründen als dem Wechsel der Rechtsanwaltskammer erlischt, hebt die Bundesrechtsanwaltskammer die Zugangsberechtigung zu dem besonderen elektronischen Anwaltspostfach auf. Sie löscht dieses, sobald es nicht mehr benötigt wird.
 
 (5) Die Bundesrechtsanwaltskammer kann auch für sich und für die Rechtsanwaltskammern besondere elektronische Anwaltspostfächer einrichten. Absatz 3 Satz 1 und 5 ist anzuwenden.
+
+(6) Der Inhaber des besonderen elektronischen Anwaltspostfachs ist verpflichtet, die für dessen Nutzung erforderlichen technischen Einrichtungen vorzuhalten sowie Zustellungen und den Zugang von Mitteilungen über das besondere elektronische Anwaltspostfach zur Kenntnis zu nehmen.
+
+(7) Die Bundesrechtsanwaltskammer hat für jede im Gesamtverzeichnis eingetragene weitere Kanzlei eines Mitglieds einer Rechtsanwaltskammer ein weiteres besonderes elektronisches Anwaltspostfach einzurichten. Wird die Eintragung der weiteren Kanzlei im Gesamtverzeichnis gelöscht, hebt die Bundesrechtsanwaltskammer die Zugangsberechtigung zu dem weiteren besonderen elektronischen Anwaltspostfach auf und löscht dieses, sobald es nicht mehr benötigt wird. Absatz 1 Satz 2 und die Absätze 3, 4 und 6 dieser Vorschrift sowie § 31 Absatz 4 Satz 1 und 2 gelten für das weitere besondere elektronische Anwaltspostfach entsprechend.
 
 ### § 31b Europäisches Rechtsanwaltsverzeichnis
 
@@ -1027,7 +1033,7 @@ Der Rechtsanwalt hat seinen Beruf gewissenhaft auszuüben. Er hat sich innerhalb
 
 (1) Der Rechtsanwalt darf keine Bindungen eingehen, die seine berufliche Unabhängigkeit gefährden.
 
-(2) Der Rechtsanwalt ist zur Verschwiegenheit verpflichtet. Diese Pflicht bezieht sich auf alles, was ihm in Ausübung seines Berufes bekanntgeworden ist. Dies gilt nicht für Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
+(2) Der Rechtsanwalt ist zur Verschwiegenheit verpflichtet. Diese Pflicht bezieht sich auf alles, was ihm in Ausübung seines Berufes bekanntgeworden ist. Dies gilt nicht für Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen. Der Rechtsanwalt hat die von ihm beschäftigten Personen in schriftlicher Form zur Verschwiegenheit zu verpflichten und sie dabei über die strafrechtlichen Folgen einer Pflichtverletzung zu belehren. Zudem hat er bei ihnen in geeigneter Weise auf die Einhaltung der Verschwiegenheitspflicht hinzuwirken. Den von dem Rechtsanwalt beschäftigten Personen stehen die Personen gleich, die im Rahmen einer berufsvorbereitenden Tätigkeit oder einer sonstigen Hilfstätigkeit an seiner beruflichen Tätigkeit mitwirken. Satz 4 gilt nicht für Referendare und angestellte Personen, die im Hinblick auf die Verschwiegenheitspflicht den gleichen Anforderungen wie der Rechtsanwalt unterliegen. Hat sich ein Rechtsanwalt mit anderen Personen, die im Hinblick auf die Verschwiegenheitspflicht den gleichen Anforderungen unterliegen wie er, zur gemeinschaftlichen Berufsausübung zusammengeschlossen und besteht zu den Beschäftigten ein einheitliches Beschäftigungsverhältnis, so genügt auch der Nachweis, dass eine andere dieser Personen die Verpflichtung nach Satz 4 vorgenommen hat.
 
 (3) Der Rechtsanwalt darf sich bei seiner Berufsausübung nicht unsachlich verhalten. Unsachlich ist insbesondere ein Verhalten, bei dem es sich um die bewußte Verbreitung von Unwahrheiten oder solche herabsetzenden Äußerungen handelt, zu denen andere Beteiligte oder der Verfahrensverlauf keinen Anlaß gegeben haben.
 
@@ -1085,6 +1091,33 @@ den Namen oder die Firma desjenigen, in dessen Person die Forderung entstanden i
 bei Verträgen die wesentlichen Umstände des Vertragsschlusses.
 
 (2) Privatperson im Sinne des Absatzes 1 ist jede natürliche Person, gegen die eine Forderung geltend gemacht wird, die nicht im Zusammenhang mit ihrer gewerblichen oder selbständigen beruflichen Tätigkeit steht.
+
+### § 43e Inanspruchnahme von Dienstleistungen
+
+(1) Der Rechtsanwalt darf Dienstleistern den Zugang zu Tatsachen eröffnen, auf die sich die Verpflichtung zur Verschwiegenheit gemäß § 43a Absatz 2 Satz 1 bezieht, soweit dies für die Inanspruchnahme der Dienstleistung erforderlich ist. Dienstleister ist eine andere Person oder Stelle, die vom Rechtsanwalt im Rahmen seiner Berufsausübung mit Dienstleistungen beauftragt wird.
+
+(2) Der Rechtsanwalt ist verpflichtet, den Dienstleister sorgfältig auszuwählen. Er hat die Zusammenarbeit unverzüglich zu beenden, wenn die Einhaltung der dem Dienstleister gemäß Absatz 3 zu machenden Vorgaben nicht gewährleistet ist.
+
+(3) Der Vertrag mit dem Dienstleister bedarf der Textform. In ihm ist
+
+1.  
+der Dienstleister unter Belehrung über die strafrechtlichen Folgen einer Pflichtverletzung zur Verschwiegenheit zu verpflichten,
+
+2.  
+der Dienstleister zu verpflichten, sich nur insoweit Kenntnis von fremden Geheimnissen zu verschaffen, als dies zur Vertragserfüllung erforderlich ist, und
+
+3.  
+festzulegen, ob der Dienstleister befugt ist, weitere Personen zur Erfüllung des Vertrags heranzuziehen; für diesen Fall ist dem Dienstleister aufzuerlegen, diese Personen in Textform zur Verschwiegenheit zu verpflichten.
+
+(4) Bei der Inanspruchnahme von Dienstleistungen, die im Ausland erbracht werden, darf der Rechtsanwalt dem Dienstleister den Zugang zu fremden Geheimnissen unbeschadet der übrigen Voraussetzungen dieser Vorschrift nur dann eröffnen, wenn der dort bestehende Schutz der Geheimnisse dem Schutz im Inland vergleichbar ist, es sei denn, dass der Schutz der Geheimnisse dies nicht gebietet.
+
+(5) Bei der Inanspruchnahme von Dienstleistungen, die unmittelbar einem einzelnen Mandat dienen, darf der Rechtsanwalt dem Dienstleister den Zugang zu fremden Geheimnissen nur dann eröffnen, wenn der Mandant darin eingewilligt hat.
+
+(6) Die Absätze 2 und 3 gelten auch im Fall der Inanspruchnahme von Dienstleistungen, in die der Mandant eingewilligt hat, sofern der Mandant nicht ausdrücklich auf die Einhaltung der in den Absätzen 2 und 3 genannten Anforderungen verzichtet hat.
+
+(7) Die Absätze 1 bis 6 gelten nicht, soweit Dienstleistungen auf Grund besonderer gesetzlicher Vorschriften in Anspruch genommen werden. Absatz 3 Satz 2 gilt nicht, soweit der Dienstleister hinsichtlich der zu erbringenden Dienstleistung gesetzlich zur Verschwiegenheit verpflichtet ist.
+
+(8) Die Vorschriften zum Schutz personenbezogener Daten bleiben unberührt.
 
 ### § 44 Mitteilung der Ablehnung eines Auftrags
 
@@ -1543,17 +1576,17 @@ der Abschluß der Berufshaftpflichtversicherung (§ 59j) nachgewiesen ist oder e
 
 (1) Gesellschafter einer Rechtsanwaltsgesellschaft können nur Rechtsanwälte und Angehörige der in § 59a Abs. 1 Satz 1 und Abs. 2 genannten Berufe sein. Sie müssen in der Rechtsanwaltsgesellschaft beruflich tätig sein. § 59a Abs. 1 Satz 3 und 4 und § 172a sind entsprechend anzuwenden.
 
-(2) *Die Mehrheit der Geschäftsanteile und der Stimmrechte muß Rechtsanwälten zustehen.* Sofern Gesellschafter zur Ausübung eines in Absatz 1 Satz 1 genannten Berufs nicht berechtigt sind, haben sie kein Stimmrecht.
+(2) Die Mehrheit der Geschäftsanteile und der Stimmrechte muß Rechtsanwälten zustehen. Sofern Gesellschafter zur Ausübung eines in Absatz 1 Satz 1 genannten Berufs nicht berechtigt sind, haben sie kein Stimmrecht.
 
 (3) Anteile an der Rechtsanwaltsgesellschaft dürfen nicht für Rechnung Dritter gehalten und Dritte nicht am Gewinn der Rechtsanwaltsgesellschaft beteiligt werden.
 
 (4) Gesellschafter können zur Ausübung von Gesellschafterrechten nur stimmberechtigte Gesellschafter bevollmächtigen, die Angehörige desselben Berufs oder Rechtsanwälte sind.
 
-§ 59e Abs. 2 Satz 1 Kursivdruck: Nach Maßgabe der Entscheidungsformel mit Art. 12 Abs. 1 GG (100-1) unvereinbar und nichtig gem. BVerfGE v. 14.1.2014 I 111 - 1 BvR 2998/11, 1 BvR 236/12 -
+§ 59e Abs. 2 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 12 Abs. 1 GG (100-1) unvereinbar und nichtig gem. BVerfGE v. 14.1.2014 I 111 - 1 BvR 2998/11, 1 BvR 236/12 -
 
 ### § 59f Geschäftsführung
 
-(1) *Die Rechtsanwaltsgesellschaft muß von Rechtsanwälten verantwortlich geführt werden. Die Geschäftsführer müssen mehrheitlich Rechtsanwälte sein.*
+(1) Die Rechtsanwaltsgesellschaft muß von Rechtsanwälten verantwortlich geführt werden. Die Geschäftsführer müssen mehrheitlich Rechtsanwälte sein.
 
 (2) Geschäftsführer kann nur sein, wer zur Ausübung eines in § 59e Abs. 1 Satz 1 genannten Berufs berechtigt ist.
 
@@ -1561,7 +1594,7 @@ der Abschluß der Berufshaftpflichtversicherung (§ 59j) nachgewiesen ist oder e
 
 (4) Die Unabhängigkeit der Rechtsanwälte, die Geschäftsführer oder gemäß Absatz 3 bevollmächtigt sind, bei der Ausübung ihres Rechtsanwaltsberufs ist zu gewährleisten. Einflußnahmen der Gesellschafter, namentlich durch Weisungen oder vertragliche Bindungen, sind unzulässig.
 
-§ 59f Abs. 1 Kursivdruck: Nach Maßgabe der Entscheidungsformel mit Art. 12 Abs. 1 GG (100-1) unvereinbar und nichtig gem. BVerfGE v. 14.1.2014 I 111 - 1 BvR 2998/11, 1 BvR 236/12 -
+§ 59f Abs. 1: Nach Maßgabe der Entscheidungsformel mit Art. 12 Abs. 1 GG (100-1) unvereinbar und nichtig gem. BVerfGE v. 14.1.2014 I 111 - 1 BvR 2998/11, 1 BvR 236/12 -
 
 ### § 59g Zulassungsverfahren
 
@@ -1617,7 +1650,7 @@ Die Rechtsanwaltsgesellschaft kann als Prozeß- oder Verfahrensbevollmächtigte 
 
 (1) Die Rechtsanwaltsgesellschaft hat jede Änderung des Gesellschaftsvertrags, der Gesellschafter oder in der Person der nach § 59f Vertretungsberechtigten sowie die Errichtung oder Auflösung von Zweigniederlassungen der Rechtsanwaltskammer unter Beifügung einer öffentlich beglaubigten Abschrift der jeweiligen Urkunde unverzüglich anzuzeigen. Wird die Änderung im Handelsregister eingetragen, ist eine beglaubigte Abschrift der Eintragung nachzureichen.
 
-(2) Für Rechtsanwaltsgesellschaften gelten sinngemäß die Vorschriften des Dritten Abschnitts des Zweiten Teils, die §§ 43 bis 43b, 43d, 44, 48, 49a bis 50, 52 Absatz 1 Satz 1, die §§ 53, 56 Abs. 1 und 2, die §§ 57 bis 59 und 59b, der Vierte Abschnitt des Fünften Teils und § 163.
+(2) Für Rechtsanwaltsgesellschaften gelten sinngemäß die Vorschriften des Dritten Abschnitts des Zweiten Teils, die §§ 43 bis 43b, 43d, 43e, 44, 48, 49a bis 50, 52 Absatz 1 Satz 1, die §§ 53, 56 Abs. 1 und 2, die §§ 57 bis 59 und 59b, der Vierte Abschnitt des Fünften Teils und § 163.
 
 (3) Die Gesellschafter sowie die Mitglieder der durch Gesetz oder Gesellschaftsvertrag vorgesehenen Aufsichtsorgane der Rechtsanwaltsgesellschaft sind zur Verschwiegenheit verpflichtet.
 
@@ -1689,7 +1722,7 @@ Erster Unterabschnitt Vorstand
 
 ### § 64 Wahlen zum Vorstand
 
-(1) Die Mitglieder des Vorstandes werden von der Versammlung der Kammer gewählt.
+(1) Die Mitglieder des Vorstandes werden von den Mitgliedern der Kammer in geheimer und unmittelbarer Wahl durch Briefwahl gewählt. Hierbei kann vorgesehen werden, dass die Stimmen auch in der Kammerversammlung abgegeben werden können. Die Wahl kann auch als elektronische Wahl durchgeführt werden. Gewählt sind die Bewerberinnen oder Bewerber, die die meisten Stimmen auf sich vereinigen.
 
 (2) Das Nähere bestimmt die Geschäftsordnung der Kammer.
 
@@ -1752,7 +1785,7 @@ wenn er sein Amt niederlegt.
 
 (2) Der Rechtsanwalt hat die Erklärung, daß er das Amt niederlege, dem Vorstand gegenüber schriftlich abzugeben. Die Erklärung kann nicht widerrufen werden.
 
-(3) Scheidet ein Mitglied vorzeitig aus, so wird für den Rest seiner Amtszeit in der nächsten Versammlung der Kammer ein neues Mitglied gewählt. Die Versammlung der Kammer kann von der Ersatzwahl absehen, wenn die Zahl der Mitglieder des Vorstandes nicht unter sieben herabsinkt und wenn der Rest der Amtszeit des ausgeschiedenen Mitgliedes nicht mehr als ein Jahr betragen hätte.
+(3) Scheidet ein Mitglied des Vorstandes vorzeitig aus, so ist es für den Rest seiner Amtszeit durch ein neues Mitglied zu ersetzen. Davon kann abgesehen werden, wenn die Zahl der Mitglieder des Vorstandes nicht unter sieben sinkt. Die Ersetzung kann durch das Nachrücken einer bei der letzten Wahl nicht gewählten Person oder durch eine Nachwahl erfolgen. Das Nähere bestimmt die Geschäftsordnung der Kammer.
 
 (4) Ist gegen ein Mitglied des Vorstandes eine öffentliche Klage im Sinne des § 66 Nr. 2 erhoben oder ein anwaltsgerichtliches Verfahren eingeleitet, so ruht seine Mitgliedschaft im Vorstand, bis das Verfahren erledigt ist. Ist ein Berufs- oder Vertretungsverbot (§§ 150, 161a) verhängt worden, so ruht die Mitgliedschaft für dessen Dauer. Besteht gegen ein Mitglied des Vorstandes der Verdacht einer schuldhaften Verletzung seiner beruflichen Pflichten, so ist es von einer Tätigkeit der Rechtsanwaltskammer in dieser Angelegenheit ausgeschlossen.
 
@@ -1977,15 +2010,15 @@ Dritter Unterabschnitt Kammerversammlung
 
 ### § 88 Wahlen und Beschlüsse der Kammerversammlung
 
-(1) Die Voraussetzungen, unter denen die Versammlung beschlußfähig ist, werden durch die Geschäftsordnung der Kammer geregelt.
+(1) Die Voraussetzungen, unter denen die Kammerversammlung beschlußfähig ist, werden durch die Geschäftsordnung der Kammer geregelt.
 
 (2) Die Mitglieder können ihr Wahl- oder Stimmrecht nur persönlich ausüben.
 
-(3) Die Beschlüsse der Versammlung werden mit einfacher Stimmenmehrheit gefaßt. Das gleiche gilt für die von der Kammer vorzunehmenden Wahlen. Wird diese Mehrheit in zwei Wahlgängen nicht erreicht, so ist gewählt, wer in einem weiteren Wahlgang die meisten Stimmen erhält. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag, bei Wahlen entscheidet das Los.
+(3) Die Beschlüsse der Kammerversammlung werden mit einfacher Stimmenmehrheit gefaßt. Das gleiche gilt für die von der Kammerversammlung vorzunehmenden Wahlen. Wird diese Mehrheit in zwei Wahlgängen nicht erreicht, so ist gewählt, wer in einem weiteren Wahlgang die meisten Stimmen erhält. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag, bei Wahlen entscheidet das Los.
 
 (4) Ein Mitglied darf in eigenen Angelegenheiten nicht mitstimmen. Dies gilt jedoch nicht für Wahlen.
 
-(5) Über die Beschlüsse der Kammer und über die Ergebnisse von Wahlen ist ein Protokoll aufzunehmen, das von dem Vorsitzenden und dem Schriftführer zu unterzeichnen ist.
+(5) Über die Beschlüsse und über die Ergebnisse von Wahlen ist ein Protokoll aufzunehmen, das von dem Vorsitzenden und dem Schriftführer zu unterzeichnen ist.
 
 ### § 89 Aufgaben der Kammerversammlung
 
@@ -1994,7 +2027,7 @@ Dritter Unterabschnitt Kammerversammlung
 (2) Der Kammerversammlung obliegt insbesondere,
 
 1.  
-den Vorstand zu wählen;
+die Geschäftsordnung der Kammer zu beschließen;
 
 2.  
 die Höhe und die Fälligkeit des Beitrags, der Umlagen, Gebühren und Auslagen zu bestimmen;
@@ -2011,7 +2044,7 @@ Richtlinien für die Aufwandsentschädigung und die Reisekostenvergütung der Mi
 6.  
 die Abrechnung des Vorstandes über die Einnahmen und Ausgaben der Kammer sowie über die Verwaltung des Vermögens zu prüfen und über die Entlastung zu beschließen.
 
-(3) Die Kammer gibt sich eine Geschäftsordnung.
+(3) (weggefallen)
 
 ### (XXXX) §§ 90 und 91 (weggefallen)
 
@@ -2764,7 +2797,9 @@ Für die Rechtsanwaltschaft bei dem Bundesgerichtshof gelten der Erste bis Siebe
 
 ### § 163 Sachliche Zuständigkeit
 
-Von den Aufgaben, die nach den Vorschriften des Ersten bis Siebenten Teils dieses Gesetzes der Rechtsanwaltskammer zugewiesen sind, nimmt das Bundesministerium der Justiz und für Verbraucherschutz die Aufgaben wahr, die die Zulassung zur Rechtsanwaltschaft und ihr Erlöschen, die Kanzlei sowie die Bestellung eines Vertreters oder Abwicklers betreffen. Das Bundesministerium der Justiz und für Verbraucherschutz ist die zuständige Stelle nach § 51 Absatz 7. Es nimmt auch die Aufgaben wahr, die der Landesjustizverwaltung zugewiesen sind. Die Wahrnehmung der übrigen Aufgaben obliegt der Rechtsanwaltskammer bei dem Bundesgerichtshof. An die Stelle des Anwaltsgerichts und des Anwaltsgerichtshofes tritt in Verfahren zur Ahndung von Pflichtverletzungen der Bundesgerichtshof. Der Generalbundesanwalt beim Bundesgerichtshof nimmt die Aufgaben der Staatsanwaltschaft wahr.
+Von den Aufgaben, die nach den Vorschriften des Ersten bis Siebenten Teils dieses Gesetzes der Rechtsanwaltskammer *zugewiesen* sind, nimmt das Bundesministerium der Justiz und für Verbraucherschutz die Aufgaben wahr, die die Zulassung zur Rechtsanwaltschaft und ihr Erlöschen, die Kanzlei sowie die Bestellung eines Vertreters oder Abwicklers betreffen. Das Bundesministerium der Justiz und für Verbraucherschutz ist die zuständige Stelle nach § 51 Absatz 7. Es nimmt auch die Aufgaben wahr, die der Landesjustizverwaltung zugewiesen sind. Die Wahrnehmung der übrigen Aufgaben obliegt der Rechtsanwaltskammer bei dem Bundesgerichtshof. An die Stelle des Anwaltsgerichts und des Anwaltsgerichtshofes tritt in Verfahren zur Ahndung von Pflichtverletzungen der Bundesgerichtshof. Der Generalbundesanwalt beim Bundesgerichtshof nimmt die Aufgaben der Staatsanwaltschaft wahr.
+
+§ 163 Satz 1 Kursivdruck: Das Wort "zugewiesenen" wurde wegen offensichtlicher Unrichtigkeit in "zugewiesen" geändert
 
 Zweiter Abschnitt Zulassung als Rechtsanwalt bei dem Bundesgerichtshof
 ----------------------------------------------------------------------
