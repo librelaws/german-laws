@@ -2,10 +2,7 @@ Bundesnotarordnung (BNotO)
 ==========================
 
 Stand  
-Zuletzt geändert durch Art. 1 G v. 23.11.2015 I 2090
-
-Sonst  
-Mittelbare Änderung durch Art. 2 G v. 23.11.2015 I 2090 berücksichtigt
+Zuletzt geändert durch 4 G v. 30.10.2017 I 3618
 
 ### 
 
@@ -68,7 +65,7 @@ Die Notare unterstehen, soweit nichts anderes bestimmt ist, ausschließlich den 
 
 ### § 4
 
-Es werden so viele Notare bestellt, wie es den Erfordernissen einer geordneten Rechtspflege entspricht. Dabei ist insbesondere das Bedürfnis nach einer angemessenen Versorgung der Rechtsuchenden mit notariellen Leistungen und die Wahrung einer geordneten Altersstruktur des Notarberufs zu berücksichtigen.
+Es werden so viele Notare bestellt, wie es den Erfordernissen einer geordneten Rechtspflege entspricht. Dabei sind insbesondere das Bedürfnis nach einer angemessenen Versorgung der Rechtsuchenden mit notariellen Leistungen und die Wahrung einer geordneten Altersstruktur des Notarberufs zu berücksichtigen.
 
 ### § 5
 
@@ -94,7 +91,7 @@ ab dem auf das Bestehen der notariellen Fachprüfung folgenden Kalenderjahr im U
 
 Vor der Bestellung zum Notar hat der Bewerber darüber hinaus nachzuweisen, dass er mit der notariellen Berufspraxis hinreichend vertraut ist; dieser Nachweis soll in der Regel dadurch erbracht werden, dass der Bewerber nach Bestehen der notariellen Fachprüfung 160 Stunden Praxisausbildung bei einem Notar, den die für den in Aussicht genommenen Amtsbereich zuständige Notarkammer bestimmt, durchläuft. Die Praxisausbildung kann auf bis zu 80 Stunden verkürzt werden, wenn der Bewerber vergleichbare Erfahrungen als Notarvertreter oder Notariatsverwalter oder durch die erfolgreiche Teilnahme an von den Notarkammern oder den Berufsorganisationen durchgeführten Praxislehrgängen nachweist. Die Einzelheiten zu den Sätzen 2 und 3 regelt die Notarkammer in einer Ausbildungsordnung, die der Genehmigung der Landesjustizverwaltung bedarf. Auf die Tätigkeit nach Satz 1 Nr. 1 werden auf Antrag Zeiten nach Absatz 4 und Zeiten eines vorübergehenden Verzichts auf die Zulassung zur Rechtsanwaltschaft wegen Schwangerschaft oder Betreuung eines Kindes oder eines pflegebedürftigen Angehörigen bis zur Dauer von zwölf Monaten angerechnet. Unterbrechungen der Tätigkeiten nach Satz 1 Nr. 1 und 2 auf Grund von Ereignissen des täglichen Lebens bleiben außer Betracht. Nicht als Unterbrechung der Tätigkeit nach Satz 1 Nr. 2 gelten die in Satz 5 genannten Zeiten für die Dauer von bis zu zwölf Monaten.
 
-(3) Die Reihenfolge bei der Auswahl unter mehreren geeigneten Bewerbern richtet sich nach der persönlichen und der fachlichen Eignung unter Berücksichtigung der die juristische Ausbildung abschließenden Staatsprüfung und der bei der Vorbereitung auf den Notarberuf gezeigten Leistungen. Im Fall des § 3 Abs. 1 ist die Dauer des Anwärterdienstes angemessen zu berücksichtigen. Im Fall des § 3 Abs. 2 wird die fachliche Eignung nach Punkten bewertet; die Punktzahl bestimmt sich zu 60 vom Hundert nach dem Ergebnis der notariellen Fachprüfung und zu 40 vom Hundert nach dem Ergebnis der die juristische Ausbildung abschließenden Staatsprüfung, soweit nicht bei einem Bewerber, der Notar ist oder war, im Einzelfall nach Anhörung der Notarkammer ausnahmsweise besondere, die fachliche Eignung vorrangig kennzeichnende Umstände zu berücksichtigen sind. Bei gleicher Punktzahl ist im Regelfall auf das Ergebnis der notariellen Fachprüfung abzustellen.
+(3) Die Reihenfolge bei der Auswahl unter mehreren geeigneten Bewerbern richtet sich nach der persönlichen und der fachlichen Eignung unter Berücksichtigung der die juristische Ausbildung abschließenden Staatsprüfung und der bei der Vorbereitung auf den Notarberuf gezeigten Leistungen. Im Fall des § 3 Abs. 1 ist die Dauer des Anwärterdienstes angemessen zu berücksichtigen. Im Fall des § 3 Abs. 2 wird die fachliche Eignung nach Punkten bewertet; die Punktzahl bestimmt sich zu 60 Prozent nach dem Ergebnis der notariellen Fachprüfung und zu 40 Prozent nach dem Ergebnis der die juristische Ausbildung abschließenden Staatsprüfung, soweit nicht bei einem Bewerber, der Notar ist oder war, im Einzelfall nach Anhörung der Notarkammer ausnahmsweise besondere, die fachliche Eignung vorrangig kennzeichnende Umstände zu berücksichtigen sind. Bei gleicher Punktzahl ist im Regelfall auf das Ergebnis der notariellen Fachprüfung abzustellen.
 
 (4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung Bestimmungen über die Anrechnung von Wehr- und Ersatzdienstzeiten, Zeiten eines Beschäftigungsverbotes nach Mutterschutzvorschriften und Zeiten der Beurlaubung wegen Inanspruchnahme von Elternzeit auf die Dauer des Anwärterdienstes nach Absatz 3 Satz 2 sowie bei einer erneuten Bestellung über die Zeiten einer vorübergehenden Amtsniederlegung nach § 48b auf die bisherige Amtstätigkeit zu treffen. Sie können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
@@ -122,7 +119,7 @@ Die Bestellung muß versagt werden, wenn der Bewerber weder nachweist, daß eine
 
 (4) Der Notarassessor steht während des Anwärterdienstes in einem öffentlich-rechtlichen Dienstverhältnis zum Staat. Er hat mit Ausnahme des § 19a dieselben allgemeinen Amtspflichten und sonstige Pflichten wie der Notar. Er erhält vom Zeitpunkt der Zuweisung ab für die Dauer des Anwärterdienstes von der Notarkammer Bezüge, die denen eines Richters auf Probe anzugleichen sind. Die Notarkammer erläßt hierzu Richtlinien und bestimmt allgemein oder im Einzelfall, ob und in welcher Höhe der Notar, dem der Notarassessor überwiesen ist, ihr zur Erstattung der Bezüge verpflichtet ist.
 
-(5) Der Notarassessor ist von dem Notar in einer dem Zweck des Anwärterdienstes entsprechenden Weise zu beschäftigen. Die näheren Bestimmungen über die Ausbildung des Notarassessors trifft die Landesregierung oder die von ihr bestimmte Stelle durch Rechtsverordnung.
+(5) Der Notarassessor ist von dem Notar in einer dem Zweck des Anwärterdienstes entsprechenden Weise zu beschäftigen. Die näheren Bestimmungen über die Ausbildung des Notarassessors trifft die Landesregierung oder die von ihr durch Rechtsverordnung bestimmte Stelle durch Rechtsverordnung.
 
 (6) Der Anwärterdienst endet
 
@@ -155,7 +152,7 @@ nach Ableistung des dreijährigen Anwärterdienstes sich ohne hinreichenden Grun
 
 (5) Für die von den einzelnen Prüfern vorzunehmenden Bewertungen und die Bildung der Prüfungsgesamtnote gelten die §§ 1 und 2 der Verordnung über eine Noten- und Punkteskala für die erste und zweite juristische Staatsprüfung vom 3. Dezember 1981 (BGBl. I S. 1243) entsprechend.
 
-(6) Die schriftliche Prüfung ist mit einem Anteil von 75 vom Hundert, die mündliche Prüfung ist mit einem Anteil von 25 vom Hundert bei dem Ergebnis der notariellen Fachprüfung zu berücksichtigen. Die notarielle Fachprüfung ist bestanden, wenn der Prüfling mindestens die Gesamtpunktzahl 4,00 erreicht hat.
+(6) Die schriftliche Prüfung ist mit einem Anteil von 75 Prozent, die mündliche Prüfung ist mit einem Anteil von 25 Prozent bei dem Ergebnis der notariellen Fachprüfung zu berücksichtigen. Die notarielle Fachprüfung ist bestanden, wenn der Prüfling mindestens die Gesamtpunktzahl 4,00 erreicht hat.
 
 (7) Ist die Prüfung nicht bestanden oder für nicht bestanden erklärt worden, kann sie einmal wiederholt werden. Eine bestandene Prüfung kann frühestens nach drei Jahren ab Bekanntgabe des Bescheides über das Ergebnis der notariellen Fachprüfung mit dem Ziel der Notenverbesserung einmal wiederholt werden.
 
@@ -256,7 +253,7 @@ Die Genehmigung ist zu versagen, wenn die Tätigkeit nach Satz 1 mit dem öffent
 
 ### § 9
 
-(1) Zur hauptberuflichen Amtsausübung bestellte Notare dürfen sich nur mit am selben Amtssitz bestellten Notaren zur gemeinsamen Berufsausübung verbinden oder mit ihnen gemeinsame Geschäftsräume haben. Die Landesregierungen oder die von ihnen bestimmten Stellen werden ermächtigt, um den Erfordernissen einer geordneten Rechtspflege insbesondere im Hinblick auf die örtlichen Bedürfnisse und Gewohnheiten Rechnung zu tragen, durch Rechtsverordnung zu bestimmen,
+(1) Zur hauptberuflichen Amtsausübung bestellte Notare dürfen sich nur mit am selben Amtssitz bestellten Notaren zur gemeinsamen Berufsausübung verbinden oder mit ihnen gemeinsame Geschäftsräume haben. Die Landesregierungen oder die von ihnen durch Rechtsverordnung bestimmten Stellen werden ermächtigt, um den Erfordernissen einer geordneten Rechtspflege insbesondere im Hinblick auf die örtlichen Bedürfnisse und Gewohnheiten Rechnung zu tragen, durch Rechtsverordnung zu bestimmen,
 
 1.  
 daß eine Verbindung zur gemeinsamen Berufsausübung oder eine gemeinsame Nutzung der Geschäftsräume nach Satz 1 nur mit Genehmigung der Aufsichtsbehörde, die mit Auflagen verbunden oder befristet werden kann, und nach Anhörung der Notarkammer zulässig ist;
@@ -272,7 +269,7 @@ die Voraussetzungen der gemeinsamen Berufsausübung oder die gemeinsame Nutzung 
 
 (1) Dem Notar wird ein bestimmter Ort als Amtssitz zugewiesen. In Städten von mehr als hunderttausend Einwohnern kann dem Notar ein bestimmter Stadtteil oder Amtsgerichtsbezirk als Amtssitz zugewiesen werden. Der Amtssitz darf unter Beachtung der Belange einer geordneten Rechtspflege nach Anhörung der Notarkammer mit Zustimmung des Notars verlegt werden. Für die Zuweisung eines anderen Amtssitzes auf Grund disziplinargerichtlichen Urteils bedarf es der Zustimmung des Notars nicht.
 
-(2) Der Notar hat an dem Amtssitz seine Geschäftsstelle zu halten. Er hat seine Wohnung so zu nehmen, daß er in der ordnungsgemäßen Wahrnehmung seiner Amtsgeschäfte nicht beeinträchtigt wird; die Aufsichtsbehörde kann ihn anweisen, seine Wohnung am Amtssitz zu nehmen, wenn dies im Interesse der Rechtspflege geboten ist. Beim Anwaltsnotar müssen die Geschäftsstelle und die Kanzlei nach § 27 Abs. 1 der Bundesrechtsanwaltsordnung örtlich übereinstimmen.
+(2) Der Notar hat an dem Amtssitz seine Geschäftsstelle zu halten. Er hat seine Wohnung so zu nehmen, daß er in der ordnungsgemäßen Wahrnehmung seiner Amtsgeschäfte nicht beeinträchtigt wird; die Aufsichtsbehörde kann ihn anweisen, seine Wohnung am Amtssitz zu nehmen, wenn dies im Interesse der Rechtspflege geboten ist. Beim Anwaltsnotar müssen die Geschäftsstelle und eine Kanzlei nach § 27 Absatz 1 oder 2 der Bundesrechtsanwaltsordnung örtlich übereinstimmen.
 
 (3) Der Notar soll seine Geschäftsstelle während der üblichen Geschäftsstunden offen halten.
 
@@ -340,7 +337,7 @@ Wird der Eid von einer Notarin geleistet, so treten an die Stelle der Wörter "e
 
 (2) Gegen die Verweigerung der Urkunds- oder sonstigen Tätigkeit des Notars findet die Beschwerde statt. Beschwerdegericht ist eine Zivilkammer des Landgerichts, in dessen Bezirk der Notar seinen Amtssitz hat. Für das Verfahren gelten die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
-(3) In Abweichung von Absatz 1 und 2 darf der Notar seine Amtstätigkeit in den Fällen der §§ 39a, 42 Abs. 4 des Beurkundungsgesetzes verweigern, soweit er nicht über die notwendigen technischen Einrichtungen verfügt. Der Notar muss jedoch spätestens ab dem 1. April 2006 über zumindest eine Einrichtung verfügen, die Verfahren nach Satz 1 ermöglicht.
+(3) (weggefallen)
 
 ### § 16
 
@@ -372,7 +369,7 @@ Wird der Eid von einer Notarin geleistet, so treten an die Stelle der Wörter "e
 
 (3) Für Schadensersatzansprüche nach Absatz 1 und 2 sind die Landgerichte ohne Rücksicht auf den Wert des Streitgegenstandes ausschließlich zuständig.
 
-§ 19: Änd. durch G v. 26.6.1981 I 553, gem. BVerfGE v. 19.10.1982 I 1493 mit Art. 70 GG unvereinbar und daher nichtig
+§ 19: Änd. durch G v. 26.6.1981 I 553 gem. BVerfGE v. 19.10.1982 I 1493 mit Art. 70 GG unvereinbar und daher nichtig, dadurch gilt § 19 wieder in der vorstehend angezeigten, am 31.12.1981 geltenden Fassung
 
 ### § 19a
 
@@ -393,13 +390,13 @@ Ist bei Vorliegen einer Amtspflichtverletzung nur streitig, ob der Ausschlußgru
 
 (3) Die Mindestversicherungssumme beträgt 500.000 Euro für jeden Versicherungsfall. Die Leistungen des Versicherers für alle innerhalb eines Versicherungsjahres verursachten Schäden dürfen auf den doppelten Betrag der Mindestversicherungssumme begrenzt werden. Der Versicherungsvertrag muß dem Versicherer die Verpflichtung auferlegen, der Landesjustizverwaltung und der Notarkammer den Beginn und die Beendigung oder Kündigung des Versicherungsvertrages sowie jede Änderung des Versicherungsvertrages, die den vorgeschriebenen Versicherungsschutz beeinträchtigt, unverzüglich mitzuteilen. Im Versicherungsvertrag kann vereinbart werden, daß sämtliche Pflichtverletzungen bei der Erledigung eines einheitlichen Amtsgeschäftes, mögen diese auf dem Verhalten des Notars oder einer von ihm herangezogenen Hilfsperson beruhen, als ein Versicherungsfall gelten.
 
-(4) Die Vereinbarung eines Selbstbehaltes bis zu 1 vom Hundert der Mindestversicherungssumme ist zulässig.
+(4) Die Vereinbarung eines Selbstbehaltes bis zu einem Prozent der Mindestversicherungssumme ist zulässig.
 
 (5) Zuständige Stelle im Sinne des § 117 Abs. 2 des Versicherungsvertragsgesetzes ist die Landesjustizverwaltung.
 
 (6) Die Landesjustizverwaltung oder die Notarkammer, der der Notar angehört, erteilt Dritten zur Geltendmachung von Schadensersatzansprüchen auf Antrag Auskunft über den Namen und die Adresse der Berufshaftpflichtversicherung des Notars sowie die Versicherungsnummer, soweit der Notar kein überwiegendes schutzwürdiges Interesse an der Nichterteilung der Auskunft hat; dies gilt auch, wenn das Notaramt erloschen ist.
 
-(7) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Mindestversicherungssumme für die Pflichtversicherungen nach Absatz 1 anders festzusetzen, wenn dies erforderlich ist, um bei einer Änderung der wirtschaftlichen Verhältnisse einen hinreichenden Schutz der Geschädigten sicherzustellen.
+(7) (weggefallen)
 
 3. Abschnitt Die Amtstätigkeit
 ------------------------------
@@ -442,7 +439,7 @@ wenn sich diese Umstände aus einer Eintragung im Handelsregister oder in einem 
 
 ### § 23
 
-Die Notare sind auch zuständig, Geld, Wertpapiere und Kostbarkeiten, die ihnen von den Beteiligten übergeben sind, zur Aufbewahrung oder zur Ablieferung an Dritte zu übernehmen; §§ 54a bis 54d des Beurkundungsgesetzes bleiben unberührt.
+Die Notare sind auch zuständig, Geld, Wertpapiere und Kostbarkeiten, die ihnen von den Beteiligten übergeben sind, zur Aufbewahrung oder zur Ablieferung an Dritte zu übernehmen; die §§ 57 bis 62 des Beurkundungsgesetzes bleiben unberührt.
 
 ### § 24
 
@@ -461,11 +458,36 @@ Die Notare sind auch zuständig, Geld, Wertpapiere und Kostbarkeiten, die ihnen 
 
 (1) Der Notar darf Mitarbeiter mit Befähigung zum Richteramt, Laufbahnprüfung für das Amt des Bezirksnotars oder Abschluß als Diplom-Jurist nur beschäftigen, soweit seine persönliche Amtsausübung nicht gefährdet wird.
 
-(2) Die Landesregierungen oder die von ihnen bestimmten Stellen werden ermächtigt, zur Wahrung der Belange einer geordneten Rechtspflege durch Rechtsverordnung zu bestimmen, daß der Notar Mitarbeiter mit Befähigung zum Richteramt, Laufbahnprüfung für das Amt des Bezirksnotars oder Abschluß als Diplom-Jurist nur beschäftigen darf, wenn die Aufsichtsbehörde dies nach Anhörung der Notarkammer genehmigt hat. Die Genehmigung kann mit Auflagen verbunden und mit dem Vorbehalt des Widerrufs erteilt sowie befristet werden.
+(2) Die Landesregierungen oder die von ihnen durch Rechtsverordnung bestimmten Stellen werden ermächtigt, zur Wahrung der Belange einer geordneten Rechtspflege durch Rechtsverordnung zu bestimmen, daß der Notar Mitarbeiter mit Befähigung zum Richteramt, Laufbahnprüfung für das Amt des Bezirksnotars oder Abschluß als Diplom-Jurist nur beschäftigen darf, wenn die Aufsichtsbehörde dies nach Anhörung der Notarkammer genehmigt hat. Die Genehmigung kann mit Auflagen verbunden und mit dem Vorbehalt des Widerrufs erteilt sowie befristet werden.
 
-### § 26
+### § 26 Förmliche Verpflichtung beschäftigter Personen
 
-Der Notar hat die bei ihm beschäftigten Personen mit Ausnahme der Notarassessoren und der ihm zur Ausbildung zugewiesenen Referendare bei der Einstellung nach § 1 des Verpflichtungsgesetzes förmlich zu verpflichten. Hierbei ist auf die Bestimmungen in § 14 Abs. 4 und § 18 besonders hinzuweisen. Besteht ein einheitliches Beschäftigungsverhältnis zu mehreren Notaren, so genügt es, wenn einer von ihnen die Verpflichtung vornimmt.
+Der Notar hat die von ihm beschäftigten Personen bei ihrer Einstellung nach § 1 des Verpflichtungsgesetzes förmlich zu verpflichten. Hierbei ist auf die Bestimmungen des § 14 Absatz 4 und des § 18 besonders hinzuweisen. Hat sich ein Notar mit anderen Personen zur gemeinschaftlichen Berufsausübung zusammengeschlossen und besteht zu den Beschäftigten ein einheitliches Beschäftigungsverhältnis, so genügt es, wenn ein Notar die Verpflichtung vornimmt. Der Notar hat in geeigneter Weise auf die Einhaltung der Verschwiegenheitspflicht durch die von ihm beschäftigten Personen hinzuwirken. Den von dem Notar beschäftigten Personen stehen die Personen gleich, die im Rahmen einer berufsvorbereitenden Tätigkeit oder einer sonstigen Hilfstätigkeit an seiner beruflichen Tätigkeit mitwirken. Die Sätze 1 bis 3 gelten nicht für Notarassessoren und Referendare.
+
+### § 26a Inanspruchnahme von Dienstleistungen
+
+(1) Der Notar darf Dienstleistern ohne Einwilligung der Beteiligten den Zugang zu Tatsachen eröffnen, auf die sich die Verpflichtung zur Verschwiegenheit gemäß § 18 bezieht, soweit dies für die Inanspruchnahme der Dienstleistung erforderlich ist. Dienstleister ist eine andere Person oder Stelle, die vom Notar im Rahmen seiner Berufsausübung mit Dienstleistungen beauftragt wird.
+
+(2) Der Notar ist verpflichtet, den Dienstleister sorgfältig auszuwählen. Die Zusammenarbeit muss unverzüglich beendet werden, wenn die Einhaltung der dem Dienstleister gemäß Absatz 3 zu machenden Vorgaben nicht gewährleistet ist.
+
+(3) Der Vertrag mit dem Dienstleister bedarf der Schriftform. In ihm ist
+
+1.  
+der Dienstleister unter Belehrung über die strafrechtlichen Folgen einer Pflichtverletzung zur Verschwiegenheit zu verpflichten,
+
+2.  
+der Dienstleister zu verpflichten, sich nur insoweit Kenntnis von fremden Geheimnissen zu verschaffen, als dies zur Vertragserfüllung erforderlich ist, und
+
+3.  
+festzulegen, ob der Dienstleister befugt ist, weitere Personen zur Erfüllung des Vertrags heranzuziehen; für diesen Fall ist dem Dienstleister aufzuerlegen, diese Personen in schriftlicher Form zur Verschwiegenheit zu verpflichten.
+
+(4) Bei der Inanspruchnahme von Dienstleistungen, die unmittelbar einem einzelnen Amtsgeschäft dienen, darf der Notar dem Dienstleister den Zugang zu fremden Geheimnissen nur dann eröffnen, wenn der Beteiligte darin eingewilligt hat.
+
+(5) Die Absätze 2 und 3 gelten auch für den Fall der Inanspruchnahme von Dienstleistungen, in die die Beteiligten eingewilligt haben, sofern die Beteiligten nicht ausdrücklich auf die Einhaltung der in den Absätzen 2 und 3 genannten Anforderungen verzichtet haben.
+
+(6) Absatz 3 gilt nicht in den Fällen, in denen der Dienstleister nach § 1 des Verpflichtungsgesetzes förmlich verpflichtet wurde. Absatz 3 Satz 2 gilt nicht, soweit der Dienstleister hinsichtlich der zu erbringenden Dienstleistung gesetzlich zur Verschwiegenheit verpflichtet ist.
+
+(7) Andere Vorschriften, die für Notare die Inanspruchnahme von Dienstleistungen einschränken, sowie die Vorschriften zum Schutz personenbezogener Daten bleiben unberührt.
 
 ### § 27
 
@@ -483,9 +505,9 @@ Der Notar hat durch geeignete Vorkehrungen die Wahrung der Unabhängigkeit und U
 
 (2) Eine dem Notar in Ausübung seiner Tätigkeiten nach § 8 erlaubte Werbung darf sich nicht auf seine Tätigkeit als Notar erstrecken.
 
-(3) Ein Anwaltsnotar, der sich nach § 9 Abs. 3 mit nicht an seinem Amtssitz tätigen Personen verbunden oder mit ihnen gemeinsame Geschäftsräume hat, darf seine Amtsbezeichnung als Notar auf Drucksachen und anderen Geschäftspapieren nur angeben, wenn sie von seiner Geschäftsstelle aus versandt werden und auch nur auf demjenigen Amts- oder Namensschild führen, das an seinem Amtssitz auf seine Geschäftsstelle hinweist. In überörtlich verwendeten Verzeichnissen ist der Angabe der Amtsbezeichnung ein Hinweis auf den Amtssitz hinzuzufügen.
+(3) Ein Anwaltsnotar, der sich nach § 9 Absatz 2 mit nicht an seinem Amtssitz tätigen Personen verbunden hat oder der weitere Kanzleien oder Zweigstellen unterhält, darf auf Geschäftspapieren, in Verzeichnissen, in der Werbung und auf nicht an einer Geschäftsstelle befindlichen Geschäftsschildern seine Amtsbezeichnung als Notar nur unter Hinweis auf seinen Amtssitz angeben. Der Hinweis muss der Amtsbezeichnung unmittelbar nachfolgen, ihr im Erscheinungsbild entsprechen und das Wort „Amtssitz“ enthalten. Satz 1 gilt nicht, soweit die Geschäftspapiere, die Verzeichnisse oder die Werbung keinen Hinweis auf die Verbindung nach § 9 Absatz 2 oder weitere Kanzleien oder Zweigstellen enthalten.
 
-§ 29 Abs. 3 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 12 Abs. 1 GG unvereinbar und nichtig gem. BVerfGE v. 8.3.2005 I 1413 - 1 BvR 2561/03 -
+(4) Amts- und Namensschilder dürfen nur an Geschäftsstellen geführt werden.
 
 ### § 30
 
@@ -501,7 +523,66 @@ Der Notar hat sich gegenüber Kollegen, Gerichten, Behörden, Rechtsanwälten un
 
 Der Notar hat das Bundesgesetzblatt Teil I, das Gesetzblatt des Landes, das Bekanntmachungsblatt der Landesjustizverwaltung und das Verkündungsblatt der Bundesnotarkammer zu halten. Sind mehrere Notare zu gemeinsamer Berufsausübung verbunden, so genügt der gemeinschaftliche Bezug je eines Stücks.
 
-### (XXXX) §§ 33 bis 37 (weggefallen)
+### § 33 Elektronische Signatur
+
+(1) Der Notar muss über ein auf Dauer prüfbares qualifiziertes Zertifikat eines qualifizierten Vertrauensdiensteanbieters und über die technischen Mittel für die Erzeugung und Validierung qualifizierter elektronischer Signaturen verfügen. Bei der erstmaligen Beantragung eines qualifizierten Zertifikats für elektronische Signaturen hat die Identifizierung durch die öffentliche Beglaubigung der Unterschrift des Notars unter dem Antrag zu erfolgen. Das qualifizierte Zertifikat muss mit einem Attribut versehen sein, welches den Inhaber als Notar ausweist und daneben den Amtssitz des Notars sowie das Land und die Notarkammer enthält, in deren Bezirk der Notar seinen Amtssitz hat.
+
+(2) Der Notar darf sein qualifiziertes Zertifikat nur von einem qualifizierten Vertrauensdiensteanbieter beziehen, der gewährleistet, dass das Zertifikat unverzüglich gesperrt wird, sobald das Erlöschen des Amtes des Notars oder eine vorläufige Amtsenthebung in das Notarverzeichnis eingetragen wird.
+
+(3) Der Notar darf die zur Erzeugung amtlicher qualifizierter Signaturen bestimmten elektronischen Signaturerstellungsdaten nur selbst verwalten. Er darf die hierzu bestimmte qualifizierte elektronische Signaturerstellungseinheit keiner anderen Person überlassen und er darf keine Wissensdaten preisgeben, die er zur Identifikation gegenüber seiner qualifizierten elektronischen Signaturerstellungseinheit benutzt.
+
+### § 34 Meldepflichten
+
+Der Notar hat der Aufsichtsbehörde sowie derjenigen Notarkammer, in deren Bezirk er seinen Amtssitz hat, unverzüglich mitzuteilen, wenn er feststellt oder begründeten Anlass zu der Annahme hat, dass
+
+1.  
+sein Amtssiegel dauerhaft oder zeitweise abhandengekommen ist oder missbraucht wurde oder eine Fälschung seines Amtssiegels im Umlauf ist,
+
+2.  
+seine qualifizierte elektronische Signaturerstellungseinheit abhandengekommen ist, missbraucht oder manipuliert wurde oder Wissensdaten zur Identifikation des Notars gegenüber der qualifizierten elektronischen Signaturerstellungseinheit einer anderen Person bekannt geworden sind,
+
+3.  
+Wissensdaten oder andere Vorkehrungen, die zum Schutz des Elektronischen Urkundenarchivs, des Elektronischen Notaraktenspeichers, des Zentralen Vorsorgeregisters oder des Zentralen Testamentsregisters vor unbefugtem Zugang vorgesehen sind, missbraucht, manipuliert oder Unbefugten zugänglich geworden sind.
+
+Im Fall des Satzes 1 Nummer 2 hat der Notar außerdem unverzüglich eine Sperrung des qualifizierten Zertifikats bei dem Vertrauensdiensteanbieter zu veranlassen und den Nachweis über die Sperrung mit der Mitteilung nach Satz 1 vorzulegen. Im Fall des Satzes 1 Nummer 3 hat die Notarkammer unverzüglich die Bundesnotarkammer zu unterrichten, wenn Anlass zu der Annahme besteht, dass die Sicherheit des Elektronischen Urkundenarchivs, des Elektronischen Notaraktenspeichers, des Zentralen Vorsorgeregisters oder des Zentralen Testamentsregisters auch im Hinblick auf die von anderen Stellen übermittelten oder verwahrten Daten betroffen ist.
+
+Abschnitt 4a Führung der Akten und Verzeichnisse
+------------------------------------------------
+
+### 
+
+### § 35 (weggefallen)
+
+### § 36 Verordnungsermächtigung zu Akten und Verzeichnissen
+
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz hat durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Bestimmungen zu treffen über die vom Notar zu führenden Akten und Verzeichnisse, über deren Inhalt sowie die Art und Weise ihrer Führung. Insbesondere sind darin nähere Bestimmungen zu treffen über
+
+1.  
+die vom Notar zu den Akten zu nehmenden Unterlagen sowie die in die Verzeichnisse einzutragenden Angaben einschließlich der zu erhebenden Daten und der insoweit zu beachtenden Fristen,
+
+2.  
+die Aufbewahrungsfristen,
+
+3.  
+die Einzelheiten der elektronischen Führung von Akten und Verzeichnissen nach § 35 Absatz 2 sowie über die Maßnahmen zur Gewährleistung der Vertraulichkeit, der Integrität, der Transparenz und der Verfügbarkeit auch über die Amtszeit des Notars hinaus einschließlich der zulässigen Datenformate sowie der Schnittstellen und der Datenverknüpfungen zwischen den Akten und Verzeichnissen,
+
+4.  
+die Voraussetzungen, unter denen die durch oder auf Grund eines Gesetzes vorgesehene Übertragung eines in Papierform vorliegenden Schriftstücks in die elektronische Form unterbleiben kann.
+
+Bei der Bemessung der Aufbewahrungsfristen nach Satz 2 Nummer 2 ist insbesondere der Zweck der Verfügbarkeit der Akten und Verzeichnisse im Hinblick auf die Bedürfnisse einer geordneten Rechtspflege sowie der Umstand zu berücksichtigen, dass bei Amtshaftungsansprüchen die Möglichkeit der Sachaufklärung gegeben bleibt.
+
+(2) Die Rechtsverordnung kann vorsehen, dass neben den für das Auffinden von Urkunden erforderlichen Eintragungen weitere Angaben in das Urkundenverzeichnis eingetragen werden können oder sollen. Sie kann zudem nähere Bestimmungen treffen über die Verwendung der im Urkundenverzeichnis gespeicherten Daten
+
+1.  
+im elektronischen Rechtsverkehr mit Gerichten, Behörden und Dritten,
+
+2.  
+zur Führung anderer Akten und Verzeichnisse des Notars sowie
+
+3.  
+für die Zwecke der Aufsicht.
+
+### § 37 (weggefallen)
 
 5. Abschnitt Abwesenheit und Verhinderung des Notars. Notarvertreter
 --------------------------------------------------------------------
@@ -574,25 +655,25 @@ Für eine Amtspflichtverletzung des Vertreters haftet der Notar dem Geschädigte
 Das Amt des Notars erlischt durch
 
 1.  
-Erreichen der Altersgrenze (§ 48a) oder Tod,
+Entlassung aus dem Amt (§ 48),
 
 2.  
-Entlassung (§ 48),
+Erreichen der Altersgrenze (§ 48a) oder Tod,
 
 3.  
-bestandskräftigen Wegfall der Mitgliedschaft bei der für den Gerichtsbezirk zuständigen Rechtsanwaltskammer im Fall des § 3 Abs. 2,
+vorübergehende Amtsniederlegung (§§ 48b, 48c),
 
 4.  
-Amtsverlust infolge strafgerichtlicher Verurteilung (§ 49),
+bestandskräftigen Wegfall der Mitgliedschaft in einer Rechtsanwaltskammer im Fall des § 3 Absatz 2,
 
 5.  
-Amtsenthebung (§ 50),
+rechtskräftige strafgerichtliche Verurteilung, die einen Amtsverlust (§ 49) zur Folge hat,
 
 6.  
-Entfernung aus dem Amt durch disziplinargerichtliches Urteil (§ 97),
+bestandskräftige Amtsenthebung (§ 50),
 
 7.  
-vorübergehende Amtsniederlegung (§§ 48b, 48c).
+rechtskräftiges disziplinargerichtliches Urteil, in dem auf Entfernung aus dem Amt (§ 97 Absatz 1 Satz 1 Nummer 3, Absatz 3) erkannt worden ist.
 
 ### § 48
 
@@ -692,7 +773,7 @@ wenn er nicht die vorgeschriebene Haftpflichtversicherung (§ 19a) unterhält.
 
 (2) Ist das Amt eines zur hauptberuflichen Amtsausübung bestellten Notars durch Entlassung (§ 48), wegen Erreichens der Altersgrenze (§ 48a) oder durch Amtsenthebung aus den in § 50 Abs. 1 Nr. 7 bezeichneten Gründen erloschen, so kann die Landesjustizverwaltung dem früheren Notar die Erlaubnis erteilen, seine Amtsbezeichnung mit dem Zusatz "außer Dienst (a.D.)" weiterzuführen. Das gleiche gilt für einen Anwaltsnotar, wenn sein Amt durch Entlassung (§ 48) oder wegen Erreichens der Altersgrenze (§ 48a) erloschen ist oder ihm nach Verzicht auf die Rechte aus der Zulassung zur Rechtsanwaltschaft die Erlaubnis erteilt worden ist, sich weiterhin Rechtsanwalt zu nennen.
 
-(3) Die Landesjustizverwaltung kann die Erlaubnis zur Führung der Bezeichnung „Notar außer Dienst“ oder „Notarin außer Dienst“ zurücknehmen oder widerrufen, wenn nachträglich Umstände bekannt werden oder eintreten, die bei einem Notar das Erlöschen des Amtes aus den in § 47 Nr. 4 und 6 oder in § 50 Abs. 1 Nr. 1 bis 6, 8 und 9 bezeichneten Gründen nach sich ziehen würden. Ist der frühere Notar zur Rechtsanwaltschaft zugelassen, so erlischt die Befugnis nach Absatz 2 Satz 1, wenn er sich nach dem Wegfall seiner Zulassung nicht weiterhin Rechtsanwalt nennen darf.
+(3) Die Landesjustizverwaltung kann die Erlaubnis zur Führung der Bezeichnung „Notar außer Dienst“ oder „Notarin außer Dienst“ zurücknehmen oder widerrufen, wenn nachträglich Umstände bekannt werden oder eintreten, die bei einem Notar das Erlöschen des Amtes aus den in § 47 Nummer 5 und 7 oder in § 50 Abs. 1 Nr. 1 bis 6, 8 und 9 bezeichneten Gründen nach sich ziehen würden. Ist der frühere Notar zur Rechtsanwaltschaft zugelassen, so erlischt die Befugnis nach Absatz 2 Satz 1, wenn er sich nach dem Wegfall seiner Zulassung nicht weiterhin Rechtsanwalt nennen darf.
 
 ### § 53
 
@@ -717,7 +798,7 @@ Widerspruch und Anfechtungsklage gegen die vorläufige Amtsenthebung haben keine
 
 (2) Ein Notar, der zugleich Rechtsanwalt ist, kann auch ohne Einleitung eines Disziplinarverfahrens durch das Disziplinargericht vorläufig seines Amtes enthoben werden, wenn gegen ihn ein anwaltsgerichtliches Verfahren nach der Bundesrechtsanwaltsordnung eingeleitet worden ist. Die Vorschriften über die vorläufige Amtsenthebung nach Einleitung eines Disziplinarverfahrens gelten entsprechend. Absatz 1 Satz 2 gilt entsprechend.
 
-(3) Wird ein Notar, der zugleich Rechtsanwalt ist, nach Einleitung eines Disziplinarverfahrens vorläufig seines Amtes als Notar enthoben, so kann das Disziplinargericht gegen ihn ein Berufs- oder Vertretungsverbot (§ 150 der Bundesrechtsanwaltsordnung) verhängen, wenn zu erwarten ist, daß im Disziplinarverfahren gegen ihn auf Entfernung aus dem Amt (§ 97 Abs. 1) erkannt werden wird.
+(3) Wird ein Notar, der zugleich Rechtsanwalt ist, nach Einleitung eines Disziplinarverfahrens vorläufig seines Amtes als Notar enthoben, so kann das Disziplinargericht gegen ihn ein Berufs- oder Vertretungsverbot (§ 150 der Bundesrechtsanwaltsordnung) verhängen, wenn zu erwarten ist, daß im Disziplinarverfahren gegen ihn auf Entfernung aus dem Amt (§ 97 Absatz 1 Satz 1 Nummer 3) erkannt werden wird.
 
 (4) Die Wirkungen der vorläufigen Amtsenthebung treten kraft Gesetzes ein,
 
@@ -829,17 +910,17 @@ Zweiter Teil Notarkammern und Bundesnotarkammer
 
 ### § 65
 
-(1) Die Notare, die in einem Oberlandesgerichtsbezirk bestellt sind, bilden eine Notarkammer. Die Landesregierung oder die von ihr bestimmte Stelle kann jedoch durch Rechtsverordnung bestimmen, daß mehrere Oberlandesgerichtsbezirke oder Teile von Oberlandesgerichtsbezirken oder ein Oberlandesgerichtsbezirk mit Teilen eines anderen Oberlandesgerichtsbezirks den Bezirk einer Notarkammer bilden.
+(1) Die Notare, die in einem Oberlandesgerichtsbezirk bestellt sind, bilden eine Notarkammer. Die Landesregierung oder die von ihr durch Rechtsverordnung bestimmte Stelle kann jedoch durch Rechtsverordnung bestimmen, daß mehrere Oberlandesgerichtsbezirke oder Teile von Oberlandesgerichtsbezirken oder ein Oberlandesgerichtsbezirk mit Teilen eines anderen Oberlandesgerichtsbezirks den Bezirk einer Notarkammer bilden.
 
 (2) Die Notarkammer hat ihren Sitz am Ort des Oberlandesgerichts. Im Fall des Absatzes 1 Satz 2 bestimmt die Landesregierung oder die von ihr bestimmte Stelle den Sitz der Notarkammer.
 
 ### § 66
 
-(1) Die Notarkammer ist eine Körperschaft des öffentlichen Rechts. Die Satzung der Notarkammer und ihre Änderungen werden von der Versammlung der Kammer beschlossen; sie bedürfen der Genehmigung der Landesjustizverwaltung und sind in einem von ihr bezeichneten Blatt zu veröffentlichen.
+(1) Die Notarkammer ist eine Körperschaft des öffentlichen Rechts. Die Satzung der Notarkammer und ihre Änderungen werden von der Kammerversammlung beschlossen; sie bedürfen der Genehmigung der Landesjustizverwaltung und sind in einem von ihr bezeichneten Blatt zu veröffentlichen.
 
 (2) Die Landesjustizverwaltung führt die Staatsaufsicht über die Notarkammer. Die Aufsicht beschränkt sich darauf, daß Gesetz und Satzung beachtet, insbesondere die der Notarkammer übertragenen Aufgaben erfüllt werden.
 
-(3) Am Schlusse des Geschäftsjahrs legt die Notarkammer der Landesjustizverwaltung einen Bericht über ihre Tätigkeit im abgelaufenen Jahr und über die Lage der im Bereich der Kammer tätigen Notare und Notarassessoren vor.
+(3) Am Schlusse des Geschäftsjahrs legt die Notarkammer der Landesjustizverwaltung einen Bericht über ihre Tätigkeit im abgelaufenen Jahr und über die Lage der im Bereich der Notarkammer tätigen Notare und Notarassessoren vor.
 
 ### § 67
 
@@ -866,7 +947,7 @@ zur Beachtung der Pflicht zur persönlichen Amtsausübung,
 über die Art der nach § 28 zu treffenden Vorkehrungen,
 
 7.  
-für das nach § 29 zu beachtende Verhalten, insbesondere über Bekanntgaben einer Amtsstelle, Amts- und Namensschilder im Rahmen landesrechtlicher Bestimmungen sowie Bürodrucksachen, Führung weiterer Berufsbezeichnungen, Führung von Titeln, Auftreten des Notars in der Öffentlichkeit und Führung seines Namens in Verzeichnissen,
+für das nach § 29 zu beachtende Verhalten, insbesondere in Bezug auf die Information über die Amtstätigkeit, das Auftreten in der Öffentlichkeit, die Geschäftspapiere, die Führung von Titeln und weiteren Berufsbezeichnungen, die Führung des Namens in Verzeichnissen sowie die Anbringung von Amts- und Namensschildern im Rahmen landesrechtlicher Bestimmungen,
 
 8.  
 für die Beschäftigung und Ausbildung der Mitarbeiter,
@@ -880,7 +961,7 @@ für die Beschäftigung und Ausbildung der Mitarbeiter,
 11.  
 über die besonderen Berufspflichten im Verhältnis zu anderen Notaren, zu Gerichten, Behörden, Rechtsanwälten und anderen Beratern seiner Auftraggeber.
 
-(3) Außer den der Notarkammer durch Gesetz zugewiesenen Aufgaben obliegt ihr,
+(3) Außer den der Notarkammer durch Gesetz zugewiesenen Aufgaben obliegt es ihr,
 
 1.  
 Mittel für die berufliche Fortbildung der Notare, ihrer Hilfskräfte und der Notarassessoren sowie für sonstige gemeinsame Lasten des Berufsstandes bereitzustellen;
@@ -889,7 +970,13 @@ Mittel für die berufliche Fortbildung der Notare, ihrer Hilfskräfte und der No
 die Ausbildung und Prüfung der Hilfskräfte der Notare zu regeln;
 
 3.  
-Versicherungsverträge zur Ergänzung der Haftpflichtversicherung nach § 19a abzuschließen, um auch Gefahren aus solchen Pflichtverletzungen zu versichern, die nicht durch Versicherungsverträge nach § 19a gedeckt sind, weil die durch sie verursachten Vermögensschäden die Deckungssumme übersteigen oder weil sie als vorsätzliche Handlungen durch die allgemeinen Versicherungsbedingungen vom Versicherungsschutz ausgenommen sind. Für diese Versicherungsverträge gilt, daß die Versicherungssumme für jeden versicherten Notar und für jeden Versicherungsfall mindestens 250 000 Euro für Schäden aus wissentlichen Pflichtverletzungen und mindestens 500 000 Euro für Schäden aus sonstigen Pflichtverletzungen betragen muß; die Leistungen des Versicherers für alle innerhalb eines Versicherungsjahres von einem Notar verursachten Schäden dürfen jedoch auf den vierfachen Betrag der Mindestversicherungssumme begrenzt werden. § 19a Abs. 7 ist entsprechend anzuwenden. Die Landesregierungen oder die von ihnen durch Rechtsverordnung bestimmten Stellen werden ermächtigt, durch Rechtsverordnung unter Berücksichtigung der möglichen Schäden Beträge zu bestimmen, bis zu denen die Gesamtleistung des Versicherers für alle während eines Versicherungsjahres von allen versicherten Notaren verursachten Schäden in den Versicherungsverträgen begrenzt werden darf.
+Versicherungsverträge zur Ergänzung der Haftpflichtversicherung nach § 19a abzuschließen, um auch Gefahren aus solchen Pflichtverletzungen zu versichern, die nicht durch Versicherungsverträge nach § 19a gedeckt sind, weil die durch sie verursachten Vermögensschäden die Deckungssumme übersteigen oder weil sie als vorsätzliche Handlungen durch die allgemeinen Versicherungsbedingungen vom Versicherungsschutz ausgenommen sind. Für diese Versicherungsverträge gilt, daß die Versicherungssumme für jeden versicherten Notar und für jeden Versicherungsfall mindestens 250 000 Euro für Schäden aus wissentlichen Pflichtverletzungen und mindestens 500 000 Euro für Schäden aus sonstigen Pflichtverletzungen betragen muß; die Leistungen des Versicherers für alle innerhalb eines Versicherungsjahres von einem Notar verursachten Schäden dürfen jedoch auf den vierfachen Betrag der Mindestversicherungssumme begrenzt werden. § 19a Abs. 7 ist entsprechend anzuwenden. Die Landesregierungen oder die von ihnen durch Rechtsverordnung bestimmten Stellen werden ermächtigt, durch Rechtsverordnung unter Berücksichtigung der möglichen Schäden Beträge zu bestimmen, bis zu denen die Gesamtleistung des Versicherers für alle während eines Versicherungsjahres von allen versicherten Notaren verursachten Schäden in den Versicherungsverträgen begrenzt werden darf;
+
+4.  
+Notardaten und technische Zugangsberechtigungen zum Elektronischen Urkundenarchiv und zum Elektronischen Notaraktenspeicher zu verwalten;
+
+5.  
+die Stellung als Notar oder Notariatsverwalter sowie sonstige amts- oder berufsbezogene Angaben bei der Vergabe von qualifizierten Zertifikaten zu bestätigen; die Notarkammer kann die Sperrung eines entsprechenden qualifizierten Zertifikats verlangen.
 
 (4) Die Notarkammer kann weitere, dem Zweck ihrer Errichtung entsprechende Aufgaben wahrnehmen. Sie kann insbesondere
 
@@ -903,29 +990,50 @@ nach näherer Regelung durch die Landesgesetzgebung Vorsorgeeinrichtungen unterh
 allein oder gemeinsam mit anderen Notarkammern Einrichtungen unterhalten, deren Zweck darin besteht, als Versicherer die in Absatz 3 Nr. 3 aufgeführten Versicherungsverträge abzuschließen, die Gefahren aus Pflichtverletzungen abdecken, die durch vorsätzliche Handlungen von Notaren verursacht worden sind,
 
 4.  
-allein oder gemeinsam mit anderen Notarkammern Einrichtungen unterhalten, die ohne rechtliche Verpflichtung Leistungen bei nicht durch Versicherungsverträge nach Absatz 3 Nr. 3 gedeckten Schäden durch vorsätzliche Handlungen von Notaren ermöglichen.
+allein oder gemeinsam mit anderen Notarkammern Einrichtungen unterhalten, die ohne rechtliche Verpflichtung Leistungen bei folgenden Schäden ermöglichen:
 
-(5) Die Notarkammer kann die Stellung als Notar oder als Notariatsverwalter sowie sonstige berufsbezogene Angaben bei der Vergabe von qualifizierten Zertifikaten nach dem Signaturgesetz bestätigen. Die Notarkammer kann die Sperrung eines entsprechenden qualifizierten Zertifikats verlangen.
+a)  
+Schäden, die durch vorsätzliche Handlungen von Notaren entstehen und die nicht durch Versicherungsverträge nach Absatz 3 Nummer 3 gedeckt sind,
 
-(6) Die Notarkammer hat ferner Gutachten zu erstatten, die die Landesjustizverwaltung, ein Gericht oder eine Verwaltungsbehörde des Landes in Angelegenheiten der Notare anfordert.
+b)  
+Schäden, die durch amtlich verwahrte, aber nicht mehr aufzufindende Urkunden entstehen, die nicht durch § 19a oder durch Versicherungsverträge nach Absatz 3 Nummer 3 gedeckt sind und für die der Geschädigte auf keine andere zumutbare Weise Ersatz erlangen kann, wobei die Höhe der Leistungen auf 500 000 Euro je Urkunde beschränkt ist.
+
+(5) Die Notarkammer hat ferner Gutachten zu erstatten, die die Landesjustizverwaltung, ein Gericht oder eine Verwaltungsbehörde des Landes in Angelegenheiten der Notare anfordert.
+
+(6) Die Landesjustizverwaltung benachrichtigt die Notarkammer unverzüglich über
+
+1.  
+die Bestellung eines Notars, Notariatsverwalters oder Notarvertreters, jeweils unter Angabe des Beginns und der Dauer der Bestellung,
+
+2.  
+das Erlöschen des Amtes eines Notars oder Notariatsverwalters und den Widerruf der Bestellung eines Notarvertreters,
+
+3.  
+eine vorläufige Amtsenthebung,
+
+4.  
+die Verlegung eines Amtssitzes eines Notars,
+
+5.  
+eine anderweitige Zuweisung der Verwahrzuständigkeit nach § 51 Absatz 1 Satz 2.
 
 (7) (weggefallen)
 
 ### § 68
 
-Die Organe der Notarkammer sind der Vorstand und die Versammlung der Kammer.
+Die Organe der Notarkammer sind der Vorstand und die Kammerversammlung.
 
 ### § 69
 
-(1) Der Vorstand nimmt, unbeschadet der Vorschrift des § 70, die Befugnisse der Notarkammer wahr. In dringenden Fällen beschließt er an Stelle der Versammlung der Kammer, deren Genehmigung nachzuholen ist.
+(1) Der Vorstand nimmt, unbeschadet der Vorschrift des § 70, die Befugnisse der Notarkammer wahr. In dringenden Fällen beschließt er an Stelle der Kammerversammlung, deren Genehmigung nachzuholen ist.
 
-(2) Der Vorstand besteht aus dem Präsidenten, seinem Stellvertreter und weiteren Mitgliedern. Die Mitglieder des Vorstands werden von der Versammlung der Kammer auf vier Jahre gewählt.
+(2) Der Vorstand besteht aus dem Präsidenten, seinem Stellvertreter und weiteren Mitgliedern. Die Mitglieder des Vorstands werden von der Kammerversammlung auf vier Jahre gewählt.
 
 (3) Sind in dem Bezirk einer Notarkammer zur hauptberuflichen Amtsausübung bestellte Notare und Anwaltsnotare bestellt, so müssen der Präsident und mindestens die Hälfte der übrigen Mitglieder des Vorstands zur hauptberuflichen Amtsausübung bestellte Notare sein.
 
 ### § 69a
 
-(1) Die Mitglieder des Vorstands haben - auch nach ihrem Ausscheiden aus dem Vorstand - über die Angelegenheiten, die ihnen bei ihrer Tätigkeit im Vorstand über Notare, Notarassessoren, Bewerber um das Amt des Notars und andere Personen bekannt werden, Verschwiegenheit gegenüber jedermann zu wahren. Das gleiche gilt für Angestellte der Notarkammern und der Einrichtungen nach § 67 Abs. 4 sowie für Notare und Notarassessoren, die zur Mitarbeit in der Kammer oder in den Einrichtungen herangezogen werden.
+(1) Die Mitglieder des Vorstands haben - auch nach ihrem Ausscheiden aus dem Vorstand - über die Angelegenheiten, die ihnen bei ihrer Tätigkeit im Vorstand über Notare, Notarassessoren, Bewerber um das Amt des Notars und andere Personen bekannt werden, Verschwiegenheit gegenüber jedermann zu wahren. Das gleiche gilt für Angestellte der Notarkammern und der Einrichtungen nach § 67 Abs. 4 sowie für Notare und Notarassessoren, die zur Mitarbeit in der Notarkammer oder in den Einrichtungen herangezogen werden.
 
 (2) In gerichtlichen Verfahren dürfen die in Absatz 1 bezeichneten Personen über solche Angelegenheiten, die ihnen bei ihrer Tätigkeit im Vorstand über Notare, Notarassessoren, Bewerber um das Amt des Notars und andere Personen bekanntgeworden sind, ohne Genehmigung nicht aussagen.
 
@@ -933,13 +1041,13 @@ Die Organe der Notarkammer sind der Vorstand und die Versammlung der Kammer.
 
 ### § 69b
 
-(1) Der Vorstand kann mehrere Abteilungen bilden, wenn die Geschäftsordnung der Kammer es zuläßt. Er überträgt den Abteilungen die Geschäfte, die sie selbständig führen.
+(1) Der Vorstand kann mehrere Abteilungen bilden, wenn die Geschäftsordnung der Notarkammer es zuläßt. Er überträgt den Abteilungen die Geschäfte, die sie selbständig führen.
 
 (2) Jede Abteilung muß aus mindestens drei Mitgliedern des Vorstandes bestehen. Die Mitglieder der Abteilung wählen aus ihren Reihen einen Abteilungsvorsitzenden und seinen Stellvertreter.
 
 (3) Vor Beginn des Kalenderjahres setzt der Vorstand die Zahl der Abteilungen und ihrer Mitglieder fest, überträgt den Abteilungen die Geschäfte und bestimmt die Mitglieder der einzelnen Abteilungen. Jedes Mitglied des Vorstandes kann mehreren Abteilungen angehören. Die Anordnungen können im Laufe des Jahres nur geändert werden, wenn dies wegen Überlastung der Abteilung oder infolge Wechsels oder dauernder Verhinderung einzelner Mitglieder der Abteilung erforderlich wird.
 
-(4) Der Vorstand kann die Abteilungen ermächtigen, ihre Sitzungen außerhalb des Sitzes der Kammer abzuhalten.
+(4) Der Vorstand kann die Abteilungen ermächtigen, ihre Sitzungen außerhalb des Sitzes der Notarkammer abzuhalten.
 
 (5) Die Abteilungen besitzen innerhalb ihrer Zuständigkeit die Rechte und Pflichten des Vorstandes.
 
@@ -947,26 +1055,26 @@ Die Organe der Notarkammer sind der Vorstand und die Versammlung der Kammer.
 
 ### § 70
 
-(1) Der Präsident vertritt die Kammer gerichtlich und außergerichtlich.
+(1) Der Präsident vertritt die Notarkammer gerichtlich und außergerichtlich.
 
-(2) Der Präsident vermittelt den geschäftlichen Verkehr der Kammer und des Vorstands.
+(2) Der Präsident vermittelt den geschäftlichen Verkehr der Notarkammer und des Vorstands.
 
-(3) Der Präsident führt in den Sitzungen des Vorstands und in der Versammlung der Kammer den Vorsitz.
+(3) Der Präsident führt in den Sitzungen des Vorstands und in der Kammerversammlung den Vorsitz.
 
 (4) Durch die Satzung können dem Präsidenten weitere Aufgaben übertragen werden.
 
 ### § 71
 
-(1) Die Versammlung der Kammer wird durch den Präsidenten einberufen.
+(1) Die Kammerversammlung wird durch den Präsidenten einberufen.
 
-(2) Der Präsident muß die Versammlung der Kammer alljährlich einmal einberufen. Er muß sie ferner einberufen, wenn ein Zehntel der Mitglieder es schriftlich beantragt und hierbei den Gegenstand angibt, der in der Versammlung behandelt werden soll.
+(2) Der Präsident muß die Kammerversammlung alljährlich einmal einberufen. Er muß sie ferner einberufen, wenn ein Zehntel der Mitglieder es schriftlich beantragt und hierbei den Gegenstand angibt, der in der Kammerversammlung behandelt werden soll.
 
-(3) Die Versammlung ist mindestens zwei Wochen vor dem Tage, an dem sie stattfinden soll, schriftlich oder durch öffentliche Einladung in den Blättern, die durch die Satzung bestimmt sind, unter Angabe der Tagesordnung einzuberufen. Der Tag, an dem die Einberufung abgesandt ist, und der Tag der Versammlung sind hierbei nicht mitzurechnen. In dringenden Fällen kann der Präsident die Versammlung mit kürzerer Frist einberufen.
+(3) Die Kammerversammlung ist mindestens zwei Wochen vor dem Tage, an dem sie stattfinden soll, schriftlich oder durch öffentliche Einladung in den Blättern, die durch die Satzung bestimmt sind, unter Angabe der Tagesordnung einzuberufen. Der Tag, an dem die Einberufung abgesandt ist, und der Tag der Kammerversammlung sind hierbei nicht mitzurechnen. In dringenden Fällen kann der Präsident die Kammerversammlung mit kürzerer Frist einberufen.
 
-(4) Der Versammlung obliegt insbesondere,
+(4) Der Kammerversammlung obliegt insbesondere,
 
 1.  
-die Satzung der Kammer nach § 66 Abs. 1 Satz 2 zu beschließen;
+die Satzung der Notarkammer nach § 66 Abs. 1 Satz 2 zu beschließen;
 
 2.  
 die Richtlinien nach § 67 Abs. 2 zu beschließen;
@@ -978,7 +1086,7 @@ die Höhe und die Fälligkeit der Beiträge zu bestimmen;
 die Mittel zu bewilligen, die erforderlich sind, um den Aufwand für die gemeinschaftlichen Angelegenheiten zu bestreiten;
 
 5.  
-die Abrechnung des Vorstands über die Einnahmen und Ausgaben der Kammer sowie über die Verwaltung des Vermögens zu prüfen und über die Entlastung zu beschließen.
+die Abrechnung des Vorstands über die Einnahmen und Ausgaben der Notarkammer sowie über die Verwaltung des Vermögens zu prüfen und über die Entlastung zu beschließen.
 
 ### § 72
 
@@ -988,11 +1096,11 @@ Die näheren Bestimmungen über die Organe der Notarkammer und ihre Zuständigke
 
 (1) Die Notarkammer erhebt von den Notaren Beiträge, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist.
 
-(2) Rückständige Beiträge können auf Grund einer von dem Präsidenten der Notarkammer ausgestellten, mit der Bescheinigung der Vollstreckbarkeit und dem Siegel der Kammer versehenen Zahlungsaufforderung nach den Vorschriften über die Vollstreckung der Urteile in bürgerlichen Rechtsstreitigkeiten eingezogen werden.
+(2) Rückständige Beiträge können auf Grund einer von dem Präsidenten der Notarkammer ausgestellten, mit der Bescheinigung der Vollstreckbarkeit und dem Siegel der Notarkammer versehenen Zahlungsaufforderung nach den Vorschriften über die Vollstreckung der Urteile in bürgerlichen Rechtsstreitigkeiten eingezogen werden.
 
 ### § 74
 
-(1) Die Notarkammer kann in Ausübung ihrer Befugnisse von den Notaren und Notarassessoren Auskünfte, die Vorlage von Büchern und Akten sowie das persönliche Erscheinen vor den zuständigen Organen der Kammer verlangen. Die Notarkammer ist befugt, hierdurch erlangte Kenntnisse an die Einrichtungen nach § 67 Abs. 4 weiterzugeben, soweit diese von den Einrichtungen für die Erfüllung ihrer Aufgaben benötigt werden.
+(1) Die Notarkammer kann in Ausübung ihrer Befugnisse von den Notaren und Notarassessoren Auskünfte, die Vorlage von Büchern und Akten sowie das persönliche Erscheinen vor den zuständigen Organen der Notarkammer verlangen. Die Notarkammer ist befugt, hierdurch erlangte Kenntnisse an die Einrichtungen nach § 67 Abs. 4 weiterzugeben, soweit diese von den Einrichtungen für die Erfüllung ihrer Aufgaben benötigt werden.
 
 (2) Die Notarkammer kann zur Erzwingung der den Notaren oder Notarassessoren nach Absatz 1 obliegenden Pflichten nach vorheriger schriftlicher Androhung, auch zu wiederholten Malen, Zwangsgeld festsetzen. Das einzelne Zwangsgeld darf eintausend Euro nicht übersteigen. Das Zwangsgeld fließt der Notarkammer zu; es wird wie ein rückständiger Beitrag beigetrieben.
 
@@ -1029,7 +1137,7 @@ Die näheren Bestimmungen über die Organe der Notarkammer und ihre Zuständigke
 
 (3) Die Satzung der Bundesnotarkammer und ihre Änderungen, die von der Vertreterversammlung beschlossen werden, bedürfen der Genehmigung des Bundesministeriums der Justiz und für Verbraucherschutz.
 
-### § 78
+### § 78 Aufgaben
 
 (1) Die Bundesnotarkammer hat die ihr durch Gesetz zugewiesenen Aufgaben zu erfüllen. Sie hat insbesondere
 
@@ -1046,39 +1154,126 @@ die Gesamtheit der Notarkammern gegenüber Behörden und Organisationen zu vertr
 Gutachten zu erstatten, die eine an der Gesetzgebung beteiligte Behörde oder Körperschaft des Bundes oder ein Bundesgericht in Angelegenheiten der Notare anfordert;
 
 5.  
-durch Beschluß der Vertreterversammlung Empfehlungen für die von den Notarkammern nach § 67 Abs. 2 zu erlassenden Richtlinien auszusprechen;
+durch Beschluss der Vertreterversammlung Empfehlungen für die von den Notarkammern nach § 67 Absatz 2 zu erlassenden Richtlinien auszusprechen;
 
 6.  
-Richtlinien für die Ausbildung der Hilfskräfte der Notare aufzustellen.
+Richtlinien für die Ausbildung der Hilfskräfte der Notare aufzustellen;
 
-(2) Die Bundesnotarkammer führt als Registerbehörde je ein automatisiertes elektronisches Register über
+7.  
+den Elektronischen Notaraktenspeicher (§ 78k) zu führen;
+
+8.  
+das Notarverzeichnis (§ 78l) zu führen;
+
+9.  
+die besonderen elektronischen Notarpostfächer (§ 78n) einzurichten.
+
+(2) Die Bundesnotarkammer führt
 
 1.  
-Vorsorgevollmachten und Betreuungsverfügungen nach § 78a (Zentrales Vorsorgeregister) und
+das Zentrale Vorsorgeregister (§ 78a),
 
 2.  
-die Verwahrung erbfolgerelevanter Urkunden und sonstige Daten nach § 78b (Zentrales Testamentsregister).
-
-Das Bundesministerium der Justiz und für Verbraucherschutz hat durch jeweils eine Rechtsverordnung zum Zentralen Vorsorgeregister und zum Zentralen Testamentsregister mit Zustimmung des Bundesrates die näheren Bestimmungen über Einrichtung und Führung der Register, über Auskunft aus den Registern, über Anmeldung, Änderung und Löschung von Registereintragungen, über Einzelheiten der Datenübermittlung und -speicherung sowie der Datensicherheit zu treffen. Die Erhebung und Verwendung der Daten ist auf das für die Erfüllung der gesetzlichen Aufgaben der Registerbehörde, der Nachlassgerichte und der Verwahrstellen Erforderliche zu beschränken. In der Rechtsverordnung zum Zentralen Testamentsregister können darüber hinaus Bestimmungen zum Inhalt der Sterbefallmitteilungen nach § 78c Satz 1 getroffen werden. Ferner können in der Rechtsverordnung zum Zentralen Testamentsregister Ausnahmen zugelassen werden von:
-
-1.  
-§ 78c Satz 3, soweit dies die Sterbefallmitteilung an das Nachlassgericht betrifft;
-
-2.  
-der elektronischen Benachrichtigung nach § 78c Satz 4;
+das Zentrale Testamentsregister (§ 78c),
 
 3.  
-der Verpflichtung zur elektronischen Übermittlung nach § 34a Absatz 1 Satz 1 des Beurkundungsgesetzes und § 347 Absatz 1 Satz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
+das Elektronische Urkundenarchiv (§ 78h).
 
-Das Bundesministerium der Justiz und für Verbraucherschutz führt die Rechtsaufsicht über die Registerbehörde.
+(3) Die Bundesnotarkammer kann weitere dem Zweck ihrer Errichtung entsprechende Aufgaben wahrnehmen. Sie kann insbesondere
 
-(3) Die Bundesnotarkammer kann weitere dem Zweck ihrer Errichtung entsprechende Aufgaben wahrnehmen. Sie kann insbesondere Maßnahmen ergreifen, die der wissenschaftlichen Beratung der Notarkammern und ihrer Mitglieder, der Fortbildung von Notaren, der Aus- und Fortbildung des beruflichen Nachwuchses und der Hilfskräfte der Notare dienen sowie Notardaten verwalten und die elektronische Kommunikation der Notare mit Gerichten, Behörden und sonstigen Dritten unterstützen.
+1.  
+Maßnahmen ergreifen, die der wissenschaftlichen Beratung der Notarkammern und ihrer Mitglieder, der Fortbildung von Notaren, der Aus- und Fortbildung des beruflichen Nachwuchses und der Hilfskräfte der Notare dienen,
 
-### § 78a
+2.  
+Notardaten verwalten und
 
-In das Zentrale Vorsorgeregister dürfen Angaben über Vollmachtgeber, Bevollmächtigte, die Vollmacht und deren Inhalt sowie über Vorschläge zur Auswahl des Betreuers, Wünsche zur Wahrnehmung der Betreuung und über den Vorschlagenden aufgenommen werden.
+3.  
+die elektronische Kommunikation der Notare mit Gerichten, Behörden und sonstigen Dritten sowie die elektronische Aktenführung und die sonstige elektronische Datenverarbeitung der Notare unterstützen.
 
-### § 78b
+### § 78a Zentrales Vorsorgeregister; Verordnungsermächtigung
+
+(1) Die Bundesnotarkammer führt als Registerbehörde ein automatisiertes elektronisches Register über Vorsorgevollmachten und Betreuungsverfügungen. Das Bundesministerium der Justiz und für Verbraucherschutz führt die Rechtsaufsicht über die Registerbehörde.
+
+(2) In das Zentrale Vorsorgeregister dürfen Angaben aufgenommen werden über
+
+1.  
+Vollmachtgeber,
+
+2.  
+Bevollmächtigte,
+
+3.  
+die Vollmacht und deren Inhalt,
+
+4.  
+Vorschläge zur Auswahl des Betreuers,
+
+5.  
+Wünsche zur Wahrnehmung der Betreuung und
+
+6.  
+den Vorschlagenden.
+
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz hat durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Bestimmungen zu treffen über
+
+1.  
+die Einrichtung und Führung des Registers,
+
+2.  
+die Auskunft aus dem Register,
+
+3.  
+die Anmeldung, Änderung und Löschung von Registereintragungen,
+
+4.  
+die Einzelheiten der Datenübermittlung und -speicherung und
+
+5.  
+die Einzelheiten der Datensicherheit.
+
+### § 78b Auskunft und Gebühren
+
+(1) Die Registerbehörde erteilt Gerichten auf Ersuchen Auskunft aus dem Zentralen Vorsorgeregister. Die Befugnis der Gerichte, Notare und Notarkammern zur Einsicht in Registrierungen, die von ihnen verwahrte oder registrierte Urkunden betreffen, bleibt unberührt.
+
+(2) Das Zentrale Vorsorgeregister wird durch Gebühren finanziert. Die Registerbehörde kann Gebühren für die Aufnahme von Erklärungen in das Register erheben. Zur Zahlung der Gebühren sind der Antragsteller und derjenige verpflichtet, der für die Gebührenschuld eines anderen kraft Gesetzes haftet. Mehrere Gebührenschuldner haften als Gesamtschuldner. Gerichte und Notare können die Gebühren für die Registerbehörde entgegennehmen.
+
+(3) Die Gebühren sind so zu bemessen, dass der mit der Einrichtung, der Inbetriebnahme, der dauerhaften Führung und der Nutzung des Zentralen Vorsorgeregisters durchschnittlich verbundene Verwaltungsaufwand einschließlich der Personal- und Sachkosten gedeckt wird. Dabei ist auch der für die Aufnahme von Erklärungen in das Register gewählte Kommunikationsweg zu berücksichtigen.
+
+(4) Die Registerbehörde bestimmt die Gebühren nach Absatz 2 Satz 2 und die Art ihrer Erhebung durch eine Gebührensatzung. Die Satzung bedarf der Genehmigung durch das Bundesministerium der Justiz und für Verbraucherschutz. Die Höhe der Gebühren ist regelmäßig zu überprüfen.
+
+### § 78c Zentrales Testamentsregister; Verordnungsermächtigung
+
+(1) Die Bundesnotarkammer führt als Registerbehörde ein automatisiertes elektronisches Register über die Verwahrung erbfolgerelevanter Urkunden und sonstige Daten nach § 78d. Die Erhebung und Verwendung der Daten ist auf das für die Erfüllung der gesetzlichen Aufgaben der Registerbehörde, der Nachlassgerichte und der Verwahrstellen Erforderliche zu beschränken. Das Bundesministerium der Justiz und für Verbraucherschutz führt die Rechtsaufsicht über die Registerbehörde.
+
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz hat durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Bestimmungen zu treffen über
+
+1.  
+die Einrichtung und Führung des Registers,
+
+2.  
+die Auskunft aus dem Register,
+
+3.  
+die Anmeldung, Änderung und Löschung von Registereintragungen,
+
+4.  
+die Einzelheiten der Datenübermittlung und -speicherung und
+
+5.  
+die Einzelheiten der Datensicherheit.
+
+(3) In der Rechtsverordnung können darüber hinaus Bestimmungen zum Inhalt der Sterbefallmitteilungen nach § 78e Satz 1 getroffen werden. Ferner können in der Rechtsverordnung Ausnahmen zugelassen werden von
+
+1.  
+§ 78e Satz 3, soweit dies die Sterbefallmitteilung an das Nachlassgericht betrifft;
+
+2.  
+der elektronischen Benachrichtigung nach § 78e Satz 4;
+
+3.  
+der Verpflichtung zur elektronischen Übermittlung nach § 34a Absatz 1 und 2 des Beurkundungsgesetzes und § 347 Absatz 1 bis 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
+
+### § 78d Inhalt des Zentralen Testamentsregisters
 
 (1) In das Zentrale Testamentsregister werden aufgenommen:
 
@@ -1086,7 +1281,7 @@ In das Zentrale Vorsorgeregister dürfen Angaben über Vollmachtgeber, Bevollmä
 Verwahrangaben zu erbfolgerelevanten Urkunden, die
 
 a)  
-von Notaren (§ 34a Absatz 1 Satz 1 des Beurkundungsgesetzes) oder Gerichten (Absatz 4 sowie § 347 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit) ab 1. Januar 2012 zu übermitteln sind,
+von Notaren nach § 34a Absatz 1 und 2 des Beurkundungsgesetzes oder von Gerichten nach Absatz 4 Satz 1 sowie nach § 347 Absatz 1 bis 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zu übermitteln sind,
 
 b)  
 nach § 1 des Testamentsverzeichnis-Überführungsgesetzes zu überführen sind,
@@ -1094,95 +1289,242 @@ nach § 1 des Testamentsverzeichnis-Überführungsgesetzes zu überführen sind,
 2.  
 Mitteilungen, die nach § 9 des Testamentsverzeichnis-Überführungsgesetzes zu überführen sind.
 
-Die gespeicherten Daten sind mit Ablauf des dreißigsten auf die Sterbefallmitteilung folgenden Kalenderjahres zu löschen.
+Die gespeicherten Daten sind mit Ablauf des 30. auf die Sterbefallmitteilung folgenden Kalenderjahres zu löschen.
 
 (2) Erbfolgerelevante Urkunden sind Testamente, Erbverträge und alle Urkunden mit Erklärungen, welche die Erbfolge beeinflussen können, insbesondere Aufhebungsverträge, Rücktritts- und Anfechtungserklärungen, Erb- und Zuwendungsverzichtsverträge, Ehe- und Lebenspartnerschaftsverträge und Rechtswahlen. Verwahrangaben sind Angaben, die zum Auffinden erbfolgerelevanter Urkunden erforderlich sind.
 
 (3) Registerfähig sind nur erbfolgerelevante Urkunden, die
 
 1.  
-öffentlich beurkundet oder
+öffentlich beurkundet worden sind oder
 
 2.  
-in amtliche Verwahrung genommen
+in amtliche Verwahrung genommen worden sind.
 
-worden sind.
+(4) Handelt es sich bei einem gerichtlichen Vergleich um eine erbfolgerelevante Urkunde im Sinne von Absatz 2 Satz 1, übermittelt das Gericht unverzüglich die Verwahrangaben an die das Zentrale Testamentsregister führende Registerbehörde nach Maßgabe der nach § 78c Absatz 2 und 3 erlassenen Rechtsverordnung. Der Erblasser teilt dem Gericht die zur Registrierung erforderlichen Daten mit.
 
-(4) Handelt es sich bei einem gerichtlichen Vergleich um eine erbfolgerelevante Urkunde im Sinne von Absatz 2 Satz 1, übermittelt das Gericht unverzüglich die Verwahrangaben an die das Zentrale Testamentsregister führende Registerbehörde nach Maßgabe der nach § 78 Absatz 2 Satz 2 bis 5 erlassenen Rechtsverordnung. Der Erblasser teilt dem Gericht die zur Registrierung erforderlichen Daten mit.
+### § 78e Sterbefallmitteilung
 
-### § 78c
-
-Ab 1. Januar 2012 teilt das zuständige Standesamt der Registerbehörde den Tod, die Todeserklärung oder die gerichtliche Feststellung der Todeszeit einer Person mit (Sterbefallmitteilung). Die Registerbehörde prüft daraufhin, ob im Zentralen Testamentsregister Angaben nach § 78b Absatz 1 Satz 1 Nummer 1 und 2 vorliegen. Sie benachrichtigt, soweit es zur Erfüllung der Aufgaben des Nachlassgerichts und der verwahrenden Stellen erforderlich ist, unverzüglich
+Das zuständige Standesamt hat der Registerbehörde den Tod, die Todeserklärung oder die gerichtliche Feststellung der Todeszeit einer Person mitzuteilen (Sterbefallmitteilung). Die Registerbehörde prüft daraufhin, ob im Zentralen Testamentsregister Angaben nach § 78d Absatz 1 Satz 1 vorliegen. Sie benachrichtigt, soweit es zur Erfüllung der Aufgaben des Nachlassgerichts und der verwahrenden Stellen erforderlich ist, unverzüglich
 
 1.  
-das zuständige Nachlassgericht über den Sterbefall und etwaige Angaben nach § 78b Absatz 1 Satz 1 Nummer 1 und 2 und
+das zuständige Nachlassgericht über den Sterbefall und etwaige Angaben nach § 78d Absatz 1 Satz 1 und
 
 2.  
-die verwahrenden Stellen über den Sterbefall und etwaige Verwahrangaben nach § 78b Absatz 1 Satz 1 Nummer 1.
+die verwahrenden Stellen über den Sterbefall und etwaige Verwahrangaben nach § 78d Absatz 1 Satz 1 Nummer 1.
 
 Die Benachrichtigung erfolgt elektronisch.
 
-### § 78d
+### § 78f Auskunft aus dem Zentralen Testamentsregister
 
 (1) Die Registerbehörde erteilt auf Ersuchen
 
 1.  
-Gerichten Auskunft aus dem Zentralen Vorsorgeregister und dem Zentralen Testamentsregister sowie
+Gerichten Auskunft aus dem Zentralen Testamentsregister sowie
 
 2.  
 Notaren Auskunft über Verwahrangaben aus dem Zentralen Testamentsregister.
 
-Die Auskunft aus dem Zentralen Testamentsregister wird nur erteilt, soweit sie im Rahmen der Aufgabenerfüllung der Gerichte und Notare erforderlich ist. Auskünfte aus dem Zentralen Testamentsregister können zu Lebzeiten des Erblassers nur mit dessen Einwilligung eingeholt werden.
+Die Auskunft wird nur erteilt, soweit sie im Rahmen der Aufgabenerfüllung der Gerichte und Notare erforderlich ist. Auskünfte können zu Lebzeiten des Erblassers nur mit dessen Einwilligung eingeholt werden.
 
-(2) Die Befugnis der Gerichte und Notare zur Einsicht in Registrierungen, die von ihnen verwahrte oder registrierte Urkunden betreffen, bleibt unberührt.
+(2) Die Befugnis der Gerichte, Notare und Notarkammern zur Einsicht in Registrierungen, die von ihnen verwahrte oder registrierte Urkunden betreffen, bleibt unberührt.
 
-(3) Die Registerbehörde kann Gerichte bei der Ermittlung besonders amtlich verwahrter Urkunden unterstützen, für die mangels Verwahrungsnachricht keine Eintragung im Zentralen Testamentsregister vorliegt. Die Verwahrangaben der nach Satz 1 ermittelten Verfügungen von Todes wegen sind nach § 347 Absatz 1 Satz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit an das Zentrale Testamentsregister zu melden.
+(3) Die Registerbehörde kann Gerichte bei der Ermittlung besonders amtlich verwahrter Urkunden unterstützen, für die mangels Verwahrungsnachricht keine Eintragung im Zentralen Testamentsregister vorliegt. Die Verwahrangaben der nach Satz 1 ermittelten Verfügungen von Todes wegen sind nach § 347 Absatz 1 bis 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit an das Zentrale Testamentsregister zu melden.
 
-### § 78e
+### § 78g Gebühren des Zentralen Testamentsregisters
 
-(1) Das Zentrale Vorsorgeregister und das Zentrale Testamentsregister werden durch Gebühren finanziert. Die Registerbehörde kann Gebühren erheben für:
+(1) Das Zentrale Testamentsregister wird durch Gebühren finanziert. Die Registerbehörde kann Gebühren erheben für
 
 1.  
-die Aufnahme von Erklärungen in das Zentrale Vorsorgeregister,
+die Aufnahme von Erklärungen in das Testamentsregister und
 
 2.  
-die Aufnahme von Erklärungen in das Zentrale Testamentsregister und
-
-3.  
-die Erteilung von Auskünften aus dem Zentralen Testamentsregister nach § 78d Absatz 1 Satz 1 Nummer 2.
+die Erteilung von Auskünften aus dem Testamentsregister nach § 78f Absatz 1 Satz 1 Nummer 2.
 
 (2) Zur Zahlung der Gebühren sind verpflichtet:
 
 1.  
-im Fall des Absatzes 1 Satz 2 Nummer 1 der Antragsteller und derjenige, der für die Gebührenschuld eines anderen kraft Gesetzes haftet;
+im Fall des Absatzes 1 Satz 2 Nummer 1 der Erblasser,
 
 2.  
-im Fall des Absatzes 1 Satz 2 Nummer 2 der Erblasser;
+im Fall des Absatzes 1 Satz 2 Nummer 2 der Veranlasser des Auskunftsverfahrens.
 
-3.  
-im Fall des Absatzes 1 Satz 2 Nummer 3 der Veranlasser des Auskunftsverfahrens.
+Mehrere Gebührenschuldner haften als Gesamtschuldner. Gerichte und Notare können die Gebühren für die Registerbehörde entgegennehmen.
 
-Mehrere Gebührenschuldner haften als Gesamtschuldner.
+(3) Die Gebühren sind so zu bemessen, dass der mit der Einrichtung, der Inbetriebnahme sowie der dauerhaften Führung und Nutzung des Zentralen Testamentsregisters durchschnittlich verbundene Verwaltungsaufwand einschließlich Personal- und Sachkosten gedeckt wird. Dabei sind auch die Kosten für die Überführung der Verwahrungsnachrichten nach dem Testamentsverzeichnis-Überführungsgesetz zu berücksichtigen. Die durch die Aufnahme von Mitteilungen nach § 9 Absatz 1 und 3 des Testamentsverzeichnis-Überführungsgesetzes entstehenden Kosten bleiben außer Betracht.
 
-(3) Die Gebühren sind so zu bemessen, dass der mit der Einrichtung, Inbetriebnahme, dauerhaften Führung und Nutzung des jeweiligen Registers durchschnittlich verbundene Verwaltungsaufwand einschließlich Personal- und Sachkosten gedeckt wird. Dabei sind auch zu berücksichtigen
+(4) Die Registerbehörde bestimmt die Gebühren nach Absatz 1 Satz 2 und die Art ihrer Erhebung durch eine Gebührensatzung. Die Satzung bedarf der Genehmigung durch das Bundesministerium der Justiz und für Verbraucherschutz. Die Höhe der Gebühren ist regelmäßig zu überprüfen.
+
+### § 78h Elektronisches Urkundenarchiv; Verordnungsermächtigung
+
+(1) Die Bundesnotarkammer betreibt als Urkundenarchivbehörde ein zentrales elektronisches Archiv, das den Notaren die Führung der elektronischen Urkundensammlung, des Urkundenverzeichnisses und des Verwahrungsverzeichnisses ermöglicht (Elektronisches Urkundenarchiv). Das Bundesministerium der Justiz und für Verbraucherschutz führt die Rechtsaufsicht über die Urkundenarchivbehörde.
+
+(2) Die Verfügbarkeit, die Integrität, die Authentizität, die Vertraulichkeit und die Transparenz der Daten des Urkundenverzeichnisses, des Verwahrungsverzeichnisses und der im Elektronischen Urkundenarchiv verwahrten elektronischen Dokumente müssen für die gesamte Dauer der Aufbewahrungsfrist gewährleistet sein. Die Urkundenarchivbehörde trifft die erforderlichen technischen und organisatorischen Maßnahmen, um die Erhaltung des Beweiswerts der verwahrten elektronischen Dokumente dauerhaft zu gewährleisten, ohne dass es einer erneuten Signatur durch die verwahrende Stelle bedarf.
+
+(3) Elektronische Dokumente, die im Elektronischen Urkundenarchiv zusammen verwahrt werden, müssen derart miteinander verknüpft sein, dass sie nur zusammen abgerufen werden können. § 42 Absatz 3 und § 49 Absatz 5 des Beurkundungsgesetzes bleiben unberührt.
+
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz hat durch Rechtsverordnung ohne Zustimmung des Bundesrates die näheren Bestimmungen zu treffen über
 
 1.  
-für die Aufnahme von Erklärungen in das Zentrale Vorsorgeregister: der gewählte Kommunikationsweg;
+die Einrichtung des Elektronischen Urkundenarchivs,
 
 2.  
-für die Aufnahme von Erklärungen in das Zentrale Testamentsregister und für Auskünfte: die Kosten für die Überführung der Verwahrungsnachrichten nach dem Testamentsverzeichnis-Überführungsgesetz.
+die Führung und den technischen Betrieb,
 
-Die durch die Aufnahme von Mitteilungen nach § 9 Absatz 1 und 3 des Testamentsverzeichnis-Überführungsgesetzes entstehenden Kosten bleiben außer Betracht.
+3.  
+die Einzelheiten der Datenübermittlung und -speicherung,
 
-(4) Die Registerbehörde bestimmt die Gebühren nach Absatz 1 und die Art ihrer Erhebung jeweils durch eine Gebührensatzung. Die Satzungen bedürfen der Genehmigung durch das Bundesministerium der Justiz und für Verbraucherschutz. Die Höhe der Gebühren ist regelmäßig zu überprüfen.
+4.  
+die Einzelheiten der Datensicherheit und
 
-(5) Gerichte und Notare können die nach Absatz 3 bestimmten Gebühren für die Registerbehörde entgegennehmen.
+5.  
+die Erteilung und Entziehung der technischen Verwaltungs- und Zugangsberechtigungen.
 
-### § 78f
+### § 78i Zugangsberechtigung zum Elektronischen Urkundenarchiv
 
-(1) Gegen Entscheidungen der Registerbehörde nach den §§ 78a bis 78e findet die Beschwerde nach den Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit statt, soweit sich nicht aus den folgenden Absätzen etwas anderes ergibt.
+Der Zugang zum Urkundenverzeichnis, zum Verwahrungsverzeichnis und zu den im Elektronischen Urkundenarchiv verwahrten elektronischen Dokumenten steht ausschließlich der für die Verwahrung zuständigen Stelle zu. Hierzu trifft die Urkundenarchivbehörde geeignete technische und organisatorische Maßnahmen.
 
-(2) Die Beschwerde ist bei der Registerbehörde einzulegen. Diese kann der Beschwerde abhelfen. Beschwerden, denen sie nicht abhilft, legt sie dem Landgericht am Sitz der Bundesnotarkammer vor.
+### § 78j Gebühren des Elektronischen Urkundenarchivs
+
+(1) Das Elektronische Urkundenarchiv wird durch Gebühren finanziert. Die Urkundenarchivbehörde kann Gebühren erheben für
+
+1.  
+die Aufnahme von elektronischen Dokumenten in die elektronische Urkundensammlung und
+
+2.  
+die Führung des Verwahrungsverzeichnisses.
+
+(2) Zur Zahlung der Gebühren sind verpflichtet:
+
+1.  
+im Fall des Absatzes 1 Satz 2 Nummer 1 derjenige, der zur Zahlung der Kosten für die jeweilige notarielle Amtshandlung verpflichtet ist, abweichend hiervon
+
+a)  
+im Fall des § 119 Absatz 1 die Staatskasse,
+
+b)  
+im Fall des § 119 Absatz 3 der Notar,
+
+c)  
+im Fall des § 119 Absatz 4 die Notarkammer,
+
+2.  
+im Fall des Absatzes 1 Satz 2 Nummer 2 der Notar.
+
+Mehrere Gebührenschuldner haften als Gesamtschuldner. Notare können die Gebühren für die Urkundenarchivbehörde entgegennehmen.
+
+(3) Die Gebühren sind so zu bemessen, dass der mit der Einrichtung, der Inbetriebnahme sowie der dauerhaften Führung und Nutzung des Elektronischen Urkundenarchivs durchschnittlich verbundene Verwaltungsaufwand einschließlich der Personal- und Sachkosten gedeckt wird. Bei der Bemessung der Gebühren für die Aufnahme von elektronischen Dokumenten in die elektronische Urkundensammlung kann der Umfang des elektronischen Dokuments berücksichtigt werden. Die Gebühr kann im Fall von Unterschriftsbeglaubigungen, die nicht mit der Fertigung eines Entwurfs in Zusammenhang stehen, niedriger bemessen werden.
+
+(4) Die Urkundenarchivbehörde bestimmt die Gebühren nach Absatz 1 Satz 2 und die Art ihrer Erhebung durch eine Gebührensatzung. Die Satzung bedarf der Genehmigung durch das Bundesministerium der Justiz und für Verbraucherschutz. Die Höhe der Gebühren ist regelmäßig zu überprüfen.
+
+### § 78k Elektronischer Notaraktenspeicher; Verordnungsermächtigung
+
+(1) Die Bundesnotarkammer betreibt einen zentralen elektronischen Aktenspeicher, der den Notaren die elektronische Führung ihrer nicht im Elektronischen Urkundenarchiv zu führenden Akten und Verzeichnisse sowie die Speicherung sonstiger Daten ermöglicht (Elektronischer Notaraktenspeicher).
+
+(2) Der Elektronische Notaraktenspeicher wird durch Gebühren finanziert. Die Bundesnotarkammer kann Gebühren erheben für die elektronische Führung von Akten und Verzeichnissen sowie die Speicherung sonstiger Daten im Elektronischen Notaraktenspeicher. Zur Zahlung der Gebühren ist der Notar verpflichtet.
+
+(3) Die Gebühren sind so zu bemessen, dass der mit der Einrichtung, der Inbetriebnahme sowie der dauerhaften Führung und Nutzung des Elektronischen Notaraktenspeichers durchschnittlich verbundene Verwaltungsaufwand einschließlich der Personal- und Sachkosten gedeckt wird.
+
+(4) Die Bundesnotarkammer bestimmt die Gebühren nach Absatz 2 Satz 2 und die Art ihrer Erhebung durch eine Gebührensatzung. Die Satzung bedarf der Genehmigung durch das Bundesministerium der Justiz und für Verbraucherschutz. Die Höhe der Gebühren ist regelmäßig zu überprüfen.
+
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz hat durch Rechtsverordnung ohne Zustimmung des Bundesrates die näheren Bestimmungen zu treffen über
+
+1.  
+die Einrichtung des Elektronischen Notaraktenspeichers,
+
+2.  
+die Führung und den technischen Betrieb,
+
+3.  
+die Einzelheiten der Datenübermittlung und -speicherung,
+
+4.  
+die Einzelheiten der Datensicherheit und
+
+5.  
+die Erteilung und Entziehung der technischen Verwaltungs- und Zugangsberechtigungen.
+
+### § 78l Notarverzeichnis
+
+(1) Die Bundesnotarkammer führt ein elektronisches Verzeichnis der Notare und Notariatsverwalter (Notarverzeichnis). Jede Notarkammer gibt die Daten zu den in ihr zusammengeschlossenen Notaren und zu den in ihrem Bezirk bestellten Notariatsverwaltern in das Notarverzeichnis ein. Die Notarkammern nehmen Eintragungen unverzüglich auf Grund der Benachrichtigungen durch die Landesjustizverwaltung gemäß § 67 Absatz 6 vor.
+
+(2) Das Notarverzeichnis dient der Information der Behörden und Gerichte, der Rechtsuchenden und der anderen am Rechtsverkehr Beteiligten. Darüber hinaus dient es der Erfüllung der Aufgaben der jeweiligen Notarkammer und der Bundesnotarkammer. Die Einsicht in das Verzeichnis steht jedem unentgeltlich zu. Die Suche in dem Verzeichnis wird durch ein elektronisches Suchsystem ermöglicht.
+
+(3) In das Notarverzeichnis sind einzutragen:
+
+1.  
+die von der Landesjustizverwaltung nach § 67 Absatz 6 mitgeteilten Tatsachen unter Angabe des jeweils maßgeblichen Datums,
+
+2.  
+der Familienname und der oder die Vornamen sowie frühere Familiennamen, die der Notar seit seiner Bestellung geführt hat,
+
+3.  
+Zuständigkeiten für die Aktenverwahrung, die dem Notar nach § 51 Absatz 1 und 3 übertragen sind,
+
+4.  
+der Amtssitz, die Anschrift von Geschäftsstellen sowie die Orte und Termine auswärtiger Sprechtage,
+
+5.  
+die Kammerzugehörigkeit,
+
+6.  
+die Bezeichnung des besonderen elektronischen Notarpostfachs,
+
+7.  
+die Telekommunikationsdaten, die der Notar mitgeteilt hat,
+
+8.  
+Sprachkenntnisse, soweit der Notar solche mitteilt.
+
+Die Eintragungen zu Satz 1 Nummer 1 bis 5 sind von der jeweiligen Notarkammer, die Eintragungen zu Satz 1 Nummer 6 bis 8 von der Bundesnotarkammer vorzunehmen. Die Eintragung von Notarvertretern kann auch unmittelbar durch die zuständige Aufsichtsbehörde erfolgen. Die Notarkammern, die Bundesnotarkammer und die Aufsichtsbehörde tragen die datenschutzrechtliche Verantwortung für die jeweils von ihnen in das Verzeichnis eingegebenen Daten.
+
+(4) Absatz 3 gilt für Notariatsverwalter entsprechend.
+
+(5) Ist ein Notar zu gleichzeitiger Amtsausübung neben dem Beruf des Rechtsanwalts bestellt, können die zu seiner Person zu erhebenden Daten auch automatisiert aus dem Gesamtverzeichnis der Bundesrechtsanwaltskammer (§ 31 der Bundesrechtsanwaltsordnung) abgerufen werden. Das Gleiche gilt bei der Bestellung eines Rechtsanwalts zum Notarvertreter.
+
+(6) Wenn die Eintragungen zur Information der in Absatz 2 Satz 1 genannten Beteiligten über die Zuständigkeit für die Verwahrung von Akten und Verzeichnissen eines Notars oder sonst zur Erfüllung der Aufgaben der Notarkammer oder der Bundesnotarkammer nicht mehr erforderlich sind, werden sie gelöscht.
+
+### § 78m Verordnungsermächtigung zum Notarverzeichnis
+
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz regelt durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der Datenerhebung für das Notarverzeichnis, der Führung des Notarverzeichnisses und der Einsichtnahme in das Notarverzeichnis. Soweit in der Rechtsverordnung nicht anders geregelt, bleibt die Zulässigkeit der Einrichtung gemeinsamer Verfahren nach § 11 des E-Government-Gesetzes unberührt.
+
+(2) Die Rechtsverordnung kann vorsehen oder gestatten, dass weitere den in § 78l Absatz 2 Satz 1 und 2 genannten Zwecken sowie der Bestellung eines Notarvertreters und seiner Tätigkeit dienende Angaben gespeichert werden. Sie hat in diesem Fall deren Verwendungszweck näher zu bestimmen. Dabei kann insbesondere das Einsichtsrecht beschränkt oder ausgeschlossen werden.
+
+### § 78n Besonderes elektronisches Notarpostfach; Verordnungsermächtigung
+
+(1) Die Bundesnotarkammer richtet zum 1. Januar 2018 für jeden in das Notarverzeichnis eingetragenen Notar ein persönliches elektronisches Postfach ein (besonderes elektronisches Notarpostfach).
+
+(2) Die Bundesnotarkammer hat sicherzustellen, dass der Zugang zum besonderen elektronischen Notarpostfach nur durch ein sicheres Verfahren mit zwei voneinander unabhängigen Sicherungsmitteln möglich ist. Die Bundesnotarkammer kann unterschiedlich ausgestaltete Zugangsberechtigungen für Notare und andere Personen vorsehen. Sie ist berechtigt, die in dem besonderen elektronischen Notarpostfach gespeicherten Nachrichten nach angemessener Zeit zu löschen. Das besondere elektronische Notarpostfach soll barrierefrei ausgestaltet sein.
+
+(3) Wird das Erlöschen des Amtes des Notars oder die vorläufige Amtsenthebung in das Notarverzeichnis eingetragen, hebt die Bundesnotarkammer die Zugangsberechtigung zum besonderen elektronischen Notarpostfach auf. Sie löscht das besondere elektronische Notarpostfach, sobald es nicht mehr benötigt wird.
+
+(4) Die Absätze 1 bis 3 gelten für Notariatsverwalter entsprechend.
+
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz regelt durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der besonderen elektronischen Notarpostfächer, insbesondere Einzelheiten
+
+1.  
+ihrer Einrichtung und der hierzu erforderlichen Datenübermittlung,
+
+2.  
+ihrer technischen Ausgestaltung einschließlich ihrer Barrierefreiheit,
+
+3.  
+ihrer Führung,
+
+4.  
+der Zugangsberechtigung und der Nutzung,
+
+5.  
+des Löschens von Nachrichten und
+
+6.  
+ihrer Löschung.
+
+### § 78o Beschwerde
+
+(1) Gegen Entscheidungen der Registerbehörde nach den §§ 78a bis 78g und der Urkundenarchivbehörde nach § 78j, auch soweit diese auf Grund einer Rechtsverordnung oder Satzung nach den genannten Vorschriften erfolgen, findet ohne Rücksicht auf den Wert des Beschwerdegegenstandes die Beschwerde nach den Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit statt, soweit sich nicht aus den folgenden Absätzen etwas anderes ergibt.
+
+(2) Die Beschwerde ist bei der Behörde einzulegen, die die Entscheidung getroffen hat. Diese kann der Beschwerde abhelfen. Beschwerden, denen sie nicht abhilft, legt sie dem Landgericht am Sitz der Bundesnotarkammer vor.
 
 (3) Die Rechtsbeschwerde ist nicht zulässig.
 
@@ -1224,7 +1566,7 @@ Die Notarkammern werden in der Vertreterversammlung durch ihre Präsidenten oder
 
 ### § 85
 
-(1) Die Vertreterversammlung wird durch den Präsidenten einberufen. Er führt den Vorsitz in der Versammlung. Der Präsident muß sie einberufen, wenn das Präsidium oder mindestens drei Notarkammern es beantragen. Der Antrag der Notarkammern soll schriftlich gestellt werden und den Gegenstand angeben, der in der Vertreterversammlung behandelt werden soll.
+(1) Die Vertreterversammlung wird durch den Präsidenten einberufen. Er führt den Vorsitz in der Vertreterversammlung. Der Präsident muß sie einberufen, wenn das Präsidium oder mindestens drei Notarkammern es beantragen. Der Antrag der Notarkammern soll schriftlich gestellt werden und den Gegenstand angeben, der in der Vertreterversammlung behandelt werden soll.
 
 (2) In dringenden Fällen kann der Präsident die Vertreterversammlung mit einer kürzeren als der in der Satzung für die Einberufung vorgesehenen Frist einberufen. Der Gegenstand, über den Beschluß gefaßt werden soll, braucht in diesem Fall nicht angegeben zu werden.
 
@@ -1234,7 +1576,7 @@ Die Notarkammern werden in der Vertreterversammlung durch ihre Präsidenten oder
 
 (1) In der Vertreterversammlung hat jede Notarkammer eine Stimme. Im Fall des § 65 Abs. 1 Satz 2 hat die Notarkammer so viele Stimmen, als sie Oberlandesgerichtsbezirke oder Teile von Oberlandesgerichtsbezirken umfaßt; jedoch bleibt hierbei ein Teil eines Oberlandesgerichtsbezirks außer Betracht, wenn die Zahl der in ihm zugelassenen Notare geringer ist als die Zahl der Notare, die in einem nicht zu derselben Notarkammer gehörigen Teil des Oberlandesgerichtsbezirks zugelassen sind.
 
-(2) Zu den Versammlungen können von jeder Notarkammer so viele Notare entsandt werden, wie die Notarkammer Stimmen hat. Zu den Versammlungen können darüber hinaus auch Notare zur gutachtlichen Äußerung zu einzelnen Fragen zugelassen werden.
+(2) Zu den Vertreterversammlungen können von jeder Notarkammer so viele Notare entsandt werden, wie die Notarkammer Stimmen hat. Zu den Vertreterversammlungen können darüber hinaus auch Notare zur gutachtlichen Äußerung zu einzelnen Fragen zugelassen werden.
 
 (3) Die Vertreterversammlung faßt ihre Beschlüsse, soweit in diesem Gesetz oder in der Satzung nichts anderes bestimmt ist, mit der einfachen Mehrheit der abgegebenen Stimmen. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag; bei Wahlen entscheidet das Los.
 
@@ -1334,8 +1676,14 @@ Notare und Notarassessoren, die schuldhaft die ihnen obliegenden Amtspflichten v
 
 (1) Im Disziplinarverfahren können folgende Maßnahmen verhängt werden:
 
-  
-Verweis,Geldbuße,Entfernung aus dem Amt.
+1.  
+Verweis,
+
+2.  
+Geldbuße,
+
+3.  
+Entfernung aus dem Amt.
 
 Die Disziplinarmaßnahmen des Verweises und der Geldbuße können nebeneinander verhängt werden.
 
@@ -1345,7 +1693,7 @@ Die Disziplinarmaßnahmen des Verweises und der Geldbuße können nebeneinander 
 
 (4) Geldbuße kann gegen Notare bis zu fünfzigtausend Euro, gegen Notarassessoren bis zu fünftausend Euro verhängt werden. Beruht die Handlung, wegen der eine Geldbuße verhängt wird, auf Gewinnsucht, so kann auf Geldbuße bis zum Doppelten des erzielten Vorteils erkannt werden.
 
-(5) Die Entfernung aus dem Amt (Absatz 1) hat bei einem Notar, der zugleich Rechtsanwalt ist, zugleich die Ausschließung aus der Rechtsanwaltschaft zur Folge.
+(5) Die Entfernung aus dem Amt nach Absatz 1 Satz 1 Nummer 3 hat bei einem Notar, der zugleich Rechtsanwalt ist, zugleich die Ausschließung aus der Rechtsanwaltschaft zur Folge.
 
 ### § 98
 
@@ -1359,7 +1707,7 @@ Als Disziplinargerichte für Notare sind im ersten Rechtszug das Oberlandesgeric
 
 ### § 100
 
-Sind in einem Land mehrere Oberlandesgerichte errichtet, so kann die Landesregierung durch Rechtsverordnung die Aufgaben, die in diesem Gesetz dem Oberlandesgericht als Disziplinargericht zugewiesen sind, für die Bezirke aller oder mehrerer Oberlandesgerichte einem oder einigen der Oberlandesgerichte oder dem obersten Landesgericht übertragen, wenn dies der Sicherung einer einheitlichen Rechtsprechung dienlich ist.
+Sind in einem Land mehrere Oberlandesgerichte errichtet, so kann die Landesregierung durch Rechtsverordnung die Aufgaben, die in diesem Gesetz dem Oberlandesgericht als Disziplinargericht zugewiesen sind, für die Bezirke aller oder mehrerer Oberlandesgerichte einem oder einigen der Oberlandesgerichte oder dem obersten Landesgericht übertragen, wenn dies der Sicherung einer einheitlichen Rechtsprechung dienlich ist. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 ### § 101
 
@@ -1462,7 +1810,7 @@ Auf das Verfahren des Bundesgerichtshofs in Disziplinarsachen gegen Notare sind 
 
 ### § 110a
 
-(1) Eintragungen in den über den Notar geführten Akten über einen Verweis oder eine Geldbuße sind nach zehn Jahren zu tilgen, auch wenn sie nebeneinander verhängt wurden. Die über diese Disziplinarmaßnahmen entstandenen Vorgänge sind aus den über den Notar geführten Akten zu entfernen und zu vernichten. Nach Ablauf der Frist dürfen diese Maßnahmen bei weiteren Disziplinarmaßnahmen nicht mehr berücksichtigt werden.
+(1) Eintragungen in den über den Notar geführten Akten über einen Verweis oder eine Geldbuße sind nach zehn Jahren zu tilgen, auch wenn sie nebeneinander verhängt wurden. Die über diese Disziplinarmaßnahmen entstandenen Vorgänge sind aus den über den Notar geführten Akten zu entfernen und zu vernichten.
 
 (2) Die Frist beginnt mit dem Tage, an dem die Disziplinarmaßnahme unanfechtbar geworden ist.
 
@@ -1472,7 +1820,7 @@ Auf das Verfahren des Bundesgerichtshofs in Disziplinarsachen gegen Notare sind 
 
 (5) Die Absätze 1 bis 4 gelten für Ermahnungen durch die Notarkammer und für Mißbilligungen durch die Aufsichtsbehörde entsprechend. Die Frist beträgt fünf Jahre.
 
-(6) Eintragungen über strafgerichtliche Verurteilungen oder über andere Entscheidungen in Verfahren wegen Straftaten, Ordnungswidrigkeiten oder der Verletzung von Berufs- oder Amtspflichten, die nicht zu einer Disziplinarmaßnahme, einer Ermahnung oder Mißbilligung geführt haben, sind auf Antrag des Notars nach fünf Jahren zu tilgen. Absatz 1 Satz 2, Absatz 2 und 3 gelten entsprechend.
+(6) Eintragungen über strafgerichtliche Verurteilungen oder über andere Entscheidungen in Verfahren wegen Straftaten, Ordnungswidrigkeiten oder der Verletzung von Berufs- oder Amtspflichten, die nicht zu einer Disziplinarmaßnahme, einer Ermahnung oder Mißbilligung geführt haben, sind nach fünf Jahren zu tilgen. Absatz 1 Satz 2, Absatz 2 und 3 gelten entsprechend.
 
 Vierter Teil Übergangs- und Schlußbestimmungen
 ----------------------------------------------
@@ -1503,7 +1851,7 @@ der Beschwerde nach § 17a Abs. 4 Satz 4 des Gerichtsverfassungsgesetzes.
 
 ### § 111a
 
-Örtlich zuständig ist das Oberlandesgericht, in dessen Bezirk der Verwaltungsakt erlassen wurde oder zu erlassen wäre; für hoheitliche Maßnahmen, die berufsrechtliche Rechte und Pflichten der Beteiligten beeinträchtigen oder verwirklichen, gilt dies sinngemäß. In allen anderen Angelegenheiten ist das Oberlandesgericht zuständig, in dessen Bezirk der Beklagte seine Geschäftsstelle oder ansonsten seinen Wohnsitz hat. Sind in einem Land mehrere Oberlandesgerichte errichtet, so kann die Landesregierung durch Rechtsverordnung die Zuständigkeit eines oder mehrerer Oberlandesgerichte abweichend regeln. Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
+Örtlich zuständig ist das Oberlandesgericht, in dessen Bezirk der Verwaltungsakt erlassen wurde oder zu erlassen wäre; für hoheitliche Maßnahmen, die berufsrechtliche Rechte und Pflichten der Beteiligten beeinträchtigen oder verwirklichen, gilt dies sinngemäß. In allen anderen Angelegenheiten ist das Oberlandesgericht zuständig, in dessen Bezirk der Beklagte seine Geschäftsstelle oder ansonsten seinen Wohnsitz hat. Sind in einem Land mehrere Oberlandesgerichte errichtet, so kann die Landesregierung durch Rechtsverordnung die Zuständigkeit eines oder mehrerer Oberlandesgerichte abweichend regeln. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 ### § 111b
 
@@ -1539,7 +1887,7 @@ Gegen Endurteile einschließlich der Teilurteile, Grundurteile und Zwischenurtei
 
 (2) Die Klage kann durch die Behörde, die die Staatsaufsicht führt, oder ein Mitglied der Notarkammer erhoben werden. Die Klage eines Mitglieds der Notarkammer gegen einen Beschluss ist nur zulässig, wenn es geltend macht, durch den Beschluss in seinen Rechten verletzt zu sein.
 
-(3) Ein Mitglied der Kammer kann den Antrag nur innerhalb eines Monats nach der Wahl oder Beschlussfassung stellen.
+(3) Ein Mitglied der Notarkammer kann den Antrag nur innerhalb eines Monats nach der Wahl oder Beschlussfassung stellen.
 
 ### § 111f
 
@@ -1677,9 +2025,7 @@ Fehlt eine Abgabensatzung, kann die Aufsichtsbehörde die Abgaben vorläufig fes
 
 (19) Im Übrigen bestimmen sich die Aufgaben und Rechtsverhältnisse der Kassen, ihrer Organe und deren Zuständigkeiten nach einer Satzung. Erlass und Änderungen der Satzung und der Abgabensatzung bedürfen zu ihrer Wirksamkeit der Genehmigung durch die Aufsichtsbehörde und der Bekanntmachung. Für die Notarkasse erfolgt die Bekanntmachung im "Amtlichen Mitteilungsblatt der Landesnotarkammer Bayern und der Notarkasse". Für die Ländernotarkasse erfolgt die Bekanntmachung im "Amtlichen Mitteilungsblatt der Ländernotarkasse".
 
-### § 113a
-
-(weggefallen)
+### § 113a (weggefallen)
 
 ### § 113b
 
@@ -1696,33 +2042,29 @@ außerordentliche Beiträge von einem Notar erheben, der eine Verbindung zur gem
 
 ### § 114
 
-Für das Land Baden-Württemberg gelten folgende besondere Vorschriften:
+(1) Im Land Baden-Württemberg werden Notare nach § 3 Absatz 1 bestellt. Ergänzend gelten dort die besonderen Vorschriften der Absätze 2 bis 7.
 
-(1) Neben Notaren nach § 3 Abs. 1 können Notare im Landesdienst bestellt werden.
+(2) Wer am 31. Dezember 2017 als Notar im Landesdienst oder als Notarvertreter im Sinne des baden-württembergischen Landesgesetzes über die freiwillige Gerichtsbarkeit vom 12. Februar 1975 (Gesetzblatt für Baden-Württemberg S. 116), das zuletzt durch Artikel 4 des Gesetzes vom 21. April 2015 (Gesetzblatt für Baden-Württemberg S. 281) geändert worden ist, in der am 31. Dezember 2017 geltenden Fassung bei den Abteilungen „Beurkundung und vorsorgende Rechtspflege“ der staatlichen Notariate tätig war und mit Ablauf des 31. Dezember 2017 auf eigenen Antrag aus dem Landesdienst entlassen wurde, gilt als am 1. Januar 2018 zum Notar im Sinne des § 3 Absatz 1 bestellt. Die Landesjustizverwaltung erteilt als Nachweis über die Bestellung eine Bestallungsurkunde. § 13 gilt entsprechend.
 
-(2) Notare im Landesdienst, die sich um eine Bestellung zum Notar nach § 3 Abs. 1 bewerben, stehen Bewerbern gleich, die einen dreijährigen Anwärterdienst als Notarassessor geleistet haben und sich im Anwärterdienst des Landes Baden-Württemberg befinden. Das Gleiche gilt für Personen, welche die Voraussetzungen für die Ernennung zum Bezirksnotar erfüllen. § 5 Satz 1 zweiter Halbsatz gilt insoweit nicht. § 6 Abs. 3 gilt mit der Maßgabe, dass auch der berufliche Werdegang der Bewerber zu berücksichtigen ist, vor allem die im Justizdienst des Landes erbrachten Leistungen.
+(3) Die Notare nach Absatz 2 führen die notariellen Geschäfte aus den von ihnen am 31. Dezember 2017 geleiteten Referaten und Abteilungen der staatlichen Notariate in ihrer Eigenschaft als nach § 3 Absatz 1 bestellter Notar fort. Das Land Baden-Württemberg bleibt nach den bisherigen landesrechtlichen Vorschriften einschließlich der Überleitungsvorschriften an den Kostenforderungen insoweit berechtigt, als ein Notar im Verhältnis zu einem Notariatsverwalter nach § 58 Absatz 2 Satz 2 berechtigt wäre. Die Notare nach Absatz 2 übernehmen die notariellen Akten und Bücher sowie die amtlich übergebenen Urkunden und Wertgegenstände, die in diesen Referaten und Abteilungen geführt oder die ihnen übergeben wurden. Die Notare nach Absatz 2 können bis zum 31. Dezember 2019 vollständige Jahrgänge von Akten und Büchern sowie hierzu amtlich übergebene Urkunden, die sie zur Wahrnehmung ihrer Aufgaben nicht mehr benötigen, gemäß § 51 Absatz 1 in Verwahrung geben.
 
-(3) Dieses Gesetz gilt für die Notare im Landesdienst nicht. Die Vorschriften über ihre Dienstverhältnisse, ihre Zuständigkeit und das von ihnen bei ihrer Amtstätigkeit zu beachtende Verfahren einschließlich des Rechtsmittelzugs bleiben unberührt.
+(4) Die am 31. Dezember 2017 noch nicht abgeschlossenen notariellen Geschäfte der Referate und Abteilungen der staatlichen Notariate, die nicht nach Absatz 3 fortgeführt werden, werden von Notariatsabwicklern abgewickelt. Die näheren Bestimmungen zum Amt des Notariatsabwicklers ergeben sich aus Landesrecht.
 
-(4) Die Notare im Landesdienst sind berechtigt, einer in Baden-Württemberg gebildeten Notarkammer als Mitglieder ohne Stimmrecht beizutreten. Dem Vorstand einer Notarkammer, der Notare im Landesdienst angehören, gehört für das badische und für das württembergische Rechtsgebiet je ein Notar im Landesdienst an, der nicht stimmberechtigt ist. Er nimmt auch an den Vertreterversammlungen der Bundesnotarkammer ohne Stimmrecht teil. Der Notar im Landesdienst und sein Vertreter werden von den Notaren im Landesdienst nach Rechtsgebieten aus dem Kreis derjenigen Notare im Landesdienst gewählt, die der Notarkammer beigetreten sind.
+(5) Personen, die am 31. Dezember 2017 zum Notar im Landesdienst bestellt waren oder die Voraussetzungen für die Ernennung zum Bezirksnotar erfüllten und sich um eine Bestellung zum Notar nach § 3 Absatz 1 bewerben, stehen Bewerbern gleich, die einen dreijährigen Anwärterdienst als Notarassessor geleistet haben und sich im Anwärterdienst des Landes Baden-Württemberg befinden. § 5 Satz 1 gilt insoweit nicht. § 6 Absatz 3 Satz 1 und 2 gilt mit der Maßgabe, dass auch der berufliche Werdegang der Bewerber zu berücksichtigen ist, vor allem die im Justizdienst des Landes erbrachten Leistungen.
 
-(5) Zugang zum Anwärterdienst im Sinne des § 7 hat auch, wer die Befähigung für die Laufbahn des Bezirksnotars besitzt. Die Landesjustizverwaltung kann davon absehen, Personen mit Befähigung zum Richteramt nach dem Deutschen Richtergesetz in den Anwärterdienst zu übernehmen, wenn geeignete Bewerber mit Befähigung für die Laufbahn des Bezirksnotars nach Satz 1 zur Verfügung stehen; die Auswahl unter solchen Bewerbern ist nach der persönlichen und fachlichen Eignung unter besonderer Berücksichtigung des Ergebnisses der Laufbahnprüfung vorzunehmen. Wer einen dreijährigen Anwärterdienst geleistet hat und sich im Anwärterdienst des Landes Baden-Württemberg befindet, gilt als befähigt im Sinne des § 5.
+(6) Zugang zum Anwärterdienst im Sinne des § 7 hat auch, wer am 31. Dezember 2017 die Befähigung für die Laufbahn des Bezirksnotars besaß. Die Landesjustizverwaltung kann davon absehen, Personen mit Befähigung zum Richteramt nach dem Deutschen Richtergesetz in den Anwärterdienst zu übernehmen, wenn geeignete Bewerber mit Befähigung für die Laufbahn des Bezirksnotars nach Satz 1 zur Verfügung stehen; die Auswahl unter solchen Bewerbern ist nach der persönlichen und fachlichen Eignung unter besonderer Berücksichtigung des Ergebnisses der Laufbahnprüfung vorzunehmen. Wer einen dreijährigen Anwärterdienst geleistet hat und sich im Anwärterdienst des Landes Baden-Württemberg befindet, gilt als befähigt im Sinne des § 5.
 
-(6) Für Stellenbesetzungsverfahren im badischen Rechtsgebiet, für die die in der Ausschreibung gesetzte Frist vor dem 21. Juli 2009 abgelaufen ist, gilt § 6b Abs. 3 nicht für Bezirksnotare und für Personen, die die Voraussetzungen für die Ernennung zum Bezirksnotar erfüllen.
+(7) Die Aufsichtsbehörden können auch Beamte des Landes Baden-Württemberg, die am 31. Dezember 2017 zum Notar im Landesdienst bestellt waren oder die die Voraussetzungen für die Ernennung zum Bezirksnotar erfüllten, mit der Prüfung und Überwachung der Amtsführung der Notare und des Dienstes der Notarassessoren beauftragen.
 
-### § 115
-
-(weggefallen)
+### § 115 (weggefallen)
 
 ### § 116
 
-(1) In den Gerichtsbezirken der früher württembergischen und hohenzollerischen Teile des Landes Baden-Württemberg, in denen am 1. April 1961 Rechtsanwälte zur nebenberuflichen Amtsausübung als Notare bestellt werden konnten, können auch weiterhin Anwaltsnotare bestellt werden. § 7 ist insoweit nicht anzuwenden. § 4 gilt entsprechend.
+(1) Anwaltsnotare, die am 31. Dezember 2017 in Baden-Württemberg bestellt sind, bleiben im Amt. Sie können auf Antrag nach Anhörung der Notarkammer an ihrem bisherigen Amtssitz zum Notar im Sinne des § 3 Absatz 1 bestellt werden. § 6 Absatz 1 Satz 2, Absatz 3 Satz 1 und 2 sowie die §§ 6b, 7 und 13 finden keine Anwendung. Ein Antrag nach Satz 2 ist bis zum 31. Dezember 2019 bei der Landesjustizverwaltung schriftlich zu stellen. Mit der Bestellung zum Notar im Sinne des § 3 Absatz 1 gilt die Zulassung zur Rechtsanwaltschaft als bestandskräftig widerrufen. Die Landesjustizverwaltung hat eine Bestellung nach Satz 5 der Rechtsanwaltskammer mitzuteilen.
 
 (2) In den Ländern Hamburg und Rheinland-Pfalz gilt § 3 Abs. 2 nicht. Soweit am 1. April 1961 dort Rechtsanwälte das Amt des Notars im Nebenberuf ausgeübt haben, behält es dabei sein Bewenden.
 
 (3) In dem in Artikel 1 Abs. 1 des Staatsvertrages zwischen den Ländern Mecklenburg-Vorpommern und Niedersachsen über die Umgliederung der Gemeinden im ehemaligen Amt Neuhaus und anderer Gebiete nach Niedersachsen genannten Gebiet werden ausschließlich Anwaltsnotare bestellt.
-
-§ 116 Abs. 1 Satz 3: Mit GG vereinbar. BVerfGE v. 5.5.1964 I 430 - 1 BvL 8/62 -
 
 ### § 117
 
@@ -1743,41 +2085,15 @@ Die Notare eines jeden Landes bilden eine Notarkammer. § 86 Abs. 1 Satz 2 ist n
 
 ### § 117b
 
-(1) Abweichend von § 5 kann auch ein deutscher Staatsangehöriger zum Notar bestellt werden, der ein rechtswissenschaftliches Studium an einer Universität oder Hochschule der Deutschen Demokratischen Republik mit dem Staatsexamen abgeschlossen und einen zweijährigen Vorbereitungsdienst mit einer Staatsprüfung absolviert hat. Auf den Vorbereitungsdienst mit der Staatsprüfung wird verzichtet, wenn der Bewerber als Notar in einem Staatlichen Notariat tätig war oder zehn Jahre als Jurist gearbeitet hat und notarspezifische Kenntnisse nachweist.
+Abweichend von § 5 kann auch zum Notar bestellt werden, wer ein rechtswissenschaftliches Studium an einer Universität oder Hochschule der Deutschen Demokratischen Republik mit dem Staatsexamen abgeschlossen und einen zweijährigen Vorbereitungsdienst mit einer Staatsprüfung absolviert hat. Auf den Vorbereitungsdienst mit der Staatsprüfung wird verzichtet, wenn der Bewerber als Notar in einem Staatlichen Notariat tätig war oder zehn Jahre als Jurist gearbeitet hat und notarspezifische Kenntnisse nachweist.
 
-(2) Abweichend von § 47 Nr. 1 können in den Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen bestellte Notare, die am 8. September 1998 das 58. Lebensjahr vollendet haben, bis zum Ablauf des 7. September 2010 im Amt bleiben.
+### § 118 (weggefallen)
 
-### § 118
-
-(1) Die vor dem 1. September 2009 eingeleiteten Verwaltungsverfahren in Notarsachen werden in der Lage, in der sie sich an diesem Tag befinden, nach diesem Gesetz in der ab diesem Tag geltenden Fassung fortgeführt, soweit nichts anderes bestimmt ist. Maßnahmen, die auf Grund des bis zum 31. August 2009 geltenden Rechts getroffen worden sind, bleiben rechtswirksam. Auf vor dem 1. September 2009 eingeleitete Verwaltungsverfahren in Notarsachen sind die bis zu diesem Tag geltenden kostenrechtlichen Regelungen weiter anzuwenden.
-
-(2) Die Zulässigkeit von Rechtsbehelfen gegen Entscheidungen, die vor dem 1. September 2009 ergangen sind, bestimmt sich ebenso wie das weitere Verfahren nach dem bis zu diesem Tag geltenden Recht.
-
-(3) Die vor dem 1. September 2009 anhängigen gerichtlichen Verfahren in verwaltungsrechtlichen Notarsachen werden nach den bis zu diesem Tag geltenden Bestimmungen einschließlich der kostenrechtlichen Regelungen fortgeführt.
-
-### § 119
-
-(weggefallen)
+### § 119 (weggefallen)
 
 ### § 120
 
-(1) Für Besetzungsverfahren, die bei Inkrafttreten des Artikels 1 Nr. 1 des Gesetzes zur Änderung der Bundesnotarordnung (Neuregelung des Zugangs zum Anwaltsnotariat) vom 2. April 2009 (BGBl. I S. 696) nicht abgeschlossen sind, gilt § 6 der Bundesnotarordnung in der bis zu diesem Zeitpunkt geltenden Fassung.
-
-(2) Eine Zulassung zur notariellen Fachprüfung ist erst vom 1. Februar 2010 an möglich.
-
-(3) Die Notarkammern werden ermächtigt, die Ausbildungsordnung gemäß § 6 Absatz 2 Satz 4 in der Fassung von Artikel 1 Nummer 1 des Gesetzes vom 2. April 2009 (BGBl. I S. 696) bereits vor dem 1. Mai 2011 zu erlassen. Bewerber können die Praxisausbildung gemäß § 6 Absatz 2 Satz 2 bis 4 in der Fassung des in Satz 1 genannten Gesetzes auf der Grundlage der von der Notarkammer erlassenen und von der Landesjustizverwaltung genehmigten Ausbildungsordnung bereits vor dem 1. Mai 2011 durchlaufen.
-
-### § 121
-
-(1) Die vor dem 1. Januar 2010 eingeleiteten Disziplinarverfahren werden in der Lage, in der sie sich an diesem Tag befinden, nach diesem Gesetz in der ab diesem Tag geltenden Fassung fortgeführt, soweit nichts anderes bestimmt ist. Maßnahmen, die aufgrund des bis zum 31. Dezember 2009 geltenden Rechts getroffen worden sind, bleiben rechtswirksam. Die Fortführung eines Disziplinarverfahrens nach Satz 1 steht der Einleitung eines Disziplinarverfahrens im Sinne des § 95a Absatz 1 Satz 2 gleich.
-
-(2) Die vor dem 1. Januar 2010 eingeleiteten förmlichen Disziplinarverfahren werden nach dem bis zum 31. Dezember 2009 geltenden Recht fortgeführt. In diesen Verfahren ist für die Einleitung und Durchführung des gerichtlichen Verfahrens ebenfalls das bis zum 31. Dezember 2009 geltende Recht anzuwenden.
-
-(3) Die vor dem 1. Januar 2010 anhängigen gerichtlichen Disziplinarverfahren oder gerichtlichen Verfahren gemäß § 75 Absatz 5 werden nach dem bis zum 31. Dezember 2009 geltenden Recht fortgeführt.
-
-(4) Die Zulässigkeit von Rechtsbehelfen gegen Entscheidungen in Disziplinarverfahren, die vor dem 1. Januar 2010 ergangen sind, bestimmt sich nach dem bis zum 31. Dezember 2009 geltenden Recht. Im weiteren Verfahren gelten ebenfalls die Bestimmungen des bis zu diesem Tag geltenden Rechts.
-
-(5) Die bis zum 31. Dezember 2009 in einem Disziplinarverfahren ergangenen Entscheidungen sind nach dem bis zu diesem Tag geltenden Recht zu vollstrecken, wenn sie unanfechtbar geworden sind.
+Für Besetzungsverfahren, die bei Inkrafttreten des Artikels 1 Nr. 1 des Gesetzes zur Änderung der Bundesnotarordnung (Neuregelung des Zugangs zum Anwaltsnotariat) vom 2. April 2009 (BGBl. I S. 696) nicht abgeschlossen sind, gilt § 6 der Bundesnotarordnung in der bis zu diesem Zeitpunkt geltenden Fassung.
 
 ### Anlage (zu § 111f Satz 1) Gebührenverzeichnis
 
@@ -2101,4 +2417,4 @@ Bundesnotarordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 303-1
 
 ...
 
-Anhang EV Abschn. I Nr. 8 Kursivdruck: G tritt in den Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen gem. Art. 13 Abs. 1 nach Maßgabe d. Abs. 2 bis 11 G v. 31.8.1998 I 2585 (BNotOuaÄndG 3) mWv 8.9.1998 in Kraft
+Anhang EV Abschn. I Nr. 8 Kursivdruck: G ist in den Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen gem. Art. 13 Abs. 1 nach Maßgabe d. Abs. 2 bis 11 G v. 31.8.1998 I 2585 (BNotOuaÄndG 3) mWv 8.9.1998 in Kraft getreten
