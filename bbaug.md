@@ -2,2270 +2,666 @@ Baugesetzbuch (BauGB)
 =====================
 
 Neuf  
-Neugefasst durch Bek. v. 23.9.2004 I 2414;
-
-Stand  
-zuletzt geändert durch Art. 1 G v. 4.5.2017 I 1057
-
-Hinweis  
-Änderung durch Art. 6 G v. 29.5.2017 I 1298 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 2 G v. 30.6.2017 I 2193 (Nr. 44) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 2 Abs. 3 G v. 20.7.2017 I 2808 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Neugefasst durch Bek. v. 3.11.2017 I 3634
 
 ### 
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
 1.  
-Richtlinie 79/409/EWG des Rates vom 2. April 1979 über die Erhaltung der wild lebenden Vogelarten (ABl. EG Nr. L 103 S. 1), zuletzt geändert durch Verordnung (EG) Nr. 807/2003 des Rates vom 14. April 2003 (ABl. EU Nr. L 122 S. 36);
+Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist,
 
 2.  
-Richtlinie 85/337/EWG des Rates vom 27. Juni 1985 über die Umweltverträglichkeitsprüfung bei bestimmten öffentlichen und privaten Projekten (ABl. EG Nr. L 175 S. 40), zuletzt geändert durch Richtlinie 2003/35/EG des Europäischen Parlaments und des Rates vom 26. Mai 2003 (ABl. EU Nr. L 156 S. 17);
+Richtlinie 2001/42/EG des Europäischen Parlaments und des Rates vom 27. Juni 2001 über die Prüfung der Umweltauswirkungen bestimmter Pläne und Programme (ABl. L 197 vom 21.7.2001, S. 30),
 
 3.  
-Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. EG Nr. L 206 S. 7), zuletzt geändert durch Verordnung (EG) Nr. 1882/2003 des Europäischen Parlaments und des Rates vom 29. September 2003 (ABl. EU Nr. L 284 S. 1);
+Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom 26.1.2010, S. 7), die zuletzt durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist,
 
 4.  
-Richtlinie 2001/42/EG des Europäischen Parlaments und des Rates vom 27. Juni 2001 über die Prüfung der Umweltauswirkungen bestimmter Pläne und Programme (ABl. EG Nr. L 197 S. 30).
+Richtlinie 2011/92/EU des Europäischen Parlaments und des Rates vom 13. Dezember 2011 über die Umweltverträglichkeitsprüfung bei bestimmten öffentlichen und privaten Projekten (ABl. L 26 vom 28.1.2012, S. 1), die zuletzt durch die Richtlinie 2014/52/EU (ABl. L 124 vom 25.4.2014, S. 1) geändert worden ist.
 
 ```
 (+++ Textnachweis Geltung ab: 1.8.1979 +++)
 (+++ Änderungen aufgrund EinigVtr vgl. § 246a +++)
 (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
      Umsetzung der
-       EWGRL 409/79            (CELEX Nr: 31979L0319)
-       EWGRL 337/85            (CELEX Nr: 31985L0337)
        EWGRL 43/92             (CELEX Nr: 31992L0043)
-       EGRL 42/2001            (CELEX Nr: 32001L0042) +++)
+       EGRL 42/2001            (CELEX Nr: 32001L0042)
+       EGRL 147/2009           (CELEX Nr: 32009L0147)
+       EURL 92/2011            (CELEX Nr: 32011L0092) +++)
 ```
 
 Überschrift: IdF d. Art. 1 Nr. 1 G v. 8.12.1986 I 2191 mWv 1.7.1987
 
 ### Inhaltsübersicht
 
-<table>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><strong>Erstes Kapitel</strong></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><strong>Allgemeines Städtebaurecht</strong></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Erster Teil</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Bauleitplanung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Erster Abschnitt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Allgemeine Vorschriften</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 1</td>
-<td>Aufgabe, Begriff und Grundsätze der Bauleitplanung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 1a</td>
-<td>Ergänzende Vorschriften zum Umweltschutz</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 2</td>
-<td>Aufstellung der Bauleitpläne</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 2a</td>
-<td>Begründung zum Bauleitplanentwurf, Umweltbericht</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 3</td>
-<td>Beteiligung der Öffentlichkeit</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 4</td>
-<td>Beteiligung der Behörden</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 4a</td>
-<td>Gemeinsame Vorschriften zur Beteiligung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 4b</td>
-<td>Einschaltung eines Dritten</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 4c</td>
-<td>Überwachung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Zweiter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Vorbereitender Bauleitplan<br />
-(Flächennutzungsplan)</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 5</td>
-<td>Inhalt des Flächennutzungsplans</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 6</td>
-<td>Genehmigung des Flächennutzungsplans</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 6a</td>
-<td>Zusammenfassende Erklärung zum Flächennutzungsplan; Einstellen in das Internet</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 7</td>
-<td>Anpassung an den Flächennutzungsplan</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Dritter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Verbindlicher Bauleitplan<br />
-(Bebauungsplan)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 8</td>
-<td>Zweck des Bebauungsplans</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 9</td>
-<td>Inhalt des Bebauungsplans</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 9a</td>
-<td>Verordnungsermächtigung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 10</td>
-<td>Beschluss, Genehmigung und Inkrafttreten des Bebauungsplans</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 10a</td>
-<td>Zusammenfassende Erklärung zum Bebauungsplan; Einstellen in das Internet</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Vierter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Zusammenarbeit mit Privaten;<br />
-vereinfachtes Verfahren</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 11</td>
-<td>Städtebaulicher Vertrag</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 12</td>
-<td>Vorhaben- und Erschließungsplan</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 13</td>
-<td>Vereinfachtes Verfahren</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 13a</td>
-<td>Bebauungspläne der Innenentwicklung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 13b</td>
-<td>Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Zweiter Teil</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Sicherung der Bauleitplanung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Erster Abschnitt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Veränderungssperre und<br />
-Zurückstellung von Baugesuchen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 14</td>
-<td>Veränderungssperre</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 15</td>
-<td>Zurückstellung von Baugesuchen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 16</td>
-<td>Beschluss über die Veränderungssperre</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 17</td>
-<td>Geltungsdauer der Veränderungssperre</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 18</td>
-<td>Entschädigung bei Veränderungssperre</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Zweiter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Teilung von Grundstücken;<br />
-Gebiete mit Fremdenverkehrsfunktionen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 19</td>
-<td>Teilung von Grundstücken</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 20</td>
-<td>(weggefallen)</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 21</td>
-<td>(weggefallen)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 22</td>
-<td>Sicherung von Gebieten mit Fremdenverkehrsfunktionen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 23</td>
-<td>(weggefallen)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Dritter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Gesetzliche Vorkaufsrechte der Gemeinde</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 24</td>
-<td>Allgemeines Vorkaufsrecht</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 25</td>
-<td>Besonderes Vorkaufsrecht</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 26</td>
-<td>Ausschluss des Vorkaufsrechts</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 27</td>
-<td>Abwendung des Vorkaufsrechts</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 27a</td>
-<td>Ausübung des Vorkaufsrechts zugunsten Dritter</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 28</td>
-<td>Verfahren und Entschädigung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Dritter Teil</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Regelung der baulichen und<br />
-sonstigen Nutzung; Entschädigung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Erster Abschnitt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Zulässigkeit von Vorhaben</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 29</td>
-<td>Begriff des Vorhabens; Geltung von Rechtsvorschriften</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 30</td>
-<td>Zulässigkeit von Vorhaben im Geltungsbereich eines Bebauungsplans</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 31</td>
-<td>Ausnahmen und Befreiungen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 32</td>
-<td>Nutzungsbeschränkungen auf künftigen Gemeinbedarfs-, Verkehrs-, Versorgungs- und Grünflächen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 33</td>
-<td>Zulässigkeit von Vorhaben während der Planaufstellung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 34</td>
-<td>Zulässigkeit von Vorhaben innerhalb der im Zusammenhang bebauten Ortsteile</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 35</td>
-<td>Bauen im Außenbereich</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 36</td>
-<td>Beteiligung der Gemeinde und der höheren Verwaltungsbehörde</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 37</td>
-<td>Bauliche Maßnahmen des Bundes und der Länder</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 38</td>
-<td>Bauliche Maßnahmen von überörtlicher Bedeutung auf Grund von Planfeststellungsverfahren; öffentlich zugängliche Abfallbeseitigungsanlagen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Zweiter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Entschädigung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 39</td>
-<td>Vertrauensschaden</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 40</td>
-<td>Entschädigung in Geld oder durch Übernahme</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 41</td>
-<td>Entschädigung bei Begründung von Geh-, Fahr- und Leitungsrechten und bei Bindungen für Bepflanzungen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 42</td>
-<td>Entschädigung bei Änderung oder Aufhebung einer zulässigen Nutzung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 43</td>
-<td>Entschädigung und Verfahren</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 44</td>
-<td>Entschädigungspflichtige, Fälligkeit und Erlöschen der Entschädigungsansprüche</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Vierter Teil</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Bodenordnung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Erster Abschnitt</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Umlegung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 45</td>
-<td>Zweck und Anwendungsbereich</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 46</td>
-<td>Zuständigkeit und Voraussetzungen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 47</td>
-<td>Umlegungsbeschluss</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 48</td>
-<td>Beteiligte</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 49</td>
-<td>Rechtsnachfolge</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 50</td>
-<td>Bekanntmachung des Umlegungsbeschlusses</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 51</td>
-<td>Verfügungs- und Veränderungssperre</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 52</td>
-<td>Umlegungsgebiet</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 53</td>
-<td>Bestandskarte und Bestandsverzeichnis</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 54</td>
-<td>Benachrichtigungen und Umlegungsvermerk</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 55</td>
-<td>Umlegungsmasse und Verteilungsmasse</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 56</td>
-<td>Verteilungsmaßstab</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 57</td>
-<td>Verteilung nach Werten</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 58</td>
-<td>Verteilung nach Flächen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 59</td>
-<td>Zuteilung und Abfindung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 60</td>
-<td>Abfindung und Ausgleich für bauliche Anlagen, Anpflanzungen und sonstige Einrichtungen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 61</td>
-<td>Aufhebung, Änderung und Begründung von Rechten</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 62</td>
-<td>Gemeinschaftliches Eigentum; besondere rechtliche Verhältnisse</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 63</td>
-<td>Übergang von Rechtsverhältnissen auf die Abfindung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 64</td>
-<td>Geldleistungen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 65</td>
-<td>Hinterlegung und Verteilungsverfahren</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 66</td>
-<td>Aufstellung und Inhalt des Umlegungsplans</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 67</td>
-<td>Umlegungskarte</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 68</td>
-<td>Umlegungsverzeichnis</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 69</td>
-<td>Bekanntmachung des Umlegungsplans, Einsichtnahme</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 70</td>
-<td>Zustellung des Umlegungsplans</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 71</td>
-<td>Inkrafttreten des Umlegungsplans</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 72</td>
-<td>Wirkungen der Bekanntmachung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 73</td>
-<td>Änderung des Umlegungsplans</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 74</td>
-<td>Berichtigung der öffentlichen Bücher</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 75</td>
-<td>Einsichtnahme in den Umlegungsplan</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 76</td>
-<td>Vorwegnahme der Entscheidung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 77</td>
-<td>Vorzeitige Besitzeinweisung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 78</td>
-<td>Verfahrens- und Sachkosten</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 79</td>
-<td>Abgaben- und Auslagenbefreiung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Zweiter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Vereinfachte Umlegung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 80</td>
-<td>Zweck, Anwendungsbereich, Zuständigkeiten</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 81</td>
-<td>Geldleistungen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 82</td>
-<td>Beschluss über die vereinfachte Umlegung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 83</td>
-<td>Bekanntmachung und Rechtswirkungen der vereinfachten Umlegung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 84</td>
-<td>Berichtigung der öffentlichen Bücher</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Fünfter Teil</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Enteignung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Erster Abschnitt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Zulässigkeit der Enteignung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 85</td>
-<td>Enteignungszweck</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 86</td>
-<td>Gegenstand der Enteignung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 87</td>
-<td>Voraussetzungen für die Zulässigkeit der Enteignung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 88</td>
-<td>Enteignung aus zwingenden städtebaulichen Gründen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 89</td>
-<td>Veräußerungspflicht</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 90</td>
-<td>Enteignung von Grundstücken zur Entschädigung in Land</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 91</td>
-<td>Ersatz für entzogene Rechte</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 92</td>
-<td>Umfang, Beschränkung und Ausdehnung der Enteignung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Zweiter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Entschädigung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 93</td>
-<td>Entschädigungsgrundsätze</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 94</td>
-<td>Entschädigungsberechtigter und Entschädigungsverpflichteter</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 95</td>
-<td>Entschädigung für den Rechtsverlust</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 96</td>
-<td>Entschädigung für andere Vermögensnachteile</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 97</td>
-<td>Behandlung der Rechte der Nebenberechtigten</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 98</td>
-<td>Schuldübergang</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 99</td>
-<td>Entschädigung in Geld</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 100</td>
-<td>Entschädigung in Land</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 101</td>
-<td>Entschädigung durch Gewährung anderer Rechte</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 102</td>
-<td>Rückenteignung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 103</td>
-<td>Entschädigung für die Rückenteignung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Dritter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Enteignungsverfahren</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 104</td>
-<td>Enteignungsbehörde</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 105</td>
-<td>Enteignungsantrag</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 106</td>
-<td>Beteiligte</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 107</td>
-<td>Vorbereitung der mündlichen Verhandlung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 108</td>
-<td>Einleitung des Enteignungsverfahrens und Anberaumung des Termins zur mündlichen Verhandlung; Enteignungsvermerk</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 109</td>
-<td>Genehmigungspflicht</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 110</td>
-<td>Einigung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 111</td>
-<td>Teileinigung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 112</td>
-<td>Entscheidung der Enteignungsbehörde</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 113</td>
-<td>Enteignungsbeschluss</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 114</td>
-<td>Lauf der Verwendungsfrist</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 115</td>
-<td>Verfahren bei der Entschädigung durch Gewährung anderer Rechte</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 116</td>
-<td>Vorzeitige Besitzeinweisung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 117</td>
-<td>Ausführung des Enteignungsbeschlusses</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 118</td>
-<td>Hinterlegung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 119</td>
-<td>Verteilungsverfahren</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 120</td>
-<td>Aufhebung des Enteignungsbeschlusses</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 121</td>
-<td>Kosten</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 122</td>
-<td>Vollstreckbarer Titel</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Sechster Teil</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Erschließung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Erster Abschnitt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Allgemeine Vorschriften</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 123</td>
-<td>Erschließungslast</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 124</td>
-<td>Erschließungspflicht nach abgelehntem Vertragsangebot</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 125</td>
-<td>Bindung an den Bebauungsplan</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 126</td>
-<td>Pflichten des Eigentümers</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Zweiter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Erschließungsbeitrag</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 127</td>
-<td>Erhebung des Erschließungsbeitrags</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 128</td>
-<td>Umfang des Erschließungsaufwands</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 129</td>
-<td>Beitragsfähiger Erschließungsaufwand</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 130</td>
-<td>Art der Ermittlung des beitragsfähigen Erschließungsaufwands</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 131</td>
-<td>Maßstäbe für die Verteilung des Erschließungsaufwands</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 132</td>
-<td>Regelung durch Satzung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 133</td>
-<td>Gegenstand und Entstehung der Beitragspflicht</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 134</td>
-<td>Beitragspflichtiger</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 135</td>
-<td>Fälligkeit und Zahlung des Beitrags</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Siebter Teil</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Maßnahmen für den Naturschutz</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 135a</td>
-<td>Pflichten des Vorhabenträgers; Durchführung durch die Gemeinde; Kostenerstattung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 135b</td>
-<td>Verteilungsmaßstäbe für die Abrechnung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 135c</td>
-<td>Satzungsrecht</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><strong>Zweites Kapitel</strong></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><strong>Besonderes Städtebaurecht</strong></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Erster Teil</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Städtebauliche Sanierungsmaßnahmen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Erster Abschnitt</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Allgemeine Vorschriften</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 136</td>
-<td>Städtebauliche Sanierungsmaßnahmen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 137</td>
-<td>Beteiligung und Mitwirkung der Betroffenen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 138</td>
-<td>Auskunftspflicht</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 139</td>
-<td>Beteiligung und Mitwirkung öffentlicher Aufgabenträger</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Zweiter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Vorbereitung und Durchführung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 140</td>
-<td>Vorbereitung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 141</td>
-<td>Vorbereitende Untersuchungen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 142</td>
-<td>Sanierungssatzung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 143</td>
-<td>Bekanntmachung der Sanierungssatzung, Sanierungsvermerk</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 144</td>
-<td>Genehmigungspflichtige Vorhaben und Rechtsvorgänge</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 145</td>
-<td>Genehmigung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 146</td>
-<td>Durchführung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 147</td>
-<td>Ordnungsmaßnahmen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 148</td>
-<td>Baumaßnahmen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 149</td>
-<td>Kosten- und Finanzierungsübersicht</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 150</td>
-<td>Ersatz für Änderungen von Einrichtungen, die der öffentlichen Versorgung dienen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 151</td>
-<td>Abgaben- und Auslagenbefreiung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Dritter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Besondere sanierungsrechtliche Vorschriften</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 152</td>
-<td>Anwendungsbereich</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 153</td>
-<td>Bemessung von Ausgleichs- und Entschädigungsleistungen, Kaufpreise, Umlegung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 154</td>
-<td>Ausgleichsbetrag des Eigentümers</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 155</td>
-<td>Anrechung auf den Ausgleichsbetrag, Absehen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 156</td>
-<td>Überleitungsvorschriften zur förmlichen Festlegung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 156a</td>
-<td>Kosten und Finanzierung der Sanierungsmaßnahme</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Vierter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Sanierungsträger und andere Beauftragte</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 157</td>
-<td>Erfüllung von Aufgaben für die Gemeinde</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 158</td>
-<td>Voraussetzungen für die Beauftragung als Sanierungsträger</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 159</td>
-<td>Erfüllung der Aufgaben als Sanierungsträger</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 160</td>
-<td>Treuhandvermögen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 161</td>
-<td>Sicherung des Treuhandvermögens</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Fünfter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Abschluss der Sanierung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 162</td>
-<td>Aufhebung der Sanierungssatzung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 163</td>
-<td>Fortfall von Rechtswirkungen für einzelne Grundstücke</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 164</td>
-<td>Anspruch auf Rückübertragung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Sechster Abschnitt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Städtebauförderung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 164a</td>
-<td>Einsatz von Städtebauförderungsmitteln</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 164b</td>
-<td>Verwaltungsvereinbarung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Zweiter Teil</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Städtebauliche Entwicklungsmaßnahmen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 165</td>
-<td>Städtebauliche Entwicklungsmaßnahmen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 166</td>
-<td>Zuständigkeit und Aufgaben</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 167</td>
-<td>Erfüllung von Aufgaben für die Gemeinde; Entwicklungsträger</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 168</td>
-<td>Übernahmeverlangen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 169</td>
-<td>Besondere Vorschriften für den städtebaulichen Entwicklungsbereich</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 170</td>
-<td>Sonderregelung für Anpassungsgebiete</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 171</td>
-<td>Kosten und Finanzierung der Entwicklungsmaßnahme</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Dritter Teil</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Stadtumbau</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 171a</td>
-<td>Stadtumbaumaßnahmen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 171b</td>
-<td>Stadtumbaugebiet, städtebauliches Entwicklungskonzept</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 171c</td>
-<td>Stadtumbauvertrag</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 171d</td>
-<td>Sicherung von Durchführungsmaßnahmen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Vierter Teil</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Soziale Stadt</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 171e</td>
-<td>Maßnahmen der Sozialen Stadt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Fünfter Teil</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Private Initiativen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> § 171f</td>
-<td>Private Initiativen zur Stadtentwicklung, Landesrecht</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Sechster Teil</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Erhaltungssatzung und städtebauliche Gebote</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Erster Abschnitt</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Erhaltungssatzung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 172</td>
-<td>Erhaltung baulicher Anlagen und der Eigenart von Gebieten (Erhaltungssatzung)</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 173</td>
-<td>Genehmigung, Übernahmeanspruch</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 174</td>
-<td>Ausnahmen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Zweiter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Städtebauliche Gebote</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 175</td>
-<td>Allgemeines</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 176</td>
-<td>Baugebot</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 177</td>
-<td>Modernisierungs- und Instandsetzungsgebot</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 178</td>
-<td>Pflanzgebot</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 179</td>
-<td>Rückbau- und Entsiegelungsgebot</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Siebter Teil</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Sozialplan und Härteausgleich</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 180</td>
-<td>Sozialplan</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 181</td>
-<td>Härteausgleich</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Achter Teil</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Miet- und Pachtverhältnisse</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 182</td>
-<td>Aufhebung von Miet- oder Pachtverhältnissen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 183</td>
-<td>Aufhebung von Miet- oder Pachtverhältnissen über unbebaute Grundstücke</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 184</td>
-<td>Aufhebung anderer Vertragsverhältnisse</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 185</td>
-<td>Entschädigung bei Aufhebung von Miet- oder Pachtverhältnissen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 186</td>
-<td>Verlängerung von Miet- oder Pachtverhältnissen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Neunter Teil</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Städtebauliche Maßnahmen<br />
-im Zusammenhang mit Maßnahmen<br />
-zur Verbesserung der Agrarstruktur</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 187</td>
-<td>Abstimmung von Maßnahmen; Bauleitplanung und Maßnahmen zur Verbesserung der Agrarstruktur</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 188</td>
-<td>Bauleitplanung und Flurbereinigung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 189</td>
-<td>Ersatzlandbeschaffung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 190</td>
-<td>Flurbereinigung aus Anlass einer städtebaulichen Maßnahme</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 191</td>
-<td>Vorschriften über den Verkehr mit land- und forstwirtschaftlichen Grundstücken</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><strong>Drittes Kapitel</strong></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><strong>Sonstige Vorschriften</strong></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Erster Teil</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Wertermittlung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 192</td>
-<td>Gutachterausschuss</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 193</td>
-<td>Aufgaben des Gutachterausschusses</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 194</td>
-<td>Verkehrswert</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 195</td>
-<td>Kaufpreissammlung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 196</td>
-<td>Bodenrichtwerte</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 197</td>
-<td>Befugnisse des Gutachterausschusses</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 198</td>
-<td>Oberer Gutachterausschuss</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 199</td>
-<td>Ermächtigungen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Zweiter Teil</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Allgemeine Vorschriften; Zuständigkeiten;<br />
-Verwaltungsverfahren; Planerhaltung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Erster Abschnitt</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Allgemeine Vorschriften</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 200</td>
-<td>Grundstücke; Rechte an Grundstücken; Baulandkataster</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 200a</td>
-<td>Ersatzmaßnahmen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 201</td>
-<td>Begriff der Landwirtschaft</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 202</td>
-<td>Schutz des Mutterbodens</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Zweiter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Zuständigkeiten</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 203</td>
-<td>Abweichende Zuständigkeitsregelung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 204</td>
-<td>Gemeinsamer Flächennutzungsplan, Bauleitplanung bei Bildung von Planungsverbänden und bei Gebiets- oder Bestandsänderung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 205</td>
-<td>Planungsverbände</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 206</td>
-<td>Örtliche und sachliche Zuständigkeit</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Dritter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Verwaltungsverfahren</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 207</td>
-<td>Von Amts wegen bestellter Vertreter</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 208</td>
-<td>Anordnungen zur Erforschung des Sachverhalts</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 209</td>
-<td>Vorarbeiten auf Grundstücken</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 210</td>
-<td>Wiedereinsetzung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 211</td>
-<td>Belehrung über Rechtsbehelfe</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 212</td>
-<td>Vorverfahren</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 212a</td>
-<td>Entfall der aufschiebenden Wirkung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 213</td>
-<td>Ordnungswidrigkeiten</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>Vierter Abschnitt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Planerhaltung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 214</td>
-<td>Beachtlichkeit der Verletzung von Vorschriften über die Aufstellung des Flächennutzungsplans und der Satzungen; ergänzendes Verfahren</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 215</td>
-<td>Frist für die Geltendmachung der Verletzung von Vorschriften</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 215a</td>
-<td>(weggefallen)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 216</td>
-<td>Aufgaben im Genehmigungsverfahren</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Dritter Teil</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Verfahren vor den Kammern (Senaten)<br />
-für Baulandsachen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 217</td>
-<td>Antrag auf gerichtliche Entscheidung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 218</td>
-<td>Wiedereinsetzung in den vorigen Stand</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 219</td>
-<td>Örtliche Zuständigkeit der Landgerichte</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 220</td>
-<td>Zusammensetzung der Kammern für Baulandsachen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 221</td>
-<td>Allgemeine Verfahrensvorschriften</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 222</td>
-<td>Beteiligte</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 223</td>
-<td>Anfechtung von Ermessensentscheidungen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 224</td>
-<td>Entfall der aufschiebenden Wirkung bei Antrag auf gerichtliche Entscheidung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 225</td>
-<td>Vorzeitige Ausführungsanordnung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 226</td>
-<td>Urteil</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 227</td>
-<td>Säumnis eines Beteiligten</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 228</td>
-<td>Kosten des Verfahrens</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 229</td>
-<td>Berufung, Beschwerde</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 230</td>
-<td>Revision</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 231</td>
-<td>Einigung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 232</td>
-<td>Weitere Zuständigkeit der Kammern (Senate) für Baulandsachen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><strong>Viertes Kapitel</strong></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><strong>Überleitungs- und Schlussvorschriften</strong></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Erster Teil</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Überleitungsvorschriften</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 233</td>
-<td>Allgemeine Überleitungsvorschriften</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 234</td>
-<td>Überleitungsvorschriften für das Vorkaufsrecht</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 235</td>
-<td>Überleitungsvorschriften für städtebauliche Sanierungs- und Entwicklungsmaßnahmen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 236</td>
-<td>Überleitungsvorschriften für das Baugebot und die Erhaltung baulicher Anlagen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 237</td>
-<td>(weggefallen)</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 238</td>
-<td>Überleitungsvorschrift für Entschädigungen</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 239</td>
-<td>Überleitungsvorschrift für die Grenzregelung</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 240</td>
-<td>(weggefallen)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 241</td>
-<td>(weggefallen)</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 242</td>
-<td>Überleitungsvorschriften für die Erschließung</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 243</td>
-<td>Überleitungsvorschriften für das Maßnahmengesetz zum Baugesetzbuch und das Bundesnaturschutzgesetz</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 244</td>
-<td>Überleitungsvorschriften für das Europarechtsanpassungsgesetz Bau</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 245</td>
-<td>Überleitungsvorschriften für den Stadtumbau, die Soziale Stadt und die Förderung städtebaulicher Maßnahmen</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 245a</td>
-<td>Überleitungsvorschriften aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 245b</td>
-<td>Überleitungsvorschriften für Vorhaben im Außenbereich</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 245c</td>
-<td>Überleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Zweiter Teil</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>Schlussvorschriften</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 246</td>
-<td>Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 246a</td>
-<td>Überschwemmungsgebiete, überschwemmungsgefährdete Gebiete</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 247</td>
-<td>Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>§ 248</td>
-<td>Sonderregelung zur sparsamen und effizienten Nutzung von Energie</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>§ 249</td>
-<td>Sonderregelungen zur Windenergie</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Anlage 1</td>
-<td>(zu § 2 Abs. 4, §§ 2a und 4c)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Anlage 2</td>
-<td>(zu § 13a Abs. 1 Satz 2 Nr. 2)</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+Inhaltsübersicht
+
+Erstes Kapitel
+
+Allgemeines Städtebaurecht
+
+Erster Teil
+
+Bauleitplanung
+
+Erster Abschnitt
+
+Allgemeine Vorschriften
+
+|        |                                                    |
+|--------|----------------------------------------------------|
+| §   1  | Aufgabe, Begriff und Grundsätze der Bauleitplanung |
+| §   1a | Ergänzende Vorschriften zum Umweltschutz           |
+| §   2  | Aufstellung der Bauleitpläne                       |
+| §   2a | Begründung zum Bauleitplanentwurf, Umweltbericht   |
+| §   3  | Beteiligung der Öffentlichkeit                     |
+| §   4  | Beteiligung der Behörden                           |
+| §   4a | Gemeinsame Vorschriften zur Beteiligung            |
+| §   4b | Einschaltung eines Dritten                         |
+| §   4c | Überwachung                                        |
+
+Zweiter Abschnitt
+
+Vorbereitender Bauleitplan
+(Flächennutzungsplan)
+
+|        |                                                                                |
+|--------|--------------------------------------------------------------------------------|
+| §   5  | Inhalt des Flächennutzungsplans                                                |
+| §   6  | Genehmigung des Flächennutzungsplans                                           |
+| §   6a | Zusammenfassende Erklärung zum Flächennutzungsplan; Einstellen in das Internet |
+| §   7  | Anpassung an den Flächennutzungsplan                                           |
+
+Dritter Abschnitt
+
+Verbindlicher Bauleitplan
+(Bebauungsplan)
+
+|        |                                                                          |
+|--------|--------------------------------------------------------------------------|
+| §   8  | Zweck des Bebauungsplans                                                 |
+| §   9  | Inhalt des Bebauungsplans                                                |
+| §   9a | Verordnungsermächtigung                                                  |
+| §  10  | Beschluss, Genehmigung und Inkrafttreten des Bebauungsplans              |
+| §  10a | Zusammenfassende Erklärung zum Bebauungsplan; Einstellen in das Internet |
+
+Vierter Abschnitt
+
+Zusammenarbeit mit Privaten;
+vereinfachtes Verfahren
+
+|        |                                                                      |
+|--------|----------------------------------------------------------------------|
+| §  11  | Städtebaulicher Vertrag                                              |
+| §  12  | Vorhaben- und Erschließungsplan                                      |
+| §  13  | Vereinfachtes Verfahren                                              |
+| §  13a | Bebauungspläne der Innenentwicklung                                  |
+| §  13b | Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren |
+
+Zweiter Teil
+
+Sicherung der Bauleitplanung
+
+Erster Abschnitt
+
+Veränderungssperre und
+Zurückstellung von Baugesuchen
+
+|       |                                       |
+|-------|---------------------------------------|
+| §  14 | Veränderungssperre                    |
+| §  15 | Zurückstellung von Baugesuchen        |
+| §  16 | Beschluss über die Veränderungssperre |
+| §  17 | Geltungsdauer der Veränderungssperre  |
+| §  18 | Entschädigung bei Veränderungssperre  |
+
+Zweiter Abschnitt
+
+Teilung von Grundstücken;
+Gebiete mit Fremdenverkehrsfunktionen
+
+|       |                                                      |
+|-------|------------------------------------------------------|
+| §  19 | Teilung von Grundstücken                             |
+| §  20 | (weggefallen)                                        |
+| §  21 | (weggefallen)                                        |
+| §  22 | Sicherung von Gebieten mit Fremdenverkehrsfunktionen |
+| §  23 | (weggefallen)                                        |
+
+Dritter Abschnitt
+
+Gesetzliche Vorkaufsrechte der Gemeinde
+
+|        |                                               |
+|--------|-----------------------------------------------|
+| §  24  | Allgemeines Vorkaufsrecht                     |
+| §  25  | Besonderes Vorkaufsrecht                      |
+| §  26  | Ausschluss des Vorkaufsrechts                 |
+| §  27  | Abwendung des Vorkaufsrechts                  |
+| §  27a | Ausübung des Vorkaufsrechts zugunsten Dritter |
+| §  28  | Verfahren und Entschädigung                   |
+
+Dritter Teil
+
+Regelung der baulichen und
+sonstigen Nutzung; Entschädigung
+
+Erster Abschnitt
+
+Zulässigkeit von Vorhaben
+
+|       |                                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| §  29 | Begriff des Vorhabens; Geltung von Rechtsvorschriften                                                                                     |
+| §  30 | Zulässigkeit von Vorhaben im Geltungsbereich eines Bebauungsplans                                                                         |
+| §  31 | Ausnahmen und Befreiungen                                                                                                                 |
+| §  32 | Nutzungsbeschränkungen auf künftigen Gemeinbedarfs-, Verkehrs-, Versorgungs- und Grünflächen                                              |
+| §  33 | Zulässigkeit von Vorhaben während der Planaufstellung                                                                                     |
+| §  34 | Zulässigkeit von Vorhaben innerhalb der im Zusammenhang bebauten Ortsteile                                                                |
+| §  35 | Bauen im Außenbereich                                                                                                                     |
+| §  36 | Beteiligung der Gemeinde und der höheren Verwaltungsbehörde                                                                               |
+| §  37 | Bauliche Maßnahmen des Bundes und der Länder                                                                                              |
+| §  38 | Bauliche Maßnahmen von überörtlicher Bedeutung auf Grund von Planfeststellungsverfahren; öffentlich zugängliche Abfallbeseitigungsanlagen |
+
+Zweiter Abschnitt
+
+Entschädigung
+
+|       |                                                                                                      |
+|-------|------------------------------------------------------------------------------------------------------|
+| §  39 | Vertrauensschaden                                                                                    |
+| §  40 | Entschädigung in Geld oder durch Übernahme                                                           |
+| §  41 | Entschädigung bei Begründung von Geh-, Fahr- und Leitungsrechten und bei Bindungen für Bepflanzungen |
+| §  42 | Entschädigung bei Änderung oder Aufhebung einer zulässigen Nutzung                                   |
+| §  43 | Entschädigung und Verfahren                                                                          |
+| §  44 | Entschädigungspflichtige, Fälligkeit und Erlöschen der Entschädigungsansprüche                       |
+
+Vierter Teil
+
+Bodenordnung
+
+Erster Abschnitt
+
+Umlegung
+
+|       |                                                                                        |
+|-------|----------------------------------------------------------------------------------------|
+| §  45 | Zweck und Anwendungsbereich                                                            |
+| §  46 | Zuständigkeit und Voraussetzungen                                                      |
+| §  47 | Umlegungsbeschluss                                                                     |
+| §  48 | Beteiligte                                                                             |
+| §  49 | Rechtsnachfolge                                                                        |
+| §  50 | Bekanntmachung des Umlegungsbeschlusses                                                |
+| §  51 | Verfügungs- und Veränderungssperre                                                     |
+| §  52 | Umlegungsgebiet                                                                        |
+| §  53 | Bestandskarte und Bestandsverzeichnis                                                  |
+| §  54 | Benachrichtigungen und Umlegungsvermerk                                                |
+| §  55 | Umlegungsmasse und Verteilungsmasse                                                    |
+| §  56 | Verteilungsmaßstab                                                                     |
+| §  57 | Verteilung nach Werten                                                                 |
+| §  58 | Verteilung nach Flächen                                                                |
+| §  59 | Zuteilung und Abfindung                                                                |
+| §  60 | Abfindung und Ausgleich für bauliche Anlagen, Anpflanzungen und sonstige Einrichtungen |
+| §  61 | Aufhebung, Änderung und Begründung von Rechten                                         |
+| §  62 | Gemeinschaftliches Eigentum; besondere rechtliche Verhältnisse                         |
+| §  63 | Übergang von Rechtsverhältnissen auf die Abfindung                                     |
+| §  64 | Geldleistungen                                                                         |
+| §  65 | Hinterlegung und Verteilungsverfahren                                                  |
+| §  66 | Aufstellung und Inhalt des Umlegungsplans                                              |
+| §  67 | Umlegungskarte                                                                         |
+| §  68 | Umlegungsverzeichnis                                                                   |
+| §  69 | Bekanntmachung des Umlegungsplans, Einsichtnahme                                       |
+| §  70 | Zustellung des Umlegungsplans                                                          |
+| §  71 | Inkrafttreten des Umlegungsplans                                                       |
+| §  72 | Wirkungen der Bekanntmachung                                                           |
+| §  73 | Änderung des Umlegungsplans                                                            |
+| §  74 | Berichtigung der öffentlichen Bücher                                                   |
+| §  75 | Einsichtnahme in den Umlegungsplan                                                     |
+| §  76 | Vorwegnahme der Entscheidung                                                           |
+| §  77 | Vorzeitige Besitzeinweisung                                                            |
+| §  78 | Verfahrens- und Sachkosten                                                             |
+| §  79 | Abgaben- und Auslagenbefreiung                                                         |
+
+Zweiter Abschnitt
+
+Vereinfachte Umlegung
+
+|       |                                                               |
+|-------|---------------------------------------------------------------|
+| §  80 | Zweck, Anwendungsbereich, Zuständigkeiten                     |
+| §  81 | Geldleistungen                                                |
+| §  82 | Beschluss über die vereinfachte Umlegung                      |
+| §  83 | Bekanntmachung und Rechtswirkungen der vereinfachten Umlegung |
+| §  84 | Berichtigung der öffentlichen Bücher                          |
+
+Fünfter Teil
+
+Enteignung
+
+Erster Abschnitt
+
+Zulässigkeit der Enteignung
+
+|       |                                                       |
+|-------|-------------------------------------------------------|
+| §  85 | Enteignungszweck                                      |
+| §  86 | Gegenstand der Enteignung                             |
+| §  87 | Voraussetzungen für die Zulässigkeit der Enteignung   |
+| §  88 | Enteignung aus zwingenden städtebaulichen Gründen     |
+| §  89 | Veräußerungspflicht                                   |
+| §  90 | Enteignung von Grundstücken zur Entschädigung in Land |
+| §  91 | Ersatz für entzogene Rechte                           |
+| §  92 | Umfang, Beschränkung und Ausdehnung der Enteignung    |
+
+Zweiter Abschnitt
+
+Entschädigung
+
+|       |                                                             |
+|-------|-------------------------------------------------------------|
+| §  93 | Entschädigungsgrundsätze                                    |
+| §  94 | Entschädigungsberechtigter und Entschädigungsverpflichteter |
+| §  95 | Entschädigung für den Rechtsverlust                         |
+| §  96 | Entschädigung für andere Vermögensnachteile                 |
+| §  97 | Behandlung der Rechte der Nebenberechtigten                 |
+| §  98 | Schuldübergang                                              |
+| §  99 | Entschädigung in Geld                                       |
+| § 100 | Entschädigung in Land                                       |
+| § 101 | Entschädigung durch Gewährung anderer Rechte                |
+| § 102 | Rückenteignung                                              |
+| § 103 | Entschädigung für die Rückenteignung                        |
+
+Dritter Abschnitt
+
+Enteignungsverfahren
+
+|       |                                                                                                                 |
+|-------|-----------------------------------------------------------------------------------------------------------------|
+| § 104 | Enteignungsbehörde                                                                                              |
+| § 105 | Enteignungsantrag                                                                                               |
+| § 106 | Beteiligte                                                                                                      |
+| § 107 | Vorbereitung der mündlichen Verhandlung                                                                         |
+| § 108 | Einleitung des Enteignungsverfahrens und Anberaumung des Termins zur mündlichen Verhandlung; Enteignungsvermerk |
+| § 109 | Genehmigungspflicht                                                                                             |
+| § 110 | Einigung                                                                                                        |
+| § 111 | Teileinigung                                                                                                    |
+| § 112 | Entscheidung der Enteignungsbehörde                                                                             |
+| § 113 | Enteignungsbeschluss                                                                                            |
+| § 114 | Lauf der Verwendungsfrist                                                                                       |
+| § 115 | Verfahren bei der Entschädigung durch Gewährung anderer Rechte                                                  |
+| § 116 | Vorzeitige Besitzeinweisung                                                                                     |
+| § 117 | Ausführung des Enteignungsbeschlusses                                                                           |
+| § 118 | Hinterlegung                                                                                                    |
+| § 119 | Verteilungsverfahren                                                                                            |
+| § 120 | Aufhebung des Enteignungsbeschlusses                                                                            |
+| § 121 | Kosten                                                                                                          |
+| § 122 | Vollstreckbarer Titel                                                                                           |
+
+Sechster Teil
+
+Erschließung
+
+Erster Abschnitt
+
+Allgemeine Vorschriften
+
+|       |                                                       |
+|-------|-------------------------------------------------------|
+| § 123 | Erschließungslast                                     |
+| § 124 | Erschließungspflicht nach abgelehntem Vertragsangebot |
+| § 125 | Bindung an den Bebauungsplan                          |
+| § 126 | Pflichten des Eigentümers                             |
+
+Zweiter Abschnitt
+
+Erschließungsbeitrag
+
+|       |                                                              |
+|-------|--------------------------------------------------------------|
+| § 127 | Erhebung des Erschließungsbeitrags                           |
+| § 128 | Umfang des Erschließungsaufwands                             |
+| § 129 | Beitragsfähiger Erschließungsaufwand                         |
+| § 130 | Art der Ermittlung des beitragsfähigen Erschließungsaufwands |
+| § 131 | Maßstäbe für die Verteilung des Erschließungsaufwands        |
+| § 132 | Regelung durch Satzung                                       |
+| § 133 | Gegenstand und Entstehung der Beitragspflicht                |
+| § 134 | Beitragspflichtiger                                          |
+| § 135 | Fälligkeit und Zahlung des Beitrags                          |
+
+Siebter Teil
+
+Maßnahmen für den Naturschutz
+
+|        |                                                                                  |
+|--------|----------------------------------------------------------------------------------|
+| § 135a | Pflichten des Vorhabenträgers; Durchführung durch die Gemeinde; Kostenerstattung |
+| § 135b | Verteilungsmaßstäbe für die Abrechnung                                           |
+| § 135c | Satzungsrecht                                                                    |
+
+Zweites Kapitel
+
+Besonderes Städtebaurecht
+
+Erster Teil
+
+Städtebauliche Sanierungsmaßnahmen
+
+Erster Abschnitt
+
+Allgemeine Vorschriften
+
+|       |                                                        |
+|-------|--------------------------------------------------------|
+| § 136 | Städtebauliche Sanierungsmaßnahmen                     |
+| § 137 | Beteiligung und Mitwirkung der Betroffenen             |
+| § 138 | Auskunftspflicht                                       |
+| § 139 | Beteiligung und Mitwirkung öffentlicher Aufgabenträger |
+
+Zweiter Abschnitt
+
+Vorbereitung und Durchführung
+
+|       |                                                                                 |
+|-------|---------------------------------------------------------------------------------|
+| § 140 | Vorbereitung                                                                    |
+| § 141 | Vorbereitende Untersuchungen                                                    |
+| § 142 | Sanierungssatzung                                                               |
+| § 143 | Bekanntmachung der Sanierungssatzung, Sanierungsvermerk                         |
+| § 144 | Genehmigungspflichtige Vorhaben und Rechtsvorgänge                              |
+| § 145 | Genehmigung                                                                     |
+| § 146 | Durchführung                                                                    |
+| § 147 | Ordnungsmaßnahmen                                                               |
+| § 148 | Baumaßnahmen                                                                    |
+| § 149 | Kosten- und Finanzierungsübersicht                                              |
+| § 150 | Ersatz für Änderungen von Einrichtungen, die der öffentlichen Versorgung dienen |
+| § 151 | Abgaben- und Auslagenbefreiung                                                  |
+
+Dritter Abschnitt
+
+Besondere sanierungsrechtliche Vorschriften
+
+|        |                                                                              |
+|--------|------------------------------------------------------------------------------|
+| § 152  | Anwendungsbereich                                                            |
+| § 153  | Bemessung von Ausgleichs- und Entschädigungsleistungen, Kaufpreise, Umlegung |
+| § 154  | Ausgleichsbetrag des Eigentümers                                             |
+| § 155  | Anrechung auf den Ausgleichsbetrag, Absehen                                  |
+| § 156  | Überleitungsvorschriften zur förmlichen Festlegung                           |
+| § 156a | Kosten und Finanzierung der Sanierungsmaßnahme                               |
+
+Vierter Abschnitt
+
+Sanierungsträger und andere Beauftragte
+
+|       |                                                           |
+|-------|-----------------------------------------------------------|
+| § 157 | Erfüllung von Aufgaben für die Gemeinde                   |
+| § 158 | Voraussetzungen für die Beauftragung als Sanierungsträger |
+| § 159 | Erfüllung der Aufgaben als Sanierungsträger               |
+| § 160 | Treuhandvermögen                                          |
+| § 161 | Sicherung des Treuhandvermögens                           |
+
+Fünfter Abschnitt
+
+Abschluss der Sanierung
+
+|       |                                                       |
+|-------|-------------------------------------------------------|
+| § 162 | Aufhebung der Sanierungssatzung                       |
+| § 163 | Fortfall von Rechtswirkungen für einzelne Grundstücke |
+| § 164 | Anspruch auf Rückübertragung                          |
+
+Sechster Abschnitt
+
+Städtebauförderung
+
+|        |                                        |
+|--------|----------------------------------------|
+| § 164a | Einsatz von Städtebauförderungsmitteln |
+| § 164b | Verwaltungsvereinbarung                |
+
+Zweiter Teil
+
+Städtebauliche Entwicklungsmaßnahmen
+
+|       |                                                                    |
+|-------|--------------------------------------------------------------------|
+| § 165 | Städtebauliche Entwicklungsmaßnahmen                               |
+| § 166 | Zuständigkeit und Aufgaben                                         |
+| § 167 | Erfüllung von Aufgaben für die Gemeinde; Entwicklungsträger        |
+| § 168 | Übernahmeverlangen                                                 |
+| § 169 | Besondere Vorschriften für den städtebaulichen Entwicklungsbereich |
+| § 170 | Sonderregelung für Anpassungsgebiete                               |
+| § 171 | Kosten und Finanzierung der Entwicklungsmaßnahme                   |
+
+Dritter Teil
+
+Stadtumbau
+
+|        |                                                       |
+|--------|-------------------------------------------------------|
+| § 171a | Stadtumbaumaßnahmen                                   |
+| § 171b | Stadtumbaugebiet, städtebauliches Entwicklungskonzept |
+| § 171c | Stadtumbauvertrag                                     |
+| § 171d | Sicherung von Durchführungsmaßnahmen                  |
+
+Vierter Teil
+
+Soziale Stadt
+
+|        |                              |
+|--------|------------------------------|
+| § 171e | Maßnahmen der Sozialen Stadt |
+
+Fünfter Teil
+
+Private Initiativen
+
+|        |                                                       |
+|--------|-------------------------------------------------------|
+| § 171f | Private Initiativen zur Stadtentwicklung, Landesrecht |
+
+Sechster Teil
+
+Erhaltungssatzung
+und städtebauliche Gebote
+
+Erster Abschnitt
+
+Erhaltungssatzung
+
+|       |                                                                               |
+|-------|-------------------------------------------------------------------------------|
+| § 172 | Erhaltung baulicher Anlagen und der Eigenart von Gebieten (Erhaltungssatzung) |
+| § 173 | Genehmigung, Übernahmeanspruch                                                |
+| § 174 | Ausnahmen                                                                     |
+
+Zweiter Abschnitt
+
+Städtebauliche Gebote
+
+|       |                                           |
+|-------|-------------------------------------------|
+| § 175 | Allgemeines                               |
+| § 176 | Baugebot                                  |
+| § 177 | Modernisierungs- und Instandsetzungsgebot |
+| § 178 | Pflanzgebot                               |
+| § 179 | Rückbau- und Entsiegelungsgebot           |
+
+Siebter Teil
+
+Sozialplan und Härteausgleich
+
+|       |                |
+|-------|----------------|
+| § 180 | Sozialplan     |
+| § 181 | Härteausgleich |
+
+Achter Teil
+
+Miet- und Pachtverhältnisse
+
+|       |                                                                        |
+|-------|------------------------------------------------------------------------|
+| § 182 | Aufhebung von Miet- oder Pachtverhältnissen                            |
+| § 183 | Aufhebung von Miet- oder Pachtverhältnissen über unbebaute Grundstücke |
+| § 184 | Aufhebung anderer Vertragsverhältnisse                                 |
+| § 185 | Entschädigung bei Aufhebung von Miet- oder Pachtverhältnissen          |
+| § 186 | Verlängerung von Miet- oder Pachtverhältnissen                         |
+
+Neunter Teil
+
+Städtebauliche Maßnahmen
+im Zusammenhang mit Maßnahmen
+zur Verbesserung der Agrarstruktur
+
+|       |                                                                                           |
+|-------|-------------------------------------------------------------------------------------------|
+| § 187 | Abstimmung von Maßnahmen; Bauleitplanung und Maßnahmen zur Verbesserung der Agrarstruktur |
+| § 188 | Bauleitplanung und Flurbereinigung                                                        |
+| § 189 | Ersatzlandbeschaffung                                                                     |
+| § 190 | Flurbereinigung aus Anlass einer städtebaulichen Maßnahme                                 |
+| § 191 | Vorschriften über den Verkehr mit land- und forstwirtschaftlichen Grundstücken            |
+
+Drittes Kapitel
+
+Sonstige Vorschriften
+
+Erster Teil
+
+Wertermittlung
+
+|       |                                     |
+|-------|-------------------------------------|
+| § 192 | Gutachterausschuss                  |
+| § 193 | Aufgaben des Gutachterausschusses   |
+| § 194 | Verkehrswert                        |
+| § 195 | Kaufpreissammlung                   |
+| § 196 | Bodenrichtwerte                     |
+| § 197 | Befugnisse des Gutachterausschusses |
+| § 198 | Oberer Gutachterausschuss           |
+| § 199 | Ermächtigungen                      |
+
+Zweiter Teil
+
+Allgemeine Vorschriften; Zuständigkeiten;
+Verwaltungsverfahren; Planerhaltung
+
+Erster Abschnitt
+
+Allgemeine Vorschriften
+
+|        |                                                      |
+|--------|------------------------------------------------------|
+| § 200  | Grundstücke; Rechte an Grundstücken; Baulandkataster |
+| § 200a | Ersatzmaßnahmen                                      |
+| § 201  | Begriff der Landwirtschaft                           |
+| § 202  | Schutz des Mutterbodens                              |
+
+Zweiter Abschnitt
+
+Zuständigkeiten
+
+|       |                                                                                                                          |
+|-------|--------------------------------------------------------------------------------------------------------------------------|
+| § 203 | Abweichende Zuständigkeitsregelung                                                                                       |
+| § 204 | Gemeinsamer Flächennutzungsplan, Bauleitplanung bei Bildung von Planungsverbänden und bei Gebiets- oder Bestandsänderung |
+| § 205 | Planungsverbände                                                                                                         |
+| § 206 | Örtliche und sachliche Zuständigkeit                                                                                     |
+
+Dritter Abschnitt
+
+Verwaltungsverfahren
+
+|        |                                              |
+|--------|----------------------------------------------|
+| § 207  | Von Amts wegen bestellter Vertreter          |
+| § 208  | Anordnungen zur Erforschung des Sachverhalts |
+| § 209  | Vorarbeiten auf Grundstücken                 |
+| § 210  | Wiedereinsetzung                             |
+| § 211  | Belehrung über Rechtsbehelfe                 |
+| § 212  | Vorverfahren                                 |
+| § 212a | Entfall der aufschiebenden Wirkung           |
+| § 213  | Ordnungswidrigkeiten                         |
+
+Vierter Abschnitt
+
+Planerhaltung
+
+|       |                                                                                                                                       |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| § 214 | Beachtlichkeit der Verletzung von Vorschriften über die Aufstellung des Flächennutzungsplans und der Satzungen; ergänzendes Verfahren |
+| § 215 | Frist für die Geltendmachung der Verletzung von Vorschriften                                                                          |
+| § 216 | Aufgaben im Genehmigungsverfahren                                                                                                     |
+
+Dritter Teil
+
+Verfahren vor den
+Kammern (Senaten) für Baulandsachen
+
+|       |                                                                             |
+|-------|-----------------------------------------------------------------------------|
+| § 217 | Antrag auf gerichtliche Entscheidung                                        |
+| § 218 | Wiedereinsetzung in den vorigen Stand                                       |
+| § 219 | Örtliche Zuständigkeit der Landgerichte                                     |
+| § 220 | Zusammensetzung der Kammern für Baulandsachen                               |
+| § 221 | Allgemeine Verfahrensvorschriften                                           |
+| § 222 | Beteiligte                                                                  |
+| § 223 | Anfechtung von Ermessensentscheidungen                                      |
+| § 224 | Entfall der aufschiebenden Wirkung bei Antrag auf gerichtliche Entscheidung |
+| § 225 | Vorzeitige Ausführungsanordnung                                             |
+| § 226 | Urteil                                                                      |
+| § 227 | Säumnis eines Beteiligten                                                   |
+| § 228 | Kosten des Verfahrens                                                       |
+| § 229 | Berufung, Beschwerde                                                        |
+| § 230 | Revision                                                                    |
+| § 231 | Einigung                                                                    |
+| § 232 | Weitere Zuständigkeit der Kammern (Senate) für Baulandsachen                |
+
+Viertes Kapitel
+
+Überleitungs- und Schlussvorschriften
+
+Erster Teil
+
+Überleitungsvorschriften
+
+|        |                                                                                                                                                                  |
+|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| § 233  | Allgemeine Überleitungsvorschriften                                                                                                                              |
+| § 234  | Überleitungsvorschriften für das Vorkaufsrecht                                                                                                                   |
+| § 235  | Überleitungsvorschriften für städtebauliche Sanierungs- und Entwicklungsmaßnahmen                                                                                |
+| § 236  | Überleitungsvorschriften für das Baugebot und die Erhaltung baulicher Anlagen                                                                                    |
+| § 237  | (weggefallen)                                                                                                                                                    |
+| § 238  | Überleitungsvorschrift für Entschädigungen                                                                                                                       |
+| § 239  | Überleitungsvorschrift für die Grenzregelung                                                                                                                     |
+| § 240  | (weggefallen)                                                                                                                                                    |
+| § 241  | (weggefallen)                                                                                                                                                    |
+| § 242  | Überleitungsvorschriften für die Erschließung                                                                                                                    |
+| § 243  | Überleitungsvorschriften für das Maßnahmengesetz zum Baugesetzbuch und das Bundesnaturschutzgesetz                                                               |
+| § 244  | Überleitungsvorschriften für das Europarechtsanpassungsgesetz Bau                                                                                                |
+| § 245  | Überleitungsvorschriften für den Stadtumbau, die Soziale Stadt und die Förderung städtebaulicher Maßnahmen                                                       |
+| § 245a | Überleitungsvorschriften aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts |
+| § 245b | Überleitungsvorschriften für Vorhaben im Außenbereich                                                                                                            |
+| § 245c | Überleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt  |
+
+Zweiter Teil
+
+Schlussvorschriften
+
+|        |                                                                                   |
+|--------|-----------------------------------------------------------------------------------|
+| § 246  | Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte |
+| § 246a | Überschwemmungsgebiete, überschwemmungsgefährdete Gebiete                         |
+| § 247  | Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland         |
+| § 248  | Sonderregelung zur sparsamen und effizienten Nutzung von Energie                  |
+| § 249  | Sonderregelungen zur Windenergie                                                  |
+
+|          |                                        |
+|----------|----------------------------------------|
+| Anlage 1 | (zu § 2 Absatz 4 und den §§ 2a und 4c) |
+| Anlage 2 | (zu § 13a Absatz 1 Satz 2 Nummer 2)    |
 
 Erstes Kapitel Allgemeines Städtebaurecht
 -----------------------------------------
@@ -2300,7 +696,7 @@ Erster Abschnitt Allgemeine Vorschriften
 die allgemeinen Anforderungen an gesunde Wohn- und Arbeitsverhältnisse und die Sicherheit der Wohn- und Arbeitsbevölkerung,
 
 2.  
-die Wohnbedürfnisse der Bevölkerung, insbesondere auch von Familien mit mehreren Kindern, die Schaffung und Erhaltung sozial stabiler Bewohnerstrukturen, die Eigentumsbildung weiter Kreise der Bevölkerung und die Anforderungen Kosten sparenden Bauens sowie die Bevölkerungsentwicklung,
+die Wohnbedürfnisse der Bevölkerung, insbesondere auch von Familien mit mehreren Kindern, die Schaffung und Erhaltung sozial stabiler Bewohnerstrukturen, die Eigentumsbildung weiter Kreise der Bevölkerung und die Anforderungen kostensparenden Bauens sowie die Bevölkerungsentwicklung,
 
 3.  
 die sozialen und kulturellen Bedürfnisse der Bevölkerung, insbesondere die Bedürfnisse der Familien, der jungen, alten und behinderten Menschen, unterschiedliche Auswirkungen auf Frauen und Männer sowie die Belange des Bildungswesens und von Sport, Freizeit und Erholung,
@@ -2393,9 +789,9 @@ die Belange von Flüchtlingen oder Asylbegehrenden und ihrer Unterbringung.
 
 (2) Mit Grund und Boden soll sparsam und schonend umgegangen werden; dabei sind zur Verringerung der zusätzlichen Inanspruchnahme von Flächen für bauliche Nutzungen die Möglichkeiten der Entwicklung der Gemeinde insbesondere durch Wiedernutzbarmachung von Flächen, Nachverdichtung und andere Maßnahmen zur Innenentwicklung zu nutzen sowie Bodenversiegelungen auf das notwendige Maß zu begrenzen. Landwirtschaftlich, als Wald oder für Wohnzwecke genutzte Flächen sollen nur im notwendigen Umfang umgenutzt werden. Die Grundsätze nach den Sätzen 1 und 2 sind in der Abwägung nach § 1 Absatz 7 zu berücksichtigen. Die Notwendigkeit der Umwandlung landwirtschaftlich oder als Wald genutzter Flächen soll begründet werden; dabei sollen Ermittlungen zu den Möglichkeiten der Innenentwicklung zugrunde gelegt werden, zu denen insbesondere Brachflächen, Gebäudeleerstand, Baulücken und andere Nachverdichtungsmöglichkeiten zählen können.
 
-(3) Die Vermeidung und der Ausgleich voraussichtlich erheblicher Beeinträchtigungen des Landschaftsbildes sowie der Leistungs- und Funktionsfähigkeit des Naturhaushalts in seinen in § 1 Abs. 6 Nr. 7 Buchstabe a bezeichneten Bestandteilen (Eingriffsregelung nach dem Bundesnaturschutzgesetz) sind in der Abwägung nach § 1 Abs. 7 zu berücksichtigen. Der Ausgleich erfolgt durch geeignete Darstellungen und Festsetzungen nach den §§ 5 und 9 als Flächen oder Maßnahmen zum Ausgleich. Soweit dies mit einer nachhaltigen städtebaulichen Entwicklung und den Zielen der Raumordnung sowie des Naturschutzes und der Landschaftspflege vereinbar ist, können die Darstellungen und Festsetzungen auch an anderer Stelle als am Ort des Eingriffs erfolgen. Anstelle von Darstellungen und Festsetzungen können auch vertragliche Vereinbarungen nach § 11 oder sonstige geeignete Maßnahmen zum Ausgleich auf von der Gemeinde bereitgestellten Flächen getroffen werden. § 15 Absatz 3 des Bundesnaturschutzgesetzes gilt entsprechend. Ein Ausgleich ist nicht erforderlich, soweit die Eingriffe bereits vor der planerischen Entscheidung erfolgt sind oder zulässig waren.
+(3) Die Vermeidung und der Ausgleich voraussichtlich erheblicher Beeinträchtigungen des Landschaftsbildes sowie der Leistungs- und Funktionsfähigkeit des Naturhaushalts in seinen in § 1 Absatz 6 Nummer 7 Buchstabe a bezeichneten Bestandteilen (Eingriffsregelung nach dem Bundesnaturschutzgesetz) sind in der Abwägung nach § 1 Absatz 7 zu berücksichtigen. Der Ausgleich erfolgt durch geeignete Darstellungen und Festsetzungen nach den §§ 5 und 9 als Flächen oder Maßnahmen zum Ausgleich. Soweit dies mit einer nachhaltigen städtebaulichen Entwicklung und den Zielen der Raumordnung sowie des Naturschutzes und der Landschaftspflege vereinbar ist, können die Darstellungen und Festsetzungen auch an anderer Stelle als am Ort des Eingriffs erfolgen. Anstelle von Darstellungen und Festsetzungen können auch vertragliche Vereinbarungen nach § 11 oder sonstige geeignete Maßnahmen zum Ausgleich auf von der Gemeinde bereitgestellten Flächen getroffen werden. § 15 Absatz 3 des Bundesnaturschutzgesetzes gilt entsprechend. Ein Ausgleich ist nicht erforderlich, soweit die Eingriffe bereits vor der planerischen Entscheidung erfolgt sind oder zulässig waren.
 
-(4) Soweit ein Gebiet im Sinne des § 1 Abs. 6 Nr. 7 Buchstabe b in seinen für die Erhaltungsziele oder den Schutzzweck maßgeblichen Bestandteilen erheblich beeinträchtigt werden kann, sind die Vorschriften des Bundesnaturschutzgesetzes über die Zulässigkeit und Durchführung von derartigen Eingriffen einschließlich der Einholung der Stellungnahme der Europäischen Kommission anzuwenden.
+(4) Soweit ein Gebiet im Sinne des § 1 Absatz 6 Nummer 7 Buchstabe b in seinen für die Erhaltungsziele oder den Schutzzweck maßgeblichen Bestandteilen erheblich beeinträchtigt werden kann, sind die Vorschriften des Bundesnaturschutzgesetzes über die Zulässigkeit und Durchführung von derartigen Eingriffen einschließlich der Einholung der Stellungnahme der Europäischen Kommission anzuwenden.
 
 (5) Den Erfordernissen des Klimaschutzes soll sowohl durch Maßnahmen, die dem Klimawandel entgegenwirken, als auch durch solche, die der Anpassung an den Klimawandel dienen, Rechnung getragen werden. Der Grundsatz nach Satz 1 ist in der Abwägung nach § 1 Absatz 7 zu berücksichtigen.
 
@@ -2407,7 +803,7 @@ die Belange von Flüchtlingen oder Asylbegehrenden und ihrer Unterbringung.
 
 (3) Bei der Aufstellung der Bauleitpläne sind die Belange, die für die Abwägung von Bedeutung sind (Abwägungsmaterial), zu ermitteln und zu bewerten.
 
-(4) Für die Belange des Umweltschutzes nach § 1 Abs. 6 Nr. 7 und § 1a wird eine Umweltprüfung durchgeführt, in der die voraussichtlichen erheblichen Umweltauswirkungen ermittelt werden und in einem Umweltbericht beschrieben und bewertet werden; die Anlage 1 zu diesem Gesetzbuch ist anzuwenden. Die Gemeinde legt dazu für jeden Bauleitplan fest, in welchem Umfang und Detaillierungsgrad die Ermittlung der Belange für die Abwägung erforderlich ist. Die Umweltprüfung bezieht sich auf das, was nach gegenwärtigem Wissensstand und allgemein anerkannten Prüfmethoden sowie nach Inhalt und Detaillierungsgrad des Bauleitplans angemessenerweise verlangt werden kann. Das Ergebnis der Umweltprüfung ist in der Abwägung zu berücksichtigen. Wird eine Umweltprüfung für das Plangebiet oder für Teile davon in einem Raumordnungs-, Flächennutzungs- oder Bebauungsplanverfahren durchgeführt, soll die Umweltprüfung in einem zeitlich nachfolgend oder gleichzeitig durchgeführten Bauleitplanverfahren auf zusätzliche oder andere erhebliche Umweltauswirkungen beschränkt werden. Liegen Landschaftspläne oder sonstige Pläne nach § 1 Abs. 6 Nr. 7 Buchstabe g vor, sind deren Bestandsaufnahmen und Bewertungen in der Umweltprüfung heranzuziehen.
+(4) Für die Belange des Umweltschutzes nach § 1 Absatz 6 Nummer 7 und § 1a wird eine Umweltprüfung durchgeführt, in der die voraussichtlichen erheblichen Umweltauswirkungen ermittelt werden und in einem Umweltbericht beschrieben und bewertet werden; die Anlage 1 zu diesem Gesetzbuch ist anzuwenden. Die Gemeinde legt dazu für jeden Bauleitplan fest, in welchem Umfang und Detaillierungsgrad die Ermittlung der Belange für die Abwägung erforderlich ist. Die Umweltprüfung bezieht sich auf das, was nach gegenwärtigem Wissensstand und allgemein anerkannten Prüfmethoden sowie nach Inhalt und Detaillierungsgrad des Bauleitplans angemessenerweise verlangt werden kann. Das Ergebnis der Umweltprüfung ist in der Abwägung zu berücksichtigen. Wird eine Umweltprüfung für das Plangebiet oder für Teile davon in einem Raumordnungs-, Flächennutzungs- oder Bebauungsplanverfahren durchgeführt, soll die Umweltprüfung in einem zeitlich nachfolgend oder gleichzeitig durchgeführten Bauleitplanverfahren auf zusätzliche oder andere erhebliche Umweltauswirkungen beschränkt werden. Liegen Landschaftspläne oder sonstige Pläne nach § 1 Absatz 6 Nummer 7 Buchstabe g vor, sind deren Bestandsaufnahmen und Bewertungen in der Umweltprüfung heranzuziehen.
 
 ### § 2a Begründung zum Bauleitplanentwurf, Umweltbericht
 
@@ -2417,7 +813,7 @@ Die Gemeinde hat im Aufstellungsverfahren dem Entwurf des Bauleitplans eine Begr
 die Ziele, Zwecke und wesentlichen Auswirkungen des Bauleitplans und
 
 2.  
-in dem Umweltbericht nach der Anlage 1 zu diesem Gesetzbuch die auf Grund der Umweltprüfung nach § 2 Abs. 4 ermittelten und bewerteten Belange des Umweltschutzes
+in dem Umweltbericht nach der Anlage 1 zu diesem Gesetzbuch die auf Grund der Umweltprüfung nach § 2 Absatz 4 ermittelten und bewerteten Belange des Umweltschutzes
 
 darzulegen. Der Umweltbericht bildet einen gesonderten Teil der Begründung.
 
@@ -2433,13 +829,13 @@ die Unterrichtung und Erörterung bereits zuvor auf anderer Grundlage erfolgt si
 
 An die Unterrichtung und Erörterung schließt sich das Verfahren nach Absatz 2 auch an, wenn die Erörterung zu einer Änderung der Planung führt.
 
-(2) Die Entwürfe der Bauleitpläne sind mit der Begründung und den nach Einschätzung der Gemeinde wesentlichen, bereits vorliegenden umweltbezogenen Stellungnahmen für die Dauer eines Monats, mindestens jedoch für die Dauer von 30 Tagen, oder bei Vorliegen eines wichtigen Grundes für die Dauer einer angemessenen längeren Frist öffentlich auszulegen. Ort und Dauer der Auslegung sowie Angaben dazu, welche Arten umweltbezogener Informationen verfügbar sind, sind mindestens eine Woche vorher ortsüblich bekannt zu machen; dabei ist darauf hinzuweisen, dass Stellungnahmen während der Auslegungsfrist abgegeben werden können und dass nicht fristgerecht abgegebene Stellungnahmen bei der Beschlussfassung über den Bauleitplan unberücksichtigt bleiben können. Die nach § 4 Abs. 2 Beteiligten sollen von der Auslegung benachrichtigt werden. Die fristgemäß abgegebenen Stellungnahmen sind zu prüfen; das Ergebnis ist mitzuteilen. Haben mehr als 50 Personen Stellungnahmen mit im Wesentlichen gleichem Inhalt abgegeben, kann die Mitteilung dadurch ersetzt werden, dass diesen Personen die Einsicht in das Ergebnis ermöglicht wird; die Stelle, bei der das Ergebnis der Prüfung während der Dienststunden eingesehen werden kann, ist ortsüblich bekannt zu machen. Bei der Vorlage der Bauleitpläne nach § 6 oder § 10 Abs. 2 sind die nicht berücksichtigten Stellungnahmen mit einer Stellungnahme der Gemeinde beizufügen.
+(2) Die Entwürfe der Bauleitpläne sind mit der Begründung und den nach Einschätzung der Gemeinde wesentlichen, bereits vorliegenden umweltbezogenen Stellungnahmen für die Dauer eines Monats, mindestens jedoch für die Dauer von 30 Tagen, oder bei Vorliegen eines wichtigen Grundes für die Dauer einer angemessenen längeren Frist öffentlich auszulegen. Ort und Dauer der Auslegung sowie Angaben dazu, welche Arten umweltbezogener Informationen verfügbar sind, sind mindestens eine Woche vorher ortsüblich bekannt zu machen; dabei ist darauf hinzuweisen, dass Stellungnahmen während der Auslegungsfrist abgegeben werden können und dass nicht fristgerecht abgegebene Stellungnahmen bei der Beschlussfassung über den Bauleitplan unberücksichtigt bleiben können. Die nach § 4 Absatz 2 Beteiligten sollen von der Auslegung benachrichtigt werden. Die fristgemäß abgegebenen Stellungnahmen sind zu prüfen; das Ergebnis ist mitzuteilen. Haben mehr als 50 Personen Stellungnahmen mit im Wesentlichen gleichem Inhalt abgegeben, kann die Mitteilung dadurch ersetzt werden, dass diesen Personen die Einsicht in das Ergebnis ermöglicht wird; die Stelle, bei der das Ergebnis der Prüfung während der Dienststunden eingesehen werden kann, ist ortsüblich bekannt zu machen. Bei der Vorlage der Bauleitpläne nach § 6 oder § 10 Absatz 2 sind die nicht berücksichtigten Stellungnahmen mit einer Stellungnahme der Gemeinde beizufügen.
 
 (3) Bei Flächennutzungsplänen ist ergänzend zu dem Hinweis nach Absatz 2 Satz 2 Halbsatz 2 darauf hinzuweisen, dass eine Vereinigung im Sinne des § 4 Absatz 3 Satz 1 Nummer 2 des Umwelt-Rechtsbehelfsgesetzes in einem Rechtsbehelfsverfahren nach § 7 Absatz 2 des Umwelt-Rechtsbehelfsgesetzes gemäß § 7 Absatz 3 Satz 1 des Umwelt-Rechtsbehelfsgesetzes mit allen Einwendungen ausgeschlossen ist, die sie im Rahmen der Auslegungsfrist nicht oder nicht rechtzeitig geltend gemacht hat, aber hätte geltend machen können.
 
 ### § 4 Beteiligung der Behörden
 
-(1) Die Behörden und sonstigen Träger öffentlicher Belange, deren Aufgabenbereich durch die Planung berührt werden kann, sind entsprechend § 3 Abs. 1 Satz 1 Halbsatz 1 zu unterrichten und zur Äußerung auch im Hinblick auf den erforderlichen Umfang und Detaillierungsgrad der Umweltprüfung nach § 2 Abs. 4 aufzufordern. Hieran schließt sich das Verfahren nach Absatz 2 auch an, wenn die Äußerung zu einer Änderung der Planung führt.
+(1) Die Behörden und sonstigen Träger öffentlicher Belange, deren Aufgabenbereich durch die Planung berührt werden kann, sind entsprechend § 3 Absatz 1 Satz 1 Halbsatz 1 zu unterrichten und zur Äußerung auch im Hinblick auf den erforderlichen Umfang und Detaillierungsgrad der Umweltprüfung nach § 2 Absatz 4 aufzufordern. Hieran schließt sich das Verfahren nach Absatz 2 auch an, wenn die Äußerung zu einer Änderung der Planung führt.
 
 (2) Die Gemeinde holt die Stellungnahmen der Behörden und sonstigen Träger öffentlicher Belange, deren Aufgabenbereich durch die Planung berührt werden kann, zum Planentwurf und der Begründung ein. Sie haben ihre Stellungnahmen innerhalb eines Monats abzugeben, wobei jedoch die Frist zur Abgabe von Stellungnahmen 30 Tage nicht unterschreiten darf; die Gemeinde soll diese Frist bei Vorliegen eines wichtigen Grundes angemessen verlängern. In den Stellungnahmen sollen sich die Behörden und sonstigen Träger öffentlicher Belange auf ihren Aufgabenbereich beschränken; sie haben auch Aufschluss über von ihnen beabsichtigte oder bereits eingeleitete Planungen und sonstige Maßnahmen sowie deren zeitliche Abwicklung zu geben, die für die städtebauliche Entwicklung und Ordnung des Gebiets bedeutsam sein können. Verfügen sie über Informationen, die für die Ermittlung und Bewertung des Abwägungsmaterials zweckdienlich sind, haben sie diese Informationen der Gemeinde zur Verfügung zu stellen.
 
@@ -2449,15 +845,15 @@ An die Unterrichtung und Erörterung schließt sich das Verfahren nach Absatz 2 
 
 (1) Die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung dienen insbesondere der vollständigen Ermittlung und zutreffenden Bewertung der von der Planung berührten Belange und der Information der Öffentlichkeit.
 
-(2) Die Unterrichtung nach § 3 Abs. 1 kann gleichzeitig mit der Unterrichtung nach § 4 Abs. 1, die Auslegung nach § 3 Abs. 2 kann gleichzeitig mit der Einholung der Stellungnahmen nach § 4 Abs. 2 durchgeführt werden.
+(2) Die Unterrichtung nach § 3 Absatz 1 kann gleichzeitig mit der Unterrichtung nach § 4 Absatz 1, die Auslegung nach § 3 Absatz 2 kann gleichzeitig mit der Einholung der Stellungnahmen nach § 4 Absatz 2 durchgeführt werden.
 
-(3) Wird der Entwurf des Bauleitplans nach dem Verfahren nach § 3 Abs. 2 oder § 4 Abs. 2 geändert oder ergänzt, ist er erneut auszulegen und sind die Stellungnahmen erneut einzuholen. Dabei kann bestimmt werden, dass Stellungnahmen nur zu den geänderten oder ergänzten Teilen abgegeben werden können; hierauf ist in der erneuten Bekanntmachung nach § 3 Abs. 2 Satz 2 hinzuweisen. Die Dauer der Auslegung und die Frist zur Stellungnahme kann angemessen verkürzt werden. Werden durch die Änderung oder Ergänzung des Entwurfs des Bauleitplans die Grundzüge der Planung nicht berührt, kann die Einholung der Stellungnahmen auf die von der Änderung oder Ergänzung betroffene Öffentlichkeit sowie die berührten Behörden und sonstigen Träger öffentlicher Belange beschränkt werden.
+(3) Wird der Entwurf des Bauleitplans nach dem Verfahren nach § 3 Absatz 2 oder § 4 Absatz 2 geändert oder ergänzt, ist er erneut auszulegen und sind die Stellungnahmen erneut einzuholen. Dabei kann bestimmt werden, dass Stellungnahmen nur zu den geänderten oder ergänzten Teilen abgegeben werden können; hierauf ist in der erneuten Bekanntmachung nach § 3 Absatz 2 Satz 2 hinzuweisen. Die Dauer der Auslegung und die Frist zur Stellungnahme kann angemessen verkürzt werden. Werden durch die Änderung oder Ergänzung des Entwurfs des Bauleitplans die Grundzüge der Planung nicht berührt, kann die Einholung der Stellungnahmen auf die von der Änderung oder Ergänzung betroffene Öffentlichkeit sowie die berührten Behörden und sonstigen Träger öffentlicher Belange beschränkt werden.
 
 (4) Der Inhalt der ortsüblichen Bekanntmachung nach § 3 Absatz 2 Satz 2 und die nach § 3 Absatz 2 Satz 1 auszulegenden Unterlagen sind zusätzlich in das Internet einzustellen und über ein zentrales Internetportal des Landes zugänglich zu machen. Die Stellungnahmen der Behörden und sonstigen Träger öffentlicher Belange können durch Mitteilung von Ort und Dauer der öffentlichen Auslegung nach § 3 Absatz 2 und der Internetadresse, unter der der Inhalt der Bekanntmachung und die Unterlagen nach Satz 1 im Internet eingesehen werden können, eingeholt werden; die Mitteilung kann elektronisch übermittelt werden. In den Fällen des Satzes 2 hat die Gemeinde der Behörde oder einem sonstigen Träger öffentlicher Belange auf Verlangen den Entwurf des Bauleitplans und der Begründung in Papierform zu übermitteln; § 4 Absatz 2 Satz 2 bleibt unberührt.
 
-(5) Bei Bauleitplänen, die erhebliche Auswirkungen auf Nachbarstaaten haben können, sind die Gemeinden und Behörden des Nachbarstaates nach den Grundsätzen der Gegenseitigkeit und Gleichwertigkeit zu unterrichten. Abweichend von Satz 1 ist bei Bauleitplänen, die erhebliche Umweltauswirkungen auf einen anderen Staat haben können, dieser nach den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung zu beteiligen; für die Stellungnahmen der Öffentlichkeit und Behörden des anderen Staates, einschließlich der Rechtsfolgen nicht rechtzeitig abgegebener Stellungnahmen, sind abweichend von den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung die Vorschriften dieses Gesetzbuchs entsprechend anzuwenden. Ist bei Bauleitplänen eine grenzüberschreitende Beteiligung nach Satz 2 erforderlich, ist hierauf bei der Bekanntmachung nach § 3 Abs. 2 Satz 2 hinzuweisen.
+(5) Bei Bauleitplänen, die erhebliche Auswirkungen auf Nachbarstaaten haben können, sind die Gemeinden und Behörden des Nachbarstaates nach den Grundsätzen der Gegenseitigkeit und Gleichwertigkeit zu unterrichten. Abweichend von Satz 1 ist bei Bauleitplänen, die erhebliche Umweltauswirkungen auf einen anderen Staat haben können, dieser nach den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung zu beteiligen; für die Stellungnahmen der Öffentlichkeit und Behörden des anderen Staates, einschließlich der Rechtsfolgen nicht rechtzeitig abgegebener Stellungnahmen, sind abweichend von den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung die Vorschriften dieses Gesetzbuchs entsprechend anzuwenden. Ist bei Bauleitplänen eine grenzüberschreitende Beteiligung nach Satz 2 erforderlich, ist hierauf bei der Bekanntmachung nach § 3 Absatz 2 Satz 2 hinzuweisen.
 
-(6) Stellungnahmen, die im Verfahren der Öffentlichkeits- und Behördenbeteiligung nicht rechtzeitig abgegeben worden sind, können bei der Beschlussfassung über den Bauleitplan unberücksichtigt bleiben, sofern die Gemeinde deren Inhalt nicht kannte und nicht hätte kennen müssen und deren Inhalt für die Rechtmäßigkeit des Bauleitplans nicht von Bedeutung ist. Satz 1 gilt für in der Öffentlichkeitsbeteiligung abgegebene Stellungnahmen nur, wenn darauf in der Bekanntmachung nach § 3 Abs. 2 Satz 2 zur Öffentlichkeitsbeteiligung hingewiesen worden ist.
+(6) Stellungnahmen, die im Verfahren der Öffentlichkeits- und Behördenbeteiligung nicht rechtzeitig abgegeben worden sind, können bei der Beschlussfassung über den Bauleitplan unberücksichtigt bleiben, sofern die Gemeinde deren Inhalt nicht kannte und nicht hätte kennen müssen und deren Inhalt für die Rechtmäßigkeit des Bauleitplans nicht von Bedeutung ist. Satz 1 gilt für in der Öffentlichkeitsbeteiligung abgegebene Stellungnahmen nur, wenn darauf in der Bekanntmachung nach § 3 Absatz 2 Satz 2 zur Öffentlichkeitsbeteiligung hingewiesen worden ist.
 
 ### § 4b Einschaltung eines Dritten
 
@@ -2465,7 +861,7 @@ Die Gemeinde kann insbesondere zur Beschleunigung des Bauleitplanverfahrens die 
 
 ### § 4c Überwachung
 
-Die Gemeinden überwachen die erheblichen Umweltauswirkungen, die auf Grund der Durchführung der Bauleitpläne eintreten, um insbesondere unvorhergesehene nachteilige Auswirkungen frühzeitig zu ermitteln und in der Lage zu sein, geeignete Maßnahmen zur Abhilfe zu ergreifen; Gegenstand der Überwachung ist auch die Durchführung von Darstellungen oder Festsetzungen nach § 1a Absatz 3 Satz 2 und von Maßnahmen nach § 1a Absatz 3 Satz 4. Sie nutzen dabei die im Umweltbericht nach Nummer 3 Buchstabe b der Anlage 1 zu diesem Gesetzbuch angegebenen Überwachungsmaßnahmen und die Informationen der Behörden nach § 4 Abs. 3.
+Die Gemeinden überwachen die erheblichen Umweltauswirkungen, die auf Grund der Durchführung der Bauleitpläne eintreten, um insbesondere unvorhergesehene nachteilige Auswirkungen frühzeitig zu ermitteln und in der Lage zu sein, geeignete Maßnahmen zur Abhilfe zu ergreifen; Gegenstand der Überwachung ist auch die Durchführung von Darstellungen oder Festsetzungen nach § 1a Absatz 3 Satz 2 und von Maßnahmen nach § 1a Absatz 3 Satz 4. Sie nutzen dabei die im Umweltbericht nach Nummer 3 Buchstabe b der Anlage 1 zu diesem Gesetzbuch angegebenen Überwachungsmaßnahmen und die Informationen der Behörden nach § 4 Absatz 3.
 
 Zweiter Abschnitt Vorbereitender Bauleitplan (Flächennutzungsplan)
 ------------------------------------------------------------------
@@ -2541,7 +937,7 @@ für bauliche Nutzungen vorgesehene Flächen, deren Böden erheblich mit umweltg
 
 (4) Planungen und sonstige Nutzungsregelungen, die nach anderen gesetzlichen Vorschriften festgesetzt sind, sowie nach Landesrecht denkmalgeschützte Mehrheiten von baulichen Anlagen sollen nachrichtlich übernommen werden. Sind derartige Festsetzungen in Aussicht genommen, sollen sie im Flächennutzungsplan vermerkt werden.
 
-(4a) Festgesetzte Überschwemmungsgebiete im Sinne des § 76 Absatz 2 des Wasserhaushaltsgesetzes sollen nachrichtlich übernommen werden. Noch nicht festgesetzte Überschwemmungsgebiete im Sinne des § 76 Absatz 3 des Wasserhaushaltsgesetzes sowie als Risikogebiete im Sinne des § 73 Absatz 1 Satz 1 des Wasserhaushaltsgesetzes bestimmte Gebiete sollen im Flächennutzungsplan vermerkt werden.
+(4a) Festgesetzte Überschwemmungsgebiete im Sinne des § 76 Absatz 2 des Wasserhaushaltsgesetzes, Risikogebiete außerhalb von Überschwemmungsgebieten im Sinne des § 78b Absatz 1 des Wasserhaushaltsgesetzes sowie Hochwasserentstehungsgebiete im Sinne des § 78d Absatz 1 des Wasserhaushaltsgesetzes sollen nachrichtlich übernommen werden. Noch nicht festgesetzte Überschwemmungsgebiete im Sinne des § 76 Absatz 3 des Wasserhaushaltsgesetzes sowie als Risikogebiete im Sinne des § 73 Absatz 1 Satz 1 des Wasserhaushaltsgesetzes bestimmte Gebiete sollen im Flächennutzungsplan vermerkt werden.
 
 (5) Dem Flächennutzungsplan ist eine Begründung mit den Angaben nach § 2a beizufügen.
 
@@ -2567,7 +963,7 @@ für bauliche Nutzungen vorgesehene Flächen, deren Böden erheblich mit umweltg
 
 ### § 7 Anpassung an den Flächennutzungsplan
 
-Öffentliche Planungsträger, die nach § 4 oder § 13 beteiligt worden sind, haben ihre Planungen dem Flächennutzungsplan insoweit anzupassen, als sie diesem Plan nicht widersprochen haben. Der Widerspruch ist bis zum Beschluss der Gemeinde einzulegen. Macht eine Veränderung der Sachlage eine abweichende Planung erforderlich, haben sie sich unverzüglich mit der Gemeinde ins Benehmen zu setzen. Kann ein Einvernehmen zwischen der Gemeinde und dem öffentlichen Planungsträger nicht erreicht werden, kann der öffentliche Planungsträger nachträglich widersprechen. Der Widerspruch ist nur zulässig, wenn die für die abweichende Planung geltend gemachten Belange die sich aus dem Flächennutzungsplan ergebenden städtebaulichen Belange nicht nur unwesentlich überwiegen. Im Falle einer abweichenden Planung ist § 37 Abs. 3 auf die durch die Änderung oder Ergänzung des Flächennutzungsplans oder eines Bebauungsplans, der aus dem Flächennutzungsplan entwickelt worden ist und geändert, ergänzt oder aufgehoben werden musste, entstehenden Aufwendungen und Kosten entsprechend anzuwenden; § 38 Satz 3 bleibt unberührt.
+Öffentliche Planungsträger, die nach § 4 oder § 13 beteiligt worden sind, haben ihre Planungen dem Flächennutzungsplan insoweit anzupassen, als sie diesem Plan nicht widersprochen haben. Der Widerspruch ist bis zum Beschluss der Gemeinde einzulegen. Macht eine Veränderung der Sachlage eine abweichende Planung erforderlich, haben sie sich unverzüglich mit der Gemeinde ins Benehmen zu setzen. Kann ein Einvernehmen zwischen der Gemeinde und dem öffentlichen Planungsträger nicht erreicht werden, kann der öffentliche Planungsträger nachträglich widersprechen. Der Widerspruch ist nur zulässig, wenn die für die abweichende Planung geltend gemachten Belange die sich aus dem Flächennutzungsplan ergebenden städtebaulichen Belange nicht nur unwesentlich überwiegen. Im Falle einer abweichenden Planung ist § 37 Absatz 3 auf die durch die Änderung oder Ergänzung des Flächennutzungsplans oder eines Bebauungsplans, der aus dem Flächennutzungsplan entwickelt worden ist und geändert, ergänzt oder aufgehoben werden musste, entstehenden Aufwendungen und Kosten entsprechend anzuwenden; § 38 Satz 3 bleibt unberührt.
 
 Dritter Abschnitt Verbindlicher Bauleitplan (Bebauungsplan)
 -----------------------------------------------------------
@@ -2741,7 +1137,7 @@ Flächen, deren Böden erheblich mit umweltgefährdenden Stoffen belastet sind.
 
 (6) Nach anderen gesetzlichen Vorschriften getroffene Festsetzungen, gemeindliche Regelungen zum Anschluss- und Benutzungszwang sowie Denkmäler nach Landesrecht sollen in den Bebauungsplan nachrichtlich übernommen werden, soweit sie zu seinem Verständnis oder für die städtebauliche Beurteilung von Baugesuchen notwendig oder zweckmäßig sind.
 
-(6a) Festgesetzte Überschwemmungsgebiete im Sinne des § 76 Absatz 2 des Wasserhaushaltsgesetzes sollen nachrichtlich übernommen werden. Noch nicht festgesetzte Überschwemmungsgebiete im Sinne des § 76 Absatz 3 des Wasserhaushaltsgesetzes sowie als Risikogebiete im Sinne des § 73 Absatz 1 Satz 1 des Wasserhaushaltsgesetzes bestimmte Gebiete sollen im Bebauungsplan vermerkt werden.
+(6a) Festgesetzte Überschwemmungsgebiete im Sinne des § 76 Absatz 2 des Wasserhaushaltsgesetzes, Risikogebiete außerhalb von Überschwemmungsgebieten im Sinne des § 78b Absatz 1 des Wasserhaushaltsgesetzes sowie Hochwasserentstehungsgebiete im Sinne des § 78d Absatz 1 des Wasserhaushaltsgesetzes sollen nachrichtlich übernommen werden. Noch nicht festgesetzte Überschwemmungsgebiete im Sinne des § 76 Absatz 3 des Wasserhaushaltsgesetzes sowie als Risikogebiete im Sinne des § 73 Absatz 1 Satz 1 des Wasserhaushaltsgesetzes bestimmte Gebiete sollen im Bebauungsplan vermerkt werden.
 
 (7) Der Bebauungsplan setzt die Grenzen seines räumlichen Geltungsbereichs fest.
 
@@ -2767,7 +1163,7 @@ die Bauweise sowie die überbaubaren und die nicht überbaubaren Grundstücksfl�
 die in den Baugebieten zulässigen baulichen und sonstigen Anlagen;
 
 3.  
-die Zulässigkeit der Festsetzung nach Maßgabe des § 9 Abs. 3 über verschiedenartige Baugebiete oder verschiedenartige in den Baugebieten zulässige bauliche und sonstige Anlagen;
+die Zulässigkeit der Festsetzung nach Maßgabe des § 9 Absatz 3 über verschiedenartige Baugebiete oder verschiedenartige in den Baugebieten zulässige bauliche und sonstige Anlagen;
 
 4.  
 die Ausarbeitung der Bauleitpläne einschließlich der dazugehörigen Unterlagen sowie über die Darstellung des Planinhalts, insbesondere über die dabei zu verwendenden Planzeichen und ihre Bedeutung.
@@ -2776,11 +1172,9 @@ die Ausarbeitung der Bauleitpläne einschließlich der dazugehörigen Unterlagen
 
 (1) Die Gemeinde beschließt den Bebauungsplan als Satzung.
 
-(2) Bebauungspläne nach § 8 Abs. 2 Satz 2, Abs. 3 Satz 2 und Abs. 4 bedürfen der Genehmigung der höheren Verwaltungsbehörde. § 6 Abs. 2 und 4 ist entsprechend anzuwenden.
+(2) Bebauungspläne nach § 8 Absatz 2 Satz 2, Absatz 3 Satz 2 und Absatz 4 bedürfen der Genehmigung der höheren Verwaltungsbehörde. § 6 Absatz 2 und 4 ist entsprechend anzuwenden.
 
 (3) Die Erteilung der Genehmigung oder, soweit eine Genehmigung nicht erforderlich ist, der Beschluss des Bebauungsplans durch die Gemeinde ist ortsüblich bekannt zu machen. Der Bebauungsplan ist mit der Begründung und der zusammenfassenden Erklärung nach § 10a Absatz 1 zu jedermanns Einsicht bereitzuhalten; über den Inhalt ist auf Verlangen Auskunft zu geben. In der Bekanntmachung ist darauf hinzuweisen, wo der Bebauungsplan eingesehen werden kann. Mit der Bekanntmachung tritt der Bebauungsplan in Kraft. Die Bekanntmachung tritt an die Stelle der sonst für Satzungen vorgeschriebenen Veröffentlichung.
-
-(4) (weggefallen)
 
 ### § 10a Zusammenfassende Erklärung zum Bebauungsplan; Einstellen in das Internet
 
@@ -2795,10 +1189,10 @@ Vierter Abschnitt Zusammenarbeit mit Privaten; vereinfachtes Verfahren
 
 ### § 11 Städtebaulicher Vertrag
 
-(1) Die Gemeinde kann städtebauliche Verträge schließen. Gegenstände eines städtebaulichen Vertrages können insbesondere sein:
+(1) Die Gemeinde kann städtebauliche Verträge schließen. Gegenstände eines städtebaulichen Vertrags können insbesondere sein:
 
 1.  
-die Vorbereitung oder Durchführung städtebaulicher Maßnahmen durch den Vertragspartner auf eigene Kosten; dazu gehören auch die Neuordnung der Grundstücksverhältnisse, die Bodensanierung und sonstige vorbereitende Maßnahmen, die Erschließung durch nach Bundes- oder nach Landesrecht beitragsfähige sowie nicht beitragsfähige Erschließungsanlagen sowie die Ausarbeitung der städtebaulichen Planungen sowie erforderlichenfalls des Umweltberichts; die Verantwortung der Gemeinde für das gesetzlich vorgesehene Planaufstellungsverfahren bleibt unberührt;
+die Vorbereitung oder Durchführung städtebaulicher Maßnahmen durch den Vertragspartner auf eigene Kosten; dazu gehören auch die Neuordnung der Grundstücksverhältnisse, die Bodensanierung und sonstige vorbereitende Maßnahmen, die Erschließung durch nach Bundes- oder nach Landesrecht beitragsfähige sowie nicht beitragsfähige Erschließungsanlagen, die Ausarbeitung der städtebaulichen Planungen sowie erforderlichenfalls des Umweltberichts; die Verantwortung der Gemeinde für das gesetzlich vorgesehene Planaufstellungsverfahren bleibt unberührt;
 
 2.  
 die Förderung und Sicherung der mit der Bauleitplanung verfolgten Ziele, insbesondere die Grundstücksnutzung, auch hinsichtlich einer Befristung oder einer Bedingung, die Durchführung des Ausgleichs im Sinne des § 1a Absatz 3, die Berücksichtigung baukultureller Belange, die Deckung des Wohnbedarfs von Bevölkerungsgruppen mit besonderen Wohnraumversorgungsproblemen sowie der Erwerb angemessenen Wohnraums durch einkommensschwächere und weniger begüterte Personen der örtlichen Bevölkerung;
@@ -2822,13 +1216,13 @@ Die Gemeinde kann städtebauliche Verträge auch mit einer juristischen Person a
 
 ### § 12 Vorhaben- und Erschließungsplan
 
-(1) Die Gemeinde kann durch einen vorhabenbezogenen Bebauungsplan die Zulässigkeit von Vorhaben bestimmen, wenn der Vorhabenträger auf der Grundlage eines mit der Gemeinde abgestimmten Plans zur Durchführung der Vorhaben und der Erschließungsmaßnahmen (Vorhaben- und Erschließungsplan) bereit und in der Lage ist und sich zur Durchführung innerhalb einer bestimmten Frist und zur Tragung der Planungs- und Erschließungskosten ganz oder teilweise vor dem Beschluss nach § 10 Abs. 1 verpflichtet (Durchführungsvertrag). Die Begründung des Planentwurfs hat die nach § 2a erforderlichen Angaben zu enthalten. Für die grenzüberschreitende Beteiligung ist eine Übersetzung der Angaben vorzulegen, soweit dies nach den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung notwendig ist. Für den vorhabenbezogenen Bebauungsplan nach Satz 1 gelten ergänzend die Absätze 2 bis 6.
+(1) Die Gemeinde kann durch einen vorhabenbezogenen Bebauungsplan die Zulässigkeit von Vorhaben bestimmen, wenn der Vorhabenträger auf der Grundlage eines mit der Gemeinde abgestimmten Plans zur Durchführung der Vorhaben und der Erschließungsmaßnahmen (Vorhaben- und Erschließungsplan) bereit und in der Lage ist und sich zur Durchführung innerhalb einer bestimmten Frist und zur Tragung der Planungs- und Erschließungskosten ganz oder teilweise vor dem Beschluss nach § 10 Absatz 1 verpflichtet (Durchführungsvertrag). Die Begründung des Planentwurfs hat die nach § 2a erforderlichen Angaben zu enthalten. Für die grenzüberschreitende Beteiligung ist eine Übersetzung der Angaben vorzulegen, soweit dies nach den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung notwendig ist. Für den vorhabenbezogenen Bebauungsplan nach Satz 1 gelten ergänzend die Absätze 2 bis 6.
 
-(2) Die Gemeinde hat auf Antrag des Vorhabenträgers über die Einleitung des Bebauungsplanverfahrens nach pflichtgemäßem Ermessen zu entscheiden. Auf Antrag des Vorhabenträgers oder sofern die Gemeinde es nach Einleitung des Bebauungsplanverfahrens für erforderlich hält, informiert die Gemeinde diesen über den voraussichtlich erforderlichen Untersuchungsrahmen der Umweltprüfung nach § 2 Abs. 4 unter Beteiligung der Behörden nach § 4 Abs. 1.
+(2) Die Gemeinde hat auf Antrag des Vorhabenträgers über die Einleitung des Bebauungsplanverfahrens nach pflichtgemäßem Ermessen zu entscheiden. Auf Antrag des Vorhabenträgers oder sofern die Gemeinde es nach Einleitung des Bebauungsplanverfahrens für erforderlich hält, informiert die Gemeinde diesen über den voraussichtlich erforderlichen Untersuchungsrahmen der Umweltprüfung nach § 2 Absatz 4 unter Beteiligung der Behörden nach § 4 Absatz 1.
 
-(3) Der Vorhaben- und Erschließungsplan wird Bestandteil des vorhabenbezogenen Bebauungsplans. Im Bereich des Vorhaben- und Erschließungsplans ist die Gemeinde bei der Bestimmung der Zulässigkeit der Vorhaben nicht an die Festsetzungen nach § 9 und nach der auf Grund von § 9a erlassenen Verordnung gebunden; die §§ 14 bis 18, 22 bis 28, 39 bis 79, 127 bis 135c sind nicht anzuwenden. Soweit der vorhabenbezogene Bebauungsplan auch im Bereich des Vorhaben- und Erschließungsplans Festsetzungen nach § 9 für öffentliche Zwecke trifft, kann gemäß § 85 Abs. 1 Nr. 1 enteignet werden.
+(3) Der Vorhaben- und Erschließungsplan wird Bestandteil des vorhabenbezogenen Bebauungsplans. Im Bereich des Vorhaben- und Erschließungsplans ist die Gemeinde bei der Bestimmung der Zulässigkeit der Vorhaben nicht an die Festsetzungen nach § 9 und nach der auf Grund von § 9a erlassenen Verordnung gebunden; die §§ 14 bis 18, 22 bis 28, 39 bis 79, 127 bis 135c sind nicht anzuwenden. Soweit der vorhabenbezogene Bebauungsplan auch im Bereich des Vorhaben- und Erschließungsplans Festsetzungen nach § 9 für öffentliche Zwecke trifft, kann gemäß § 85 Absatz 1 Nummer 1 enteignet werden.
 
-(3a) Wird in einem vorhabenbezogenen Bebauungsplan für den Bereich des Vorhaben- und Erschließungsplans durch Festsetzung eines Baugebiets auf Grund der Baunutzungsverordnung oder auf sonstige Weise eine bauliche oder sonstige Nutzung allgemein festgesetzt, ist unter entsprechender Anwendung des § 9 Abs. 2 festzusetzen, dass im Rahmen der festgesetzten Nutzungen nur solche Vorhaben zulässig sind, zu deren Durchführung sich der Vorhabenträger im Durchführungsvertrag verpflichtet. Änderungen des Durchführungsvertrags oder der Abschluss eines neuen Durchführungsvertrags sind zulässig.
+(3a) Wird in einem vorhabenbezogenen Bebauungsplan für den Bereich des Vorhaben- und Erschließungsplans durch Festsetzung eines Baugebiets auf Grund der Baunutzungsverordnung oder auf sonstige Weise eine bauliche oder sonstige Nutzung allgemein festgesetzt, ist unter entsprechender Anwendung des § 9 Absatz 2 festzusetzen, dass im Rahmen der festgesetzten Nutzungen nur solche Vorhaben zulässig sind, zu deren Durchführung sich der Vorhabenträger im Durchführungsvertrag verpflichtet. Änderungen des Durchführungsvertrags oder der Abschluss eines neuen Durchführungsvertrags sind zulässig.
 
 (4) Einzelne Flächen außerhalb des Bereichs des Vorhaben- und Erschließungsplans können in den vorhabenbezogenen Bebauungsplan einbezogen werden.
 
@@ -2846,7 +1240,7 @@ Die Gemeinde kann städtebauliche Verträge auch mit einer juristischen Person a
 die Zulässigkeit von Vorhaben, die einer Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung nach Anlage 1 zum Gesetz über die Umweltverträglichkeitsprüfung oder nach Landesrecht unterliegen, nicht vorbereitet oder begründet wird,
 
 2.  
-keine Anhaltspunkte für eine Beeinträchtigung der in § 1 Abs. 6 Nr. 7 Buchstabe b genannten Schutzgüter bestehen und
+keine Anhaltspunkte für eine Beeinträchtigung der in § 1 Absatz 6 Nummer 7 Buchstabe b genannten Schutzgüter bestehen und
 
 3.  
 keine Anhaltspunkte dafür bestehen, dass bei der Planung Pflichten zur Vermeidung oder Begrenzung der Auswirkungen von schweren Unfällen nach § 50 Satz 1 des Bundes-Immissionsschutzgesetzes zu beachten sind.
@@ -2854,34 +1248,34 @@ keine Anhaltspunkte dafür bestehen, dass bei der Planung Pflichten zur Vermeidu
 (2) Im vereinfachten Verfahren kann
 
 1.  
-von der frühzeitigen Unterrichtung und Erörterung nach § 3 Abs. 1 und § 4 Abs. 1 abgesehen werden,
+von der frühzeitigen Unterrichtung und Erörterung nach § 3 Absatz 1 und § 4 Absatz 1 abgesehen werden,
 
 2.  
-der betroffenen Öffentlichkeit Gelegenheit zur Stellungnahme innerhalb angemessener Frist gegeben oder wahlweise die Auslegung nach § 3 Abs. 2 durchgeführt werden,
+der betroffenen Öffentlichkeit Gelegenheit zur Stellungnahme innerhalb angemessener Frist gegeben oder wahlweise die Auslegung nach § 3 Absatz 2 durchgeführt werden,
 
 3.  
-den berührten Behörden und sonstigen Trägern öffentlicher Belange Gelegenheit zur Stellungnahme innerhalb angemessener Frist gegeben oder wahlweise die Beteiligung nach § 4 Abs. 2 durchgeführt werden.
+den berührten Behörden und sonstigen Trägern öffentlicher Belange Gelegenheit zur Stellungnahme innerhalb angemessener Frist gegeben oder wahlweise die Beteiligung nach § 4 Absatz 2 durchgeführt werden.
 
-Wird nach Satz 1 Nr. 2 die betroffene Öffentlichkeit beteiligt, gilt die Hinweispflicht des § 3 Abs. 2 Satz 2 Halbsatz 2 entsprechend.
+Wird nach Satz 1 Nummer 2 die betroffene Öffentlichkeit beteiligt, gilt die Hinweispflicht des § 3 Absatz 2 Satz 2 Halbsatz 2 entsprechend.
 
-(3) Im vereinfachten Verfahren wird von der Umweltprüfung nach § 2 Abs. 4, von dem Umweltbericht nach § 2a, von der Angabe nach § 3 Abs. 2 Satz 2, welche Arten umweltbezogener Informationen verfügbar sind, sowie von der zusammenfassenden Erklärung nach § 6a Absatz 1 und § 10a Absatz 1 abgesehen; § 4c ist nicht anzuwenden. Bei der Beteiligung nach Absatz 2 Nr. 2 ist darauf hinzuweisen, dass von einer Umweltprüfung abgesehen wird.
+(3) Im vereinfachten Verfahren wird von der Umweltprüfung nach § 2 Absatz 4, von dem Umweltbericht nach § 2a, von der Angabe nach § 3 Absatz 2 Satz 2, welche Arten umweltbezogener Informationen verfügbar sind, sowie von der zusammenfassenden Erklärung nach § 6a Absatz 1 und § 10a Absatz 1 abgesehen; § 4c ist nicht anzuwenden. Bei der Beteiligung nach Absatz 2 Nummer 2 ist darauf hinzuweisen, dass von einer Umweltprüfung abgesehen wird.
 
 ### § 13a Bebauungspläne der Innenentwicklung
 
-(1) Ein Bebauungsplan für die Wiedernutzbarmachung von Flächen, die Nachverdichtung oder andere Maßnahmen der Innenentwicklung (Bebauungsplan der Innenentwicklung) kann im beschleunigten Verfahren aufgestellt werden. Der Bebauungsplan darf im beschleunigten Verfahren nur aufgestellt werden, wenn in ihm eine zulässige Grundfläche im Sinne des § 19 Abs. 2 der Baunutzungsverordnung oder eine Größe der Grundfläche festgesetzt wird von insgesamt
+(1) Ein Bebauungsplan für die Wiedernutzbarmachung von Flächen, die Nachverdichtung oder andere Maßnahmen der Innenentwicklung (Bebauungsplan der Innenentwicklung) kann im beschleunigten Verfahren aufgestellt werden. Der Bebauungsplan darf im beschleunigten Verfahren nur aufgestellt werden, wenn in ihm eine zulässige Grundfläche im Sinne des § 19 Absatz 2 der Baunutzungsverordnung oder eine Größe der Grundfläche festgesetzt wird von insgesamt
 
 1.  
 weniger als 20 000 Quadratmetern, wobei die Grundflächen mehrerer Bebauungspläne, die in einem engen sachlichen, räumlichen und zeitlichen Zusammenhang aufgestellt werden, mitzurechnen sind, oder
 
 2.  
-20 000 Quadratmetern bis weniger als 70 000 Quadratmetern, wenn auf Grund einer überschlägigen Prüfung unter Berücksichtigung der in Anlage 2 dieses Gesetzes genannten Kriterien die Einschätzung erlangt wird, dass der Bebauungsplan voraussichtlich keine erheblichen Umweltauswirkungen hat, die nach § 2 Abs. 4 Satz 4 in der Abwägung zu berücksichtigen wären (Vorprüfung des Einzelfalls); die Behörden und sonstigen Träger öffentlicher Belange, deren Aufgabenbereiche durch die Planung berührt werden können, sind an der Vorprüfung des Einzelfalls zu beteiligen.
+20 000 Quadratmetern bis weniger als 70 000 Quadratmetern, wenn auf Grund einer überschlägigen Prüfung unter Berücksichtigung der in Anlage 2 dieses Gesetzes genannten Kriterien die Einschätzung erlangt wird, dass der Bebauungsplan voraussichtlich keine erheblichen Umweltauswirkungen hat, die nach § 2 Absatz 4 Satz 4 in der Abwägung zu berücksichtigen wären (Vorprüfung des Einzelfalls); die Behörden und sonstigen Träger öffentlicher Belange, deren Aufgabenbereiche durch die Planung berührt werden können, sind an der Vorprüfung des Einzelfalls zu beteiligen.
 
 Wird in einem Bebauungsplan weder eine zulässige Grundfläche noch eine Größe der Grundfläche festgesetzt, ist bei Anwendung des Satzes 2 die Fläche maßgeblich, die bei Durchführung des Bebauungsplans voraussichtlich versiegelt wird. Das beschleunigte Verfahren ist ausgeschlossen, wenn durch den Bebauungsplan die Zulässigkeit von Vorhaben begründet wird, die einer Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung nach dem Gesetz über die Umweltverträglichkeitsprüfung oder nach Landesrecht unterliegen. Das beschleunigte Verfahren ist auch ausgeschlossen, wenn Anhaltspunkte für eine Beeinträchtigung der in § 1 Absatz 6 Nummer 7 Buchstabe b genannten Schutzgüter oder dafür bestehen, dass bei der Planung Pflichten zur Vermeidung oder Begrenzung der Auswirkungen von schweren Unfällen nach § 50 Satz 1 des Bundes-Immissionsschutzgesetzes zu beachten sind.
 
 (2) Im beschleunigten Verfahren
 
 1.  
-gelten die Vorschriften des vereinfachten Verfahrens nach § 13 Abs. 2 und 3 Satz 1 entsprechend;
+gelten die Vorschriften des vereinfachten Verfahrens nach § 13 Absatz 2 und 3 Satz 1 entsprechend;
 
 2.  
 kann ein Bebauungsplan, der von Darstellungen des Flächennutzungsplans abweicht, auch aufgestellt werden, bevor der Flächennutzungsplan geändert oder ergänzt ist; die geordnete städtebauliche Entwicklung des Gemeindegebiets darf nicht beeinträchtigt werden; der Flächennutzungsplan ist im Wege der Berichtigung anzupassen;
@@ -2890,17 +1284,17 @@ kann ein Bebauungsplan, der von Darstellungen des Flächennutzungsplans abweicht
 soll einem Bedarf an Investitionen zur Erhaltung, Sicherung und Schaffung von Arbeitsplätzen, zur Versorgung der Bevölkerung mit Wohnraum oder zur Verwirklichung von Infrastrukturvorhaben in der Abwägung in angemessener Weise Rechnung getragen werden;
 
 4.  
-gelten in den Fällen des Absatzes 1 Satz 2 Nr. 1 Eingriffe, die auf Grund der Aufstellung des Bebauungsplans zu erwarten sind, als im Sinne des § 1a Abs. 3 Satz 6 vor der planerischen Entscheidung erfolgt oder zulässig.
+gelten in den Fällen des Absatzes 1 Satz 2 Nummer 1 Eingriffe, die auf Grund der Aufstellung des Bebauungsplans zu erwarten sind, als im Sinne des § 1a Absatz 3 Satz 6 vor der planerischen Entscheidung erfolgt oder zulässig.
 
 (3) Bei Aufstellung eines Bebauungsplans im beschleunigten Verfahren ist ortsüblich bekannt zu machen,
 
 1.  
-dass der Bebauungsplan im beschleunigten Verfahren ohne Durchführung einer Umweltprüfung nach § 2 Abs. 4 aufgestellt werden soll, in den Fällen des Absatzes 1 Satz 2 Nr. 2 einschließlich der hierfür wesentlichen Gründe, und
+dass der Bebauungsplan im beschleunigten Verfahren ohne Durchführung einer Umweltprüfung nach § 2 Absatz 4 aufgestellt werden soll, in den Fällen des Absatzes 1 Satz 2 Nummer 2 einschließlich der hierfür wesentlichen Gründe, und
 
 2.  
-wo sich die Öffentlichkeit über die allgemeinen Ziele und Zwecke sowie die wesentlichen Auswirkungen der Planung unterrichten kann und dass sich die Öffentlichkeit innerhalb einer bestimmten Frist zur Planung äußern kann, sofern keine frühzeitige Unterrichtung und Erörterung im Sinne des § 3 Abs. 1 stattfindet.
+wo sich die Öffentlichkeit über die allgemeinen Ziele und Zwecke sowie die wesentlichen Auswirkungen der Planung unterrichten kann und dass sich die Öffentlichkeit innerhalb einer bestimmten Frist zur Planung äußern kann, sofern keine frühzeitige Unterrichtung und Erörterung im Sinne des § 3 Absatz 1 stattfindet.
 
-Die Bekanntmachung nach Satz 1 kann mit der ortsüblichen Bekanntmachung nach § 2 Abs. 1 Satz 2 verbunden werden. In den Fällen des Absatzes 1 Satz 2 Nr. 2 erfolgt die Bekanntmachung nach Satz 1 nach Abschluss der Vorprüfung des Einzelfalls.
+Die Bekanntmachung nach Satz 1 kann mit der ortsüblichen Bekanntmachung nach § 2 Absatz 1 Satz 2 verbunden werden. In den Fällen des Absatzes 1 Satz 2 Nummer 2 erfolgt die Bekanntmachung nach Satz 1 nach Abschluss der Vorprüfung des Einzelfalls.
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für die Änderung und Ergänzung eines Bebauungsplans.
 
@@ -2932,25 +1326,25 @@ erhebliche oder wesentlich wertsteigernde Veränderungen von Grundstücken und b
 
 (3) Vorhaben, die vor dem Inkrafttreten der Veränderungssperre baurechtlich genehmigt worden sind, Vorhaben, von denen die Gemeinde nach Maßgabe des Bauordnungsrechts Kenntnis erlangt hat und mit deren Ausführung vor dem Inkrafttreten der Veränderungssperre hätte begonnen werden dürfen, sowie Unterhaltungsarbeiten und die Fortführung einer bisher ausgeübten Nutzung werden von der Veränderungssperre nicht berührt.
 
-(4) Soweit für Vorhaben im förmlich festgelegten Sanierungsgebiet oder im städtebaulichen Entwicklungsbereich eine Genehmigungspflicht nach § 144 Abs. 1 besteht, sind die Vorschriften über die Veränderungssperre nicht anzuwenden.
+(4) Soweit für Vorhaben im förmlich festgelegten Sanierungsgebiet oder im städtebaulichen Entwicklungsbereich eine Genehmigungspflicht nach § 144 Absatz 1 besteht, sind die Vorschriften über die Veränderungssperre nicht anzuwenden.
 
 ### § 15 Zurückstellung von Baugesuchen
 
-(1) Wird eine Veränderungssperre nach § 14 nicht beschlossen, obwohl die Voraussetzungen gegeben sind, oder ist eine beschlossene Veränderungssperre noch nicht in Kraft getreten, hat die Baugenehmigungsbehörde auf Antrag der Gemeinde die Entscheidung über die Zulässigkeit von Vorhaben im Einzelfall für einen Zeitraum bis zu zwölf Monaten auszusetzen, wenn zu befürchten ist, dass die Durchführung der Planung durch das Vorhaben unmöglich gemacht oder wesentlich erschwert werden würde. Wird kein Baugenehmigungsverfahren durchgeführt, wird auf Antrag der Gemeinde an Stelle der Aussetzung der Entscheidung über die Zulässigkeit eine vorläufige Untersagung innerhalb einer durch Landesrecht festgesetzten Frist ausgesprochen. Die vorläufige Untersagung steht der Zurückstellung nach Satz 1 gleich.
+(1) Wird eine Veränderungssperre nach § 14 nicht beschlossen, obwohl die Voraussetzungen gegeben sind, oder ist eine beschlossene Veränderungssperre noch nicht in Kraft getreten, hat die Baugenehmigungsbehörde auf Antrag der Gemeinde die Entscheidung über die Zulässigkeit von Vorhaben im Einzelfall für einen Zeitraum bis zu zwölf Monaten auszusetzen, wenn zu befürchten ist, dass die Durchführung der Planung durch das Vorhaben unmöglich gemacht oder wesentlich erschwert werden würde. Wird kein Baugenehmigungsverfahren durchgeführt, wird auf Antrag der Gemeinde anstelle der Aussetzung der Entscheidung über die Zulässigkeit eine vorläufige Untersagung innerhalb einer durch Landesrecht festgesetzten Frist ausgesprochen. Die vorläufige Untersagung steht der Zurückstellung nach Satz 1 gleich.
 
-(2) Soweit für Vorhaben im förmlich festgelegten Sanierungsgebiet oder im städtebaulichen Entwicklungsbereich eine Genehmigungspflicht nach § 144 Abs. 1 besteht, sind die Vorschriften über die Zurückstellung von Baugesuchen nicht anzuwenden; mit der förmlichen Festlegung des Sanierungsgebiets oder des städtebaulichen Entwicklungsbereichs wird ein Bescheid über die Zurückstellung des Baugesuchs nach Absatz 1 unwirksam.
+(2) Soweit für Vorhaben im förmlich festgelegten Sanierungsgebiet oder im städtebaulichen Entwicklungsbereich eine Genehmigungspflicht nach § 144 Absatz 1 besteht, sind die Vorschriften über die Zurückstellung von Baugesuchen nicht anzuwenden; mit der förmlichen Festlegung des Sanierungsgebiets oder des städtebaulichen Entwicklungsbereichs wird ein Bescheid über die Zurückstellung des Baugesuchs nach Absatz 1 unwirksam.
 
-(3) Auf Antrag der Gemeinde hat die Baugenehmigungsbehörde die Entscheidung über die Zulässigkeit von Vorhaben nach § 35 Abs. 1 Nr. 2 bis 6 für einen Zeitraum bis zu längstens einem Jahr nach Zustellung der Zurückstellung des Baugesuchs auszusetzen, wenn die Gemeinde beschlossen hat, einen Flächennutzungsplan aufzustellen, zu ändern oder zu ergänzen, mit dem die Rechtswirkungen des § 35 Abs. 3 Satz 3 erreicht werden sollen, und zu befürchten ist, dass die Durchführung der Planung durch das Vorhaben unmöglich gemacht oder wesentlich erschwert werden würde. Auf diesen Zeitraum ist die Zeit zwischen dem Eingang des Baugesuchs bei der zuständigen Behörde bis zur Zustellung der Zurückstellung des Baugesuchs nicht anzurechnen, soweit der Zeitraum für die Bearbeitung des Baugesuchs erforderlich ist. Der Antrag der Gemeinde nach Satz 1 ist nur innerhalb von sechs Monaten, nachdem die Gemeinde in einem Verwaltungsverfahren von dem Bauvorhaben förmlich Kenntnis erhalten hat, zulässig. Wenn besondere Umstände es erfordern, kann die Baugenehmigungsbehörde auf Antrag der Gemeinde die Entscheidung nach Satz 1 um höchstens ein weiteres Jahr aussetzen.
+(3) Auf Antrag der Gemeinde hat die Baugenehmigungsbehörde die Entscheidung über die Zulässigkeit von Vorhaben nach § 35 Absatz 1 Nummer 2 bis 6 für einen Zeitraum bis zu längstens einem Jahr nach Zustellung der Zurückstellung des Baugesuchs auszusetzen, wenn die Gemeinde beschlossen hat, einen Flächennutzungsplan aufzustellen, zu ändern oder zu ergänzen, mit dem die Rechtswirkungen des § 35 Absatz 3 Satz 3 erreicht werden sollen, und zu befürchten ist, dass die Durchführung der Planung durch das Vorhaben unmöglich gemacht oder wesentlich erschwert werden würde. Auf diesen Zeitraum ist die Zeit zwischen dem Eingang des Baugesuchs bei der zuständigen Behörde bis zur Zustellung der Zurückstellung des Baugesuchs nicht anzurechnen, soweit der Zeitraum für die Bearbeitung des Baugesuchs erforderlich ist. Der Antrag der Gemeinde nach Satz 1 ist nur innerhalb von sechs Monaten, nachdem die Gemeinde in einem Verwaltungsverfahren von dem Bauvorhaben förmlich Kenntnis erhalten hat, zulässig. Wenn besondere Umstände es erfordern, kann die Baugenehmigungsbehörde auf Antrag der Gemeinde die Entscheidung nach Satz 1 um höchstens ein weiteres Jahr aussetzen.
 
 ### § 16 Beschluss über die Veränderungssperre
 
 (1) Die Veränderungssperre wird von der Gemeinde als Satzung beschlossen.
 
-(2) Die Gemeinde hat die Veränderungssperre ortsüblich bekannt zu machen. Sie kann auch ortsüblich bekanntmachen, dass eine Veränderungssperre beschlossen worden ist; § 10 Abs. 3 Satz 2 bis 5 ist entsprechend anzuwenden.
+(2) Die Gemeinde hat die Veränderungssperre ortsüblich bekannt zu machen. Sie kann auch ortsüblich bekannt machen, dass eine Veränderungssperre beschlossen worden ist; § 10 Absatz 3 Satz 2 bis 5 ist entsprechend anzuwenden.
 
 ### § 17 Geltungsdauer der Veränderungssperre
 
-(1) Die Veränderungssperre tritt nach Ablauf von zwei Jahren außer Kraft. Auf die Zweijahresfrist ist der seit der Zustellung der ersten Zurückstellung eines Baugesuchs nach § 15 Abs. 1 abgelaufene Zeitraum anzurechnen. Die Gemeinde kann die Frist um ein Jahr verlängern.
+(1) Die Veränderungssperre tritt nach Ablauf von zwei Jahren außer Kraft. Auf die Zweijahresfrist ist der seit der Zustellung der ersten Zurückstellung eines Baugesuchs nach § 15 Absatz 1 abgelaufene Zeitraum anzurechnen. Die Gemeinde kann die Frist um ein Jahr verlängern.
 
 (2) Wenn besondere Umstände es erfordern, kann die Gemeinde die Frist bis zu einem weiteren Jahr nochmals verlängern.
 
@@ -2960,15 +1354,15 @@ erhebliche oder wesentlich wertsteigernde Veränderungen von Grundstücken und b
 
 (5) Die Veränderungssperre tritt in jedem Fall außer Kraft, sobald und soweit die Bauleitplanung rechtsverbindlich abgeschlossen ist.
 
-(6) Mit der förmlichen Festlegung des Sanierungsgebiets oder des städtebaulichen Entwicklungsbereichs tritt eine bestehende Veränderungssperre nach § 14 außer Kraft. Dies gilt nicht, wenn in der Sanierungssatzung die Genehmigungspflicht nach § 144 Abs. 1 ausgeschlossen ist.
+(6) Mit der förmlichen Festlegung des Sanierungsgebiets oder des städtebaulichen Entwicklungsbereichs tritt eine bestehende Veränderungssperre nach § 14 außer Kraft. Dies gilt nicht, wenn in der Sanierungssatzung die Genehmigungspflicht nach § 144 Absatz 1 ausgeschlossen ist.
 
 ### § 18 Entschädigung bei Veränderungssperre
 
-(1) Dauert die Veränderungssperre länger als vier Jahre über den Zeitpunkt ihres Beginns oder der ersten Zurückstellung eines Baugesuchs nach § 15 Abs. 1 hinaus, ist den Betroffenen für dadurch entstandene Vermögensnachteile eine angemessene Entschädigung in Geld zu leisten. Die Vorschriften über die Entschädigung im Zweiten Abschnitt des Fünften Teils sowie § 121 gelten entsprechend; dabei ist der Grundstückswert zugrunde zu legen, der nach den Vorschriften des Zweiten Abschnitts des Dritten Teils zu entschädigen wäre.
+(1) Dauert die Veränderungssperre länger als vier Jahre über den Zeitpunkt ihres Beginns oder der ersten Zurückstellung eines Baugesuchs nach § 15 Absatz 1 hinaus, ist den Betroffenen für dadurch entstandene Vermögensnachteile eine angemessene Entschädigung in Geld zu leisten. Die Vorschriften über die Entschädigung im Zweiten Abschnitt des Fünften Teils sowie § 121 gelten entsprechend; dabei ist der Grundstückswert zugrunde zu legen, der nach den Vorschriften des Zweiten Abschnitts des Dritten Teils zu entschädigen wäre.
 
 (2) Zur Entschädigung ist die Gemeinde verpflichtet. Der Entschädigungsberechtigte kann Entschädigung verlangen, wenn die in Absatz 1 Satz 1 bezeichneten Vermögensnachteile eingetreten sind. Er kann die Fälligkeit des Anspruchs dadurch herbeiführen, dass er die Leistung der Entschädigung schriftlich bei dem Entschädigungspflichtigen beantragt. Kommt eine Einigung über die Entschädigung nicht zustande, entscheidet die höhere Verwaltungsbehörde. Für den Bescheid über die Festsetzung der Entschädigung gilt § 122 entsprechend.
 
-(3) Auf das Erlöschen des Entschädigungsanspruchs findet § 44 Abs. 4 mit der Maßgabe Anwendung, dass bei einer Veränderungssperre, die die Sicherung einer Festsetzung nach § 40 Abs. 1 oder § 41 Abs. 1 zum Gegenstand hat, die Erlöschensfrist frühestens ab Rechtsverbindlichkeit des Bebauungsplans beginnt. In der Bekanntmachung nach § 16 Abs. 2 ist auf die Vorschriften des Absatzes 2 Satz 2 und 3 hinzuweisen.
+(3) Auf das Erlöschen des Entschädigungsanspruchs findet § 44 Absatz 4 mit der Maßgabe Anwendung, dass bei einer Veränderungssperre, die die Sicherung einer Festsetzung nach § 40 Absatz 1 oder § 41 Absatz 1 zum Gegenstand hat, die Erlöschensfrist frühestens ab Rechtsverbindlichkeit des Bebauungsplans beginnt. In der Bekanntmachung nach § 16 Absatz 2 ist auf die Vorschriften des Absatzes 2 Satz 2 und 3 hinzuweisen.
 
 Zweiter Abschnitt Teilung von Grundstücken; Gebiete mit Fremdenverkehrsfunktionen
 ---------------------------------------------------------------------------------
@@ -2981,13 +1375,9 @@ Zweiter Abschnitt Teilung von Grundstücken; Gebiete mit Fremdenverkehrsfunktion
 
 (2) Durch die Teilung eines Grundstücks im Geltungsbereich eines Bebauungsplans dürfen keine Verhältnisse entstehen, die den Festsetzungen des Bebauungsplans widersprechen.
 
-### § 20
+### § 20 (weggefallen)
 
-(weggefallen)
-
-### § 21
-
-(weggefallen)
+### § 21 (weggefallen)
 
 ### § 22 Sicherung von Gebieten mit Fremdenverkehrsfunktionen
 
@@ -3010,7 +1400,7 @@ die Nutzung von Räumen in Wohngebäuden oder Beherbergungsbetrieben als Nebenwo
 
 Voraussetzung für die Bestimmung ist, dass durch die Begründung oder Teilung der Rechte, durch die Regelung nach § 1010 des Bürgerlichen Gesetzbuchs oder durch die Nutzung als Nebenwohnung die vorhandene oder vorgesehene Zweckbestimmung des Gebiets für den Fremdenverkehr und dadurch die geordnete städtebauliche Entwicklung beeinträchtigt werden kann. Die Zweckbestimmung eines Gebiets für den Fremdenverkehr ist insbesondere anzunehmen bei Kurgebieten, Gebieten für die Fremdenbeherbergung, Wochenend- und Ferienhausgebieten, die im Bebauungsplan festgesetzt sind, und bei im Zusammenhang bebauten Ortsteilen, deren Eigenart solchen Gebieten entspricht, sowie bei sonstigen Gebieten mit Fremdenverkehrsfunktionen, die durch Beherbergungsbetriebe und Wohngebäude mit Fremdenbeherbergung geprägt sind.
 
-(2) Die Gemeinde hat die Satzung ortsüblich bekannt zu machen. Sie kann die Bekanntmachung auch in entsprechender Anwendung des § 10 Abs. 3 Satz 2 bis 5 vornehmen. Für Bestimmungen nach Absatz 1 Satz 1 Nummer 1 bis 4 teilt die Gemeinde dem Grundbuchamt den Beschluss über die Satzung, das Datum ihres Inkrafttretens sowie die genaue Bezeichnung der betroffenen Grundstücke vor ihrer Bekanntmachung rechtzeitig mit. Von der genauen Bezeichnung der betroffenen Grundstücke kann in den Fällen des Absatzes 1 Satz 1 Nummer 1 und 2 abgesehen werden, wenn die gesamte Gemarkung betroffen ist und die Gemeinde dies dem Grundbuchamt mitteilt.
+(2) Die Gemeinde hat die Satzung ortsüblich bekannt zu machen. Sie kann die Bekanntmachung auch in entsprechender Anwendung des § 10 Absatz 3 Satz 2 bis 5 vornehmen. Für Bestimmungen nach Absatz 1 Satz 1 Nummer 1 bis 4 teilt die Gemeinde dem Grundbuchamt den Beschluss über die Satzung, das Datum ihres Inkrafttretens sowie die genaue Bezeichnung der betroffenen Grundstücke vor ihrer Bekanntmachung rechtzeitig mit. Von der genauen Bezeichnung der betroffenen Grundstücke kann in den Fällen des Absatzes 1 Satz 1 Nummer 1 und 2 abgesehen werden, wenn die gesamte Gemarkung betroffen ist und die Gemeinde dies dem Grundbuchamt mitteilt.
 
 (3) (weggefallen)
 
@@ -3018,19 +1408,17 @@ Voraussetzung für die Bestimmung ist, dass durch die Begründung oder Teilung d
 
 (5) Über die Genehmigung entscheidet die Baugenehmigungsbehörde im Einvernehmen mit der Gemeinde. Über die Genehmigung ist innerhalb eines Monats nach Eingang des Antrags bei der Baugenehmigungsbehörde zu entscheiden. Kann die Prüfung des Antrags in dieser Zeit nicht abgeschlossen werden, ist die Frist vor ihrem Ablauf in einem dem Antragsteller mitzuteilenden Zwischenbescheid um den Zeitraum zu verlängern, der notwendig ist, um die Prüfung abschließen zu können; höchstens jedoch um drei Monate. Die Genehmigung gilt als erteilt, wenn sie nicht innerhalb der Frist versagt wird. Darüber hat die Baugenehmigungsbehörde auf Antrag eines Beteiligten ein Zeugnis auszustellen. Das Einvernehmen gilt als erteilt, wenn es nicht binnen zwei Monaten nach Eingang des Ersuchens der Genehmigungsbehörde verweigert wird; dem Ersuchen gegenüber der Gemeinde steht die Einreichung des Antrags bei der Gemeinde gleich, wenn sie nach Landesrecht vorgeschrieben ist.
 
-(6) Bei einem Grundstück, das im Geltungsbereich einer Satzung nach Absatz 1 liegt, darf das Grundbuchamt die von Absatz 1 Satz 1 Nummer 1 bis 4 erfassten Eintragungen in das Grundbuch nur vornehmen, wenn der Genehmigungsbescheid oder ein Zeugnis gemäß Absatz 5 Satz 5 vorgelegt wird oder wenn die Freistellungserklärung der Gemeinde gemäß Absatz 8 beim Grundbuchamt eingegangen ist. Ist dennoch eine Eintragung in das Grundbuch vorgenommen worden, kann die Baugenehmigungsbehörde, falls die Genehmigung erforderlich war, das Grundbuchamt um die Eintragung eines Widerspruchs ersuchen; § 53 Abs. 1 der Grundbuchordnung bleibt unberührt. Der Widerspruch ist zu löschen, wenn die Baugenehmigungsbehörde darum ersucht oder die Genehmigung erteilt ist.
+(6) Bei einem Grundstück, das im Geltungsbereich einer Satzung nach Absatz 1 liegt, darf das Grundbuchamt die von Absatz 1 Satz 1 Nummer 1 bis 4 erfassten Eintragungen in das Grundbuch nur vornehmen, wenn der Genehmigungsbescheid oder ein Zeugnis gemäß Absatz 5 Satz 5 vorgelegt wird oder wenn die Freistellungserklärung der Gemeinde gemäß Absatz 8 beim Grundbuchamt eingegangen ist. Ist dennoch eine Eintragung in das Grundbuch vorgenommen worden, kann die Baugenehmigungsbehörde, falls die Genehmigung erforderlich war, das Grundbuchamt um die Eintragung eines Widerspruchs ersuchen; § 53 Absatz 1 der Grundbuchordnung bleibt unberührt. Der Widerspruch ist zu löschen, wenn die Baugenehmigungsbehörde darum ersucht oder die Genehmigung erteilt ist.
 
-(7) Wird die Genehmigung versagt, kann der Eigentümer von der Gemeinde unter den Voraussetzungen des § 40 Abs. 2 die Übernahme des Grundstücks verlangen. § 43 Abs. 1, 4 und 5 sowie § 44 Abs. 3 und 4 sind entsprechend anzuwenden.
+(7) Wird die Genehmigung versagt, kann der Eigentümer von der Gemeinde unter den Voraussetzungen des § 40 Absatz 2 die Übernahme des Grundstücks verlangen. § 43 Absatz 1, 4 und 5 sowie § 44 Absatz 3 und 4 sind entsprechend anzuwenden.
 
 (8) Die Gemeinde hat den Genehmigungsvorbehalt aufzuheben oder im Einzelfall einzelne Grundstücke durch Erklärung gegenüber dem Eigentümer vom Genehmigungsvorbehalt freizustellen, wenn die Voraussetzungen für den Genehmigungsvorbehalt entfallen sind. Die Gemeinde teilt dem Grundbuchamt die Aufhebung des Genehmigungsvorbehalts sowie die genaue Bezeichnung der hiervon betroffenen Grundstücke unverzüglich mit. Von der genauen Bezeichnung kann abgesehen werden, wenn die gesamte Gemarkung betroffen ist und die Gemeinde dies dem Grundbuchamt mitteilt. Sobald die Mitteilung über die Aufhebung des Genehmigungsvorbehalts beim Grundbuchamt eingegangen ist, ist Absatz 6 Satz 1 nicht mehr anzuwenden.
 
-(9) In der sonstigen Satzung nach Absatz 1 kann neben der Bestimmung des Genehmigungsvorbehalts die höchstzulässige Zahl der Wohnungen in Wohngebäuden nach Maßgabe des § 9 Abs. 1 Nr. 6 festgesetzt werden. Vor der Festsetzung nach Satz 1 ist der betroffenen Öffentlichkeit und den berührten Behörden und sonstigen Trägern öffentlicher Belange Gelegenheit zur Stellungnahme innerhalb angemessener Frist zu geben.
+(9) In der sonstigen Satzung nach Absatz 1 kann neben der Bestimmung des Genehmigungsvorbehalts die höchstzulässige Zahl der Wohnungen in Wohngebäuden nach Maßgabe des § 9 Absatz 1 Nummer 6 festgesetzt werden. Vor der Festsetzung nach Satz 1 ist der betroffenen Öffentlichkeit und den berührten Behörden und sonstigen Trägern öffentlicher Belange Gelegenheit zur Stellungnahme innerhalb angemessener Frist zu geben.
 
-(10) Der sonstigen Satzung nach Absatz 1 ist eine Begründung beizufügen. In der Begründung zum Bebauungsplan (§ 9 Abs. 8) oder zur sonstigen Satzung ist darzulegen, dass die in Absatz 1 Satz 3 bezeichneten Voraussetzungen für die Festlegung des Gebiets vorliegen.
+(10) Der sonstigen Satzung nach Absatz 1 ist eine Begründung beizufügen. In der Begründung zum Bebauungsplan (§ 9 Absatz 8) oder zur sonstigen Satzung ist darzulegen, dass die in Absatz 1 Satz 3 bezeichneten Voraussetzungen für die Festlegung des Gebiets vorliegen.
 
-### § 23
-
-(weggefallen)
+### § 23 (weggefallen)
 
 Dritter Abschnitt Gesetzliche Vorkaufsrechte der Gemeinde
 ---------------------------------------------------------
@@ -3042,7 +1430,7 @@ Dritter Abschnitt Gesetzliche Vorkaufsrechte der Gemeinde
 (1) Der Gemeinde steht ein Vorkaufsrecht zu beim Kauf von Grundstücken
 
 1.  
-im Geltungsbereich eines Bebauungsplans, soweit es sich um Flächen handelt, für die nach dem Bebauungsplan eine Nutzung für öffentliche Zwecke oder für Flächen oder Maßnahmen zum Ausgleich im Sinne des § 1a Abs. 3 festgesetzt ist,
+im Geltungsbereich eines Bebauungsplans, soweit es sich um Flächen handelt, für die nach dem Bebauungsplan eine Nutzung für öffentliche Zwecke oder für Flächen oder Maßnahmen zum Ausgleich im Sinne des § 1a Absatz 3 festgesetzt ist,
 
 2.  
 in einem Umlegungsgebiet,
@@ -3057,7 +1445,7 @@ im Geltungsbereich einer Satzung zur Sicherung von Durchführungsmaßnahmen des 
 im Geltungsbereich eines Flächennutzungsplans, soweit es sich um unbebaute Flächen im Außenbereich handelt, für die nach dem Flächennutzungsplan eine Nutzung als Wohnbaufläche oder Wohngebiet dargestellt ist,
 
 6.  
-in Gebieten, die nach § 30, 33 oder 34 Abs. 2 vorwiegend mit Wohngebäuden bebaut werden können, soweit die Grundstücke unbebaut sind, sowie
+in Gebieten, die nach § 30, 33 oder 34 Absatz 2 vorwiegend mit Wohngebäuden bebaut werden können, soweit die Grundstücke unbebaut sind, sowie
 
 7.  
 in Gebieten, die zum Zweck des vorbeugenden Hochwasserschutzes von Bebauung freizuhalten sind, insbesondere in Überschwemmungsgebieten.
@@ -3078,9 +1466,9 @@ im Geltungsbereich eines Bebauungsplans durch Satzung ihr Vorkaufsrecht an unbeb
 2.  
 in Gebieten, in denen sie städtebauliche Maßnahmen in Betracht zieht, zur Sicherung einer geordneten städtebaulichen Entwicklung durch Satzung Flächen bezeichnen, an denen ihr ein Vorkaufsrecht an den Grundstücken zusteht.
 
-Auf die Satzung ist § 16 Abs. 2 entsprechend anzuwenden.
+Auf die Satzung ist § 16 Absatz 2 entsprechend anzuwenden.
 
-(2) § 24 Abs. 2 und 3 Satz 1 ist anzuwenden. Der Verwendungszweck des Grundstücks ist anzugeben, soweit das bereits zum Zeitpunkt der Ausübung des Vorkaufsrechts möglich ist.
+(2) § 24 Absatz 2 und 3 Satz 1 ist anzuwenden. Der Verwendungszweck des Grundstücks ist anzugeben, soweit das bereits zum Zeitpunkt der Ausübung des Vorkaufsrechts möglich ist.
 
 ### § 26 Ausschluss des Vorkaufsrechts
 
@@ -3104,16 +1492,16 @@ gekauft wird,
 auf dem Grundstück Vorhaben errichtet werden sollen, für die ein in § 38 genanntes Verfahren eingeleitet oder durchgeführt worden ist, oder
 
 4.  
-das Grundstück entsprechend den Festsetzungen des Bebauungsplans oder den Zielen und Zwecken der städtebaulichen Maßnahme bebaut ist und genutzt wird und eine auf ihm errichtete bauliche Anlage keine Missstände oder Mängel im Sinne des § 177 Abs. 2 und 3 Satz 1 aufweist.
+das Grundstück entsprechend den Festsetzungen des Bebauungsplans oder den Zielen und Zwecken der städtebaulichen Maßnahme bebaut ist und genutzt wird und eine auf ihm errichtete bauliche Anlage keine Missstände oder Mängel im Sinne des § 177 Absatz 2 und 3 Satz 1 aufweist.
 
 ### § 27 Abwendung des Vorkaufsrechts
 
-(1) Der Käufer kann die Ausübung des Vorkaufsrechts abwenden, wenn die Verwendung des Grundstücks nach den baurechtlichen Vorschriften oder den Zielen und Zwecken der städtebaulichen Maßnahme bestimmt oder mit ausreichender Sicherheit bestimmbar ist, der Käufer in der Lage ist, das Grundstück binnen angemessener Frist dementsprechend zu nutzen, und er sich vor Ablauf der Frist nach § 28 Abs. 2 Satz 1 hierzu verpflichtet. Weist eine auf dem Grundstück befindliche bauliche Anlage Missstände oder Mängel im Sinne des § 177 Abs. 2 und 3 Satz 1 auf, kann der Käufer die Ausübung des Vorkaufsrechts abwenden, wenn er diese Missstände oder Mängel binnen angemessener Frist beseitigen kann und er sich vor Ablauf der Frist nach § 28 Abs. 2 Satz 1 zur Beseitigung verpflichtet. Die Gemeinde hat die Frist nach § 28 Abs. 2 Satz 1 auf Antrag des Käufers um zwei Monate zu verlängern, wenn der Käufer vor Ablauf dieser Frist glaubhaft macht, dass er in der Lage ist, die in Satz 1 oder 2 genannten Voraussetzungen zu erfüllen.
+(1) Der Käufer kann die Ausübung des Vorkaufsrechts abwenden, wenn die Verwendung des Grundstücks nach den baurechtlichen Vorschriften oder den Zielen und Zwecken der städtebaulichen Maßnahme bestimmt oder mit ausreichender Sicherheit bestimmbar ist, der Käufer in der Lage ist, das Grundstück binnen angemessener Frist dementsprechend zu nutzen, und er sich vor Ablauf der Frist nach § 28 Absatz 2 Satz 1 hierzu verpflichtet. Weist eine auf dem Grundstück befindliche bauliche Anlage Missstände oder Mängel im Sinne des § 177 Absatz 2 und 3 Satz 1 auf, kann der Käufer die Ausübung des Vorkaufsrechts abwenden, wenn er diese Missstände oder Mängel binnen angemessener Frist beseitigen kann und er sich vor Ablauf der Frist nach § 28 Absatz 2 Satz 1 zur Beseitigung verpflichtet. Die Gemeinde hat die Frist nach § 28 Absatz 2 Satz 1 auf Antrag des Käufers um zwei Monate zu verlängern, wenn der Käufer vor Ablauf dieser Frist glaubhaft macht, dass er in der Lage ist, die in Satz 1 oder 2 genannten Voraussetzungen zu erfüllen.
 
 (2) Ein Abwendungsrecht besteht nicht
 
 1.  
-in den Fällen des § 24 Abs. 1 Satz 1 Nr. 1 und
+in den Fällen des § 24 Absatz 1 Satz 1 Nummer 1 und
 
 2.  
 in einem Umlegungsgebiet, wenn das Grundstück für Zwecke der Umlegung (§ 45) benötigt wird.
@@ -3126,23 +1514,23 @@ in einem Umlegungsgebiet, wenn das Grundstück für Zwecke der Umlegung (§ 45) 
 ihr Vorkaufsrecht zugunsten eines Dritten ausüben, wenn der Dritte zu der mit der Ausübung des Vorkaufsrechts bezweckten Verwendung des Grundstücks innerhalb angemessener Frist in der Lage ist und sich hierzu verpflichtet, oder
 
 2.  
-das ihr nach § 24 Abs. 1 Satz 1 Nr. 1 zustehende Vorkaufsrecht zugunsten eines öffentlichen Bedarfs- oder Erschließungsträgers sowie das ihr nach § 24 Abs. 1 Satz 1 Nr. 3 zustehende Vorkaufsrecht zugunsten eines Sanierungs- oder Entwicklungsträgers ausüben, wenn der Träger einverstanden ist.
+das ihr nach § 24 Absatz 1 Satz 1 Nummer 1 zustehende Vorkaufsrecht zugunsten eines öffentlichen Bedarfs- oder Erschließungsträgers sowie das ihr nach § 24 Absatz 1 Satz 1 Nummer 3 zustehende Vorkaufsrecht zugunsten eines Sanierungs- oder Entwicklungsträgers ausüben, wenn der Träger einverstanden ist.
 
 In den Fällen der Nummer 1 hat die Gemeinde bei der Ausübung des Vorkaufsrechts zugunsten eines Dritten die Frist, in der das Grundstück für den vorgesehenen Zweck zu verwenden ist, zu bezeichnen.
 
 (2) Mit der Ausübung des Vorkaufsrechts kommt der Kaufvertrag zwischen dem Begünstigten und dem Verkäufer zustande. Die Gemeinde haftet für die Verpflichtung aus dem Kaufvertrag neben dem Begünstigten als Gesamtschuldnerin.
 
-(3) Für den von dem Begünstigten zu zahlenden Betrag und das Verfahren gilt § 28 Abs. 2 bis 4 entsprechend. Kommt der Begünstigte seiner Verpflichtung nach Absatz 1 Satz 1 Nummer 1 nicht nach, soll die Gemeinde in entsprechender Anwendung des § 102 die Übertragung des Grundstücks zu ihren Gunsten oder zugunsten eines Übernahmewilligen verlangen, der zur Verwirklichung des Verwendungszwecks innerhalb angemessener Frist in der Lage ist und sich hierzu verpflichtet. Für die Entschädigung und das Verfahren gelten die Vorschriften des Fünften Teils über die Rückenteignung entsprechend. Die Haftung der Gemeinde nach § 28 Abs. 3 Satz 7 bleibt unberührt.
+(3) Für den von dem Begünstigten zu zahlenden Betrag und das Verfahren gilt § 28 Absatz 2 bis 4 entsprechend. Kommt der Begünstigte seiner Verpflichtung nach Absatz 1 Satz 1 Nummer 1 nicht nach, soll die Gemeinde in entsprechender Anwendung des § 102 die Übertragung des Grundstücks zu ihren Gunsten oder zugunsten eines Übernahmewilligen verlangen, der zur Verwirklichung des Verwendungszwecks innerhalb angemessener Frist in der Lage ist und sich hierzu verpflichtet. Für die Entschädigung und das Verfahren gelten die Vorschriften des Fünften Teils über die Rückenteignung entsprechend. Die Haftung der Gemeinde nach § 28 Absatz 3 Satz 7 bleibt unberührt.
 
 ### § 28 Verfahren und Entschädigung
 
 (1) Der Verkäufer hat der Gemeinde den Inhalt des Kaufvertrags unverzüglich mitzuteilen; die Mitteilung des Verkäufers wird durch die Mitteilung des Käufers ersetzt. Das Grundbuchamt darf bei Kaufverträgen den Käufer als Eigentümer in das Grundbuch nur eintragen, wenn ihm die Nichtausübung oder das Nichtbestehen des Vorkaufsrechts nachgewiesen ist. Besteht ein Vorkaufsrecht nicht oder wird es nicht ausgeübt, hat die Gemeinde auf Antrag eines Beteiligten darüber unverzüglich ein Zeugnis auszustellen. Das Zeugnis gilt als Verzicht auf die Ausübung des Vorkaufsrechts.
 
-(2) Das Vorkaufsrecht kann nur binnen zwei Monaten nach Mitteilung des Kaufvertrags durch Verwaltungsakt gegenüber dem Verkäufer ausgeübt werden. Die §§ 463, 464 Abs. 2, §§ 465 bis 468 und 471 des Bürgerlichen Gesetzbuchs sind anzuwenden. Nach Mitteilung des Kaufvertrags ist auf Ersuchen der Gemeinde zur Sicherung ihres Anspruchs auf Übereignung des Grundstücks eine Vormerkung in das Grundbuch einzutragen; die Gemeinde trägt die Kosten der Eintragung der Vormerkung und ihrer Löschung. Das Vorkaufsrecht ist nicht übertragbar. Bei einem Eigentumserwerb auf Grund der Ausübung des Vorkaufsrechts erlöschen rechtsgeschäftliche Vorkaufsrechte. Wird die Gemeinde nach Ausübung des Vorkaufsrechts im Grundbuch als Eigentümerin eingetragen, kann sie das Grundbuchamt ersuchen, eine zur Sicherung des Übereignungsanspruchs des Käufers im Grundbuch eingetragene Vormerkung zu löschen; sie darf das Ersuchen nur stellen, wenn die Ausübung des Vorkaufsrechts für den Käufer unanfechtbar ist.
+(2) Das Vorkaufsrecht kann nur binnen zwei Monaten nach Mitteilung des Kaufvertrags durch Verwaltungsakt gegenüber dem Verkäufer ausgeübt werden. Die §§ 463, 464 Absatz 2, §§ 465 bis 468 und 471 des Bürgerlichen Gesetzbuchs sind anzuwenden. Nach Mitteilung des Kaufvertrags ist auf Ersuchen der Gemeinde zur Sicherung ihres Anspruchs auf Übereignung des Grundstücks eine Vormerkung in das Grundbuch einzutragen; die Gemeinde trägt die Kosten der Eintragung der Vormerkung und ihrer Löschung. Das Vorkaufsrecht ist nicht übertragbar. Bei einem Eigentumserwerb auf Grund der Ausübung des Vorkaufsrechts erlöschen rechtsgeschäftliche Vorkaufsrechte. Wird die Gemeinde nach Ausübung des Vorkaufsrechts im Grundbuch als Eigentümerin eingetragen, kann sie das Grundbuchamt ersuchen, eine zur Sicherung des Übereignungsanspruchs des Käufers im Grundbuch eingetragene Vormerkung zu löschen; sie darf das Ersuchen nur stellen, wenn die Ausübung des Vorkaufsrechts für den Käufer unanfechtbar ist.
 
-(3) Abweichend von Absatz 2 Satz 2 kann die Gemeinde den zu zahlenden Betrag nach dem Verkehrswert des Grundstücks (§ 194) im Zeitpunkt des Kaufes bestimmen, wenn der vereinbarte Kaufpreis den Verkehrswert in einer dem Rechtsverkehr erkennbaren Weise deutlich überschreitet. In diesem Falle ist der Verkäufer berechtigt, bis zum Ablauf eines Monats nach Unanfechtbarkeit des Verwaltungsakts über die Ausübung des Vorkaufsrechts vom Vertrag zurückzutreten. Auf das Rücktrittsrecht sind die §§ 346 bis 349 und 351 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden. Tritt der Verkäufer vom Vertrag zurück, trägt die Gemeinde die Kosten des Vertrags auf der Grundlage des Verkehrswerts. Tritt der Verkäufer vom Vertrag nicht zurück, erlischt nach Ablauf der Rücktrittsfrist nach Satz 2 die Pflicht des Verkäufers aus dem Kaufvertrag, der Gemeinde das Eigentum an dem Grundstück zu übertragen. In diesem Falle geht das Eigentum an dem Grundstück auf die Gemeinde über, wenn auf Ersuchen der Gemeinde der Übergang des Eigentums in das Grundbuch eingetragen ist. Führt die Gemeinde das Grundstück nicht innerhalb einer angemessenen Frist dem mit der Ausübung des Vorkaufsrechts verfolgten Zweck zu, hat sie dem Verkäufer einen Betrag in Höhe des Unterschieds zwischen dem vereinbarten Kaufpreis und dem Verkehrswert zu zahlen. § 44 Abs. 3 Satz 2 und 3, § 43 Abs. 2 Satz 1 sowie die §§ 121 und 122 sind entsprechend anzuwenden.
+(3) Abweichend von Absatz 2 Satz 2 kann die Gemeinde den zu zahlenden Betrag nach dem Verkehrswert des Grundstücks (§ 194) im Zeitpunkt des Kaufes bestimmen, wenn der vereinbarte Kaufpreis den Verkehrswert in einer dem Rechtsverkehr erkennbaren Weise deutlich überschreitet. In diesem Falle ist der Verkäufer berechtigt, bis zum Ablauf eines Monats nach Unanfechtbarkeit des Verwaltungsakts über die Ausübung des Vorkaufsrechts vom Vertrag zurückzutreten. Auf das Rücktrittsrecht sind die §§ 346 bis 349 und 351 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden. Tritt der Verkäufer vom Vertrag zurück, trägt die Gemeinde die Kosten des Vertrags auf der Grundlage des Verkehrswerts. Tritt der Verkäufer vom Vertrag nicht zurück, erlischt nach Ablauf der Rücktrittsfrist nach Satz 2 die Pflicht des Verkäufers aus dem Kaufvertrag, der Gemeinde das Eigentum an dem Grundstück zu übertragen. In diesem Falle geht das Eigentum an dem Grundstück auf die Gemeinde über, wenn auf Ersuchen der Gemeinde der Übergang des Eigentums in das Grundbuch eingetragen ist. Führt die Gemeinde das Grundstück nicht innerhalb einer angemessenen Frist dem mit der Ausübung des Vorkaufsrechts verfolgten Zweck zu, hat sie dem Verkäufer einen Betrag in Höhe des Unterschieds zwischen dem vereinbarten Kaufpreis und dem Verkehrswert zu zahlen. § 44 Absatz 3 Satz 2 und 3, § 43 Absatz 2 Satz 1 sowie die §§ 121 und 122 sind entsprechend anzuwenden.
 
-(4) In den Fällen des § 24 Abs. 1 Satz 1 Nr. 1 bestimmt die Gemeinde den zu zahlenden Betrag nach den Vorschriften des Zweiten Abschnitts des Fünften Teils, wenn der Erwerb des Grundstücks für die Durchführung des Bebauungsplans erforderlich ist und es nach dem festgesetzten Verwendungszweck enteignet werden könnte. Mit der Unanfechtbarkeit des Bescheids über die Ausübung des Vorkaufsrechts erlischt die Pflicht des Verkäufers aus dem Kaufvertrag, der Gemeinde das Eigentum an dem Grundstück zu übertragen. In diesem Falle geht das Eigentum an dem Grundstück auf die Gemeinde über, wenn auf Ersuchen der Gemeinde der Übergang des Eigentums in das Grundbuch eingetragen ist.
+(4) In den Fällen des § 24 Absatz 1 Satz 1 Nummer 1 bestimmt die Gemeinde den zu zahlenden Betrag nach den Vorschriften des Zweiten Abschnitts des Fünften Teils, wenn der Erwerb des Grundstücks für die Durchführung des Bebauungsplans erforderlich ist und es nach dem festgesetzten Verwendungszweck enteignet werden könnte. Mit der Unanfechtbarkeit des Bescheids über die Ausübung des Vorkaufsrechts erlischt die Pflicht des Verkäufers aus dem Kaufvertrag, der Gemeinde das Eigentum an dem Grundstück zu übertragen. In diesem Falle geht das Eigentum an dem Grundstück auf die Gemeinde über, wenn auf Ersuchen der Gemeinde der Übergang des Eigentums in das Grundbuch eingetragen ist.
 
 (5) Die Gemeinde kann für das Gemeindegebiet oder für sämtliche Grundstücke einer Gemarkung auf die Ausübung der ihr nach diesem Abschnitt zustehenden Rechte verzichten. Sie kann den Verzicht jederzeit für zukünftig abzuschließende Kaufverträge widerrufen. Der Verzicht und sein Widerruf sind ortsüblich bekannt zu machen. Die Gemeinde teilt dem Grundbuchamt den Wortlaut ihrer Erklärung mit. Hat die Gemeinde auf die Ausübung ihrer Rechte verzichtet, bedarf es eines Zeugnisses nach Absatz 1 Satz 3 nicht, soweit nicht ein Widerruf erklärt ist.
 
@@ -3198,7 +1586,7 @@ Sind überbaute Flächen in dem Bebauungsplan als Baugrundstücke für den Gemei
 (1) In Gebieten, für die ein Beschluss über die Aufstellung eines Bebauungsplans gefasst ist, ist ein Vorhaben zulässig, wenn
 
 1.  
-die Öffentlichkeits- und Behördenbeteiligung nach § 3 Abs. 2, § 4 Abs. 2 und § 4a Abs. 2 bis 5 durchgeführt worden ist,
+die Öffentlichkeits- und Behördenbeteiligung nach § 3 Absatz 2, § 4 Absatz 2 und § 4a Absatz 2 bis 5 durchgeführt worden ist,
 
 2.  
 anzunehmen ist, dass das Vorhaben den künftigen Festsetzungen des Bebauungsplans nicht entgegensteht,
@@ -3209,15 +1597,15 @@ der Antragsteller diese Festsetzungen für sich und seine Rechtsnachfolger schri
 4.  
 die Erschließung gesichert ist.
 
-(2) In Fällen des § 4a Abs. 3 Satz 1 kann vor der erneuten Öffentlichkeits- und Behördenbeteiligung ein Vorhaben zugelassen werden, wenn sich die vorgenommene Änderung oder Ergänzung des Bebauungsplanentwurfs nicht auf das Vorhaben auswirkt und die in Absatz 1 Nr. 2 bis 4 bezeichneten Voraussetzungen erfüllt sind.
+(2) In Fällen des § 4a Absatz 3 Satz 1 kann vor der erneuten Öffentlichkeits- und Behördenbeteiligung ein Vorhaben zugelassen werden, wenn sich die vorgenommene Änderung oder Ergänzung des Bebauungsplanentwurfs nicht auf das Vorhaben auswirkt und die in Absatz 1 Nummer 2 bis 4 bezeichneten Voraussetzungen erfüllt sind.
 
-(3) Wird ein Verfahren nach § 13 oder § 13a durchgeführt, kann ein Vorhaben vor Durchführung der Öffentlichkeits- und Behördenbeteiligung zugelassen werden, wenn die in Absatz 1 Nr. 2 bis 4 bezeichneten Voraussetzungen erfüllt sind. Der betroffenen Öffentlichkeit und den berührten Behörden und sonstigen Trägern öffentlicher Belange ist vor Erteilung der Genehmigung Gelegenheit zur Stellungnahme innerhalb angemessener Frist zu geben, soweit sie dazu nicht bereits zuvor Gelegenheit hatten.
+(3) Wird ein Verfahren nach § 13 oder § 13a durchgeführt, kann ein Vorhaben vor Durchführung der Öffentlichkeits- und Behördenbeteiligung zugelassen werden, wenn die in Absatz 1 Nummer 2 bis 4 bezeichneten Voraussetzungen erfüllt sind. Der betroffenen Öffentlichkeit und den berührten Behörden und sonstigen Trägern öffentlicher Belange ist vor Erteilung der Genehmigung Gelegenheit zur Stellungnahme innerhalb angemessener Frist zu geben, soweit sie dazu nicht bereits zuvor Gelegenheit hatten.
 
 ### § 34 Zulässigkeit von Vorhaben innerhalb der im Zusammenhang bebauten Ortsteile
 
 (1) Innerhalb der im Zusammenhang bebauten Ortsteile ist ein Vorhaben zulässig, wenn es sich nach Art und Maß der baulichen Nutzung, der Bauweise und der Grundstücksfläche, die überbaut werden soll, in die Eigenart der näheren Umgebung einfügt und die Erschließung gesichert ist. Die Anforderungen an gesunde Wohn- und Arbeitsverhältnisse müssen gewahrt bleiben; das Ortsbild darf nicht beeinträchtigt werden.
 
-(2) Entspricht die Eigenart der näheren Umgebung einem der Baugebiete, die in der auf Grund des § 9a erlassenen Verordnung bezeichnet sind, beurteilt sich die Zulässigkeit des Vorhabens nach seiner Art allein danach, ob es nach der Verordnung in dem Baugebiet allgemein zulässig wäre; auf die nach der Verordnung ausnahmsweise zulässigen Vorhaben ist § 31 Abs. 1, im Übrigen ist § 31 Abs. 2 entsprechend anzuwenden.
+(2) Entspricht die Eigenart der näheren Umgebung einem der Baugebiete, die in der auf Grund des § 9a erlassenen Verordnung bezeichnet sind, beurteilt sich die Zulässigkeit des Vorhabens nach seiner Art allein danach, ob es nach der Verordnung in dem Baugebiet allgemein zulässig wäre; auf die nach der Verordnung ausnahmsweise zulässigen Vorhaben ist § 31 Absatz 1, im Übrigen ist § 31 Absatz 2 entsprechend anzuwenden.
 
 (3) Von Vorhaben nach Absatz 1 oder 2 dürfen keine schädlichen Auswirkungen auf zentrale Versorgungsbereiche in der Gemeinde oder in anderen Gemeinden zu erwarten sein.
 
@@ -3256,7 +1644,7 @@ einzelne Außenbereichsflächen in die im Zusammenhang bebauten Ortsteile einbez
 
 Die Satzungen können miteinander verbunden werden.
 
-(5) Voraussetzung für die Aufstellung von Satzungen nach Absatz 4 Satz 1 Nr. 2 und 3 ist, dass
+(5) Voraussetzung für die Aufstellung von Satzungen nach Absatz 4 Satz 1 Nummer 2 und 3 ist, dass
 
 1.  
 sie mit einer geordneten städtebaulichen Entwicklung vereinbar sind,
@@ -3267,9 +1655,9 @@ die Zulässigkeit von Vorhaben, die einer Pflicht zur Durchführung einer Umwelt
 3.  
 keine Anhaltspunkte für eine Beeinträchtigung der in § 1 Absatz 6 Nummer 7 Buchstabe b genannten Schutzgüter oder dafür bestehen, dass bei der Planung Pflichten zur Vermeidung oder Begrenzung der Auswirkungen von schweren Unfällen nach § 50 Satz 1 des Bundes-Immissionsschutzgesetzes zu beachten sind.
 
-In den Satzungen nach Absatz 4 Satz 1 Nr. 2 und 3 können einzelne Festsetzungen nach § 9 Abs. 1 und 3 Satz 1 sowie Abs. 4 getroffen werden. § 9 Absatz 6 und § 31 sind entsprechend anzuwenden. Auf die Satzung nach Absatz 4 Satz 1 Nr. 3 sind ergänzend § 1a Abs. 2 und 3 und § 9 Abs. 1a entsprechend anzuwenden; ihr ist eine Begründung mit den Angaben entsprechend § 2a Satz 2 Nr. 1 beizufügen.
+In den Satzungen nach Absatz 4 Satz 1 Nummer 2 und 3 können einzelne Festsetzungen nach § 9 Absatz 1 und 3 Satz 1 sowie Absatz 4 getroffen werden. § 9 Absatz 6 und § 31 sind entsprechend anzuwenden. Auf die Satzung nach Absatz 4 Satz 1 Nummer 3 sind ergänzend § 1a Absatz 2 und 3 und § 9 Absatz 1a entsprechend anzuwenden; ihr ist eine Begründung mit den Angaben entsprechend § 2a Satz 2 Nummer 1 beizufügen.
 
-(6) Bei der Aufstellung der Satzungen nach Absatz 4 Satz 1 Nr. 2 und 3 sind die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung nach § 13 Abs. 2 Satz 1 Nr. 2 und 3 sowie Satz 2 entsprechend anzuwenden. Auf die Satzungen nach Absatz 4 Satz 1 Nr. 1 bis 3 ist § 10 Abs. 3 entsprechend anzuwenden.
+(6) Bei der Aufstellung der Satzungen nach Absatz 4 Satz 1 Nummer 2 und 3 sind die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung nach § 13 Absatz 2 Satz 1 Nummer 2 und 3 sowie Satz 2 entsprechend anzuwenden. Auf die Satzungen nach Absatz 4 Satz 1 Nummer 1 bis 3 ist § 10 Absatz 3 entsprechend anzuwenden.
 
 ### § 35 Bauen im Außenbereich
 
@@ -3291,7 +1679,7 @@ wegen seiner besonderen Anforderungen an die Umgebung, wegen seiner nachteiligen
 der Erforschung, Entwicklung oder Nutzung der Wind- oder Wasserenergie dient,
 
 6.  
-der energetischen Nutzung von Biomasse im Rahmen eines Betriebes nach Nummer 1 oder 2 oder eines Betriebes nach Nummer 4, der Tierhaltung betreibt, sowie dem Anschluss solcher Anlagen an das öffentliche Versorgungsnetz dient, unter folgenden Voraussetzungen:
+der energetischen Nutzung von Biomasse im Rahmen eines Betriebs nach Nummer 1 oder 2 oder eines Betriebs nach Nummer 4, der Tierhaltung betreibt, sowie dem Anschluss solcher Anlagen an das öffentliche Versorgungsnetz dient, unter folgenden Voraussetzungen:
 
 a)  
 das Vorhaben steht in einem räumlich-funktionalen Zusammenhang mit dem Betrieb,
@@ -3339,18 +1727,18 @@ die Entstehung, Verfestigung oder Erweiterung einer Splittersiedlung befürchten
 8.  
 die Funktionsfähigkeit von Funkstellen und Radaranlagen stört.
 
-Raumbedeutsame Vorhaben dürfen den Zielen der Raumordnung nicht widersprechen; öffentliche Belange stehen raumbedeutsamen Vorhaben nach Absatz 1 nicht entgegen, soweit die Belange bei der Darstellung dieser Vorhaben als Ziele der Raumordnung abgewogen worden sind. Öffentliche Belange stehen einem Vorhaben nach Absatz 1 Nr. 2 bis 6 in der Regel auch dann entgegen, soweit hierfür durch Darstellungen im Flächennutzungsplan oder als Ziele der Raumordnung eine Ausweisung an anderer Stelle erfolgt ist.
+Raumbedeutsame Vorhaben dürfen den Zielen der Raumordnung nicht widersprechen; öffentliche Belange stehen raumbedeutsamen Vorhaben nach Absatz 1 nicht entgegen, soweit die Belange bei der Darstellung dieser Vorhaben als Ziele der Raumordnung abgewogen worden sind. Öffentliche Belange stehen einem Vorhaben nach Absatz 1 Nummer 2 bis 6 in der Regel auch dann entgegen, soweit hierfür durch Darstellungen im Flächennutzungsplan oder als Ziele der Raumordnung eine Ausweisung an anderer Stelle erfolgt ist.
 
 (4) Den nachfolgend bezeichneten sonstigen Vorhaben im Sinne des Absatzes 2 kann nicht entgegengehalten werden, dass sie Darstellungen des Flächennutzungsplans oder eines Landschaftsplans widersprechen, die natürliche Eigenart der Landschaft beeinträchtigen oder die Entstehung, Verfestigung oder Erweiterung einer Splittersiedlung befürchten lassen, soweit sie im Übrigen außenbereichsverträglich im Sinne des Absatzes 3 sind:
 
 1.  
-die Änderung der bisherigen Nutzung eines Gebäudes im Sinne des Absatzes 1 Nr. 1 unter folgenden Voraussetzungen:
+die Änderung der bisherigen Nutzung eines Gebäudes im Sinne des Absatzes 1 Nummer 1 unter folgenden Voraussetzungen:
 
 a)  
 das Vorhaben dient einer zweckmäßigen Verwendung erhaltenswerter Bausubstanz,
 
 b)  
-die äußere Gestalt des Gebäudes bleibt im wesentlichen gewahrt,
+die äußere Gestalt des Gebäudes bleibt im Wesentlichen gewahrt,
 
 c)  
 die Aufgabe der bisherigen Nutzung liegt nicht länger als sieben Jahre zurück,
@@ -3362,10 +1750,10 @@ e)
 das Gebäude steht im räumlich-funktionalen Zusammenhang mit der Hofstelle des land- oder forstwirtschaftlichen Betriebs,
 
 f)  
-im Falle der Änderung zu Wohnzwecken entstehen neben den bisher nach Absatz 1 Nr. 1 zulässigen Wohnungen höchstens drei Wohnungen je Hofstelle und
+im Falle der Änderung zu Wohnzwecken entstehen neben den bisher nach Absatz 1 Nummer 1 zulässigen Wohnungen höchstens drei Wohnungen je Hofstelle und
 
 g)  
-es wird eine Verpflichtung übernommen, keine Neubebauung als Ersatz für die aufgegebene Nutzung vorzunehmen, es sei denn, die Neubebauung wird im Interesse der Entwicklung des Betriebs im Sinne des Absatzes 1 Nr. 1 erforderlich,
+es wird eine Verpflichtung übernommen, keine Neubebauung als Ersatz für die aufgegebene Nutzung vorzunehmen, es sei denn, die Neubebauung wird im Interesse der Entwicklung des Betriebs im Sinne des Absatzes 1 Nummer 1 erforderlich,
 
 2.  
 die Neuerrichtung eines gleichartigen Wohngebäudes an gleicher Stelle unter folgenden Voraussetzungen:
@@ -3405,7 +1793,7 @@ die bauliche Erweiterung eines zulässigerweise errichteten gewerblichen Betrieb
 
 In begründeten Einzelfällen gilt die Rechtsfolge des Satzes 1 auch für die Neuerrichtung eines Gebäudes im Sinne des Absatzes 1 Nummer 1, dem eine andere Nutzung zugewiesen werden soll, wenn das ursprüngliche Gebäude vom äußeren Erscheinungsbild auch zur Wahrung der Kulturlandschaft erhaltenswert ist, keine stärkere Belastung des Außenbereichs zu erwarten ist als in Fällen des Satzes 1 und die Neuerrichtung auch mit nachbarlichen Interessen vereinbar ist; Satz 1 Nummer 1 Buchstabe b bis g gilt entsprechend. In den Fällen des Satzes 1 Nummer 2 und 3 sowie des Satzes 2 sind geringfügige Erweiterungen des neuen Gebäudes gegenüber dem beseitigten oder zerstörten Gebäude sowie geringfügige Abweichungen vom bisherigen Standort des Gebäudes zulässig.
 
-(5) Die nach den Absätzen 1 bis 4 zulässigen Vorhaben sind in einer flächensparenden, die Bodenversiegelung auf das notwendige Maß begrenzenden und den Außenbereich schonenden Weise auszuführen. Für Vorhaben nach Absatz 1 Nr. 2 bis 6 ist als weitere Zulässigkeitsvoraussetzung eine Verpflichtungserklärung abzugeben, das Vorhaben nach dauerhafter Aufgabe der zulässigen Nutzung zurückzubauen und Bodenversiegelungen zu beseitigen; bei einer nach Absatz 1 Nr. 2 bis 6 zulässigen Nutzungsänderung ist die Rückbauverpflichtung zu übernehmen, bei einer nach Absatz 1 Nr. 1 oder Absatz 2 zulässigen Nutzungsänderung entfällt sie. Die Baugenehmigungsbehörde soll durch nach Landesrecht vorgesehene Baulast oder in anderer Weise die Einhaltung der Verpflichtung nach Satz 2 sowie nach Absatz 4 Satz 1 Nr. 1 Buchstabe g sicherstellen. Im Übrigen soll sie in den Fällen des Absatzes 4 Satz 1 sicherstellen, dass die bauliche oder sonstige Anlage nach Durchführung des Vorhabens nur in der vorgesehenen Art genutzt wird.
+(5) Die nach den Absätzen 1 bis 4 zulässigen Vorhaben sind in einer flächensparenden, die Bodenversiegelung auf das notwendige Maß begrenzenden und den Außenbereich schonenden Weise auszuführen. Für Vorhaben nach Absatz 1 Nummer 2 bis 6 ist als weitere Zulässigkeitsvoraussetzung eine Verpflichtungserklärung abzugeben, das Vorhaben nach dauerhafter Aufgabe der zulässigen Nutzung zurückzubauen und Bodenversiegelungen zu beseitigen; bei einer nach Absatz 1 Nummer 2 bis 6 zulässigen Nutzungsänderung ist die Rückbauverpflichtung zu übernehmen, bei einer nach Absatz 1 Nummer 1 oder Absatz 2 zulässigen Nutzungsänderung entfällt sie. Die Baugenehmigungsbehörde soll durch nach Landesrecht vorgesehene Baulast oder in anderer Weise die Einhaltung der Verpflichtung nach Satz 2 sowie nach Absatz 4 Satz 1 Nummer 1 Buchstabe g sicherstellen. Im Übrigen soll sie in den Fällen des Absatzes 4 Satz 1 sicherstellen, dass die bauliche oder sonstige Anlage nach Durchführung des Vorhabens nur in der vorgesehenen Art genutzt wird.
 
 (6) Die Gemeinde kann für bebaute Bereiche im Außenbereich, die nicht überwiegend landwirtschaftlich geprägt sind und in denen eine Wohnbebauung von einigem Gewicht vorhanden ist, durch Satzung bestimmen, dass Wohnzwecken dienenden Vorhaben im Sinne des Absatzes 2 nicht entgegengehalten werden kann, dass sie einer Darstellung im Flächennutzungsplan über Flächen für die Landwirtschaft oder Wald widersprechen oder die Entstehung oder Verfestigung einer Splittersiedlung befürchten lassen. Die Satzung kann auch auf Vorhaben erstreckt werden, die kleineren Handwerks- und Gewerbebetrieben dienen. In der Satzung können nähere Bestimmungen über die Zulässigkeit getroffen werden. Voraussetzung für die Aufstellung der Satzung ist, dass
 
@@ -3418,11 +1806,11 @@ die Zulässigkeit von Vorhaben, die einer Pflicht zur Durchführung einer Umwelt
 3.  
 keine Anhaltspunkte für eine Beeinträchtigung der in § 1 Absatz 6 Nummer 7 Buchstabe b genannten Schutzgüter oder dafür bestehen, dass bei der Planung Pflichten zur Vermeidung oder Begrenzung der Auswirkungen von schweren Unfällen nach § 50 Satz 1 des Bundes-Immissionsschutzgesetzes zu beachten sind.
 
-Bei Aufstellung der Satzung sind die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung nach § 13 Abs. 2 Satz 1 Nr. 2 und 3 sowie Satz 2 entsprechend anzuwenden. § 10 Abs. 3 ist entsprechend anzuwenden. Von der Satzung bleibt die Anwendung des Absatzes 4 unberührt.
+Bei Aufstellung der Satzung sind die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung nach § 13 Absatz 2 Satz 1 Nummer 2 und 3 sowie Satz 2 entsprechend anzuwenden. § 10 Absatz 3 ist entsprechend anzuwenden. Von der Satzung bleibt die Anwendung des Absatzes 4 unberührt.
 
 ### § 36 Beteiligung der Gemeinde und der höheren Verwaltungsbehörde
 
-(1) Über die Zulässigkeit von Vorhaben nach den §§ 31, 33 bis 35 wird im bauaufsichtlichen Verfahren von der Baugenehmigungsbehörde im Einvernehmen mit der Gemeinde entschieden. Das Einvernehmen der Gemeinde ist auch erforderlich, wenn in einem anderen Verfahren über die Zulässigkeit nach den in Satz 1 bezeichneten Vorschriften entschieden wird; dies gilt nicht für Vorhaben der in § 29 Abs. 1 bezeichneten Art, die der Bergaufsicht unterliegen. Richtet sich die Zulässigkeit von Vorhaben nach § 30 Abs. 1, stellen die Länder sicher, dass die Gemeinde rechtzeitig vor Ausführung des Vorhabens über Maßnahmen zur Sicherung der Bauleitplanung nach den §§ 14 und 15 entscheiden kann. In den Fällen des § 35 Abs. 2 und 4 kann die Landesregierung durch Rechtsverordnung allgemein oder für bestimmte Fälle festlegen, dass die Zustimmung der höheren Verwaltungsbehörde erforderlich ist.
+(1) Über die Zulässigkeit von Vorhaben nach den §§ 31, 33 bis 35 wird im bauaufsichtlichen Verfahren von der Baugenehmigungsbehörde im Einvernehmen mit der Gemeinde entschieden. Das Einvernehmen der Gemeinde ist auch erforderlich, wenn in einem anderen Verfahren über die Zulässigkeit nach den in Satz 1 bezeichneten Vorschriften entschieden wird; dies gilt nicht für Vorhaben der in § 29 Absatz 1 bezeichneten Art, die der Bergaufsicht unterliegen. Richtet sich die Zulässigkeit von Vorhaben nach § 30 Absatz 1, stellen die Länder sicher, dass die Gemeinde rechtzeitig vor Ausführung des Vorhabens über Maßnahmen zur Sicherung der Bauleitplanung nach den §§ 14 und 15 entscheiden kann. In den Fällen des § 35 Absatz 2 und 4 kann die Landesregierung durch Rechtsverordnung allgemein oder für bestimmte Fälle festlegen, dass die Zustimmung der höheren Verwaltungsbehörde erforderlich ist.
 
 (2) Das Einvernehmen der Gemeinde und die Zustimmung der höheren Verwaltungsbehörde dürfen nur aus den sich aus den §§ 31, 33, 34 und 35 ergebenden Gründen versagt werden. Das Einvernehmen der Gemeinde und die Zustimmung der höheren Verwaltungsbehörde gelten als erteilt, wenn sie nicht binnen zwei Monaten nach Eingang des Ersuchens der Genehmigungsbehörde verweigert werden; dem Ersuchen gegenüber der Gemeinde steht die Einreichung des Antrags bei der Gemeinde gleich, wenn sie nach Landesrecht vorgeschrieben ist. Die nach Landesrecht zuständige Behörde kann ein rechtswidrig versagtes Einvernehmen der Gemeinde ersetzen.
 
@@ -3432,13 +1820,13 @@ Bei Aufstellung der Satzung sind die Vorschriften über die Öffentlichkeits- un
 
 (2) Handelt es sich dabei um Vorhaben, die der Landesverteidigung, dienstlichen Zwecken der Bundespolizei oder dem zivilen Bevölkerungsschutz dienen, ist nur die Zustimmung der höheren Verwaltungsbehörde erforderlich. Vor Erteilung der Zustimmung hat diese die Gemeinde zu hören. Versagt die höhere Verwaltungsbehörde ihre Zustimmung oder widerspricht die Gemeinde dem beabsichtigten Bauvorhaben, entscheidet das zuständige Bundesministerium im Einvernehmen mit den beteiligten Bundesministerien und im Benehmen mit der zuständigen Obersten Landesbehörde.
 
-(3) Entstehen der Gemeinde infolge der Durchführung von Maßnahmen nach den Absätzen 1 und 2 Aufwendungen für Entschädigungen nach diesem Gesetzbuch, sind sie ihr vom Träger der Maßnahmen zu ersetzen. Muß infolge dieser Maßnahmen ein Bebauungsplan aufgestellt, geändert, ergänzt oder aufgehoben werden, sind ihr auch die dadurch entstandenen Kosten zu ersetzen.
+(3) Entstehen der Gemeinde infolge der Durchführung von Maßnahmen nach den Absätzen 1 und 2 Aufwendungen für Entschädigungen nach diesem Gesetzbuch, sind sie ihr vom Träger der Maßnahmen zu ersetzen. Muss infolge dieser Maßnahmen ein Bebauungsplan aufgestellt, geändert, ergänzt oder aufgehoben werden, sind ihr auch die dadurch entstandenen Kosten zu ersetzen.
 
-(4) Sollen bauliche Anlagen auf Grundstücken errichtet werden, die nach dem Landbeschaffungsgesetz beschafft werden, sind in dem Verfahren nach § 1 Abs. 2 des Landbeschaffungsgesetzes alle von der Gemeinde oder der höheren Verwaltungsbehörde nach den Absätzen 1 und 2 zulässigen Einwendungen abschließend zu erörtern. Eines Verfahrens nach Absatz 2 bedarf es in diesem Fall nicht.
+(4) Sollen bauliche Anlagen auf Grundstücken errichtet werden, die nach dem Landbeschaffungsgesetz beschafft werden, sind in dem Verfahren nach § 1 Absatz 2 des Landbeschaffungsgesetzes alle von der Gemeinde oder der höheren Verwaltungsbehörde nach den Absätzen 1 und 2 zulässigen Einwendungen abschließend zu erörtern. Eines Verfahrens nach Absatz 2 bedarf es in diesem Falle nicht.
 
 ### § 38 Bauliche Maßnahmen von überörtlicher Bedeutung auf Grund von Planfeststellungsverfahren; öffentlich zugängliche Abfallbeseitigungsanlagen
 
-Auf Planfeststellungsverfahren und sonstige Verfahren mit den Rechtswirkungen der Planfeststellung für Vorhaben von überörtlicher Bedeutung sowie auf die auf Grund des Bundes-Immissionsschutzgesetzes für die Errichtung und den Betrieb öffentlich zugänglicher Abfallbeseitigungsanlagen geltenden Verfahren sind die §§ 29 bis 37 nicht anzuwenden, wenn die Gemeinde beteiligt wird; städtebauliche Belange sind zu berücksichtigen. Eine Bindung nach § 7 bleibt unberührt. § 37 Abs. 3 ist anzuwenden.
+Auf Planfeststellungsverfahren und sonstige Verfahren mit den Rechtswirkungen der Planfeststellung für Vorhaben von überörtlicher Bedeutung sowie auf die auf Grund des Bundes-Immissionsschutzgesetzes für die Errichtung und den Betrieb öffentlich zugänglicher Abfallbeseitigungsanlagen geltenden Verfahren sind die §§ 29 bis 37 nicht anzuwenden, wenn die Gemeinde beteiligt wird; städtebauliche Belange sind zu berücksichtigen. Eine Bindung nach § 7 bleibt unberührt. § 37 Absatz 3 ist anzuwenden.
 
 Zweiter Abschnitt Entschädigung
 -------------------------------
@@ -3495,7 +1883,7 @@ Wasserflächen, Flächen für die Wasserwirtschaft, Flächen für Hochwasserschu
 14.  
 Flächen zum Schutz, zur Pflege und zur Entwicklung von Boden, Natur und Landschaft
 
-festgesetzt, ist der Eigentümer nach Maßgabe der folgenden Absätze zu entschädigen, soweit ihm Vermögensnachteile entstehen. Dies gilt in den Fällen des Satzes 1 Nr. 1 in Bezug auf Flächen für Sport- und Spielanlagen sowie des Satzes 1 Nr. 4 und 10 bis 14 nicht, soweit die Festsetzungen oder ihre Durchführung den Interessen des Eigentümers oder der Erfüllung einer ihm obliegenden Rechtspflicht dienen.
+festgesetzt, ist der Eigentümer nach Maßgabe der folgenden Absätze zu entschädigen, soweit ihm Vermögensnachteile entstehen. Dies gilt in den Fällen des Satzes 1 Nummer 1 in Bezug auf Flächen für Sport- und Spielanlagen sowie des Satzes 1 Nummer 4 und 10 bis 14 nicht, soweit die Festsetzungen oder ihre Durchführung den Interessen des Eigentümers oder der Erfüllung einer ihm obliegenden Rechtspflicht dienen.
 
 (2) Der Eigentümer kann die Übernahme der Flächen verlangen,
 
@@ -3505,13 +1893,13 @@ wenn und soweit es ihm mit Rücksicht auf die Festsetzung oder Durchführung des
 2.  
 wenn Vorhaben nach § 32 nicht ausgeführt werden dürfen und dadurch die bisherige Nutzung einer baulichen Anlage aufgehoben oder wesentlich herabgesetzt wird.
 
-Der Eigentümer kann an Stelle der Übernahme die Begründung von Miteigentum oder eines geeigneten Rechts verlangen, wenn die Verwirklichung des Bebauungsplans nicht die Entziehung des Eigentums erfordert.
+Der Eigentümer kann anstelle der Übernahme die Begründung von Miteigentum oder eines geeigneten Rechts verlangen, wenn die Verwirklichung des Bebauungsplans nicht die Entziehung des Eigentums erfordert.
 
 (3) Dem Eigentümer ist eine angemessene Entschädigung in Geld zu leisten, wenn und soweit Vorhaben nach § 32 nicht ausgeführt werden dürfen und dadurch die bisherige Nutzung seines Grundstücks wirtschaftlich erschwert wird. Sind die Voraussetzungen des Übernahmeanspruchs nach Absatz 2 gegeben, kann nur dieser Anspruch geltend gemacht werden. Der zur Entschädigung Verpflichtete kann den Entschädigungsberechtigten auf den Übernahmeanspruch verweisen, wenn das Grundstück für den im Bebauungsplan festgesetzten Zweck alsbald benötigt wird.
 
 ### § 41 Entschädigung bei Begründung von Geh-, Fahr- und Leitungsrechten und bei Bindungen für Bepflanzungen
 
-(1) Sind im Bebauungsplan Flächen festgesetzt, die mit Geh-, Fahr- und Leitungsrechten zu belasten sind, kann der Eigentümer unter den Voraussetzungen des § 40 Abs. 2 verlangen, dass an diesen Flächen einschließlich der für die Leitungsführungen erforderlichen Schutzstreifen das Recht zugunsten des in § 44 Abs. 1 und 2 Bezeichneten begründet wird. Dies gilt nicht für die Verpflichtung zur Duldung solcher örtlichen Leitungen, die der Erschließung und Versorgung des Grundstücks dienen. Weitergehende Rechtsvorschriften, nach denen der Eigentümer zur Duldung von Versorgungsleitungen verpflichtet ist, bleiben unberührt.
+(1) Sind im Bebauungsplan Flächen festgesetzt, die mit Geh-, Fahr- und Leitungsrechten zu belasten sind, kann der Eigentümer unter den Voraussetzungen des § 40 Absatz 2 verlangen, dass an diesen Flächen einschließlich der für die Leitungsführungen erforderlichen Schutzstreifen das Recht zugunsten des in § 44 Absatz 1 und 2 Bezeichneten begründet wird. Dies gilt nicht für die Verpflichtung zur Duldung solcher örtlichen Leitungen, die der Erschließung und Versorgung des Grundstücks dienen. Weitergehende Rechtsvorschriften, nach denen der Eigentümer zur Duldung von Versorgungsleitungen verpflichtet ist, bleiben unberührt.
 
 (2) Sind im Bebauungsplan Bindungen für Bepflanzungen und für die Erhaltung von Bäumen, Sträuchern, sonstigen Bepflanzungen und Gewässern sowie das Anpflanzen von Bäumen, Sträuchern und sonstigen Bepflanzungen festgesetzt, ist dem Eigentümer eine angemessene Entschädigung in Geld zu leisten, wenn und soweit infolge dieser Festsetzungen
 
@@ -3539,7 +1927,7 @@ eine wesentliche Wertminderung des Grundstücks eintritt.
 
 (8) In den Fällen der Absätze 5 bis 7 besteht der Anspruch auf Entschädigung nicht, wenn der Eigentümer nicht bereit oder nicht in der Lage war, das beabsichtigte Vorhaben zu verwirklichen. Der Eigentümer hat die Tatsachen darzulegen, die seine Bereitschaft und Möglichkeiten, das Vorhaben zu verwirklichen, aufzeigen.
 
-(9) Wird die zulässige Nutzung eines Grundstücks aufgehoben, besteht auch der Übernahmeanspruch nach § 40 Abs. 2 Satz 1 Nr. 1.
+(9) Wird die zulässige Nutzung eines Grundstücks aufgehoben, besteht auch der Übernahmeanspruch nach § 40 Absatz 2 Satz 1 Nummer 1.
 
 (10) Die Gemeinde hat dem Eigentümer auf Verlangen Auskunft zu erteilen, ob ein sich aus Absatz 2 ergebender vermögensrechtlicher Schutz der zulässigen Nutzung für sein Grundstück besteht und wann dieser durch Ablauf der in Absatz 2 bezeichneten Frist endet.
 
@@ -3549,7 +1937,7 @@ eine wesentliche Wertminderung des Grundstücks eintritt.
 
 (2) Ist die Entschädigung in Geld zu leisten und kommt eine Einigung über die Geldentschädigung nicht zustande, entscheidet die höhere Verwaltungsbehörde. Die Vorschriften über die Entschädigung im Zweiten Abschnitt des Fünften Teils sowie § 121 gelten entsprechend. Für Bescheide über die Festsetzung der zu zahlenden Geldentschädigung gilt § 122 entsprechend.
 
-(3) Liegen die Voraussetzungen der §§ 40 und 41 Abs. 1 vor, ist eine Entschädigung nur nach diesen Vorschriften zu gewähren. In den Fällen der §§ 40 und 41 sind solche Wertminderungen nicht zu berücksichtigen, die bei Anwendung des § 42 nicht zu entschädigen wären.
+(3) Liegen die Voraussetzungen der §§ 40 und 41 Absatz 1 vor, ist eine Entschädigung nur nach diesen Vorschriften zu gewähren. In den Fällen der §§ 40 und 41 sind solche Wertminderungen nicht zu berücksichtigen, die bei Anwendung des § 42 nicht zu entschädigen wären.
 
 (4) Bodenwerte sind nicht zu entschädigen, soweit sie darauf beruhen, dass
 
@@ -3557,9 +1945,9 @@ eine wesentliche Wertminderung des Grundstücks eintritt.
 die zulässige Nutzung auf dem Grundstück den allgemeinen Anforderungen an gesunde Wohn- und Arbeitsverhältnisse oder an die Sicherheit der auf dem Grundstück oder im umliegenden Gebiet wohnenden oder arbeitenden Menschen nicht entspricht oder
 
 2.  
-in einem Gebiet städtebauliche Missstände im Sinne des § 136 Abs. 2 und 3 bestehen und die Nutzung des Grundstücks zu diesen Missständen wesentlich beiträgt.
+in einem Gebiet städtebauliche Missstände im Sinne des § 136 Absatz 2 und 3 bestehen und die Nutzung des Grundstücks zu diesen Missständen wesentlich beiträgt.
 
-(5) Nach Vorliegen der Entschädigungsvoraussetzungen bleiben Werterhöhungen unberücksichtigt, die eingetreten sind, nachdem der Entschädigungsberechtigte in der Lage war, den Antrag auf Festsetzung der Entschädigung in Geld zu stellen, oder ein Angebot des Entschädigungspflichtigen, die Entschädigung in Geld in angemessener Höhe zu leisten, abgelehnt hat. Hat der Entschädigungsberechtigte den Antrag auf Übernahme des Grundstücks oder Begründung eines geeigneten Rechts gestellt und hat der Entschädigungspflichtige daraufhin ein Angebot auf Übernahme des Grundstücks oder Begründung des Rechts zu angemessenen Bedingungen gemacht, gilt § 95 Abs. 2 Nr. 3 entsprechend.
+(5) Nach Vorliegen der Entschädigungsvoraussetzungen bleiben Werterhöhungen unberücksichtigt, die eingetreten sind, nachdem der Entschädigungsberechtigte in der Lage war, den Antrag auf Festsetzung der Entschädigung in Geld zu stellen, oder ein Angebot des Entschädigungspflichtigen, die Entschädigung in Geld in angemessener Höhe zu leisten, abgelehnt hat. Hat der Entschädigungsberechtigte den Antrag auf Übernahme des Grundstücks oder Begründung eines geeigneten Rechts gestellt und hat der Entschädigungspflichtige daraufhin ein Angebot auf Übernahme des Grundstücks oder Begründung des Rechts zu angemessenen Bedingungen gemacht, gilt § 95 Absatz 2 Nummer 3 entsprechend.
 
 ### § 44 Entschädigungspflichtige, Fälligkeit und Erlöschen der Entschädigungsansprüche
 
@@ -3567,11 +1955,11 @@ in einem Gebiet städtebauliche Missstände im Sinne des § 136 Abs. 2 und 3 bes
 
 (2) Dient die Festsetzung der Beseitigung oder Minderung von Auswirkungen, die von der Nutzung eines Grundstücks ausgehen, ist der Eigentümer zur Entschädigung verpflichtet, wenn er mit der Festsetzung einverstanden war. Ist der Eigentümer auf Grund anderer gesetzlicher Vorschriften verpflichtet, Auswirkungen, die von der Nutzung seines Grundstücks ausgehen, zu beseitigen oder zu mindern, ist er auch ohne Einverständnis zur Entschädigung verpflichtet, soweit er durch die Festsetzung Aufwendungen erspart. Erfüllt der Eigentümer seine Verpflichtungen nicht, gilt Absatz 1 Satz 3 entsprechend. Die Gemeinde soll den Eigentümer anhören, bevor sie Festsetzungen trifft, die zu einer Entschädigung nach Satz 1 oder 2 führen können.
 
-(3) Der Entschädigungsberechtigte kann Entschädigung verlangen, wenn die in den §§ 39 bis 42 bezeichneten Vermögensnachteile eingetreten sind. Er kann die Fälligkeit des Anspruchs dadurch herbeiführen, dass er die Leistung der Entschädigung schriftlich bei dem Entschädigungspflichtigen beantragt. Entschädigungsleistungen in Geld sind ab Fälligkeit mit 2 vom Hundert über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich zu verzinsen. Ist Entschädigung durch Übernahme des Grundstücks zu leisten, findet auf die Verzinsung § 99 Abs. 3 Anwendung.
+(3) Der Entschädigungsberechtigte kann Entschädigung verlangen, wenn die in den §§ 39 bis 42 bezeichneten Vermögensnachteile eingetreten sind. Er kann die Fälligkeit des Anspruchs dadurch herbeiführen, dass er die Leistung der Entschädigung schriftlich bei dem Entschädigungspflichtigen beantragt. Entschädigungsleistungen in Geld sind ab Fälligkeit mit 2 vom Hundert über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich zu verzinsen. Ist Entschädigung durch Übernahme des Grundstücks zu leisten, findet auf die Verzinsung § 99 Absatz 3 Anwendung.
 
-(4) Ein Entschädigungsanspruch erlischt, wenn nicht innerhalb von drei Jahren nach Ablauf des Kalenderjahrs, in dem die in Absatz 3 Satz 1 bezeichneten Vermögensnachteile eingetreten sind, die Fälligkeit des Anspruchs herbeigeführt wird.
+(4) Ein Entschädigungsanspruch erlischt, wenn nicht innerhalb von drei Jahren nach Ablauf des Kalenderjahres, in dem die in Absatz 3 Satz 1 bezeichneten Vermögensnachteile eingetreten sind, die Fälligkeit des Anspruchs herbeigeführt wird.
 
-(5) In der Bekanntmachung nach § 10 Abs. 3 ist auf die Vorschriften des Absatzes 3 Satz 1 und 2 sowie des Absatzes 4 hinzuweisen.
+(5) In der Bekanntmachung nach § 10 Absatz 3 ist auf die Vorschriften des Absatzes 3 Satz 1 und 2 sowie des Absatzes 4 hinzuweisen.
 
 Vierter Teil Bodenordnung
 -------------------------
@@ -3591,7 +1979,7 @@ Zur Erschließung oder Neugestaltung von Gebieten können bebaute und unbebaute 
 im Geltungsbereich eines Bebauungsplans im Sinne des § 30 oder
 
 2.  
-innerhalb eines im Zusammenhang bebauten Ortsteils im Sinne des § 34, wenn sich aus der Eigenart der näheren Umgebung oder einem einfachen Bebauungsplan im Sinne des § 30 Abs. 3 hinreichende Kriterien für die Neuordnung der Grundstücke ergeben,
+innerhalb eines im Zusammenhang bebauten Ortsteils im Sinne des § 34, wenn sich aus der Eigenart der näheren Umgebung oder einem einfachen Bebauungsplan im Sinne des § 30 Absatz 3 hinreichende Kriterien für die Neuordnung der Grundstücke ergeben,
 
 durchgeführt werden.
 
@@ -3620,13 +2008,13 @@ dass die Flurbereinigungsbehörde oder eine andere geeignete Behörde verpflicht
 
 (4) Die Gemeinde kann ihre Befugnis zur Durchführung der Umlegung auf die Flurbereinigungsbehörde oder eine andere geeignete Behörde für das Gemeindegebiet oder Teile des Gemeindegebiets übertragen. Die Einzelheiten der Übertragung einschließlich der Mitwirkungsrechte der Gemeinde können in einer Vereinbarung zwischen ihr und der die Umlegung durchführenden Behörde geregelt werden. Die Gemeinde kann die Vorbereitung der im Umlegungsverfahren zu treffenden Entscheidungen sowie die zur Durchführung der Umlegung erforderlichen vermessungs- und katastertechnischen Aufgaben öffentlich bestellten Vermessungsingenieuren übertragen.
 
-(5) Die Gemeinde kann dem Umlegungsausschuss für einzelne Fälle oder bestimmte Gebiete die Befugnis zur Ausübung eines ihr nach § 24 Abs. 1 Satz 1 Nr. 2 zustehenden Vorkaufsrechts übertragen; die Gemeinde kann die Übertragung jederzeit widerrufen. Das Recht der Gemeinde, nach der Übertragung ein Vorkaufsrecht zu anderen als Umlegungszwecken auszuüben, bleibt unberührt. Ansprüche Dritter werden durch die Sätze 1 und 2 nicht begründet.
+(5) Die Gemeinde kann dem Umlegungsausschuss für einzelne Fälle oder bestimmte Gebiete die Befugnis zur Ausübung eines ihr nach § 24 Absatz 1 Satz 1 Nummer 2 zustehenden Vorkaufsrechts übertragen; die Gemeinde kann die Übertragung jederzeit widerrufen. Das Recht der Gemeinde, nach der Übertragung ein Vorkaufsrecht zu anderen als Umlegungszwecken auszuüben, bleibt unberührt. Ansprüche Dritter werden durch die Sätze 1 und 2 nicht begründet.
 
 ### § 47 Umlegungsbeschluss
 
 (1) Die Umlegung wird nach Anhörung der Eigentümer durch einen Beschluss der Umlegungsstelle eingeleitet. Im Umlegungsbeschluss ist das Umlegungsgebiet (§ 52) zu bezeichnen. Die im Umlegungsgebiet gelegenen Grundstücke sind einzeln aufzuführen.
 
-(2) Soll die Umlegung für den Geltungsbereich eines Bebauungsplans eingeleitet werden, kann das Umlegungsverfahren auch eingeleitet werden, wenn der Bebauungsplan noch nicht aufgestellt ist. In diesem Fall muss der Bebauungsplan vor dem Beschluss über die Aufstellung des Umlegungsplans (§ 66 Abs. 1) in Kraft getreten sein.
+(2) Soll die Umlegung für den Geltungsbereich eines Bebauungsplans eingeleitet werden, kann das Umlegungsverfahren auch eingeleitet werden, wenn der Bebauungsplan noch nicht aufgestellt ist. In diesem Falle muss der Bebauungsplan vor dem Beschluss über die Aufstellung des Umlegungsplans (§ 66 Absatz 1) in Kraft getreten sein.
 
 ### § 48 Beteiligte
 
@@ -3645,12 +2033,12 @@ die Inhaber eines nicht im Grundbuch eingetragenen Rechts an dem Grundstück ode
 die Gemeinde,
 
 5.  
-unter den Voraussetzungen des § 55 Abs. 5 die Bedarfsträger und
+unter den Voraussetzungen des § 55 Absatz 5 die Bedarfsträger und
 
 6.  
 die Erschließungsträger.
 
-(2) Die in Absatz 1 Nr. 3 bezeichneten Personen werden zu dem Zeitpunkt Beteiligte, in dem die Anmeldung ihres Rechts der Umlegungsstelle zugeht. Die Anmeldung kann bis zur Beschlussfassung über den Umlegungsplan (§ 66 Abs. 1) erfolgen.
+(2) Die in Absatz 1 Nummer 3 bezeichneten Personen werden zu dem Zeitpunkt Beteiligte, in dem die Anmeldung ihres Rechts der Umlegungsstelle zugeht. Die Anmeldung kann bis zur Beschlussfassung über den Umlegungsplan (§ 66 Absatz 1) erfolgen.
 
 (3) Bestehen Zweifel an einem angemeldeten Recht, so hat die Umlegungsstelle dem Anmeldenden unverzüglich eine Frist zur Glaubhaftmachung seines Rechts zu setzen. Nach fruchtlosem Ablauf der Frist ist er bis zur Glaubhaftmachung seines Rechts nicht mehr zu beteiligen.
 
@@ -3666,7 +2054,7 @@ Wechselt die Person eines Beteiligten während eines Umlegungsverfahrens, so tri
 
 (2) Die Bekanntmachung des Umlegungsbeschlusses hat die Aufforderung zu enthalten, innerhalb eines Monats Rechte, die aus dem Grundbuch nicht ersichtlich sind, aber zur Beteiligung am Umlegungsverfahren berechtigen, bei der Umlegungsstelle anzumelden.
 
-(3) Werden Rechte erst nach Ablauf der in Absatz 2 bezeichneten Frist angemeldet oder nach Ablauf der in § 48 Abs. 3 gesetzten Frist glaubhaft gemacht, so muss ein Berechtigter die bisherigen Verhandlungen und Festsetzungen gegen sich gelten lassen, wenn die Umlegungsstelle dies bestimmt.
+(3) Werden Rechte erst nach Ablauf der in Absatz 2 bezeichneten Frist angemeldet oder nach Ablauf der in § 48 Absatz 3 gesetzten Frist glaubhaft gemacht, so muss ein Berechtigter die bisherigen Verhandlungen und Festsetzungen gegen sich gelten lassen, wenn die Umlegungsstelle dies bestimmt.
 
 (4) Der Inhaber eines in Absatz 2 bezeichneten Rechts muss die Wirkung eines vor der Anmeldung eingetretenen Fristablaufs ebenso gegen sich gelten lassen wie der Beteiligte, dem gegenüber die Frist durch Bekanntmachung des Verwaltungsakts zuerst in Lauf gesetzt worden ist.
 
@@ -3692,11 +2080,11 @@ Einer Genehmigung nach Satz 1 bedarf es im förmlich festgelegten Sanierungsgebi
 
 (2) Vorhaben, die vor dem Inkrafttreten der Veränderungssperre baurechtlich genehmigt worden sind, Vorhaben, von denen die Gemeinde nach Maßgabe des Bauordnungsrechts Kenntnis erlangt hat und mit deren Ausführung vor dem Inkrafttreten der Veränderungssperre hätte begonnen werden dürfen, sowie Unterhaltungsarbeiten und die Fortführung einer bisher ausgeübten Nutzung werden von der Veränderungssperre nicht berührt.
 
-(3) Die Genehmigung darf nur versagt werden, wenn Grund zu der Annahme besteht, dass das Vorhaben die Durchführung der Umlegung unmöglich machen oder wesentlich erschweren würde. § 22 Abs. 5 Satz 2 bis 5 ist entsprechend anzuwenden.
+(3) Die Genehmigung darf nur versagt werden, wenn Grund zu der Annahme besteht, dass das Vorhaben die Durchführung der Umlegung unmöglich machen oder wesentlich erschweren würde. § 22 Absatz 5 Satz 2 bis 5 ist entsprechend anzuwenden.
 
 (4) Die Genehmigung kann unter Auflagen und außer bei Verfügungen über Grundstücke und über Rechte an Grundstücken auch unter Bedingungen oder Befristungen erteilt werden. Wird die Genehmigung unter Auflagen, Bedingungen oder Befristungen erteilt, ist die hierdurch betroffene Vertragspartei berechtigt, bis zum Ablauf eines Monats nach Unanfechtbarkeit der Entscheidung vom Vertrag zurückzutreten. Auf das Rücktrittsrecht sind die §§ 346 bis 349 und 351 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden.
 
-(5) Überträgt der Umlegungsausschuss auf Grund einer Verordnung nach § 46 Abs. 2 Nr. 3 der dort bezeichneten Stelle Entscheidungen über Vorgänge nach Absatz 1, unterliegt diese Stelle seinen Weisungen; bei Einlegung von Rechtsbehelfen tritt der Umlegungsausschuss an ihre Stelle. Der Umlegungsausschuss kann die Übertragung jederzeit widerrufen.
+(5) Überträgt der Umlegungsausschuss auf Grund einer Verordnung nach § 46 Absatz 2 Nummer 3 der dort bezeichneten Stelle Entscheidungen über Vorgänge nach Absatz 1, unterliegt diese Stelle seinen Weisungen; bei Einlegung von Rechtsbehelfen tritt der Umlegungsausschuss an ihre Stelle. Der Umlegungsausschuss kann die Übertragung jederzeit widerrufen.
 
 ### § 52 Umlegungsgebiet
 
@@ -3704,7 +2092,7 @@ Einer Genehmigung nach Satz 1 bedarf es im förmlich festgelegten Sanierungsgebi
 
 (2) Einzelne Grundstücke, die die Durchführung der Umlegung erschweren, können von der Umlegung ganz oder teilweise ausgenommen werden.
 
-(3) Unwesentliche Änderungen des Umlegungsgebiets können bis zum Beschluss über die Aufstellung des Umlegungsplans (§ 66 Abs. 1) von der Umlegungsstelle nach vorheriger Anhörung der Eigentümer der betroffenen Grundstücke auch ohne ortsübliche Bekanntmachung vorgenommen werden. Die Änderung wird mit ihrer Bekanntgabe an die Eigentümer der betroffenen Grundstücke wirksam.
+(3) Unwesentliche Änderungen des Umlegungsgebiets können bis zum Beschluss über die Aufstellung des Umlegungsplans (§ 66 Absatz 1) von der Umlegungsstelle nach vorheriger Anhörung der Eigentümer der betroffenen Grundstücke auch ohne ortsübliche Bekanntmachung vorgenommen werden. Die Änderung wird mit ihrer Bekanntgabe an die Eigentümer der betroffenen Grundstücke wirksam.
 
 ### § 53 Bestandskarte und Bestandsverzeichnis
 
@@ -3719,17 +2107,17 @@ die grundbuch- und katastermäßige Bezeichnung, die Größe und die im Liegensc
 3.  
 die im Grundbuch in Abteilung II eingetragenen Lasten und Beschränkungen.
 
-(2) Die Bestandskarte und die in Absatz 1 Satz 3 Nr. 1 und 2 bezeichneten Teile des Bestandsverzeichnisses sind auf die Dauer eines Monats in der Gemeinde öffentlich auszulegen. Ort und Dauer der Auslegung sind mindestens eine Woche vor der Auslegung ortsüblich bekannt zu machen.
+(2) Die Bestandskarte und die in Absatz 1 Satz 3 Nummer 1 und 2 bezeichneten Teile des Bestandsverzeichnisses sind auf die Dauer eines Monats in der Gemeinde öffentlich auszulegen. Ort und Dauer der Auslegung sind mindestens eine Woche vor der Auslegung ortsüblich bekannt zu machen.
 
-(3) Betrifft die Umlegung nur wenige Grundstücke, so genügt an Stelle der ortsüblichen Bekanntmachung die Mitteilung an die Eigentümer und die Inhaber sonstiger Rechte, soweit sie aus dem Grundbuch ersichtlich sind oder ihr Recht bei der Umlegungsstelle angemeldet haben.
+(3) Betrifft die Umlegung nur wenige Grundstücke, so genügt anstelle der ortsüblichen Bekanntmachung die Mitteilung an die Eigentümer und die Inhaber sonstiger Rechte, soweit sie aus dem Grundbuch ersichtlich sind oder ihr Recht bei der Umlegungsstelle angemeldet haben.
 
-(4) In den in Absatz 1 Satz 3 Nr. 3 bezeichneten Teil des Bestandsverzeichnisses ist die Einsicht jedem gestattet, der ein berechtigtes Interesse darlegt.
+(4) In den in Absatz 1 Satz 3 Nummer 3 bezeichneten Teil des Bestandsverzeichnisses ist die Einsicht jedem gestattet, der ein berechtigtes Interesse darlegt.
 
 ### § 54 Benachrichtigungen und Umlegungsvermerk
 
 (1) Die Umlegungsstelle teilt dem Grundbuchamt und der für die Führung des Liegenschaftskatasters zuständigen Stelle die Einleitung (§ 47) des Umlegungsverfahrens und die nachträglichen Änderungen des Umlegungsgebiets (§ 52) mit. Das Grundbuchamt hat in die Grundbücher der umzulegenden Grundstücke einzutragen, dass das Umlegungsverfahren eingeleitet ist (Umlegungsvermerk).
 
-(2) Das Grundbuchamt und die für die Führung des Liegenschaftskatasters zuständige Stelle haben die Umlegungsstelle von allen Eintragungen zu benachrichtigen, die nach dem Zeitpunkt der Einleitung des Umlegungsverfahrens im Grundbuch der betroffenen Grundstücke und im Liegenschaftskataster vorgenommen sind oder vorgenommen werden. § 22 Abs. 6 ist entsprechend anzuwenden.
+(2) Das Grundbuchamt und die für die Führung des Liegenschaftskatasters zuständige Stelle haben die Umlegungsstelle von allen Eintragungen zu benachrichtigen, die nach dem Zeitpunkt der Einleitung des Umlegungsverfahrens im Grundbuch der betroffenen Grundstücke und im Liegenschaftskataster vorgenommen sind oder vorgenommen werden. § 22 Absatz 6 ist entsprechend anzuwenden.
 
 (3) Ist im Grundbuch die Anordnung der Zwangsversteigerung oder Zwangsverwaltung eingetragen, so gibt die Umlegungsstelle dem Vollstreckungsgericht von dem Umlegungsbeschluss Kenntnis, soweit dieser das Grundstück betrifft, das Gegenstand des Vollstreckungsverfahrens ist.
 
@@ -3745,13 +2133,13 @@ die im Grundbuch in Abteilung II eingetragenen Lasten und Beschränkungen.
 2.  
 Flächen für Parkplätze, Grünanlagen einschließlich Kinderspielplätze und Anlagen zum Schutz gegen schädliche Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes, soweit sie nicht schon Bestandteil der in Nummer 1 genannten Verkehrsanlagen sind, sowie für Regenklär- und Regenüberlaufbecken, wenn die Flächen überwiegend den Bedürfnissen der Bewohner des Umlegungsgebiets dienen sollen.
 
-Zu den vorweg auszuscheidenden Flächen gehören auch die Flächen zum Ausgleich im Sinne des § 1a Abs. 3 für die in Satz 1 genannten Anlagen. Grünflächen nach Satz 1 Nr. 2 können auch bauflächenbedingte Flächen zum Ausgleich im Sinne des § 1a Abs. 3 umfassen.
+Zu den vorweg auszuscheidenden Flächen gehören auch die Flächen zum Ausgleich im Sinne des § 1a Absatz 3 für die in Satz 1 genannten Anlagen. Grünflächen nach Satz 1 Nummer 2 können auch bauflächenbedingte Flächen zum Ausgleich im Sinne des § 1a Absatz 3 umfassen.
 
 (3) Mit der Zuteilung ist die Gemeinde oder der sonstige Erschließungsträger für von ihnen in die Umlegungsmasse eingeworfene Flächen nach Absatz 2 abgefunden.
 
 (4) Die verbleibende Masse ist die Verteilungsmasse.
 
-(5) Sonstige Flächen, für die nach dem Bebauungsplan eine Nutzung für öffentliche Zwecke festgesetzt ist, können einschließlich der Flächen zum Ausgleich im Sinne des § 1a Abs. 3 ausgeschieden und dem Bedarfs- oder Erschließungsträger zugeteilt werden, wenn dieser geeignetes Ersatzland, das auch außerhalb des Umlegungsgebiets liegen kann, in die Verteilungsmasse einbringt. Die Umlegungsstelle soll von dieser Befugnis Gebrauch machen, wenn dies zur alsbaldigen Durchführung des Bebauungsplans zweckmäßig ist.
+(5) Sonstige Flächen, für die nach dem Bebauungsplan eine Nutzung für öffentliche Zwecke festgesetzt ist, können einschließlich der Flächen zum Ausgleich im Sinne des § 1a Absatz 3 ausgeschieden und dem Bedarfs- oder Erschließungsträger zugeteilt werden, wenn dieser geeignetes Ersatzland, das auch außerhalb des Umlegungsgebiets liegen kann, in die Verteilungsmasse einbringt. Die Umlegungsstelle soll von dieser Befugnis Gebrauch machen, wenn dies zur alsbaldigen Durchführung des Bebauungsplans zweckmäßig ist.
 
 ### § 56 Verteilungsmaßstab
 
@@ -3761,11 +2149,11 @@ Zu den vorweg auszuscheidenden Flächen gehören auch die Flächen zum Ausgleich
 
 ### § 57 Verteilung nach Werten
 
-Geht die Umlegungsstelle von dem Verhältnis der Werte aus, so wird die Verteilungsmasse in dem Verhältnis verteilt, in dem die zu berücksichtigenden Eigentümer an der Umlegung beteiligt sind. Jedem Eigentümer soll ein Grundstück mindestens mit dem Verkehrswert zugeteilt werden, den sein früheres Grundstück auch unter Berücksichtigung der Pflicht zur Bereitstellung von Flächen zum Ausgleich im Sinne des § 1a Abs. 3 im Zeitpunkt des Umlegungsbeschlusses hatte. Für die zuzuteilenden Grundstücke ist der Verkehrswert, bezogen auf den Zeitpunkt des Umlegungsbeschlusses, zu ermitteln. Dabei sind Wertänderungen, die durch die Umlegung bewirkt werden, zu berücksichtigen; sollen Grundstücke in Bezug auf Flächen nach § 55 Abs. 2 erschließungsbeitragspflichtig zugeteilt werden, bleiben Wertänderungen insoweit unberücksichtigt. Unterschiede zwischen den so ermittelten Verkehrswerten sind in Geld auszugleichen.
+Geht die Umlegungsstelle von dem Verhältnis der Werte aus, so wird die Verteilungsmasse in dem Verhältnis verteilt, in dem die zu berücksichtigenden Eigentümer an der Umlegung beteiligt sind. Jedem Eigentümer soll ein Grundstück mindestens mit dem Verkehrswert zugeteilt werden, den sein früheres Grundstück auch unter Berücksichtigung der Pflicht zur Bereitstellung von Flächen zum Ausgleich im Sinne des § 1a Absatz 3 im Zeitpunkt des Umlegungsbeschlusses hatte. Für die zuzuteilenden Grundstücke ist der Verkehrswert, bezogen auf den Zeitpunkt des Umlegungsbeschlusses, zu ermitteln. Dabei sind Wertänderungen, die durch die Umlegung bewirkt werden, zu berücksichtigen; sollen Grundstücke in Bezug auf Flächen nach § 55 Absatz 2 erschließungsbeitragspflichtig zugeteilt werden, bleiben Wertänderungen insoweit unberücksichtigt. Unterschiede zwischen den so ermittelten Verkehrswerten sind in Geld auszugleichen.
 
 ### § 58 Verteilung nach Flächen
 
-(1) Geht die Umlegungsstelle von dem Verhältnis der Flächen aus, hat sie von den eingeworfenen Grundstücken unter Anrechnung des Flächenabzugs nach § 55 Abs. 2 einen Flächenbeitrag in einem solchen Umfang abzuziehen, dass die Vorteile ausgeglichen werden, die durch die Umlegung erwachsen; dabei bleiben in den Fällen des § 57 Satz 4 Halbsatz 2 die Vorteile insoweit unberücksichtigt. Der Flächenbeitrag darf in Gebieten, die erstmalig erschlossen werden, nur bis zu 30 vom Hundert, in anderen Gebieten nur bis zu 10 vom Hundert der eingeworfenen Fläche betragen. Die Umlegungsstelle kann statt eines Flächenbeitrags ganz oder teilweise einen entsprechenden Geldbeitrag erheben. Soweit der Umlegungsvorteil den Flächenbeitrag nach Satz 1 übersteigt, ist der Vorteil in Geld auszugleichen.
+(1) Geht die Umlegungsstelle von dem Verhältnis der Flächen aus, hat sie von den eingeworfenen Grundstücken unter Anrechnung des Flächenabzugs nach § 55 Absatz 2 einen Flächenbeitrag in einem solchen Umfang abzuziehen, dass die Vorteile ausgeglichen werden, die durch die Umlegung erwachsen; dabei bleiben in den Fällen des § 57 Satz 4 Halbsatz 2 die Vorteile insoweit unberücksichtigt. Der Flächenbeitrag darf in Gebieten, die erstmalig erschlossen werden, nur bis zu 30 vom Hundert, in anderen Gebieten nur bis zu 10 vom Hundert der eingeworfenen Fläche betragen. Die Umlegungsstelle kann statt eines Flächenbeitrags ganz oder teilweise einen entsprechenden Geldbeitrag erheben. Soweit der Umlegungsvorteil den Flächenbeitrag nach Satz 1 übersteigt, ist der Vorteil in Geld auszugleichen.
 
 (2) Kann das neue Grundstück nicht in gleicher oder gleichwertiger Lage zugeteilt werden, so sind dadurch begründete Wertunterschiede in Fläche oder Geld auszugleichen.
 
@@ -3773,11 +2161,11 @@ Geht die Umlegungsstelle von dem Verhältnis der Werte aus, so wird die Verteilu
 
 ### § 59 Zuteilung und Abfindung
 
-(1) Aus der Verteilungsmasse sind den Eigentümern dem Umlegungszweck entsprechend nach Möglichkeit Grundstücke einschließlich Flächen zum Ausgleich im Sinne des § 1a Abs. 3 in gleicher oder gleichwertiger Lage wie die eingeworfenen Grundstücke und entsprechend den nach den §§ 57 und 58 errechneten Anteilen zuzuteilen.
+(1) Aus der Verteilungsmasse sind den Eigentümern dem Umlegungszweck entsprechend nach Möglichkeit Grundstücke einschließlich Flächen zum Ausgleich im Sinne des § 1a Absatz 3 in gleicher oder gleichwertiger Lage wie die eingeworfenen Grundstücke und entsprechend den nach den §§ 57 und 58 errechneten Anteilen zuzuteilen.
 
 (2) Soweit es unter Berücksichtigung der öffentlich-rechtlichen Vorschriften nicht möglich ist, die nach den §§ 57 und 58 errechneten Anteile tatsächlich zuzuteilen, findet ein Ausgleich in Geld statt. Auf den Geldausgleich sind die Vorschriften über die Entschädigung im Zweiten Abschnitt des Fünften Teils entsprechend anzuwenden, soweit die Zuteilung den Einwurfswert oder mehr als nur unwesentlich den Sollanspruch unterschreitet. Der Geldausgleich bemisst sich nach dem Verkehrswert, bezogen auf den Zeitpunkt der Aufstellung des Umlegungsplans, soweit die Zuteilung den Sollanspruch mehr als nur unwesentlich überschreitet und dadurch die bauplanungsrechtlich zulässige Nutzung ermöglicht.
 
-(3) Beantragt ein Eigentümer, der im Umlegungsgebiet eigen genutzten Wohn- oder Geschäftsraum aufgeben muss und im Umlegungsverfahren kein Grundstück erhält, dass für ihn als Abfindung im Umlegungsverfahren eines der in Absatz 4 Nr. 2 und 3 bezeichneten Rechte vorgesehen wird, so soll dem entsprochen werden, sofern dies in der Umlegung möglich ist.
+(3) Beantragt ein Eigentümer, der im Umlegungsgebiet eigen genutzten Wohn- oder Geschäftsraum aufgeben muss und im Umlegungsverfahren kein Grundstück erhält, dass für ihn als Abfindung im Umlegungsverfahren eines der in Absatz 4 Nummer 2 und 3 bezeichneten Rechte vorgesehen wird, so soll dem entsprochen werden, sofern dies in der Umlegung möglich ist.
 
 (4) Mit Einverständnis der betroffenen Eigentümer können als Abfindung
 
@@ -3794,11 +2182,11 @@ vorgesehen werden.
 
 (5) Sofern die Umlegung im Geltungsbereich eines Bebauungsplans durchgeführt wird, können Eigentümer in Geld oder mit außerhalb des Umlegungsgebiets gelegenen Grundstücken abgefunden werden, wenn sie im Gebiet keine bebauungsfähigen Grundstücke erhalten können oder wenn dies sonst zur Erreichung der Ziele und Zwecke des Bebauungsplans erforderlich ist; wer die Abfindung mit Grundstücken außerhalb des Gebiets ablehnt, kann mit Geld abgefunden werden. Die Vorschriften über die Entschädigung im Zweiten Abschnitt des Fünften Teils sind entsprechend anzuwenden.
 
-(6) Lehnt der Eigentümer eine Abfindung mit den in Absatz 4 Nr. 2 und 3 bezeichneten Rechten ab, obgleich durch eine solche Abfindung für eine größere Anzahl von Beteiligten eine Abfindung in Geld vermieden werden kann und die Abfindung in diesen Rechtsformen mit dem Bebauungsplan vereinbar ist, ist der Eigentümer in Geld abzufinden. Die Vorschriften über die Entschädigung im Zweiten Abschnitt des Fünften Teils sind entsprechend anzuwenden.
+(6) Lehnt der Eigentümer eine Abfindung mit den in Absatz 4 Nummer 2 und 3 bezeichneten Rechten ab, obgleich durch eine solche Abfindung für eine größere Anzahl von Beteiligten eine Abfindung in Geld vermieden werden kann und die Abfindung in diesen Rechtsformen mit dem Bebauungsplan vereinbar ist, ist der Eigentümer in Geld abzufinden. Die Vorschriften über die Entschädigung im Zweiten Abschnitt des Fünften Teils sind entsprechend anzuwenden.
 
-(7) Die Umlegungsstelle - der Umlegungsausschuss auf Antrag der Gemeinde - kann bei der Zuteilung von Grundstücken unter den Voraussetzungen des § 176 ein Baugebot, unter den Voraussetzungen des § 177 ein Modernisierungs- oder Instandsetzungsgebot und unter den Voraussetzungen des § 178 ein Pflanzgebot anordnen.
+(7) Die Umlegungsstelle – der Umlegungsausschuss auf Antrag der Gemeinde – kann bei der Zuteilung von Grundstücken unter den Voraussetzungen des § 176 ein Baugebot, unter den Voraussetzungen des § 177 ein Modernisierungs- oder Instandsetzungsgebot und unter den Voraussetzungen des § 178 ein Pflanzgebot anordnen.
 
-(8) Sofern die Umlegung im Geltungsbereich eines Bebauungsplans durchgeführt wird, sind im Umlegungsplan die Gebäude oder sonstigen baulichen Anlagen zu bezeichnen, die dem Bebauungsplan widersprechen und der Verwirklichung der im Umlegungsplan in Aussicht genommenen Neugestaltung (§ 66 Abs. 2) entgegenstehen. Die Eigentümer und die sonstigen Nutzungsberechtigten haben die Beseitigung der im Umlegungsplan bezeichneten Gebäude und sonstigen baulichen Anlagen zu dulden, wenn die Gemeinde die Beseitigung zum Vollzug des Umlegungsplans durchführt.
+(8) Sofern die Umlegung im Geltungsbereich eines Bebauungsplans durchgeführt wird, sind im Umlegungsplan die Gebäude oder sonstigen baulichen Anlagen zu bezeichnen, die dem Bebauungsplan widersprechen und der Verwirklichung der im Umlegungsplan in Aussicht genommenen Neugestaltung (§ 66 Absatz 2) entgegenstehen. Die Eigentümer und die sonstigen Nutzungsberechtigten haben die Beseitigung der im Umlegungsplan bezeichneten Gebäude und sonstigen baulichen Anlagen zu dulden, wenn die Gemeinde die Beseitigung zum Vollzug des Umlegungsplans durchführt.
 
 (9) Die Befugnis der Gemeinde, ein Baugebot, ein Modernisierungs- oder Instandsetzungsgebot, ein Pflanzgebot oder ein Rückbau- oder Entsiegelungsgebot nach den §§ 176 bis 179 anzuordnen, bleibt unberührt.
 
@@ -3808,17 +2196,17 @@ Für bauliche Anlagen, Anpflanzungen und für sonstige Einrichtungen ist nur ein
 
 ### § 61 Aufhebung, Änderung und Begründung von Rechten
 
-(1) Grundstücksgleiche Rechte sowie andere Rechte an einem im Umlegungsgebiet gelegenen Grundstück oder an einem das Grundstück belastenden Recht, ferner Ansprüche mit dem Recht auf Befriedigung aus dem Grundstück oder persönliche Rechte, die zum Erwerb, zum Besitz oder zur Nutzung eines im Umlegungsgebiet gelegenen Grundstücks berechtigen oder den Verpflichteten in der Benutzung des Grundstücks beschränken, können durch den Umlegungsplan aufgehoben, geändert oder neu begründet werden. In Übereinstimmung mit den Zielen des Bebauungsplans oder zur Verwirklichung einer nach § 34 zulässigen Nutzung können zur zweckmäßigen und wirtschaftlichen Ausnutzung der Grundstücke Flächen für Zuwege, gemeinschaftliche Hofräume, Kinderspielplätze, Freizeiteinrichtungen, Stellplätze, Garagen, Flächen zum Ausgleich im Sinne des § 1a Abs. 3 oder andere Gemeinschaftsanlagen festgelegt und ihre Rechtsverhältnisse geregelt werden. Im Landesrecht vorgesehene öffentlich-rechtliche Verpflichtungen zu einem das Grundstück betreffenden Tun, Dulden oder Unterlassen (Baulast) können im Einvernehmen mit der Baugenehmigungsbehörde aufgehoben, geändert oder neu begründet werden.
+(1) Grundstücksgleiche Rechte sowie andere Rechte an einem im Umlegungsgebiet gelegenen Grundstück oder an einem das Grundstück belastenden Recht, ferner Ansprüche mit dem Recht auf Befriedigung aus dem Grundstück oder persönliche Rechte, die zum Erwerb, zum Besitz oder zur Nutzung eines im Umlegungsgebiet gelegenen Grundstücks berechtigen oder den Verpflichteten in der Benutzung des Grundstücks beschränken, können durch den Umlegungsplan aufgehoben, geändert oder neu begründet werden. In Übereinstimmung mit den Zielen des Bebauungsplans oder zur Verwirklichung einer nach § 34 zulässigen Nutzung können zur zweckmäßigen und wirtschaftlichen Ausnutzung der Grundstücke Flächen für Zuwege, gemeinschaftliche Hofräume, Kinderspielplätze, Freizeiteinrichtungen, Stellplätze, Garagen, Flächen zum Ausgleich im Sinne des § 1a Absatz 3 oder andere Gemeinschaftsanlagen festgelegt und ihre Rechtsverhältnisse geregelt werden. Im Landesrecht vorgesehene öffentlich-rechtliche Verpflichtungen zu einem das Grundstück betreffenden Tun, Dulden oder Unterlassen (Baulast) können im Einvernehmen mit der Baugenehmigungsbehörde aufgehoben, geändert oder neu begründet werden.
 
 (2) Soweit durch die Aufhebung, Änderung oder Begründung von Rechten oder Baulasten Vermögensnachteile oder Vermögensvorteile entstehen, findet ein Ausgleich in Geld statt. Für den Fall, dass Vermögensnachteile entstehen, sind die Vorschriften über die Entschädigung im Zweiten Abschnitt des Fünften Teils und über den Härteausgleich nach § 181 entsprechend anzuwenden.
 
-(3) Die Absätze 1 und 2 gelten auch für die nach § 55 Abs. 5 in die Verteilungsmasse eingebrachten Grundstücke.
+(3) Die Absätze 1 und 2 gelten auch für die nach § 55 Absatz 5 in die Verteilungsmasse eingebrachten Grundstücke.
 
 ### § 62 Gemeinschaftliches Eigentum; besondere rechtliche Verhältnisse
 
 (1) Wenn es dem Zweck der Umlegung dient und die Eigentümer zustimmen, kann gemeinschaftliches Eigentum an Grundstücken geteilt werden.
 
-(2) Wenn einem Eigentümer für mehrere verschiedenen Rechtsverhältnissen unterliegende alte Grundstücke oder Berechtigungen ein neues Grundstück zugeteilt wird, so werden entsprechend den verschiedenen Rechtsverhältnissen Bruchteile der Gesamtabfindung bestimmt, die an die Stelle der einzelnen Grundstücke oder Berechtigungen treten. In diesen Fällen kann für jedes eingeworfene Grundstück oder jede Berechtigung an Stelle des Bruchteils ein besonderes Grundstück zugeteilt werden.
+(2) Wenn einem Eigentümer für mehrere verschiedenen Rechtsverhältnissen unterliegende alte Grundstücke oder Berechtigungen ein neues Grundstück zugeteilt wird, so werden entsprechend den verschiedenen Rechtsverhältnissen Bruchteile der Gesamtabfindung bestimmt, die an die Stelle der einzelnen Grundstücke oder Berechtigungen treten. In diesen Fällen kann für jedes eingeworfene Grundstück oder jede Berechtigung anstelle des Bruchteils ein besonderes Grundstück zugeteilt werden.
 
 (3) Wenn gemeinschaftliches Eigentum geteilt wird (Absatz 1) oder einem Eigentümer für sein Grundstück mehrere neue Grundstücke zugeteilt werden, so kann die Umlegungsstelle Grundpfandrechte und Reallasten, mit denen eingeworfene Grundstücke belastet sind, entsprechend den im Umlegungsverfahren ermittelten Werten auf die zuzuteilenden Grundstücke verteilen.
 
@@ -3864,7 +2252,7 @@ Für die Hinterlegung von Geldleistungen und für das Verteilungsverfahren gelte
 
 ### § 67 Umlegungskarte
 
-Die Umlegungskarte stellt den künftigen Zustand des Umlegungsgebiets dar. In die Karte sind insbesondere die neuen Grundstücksgrenzen und -bezeichnungen sowie die Flächen im Sinne des § 55 Abs. 2 einzutragen.
+Die Umlegungskarte stellt den künftigen Zustand des Umlegungsgebiets dar. In die Karte sind insbesondere die neuen Grundstücksgrenzen und -bezeichnungen sowie die Flächen im Sinne des § 55 Absatz 2 einzutragen.
 
 ### § 68 Umlegungsverzeichnis
 
@@ -3880,31 +2268,31 @@ die Rechte an einem Grundstück oder einem das Grundstück belastenden Recht, fe
 die Grundstückslasten nach Rang und Betrag;
 
 4.  
-die Geldleistungen, deren Fälligkeit und Zahlungsart sowie der Wert der Flächen nach § 55 Abs. 2 bei einer insoweit erschließungsbeitragspflichtigen Zuteilung;
+die Geldleistungen, deren Fälligkeit und Zahlungsart sowie der Wert der Flächen nach § 55 Absatz 2 bei einer insoweit erschließungsbeitragspflichtigen Zuteilung;
 
 5.  
 diejenigen, zu deren Gunsten oder Lasten Geldleistungen festgesetzt sind;
 
 6.  
-die einzuziehenden und die zu verlegenden Flächen im Sinne des § 55 Abs. 2 und die Wasserläufe;
+die einzuziehenden und die zu verlegenden Flächen im Sinne des § 55 Absatz 2 und die Wasserläufe;
 
 7.  
-die Gebote nach § 59 Abs. 7 sowie
+die Gebote nach § 59 Absatz 7 sowie
 
 8.  
-die Baulasten nach § 61 Abs. 1 Satz 3.
+die Baulasten nach § 61 Absatz 1 Satz 3.
 
 (2) Das Umlegungsverzeichnis kann für jedes Grundstück gesondert aufgestellt werden.
 
 ### § 69 Bekanntmachung des Umlegungsplans, Einsichtnahme
 
-(1) Die Umlegungsstelle hat den Beschluss über die Aufstellung des Umlegungsplans (§ 66 Abs. 1) in der Gemeinde ortsüblich bekannt zu machen. In der Bekanntmachung ist darauf hinzuweisen, dass der Umlegungsplan an einer zu benennenden Stelle nach Absatz 2 eingesehen werden kann und auszugsweise nach § 70 Abs. 1 Satz 1 zugestellt wird.
+(1) Die Umlegungsstelle hat den Beschluss über die Aufstellung des Umlegungsplans (§ 66 Absatz 1) in der Gemeinde ortsüblich bekannt zu machen. In der Bekanntmachung ist darauf hinzuweisen, dass der Umlegungsplan an einer zu benennenden Stelle nach Absatz 2 eingesehen werden kann und auszugsweise nach § 70 Absatz 1 Satz 1 zugestellt wird.
 
 (2) Den Umlegungsplan kann jeder einsehen, der ein berechtigtes Interesse darlegt.
 
 ### § 70 Zustellung des Umlegungsplans
 
-(1) Den Beteiligten ist ein ihre Rechte betreffender Auszug aus dem Umlegungsplan zuzustellen. Dabei ist darauf hinzuweisen, dass der Umlegungsplan an einer zu benennenden Stelle nach § 69 Abs. 2 eingesehen werden kann.
+(1) Den Beteiligten ist ein ihre Rechte betreffender Auszug aus dem Umlegungsplan zuzustellen. Dabei ist darauf hinzuweisen, dass der Umlegungsplan an einer zu benennenden Stelle nach § 69 Absatz 2 eingesehen werden kann.
 
 (2) Hält die Umlegungsstelle Änderungen des Umlegungsplans für erforderlich, so können die Bekanntmachung und die Zustellung des geänderten Umlegungsplans auf die von der Änderung Betroffenen beschränkt werden.
 
@@ -3939,7 +2327,7 @@ die Beteiligten mit der Änderung einverstanden sind.
 
 (1) Die Umlegungsstelle übersendet dem Grundbuchamt und der für die Führung des Liegenschaftskatasters zuständigen Stelle eine beglaubigte Abschrift der Bekanntmachung nach § 71 sowie eine beglaubigte Ausfertigung des Umlegungsplans und ersucht diese, die Rechtsänderungen in das Grundbuch und in das Liegenschaftskataster einzutragen sowie den Umlegungsvermerk im Grundbuch zu löschen. Dies gilt auch für außerhalb des Umlegungsgebiets zugeteilte Grundstücke.
 
-(2) Bis zur Berichtigung des Liegenschaftskatasters dienen die Umlegungskarte und das Umlegungsverzeichnis als amtliches Verzeichnis der Grundstücke im Sinne des § 2 Abs. 2 der Grundbuchordnung, wenn die für die Führung des Liegenschaftskatasters zuständige Stelle auf diesen Urkunden bescheinigt hat, dass sie nach Form und Inhalt zur Übernahme in das Liegenschaftskataster geeignet sind. Diese Bescheinigung ist nicht erforderlich, wenn die Flurbereinigungsbehörde die Umlegungskarte und das Umlegungsverzeichnis gefertigt hat (§ 46 Abs. 2 Nr. 5 und Abs. 4).
+(2) Bis zur Berichtigung des Liegenschaftskatasters dienen die Umlegungskarte und das Umlegungsverzeichnis als amtliches Verzeichnis der Grundstücke im Sinne des § 2 Absatz 2 der Grundbuchordnung, wenn die für die Führung des Liegenschaftskatasters zuständige Stelle auf diesen Urkunden bescheinigt hat, dass sie nach Form und Inhalt zur Übernahme in das Liegenschaftskataster geeignet sind. Diese Bescheinigung ist nicht erforderlich, wenn die Flurbereinigungsbehörde die Umlegungskarte und das Umlegungsverzeichnis gefertigt hat (§ 46 Absatz 2 Nummer 5 und Absatz 4).
 
 ### § 75 Einsichtnahme in den Umlegungsplan
 
@@ -3954,7 +2342,7 @@ Mit Einverständnis der betroffenen Rechtsinhaber können die Eigentums- und Bes
 (1) Sofern die Umlegung im Geltungsbereich eines Bebauungsplans durchgeführt wird, kann die Umlegungsstelle nach dem Inkrafttreten des Bebauungsplans, wenn das Wohl der Allgemeinheit es erfordert,
 
 1.  
-vor Aufstellung des Umlegungsplans die Gemeinde oder den sonstigen Bedarfs- oder Erschließungsträger in den Besitz der Grundstücke, die in dem Bebauungsplan als Flächen im Sinne des § 9 Abs. 1 Nr. 21 oder des § 55 Abs. 2 und 5 festgesetzt sind, einweisen;
+vor Aufstellung des Umlegungsplans die Gemeinde oder den sonstigen Bedarfs- oder Erschließungsträger in den Besitz der Grundstücke, die in dem Bebauungsplan als Flächen im Sinne des § 9 Absatz 1 Nummer 21 oder des § 55 Absatz 2 und 5 festgesetzt sind, einweisen;
 
 2.  
 nach Aufstellung des Umlegungsplans und Übertragung der Grenzen der neuen Grundstücke in die Örtlichkeit auch sonstige am Umlegungsverfahren Beteiligte in den Besitz der nach dem Umlegungsplan für sie vorgesehenen Grundstücke oder Nutzungsrechte einweisen.
@@ -3962,16 +2350,16 @@ nach Aufstellung des Umlegungsplans und Übertragung der Grenzen der neuen Grund
 (2) Das Wohl der Allgemeinheit kann die vorzeitige Einweisung in den Besitz insbesondere erfordern
 
 1.  
-in den Fällen des Absatzes 1 Nr. 1 zugunsten der Gemeinde oder eines sonstigen Bedarfs- oder Erschließungsträgers, wenn Maßnahmen zur Verwirklichung des Bebauungsplans bevorstehen und die Flächen für die vorgesehenen Anlagen und Einrichtungen der Erschließung oder Versorgung des Gebiets benötigt werden,
+in den Fällen des Absatzes 1 Nummer 1 zugunsten der Gemeinde oder eines sonstigen Bedarfs- oder Erschließungsträgers, wenn Maßnahmen zur Verwirklichung des Bebauungsplans bevorstehen und die Flächen für die vorgesehenen Anlagen und Einrichtungen der Erschließung oder Versorgung des Gebiets benötigt werden,
 
 2.  
-in den Fällen des Absatzes 1 Nr. 2 zugunsten sonstiger Umlegungsbeteiligter, wenn dringende städtebauliche Gründe für die Verschaffung des Besitzes bestehen und wenn diese Gründe die Interessen der Betroffenen an der weiteren Ausübung des Besitzes wesentlich überwiegen.
+in den Fällen des Absatzes 1 Nummer 2 zugunsten sonstiger Umlegungsbeteiligter, wenn dringende städtebauliche Gründe für die Verschaffung des Besitzes bestehen und wenn diese Gründe die Interessen der Betroffenen an der weiteren Ausübung des Besitzes wesentlich überwiegen.
 
 (3) Die §§ 116 und 122 gelten entsprechend.
 
 ### § 78 Verfahrens- und Sachkosten
 
-Die Gemeinde trägt die Verfahrenskosten und die nicht durch Beiträge nach § 64 Abs. 3 gedeckten Sachkosten.
+Die Gemeinde trägt die Verfahrenskosten und die nicht durch Beiträge nach § 64 Absatz 3 gedeckten Sachkosten.
 
 ### § 79 Abgaben- und Auslagenbefreiung
 
@@ -3986,7 +2374,7 @@ Zweiter Abschnitt Vereinfachte Umlegung
 
 ### § 80 Zweck, Anwendungsbereich, Zuständigkeiten
 
-(1) Die Gemeinde kann eine Umlegung im Sinne des § 45 als vereinfachte Umlegung durchführen, wenn die in § 46 Abs. 1 bezeichneten Voraussetzungen vorliegen und wenn mit der Umlegung lediglich
+(1) Die Gemeinde kann eine Umlegung im Sinne des § 45 als vereinfachte Umlegung durchführen, wenn die in § 46 Absatz 1 bezeichneten Voraussetzungen vorliegen und wenn mit der Umlegung lediglich
 
 1.  
 unmittelbar aneinander grenzende oder in enger Nachbarschaft liegende Grundstücke oder Teile von Grundstücken untereinander getauscht oder
@@ -3998,17 +2386,17 @@ werden. Die auszutauschenden oder einseitig zuzuteilenden Grundstücke oder Grun
 
 (2) Auf die vereinfachte Umlegung sind die Vorschriften des Ersten Abschnitts nur anzuwenden, soweit die Vorschriften dieses Abschnitts dies bestimmen. Einer Anordnung der vereinfachten Umlegung durch die Gemeinde bedarf es nicht.
 
-(3) Die vereinfachte Umlegung ist so durchzuführen, dass jedem Eigentümer nach dem Verhältnis des Wertes seines früheren Grundstücks zum Wert der übrigen Grundstücke möglichst ein Grundstück in gleicher oder gleichwertiger Lage zugeteilt wird. Eine durch die vereinfachte Umlegung für den Grundstückseigentümer bewirkte Wertminderung darf nur unerheblich sein. Mit Zustimmung der Eigentümer können von den Sätzen 1 und 2 abweichende Regelungen getroffen werden.
+(3) Die vereinfachte Umlegung ist so durchzuführen, dass jedem Eigentümer nach dem Verhältnis des Werts seines früheren Grundstücks zum Wert der übrigen Grundstücke möglichst ein Grundstück in gleicher oder gleichwertiger Lage zugeteilt wird. Eine durch die vereinfachte Umlegung für den Grundstückseigentümer bewirkte Wertminderung darf nur unerheblich sein. Mit Zustimmung der Eigentümer können von den Sätzen 1 und 2 abweichende Regelungen getroffen werden.
 
-(4) Im Rahmen des Verfahrens der vereinfachten Umlegung betroffene Dienstbarkeiten und Baulasten nach Maßgabe des § 61 Abs. 1 Satz 3 können neu geordnet und zu diesem Zweck auch neu begründet und aufgehoben werden. Betroffene Grundpfandrechte können neugeordnet werden, wenn die Beteiligten dem vorgesehenen neuen Rechtszustand zustimmen.
+(4) Im Rahmen des Verfahrens der vereinfachten Umlegung betroffene Dienstbarkeiten und Baulasten nach Maßgabe des § 61 Absatz 1 Satz 3 können neu geordnet und zu diesem Zweck auch neu begründet und aufgehoben werden. Betroffene Grundpfandrechte können neu geordnet werden, wenn die Beteiligten dem vorgesehenen neuen Rechtszustand zustimmen.
 
-(5) Die Landesregierungen können durch Rechtsverordnungen bestimmen, dass die nach Maßgabe des § 46 Abs. 2 Nr. 1 und 2 gebildeten Umlegungsausschüsse auch vereinfachte Umlegungsverfahren selbständig durchführen. Die Vorschriften des § 46 Abs. 4 zur Übertragung der Umlegung auf die Flurbereinigungsbehörde oder eine andere geeignete Behörde sind für vereinfachte Umlegungsverfahren entsprechend anzuwenden.
+(5) Die Landesregierungen können durch Rechtsverordnungen bestimmen, dass die nach Maßgabe des § 46 Absatz 2 Nummer 1 und 2 gebildeten Umlegungsausschüsse auch vereinfachte Umlegungsverfahren selbständig durchführen. Die Vorschriften des § 46 Absatz 4 zur Übertragung der Umlegung auf die Flurbereinigungsbehörde oder eine andere geeignete Behörde sind für vereinfachte Umlegungsverfahren entsprechend anzuwenden.
 
 ### § 81 Geldleistungen
 
 (1) Vorteile, die durch die vereinfachte Umlegung bewirkt werden, sind von den Eigentümern in Geld auszugleichen. Die Vorschriften über die Entschädigung im Zweiten Abschnitt des Fünften Teils sind entsprechend anzuwenden.
 
-(2) Gläubigerin und Schuldnerin der Geldleistungen ist die Gemeinde. Die Beteiligten können mit Zustimmung der Gemeinde andere Vereinbarungen treffen. Die Geldleistungen werden mit der Bekanntmachung nach § 83 Abs. 1 fällig. § 64 Abs. 3, 4 und 6 über Beitrag und öffentliche Last ist entsprechend anzuwenden, wenn die Gemeinde Gläubigerin der Geldleistungen ist.
+(2) Gläubigerin und Schuldnerin der Geldleistungen ist die Gemeinde. Die Beteiligten können mit Zustimmung der Gemeinde andere Vereinbarungen treffen. Die Geldleistungen werden mit der Bekanntmachung nach § 83 Absatz 1 fällig. § 64 Absatz 3, 4 und 6 über Beitrag und öffentliche Last ist entsprechend anzuwenden, wenn die Gemeinde Gläubigerin der Geldleistungen ist.
 
 (3) Dinglich Berechtigte, deren Rechte durch die vereinfachte Umlegung beeinträchtigt werden, sind insoweit auf den Geldanspruch des Eigentümers angewiesen. Für die Hinterlegung von Geldleistungen und für das Verteilungsverfahren gelten die Vorschriften der §§ 118 und 119 entsprechend.
 
@@ -4020,15 +2408,15 @@ werden. Die auszutauschenden oder einseitig zuzuteilenden Grundstücke oder Grun
 
 ### § 83 Bekanntmachung und Rechtswirkungen der vereinfachten Umlegung
 
-(1) Die Gemeinde hat ortsüblich bekannt zu machen, in welchem Zeitpunkt der Beschluss über die vereinfachte Umlegung unanfechtbar geworden ist. § 71 Abs. 2 über die vorzeitige Inkraftsetzung ist entsprechend anzuwenden.
+(1) Die Gemeinde hat ortsüblich bekannt zu machen, in welchem Zeitpunkt der Beschluss über die vereinfachte Umlegung unanfechtbar geworden ist. § 71 Absatz 2 über die vorzeitige Inkraftsetzung ist entsprechend anzuwenden.
 
-(2) Mit der Bekanntmachung wird der bisherige Rechtszustand durch den in dem Beschluss über die vereinfachte Umlegung vorgesehenen neuen Rechtszustand ersetzt. Die Bekanntmachung schließt die Einweisung der neuen Eigentümer in den Besitz der zugeteilten Grundstücke oder Grundstücksteile ein. § 72 Abs. 2 über die Vollziehung ist entsprechend anzuwenden.
+(2) Mit der Bekanntmachung wird der bisherige Rechtszustand durch den in dem Beschluss über die vereinfachte Umlegung vorgesehenen neuen Rechtszustand ersetzt. Die Bekanntmachung schließt die Einweisung der neuen Eigentümer in den Besitz der zugeteilten Grundstücke oder Grundstücksteile ein. § 72 Absatz 2 über die Vollziehung ist entsprechend anzuwenden.
 
-(3) Das Eigentum an ausgetauschten oder einseitig zugeteilten Grundstücksteilen und Grundstücken geht lastenfrei auf die neuen Eigentümer über; Unschädlichkeitszeugnisse sind nicht erforderlich. Sofern Grundstücksteile oder Grundstücke einem Grundstück zugeteilt werden, werden sie Bestandteil dieses Grundstücks. Die dinglichen Rechte an diesem Grundstück erstrecken sich auf die zugeteilten Grundstücksteile und Grundstücke. Satz 1 Halbsatz 1 und Satz 3 gelten nur, soweit sich nicht aus einer Regelung nach § 80 Abs. 4 etwas anderes ergibt.
+(3) Das Eigentum an ausgetauschten oder einseitig zugeteilten Grundstücksteilen und Grundstücken geht lastenfrei auf die neuen Eigentümer über; Unschädlichkeitszeugnisse sind nicht erforderlich. Sofern Grundstücksteile oder Grundstücke einem Grundstück zugeteilt werden, werden sie Bestandteil dieses Grundstücks. Die dinglichen Rechte an diesem Grundstück erstrecken sich auf die zugeteilten Grundstücksteile und Grundstücke. Satz 1 Halbsatz 1 und Satz 3 gelten nur, soweit sich nicht aus einer Regelung nach § 80 Absatz 4 etwas anderes ergibt.
 
 ### § 84 Berichtigung der öffentlichen Bücher
 
-(1) Die Gemeinde übersendet dem Grundbuchamt und der für die Führung des Liegenschaftskatasters zuständigen Stelle eine beglaubigte Abschrift des Beschlusses über die vereinfachte Umlegung, teilt den Zeitpunkt der Bekanntmachung nach § 83 Abs. 1 mit und ersucht diese, die Rechtsänderungen in das Grundbuch und in das Liegenschaftskataster einzutragen. § 74 Abs. 2 gilt entsprechend.
+(1) Die Gemeinde übersendet dem Grundbuchamt und der für die Führung des Liegenschaftskatasters zuständigen Stelle eine beglaubigte Abschrift des Beschlusses über die vereinfachte Umlegung, teilt den Zeitpunkt der Bekanntmachung nach § 83 Absatz 1 mit und ersucht diese, die Rechtsänderungen in das Grundbuch und in das Liegenschaftskataster einzutragen. § 74 Absatz 2 gilt entsprechend.
 
 (2) Für die Kosten der vereinfachten Umlegung gelten die §§ 78 und 79 entsprechend.
 
@@ -4059,13 +2447,13 @@ Grundstücke für die Entschädigung in Land zu beschaffen,
 durch Enteignung entzogene Rechte durch neue Rechte zu ersetzen,
 
 5.  
-Grundstücke einer baulichen Nutzung zuzuführen, wenn ein Eigentümer die Verpflichtung nach § 176 Abs. 1 oder 2 nicht erfüllt,
+Grundstücke einer baulichen Nutzung zuzuführen, wenn ein Eigentümer die Verpflichtung nach § 176 Absatz 1 oder 2 nicht erfüllt,
 
 6.  
-im Geltungsbereich einer Erhaltungssatzung eine bauliche Anlage aus den in § 172 Abs. 3 bis 5 bezeichneten Gründen zu erhalten oder
+im Geltungsbereich einer Erhaltungssatzung eine bauliche Anlage aus den in § 172 Absatz 3 bis 5 bezeichneten Gründen zu erhalten oder
 
 7.  
-im Geltungsbereich einer Satzung zur Sicherung von Durchführungsmaßnahmen des Stadtumbaus eine bauliche Anlage aus den in § 171d Abs. 3 bezeichneten Gründen zu erhalten oder zu beseitigen.
+im Geltungsbereich einer Satzung zur Sicherung von Durchführungsmaßnahmen des Stadtumbaus eine bauliche Anlage aus den in § 171d Absatz 3 bezeichneten Gründen zu erhalten oder zu beseitigen.
 
 (2) Unberührt bleiben
 
@@ -4073,7 +2461,7 @@ im Geltungsbereich einer Satzung zur Sicherung von Durchführungsmaßnahmen des 
 die Vorschriften über die Enteignung zu anderen als den in Absatz 1 genannten Zwecken,
 
 2.  
-landesrechtliche Vorschriften über die Enteignung zu den in Absatz 1 Nr. 6 genannten Zwecken.
+landesrechtliche Vorschriften über die Enteignung zu den in Absatz 1 Nummer 6 genannten Zwecken.
 
 ### § 86 Gegenstand der Enteignung
 
@@ -4091,23 +2479,23 @@ Rechte entzogen werden, die zum Erwerb, zum Besitz oder zur Nutzung von Grundst�
 4.  
 soweit es in den Vorschriften dieses Teils vorgesehen ist, Rechtsverhältnisse begründet werden, die Rechte der in Nummer 3 bezeichneten Art gewähren.
 
-(2) Auf das Zubehör eines Grundstücks sowie auf Sachen, die nur zu einem vorübergehenden Zweck mit dem Grundstück verbunden oder in ein Gebäude eingefügt sind, darf die Enteignung nur nach Maßgabe des § 92 Abs. 4 ausgedehnt werden.
+(2) Auf das Zubehör eines Grundstücks sowie auf Sachen, die nur zu einem vorübergehenden Zweck mit dem Grundstück verbunden oder in ein Gebäude eingefügt sind, darf die Enteignung nur nach Maßgabe des § 92 Absatz 4 ausgedehnt werden.
 
-(3) Die für die Entziehung oder Belastung des Eigentums an Grundstücken geltenden Vorschriften sind auf die Entziehung, Belastung oder Begründung der in Absatz 1 Nr. 2 bis 4 bezeichneten Rechte entsprechend anzuwenden.
+(3) Die für die Entziehung oder Belastung des Eigentums an Grundstücken geltenden Vorschriften sind auf die Entziehung, Belastung oder Begründung der in Absatz 1 Nummer 2 bis 4 bezeichneten Rechte entsprechend anzuwenden.
 
 ### § 87 Voraussetzungen für die Zulässigkeit der Enteignung
 
-(1) Die Enteignung ist im Einzelnen Fall nur zulässig, wenn das Wohl der Allgemeinheit sie erfordert und der Enteignungszweck auf andere zumutbare Weise nicht erreicht werden kann.
+(1) Die Enteignung ist im einzelnen Fall nur zulässig, wenn das Wohl der Allgemeinheit sie erfordert und der Enteignungszweck auf andere zumutbare Weise nicht erreicht werden kann.
 
-(2) Die Enteignung setzt voraus, dass der Antragsteller sich ernsthaft um den freihändigen Erwerb des zu enteignenden Grundstücks zu angemessenen Bedingungen, unter den Voraussetzungen des § 100 Abs. 1 und 3 unter Angebot geeigneten anderen Landes, vergeblich bemüht hat. Der Antragsteller hat glaubhaft zu machen, dass das Grundstück innerhalb angemessener Frist zu dem vorgesehenen Zweck verwendet wird.
+(2) Die Enteignung setzt voraus, dass der Antragsteller sich ernsthaft um den freihändigen Erwerb des zu enteignenden Grundstücks zu angemessenen Bedingungen, unter den Voraussetzungen des § 100 Absatz 1 und 3 unter Angebot geeigneten anderen Landes, vergeblich bemüht hat. Der Antragsteller hat glaubhaft zu machen, dass das Grundstück innerhalb angemessener Frist zu dem vorgesehenen Zweck verwendet wird.
 
-(3) Die Enteignung eines Grundstücks zu dem Zweck, es für die bauliche Nutzung vorzubereiten (§ 85 Abs. 1 Nr. 1) oder es der baulichen Nutzung zuzuführen (§ 85 Abs. 1 Nr. 2), darf nur zugunsten der Gemeinde oder eines öffentlichen Bedarfs- oder Erschließungsträgers erfolgen. In den Fällen des § 85 Abs. 1 Nr. 5 kann die Enteignung eines Grundstücks zugunsten eines Bauwilligen verlangt werden, der in der Lage ist, die Baumaßnahmen innerhalb angemessener Frist durchzuführen, und sich hierzu verpflichtet. Soweit im förmlich festgelegten Sanierungsgebiet die Enteignung zugunsten der Gemeinde zulässig ist, kann sie auch zugunsten eines Sanierungsträgers erfolgen.
+(3) Die Enteignung eines Grundstücks zu dem Zweck, es für die bauliche Nutzung vorzubereiten (§ 85 Absatz 1 Nummer 1) oder es der baulichen Nutzung zuzuführen (§ 85 Absatz 1 Nummer 2), darf nur zugunsten der Gemeinde oder eines öffentlichen Bedarfs- oder Erschließungsträgers erfolgen. In den Fällen des § 85 Absatz 1 Nummer 5 kann die Enteignung eines Grundstücks zugunsten eines Bauwilligen verlangt werden, der in der Lage ist, die Baumaßnahmen innerhalb angemessener Frist durchzuführen, und sich hierzu verpflichtet. Soweit im förmlich festgelegten Sanierungsgebiet die Enteignung zugunsten der Gemeinde zulässig ist, kann sie auch zugunsten eines Sanierungsträgers erfolgen.
 
 (4) Die Zulässigkeit der Enteignung wird durch die Vorschriften des Sechsten Teils des Zweiten Kapitels nicht berührt.
 
 ### § 88 Enteignung aus zwingenden städtebaulichen Gründen
 
-Wird die Enteignung eines Grundstücks von der Gemeinde zu den in § 85 Abs. 1 Nr. 1 und 2 bezeichneten Zwecken aus zwingenden städtebaulichen Gründen beantragt, so genügt an Stelle des § 87 Abs. 2 der Nachweis, dass die Gemeinde sich ernsthaft um den freihändigen Erwerb dieses Grundstücks zu angemessenen Bedingungen vergeblich bemüht hat. Satz 1 ist entsprechend anzuwenden, wenn die Enteignung eines im förmlich festgelegten Sanierungsgebiet gelegenen Grundstücks zugunsten der Gemeinde oder eines Sanierungsträgers beantragt wird.
+Wird die Enteignung eines Grundstücks von der Gemeinde zu den in § 85 Absatz 1 Nummer 1 und 2 bezeichneten Zwecken aus zwingenden städtebaulichen Gründen beantragt, so genügt anstelle des § 87 Absatz 2 der Nachweis, dass die Gemeinde sich ernsthaft um den freihändigen Erwerb dieses Grundstücks zu angemessenen Bedingungen vergeblich bemüht hat. Satz 1 ist entsprechend anzuwenden, wenn die Enteignung eines im förmlich festgelegten Sanierungsgebiet gelegenen Grundstücks zugunsten der Gemeinde oder eines Sanierungsträgers beantragt wird.
 
 ### § 89 Veräußerungspflicht
 
@@ -4123,7 +2511,7 @@ Dies gilt nicht für Grundstücke, die als Austauschland für beabsichtigte stä
 
 (2) Die Gemeinde soll ein Grundstück veräußern, sobald der mit dem Erwerb verfolgte Zweck verwirklicht werden kann oder entfallen ist.
 
-(3) Die Gemeinde hat die Grundstücke unter Berücksichtigung weiter Kreise der Bevölkerung an Personen zu veräußern, die sich verpflichten, das Grundstück innerhalb angemessener Frist entsprechend den baurechtlichen Vorschriften oder den Zielen und Zwecken der städtebaulichen Maßnahme zu nutzen. Dabei sind in den Fällen des Absatzes 1 Satz 1 Nr. 1 die früheren Käufer, in den Fällen des Absatzes 1 Satz 1 Nr. 2 die früheren Eigentümer vorrangig zu berücksichtigen.
+(3) Die Gemeinde hat die Grundstücke unter Berücksichtigung weiter Kreise der Bevölkerung an Personen zu veräußern, die sich verpflichten, das Grundstück innerhalb angemessener Frist entsprechend den baurechtlichen Vorschriften oder den Zielen und Zwecken der städtebaulichen Maßnahme zu nutzen. Dabei sind in den Fällen des Absatzes 1 Satz 1 Nummer 1 die früheren Käufer, in den Fällen des Absatzes 1 Satz 1 Nummer 2 die früheren Eigentümer vorrangig zu berücksichtigen.
 
 (4) Die Gemeinde kann ihrer Veräußerungspflicht nachkommen, indem sie
 
@@ -4165,17 +2553,17 @@ die Grundstücke oder ihre Erträge unmittelbar öffentlichen Zwecken oder der W
 
 ### § 91 Ersatz für entzogene Rechte
 
-Die Enteignung zu dem Zweck, durch Enteignung entzogene Rechte durch neue Rechte zu ersetzen, ist nur zulässig, soweit der Ersatz in den Vorschriften des Zweiten Abschnitts vorgesehen ist. Für den Ersatz entzogener Rechte durch neue Rechte im Wege der Enteignung nach § 97 Abs. 2 Satz 3 gelten die in § 90 Abs. 1 und 2 für die Enteignung zur Entschädigung in Land getroffenen Vorschriften entsprechend.
+Die Enteignung zu dem Zweck, durch Enteignung entzogene Rechte durch neue Rechte zu ersetzen, ist nur zulässig, soweit der Ersatz in den Vorschriften des Zweiten Abschnitts vorgesehen ist. Für den Ersatz entzogener Rechte durch neue Rechte im Wege der Enteignung nach § 97 Absatz 2 Satz 3 gelten die in § 90 Absatz 1 und 2 für die Enteignung zur Entschädigung in Land getroffenen Vorschriften entsprechend.
 
 ### § 92 Umfang, Beschränkung und Ausdehnung der Enteignung
 
 (1) Ein Grundstück darf nur in dem Umfang enteignet werden, in dem dies zur Verwirklichung des Enteignungszwecks erforderlich ist. Reicht eine Belastung des Grundstücks mit einem Recht zur Verwirklichung des Enteignungszwecks aus, so ist die Enteignung hierauf zu beschränken.
 
-(2) Soll ein Grundstück mit einem Erbbaurecht belastet werden, kann der Eigentümer an Stelle der Belastung die Entziehung des Eigentums verlangen. Soll ein Grundstück mit einem anderen Recht belastet werden, kann der Eigentümer die Entziehung des Eigentums verlangen, wenn die Belastung mit dem dinglichen Recht für ihn unbillig ist.
+(2) Soll ein Grundstück mit einem Erbbaurecht belastet werden, kann der Eigentümer anstelle der Belastung die Entziehung des Eigentums verlangen. Soll ein Grundstück mit einem anderen Recht belastet werden, kann der Eigentümer die Entziehung des Eigentums verlangen, wenn die Belastung mit dem dinglichen Recht für ihn unbillig ist.
 
 (3) Soll ein Grundstück oder ein räumlich oder wirtschaftlich zusammenhängender Grundbesitz nur zu einem Teil enteignet werden, kann der Eigentümer die Ausdehnung der Enteignung auf das Restgrundstück oder den Restbesitz insoweit verlangen, als das Restgrundstück oder der Restbesitz nicht mehr in angemessenem Umfang baulich oder wirtschaftlich genutzt werden kann.
 
-(4) Der Eigentümer kann verlangen, dass die Enteignung auf die in § 86 Abs. 2 bezeichneten Gegenstände ausgedehnt wird, wenn und soweit er sie infolge der Enteignung nicht mehr wirtschaftlich nutzen oder in anderer Weise angemessen verwerten kann.
+(4) Der Eigentümer kann verlangen, dass die Enteignung auf die in § 86 Absatz 2 bezeichneten Gegenstände ausgedehnt wird, wenn und soweit er sie infolge der Enteignung nicht mehr wirtschaftlich nutzen oder in anderer Weise angemessen verwerten kann.
 
 (5) Ein Verlangen nach den Absätzen 2 bis 4 ist schriftlich oder zur Niederschrift bei der Enteignungsbehörde bis zum Schluss der mündlichen Verhandlung geltend zu machen.
 
@@ -4219,7 +2607,7 @@ Wertsteigerungen eines Grundstücks, die in der Aussicht auf eine Änderung der 
 Wertänderungen, die infolge der bevorstehenden Enteignung eingetreten sind;
 
 3.  
-Werterhöhungen, die nach dem Zeitpunkt eingetreten sind, in dem der Eigentümer zur Vermeidung der Enteignung ein Kauf- oder Tauschangebot des Antragstellers mit angemessenen Bedingungen (§ 87 Abs. 2 Satz 1 und § 88) hätte annehmen können, es sei denn, dass der Eigentümer Kapital oder Arbeit für sie aufgewendet hat;
+Werterhöhungen, die nach dem Zeitpunkt eingetreten sind, in dem der Eigentümer zur Vermeidung der Enteignung ein Kauf- oder Tauschangebot des Antragstellers mit angemessenen Bedingungen (§ 87 Absatz 2 Satz 1 und § 88) hätte annehmen können, es sei denn, dass der Eigentümer Kapital oder Arbeit für sie aufgewendet hat;
 
 4.  
 wertsteigernde Veränderungen, die während einer Veränderungssperre ohne Genehmigung der Baugenehmigungsbehörde vorgenommen worden sind;
@@ -4250,7 +2638,7 @@ die Wertminderung, die durch die Enteignung eines Grundstücksteils oder eines T
 3.  
 die notwendigen Aufwendungen für einen durch die Enteignung erforderlich werdenden Umzug.
 
-(2) Im Falle des Absatzes 1 Nr. 2 ist § 95 Abs. 2 Nr. 3 anzuwenden.
+(2) Im Falle des Absatzes 1 Nummer 2 ist § 95 Absatz 2 Nummer 3 anzuwenden.
 
 ### § 97 Behandlung der Rechte der Nebenberechtigten
 
@@ -4269,7 +2657,7 @@ Inhaber von persönlichen Rechten, die zum Besitz oder zur Nutzung des Grundstü
 3.  
 Inhaber von persönlichen Rechten, die zum Erwerb des Grundstücks berechtigen oder den Verpflichteten in der Nutzung des Grundstücks beschränken.
 
-(4) Berechtigte, deren Rechte nicht aufrechterhalten, nicht durch neue Rechte ersetzt und nicht gesondert entschädigt werden, haben bei der Enteignung eines Grundstücks Anspruch auf Ersatz des Werts ihres Rechts aus der Geldentschädigung für das Eigentum an dem Grundstück, soweit sich ihr Recht auf dieses erstreckt. Das gilt entsprechend für die Geldentschädigungen, die für den durch die Enteignung eintretenden Rechtsverlust in anderen Fällen oder nach § 96 Abs. 1 Satz 2 Nr. 2 festgesetzt werden.
+(4) Berechtigte, deren Rechte nicht aufrechterhalten, nicht durch neue Rechte ersetzt und nicht gesondert entschädigt werden, haben bei der Enteignung eines Grundstücks Anspruch auf Ersatz des Werts ihres Rechts aus der Geldentschädigung für das Eigentum an dem Grundstück, soweit sich ihr Recht auf dieses erstreckt. Das gilt entsprechend für die Geldentschädigungen, die für den durch die Enteignung eintretenden Rechtsverlust in anderen Fällen oder nach § 96 Absatz 1 Satz 2 Nummer 2 festgesetzt werden.
 
 ### § 98 Schuldübergang
 
@@ -4302,15 +2690,15 @@ geeignetes Ersatzland durch Enteignung nach § 90 beschafft werden kann.
 
 (3) Unter den Voraussetzungen der Nummern 1 bis 3 des Absatzes 1 ist die Entschädigung auf Antrag des Eigentümers auch dann in geeignetem Ersatzland festzusetzen, wenn ein Grundstück enteignet werden soll, das mit einem Eigenheim oder einer Kleinsiedlung bebaut ist. Dies gilt nicht, wenn nach öffentlich-rechtlichen Vorschriften der Rückbau des Gebäudes jederzeit entschädigungslos gefordert werden kann.
 
-(4) Die Entschädigung kann auf Antrag des Enteigneten oder Enteignungsbegünstigten ganz oder teilweise in Ersatzland festgesetzt werden, wenn diese Art der Entschädigung nach pflichtmäßigem Ermessen der Enteignungsbehörde unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten billig ist und bei dem Enteignungsbegünstigten die in Absatz 1 Nr. 1 oder 2 genannten Voraussetzungen vorliegen.
+(4) Die Entschädigung kann auf Antrag des Enteigneten oder Enteignungsbegünstigten ganz oder teilweise in Ersatzland festgesetzt werden, wenn diese Art der Entschädigung nach pflichtmäßigem Ermessen der Enteignungsbehörde unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten billig ist und bei dem Enteignungsbegünstigten die in Absatz 1 Nummer 1 oder 2 genannten Voraussetzungen vorliegen.
 
-(5) Auf die Ermittlung des Werts des Ersatzlands ist § 95 entsprechend anzuwenden. Hierbei kann eine Werterhöhung berücksichtigt werden, die das übrige Grundvermögen des von der Enteignung Betroffenen durch den Erwerb des Ersatzlands über dessen Wert nach Satz 1 hinaus erfährt. Hat das Ersatzland einen geringeren Wert als das zu enteignende Grundstück, so ist eine dem Wertunterschied entsprechende zusätzliche Geldentschädigung festzusetzen. Hat das Ersatzland einen höheren Wert als das zu enteignende Grundstück, so ist festzusetzen, dass der Entschädigungsberechtigte an den durch die Enteignung Begünstigten eine dem Wertunterschied entsprechende Ausgleichszahlung zu leisten hat. Die Ausgleichszahlung wird mit dem nach § 117 Abs. 5 Satz 1 in der Ausführungsanordnung festgesetzten Tag fällig.
+(5) Auf die Ermittlung des Werts des Ersatzlands ist § 95 entsprechend anzuwenden. Hierbei kann eine Werterhöhung berücksichtigt werden, die das übrige Grundvermögen des von der Enteignung Betroffenen durch den Erwerb des Ersatzlands über dessen Wert nach Satz 1 hinaus erfährt. Hat das Ersatzland einen geringeren Wert als das zu enteignende Grundstück, so ist eine dem Wertunterschied entsprechende zusätzliche Geldentschädigung festzusetzen. Hat das Ersatzland einen höheren Wert als das zu enteignende Grundstück, so ist festzusetzen, dass der Entschädigungsberechtigte an den durch die Enteignung Begünstigten eine dem Wertunterschied entsprechende Ausgleichszahlung zu leisten hat. Die Ausgleichszahlung wird mit dem nach § 117 Absatz 5 Satz 1 in der Ausführungsanordnung festgesetzten Tag fällig.
 
-(6) Wird die Entschädigung in Land festgesetzt, sollen dingliche oder persönliche Rechte, soweit sie nicht an dem zu enteignenden Grundstück aufrechterhalten werden, auf Antrag des Rechtsinhabers ganz oder teilweise nach Maßgabe des § 97 Abs. 2 ersetzt werden. Soweit dies nicht möglich ist oder nicht ausreicht, sind die Inhaber der Rechte gesondert in Geld zu entschädigen; dies gilt für die in § 97 Abs. 4 bezeichneten Berechtigungen nur, soweit ihre Rechte nicht durch eine dem Eigentümer nach Absatz 5 zu gewährende zusätzliche Geldentschädigung gedeckt werden.
+(6) Wird die Entschädigung in Land festgesetzt, sollen dingliche oder persönliche Rechte, soweit sie nicht an dem zu enteignenden Grundstück aufrechterhalten werden, auf Antrag des Rechtsinhabers ganz oder teilweise nach Maßgabe des § 97 Absatz 2 ersetzt werden. Soweit dies nicht möglich ist oder nicht ausreicht, sind die Inhaber der Rechte gesondert in Geld zu entschädigen; dies gilt für die in § 97 Absatz 4 bezeichneten Berechtigungen nur, soweit ihre Rechte nicht durch eine dem Eigentümer nach Absatz 5 zu gewährende zusätzliche Geldentschädigung gedeckt werden.
 
 (7) Anträge nach den Absätzen 1, 3, 4 und 6 sind schriftlich oder zur Niederschrift der Enteignungsbehörde zu stellen, und zwar in den Fällen der Absätze 1, 3 und 4 vor Beginn und im Falle des Absatzes 6 bis zum Schluss der mündlichen Verhandlung (§ 108).
 
-(8) Sind Miteigentum, grundstücksgleiche Rechte oder Rechte nach dem Wohnungseigentumsgesetz ebenso zur Sicherung der Berufs- oder Erwerbstätigkeit des Berechtigten oder zur Erfüllung der ihm wesensgemäß obliegenden Aufgaben geeignet, können dem Eigentümer diese Rechte an Stelle des Ersatzlands angeboten werden. Der Eigentümer ist in Geld abzufinden, wenn er die ihm nach Satz 1 angebotene Entschädigung ablehnt. § 101 bleibt unberührt.
+(8) Sind Miteigentum, grundstücksgleiche Rechte oder Rechte nach dem Wohnungseigentumsgesetz ebenso zur Sicherung der Berufs- oder Erwerbstätigkeit des Berechtigten oder zur Erfüllung der ihm wesensgemäß obliegenden Aufgaben geeignet, können dem Eigentümer diese Rechte anstelle des Ersatzlands angeboten werden. Der Eigentümer ist in Geld abzufinden, wenn er die ihm nach Satz 1 angebotene Entschädigung ablehnt. § 101 bleibt unberührt.
 
 (9) Hat der Eigentümer nach Absatz 1 oder 3 einen Anspruch auf Ersatzland und beschafft er sich mit Zustimmung des Enteignungsbegünstigten außerhalb des Enteignungsverfahrens Ersatzland oder die in Absatz 8 bezeichneten Rechte selbst, so hat er gegen den Enteignungsbegünstigten einen Anspruch auf Erstattung der erforderlichen Aufwendungen. Der Enteignungsbegünstigte ist nur insoweit zur Erstattung verpflichtet, als er selbst Aufwendungen erspart. Kommt eine Einigung über die Erstattung nicht zustande, entscheidet die Enteignungsbehörde; für den Bescheid gilt § 122 entsprechend.
 
@@ -4327,7 +2715,7 @@ durch Übertragung von Eigentum an einem bebauten Grundstück des Enteignungsbeg
 3.  
 durch Übertragung von Eigentum an einem Grundstück des Enteignungsbegünstigten, das mit einem Eigenheim oder einer Kleinsiedlung bebaut werden soll.
 
-Bei Wertunterschieden zwischen den Rechten nach Satz 1 und dem zu enteignenden Grundstück gilt § 100 Abs. 5 entsprechend.
+Bei Wertunterschieden zwischen den Rechten nach Satz 1 und dem zu enteignenden Grundstück gilt § 100 Absatz 5 entsprechend.
 
 (2) Der Antrag nach Absatz 1 muss bis zum Schluss der mündlichen Verhandlung schriftlich oder zur Niederschrift der Enteignungsbehörde gestellt werden.
 
@@ -4336,7 +2724,7 @@ Bei Wertunterschieden zwischen den Rechten nach Satz 1 und dem zu enteignenden G
 (1) Der enteignete frühere Eigentümer kann verlangen, dass das enteignete Grundstück zu seinen Gunsten wieder enteignet wird (Rückenteignung), wenn und soweit
 
 1.  
-der durch die Enteignung Begünstigte oder sein Rechtsnachfolger das Grundstück nicht innerhalb der festgesetzten Fristen (§ 113 Abs. 2 Nr. 3 und § 114) zu dem Enteignungszweck verwendet oder den Enteignungszweck vor Ablauf der Frist aufgegeben hat oder
+der durch die Enteignung Begünstigte oder sein Rechtsnachfolger das Grundstück nicht innerhalb der festgesetzten Fristen (§ 113 Absatz 2 Nummer 3 und § 114) zu dem Enteignungszweck verwendet oder den Enteignungszweck vor Ablauf der Frist aufgegeben hat oder
 
 2.  
 die Gemeinde ihre Verpflichtung zur Übereignung nach § 89 nicht erfüllt hat.
@@ -4359,7 +2747,7 @@ ein Verfahren zur Enteignung des Grundstücks nach diesem Gesetzbuch zugunsten e
 
 ### § 103 Entschädigung für die Rückenteignung
 
-Wird dem Antrag auf Rückenteignung stattgegeben, so hat der Antragsteller dem von der Rückenteignung Betroffenen Entschädigung für den Rechtsverlust zu leisten. § 93 Abs. 2 Nr. 2 ist nicht anzuwenden. Ist dem Antragsteller bei der ersten Enteignung eine Entschädigung für andere Vermögensnachteile gewährt worden, so hat er diese Entschädigung insoweit zurückzugewähren, als die Nachteile auf Grund der Rückenteignung entfallen. Die dem Eigentümer zu gewährende Entschädigung darf den bei der ersten Enteignung zugrunde gelegten Verkehrswert des Grundstücks nicht übersteigen, jedoch sind Aufwendungen zu berücksichtigen, die zu einer Werterhöhung des Grundstücks geführt haben. Im Übrigen gelten die Vorschriften über die Entschädigung im Zweiten Abschnitt entsprechend.
+Wird dem Antrag auf Rückenteignung stattgegeben, so hat der Antragsteller dem von der Rückenteignung Betroffenen Entschädigung für den Rechtsverlust zu leisten. § 93 Absatz 2 Nummer 2 ist nicht anzuwenden. Ist dem Antragsteller bei der ersten Enteignung eine Entschädigung für andere Vermögensnachteile gewährt worden, so hat er diese Entschädigung insoweit zurückzugewähren, als die Nachteile auf Grund der Rückenteignung entfallen. Die dem Eigentümer zu gewährende Entschädigung darf den bei der ersten Enteignung zugrunde gelegten Verkehrswert des Grundstücks nicht übersteigen, jedoch sind Aufwendungen zu berücksichtigen, die zu einer Werterhöhung des Grundstücks geführt haben. Im Übrigen gelten die Vorschriften über die Entschädigung im Zweiten Abschnitt entsprechend.
 
 Dritter Abschnitt Enteignungsverfahren
 --------------------------------------
@@ -4398,7 +2786,7 @@ die Eigentümer der Grundstücke, die durch eine Enteignung nach § 91 betroffen
 6.  
 die Gemeinde.
 
-(2) Die in Absatz 1 Nr. 3 bezeichneten Personen werden in dem Zeitpunkt Beteiligte, in dem die Anmeldung ihres Rechts der Enteignungsbehörde zugeht. Die Anmeldung kann spätestens bis zum Schluss der mündlichen Verhandlung mit den Beteiligten erfolgen.
+(2) Die in Absatz 1 Nummer 3 bezeichneten Personen werden in dem Zeitpunkt Beteiligte, in dem die Anmeldung ihres Rechts der Enteignungsbehörde zugeht. Die Anmeldung kann spätestens bis zum Schluss der mündlichen Verhandlung mit den Beteiligten erfolgen.
 
 (3) Bestehen Zweifel an einem angemeldeten Recht, so hat die Enteignungsbehörde dem Anmeldenden unverzüglich eine Frist zur Glaubhaftmachung seines Rechts zu setzen. Nach fruchtlosem Ablauf der Frist ist er bis zur Glaubhaftmachung seines Rechts nicht mehr zu beteiligen.
 
@@ -4419,10 +2807,10 @@ die Gemeinde.
 (2) Das Enteignungsverfahren zugunsten der Gemeinde kann bereits eingeleitet werden, wenn
 
 1.  
-der Entwurf des Bebauungsplans nach § 3 Abs. 2 ausgelegen hat und
+der Entwurf des Bebauungsplans nach § 3 Absatz 2 ausgelegen hat und
 
 2.  
-mit den Beteiligten die Verhandlungen nach § 87 Abs. 2 geführt und die von ihnen gegen den Entwurf des Bebauungsplans fristgemäß vorgebrachten Anregungen erörtert worden sind. Die Gemeinde kann in demselben Termin die Verhandlungen nach § 87 Abs. 2 führen und die Anregungen erörtern.
+mit den Beteiligten die Verhandlungen nach § 87 Absatz 2 geführt und die von ihnen gegen den Entwurf des Bebauungsplans fristgemäß vorgebrachten Anregungen erörtert worden sind. Die Gemeinde kann in demselben Termin die Verhandlungen nach § 87 Absatz 2 führen und die Anregungen erörtern.
 
 Das Verfahren ist so zu fördern, dass der Enteignungsbeschluss ergehen kann, sobald der Bebauungsplan rechtsverbindlich geworden ist. Eine Einigung nach § 110 oder § 111 kann auch vor Rechtsverbindlichkeit des Bebauungsplans erfolgen.
 
@@ -4462,19 +2850,19 @@ den Hinweis, dass auch bei Nichterscheinen über den Enteignungsantrag und ander
 
 (1) Die Enteignungsbehörde hat auf eine Einigung zwischen den Beteiligten hinzuwirken.
 
-(2) Einigen sich die Beteiligten, so hat die Enteignungsbehörde eine Niederschrift über die Einigung aufzunehmen. Die Niederschrift muss den Erfordernissen des § 113 Abs. 2 entsprechen. Sie ist von den Beteiligten zu unterschreiben. Ein Bevollmächtigter des Eigentümers bedarf einer öffentlich beglaubigten Vollmacht.
+(2) Einigen sich die Beteiligten, so hat die Enteignungsbehörde eine Niederschrift über die Einigung aufzunehmen. Die Niederschrift muss den Erfordernissen des § 113 Absatz 2 entsprechen. Sie ist von den Beteiligten zu unterschreiben. Ein Bevollmächtigter des Eigentümers bedarf einer öffentlich beglaubigten Vollmacht.
 
-(3) Die beurkundete Einigung steht einem nicht mehr anfechtbaren Enteignungsbeschluss gleich. § 113 Abs. 5 ist entsprechend anzuwenden.
+(3) Die beurkundete Einigung steht einem nicht mehr anfechtbaren Enteignungsbeschluss gleich. § 113 Absatz 5 ist entsprechend anzuwenden.
 
 ### § 111 Teileinigung
 
-Einigen sich die Beteiligten nur über den Übergang oder die Belastung des Eigentums an dem zu enteignenden Grundstück, jedoch nicht über die Höhe der Entschädigung, so ist § 110 Abs. 2 und 3 entsprechend anzuwenden. Die Enteignungsbehörde hat anzuordnen, dass dem Berechtigten eine Vorauszahlung in Höhe der zu erwartenden Entschädigung zu leisten ist, soweit sich aus der Einigung nichts anderes ergibt. Im Übrigen nimmt das Enteignungsverfahren seinen Fortgang.
+Einigen sich die Beteiligten nur über den Übergang oder die Belastung des Eigentums an dem zu enteignenden Grundstück, jedoch nicht über die Höhe der Entschädigung, so ist § 110 Absatz 2 und 3 entsprechend anzuwenden. Die Enteignungsbehörde hat anzuordnen, dass dem Berechtigten eine Vorauszahlung in Höhe der zu erwartenden Entschädigung zu leisten ist, soweit sich aus der Einigung nichts anderes ergibt. Im Übrigen nimmt das Enteignungsverfahren seinen Fortgang.
 
 ### § 112 Entscheidung der Enteignungsbehörde
 
 (1) Soweit eine Einigung nicht zustande kommt, entscheidet die Enteignungsbehörde auf Grund der mündlichen Verhandlung durch Beschluss über den Enteignungsantrag, die übrigen gestellten Anträge sowie über die erhobenen Einwendungen.
 
-(2) Auf Antrag eines Beteiligten hat die Enteignungsbehörde vorab über den Übergang oder die Belastung des Eigentums an dem zu enteignenden Grundstück oder über sonstige durch die Enteignung zu bewirkende Rechtsänderungen zu entscheiden. In diesem Fall hat die Enteignungsbehörde anzuordnen, dass dem Berechtigten eine Vorauszahlung in Höhe der zu erwartenden Entschädigung zu leisten ist.
+(2) Auf Antrag eines Beteiligten hat die Enteignungsbehörde vorab über den Übergang oder die Belastung des Eigentums an dem zu enteignenden Grundstück oder über sonstige durch die Enteignung zu bewirkende Rechtsänderungen zu entscheiden. In diesem Falle hat die Enteignungsbehörde anzuordnen, dass dem Berechtigten eine Vorauszahlung in Höhe der zu erwartenden Entschädigung zu leisten ist.
 
 (3) Gibt die Enteignungsbehörde dem Enteignungsantrag statt, so entscheidet sie zugleich
 
@@ -4485,7 +2873,7 @@ darüber, welche Rechte der in § 97 bezeichneten Berechtigten an dem Gegenstand
 darüber, mit welchen Rechten der Gegenstand der Enteignung, das Ersatzland oder ein anderes Grundstück belastet werden,
 
 3.  
-darüber, welche Rechtsverhältnisse begründet werden, die Rechte der in § 86 Abs. 1 Nr. 3 und 4 bezeichneten Art gewähren,
+darüber, welche Rechtsverhältnisse begründet werden, die Rechte der in § 86 Absatz 1 Nummer 3 und 4 bezeichneten Art gewähren,
 
 4.  
 im Falle der Entschädigung in Ersatzland über den Eigentumsübergang oder die Enteignung des Ersatzlands.
@@ -4518,7 +2906,7 @@ c)
 wenn ein persönliches Recht, das zum Erwerb, zum Besitz oder zur Nutzung von Grundstücken berechtigt oder den Verpflichteten in der Nutzung von Grundstücken beschränkt, Gegenstand einer selbständigen Enteignung ist, dieses Recht nach seinem Inhalt und dem Grund seines Bestehens,
 
 d)  
-die in § 86 Abs. 2 bezeichneten Gegenstände, wenn die Enteignung auf diese ausgedehnt wird;
+die in § 86 Absatz 2 bezeichneten Gegenstände, wenn die Enteignung auf diese ausgedehnt wird;
 
 5.  
 bei der Belastung eines Grundstücks mit einem Recht die Art, den Inhalt, soweit er durch Vertrag bestimmt werden kann, sowie den Rang des Rechts, den Berechtigten und das Grundstück;
@@ -4530,20 +2918,20 @@ bei der Begründung eines Rechts der in Nummer 4 Buchstabe c bezeichneten Art de
 die Eigentums- und sonstigen Rechtsverhältnisse vor und nach der Enteignung;
 
 8.  
-die Art und Höhe der Entschädigungen und die Höhe der Ausgleichszahlungen nach § 100 Abs. 5 Satz 4 und § 101 Abs. 1 Satz 2 mit der Angabe, von wem und an wen sie zu leisten sind; Geldentschädigungen, aus denen andere von der Enteignung Betroffene nach § 97 Abs. 4 zu entschädigen sind, müssen von den sonstigen Geldentschädigungen getrennt ausgewiesen werden;
+die Art und Höhe der Entschädigungen und die Höhe der Ausgleichszahlungen nach § 100 Absatz 5 Satz 4 und § 101 Absatz 1 Satz 2 mit der Angabe, von wem und an wen sie zu leisten sind; Geldentschädigungen, aus denen andere von der Enteignung Betroffene nach § 97 Absatz 4 zu entschädigen sind, müssen von den sonstigen Geldentschädigungen getrennt ausgewiesen werden;
 
 9.  
 bei der Entschädigung in Land das Grundstück in der in Nummer 4 Buchstabe a bezeichneten Weise.
 
-(3) In den Fällen der §§ 111 und 112 Abs. 2 ist der Enteignungsbeschluss entsprechend zu beschränken.
+(3) In den Fällen der §§ 111 und 112 Absatz 2 ist der Enteignungsbeschluss entsprechend zu beschränken.
 
-(4) Kann ein Grundstücksteil noch nicht entsprechend Absatz 2 Nr. 4 Buchstabe a bezeichnet werden, so kann der Enteignungsbeschluss ihn auf Grund fester Merkmale in der Natur oder durch Bezugnahme auf die Eintragung in einen Lageplan bezeichnen. Wenn das Ergebnis der Vermessung vorliegt, ist der Enteignungsbeschluss durch einen Nachtragsbeschluss anzupassen.
+(4) Kann ein Grundstücksteil noch nicht entsprechend Absatz 2 Nummer 4 Buchstabe a bezeichnet werden, so kann der Enteignungsbeschluss ihn auf Grund fester Merkmale in der Natur oder durch Bezugnahme auf die Eintragung in einen Lageplan bezeichnen. Wenn das Ergebnis der Vermessung vorliegt, ist der Enteignungsbeschluss durch einen Nachtragsbeschluss anzupassen.
 
 (5) Ist im Grundbuch die Anordnung der Zwangsversteigerung oder der Zwangsverwaltung eingetragen, gibt die Enteignungsbehörde dem Vollstreckungsgericht von dem Enteignungsbeschluss Kenntnis, wenn dem Enteignungsantrag stattgegeben worden ist.
 
 ### § 114 Lauf der Verwendungsfrist
 
-(1) Die Frist, innerhalb der der Enteignungszweck nach § 113 Abs. 2 Nr. 3 zu verwirklichen ist, beginnt mit dem Eintritt der Rechtsänderung.
+(1) Die Frist, innerhalb der der Enteignungszweck nach § 113 Absatz 2 Nummer 3 zu verwirklichen ist, beginnt mit dem Eintritt der Rechtsänderung.
 
 (2) Die Enteignungsbehörde kann diese Frist vor ihrem Ablauf auf Antrag verlängern, wenn
 
@@ -4571,7 +2959,7 @@ Der enteignete frühere Eigentümer ist vor der Entscheidung über die Verlänge
 
 (3) Durch die Besitzeinweisung wird dem Besitzer der Besitz entzogen und der Eingewiesene Besitzer. Der Eingewiesene darf auf dem Grundstück das von ihm im Enteignungsantrag bezeichnete Bauvorhaben ausführen und die dafür erforderlichen Maßnahmen treffen.
 
-(4) Der Eingewiesene hat für die durch die vorzeitige Besitzeinweisung entstehenden Vermögensnachteile Entschädigung zu leisten, soweit die Nachteile nicht durch die Verzinsung der Geldentschädigung (§ 99 Abs. 3) ausgeglichen werden. Art und Höhe der Entschädigung werden durch die Enteignungsbehörde spätestens in dem in § 113 bezeichneten Beschluss festgesetzt. Wird der Beschluss über Art und Höhe der Entschädigung vorher erlassen, so ist er den in Absatz 2 Satz 3 bezeichneten Personen zuzustellen. Die Entschädigung für die Besitzeinweisung ist ohne Rücksicht darauf, ob ein Antrag auf gerichtliche Entscheidung gestellt wird, zu dem in Absatz 1 Satz 4 bezeichneten Zeitpunkt fällig.
+(4) Der Eingewiesene hat für die durch die vorzeitige Besitzeinweisung entstehenden Vermögensnachteile Entschädigung zu leisten, soweit die Nachteile nicht durch die Verzinsung der Geldentschädigung (§ 99 Absatz 3) ausgeglichen werden. Art und Höhe der Entschädigung werden durch die Enteignungsbehörde spätestens in dem in § 113 bezeichneten Beschluss festgesetzt. Wird der Beschluss über Art und Höhe der Entschädigung vorher erlassen, so ist er den in Absatz 2 Satz 3 bezeichneten Personen zuzustellen. Die Entschädigung für die Besitzeinweisung ist ohne Rücksicht darauf, ob ein Antrag auf gerichtliche Entscheidung gestellt wird, zu dem in Absatz 1 Satz 4 bezeichneten Zeitpunkt fällig.
 
 (5) Auf Antrag einer der in Absatz 2 Satz 3 bezeichneten Personen hat die Enteignungsbehörde den Zustand des Grundstücks vor der Besitzeinweisung in einer Niederschrift feststellen zu lassen, soweit er für die Besitzeinweisungs- oder die Enteignungsentschädigung von Bedeutung ist. Den Beteiligten ist eine Abschrift der Niederschrift zu übersenden.
 
@@ -4579,15 +2967,15 @@ Der enteignete frühere Eigentümer ist vor der Entscheidung über die Verlänge
 
 ### § 117 Ausführung des Enteignungsbeschlusses
 
-(1) Ist der Enteignungsbeschluss oder sind die Entscheidungen nach § 112 Abs. 2 nicht mehr anfechtbar, so ordnet auf Antrag eines Beteiligten die Enteignungsbehörde die Ausführung des Enteignungsbeschlusses oder der Vorabentscheidung an (Ausführungsanordnung), wenn der durch die Enteignung Begünstigte die Geldentschädigung, im Falle der Vorabentscheidung die nach § 112 Abs. 2 Satz 2 festgesetzte Vorauszahlung gezahlt oder in zulässiger Weise unter Verzicht auf das Recht der Rücknahme hinterlegt hat. Auf Antrag des Entschädigungsberechtigten kann im Falle des § 112 Abs. 2 die Enteignungsbehörde die Ausführungsanordnung davon abhängig machen, dass der durch die Enteignung Begünstigte im Übrigen für einen angemessenen Betrag Sicherheit leistet.
+(1) Ist der Enteignungsbeschluss oder sind die Entscheidungen nach § 112 Absatz 2 nicht mehr anfechtbar, so ordnet auf Antrag eines Beteiligten die Enteignungsbehörde die Ausführung des Enteignungsbeschlusses oder der Vorabentscheidung an (Ausführungsanordnung), wenn der durch die Enteignung Begünstigte die Geldentschädigung, im Falle der Vorabentscheidung die nach § 112 Absatz 2 Satz 2 festgesetzte Vorauszahlung gezahlt oder in zulässiger Weise unter Verzicht auf das Recht der Rücknahme hinterlegt hat. Auf Antrag des Entschädigungsberechtigten kann im Falle des § 112 Absatz 2 die Enteignungsbehörde die Ausführungsanordnung davon abhängig machen, dass der durch die Enteignung Begünstigte im Übrigen für einen angemessenen Betrag Sicherheit leistet.
 
 (2) In den Fällen des § 111 ist auf Antrag eines Beteiligten die Ausführungsanordnung zu erlassen, wenn der durch die Enteignung Begünstigte den zwischen den Beteiligten unstreitigen Entschädigungsbetrag gezahlt oder in zulässiger Weise unter Verzicht auf das Recht der Rücknahme hinterlegt hat. Absatz 1 Satz 2 gilt entsprechend, soweit sich nicht aus der Einigung etwas anderes ergibt.
 
-(3) Im Falle des § 113 Abs. 4 ist auf Antrag eines Beteiligten die Ausführungsanordnung zu erlassen, wenn der durch die Enteignung Begünstigte die im Enteignungsbeschluss in Verbindung mit dem Nachtragsbeschluss festgesetzte Geldentschädigung gezahlt oder zulässigerweise unter Verzicht auf das Recht der Rücknahme hinterlegt hat. Der Nachtragsbeschluss braucht nicht unanfechtbar zu sein.
+(3) Im Falle des § 113 Absatz 4 ist auf Antrag eines Beteiligten die Ausführungsanordnung zu erlassen, wenn der durch die Enteignung Begünstigte die im Enteignungsbeschluss in Verbindung mit dem Nachtragsbeschluss festgesetzte Geldentschädigung gezahlt oder zulässigerweise unter Verzicht auf das Recht der Rücknahme hinterlegt hat. Der Nachtragsbeschluss braucht nicht unanfechtbar zu sein.
 
-(4) Die Ausführungsanordnung ist allen Beteiligten zuzustellen, deren Rechtsstellung durch den Enteignungsbeschluss betroffen wird. Die Ausführungsanordnung ist der Gemeinde abschriftlich mitzuteilen, in deren Bezirk das von der Enteignung betroffene Grundstück liegt. § 113 Abs. 5 gilt entsprechend.
+(4) Die Ausführungsanordnung ist allen Beteiligten zuzustellen, deren Rechtsstellung durch den Enteignungsbeschluss betroffen wird. Die Ausführungsanordnung ist der Gemeinde abschriftlich mitzuteilen, in deren Bezirk das von der Enteignung betroffene Grundstück liegt. § 113 Absatz 5 gilt entsprechend.
 
-(5) Mit dem in der Ausführungsanordnung festzusetzenden Tag wird der bisherige Rechtszustand durch den im Enteignungsbeschluss geregelten neuen Rechtszustand ersetzt. Gleichzeitig entstehen die nach § 113 Abs. 2 Nr. 6 begründeten Rechtsverhältnisse; sie gelten von diesem Zeitpunkt an als zwischen den an dem Rechtsverhältnis Beteiligten vereinbart.
+(5) Mit dem in der Ausführungsanordnung festzusetzenden Tag wird der bisherige Rechtszustand durch den im Enteignungsbeschluss geregelten neuen Rechtszustand ersetzt. Gleichzeitig entstehen die nach § 113 Absatz 2 Nummer 6 begründeten Rechtsverhältnisse; sie gelten von diesem Zeitpunkt an als zwischen den an dem Rechtsverhältnis Beteiligten vereinbart.
 
 (6) Die Ausführungsanordnung schließt die Einweisung in den Besitz des enteigneten Grundstücks und des Ersatzlands zu dem festgesetzten Tag ein.
 
@@ -4595,7 +2983,7 @@ Der enteignete frühere Eigentümer ist vor der Entscheidung über die Verlänge
 
 ### § 118 Hinterlegung
 
-(1) Geldentschädigungen, aus denen andere Berechtigte nach § 97 Abs. 4 zu befriedigen sind, sind unter Verzicht auf das Recht der Rücknahme zu hinterlegen, soweit mehrere Personen auf sie Anspruch haben und eine Einigung über die Auszahlung nicht nachgewiesen ist. Die Hinterlegung erfolgt bei dem Amtsgericht, in dessen Bezirk das von der Enteignung betroffene Grundstück liegt; § 2 des Zwangsversteigerungsgesetzes gilt entsprechend.
+(1) Geldentschädigungen, aus denen andere Berechtigte nach § 97 Absatz 4 zu befriedigen sind, sind unter Verzicht auf das Recht der Rücknahme zu hinterlegen, soweit mehrere Personen auf sie Anspruch haben und eine Einigung über die Auszahlung nicht nachgewiesen ist. Die Hinterlegung erfolgt bei dem Amtsgericht, in dessen Bezirk das von der Enteignung betroffene Grundstück liegt; § 2 des Zwangsversteigerungsgesetzes gilt entsprechend.
 
 (2) Andere Vorschriften, nach denen die Hinterlegung geboten oder statthaft ist, werden hierdurch nicht berührt.
 
@@ -4614,16 +3002,16 @@ Das Verteilungsverfahren ist durch Beschluss zu eröffnen;
 die Zustellung des Eröffnungsbeschlusses an den Antragsteller gilt als Beschlagnahme im Sinne des § 13 des Zwangsversteigerungsgesetzes; ist das Grundstück schon in einem Zwangsversteigerungs- oder Zwangsverwaltungsverfahren beschlagnahmt, so hat es hierbei sein Bewenden;
 
 3.  
-das Verteilungsgericht hat bei Eröffnung des Verfahrens von Amts wegen das Grundbuchamt um die in § 19 Abs. 2 des Zwangsversteigerungsgesetzes bezeichneten Mitteilungen zu ersuchen; in die beglaubigte Abschrift des Grundbuchblatts sind die zur Zeit der Zustellung des Enteignungsbeschlusses an den Enteigneten vorhandenen Eintragungen sowie die später eingetragenen Veränderungen und Löschungen aufzunehmen;
+das Verteilungsgericht hat bei Eröffnung des Verfahrens von Amts wegen das Grundbuchamt um die in § 19 Absatz 2 des Zwangsversteigerungsgesetzes bezeichneten Mitteilungen zu ersuchen; in die beglaubigte Abschrift des Grundbuchblatts sind die zur Zeit der Zustellung des Enteignungsbeschlusses an den Enteigneten vorhandenen Eintragungen sowie die später eingetragenen Veränderungen und Löschungen aufzunehmen;
 
 4.  
-bei dem Verfahren sind die in § 97 Abs. 4 bezeichneten Entschädigungsberechtigten nach Maßgabe des § 10 des Zwangsversteigerungsgesetzes zu berücksichtigen, wegen der Ansprüche auf wiederkehrende Nebenleistungen jedoch nur für die Zeit bis zur Hinterlegung.
+bei dem Verfahren sind die in § 97 Absatz 4 bezeichneten Entschädigungsberechtigten nach Maßgabe des § 10 des Zwangsversteigerungsgesetzes zu berücksichtigen, wegen der Ansprüche auf wiederkehrende Nebenleistungen jedoch nur für die Zeit bis zur Hinterlegung.
 
 (4) Soweit auf Grund landesrechtlicher Vorschriften die Verteilung des Erlöses im Falle einer Zwangsversteigerung nicht von dem Vollstreckungsgericht, sondern von einer anderen Stelle wahrzunehmen ist, kann durch Landesrecht bestimmt werden, dass diese andere Stelle auch für das Verteilungsverfahren nach den Absätzen 1 bis 3 zuständig ist. Wird die Änderung einer Entscheidung dieser anderen Stelle verlangt, so ist die Entscheidung des Vollstreckungsgerichts nachzusuchen. Die Beschwerde findet gegen die Entscheidung des Vollstreckungsgerichts statt.
 
 ### § 120 Aufhebung des Enteignungsbeschlusses
 
-(1) Ist die Ausführungsanordnung noch nicht ergangen, so hat die Enteignungsbehörde den Enteignungsbeschluss auf Antrag aufzuheben, wenn der durch die Enteignung Begünstigte die ihm durch den Enteignungsbeschluss auferlegten Zahlungen nicht innerhalb eines Monats nach dem Zeitpunkt geleistet hat, in dem der Beschluss unanfechtbar geworden ist. Antragsberechtigt ist jeder Beteiligte, dem eine nicht gezahlte Entschädigung zusteht oder der nach § 97 Abs. 4 aus ihr zu befriedigen ist.
+(1) Ist die Ausführungsanordnung noch nicht ergangen, so hat die Enteignungsbehörde den Enteignungsbeschluss auf Antrag aufzuheben, wenn der durch die Enteignung Begünstigte die ihm durch den Enteignungsbeschluss auferlegten Zahlungen nicht innerhalb eines Monats nach dem Zeitpunkt geleistet hat, in dem der Beschluss unanfechtbar geworden ist. Antragsberechtigt ist jeder Beteiligte, dem eine nicht gezahlte Entschädigung zusteht oder der nach § 97 Absatz 4 aus ihr zu befriedigen ist.
 
 (2) Vor der Aufhebung ist der durch die Enteignung Begünstigte zu hören. Der Aufhebungsbeschluss ist allen Beteiligten zuzustellen und der Gemeinde und dem Grundbuchamt abschriftlich mitzuteilen.
 
@@ -4680,9 +3068,9 @@ Hat die Gemeinde einen Bebauungsplan im Sinne des § 30 Absatz 1 erlassen und le
 
 ### § 125 Bindung an den Bebauungsplan
 
-(1) Die Herstellung der Erschließungsanlagen im Sinne des § 127 Abs. 2 setzt einen Bebauungsplan voraus.
+(1) Die Herstellung der Erschließungsanlagen im Sinne des § 127 Absatz 2 setzt einen Bebauungsplan voraus.
 
-(2) Liegt ein Bebauungsplan nicht vor, so dürfen diese Anlagen nur hergestellt werden, wenn sie den in § 1 Abs. 4 bis 7 bezeichneten Anforderungen entsprechen.
+(2) Liegt ein Bebauungsplan nicht vor, so dürfen diese Anlagen nur hergestellt werden, wenn sie den in § 1 Absatz 4 bis 7 bezeichneten Anforderungen entsprechen.
 
 (3) Die Rechtmäßigkeit der Herstellung von Erschließungsanlagen wird durch Abweichungen von den Festsetzungen des Bebauungsplans nicht berührt, wenn die Abweichungen mit den Grundzügen der Planung vereinbar sind und
 
@@ -4704,7 +3092,7 @@ Kennzeichen und Hinweisschildern für Erschließungsanlagen
 
 auf seinem Grundstück zu dulden. Er ist vorher zu benachrichtigen.
 
-(2) Der Erschließungsträger hat Schäden, die dem Eigentümer durch das Anbringen oder das Entfernen der in Absatz 1 bezeichneten Gegenstände entstehen, zu beseitigen; er kann statt dessen eine angemessene Entschädigung in Geld leisten. Kommt eine Einigung über die Entschädigung nicht zustande, so entscheidet die höhere Verwaltungsbehörde; vor der Entscheidung sind die Beteiligten zu hören.
+(2) Der Erschließungsträger hat Schäden, die dem Eigentümer durch das Anbringen oder das Entfernen der in Absatz 1 bezeichneten Gegenstände entstehen, zu beseitigen; er kann stattdessen eine angemessene Entschädigung in Geld leisten. Kommt eine Einigung über die Entschädigung nicht zustande, so entscheidet die höhere Verwaltungsbehörde; vor der Entscheidung sind die Beteiligten zu hören.
 
 (3) Der Eigentümer hat sein Grundstück mit der von der Gemeinde festgesetzten Nummer zu versehen. Im Übrigen gelten die landesrechtlichen Vorschriften.
 
@@ -4751,7 +3139,7 @@ ihre erstmalige Herstellung einschließlich der Einrichtungen für ihre Entwäss
 3.  
 die Übernahme von Anlagen als gemeindliche Erschließungsanlagen.
 
-Der Erschließungsaufwand umfasst auch den Wert der von der Gemeinde aus ihrem Vermögen bereitgestellten Flächen im Zeitpunkt der Bereitstellung. Zu den Kosten für den Erwerb der Flächen für Erschließungsanlagen gehört im Falle einer erschließungsbeitragspflichtigen Zuteilung im Sinne des § 57 Satz 4 und des § 58 Abs. 1 Satz 1 auch der Wert nach § 68 Abs. 1 Nr. 4.
+Der Erschließungsaufwand umfasst auch den Wert der von der Gemeinde aus ihrem Vermögen bereitgestellten Flächen im Zeitpunkt der Bereitstellung. Zu den Kosten für den Erwerb der Flächen für Erschließungsanlagen gehört im Falle einer erschließungsbeitragspflichtigen Zuteilung im Sinne des § 57 Satz 4 und des § 58 Absatz 1 Satz 1 auch der Wert nach § 68 Absatz 1 Nummer 4.
 
 (2) Soweit die Gemeinden nach Landesrecht berechtigt sind, Beiträge zu den Kosten für Erweiterungen oder Verbesserungen von Erschließungsanlagen zu erheben, bleibt dieses Recht unberührt. Die Länder können bestimmen, dass die Kosten für die Beleuchtung der Erschließungsanlagen in den Erschließungsaufwand nicht einzubeziehen sind.
 
@@ -4765,7 +3153,7 @@ die Fahrbahnen der Ortsdurchfahrten von Bundesstraßen sowie von Landstraßen I.
 
 ### § 129 Beitragsfähiger Erschließungsaufwand
 
-(1) Zur Deckung des anderweitig nicht gedeckten Erschließungsaufwands können Beiträge nur insoweit erhoben werden, als die Erschließungsanlagen erforderlich sind, um die Bauflächen und die gewerblich zu nutzenden Flächen entsprechend den baurechtlichen Vorschriften zu nutzen (beitragsfähiger Erschließungsaufwand). Soweit Anlagen nach § 127 Abs. 2 von dem Eigentümer hergestellt sind oder von ihm auf Grund baurechtlicher Vorschriften verlangt werden, dürfen Beiträge nicht erhoben werden. Die Gemeinden tragen mindestens 10 vom Hundert des beitragsfähigen Erschließungsaufwands.
+(1) Zur Deckung des anderweitig nicht gedeckten Erschließungsaufwands können Beiträge nur insoweit erhoben werden, als die Erschließungsanlagen erforderlich sind, um die Bauflächen und die gewerblich zu nutzenden Flächen entsprechend den baurechtlichen Vorschriften zu nutzen (beitragsfähiger Erschließungsaufwand). Soweit Anlagen nach § 127 Absatz 2 von dem Eigentümer hergestellt sind oder von ihm auf Grund baurechtlicher Vorschriften verlangt werden, dürfen Beiträge nicht erhoben werden. Die Gemeinden tragen mindestens 10 vom Hundert des beitragsfähigen Erschließungsaufwands.
 
 (2) Kosten, die ein Eigentümer oder sein Rechtsvorgänger bereits für Erschließungsmaßnahmen aufgewandt hat, dürfen bei der Übernahme als gemeindliche Erschließungsanlagen nicht erneut erhoben werden.
 
@@ -4777,7 +3165,7 @@ die Fahrbahnen der Ortsdurchfahrten von Bundesstraßen sowie von Landstraßen I.
 
 ### § 131 Maßstäbe für die Verteilung des Erschließungsaufwands
 
-(1) Der ermittelte beitragsfähige Erschließungsaufwand für eine Erschließungsanlage ist auf die durch die Anlage erschlossenen Grundstücke zu verteilen. Mehrfach erschlossene Grundstücke sind bei gemeinsamer Aufwandsermittlung in einer Erschließungseinheit (§ 130 Abs. 2 Satz 3) bei der Verteilung des Erschließungsaufwands nur einmal zu berücksichtigen.
+(1) Der ermittelte beitragsfähige Erschließungsaufwand für eine Erschließungsanlage ist auf die durch die Anlage erschlossenen Grundstücke zu verteilen. Mehrfach erschlossene Grundstücke sind bei gemeinsamer Aufwandsermittlung in einer Erschließungseinheit (§ 130 Absatz 2 Satz 3) bei der Verteilung des Erschließungsaufwands nur einmal zu berücksichtigen.
 
 (2) Verteilungsmaßstäbe sind
 
@@ -4805,7 +3193,7 @@ die Art und den Umfang der Erschließungsanlagen im Sinne des § 129,
 die Art der Ermittlung und der Verteilung des Aufwands sowie die Höhe des Einheitssatzes,
 
 3.  
-die Kostenspaltung (§ 127 Abs. 3) und
+die Kostenspaltung (§ 127 Absatz 3) und
 
 4.  
 die Merkmale der endgültigen Herstellung einer Erschließungsanlage.
@@ -4814,13 +3202,13 @@ die Merkmale der endgültigen Herstellung einer Erschließungsanlage.
 
 (1) Der Beitragspflicht unterliegen Grundstücke, für die eine bauliche oder gewerbliche Nutzung festgesetzt ist, sobald sie bebaut oder gewerblich genutzt werden dürfen. Erschlossene Grundstücke, für die eine bauliche oder gewerbliche Nutzung nicht festgesetzt ist, unterliegen der Beitragspflicht, wenn sie nach der Verkehrsauffassung Bauland sind und nach der geordneten baulichen Entwicklung der Gemeinde zur Bebauung anstehen. Die Gemeinde gibt bekannt, welche Grundstücke nach Satz 2 der Beitragspflicht unterliegen; die Bekanntmachung hat keine rechtsbegründende Wirkung.
 
-(2) Die Beitragspflicht entsteht mit der endgültigen Herstellung der Erschließungsanlagen, für Teilbeträge, sobald die Maßnahmen, deren Aufwand durch die Teilbeträge gedeckt werden soll, abgeschlossen sind. Im Falle des § 128 Abs. 1 Satz 1 Nr. 3 entsteht die Beitragspflicht mit der Übernahme durch die Gemeinde.
+(2) Die Beitragspflicht entsteht mit der endgültigen Herstellung der Erschließungsanlagen, für Teilbeträge, sobald die Maßnahmen, deren Aufwand durch die Teilbeträge gedeckt werden soll, abgeschlossen sind. Im Falle des § 128 Absatz 1 Satz 1 Nummer 3 entsteht die Beitragspflicht mit der Übernahme durch die Gemeinde.
 
-(3) Für ein Grundstück, für das eine Beitragspflicht noch nicht oder nicht in vollem Umfang entstanden ist, können Vorausleistungen auf den Erschließungsbeitrag bis zur Höhe des voraussichtlichen endgültigen Erschließungsbeitrags verlangt werden, wenn ein Bauvorhaben auf dem Grundstück genehmigt wird oder wenn mit der Herstellung der Erschließungsanlagen begonnen worden ist und die endgültige Herstellung der Erschließungsanlagen innerhalb von vier Jahren zu erwarten ist. Die Vorausleistung ist mit der endgültigen Beitragsschuld zu verrechnen, auch wenn der Vorausleistende nicht beitragspflichtig ist. Ist die Beitragspflicht sechs Jahre nach Erlass des Vorausleistungsbescheids noch nicht entstanden, kann die Vorausleistung zurückverlangt werden, wenn die Erschließungsanlage bis zu diesem Zeitpunkt noch nicht benutzbar ist. Der Rückzahlungsanspruch ist ab Erhebung der Vorausleistung mit 2 vom Hundert über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich zu verzinsen. Die Gemeinde kann Bestimmungen über die Ablösung des Erschließungsbeitrags im ganzen vor Entstehung der Beitragspflicht treffen.
+(3) Für ein Grundstück, für das eine Beitragspflicht noch nicht oder nicht in vollem Umfang entstanden ist, können Vorausleistungen auf den Erschließungsbeitrag bis zur Höhe des voraussichtlichen endgültigen Erschließungsbeitrags verlangt werden, wenn ein Bauvorhaben auf dem Grundstück genehmigt wird oder wenn mit der Herstellung der Erschließungsanlagen begonnen worden ist und die endgültige Herstellung der Erschließungsanlagen innerhalb von vier Jahren zu erwarten ist. Die Vorausleistung ist mit der endgültigen Beitragsschuld zu verrechnen, auch wenn der Vorausleistende nicht beitragspflichtig ist. Ist die Beitragspflicht sechs Jahre nach Erlass des Vorausleistungsbescheids noch nicht entstanden, kann die Vorausleistung zurückverlangt werden, wenn die Erschließungsanlage bis zu diesem Zeitpunkt noch nicht benutzbar ist. Der Rückzahlungsanspruch ist ab Erhebung der Vorausleistung mit 2 vom Hundert über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich zu verzinsen. Die Gemeinde kann Bestimmungen über die Ablösung des Erschließungsbeitrags im Ganzen vor Entstehung der Beitragspflicht treffen.
 
 ### § 134 Beitragspflichtiger
 
-(1) Beitragspflichtig ist derjenige, der im Zeitpunkt der Bekanntgabe des Beitragsbescheids Eigentümer des Grundstücks ist. Ist das Grundstück mit einem Erbbaurecht belastet, so ist der Erbbauberechtigte an Stelle des Eigentümers beitragspflichtig. Ist das Grundstück mit einem dinglichen Nutzungsrecht nach Artikel 233 § 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche belastet, so ist der Inhaber dieses Rechts an Stelle des Eigentümers beitragspflichtig. Mehrere Beitragspflichtige haften als Gesamtschuldner; bei Wohnungs- und Teileigentum sind die einzelnen Wohnungs- und Teileigentümer nur entsprechend ihrem Miteigentumsanteil beitragspflichtig.
+(1) Beitragspflichtig ist derjenige, der im Zeitpunkt der Bekanntgabe des Beitragsbescheids Eigentümer des Grundstücks ist. Ist das Grundstück mit einem Erbbaurecht belastet, so ist der Erbbauberechtigte anstelle des Eigentümers beitragspflichtig. Ist das Grundstück mit einem dinglichen Nutzungsrecht nach Artikel 233 § 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche belastet, so ist der Inhaber dieses Rechts anstelle des Eigentümers beitragspflichtig. Mehrere Beitragspflichtige haften als Gesamtschuldner; bei Wohnungs- und Teileigentum sind die einzelnen Wohnungs- und Teileigentümer nur entsprechend ihrem Miteigentumsanteil beitragspflichtig.
 
 (2) Der Beitrag ruht als öffentliche Last auf dem Grundstück, im Falle des Absatzes 1 Satz 2 auf dem Erbbaurecht, im Falle des Absatzes 1 Satz 3 auf dem dinglichen Nutzungsrecht, im Falle des Absatzes 1 Satz 4 auf dem Wohnungs- oder dem Teileigentum.
 
@@ -4830,7 +3218,7 @@ die Merkmale der endgültigen Herstellung einer Erschließungsanlage.
 
 (2) Die Gemeinde kann zur Vermeidung unbilliger Härten im Einzelfall, insbesondere soweit dies zur Durchführung eines genehmigten Bauvorhabens erforderlich ist, zulassen, dass der Erschließungsbeitrag in Raten oder in Form einer Rente gezahlt wird. Ist die Finanzierung eines Bauvorhabens gesichert, so soll die Zahlungsweise der Auszahlung der Finanzierungsmittel angepasst, jedoch nicht über zwei Jahre hinaus erstreckt werden.
 
-(3) Läßt die Gemeinde nach Absatz 2 eine Verrentung zu, so ist der Erschließungsbeitrag durch Bescheid in eine Schuld umzuwandeln, die in höchstens zehn Jahresleistungen zu entrichten ist. In dem Bescheid sind Höhe und Zeitpunkt der Fälligkeit der Jahresleistungen zu bestimmen. Der jeweilige Restbetrag ist mit höchstens 2 vom Hundert über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich zu verzinsen. Die Jahresleistungen stehen wiederkehrenden Leistungen im Sinne des § 10 Abs. 1 Nr. 3 des Zwangsversteigerungsgesetzes gleich.
+(3) Lässt die Gemeinde nach Absatz 2 eine Verrentung zu, so ist der Erschließungsbeitrag durch Bescheid in eine Schuld umzuwandeln, die in höchstens zehn Jahresleistungen zu entrichten ist. In dem Bescheid sind Höhe und Zeitpunkt der Fälligkeit der Jahresleistungen zu bestimmen. Der jeweilige Restbetrag ist mit höchstens 2 vom Hundert über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich zu verzinsen. Die Jahresleistungen stehen wiederkehrenden Leistungen im Sinne des § 10 Absatz 1 Nummer 3 des Zwangsversteigerungsgesetzes gleich.
 
 (4) Werden Grundstücke landwirtschaftlich oder als Wald genutzt, ist der Beitrag so lange zinslos zu stunden, wie das Grundstück zur Erhaltung der Wirtschaftlichkeit des landwirtschaftlichen Betriebs genutzt werden muss. Satz 1 gilt auch für die Fälle der Nutzungsüberlassung und Betriebsübergabe an Familienangehörige im Sinne des § 15 der Abgabenordnung. Der Beitrag ist auch zinslos zu stunden, solange Grundstücke als Kleingärten im Sinne des Bundeskleingartengesetzes genutzt werden.
 
@@ -4845,9 +3233,9 @@ Siebter Teil Maßnahmen für den Naturschutz
 
 ### § 135a Pflichten des Vorhabenträgers; Durchführung durch die Gemeinde; Kostenerstattung
 
-(1) Festgesetzte Maßnahmen zum Ausgleich im Sinne des § 1a Abs. 3 sind vom Vorhabenträger durchzuführen.
+(1) Festgesetzte Maßnahmen zum Ausgleich im Sinne des § 1a Absatz 3 sind vom Vorhabenträger durchzuführen.
 
-(2) Soweit Maßnahmen zum Ausgleich an anderer Stelle den Grundstücken nach § 9 Abs. 1a zugeordnet sind, soll die Gemeinde diese an Stelle und auf Kosten der Vorhabenträger oder der Eigentümer der Grundstücke durchführen und auch die hierfür erforderlichen Flächen bereitstellen, sofern dies nicht auf andere Weise gesichert ist. Die Maßnahmen zum Ausgleich können bereits vor den Baumaßnahmen und der Zuordnung durchgeführt werden.
+(2) Soweit Maßnahmen zum Ausgleich an anderer Stelle den Grundstücken nach § 9 Absatz 1a zugeordnet sind, soll die Gemeinde diese anstelle und auf Kosten der Vorhabenträger oder der Eigentümer der Grundstücke durchführen und auch die hierfür erforderlichen Flächen bereitstellen, sofern dies nicht auf andere Weise gesichert ist. Die Maßnahmen zum Ausgleich können bereits vor den Baumaßnahmen und der Zuordnung durchgeführt werden.
 
 (3) Die Kosten können geltend gemacht werden, sobald die Grundstücke, auf denen Eingriffe zu erwarten sind, baulich oder gewerblich genutzt werden dürfen. Die Gemeinde erhebt zur Deckung ihres Aufwands für Maßnahmen zum Ausgleich einschließlich der Bereitstellung hierfür erforderlicher Flächen einen Kostenerstattungsbetrag. Die Erstattungspflicht entsteht mit der Herstellung der Maßnahmen zum Ausgleich durch die Gemeinde. Der Betrag ruht als öffentliche Last auf dem Grundstück.
 
@@ -4855,7 +3243,7 @@ Siebter Teil Maßnahmen für den Naturschutz
 
 ### § 135b Verteilungsmaßstäbe für die Abrechnung
 
-Soweit die Gemeinde Maßnahmen zum Ausgleich nach § 135a Abs. 2 durchführt, sind die Kosten auf die zugeordneten Grundstücke zu verteilen. Verteilungsmaßstäbe sind
+Soweit die Gemeinde Maßnahmen zum Ausgleich nach § 135a Absatz 2 durchführt, sind die Kosten auf die zugeordneten Grundstücke zu verteilen. Verteilungsmaßstäbe sind
 
 1.  
 die überbaubare Grundstücksfläche,
@@ -4879,7 +3267,7 @@ Die Gemeinde kann durch Satzung regeln
 Grundsätze für die Ausgestaltung von Maßnahmen zum Ausgleich entsprechend den Festsetzungen eines Bebauungsplans,
 
 2.  
-den Umfang der Kostenerstattung nach § 135a; dabei ist § 128 Abs. 1 Satz 1 Nr. 1 und 2 und Satz 2 entsprechend anzuwenden,
+den Umfang der Kostenerstattung nach § 135a; dabei ist § 128 Absatz 1 Satz 1 Nummer 1 und 2 und Satz 2 entsprechend anzuwenden,
 
 3.  
 die Art der Kostenermittlung und die Höhe des Einheitssatzes entsprechend § 130,
@@ -4950,7 +3338,7 @@ h)
 die energetische Beschaffenheit, die Gesamtenergieeffizienz der vorhandenen Bebauung und der Versorgungseinrichtungen des Gebiets unter Berücksichtigung der allgemeinen Anforderungen an den Klimaschutz und die Klimaanpassung;
 
 2.  
-die Funktionsfähigkeit des Gebiets in bezug auf
+die Funktionsfähigkeit des Gebiets in Bezug auf
 
 a)  
 den fließenden und ruhenden Verkehr,
@@ -4989,13 +3377,13 @@ Die Sanierung soll mit den Eigentümern, Mietern, Pächtern und sonstigen Betrof
 
 (3) Die mit der Erhebung der Daten Beauftragten sind bei Aufnahme ihrer Tätigkeit nach Maßgabe des Absatzes 2 zu verpflichten. Ihre Pflichten bestehen nach Beendigung ihrer Tätigkeit fort.
 
-(4) Verweigert ein nach Absatz 1 Auskunftspflichtiger die Auskunft, ist § 208 Satz 2 bis 4 über die Androhung und Festsetzung eines Zwangsgelds entsprechend anzuwenden. Der Auskunftspflichtige kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
+(4) Verweigert ein nach Absatz 1 Auskunftspflichtiger die Auskunft, ist § 208 Satz 2 bis 4 über die Androhung und Festsetzung eines Zwangsgelds entsprechend anzuwenden. Der Auskunftspflichtige kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 ### § 139 Beteiligung und Mitwirkung öffentlicher Aufgabenträger
 
 (1) Der Bund, einschließlich seiner Sondervermögen, die Länder, die Gemeindeverbände und die sonstigen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts sollen im Rahmen der ihnen obliegenden Aufgaben die Vorbereitung und Durchführung von städtebaulichen Sanierungsmaßnahmen unterstützen.
 
-(2) § 4 Abs. 2 und § 4a Abs. 1 bis 4 und 6 sind bei der Vorbereitung und Durchführung der Sanierung auf Behörden und sonstige Träger öffentlicher Belange sinngemäß anzuwenden. Die Träger öffentlicher Belange haben die Gemeinde auch über Änderungen ihrer Absichten zu unterrichten.
+(2) § 4 Absatz 2 und § 4a Absatz 1 bis 4 und 6 sind bei der Vorbereitung und Durchführung der Sanierung auf Behörden und sonstige Träger öffentlicher Belange sinngemäß anzuwenden. Die Träger öffentlicher Belange haben die Gemeinde auch über Änderungen ihrer Absichten zu unterrichten.
 
 (3) Ist eine Änderung von Zielen und Zwecken der Sanierung oder von Maßnahmen und Planungen der Träger öffentlicher Belange, die aufeinander abgestimmt wurden, beabsichtigt, haben sich die Beteiligten unverzüglich miteinander ins Benehmen zu setzen.
 
@@ -5037,7 +3425,7 @@ einzelne Ordnungs- und Baumaßnahmen, die vor einer förmlichen Festlegung des S
 
 (3) Die Gemeinde leitet die Vorbereitung der Sanierung durch den Beschluss über den Beginn der vorbereitenden Untersuchungen ein. Der Beschluss ist ortsüblich bekannt zu machen. Dabei ist auf die Auskunftspflicht nach § 138 hinzuweisen.
 
-(4) Mit der ortsüblichen Bekanntmachung des Beschlusses über den Beginn der vorbereitenden Untersuchungen finden die §§ 137, 138 und 139 über die Beteiligung und Mitwirkung der Betroffenen, die Auskunftspflicht und die Beteiligung und Mitwirkung öffentlicher Aufgabenträger Anwendung; ab diesem Zeitpunkt ist § 15 auf die Durchführung eines Vorhabens im Sinne des § 29 Abs. 1 und auf die Beseitigung einer baulichen Anlage entsprechend anzuwenden. Mit der förmlichen Festlegung des Sanierungsgebiets wird ein Bescheid über die Zurückstellung des Baugesuchs sowie ein Bescheid über die Zurückstellung der Beseitigung einer baulichen Anlage nach Satz 1 zweiter Halbsatz unwirksam.
+(4) Mit der ortsüblichen Bekanntmachung des Beschlusses über den Beginn der vorbereitenden Untersuchungen finden die §§ 137, 138 und 139 über die Beteiligung und Mitwirkung der Betroffenen, die Auskunftspflicht und die Beteiligung und Mitwirkung öffentlicher Aufgabenträger Anwendung; ab diesem Zeitpunkt ist § 15 auf die Durchführung eines Vorhabens im Sinne des § 29 Absatz 1 und auf die Beseitigung einer baulichen Anlage entsprechend anzuwenden. Mit der förmlichen Festlegung des Sanierungsgebiets wird ein Bescheid über die Zurückstellung des Baugesuchs sowie ein Bescheid über die Zurückstellung der Beseitigung einer baulichen Anlage nach Satz 1 zweiter Halbsatz unwirksam.
 
 ### § 142 Sanierungssatzung
 
@@ -5055,20 +3443,20 @@ in Anspruch genommen werden müssen (Ersatz- und Ergänzungsgebiete), kann die G
 
 (3) Die Gemeinde beschließt die förmliche Festlegung des Sanierungsgebiets als Satzung (Sanierungssatzung). In der Sanierungssatzung ist das Sanierungsgebiet zu bezeichnen. Bei dem Beschluss über die Sanierungssatzung ist zugleich durch Beschluss die Frist festzulegen, in der die Sanierung durchgeführt werden soll; die Frist soll 15 Jahre nicht überschreiten. Kann die Sanierung nicht innerhalb der Frist durchgeführt werden, kann die Frist durch Beschluss verlängert werden.
 
-(4) In der Sanierungssatzung ist die Anwendung der Vorschriften des Dritten Abschnitts auszuschließen, wenn sie für die Durchführung der Sanierung nicht erforderlich ist und die Durchführung hierdurch voraussichtlich nicht erschwert wird (vereinfachtes Sanierungsverfahren); in diesem Fall kann in der Sanierungssatzung auch die Genehmigungspflicht nach § 144 insgesamt, nach § 144 Abs. 1 oder § 144 Abs. 2 ausgeschlossen werden.
+(4) In der Sanierungssatzung ist die Anwendung der Vorschriften des Dritten Abschnitts auszuschließen, wenn sie für die Durchführung der Sanierung nicht erforderlich ist und die Durchführung hierdurch voraussichtlich nicht erschwert wird (vereinfachtes Sanierungsverfahren); in diesem Falle kann in der Sanierungssatzung auch die Genehmigungspflicht nach § 144 insgesamt, nach § 144 Absatz 1 oder § 144 Absatz 2 ausgeschlossen werden.
 
 ### § 143 Bekanntmachung der Sanierungssatzung, Sanierungsvermerk
 
-(1) Die Gemeinde hat die Sanierungssatzung ortsüblich bekannt zu machen. Sie kann auch ortsüblich bekanntmachen, dass eine Sanierungssatzung beschlossen worden ist; § 10 Abs. 3 Satz 2 bis 5 ist entsprechend anzuwenden. In der Bekanntmachung nach den Sätzen 1 und 2 ist - außer im vereinfachten Sanierungsverfahren - auf die Vorschriften des Dritten Abschnitts hinzuweisen. Mit der Bekanntmachung wird die Sanierungssatzung rechtsverbindlich.
+(1) Die Gemeinde hat die Sanierungssatzung ortsüblich bekannt zu machen. Sie kann auch ortsüblich bekannt machen, dass eine Sanierungssatzung beschlossen worden ist; § 10 Absatz 3 Satz 2 bis 5 ist entsprechend anzuwenden. In der Bekanntmachung nach den Sätzen 1 und 2 ist – außer im vereinfachten Sanierungsverfahren – auf die Vorschriften des Dritten Abschnitts hinzuweisen. Mit der Bekanntmachung wird die Sanierungssatzung rechtsverbindlich.
 
-(2) Die Gemeinde teilt dem Grundbuchamt die rechtsverbindliche Sanierungssatzung mit und hat hierbei die von der Sanierungssatzung betroffenen Grundstücke einzeln aufzuführen. Das Grundbuchamt hat in die Grundbücher dieser Grundstücke einzutragen, dass eine Sanierung durchgeführt wird (Sanierungsvermerk). § 54 Abs. 2 und 3 ist entsprechend anzuwenden. Die Sätze 1 bis 3 sind nicht anzuwenden, wenn in der Sanierungssatzung die Genehmigungspflicht nach § 144 Abs. 2 ausgeschlossen ist.
+(2) Die Gemeinde teilt dem Grundbuchamt die rechtsverbindliche Sanierungssatzung mit und hat hierbei die von der Sanierungssatzung betroffenen Grundstücke einzeln aufzuführen. Das Grundbuchamt hat in die Grundbücher dieser Grundstücke einzutragen, dass eine Sanierung durchgeführt wird (Sanierungsvermerk). § 54 Absatz 2 und 3 ist entsprechend anzuwenden. Die Sätze 1 bis 3 sind nicht anzuwenden, wenn in der Sanierungssatzung die Genehmigungspflicht nach § 144 Absatz 2 ausgeschlossen ist.
 
 ### § 144 Genehmigungspflichtige Vorhaben und Rechtsvorgänge
 
 (1) Im förmlich festgelegten Sanierungsgebiet bedürfen der schriftlichen Genehmigung der Gemeinde
 
 1.  
-die in § 14 Abs. 1 bezeichneten Vorhaben und sonstigen Maßnahmen;
+die in § 14 Absatz 1 bezeichneten Vorhaben und sonstigen Maßnahmen;
 
 2.  
 Vereinbarungen, durch die ein schuldrechtliches Vertragsverhältnis über den Gebrauch oder die Nutzung eines Grundstücks, Gebäudes oder Gebäudeteils auf bestimmte Zeit von mehr als einem Jahr eingegangen oder verlängert wird.
@@ -5079,7 +3467,7 @@ Vereinbarungen, durch die ein schuldrechtliches Vertragsverhältnis über den Ge
 die rechtsgeschäftliche Veräußerung eines Grundstücks und die Bestellung und Veräußerung eines Erbbaurechts;
 
 2.  
-die Bestellung eines das Grundstück belastenden Rechts; dies gilt nicht für die Bestellung eines Rechts, das mit der Durchführung von Baumaßnahmen im Sinne des § 148 Abs. 2 im Zusammenhang steht;
+die Bestellung eines das Grundstück belastenden Rechts; dies gilt nicht für die Bestellung eines Rechts, das mit der Durchführung von Baumaßnahmen im Sinne des § 148 Absatz 2 im Zusammenhang steht;
 
 3.  
 ein schuldrechtlicher Vertrag, durch den eine Verpflichtung zu einem der in Nummer 1 oder 2 genannten Rechtsgeschäfte begründet wird; ist der schuldrechtliche Vertrag genehmigt worden, gilt auch das in Ausführung dieses Vertrags vorgenommene dingliche Rechtsgeschäft als genehmigt;
@@ -5098,44 +3486,44 @@ die Teilung eines Grundstücks.
 Vorhaben und Rechtsvorgänge, wenn die Gemeinde oder der Sanierungsträger für das Treuhandvermögen als Vertragsteil oder Eigentümer beteiligt ist;
 
 2.  
-Rechtsvorgänge nach Absatz 2 Nr. 1 bis 3 zum Zwecke der Vorwegnahme der gesetzlichen Erbfolge;
+Rechtsvorgänge nach Absatz 2 Nummer 1 bis 3 zum Zwecke der Vorwegnahme der gesetzlichen Erbfolge;
 
 3.  
-Vorhaben nach Absatz 1 Nr. 1, die vor der förmlichen Festlegung des Sanierungsgebiets baurechtlich genehmigt worden sind, Vorhaben nach Absatz 1 Nr. 1, von denen die Gemeinde nach Maßgabe des Bauordnungsrechts Kenntnis erlangt hat und mit deren Ausführung vor dem Inkrafttreten der Veränderungssperre hätte begonnen werden dürfen, sowie Unterhaltungsarbeiten und die Fortführung einer bisher ausgeübten Nutzung;
+Vorhaben nach Absatz 1 Nummer 1, die vor der förmlichen Festlegung des Sanierungsgebiets baurechtlich genehmigt worden sind, Vorhaben nach Absatz 1 Nummer 1, von denen die Gemeinde nach Maßgabe des Bauordnungsrechts Kenntnis erlangt hat und mit deren Ausführung vor dem Inkrafttreten der Veränderungssperre hätte begonnen werden dürfen, sowie Unterhaltungsarbeiten und die Fortführung einer bisher ausgeübten Nutzung;
 
 4.  
-Rechtsvorgänge nach Absatz 1 Nr. 2 und Absatz 2, die Zwecken der Landesverteidigung dienen;
+Rechtsvorgänge nach Absatz 1 Nummer 2 und Absatz 2, die Zwecken der Landesverteidigung dienen;
 
 5.  
 der rechtsgeschäftliche Erwerb eines in ein Verfahren im Sinne des § 38 einbezogenen Grundstücks durch den Bedarfsträger.
 
 ### § 145 Genehmigung
 
-(1) Die Genehmigung wird durch die Gemeinde erteilt; § 22 Abs. 5 Satz 2 bis 5 ist entsprechend anzuwenden. Ist eine baurechtliche Genehmigung oder an ihrer Stelle eine baurechtliche Zustimmung erforderlich, wird die Genehmigung durch die Baugenehmigungsbehörde im Einvernehmen mit der Gemeinde erteilt. Im Falle des Satzes 2 ist über die Genehmigung innerhalb von zwei Monaten nach Eingang des Antrags bei der Baugenehmigungsbehörde zu entscheiden; § 22 Abs. 5 Satz 3 bis 6 ist mit der Maßgabe entsprechend anzuwenden, dass die Genehmigungsfrist höchstens um zwei Monate verlängert werden darf.
+(1) Die Genehmigung wird durch die Gemeinde erteilt; § 22 Absatz 5 Satz 2 bis 5 ist entsprechend anzuwenden. Ist eine baurechtliche Genehmigung oder an ihrer Stelle eine baurechtliche Zustimmung erforderlich, wird die Genehmigung durch die Baugenehmigungsbehörde im Einvernehmen mit der Gemeinde erteilt. Im Falle des Satzes 2 ist über die Genehmigung innerhalb von zwei Monaten nach Eingang des Antrags bei der Baugenehmigungsbehörde zu entscheiden; § 22 Absatz 5 Satz 3 bis 6 ist mit der Maßgabe entsprechend anzuwenden, dass die Genehmigungsfrist höchstens um zwei Monate verlängert werden darf.
 
 (2) Die Genehmigung darf nur versagt werden, wenn Grund zur Annahme besteht, dass das Vorhaben, der Rechtsvorgang einschließlich der Teilung eines Grundstücks oder die damit erkennbar bezweckte Nutzung die Durchführung der Sanierung unmöglich machen oder wesentlich erschweren oder den Zielen und Zwecken der Sanierung zuwiderlaufen würde.
 
 (3) Die Genehmigung ist zu erteilen, wenn die wesentliche Erschwerung dadurch beseitigt wird, dass die Beteiligten für den Fall der Durchführung der Sanierung für sich und ihre Rechtsnachfolger
 
 1.  
-in den Fällen des § 144 Abs. 1 Nr. 1 auf Entschädigung für die durch das Vorhaben herbeigeführten Werterhöhungen sowie für werterhöhende Änderungen, die auf Grund der mit dem Vorhaben bezweckten Nutzung vorgenommen werden, verzichten;
+in den Fällen des § 144 Absatz 1 Nummer 1 auf Entschädigung für die durch das Vorhaben herbeigeführten Werterhöhungen sowie für werterhöhende Änderungen, die auf Grund der mit dem Vorhaben bezweckten Nutzung vorgenommen werden, verzichten;
 
 2.  
-in den Fällen des § 144 Abs. 1 Nr. 2 oder Abs. 2 Nr. 2 oder 3 auf Entschädigung für die Aufhebung des Rechts sowie für werterhöhende Änderungen verzichten, die auf Grund dieser Rechte vorgenommen werden.
+in den Fällen des § 144 Absatz 1 Nummer 2 oder Absatz 2 Nummer 2 oder 3 auf Entschädigung für die Aufhebung des Rechts sowie für werterhöhende Änderungen verzichten, die auf Grund dieser Rechte vorgenommen werden.
 
-(4) Die Genehmigung kann unter Auflagen, in den Fällen des § 144 Abs. 1 auch befristet oder bedingt erteilt werden. § 51 Abs. 4 Satz 2 und 3 ist entsprechend anzuwenden. Die Genehmigung kann auch vom Abschluss eines städtebaulichen Vertrags abhängig gemacht werden, wenn dadurch Versagungsgründe im Sinne des Absatzes 2 ausgeräumt werden.
+(4) Die Genehmigung kann unter Auflagen, in den Fällen des § 144 Absatz 1 auch befristet oder bedingt erteilt werden. § 51 Absatz 4 Satz 2 und 3 ist entsprechend anzuwenden. Die Genehmigung kann auch vom Abschluss eines städtebaulichen Vertrags abhängig gemacht werden, wenn dadurch Versagungsgründe im Sinne des Absatzes 2 ausgeräumt werden.
 
-(5) Wird die Genehmigung versagt, kann der Eigentümer von der Gemeinde die Übernahme des Grundstücks verlangen, wenn und soweit es ihm mit Rücksicht auf die Durchführung der Sanierung wirtschaftlich nicht mehr zuzumuten ist, das Grundstück zu behalten oder es in der bisherigen oder einer anderen zulässigen Art zu nutzen. Liegen die Flächen eines land- oder forstwirtschaftlichen Betriebs sowohl innerhalb als auch außerhalb des förmlich festgelegten Sanierungsgebiets, kann der Eigentümer von der Gemeinde die Übernahme sämtlicher Grundstücke des Betriebs verlangen, wenn die Erfüllung des Übernahmeverlangens für die Gemeinde keine unzumutbare Belastung bedeutet; die Gemeinde kann sich auf eine unzumutbare Belastung nicht berufen, soweit die außerhalb des förmlich festgelegten Sanierungsgebiets gelegenen Grundstücke nicht mehr in angemessenem Umfang baulich oder wirtschaftlich genutzt werden können. Kommt eine Einigung über die Übernahme nicht zustande, kann der Eigentümer die Entziehung des Eigentums an dem Grundstück verlangen. Für die Entziehung des Eigentums sind die Vorschriften des Fünften Teils des Ersten Kapitels entsprechend anzuwenden. § 43 Abs. 1, 4 und 5 sowie § 44 Abs. 3 und 4 sind entsprechend anzuwenden.
+(5) Wird die Genehmigung versagt, kann der Eigentümer von der Gemeinde die Übernahme des Grundstücks verlangen, wenn und soweit es ihm mit Rücksicht auf die Durchführung der Sanierung wirtschaftlich nicht mehr zuzumuten ist, das Grundstück zu behalten oder es in der bisherigen oder einer anderen zulässigen Art zu nutzen. Liegen die Flächen eines land- oder forstwirtschaftlichen Betriebs sowohl innerhalb als auch außerhalb des förmlich festgelegten Sanierungsgebiets, kann der Eigentümer von der Gemeinde die Übernahme sämtlicher Grundstücke des Betriebs verlangen, wenn die Erfüllung des Übernahmeverlangens für die Gemeinde keine unzumutbare Belastung bedeutet; die Gemeinde kann sich auf eine unzumutbare Belastung nicht berufen, soweit die außerhalb des förmlich festgelegten Sanierungsgebiets gelegenen Grundstücke nicht mehr in angemessenem Umfang baulich oder wirtschaftlich genutzt werden können. Kommt eine Einigung über die Übernahme nicht zustande, kann der Eigentümer die Entziehung des Eigentums an dem Grundstück verlangen. Für die Entziehung des Eigentums sind die Vorschriften des Fünften Teils des Ersten Kapitels entsprechend anzuwenden. § 43 Absatz 1, 4 und 5 sowie § 44 Absatz 3 und 4 sind entsprechend anzuwenden.
 
-(6) § 22 Abs. 6 ist entsprechend anzuwenden. Ist eine Genehmigung allgemein erteilt oder nicht erforderlich, hat die Gemeinde darüber auf Antrag eines Beteiligten ein Zeugnis auszustellen.
+(6) § 22 Absatz 6 ist entsprechend anzuwenden. Ist eine Genehmigung allgemein erteilt oder nicht erforderlich, hat die Gemeinde darüber auf Antrag eines Beteiligten ein Zeugnis auszustellen.
 
 ### § 146 Durchführung
 
 (1) Die Durchführung umfasst die Ordnungsmaßnahmen und die Baumaßnahmen innerhalb des förmlich festgelegten Sanierungsgebiets, die nach den Zielen und Zwecken der Sanierung erforderlich sind.
 
-(2) Auf Grundstücken, die den in § 26 Nr. 2 bezeichneten Zwecken dienen, und auf den in § 26 Nr. 3 bezeichneten Grundstücken dürfen im Rahmen städtebaulicher Sanierungsmaßnahmen einzelne Ordnungs- und Baumaßnahmen nur mit Zustimmung des Bedarfsträgers durchgeführt werden. Der Bedarfsträger soll seine Zustimmung erteilen, wenn auch unter Berücksichtigung seiner Aufgaben ein überwiegendes öffentliches Interesse an der Durchführung der Sanierungsmaßnahmen besteht.
+(2) Auf Grundstücken, die den in § 26 Nummer 2 bezeichneten Zwecken dienen, und auf den in § 26 Nummer 3 bezeichneten Grundstücken dürfen im Rahmen städtebaulicher Sanierungsmaßnahmen einzelne Ordnungs- und Baumaßnahmen nur mit Zustimmung des Bedarfsträgers durchgeführt werden. Der Bedarfsträger soll seine Zustimmung erteilen, wenn auch unter Berücksichtigung seiner Aufgaben ein überwiegendes öffentliches Interesse an der Durchführung der Sanierungsmaßnahmen besteht.
 
-(3) Die Gemeinde kann die Durchführung der Ordnungsmaßnahmen und die Errichtung oder Änderung von Gemeinbedarfs- und Folgeeinrichtungen im Sinne des § 148 Abs. 2 Satz 1 Nr. 3 auf Grund eines Vertrags ganz oder teilweise dem Eigentümer überlassen. Ist die zügige und zweckmäßige Durchführung der vertraglich übernommenen Maßnahmen nach Satz 1 durch einzelne Eigentümer nicht gewährleistet, hat die Gemeinde insoweit für die Durchführung der Maßnahmen zu sorgen oder sie selbst zu übernehmen.
+(3) Die Gemeinde kann die Durchführung der Ordnungsmaßnahmen und die Errichtung oder Änderung von Gemeinbedarfs- und Folgeeinrichtungen im Sinne des § 148 Absatz 2 Satz 1 Nummer 3 auf Grund eines Vertrags ganz oder teilweise dem Eigentümer überlassen. Ist die zügige und zweckmäßige Durchführung der vertraglich übernommenen Maßnahmen nach Satz 1 durch einzelne Eigentümer nicht gewährleistet, hat die Gemeinde insoweit für die Durchführung der Maßnahmen zu sorgen oder sie selbst zu übernehmen.
 
 ### § 147 Ordnungsmaßnahmen
 
@@ -5156,7 +3544,7 @@ die Herstellung und Änderung von Erschließungsanlagen sowie
 5.  
 sonstige Maßnahmen, die notwendig sind, damit die Baumaßnahmen durchgeführt werden können.
 
-Als Ordnungsmaßnahme gilt auch die Bereitstellung von Flächen und die Durchführung von Maßnahmen zum Ausgleich im Sinne des § 1a Abs. 3, soweit sie gemäß § 9 Abs. 1a an anderer Stelle den Grundstücken, auf denen Eingriffe in Natur und Landschaft zu erwarten sind, ganz oder teilweise zugeordnet sind. Durch die Sanierung bedingte Erschließungsanlagen einschließlich Ersatzanlagen können außerhalb des förmlich festgelegten Sanierungsgebiets liegen.
+Als Ordnungsmaßnahme gilt auch die Bereitstellung von Flächen und die Durchführung von Maßnahmen zum Ausgleich im Sinne des § 1a Absatz 3, soweit sie gemäß § 9 Absatz 1a an anderer Stelle den Grundstücken, auf denen Eingriffe in Natur und Landschaft zu erwarten sind, ganz oder teilweise zugeordnet sind. Durch die Sanierung bedingte Erschließungsanlagen einschließlich Ersatzanlagen können außerhalb des förmlich festgelegten Sanierungsgebiets liegen.
 
 ### § 148 Baumaßnahmen
 
@@ -5187,7 +3575,7 @@ die Verlagerung oder Änderung von Betrieben sowie
 5.  
 die Errichtung oder Erweiterung von Anlagen und Einrichtungen zur dezentralen und zentralen Erzeugung, Verteilung, Nutzung oder Speicherung von Strom, Wärme oder Kälte aus erneuerbaren Energien oder Kraft-Wärme-Kopplung.
 
-Als Baumaßnahmen gelten auch Maßnahmen zum Ausgleich im Sinne des § 1a Abs. 3, soweit sie auf den Grundstücken durchgeführt werden, auf denen Eingriffe in Natur und Landschaft zu erwarten sind.
+Als Baumaßnahmen gelten auch Maßnahmen zum Ausgleich im Sinne des § 1a Absatz 3, soweit sie auf den Grundstücken durchgeführt werden, auf denen Eingriffe in Natur und Landschaft zu erwarten sind.
 
 ### § 149 Kosten- und Finanzierungsübersicht
 
@@ -5224,7 +3612,7 @@ zur Gründung oder Auflösung eines Unternehmens, dessen Geschäftszweck ausschl
 
 (2) Die Abgabenbefreiung gilt nicht für die Kosten eines Rechtsstreits. Unberührt bleiben Regelungen nach landesrechtlichen Vorschriften.
 
-(3) Erwerbsvorgänge im Sinne des Absatzes 1 Nr. 2 sind
+(3) Erwerbsvorgänge im Sinne des Absatzes 1 Nummer 2 sind
 
 1.  
 der Erwerb eines Grundstücks durch eine Gemeinde oder durch einen Rechtsträger im Sinne der §§ 157 und 205 zur Vorbereitung oder Durchführung von städtebaulichen Sanierungsmaßnahmen. Hierzu gehört auch der Erwerb eines Grundstücks zur Verwendung als Austausch- oder Ersatzland im Rahmen von städtebaulichen Sanierungsmaßnahmen;
@@ -5257,34 +3645,34 @@ Die Vorschriften dieses Abschnitts sind im förmlich festgelegten Sanierungsgebi
 
 (1) Sind auf Grund von Maßnahmen, die der Vorbereitung oder Durchführung der Sanierung im förmlich festgelegten Sanierungsgebiet dienen, nach den Vorschriften dieses Gesetzbuchs Ausgleichs- oder Entschädigungsleistungen zu gewähren, werden bei deren Bemessung Werterhöhungen, die lediglich durch die Aussicht auf die Sanierung, durch ihre Vorbereitung oder ihre Durchführung eingetreten sind, nur insoweit berücksichtigt, als der Betroffene diese Werterhöhungen durch eigene Aufwendungen zulässigerweise bewirkt hat. Änderungen in den allgemeinen Wertverhältnissen auf dem Grundstücksmarkt sind zu berücksichtigen.
 
-(2) Liegt bei der rechtsgeschäftlichen Veräußerung eines Grundstücks sowie bei der Bestellung oder Veräußerung eines Erbbaurechts der vereinbarte Gegenwert für das Grundstück oder das Recht über dem Wert, der sich in Anwendung des Absatzes 1 ergibt, liegt auch hierin eine wesentliche Erschwerung der Sanierung im Sinne des § 145 Abs. 2. Dies gilt nicht, wenn in den Fällen des § 154 Abs. 3 Satz 2 oder 3 die Verpflichtung zur Entrichtung des Ausgleichsbetrags erloschen ist.
+(2) Liegt bei der rechtsgeschäftlichen Veräußerung eines Grundstücks sowie bei der Bestellung oder Veräußerung eines Erbbaurechts der vereinbarte Gegenwert für das Grundstück oder das Recht über dem Wert, der sich in Anwendung des Absatzes 1 ergibt, liegt auch hierin eine wesentliche Erschwerung der Sanierung im Sinne des § 145 Absatz 2. Dies gilt nicht, wenn in den Fällen des § 154 Absatz 3 Satz 2 oder 3 die Verpflichtung zur Entrichtung des Ausgleichsbetrags erloschen ist.
 
-(3) Die Gemeinde oder der Sanierungsträger darf beim Erwerb eines Grundstücks keinen höheren Kaufpreis vereinbaren, als er sich in entsprechender Anwendung des Absatzes 1 ergibt. In den Fällen des § 144 Abs. 4 Nr. 4 und 5 darf der Bedarfsträger keinen höheren Kaufpreis vereinbaren, als er sich in entsprechender Anwendung des Absatzes 1 ergibt.
+(3) Die Gemeinde oder der Sanierungsträger darf beim Erwerb eines Grundstücks keinen höheren Kaufpreis vereinbaren, als er sich in entsprechender Anwendung des Absatzes 1 ergibt. In den Fällen des § 144 Absatz 4 Nummer 4 und 5 darf der Bedarfsträger keinen höheren Kaufpreis vereinbaren, als er sich in entsprechender Anwendung des Absatzes 1 ergibt.
 
-(4) Bei der Veräußerung nach den §§ 89 und 159 Abs. 3 ist das Grundstück zu dem Verkehrswert zu veräußern, der sich durch die rechtliche und tatsächliche Neuordnung des förmlich festgelegten Sanierungsgebiets ergibt. § 154 Abs. 5 ist dabei auf den Teil des Kaufpreises entsprechend anzuwenden, der der durch die Sanierung bedingten Werterhöhung des Grundstücks entspricht.
+(4) Bei der Veräußerung nach den §§ 89 und 159 Absatz 3 ist das Grundstück zu dem Verkehrswert zu veräußern, der sich durch die rechtliche und tatsächliche Neuordnung des förmlich festgelegten Sanierungsgebiets ergibt. § 154 Absatz 5 ist dabei auf den Teil des Kaufpreises entsprechend anzuwenden, der der durch die Sanierung bedingten Werterhöhung des Grundstücks entspricht.
 
 (5) Im förmlich festgelegten Sanierungsgebiet sind
 
 1.  
-Absatz 1 auf die Ermittlung von Werten nach § 57 Satz 2 und im Falle der Geldabfindung nach § 59 Abs. 2 und 4 bis 6 sowie den §§ 60 und 61 Abs. 2 entsprechend anzuwenden;
+Absatz 1 auf die Ermittlung von Werten nach § 57 Satz 2 und im Falle der Geldabfindung nach § 59 Absatz 2 und 4 bis 6 sowie den §§ 60 und 61 Absatz 2 entsprechend anzuwenden;
 
 2.  
-Wertänderungen, die durch die rechtliche und tatsächliche Neuordnung des förmlich festgelegten Sanierungsgebiets eintreten, bei der Ermittlung von Werten nach § 57 Satz 3 und 4 und im Falle des Geldausgleichs nach § 59 Abs. 2 sowie den §§ 60 und 61 Abs. 2 zu berücksichtigen;
+Wertänderungen, die durch die rechtliche und tatsächliche Neuordnung des förmlich festgelegten Sanierungsgebiets eintreten, bei der Ermittlung von Werten nach § 57 Satz 3 und 4 und im Falle des Geldausgleichs nach § 59 Absatz 2 sowie den §§ 60 und 61 Absatz 2 zu berücksichtigen;
 
 3.  
 § 58 nicht anzuwenden.
 
 ### § 154 Ausgleichsbetrag des Eigentümers
 
-(1) Der Eigentümer eines im förmlich festgelegten Sanierungsgebiet gelegenen Grundstücks hat zur Finanzierung der Sanierung an die Gemeinde einen Ausgleichsbetrag in Geld zu entrichten, der der durch die Sanierung bedingten Erhöhung des Bodenwerts seines Grundstücks entspricht. Miteigentümer haften als Gesamtschuldner; bei Wohnungs- und Teileigentum sind die einzelnen Wohnungs- und Teileigentümer nur entsprechend ihrem Miteigentumsanteil heranzuziehen. Werden im förmlich festgelegten Sanierungsgebiet Erschließungsanlagen im Sinne des § 127 Abs. 2 hergestellt, erweitert oder verbessert, sind Vorschriften über die Erhebung von Beiträgen für diese Maßnahmen auf Grundstücke im förmlich festgelegten Sanierungsgebiet nicht anzuwenden. Satz 3 gilt entsprechend für die Anwendung der Vorschrift über die Erhebung von Kostenerstattungsbeträgen im Sinne des § 135a Abs. 3.
+(1) Der Eigentümer eines im förmlich festgelegten Sanierungsgebiet gelegenen Grundstücks hat zur Finanzierung der Sanierung an die Gemeinde einen Ausgleichsbetrag in Geld zu entrichten, der der durch die Sanierung bedingten Erhöhung des Bodenwerts seines Grundstücks entspricht. Miteigentümer haften als Gesamtschuldner; bei Wohnungs- und Teileigentum sind die einzelnen Wohnungs- und Teileigentümer nur entsprechend ihrem Miteigentumsanteil heranzuziehen. Werden im förmlich festgelegten Sanierungsgebiet Erschließungsanlagen im Sinne des § 127 Absatz 2 hergestellt, erweitert oder verbessert, sind Vorschriften über die Erhebung von Beiträgen für diese Maßnahmen auf Grundstücke im förmlich festgelegten Sanierungsgebiet nicht anzuwenden. Satz 3 gilt entsprechend für die Anwendung der Vorschrift über die Erhebung von Kostenerstattungsbeträgen im Sinne des § 135a Absatz 3.
 
 (2) Die durch die Sanierung bedingte Erhöhung des Bodenwerts des Grundstücks besteht aus dem Unterschied zwischen dem Bodenwert, der sich für das Grundstück ergeben würde, wenn eine Sanierung weder beabsichtigt noch durchgeführt worden wäre (Anfangswert), und dem Bodenwert, der sich für das Grundstück durch die rechtliche und tatsächliche Neuordnung des förmlich festgelegten Sanierungsgebiets ergibt (Endwert).
 
-(2a) Die Gemeinde kann durch Satzung bestimmen, dass der Ausgleichsbetrag abweichend von Absatz 1 Satz 1 ausgehend von dem Aufwand (ohne die Kosten seiner Finanzierung) für die Erweiterung oder Verbesserung von Erschließungsanlagen im Sinne des § 127 Abs. 2 Nr. 1 bis 3 (Verkehrsanlagen) in dem Sanierungsgebiet zu berechnen ist; Voraussetzung für den Erlass der Satzung sind Anhaltspunkte dafür, dass die sanierungsbedingte Erhöhung der Bodenwerte der Grundstücke in dem Sanierungsgebiet nicht wesentlich über der Hälfte dieses Aufwands liegt. In der Satzung ist zu bestimmen, bis zu welcher Höhe der Aufwand der Berechnung zu Grunde zu legen ist; sie darf 50 vom Hundert nicht übersteigen. Im Geltungsbereich der Satzung berechnet sich der Ausgleichsbetrag für das jeweilige Grundstück nach dem Verhältnis seiner Fläche zur Gesamtfläche; als Gesamtfläche ist die Fläche des Sanierungsgebiets ohne die Flächen für die Verkehrsanlagen zu Grunde zu legen. § 128 Abs. 1 und 3 ist entsprechend anzuwenden.
+(2a) Die Gemeinde kann durch Satzung bestimmen, dass der Ausgleichsbetrag abweichend von Absatz 1 Satz 1 ausgehend von dem Aufwand (ohne die Kosten seiner Finanzierung) für die Erweiterung oder Verbesserung von Erschließungsanlagen im Sinne des § 127 Absatz 2 Nummer 1 bis 3 (Verkehrsanlagen) in dem Sanierungsgebiet zu berechnen ist; Voraussetzung für den Erlass der Satzung sind Anhaltspunkte dafür, dass die sanierungsbedingte Erhöhung der Bodenwerte der Grundstücke in dem Sanierungsgebiet nicht wesentlich über der Hälfte dieses Aufwands liegt. In der Satzung ist zu bestimmen, bis zu welcher Höhe der Aufwand der Berechnung zu Grunde zu legen ist; sie darf 50 vom Hundert nicht übersteigen. Im Geltungsbereich der Satzung berechnet sich der Ausgleichsbetrag für das jeweilige Grundstück nach dem Verhältnis seiner Fläche zur Gesamtfläche; als Gesamtfläche ist die Fläche des Sanierungsgebiets ohne die Flächen für die Verkehrsanlagen zu Grunde zu legen. § 128 Absatz 1 und 3 ist entsprechend anzuwenden.
 
 (3) Der Ausgleichsbetrag ist nach Abschluss der Sanierung (§§ 162 und 163) zu entrichten. Die Gemeinde kann die Ablösung im Ganzen vor Abschluss der Sanierung zulassen; dabei kann zur Deckung von Kosten der Sanierungsmaßnahme auch ein höherer Betrag als der Ausgleichsbetrag vereinbart werden. Die Gemeinde soll auf Antrag des Ausgleichsbetragspflichtigen den Ausgleichsbetrag vorzeitig festsetzen, wenn der Ausgleichsbetragspflichtige an der Festsetzung vor Abschluss der Sanierung ein berechtigtes Interesse hat und der Ausgleichsbetrag mit hinreichender Sicherheit ermittelt werden kann.
 
-(4) Die Gemeinde fordert den Ausgleichsbetrag durch Bescheid an; der Betrag wird einen Monat nach der Bekanntgabe des Bescheids fällig. Vor der Festsetzung des Ausgleichsbetrags ist dem Ausgleichsbetragspflichtigen Gelegenheit zur Stellungnahme und Erörterung der für die Wertermittlung seines Grundstücks maßgeblichen Verhältnisse sowie der nach § 155 Abs. 1 anrechenbaren Beträge innerhalb angemessener Frist zu geben. Der Ausgleichsbetrag ruht nicht als öffentliche Last auf dem Grundstück.
+(4) Die Gemeinde fordert den Ausgleichsbetrag durch Bescheid an; der Betrag wird einen Monat nach der Bekanntgabe des Bescheids fällig. Vor der Festsetzung des Ausgleichsbetrags ist dem Ausgleichsbetragspflichtigen Gelegenheit zur Stellungnahme und Erörterung der für die Wertermittlung seines Grundstücks maßgeblichen Verhältnisse sowie der nach § 155 Absatz 1 anrechenbaren Beträge innerhalb angemessener Frist zu geben. Der Ausgleichsbetrag ruht nicht als öffentliche Last auf dem Grundstück.
 
 (5) Die Gemeinde hat den Ausgleichsbetrag auf Antrag des Eigentümers in ein Tilgungsdarlehen umzuwandeln, sofern diesem nicht zugemutet werden kann, die Verpflichtung bei Fälligkeit mit eigenen oder fremden Mitteln zu erfüllen. Die Darlehensschuld ist mit höchstens 6 vom Hundert jährlich zu verzinsen und mit 5 vom Hundert zuzüglich der ersparten Zinsen jährlich zu tilgen. Der Tilgungssatz kann im Einzelfall bis auf 1 vom Hundert herabgesetzt werden und das Darlehen niedrig verzinslich oder zinsfrei gestellt werden, wenn dies im öffentlichen Interesse oder zur Vermeidung unbilliger Härten oder zur Vermeidung einer von dem Ausgleichsbetragspflichtigen nicht zu vertretenden Unwirtschaftlichkeit der Grundstücksnutzung geboten ist. Die Gemeinde soll den zur Finanzierung der Neubebauung, Modernisierung oder Instandsetzung erforderlichen Grundpfandrechten den Vorrang vor einem zur Sicherung ihres Tilgungsdarlehens bestellten Grundpfandrecht einräumen.
 
@@ -5292,18 +3680,18 @@ Wertänderungen, die durch die rechtliche und tatsächliche Neuordnung des förm
 
 ### § 155 Anrechnung auf den Ausgleichsbetrag, Absehen
 
-(1) Auf den Ausgleichsbetrag sind anzurechnen,
+(1) Auf den Ausgleichsbetrag sind anzurechnen
 
 1.  
 die durch die Sanierung entstandenen Vorteile oder Bodenwerterhöhungen des Grundstücks, die bereits in einem anderen Verfahren, insbesondere in einem Enteignungsverfahren berücksichtigt worden sind; für Umlegungsverfahren bleibt Absatz 2 unberührt,
 
 2.  
-die Bodenwerterhöhungen des Grundstücks, die der Eigentümer zulässigerweise durch eigene Aufwendungen bewirkt hat; soweit der Eigentümer gemäß § 146 Abs. 3 Ordnungsmaßnahmen durchgeführt oder Gemeinbedarfs- und Folgeeinrichtungen im Sinne des § 148 Abs. 2 Satz 1 Nr. 3 errichtet oder geändert hat, sind jedoch die ihm entstandenen Kosten anzurechnen,
+die Bodenwerterhöhungen des Grundstücks, die der Eigentümer zulässigerweise durch eigene Aufwendungen bewirkt hat; soweit der Eigentümer gemäß § 146 Absatz 3 Ordnungsmaßnahmen durchgeführt oder Gemeinbedarfs- und Folgeeinrichtungen im Sinne des § 148 Absatz 2 Satz 1 Nummer 3 errichtet oder geändert hat, sind jedoch die ihm entstandenen Kosten anzurechnen,
 
 3.  
 die Bodenwerterhöhungen des Grundstücks, die der Eigentümer beim Erwerb des Grundstücks als Teil des Kaufpreises in einem den Vorschriften der Nummern 1 und 2 sowie des § 154 entsprechenden Betrag zulässigerweise bereits entrichtet hat.
 
-(2) Ein Ausgleichsbetrag entfällt, wenn eine Umlegung nach Maßgabe des § 153 Abs. 5 durchgeführt worden ist.
+(2) Ein Ausgleichsbetrag entfällt, wenn eine Umlegung nach Maßgabe des § 153 Absatz 5 durchgeführt worden ist.
 
 (3) Die Gemeinde kann für das förmlich festgelegte Sanierungsgebiet oder für zu bezeichnende Teile des Sanierungsgebiets von der Festsetzung des Ausgleichsbetrags absehen, wenn
 
@@ -5319,13 +3707,13 @@ Die Entscheidung nach Satz 1 kann auch getroffen werden, bevor die Sanierung abg
 
 (5) Im Übrigen sind die landesrechtlichen Vorschriften über kommunale Beiträge einschließlich der Bestimmungen über die Stundung und den Erlass entsprechend anzuwenden.
 
-(6) Sind dem Eigentümer Kosten der Ordnungsmaßnahmen oder Kosten für die Errichtung oder Änderung von Gemeinbedarfs- und Folgeeinrichtungen im Sinne des § 148 Abs. 2 Satz 1 Nr. 3 entstanden, hat die Gemeinde sie ihm zu erstatten, soweit sie über den nach § 154 und Absatz 1 ermittelten Ausgleichsbetrag hinausgehen und die Erstattung nicht vertraglich ausgeschlossen wurde.
+(6) Sind dem Eigentümer Kosten der Ordnungsmaßnahmen oder Kosten für die Errichtung oder Änderung von Gemeinbedarfs- und Folgeeinrichtungen im Sinne des § 148 Absatz 2 Satz 1 Nummer 3 entstanden, hat die Gemeinde sie ihm zu erstatten, soweit sie über den nach § 154 und Absatz 1 ermittelten Ausgleichsbetrag hinausgehen und die Erstattung nicht vertraglich ausgeschlossen wurde.
 
 ### § 156 Überleitungsvorschriften zur förmlichen Festlegung
 
-(1) Beitragspflichten für Erschließungsanlagen im Sinne des § 127 Abs. 2, die vor der förmlichen Festlegung entstanden sind, bleiben unberührt. Entsprechendes gilt für Kostenerstattungsbeträge im Sinne des § 135a Abs. 3.
+(1) Beitragspflichten für Erschließungsanlagen im Sinne des § 127 Absatz 2, die vor der förmlichen Festlegung entstanden sind, bleiben unberührt. Entsprechendes gilt für Kostenerstattungsbeträge im Sinne des § 135a Absatz 3.
 
-(2) Hat die Umlegungsstelle vor der förmlichen Festlegung des Sanierungsgebiets in einem Umlegungsverfahren, das sich auf Grundstücke im Gebiet bezieht, den Umlegungsplan nach § 66 Abs. 1 aufgestellt oder ist eine Vorwegentscheidung nach § 76 getroffen worden, bleibt es dabei.
+(2) Hat die Umlegungsstelle vor der förmlichen Festlegung des Sanierungsgebiets in einem Umlegungsverfahren, das sich auf Grundstücke im Gebiet bezieht, den Umlegungsplan nach § 66 Absatz 1 aufgestellt oder ist eine Vorwegentscheidung nach § 76 getroffen worden, bleibt es dabei.
 
 (3) Hat die Enteignungsbehörde vor der förmlichen Festlegung des Sanierungsgebiets den Enteignungsbeschluss nach § 113 für ein in dem Gebiet gelegenes Grundstück erlassen oder ist eine Einigung nach § 110 beurkundet worden, sind die Vorschriften des Ersten Kapitels weiter anzuwenden.
 
@@ -5333,7 +3721,7 @@ Die Entscheidung nach Satz 1 kann auch getroffen werden, bevor die Sanierung abg
 
 (1) Ergibt sich nach der Durchführung der städtebaulichen Sanierungsmaßnahme und der Übertragung eines Treuhandvermögens des Sanierungsträgers auf die Gemeinde bei ihr ein Überschuss der bei der Vorbereitung und Durchführung der städtebaulichen Sanierungsmaßnahme erzielten Einnahmen über die hierfür getätigten Ausgaben, so ist dieser Überschuss auf die Eigentümer der im Sanierungsgebiet gelegenen Grundstücke zu verteilen. Maßgebend sind die Eigentumsverhältnisse bei der Bekanntmachung des Beschlusses über die förmliche Festlegung des Sanierungsgebiets. Ist nach diesem Zeitpunkt das Eigentum gegen Entgelt übertragen worden, so steht der auf das Grundstück entfallende Anteil dem früheren Eigentümer und dem Eigentümer, der zu einem Ausgleichsbetrag nach § 154 herangezogen worden ist, je zur Hälfte zu.
 
-(2) Die auf die einzelnen Grundstücke entfallenden Anteile des Überschusses sind nach dem Verhältnis der Anfangswerte der Grundstücke im Sinne des § 154 Abs. 2 zu bestimmen.
+(2) Die auf die einzelnen Grundstücke entfallenden Anteile des Überschusses sind nach dem Verhältnis der Anfangswerte der Grundstücke im Sinne des § 154 Absatz 2 zu bestimmen.
 
 (3) Die Gemeinde hat bei der Errechnung des Überschusses Zuschüsse abzuziehen, die ihr oder Eigentümern aus Mitteln eines anderen öffentlichen Haushalts zur Deckung von Kosten der Vorbereitung oder Durchführung der Sanierungsmaßnahme gewährt worden sind. Im Übrigen bestimmt sich das Verfahren zur Verteilung des Überschusses nach landesrechtlichen Regelungen.
 
@@ -5377,19 +3765,17 @@ die zur Vertretung berufenen Personen sowie die leitenden Angestellten die erfor
 
 ### § 159 Erfüllung der Aufgaben als Sanierungsträger
 
-(1) Der Sanierungsträger erfüllt die ihm von der Gemeinde übertragenen Aufgaben nach § 157 Abs. 1 Satz 2 Nr. 1 oder 2 im eigenen Namen für Rechnung der Gemeinde als deren Treuhänder oder im eigenen Namen für eigene Rechnung. Die ihm von der Gemeinde übertragene Aufgabe nach § 157 Abs. 1 Satz 2 Nr. 3 erfüllt er im eigenen Namen für Rechnung der Gemeinde als deren Treuhänder. Der Sanierungsträger hat der Gemeinde auf Verlangen Auskunft zu erteilen.
+(1) Der Sanierungsträger erfüllt die ihm von der Gemeinde übertragenen Aufgaben nach § 157 Absatz 1 Satz 2 Nummer 1 oder 2 im eigenen Namen für Rechnung der Gemeinde als deren Treuhänder oder im eigenen Namen für eigene Rechnung. Die ihm von der Gemeinde übertragene Aufgabe nach § 157 Absatz 1 Satz 2 Nummer 3 erfüllt er im eigenen Namen für Rechnung der Gemeinde als deren Treuhänder. Der Sanierungsträger hat der Gemeinde auf Verlangen Auskunft zu erteilen.
 
-(2) Die Gemeinde und der Sanierungsträger legen mindestens die Aufgaben, die Rechtsstellung, in der sie der Sanierungsträger zu erfüllen hat, eine von der Gemeinde hierfür zu entrichtende angemessene Vergütung und die Befugnis der Gemeinde zur Erteilung von Weisungen durch schriftlichen Vertrag fest. Der Vertrag bedarf nicht der Form des § 311b Abs. 1 des Bürgerlichen Gesetzbuchs. Er kann von jeder Seite nur aus wichtigem Grund gekündigt werden.
+(2) Die Gemeinde und der Sanierungsträger legen mindestens die Aufgaben, die Rechtsstellung, in der sie der Sanierungsträger zu erfüllen hat, eine von der Gemeinde hierfür zu entrichtende angemessene Vergütung und die Befugnis der Gemeinde zur Erteilung von Weisungen durch schriftlichen Vertrag fest. Der Vertrag bedarf nicht der Form des § 311b Absatz 1 des Bürgerlichen Gesetzbuchs. Er kann von jeder Seite nur aus wichtigem Grund gekündigt werden.
 
-(3) Der Sanierungsträger ist verpflichtet, die Grundstücke, die er nach Übertragung der Aufgabe zur Vorbereitung oder Durchführung der Sanierung erworben hat, nach Maßgabe des § 89 Abs. 3 und 4 und unter Beachtung der Weisungen der Gemeinde zu veräußern. Er hat die Grundstücke, die er nicht veräußert hat, der Gemeinde anzugeben und auf ihr Verlangen an Dritte oder an sie zu veräußern.
+(3) Der Sanierungsträger ist verpflichtet, die Grundstücke, die er nach Übertragung der Aufgabe zur Vorbereitung oder Durchführung der Sanierung erworben hat, nach Maßgabe des § 89 Absatz 3 und 4 und unter Beachtung der Weisungen der Gemeinde zu veräußern. Er hat die Grundstücke, die er nicht veräußert hat, der Gemeinde anzugeben und auf ihr Verlangen an Dritte oder an sie zu veräußern.
 
-(4) Ist in dem von dem Erwerber an den Sanierungsträger entrichteten Kaufpreis ein Betrag enthalten, der nach den §§ 154 und 155 vom Eigentümer zu tragen wäre, hat der Sanierungsträger diesen Betrag an die Gemeinde abzuführen oder mit ihr zu verrechnen. In den Fällen des § 153 Abs. 4 Satz 2 hat der Sanierungsträger Ansprüche aus dem Darlehen auf Verlangen entweder an die Gemeinde abzutreten und empfangene Zinsen und Tilgungen an sie abzuführen oder sie mit ihr zu verrechnen.
+(4) Ist in dem von dem Erwerber an den Sanierungsträger entrichteten Kaufpreis ein Betrag enthalten, der nach den §§ 154 und 155 vom Eigentümer zu tragen wäre, hat der Sanierungsträger diesen Betrag an die Gemeinde abzuführen oder mit ihr zu verrechnen. In den Fällen des § 153 Absatz 4 Satz 2 hat der Sanierungsträger Ansprüche aus dem Darlehen auf Verlangen entweder an die Gemeinde abzutreten und empfangene Zinsen und Tilgungen an sie abzuführen oder sie mit ihr zu verrechnen.
 
 (5) Der Sanierungsträger hat für die Grundstücke, deren Eigentümer er bleibt, an die Gemeinde Ausgleichsbeträge nach Maßgabe der §§ 154 und 155 zu entrichten.
 
 (6) Kündigt die Gemeinde im Falle der Eröffnung des Insolvenzverfahrens über das Vermögen des für eigene Rechnung tätigen Sanierungsträgers den mit diesem geschlossenen Vertrag, kann sie vom Insolvenzverwalter verlangen, ihr die im förmlich festgelegten Sanierungsgebiet gelegenen Grundstücke, die der Sanierungsträger nach Übertragung der Aufgaben zur Vorbereitung oder Durchführung der Sanierung erworben hat, gegen Erstattung der vom Sanierungsträger erbrachten Aufwendungen zu übereignen. Der Insolvenzverwalter ist verpflichtet, der Gemeinde ein Verzeichnis dieser Grundstücke zu übergeben. Die Gemeinde kann ihren Anspruch nur binnen sechs Monaten nach Übergabe des Grundstücksverzeichnisses geltend machen. Im Übrigen haftet die Gemeinde den Gläubigern von Verbindlichkeiten aus der Durchführung der Ordnungsmaßnahmen wie ein Bürge, soweit sie aus dem Vermögen des Sanierungsträgers im Insolvenzverfahren keine vollständige Befriedigung erlangt haben.
-
-(7) (weggefallen)
 
 ### § 160 Treuhandvermögen
 
@@ -5401,9 +3787,9 @@ die zur Vertretung berufenen Personen sowie die leitenden Angestellten die erfor
 
 (4) Die Gemeinde gewährleistet die Erfüllung der Verbindlichkeiten, für die der Sanierungsträger mit dem Treuhandvermögen haftet. Mittel, die der Sanierungsträger darlehensweise von einem Dritten erhält, gehören nur dann zum Treuhandvermögen, wenn die Gemeinde der Darlehensaufnahme schriftlich zugestimmt hat. Das Gleiche gilt für eigene Mittel, die der Sanierungsträger einbringt.
 
-(5) Grundstücke im förmlich festgelegten Sanierungsgebiet, die der Sanierungsträger vor oder nach Übertragung der Aufgabe mit Mitteln, die nicht zum Treuhandvermögen gehören, oder unter Hergabe von eigenem Austauschland erworben hat, hat er auf Verlangen der Gemeinde gegen Ersatz seiner Aufwendungen in das Treuhandvermögen zu überführen. Dabei sind als Grundstückswerte die Werte zu berücksichtigen, die sich in Anwendung des § 153 Abs. 1 ergeben.
+(5) Grundstücke im förmlich festgelegten Sanierungsgebiet, die der Sanierungsträger vor oder nach Übertragung der Aufgabe mit Mitteln, die nicht zum Treuhandvermögen gehören, oder unter Hergabe von eigenem Austauschland erworben hat, hat er auf Verlangen der Gemeinde gegen Ersatz seiner Aufwendungen in das Treuhandvermögen zu überführen. Dabei sind als Grundstückswerte die Werte zu berücksichtigen, die sich in Anwendung des § 153 Absatz 1 ergeben.
 
-(6) Der als Treuhänder tätige Sanierungsträger hat der Gemeinde nach Beendigung seiner Tätigkeit Rechenschaft abzulegen. Er hat nach Beendigung seiner Tätigkeit das Treuhandvermögen einschließlich der Grundstücke, die er nicht veräußert hat, auf die Gemeinde zu übertragen. Von der Übertragung an haftet die Gemeinde an Stelle des Sanierungsträgers für die noch bestehenden Verbindlichkeiten, für die dieser mit dem Treuhandvermögen gehaftet hat.
+(6) Der als Treuhänder tätige Sanierungsträger hat der Gemeinde nach Beendigung seiner Tätigkeit Rechenschaft abzulegen. Er hat nach Beendigung seiner Tätigkeit das Treuhandvermögen einschließlich der Grundstücke, die er nicht veräußert hat, auf die Gemeinde zu übertragen. Von der Übertragung an haftet die Gemeinde anstelle des Sanierungsträgers für die noch bestehenden Verbindlichkeiten, für die dieser mit dem Treuhandvermögen gehaftet hat.
 
 (7) Der Sanierungsträger darf vor der Übertragung nach Absatz 6 die Grundstücke des Treuhandvermögens, die er unter Hergabe von entsprechendem nicht zum Treuhandvermögen gehörendem eigenem Austauschland oder mindestens zwei Jahre, bevor ihm die Gemeinde einen mit der Sanierung zusammenhängenden Auftrag erteilt hat, erworben und in das Treuhandvermögen überführt hat, in sein eigenes Vermögen zurücküberführen. Sind die von ihm in das Treuhandvermögen überführten Grundstücke veräußert oder im Rahmen der Ordnungsmaßnahmen zur Bildung neuer Grundstücke verwendet oder sind ihre Grenzen verändert worden, kann der Sanierungsträger andere Grundstücke, die wertmäßig seinen in das Treuhandvermögen überführten Grundstücken entsprechen, in sein eigenes Vermögen zurücküberführen; er bedarf hierzu der Genehmigung der Gemeinde. Er hat dem Treuhandvermögen den Verkehrswert der Grundstücke zu erstatten, der sich durch die rechtliche und tatsächliche Neuordnung des förmlich festgelegten Sanierungsgebiets ergibt.
 
@@ -5411,9 +3797,9 @@ die zur Vertretung berufenen Personen sowie die leitenden Angestellten die erfor
 
 (1) Der Sanierungsträger haftet Dritten mit dem Treuhandvermögen nicht für Verbindlichkeiten, die sich nicht auf das Treuhandvermögen beziehen.
 
-(2) Wird in das Treuhandvermögen wegen einer Verbindlichkeit, für die der Sanierungsträger nicht mit dem Treuhandvermögen haftet, die Zwangsvollstreckung betrieben, kann die Gemeinde auf Grund des Treuhandverhältnisses gegen die Zwangsvollstreckung nach Maßgabe des § 771 der Zivilprozessordnung Widerspruch, der Sanierungsträger unter entsprechender Anwendung des § 767 Abs. 1 der Zivilprozessordnung Einwendungen geltend machen.
+(2) Wird in das Treuhandvermögen wegen einer Verbindlichkeit, für die der Sanierungsträger nicht mit dem Treuhandvermögen haftet, die Zwangsvollstreckung betrieben, kann die Gemeinde auf Grund des Treuhandverhältnisses gegen die Zwangsvollstreckung nach Maßgabe des § 771 der Zivilprozessordnung Widerspruch, der Sanierungsträger unter entsprechender Anwendung des § 767 Absatz 1 der Zivilprozessordnung Einwendungen geltend machen.
 
-(3) Im Falle der Eröffnung des Insolvenzverfahrens über das Vermögen des Sanierungsträgers gehört das Treuhandvermögen nicht zur Insolvenzmasse. Kündigt die Gemeinde das Treuhandverhältnis, so hat der Insolvenzverwalter das Treuhandvermögen auf die Gemeinde zu übertragen und bis zur Übertragung zu verwalten. Von der Übertragung an haftet die Gemeinde an Stelle des Sanierungsträgers für die Verbindlichkeiten, für die dieser mit dem Treuhandvermögen gehaftet hat. Die mit der Eröffnung des Insolvenzverfahrens verbundenen Rechtsfolgen treten hinsichtlich der Verbindlichkeiten nicht ein. § 418 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden.
+(3) Im Falle der Eröffnung des Insolvenzverfahrens über das Vermögen des Sanierungsträgers gehört das Treuhandvermögen nicht zur Insolvenzmasse. Kündigt die Gemeinde das Treuhandverhältnis, so hat der Insolvenzverwalter das Treuhandvermögen auf die Gemeinde zu übertragen und bis zur Übertragung zu verwalten. Von der Übertragung an haftet die Gemeinde anstelle des Sanierungsträgers für die Verbindlichkeiten, für die dieser mit dem Treuhandvermögen gehaftet hat. Die mit der Eröffnung des Insolvenzverfahrens verbundenen Rechtsfolgen treten hinsichtlich der Verbindlichkeiten nicht ein. § 418 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden.
 
 Fünfter Abschnitt Abschluss der Sanierung
 -----------------------------------------
@@ -5434,11 +3820,11 @@ die Sanierung sich als undurchführbar erweist oder
 die Sanierungsabsicht aus anderen Gründen aufgegeben wird oder
 
 4.  
-die nach § 142 Abs. 3 Satz 3 oder 4 für die Durchführung der Sanierung festgelegte Frist abgelaufen ist.
+die nach § 142 Absatz 3 Satz 3 oder 4 für die Durchführung der Sanierung festgelegte Frist abgelaufen ist.
 
 Sind diese Voraussetzungen nur für einen Teil des förmlich festgelegten Sanierungsgebiets gegeben, ist die Satzung für diesen Teil aufzuheben.
 
-(2) Der Beschluss der Gemeinde, durch den die förmliche Festlegung des Sanierungsgebiets ganz oder teilweise aufgehoben wird, ergeht als Satzung. Die Satzung ist ortsüblich bekannt zu machen. Die Gemeinde kann auch ortsüblich bekanntmachen, dass eine Satzung zur Aufhebung der förmlichen Festlegung des Sanierungsgebiets beschlossen worden ist; § 10 Abs. 3 Satz 2 bis 5 ist entsprechend anzuwenden. Mit der Bekanntmachung wird die Satzung rechtsverbindlich.
+(2) Der Beschluss der Gemeinde, durch den die förmliche Festlegung des Sanierungsgebiets ganz oder teilweise aufgehoben wird, ergeht als Satzung. Die Satzung ist ortsüblich bekannt zu machen. Die Gemeinde kann auch ortsüblich bekannt machen, dass eine Satzung zur Aufhebung der förmlichen Festlegung des Sanierungsgebiets beschlossen worden ist; § 10 Absatz 3 Satz 2 bis 5 ist entsprechend anzuwenden. Mit der Bekanntmachung wird die Satzung rechtsverbindlich.
 
 (3) Die Gemeinde ersucht das Grundbuchamt, die Sanierungsvermerke zu löschen.
 
@@ -5450,17 +3836,17 @@ Sind diese Voraussetzungen nur für einen Teil des förmlich festgelegten Sanier
 das Grundstück bebaut ist oder in sonstiger Weise genutzt wird oder
 
 2.  
-das Gebäude modernisiert oder instandgesetzt ist.
+das Gebäude modernisiert oder instand gesetzt ist.
 
 Auf Antrag des Eigentümers hat die Gemeinde die Sanierung für das Grundstück als abgeschlossen zu erklären.
 
-(2) Die Gemeinde kann bereits vor dem in Absatz 1 bezeichneten Zeitpunkt die Durchführung der Sanierung für einzelne Grundstücke durch Bescheid an die Eigentümer für abgeschlossen erklären, wenn die den Zielen und Zwecken der Sanierung entsprechende Bebauung oder sonstige Nutzung oder die Modernisierung oder Instandsetzung auch ohne Gefährdung der Ziele und Zwecke der Sanierung zu einem späteren Zeitpunkt möglich ist. Ein Rechtsanspruch auf Abgabe der Erklärung besteht in diesem Fall nicht.
+(2) Die Gemeinde kann bereits vor dem in Absatz 1 bezeichneten Zeitpunkt die Durchführung der Sanierung für einzelne Grundstücke durch Bescheid an die Eigentümer für abgeschlossen erklären, wenn die den Zielen und Zwecken der Sanierung entsprechende Bebauung oder sonstige Nutzung oder die Modernisierung oder Instandsetzung auch ohne Gefährdung der Ziele und Zwecke der Sanierung zu einem späteren Zeitpunkt möglich ist. Ein Rechtsanspruch auf Abgabe der Erklärung besteht in diesem Falle nicht.
 
 (3) Mit der Erklärung entfällt die Anwendung der §§ 144, 145 und 153 für dieses Grundstück. Die Gemeinde ersucht das Grundbuchamt, den Sanierungsvermerk zu löschen.
 
 ### § 164 Anspruch auf Rückübertragung
 
-(1) Wird die Sanierungssatzung aus den in § 162 Abs. 1 Satz 1 Nr. 2 oder 3 bezeichneten Gründen aufgehoben oder ist im Falle der Aufhebung nach § 162 Abs. 1 Satz 1 Nr. 4 die Sanierung nicht durchgeführt worden, hat der frühere Eigentümer eines Grundstücks einen Anspruch gegenüber dem jeweiligen Eigentümer auf Rückübertragung dieses Grundstücks, wenn es die Gemeinde oder der Sanierungsträger von ihm nach der förmlichen Festlegung des Sanierungsgebiets zur Durchführung der Sanierung freihändig oder nach den Vorschriften dieses Gesetzbuchs ohne Hergabe von entsprechendem Austauschland, Ersatzland oder Begründung von Rechten der in § 101 Abs. 1 Satz 1 Nr. 1 bezeichneten Art erworben hatte.
+(1) Wird die Sanierungssatzung aus den in § 162 Absatz 1 Satz 1 Nummer 2 oder 3 bezeichneten Gründen aufgehoben oder ist im Falle der Aufhebung nach § 162 Absatz 1 Satz 1 Nummer 4 die Sanierung nicht durchgeführt worden, hat der frühere Eigentümer eines Grundstücks einen Anspruch gegenüber dem jeweiligen Eigentümer auf Rückübertragung dieses Grundstücks, wenn es die Gemeinde oder der Sanierungsträger von ihm nach der förmlichen Festlegung des Sanierungsgebiets zur Durchführung der Sanierung freihändig oder nach den Vorschriften dieses Gesetzbuchs ohne Hergabe von entsprechendem Austauschland, Ersatzland oder Begründung von Rechten der in § 101 Absatz 1 Satz 1 Nummer 1 bezeichneten Art erworben hatte.
 
 (2) Der Anspruch besteht nicht, wenn
 
@@ -5474,7 +3860,7 @@ der frühere Eigentümer selbst das Grundstück im Wege der Enteignung erworben 
 der Eigentümer mit der zweckgerechten Verwendung des Grundstücks begonnen hat oder
 
 4.  
-das Grundstück auf Grund des § 89 oder des § 159 Abs. 3 an einen Dritten veräußert wurde oder
+das Grundstück auf Grund des § 89 oder des § 159 Absatz 3 an einen Dritten veräußert wurde oder
 
 5.  
 die Grundstücksgrenzen erheblich verändert worden sind.
@@ -5548,7 +3934,7 @@ die Maßnahme den Zielen und Zwecken nach Absatz 2 entspricht,
 das Wohl der Allgemeinheit die Durchführung der städtebaulichen Entwicklungsmaßnahme erfordert, insbesondere zur Deckung eines erhöhten Bedarfs an Wohn- und Arbeitsstätten, zur Errichtung von Gemeinbedarfs- und Folgeeinrichtungen oder zur Wiedernutzung brachliegender Flächen,
 
 3.  
-die mit der städtebaulichen Entwicklungsmaßnahme angestrebten Ziele und Zwecke durch städtebauliche Verträge nicht erreicht werden können oder Eigentümer der von der Maßnahme betroffenen Grundstücke unter entsprechender Berücksichtigung des § 166 Abs. 3 nicht bereit sind, ihre Grundstücke an die Gemeinde oder den von ihr beauftragten Entwicklungsträger zu dem Wert zu veräußern, der sich in Anwendung des § 169 Abs. 1 Nr. 6 und Abs. 4 ergibt,
+die mit der städtebaulichen Entwicklungsmaßnahme angestrebten Ziele und Zwecke durch städtebauliche Verträge nicht erreicht werden können oder Eigentümer der von der Maßnahme betroffenen Grundstücke unter entsprechender Berücksichtigung des § 166 Absatz 3 nicht bereit sind, ihre Grundstücke an die Gemeinde oder den von ihr beauftragten Entwicklungsträger zu dem Wert zu veräußern, der sich in Anwendung des § 169 Absatz 1 Nummer 6 und Absatz 4 ergibt,
 
 4.  
 die zügige Durchführung der Maßnahme innerhalb eines absehbaren Zeitraums gewährleistet ist.
@@ -5557,15 +3943,15 @@ Die öffentlichen und privaten Belange sind gegeneinander und untereinander gere
 
 (4) Die Gemeinde hat vor der förmlichen Festlegung des städtebaulichen Entwicklungsbereichs die vorbereitenden Untersuchungen durchzuführen oder zu veranlassen, die erforderlich sind, um Beurteilungsunterlagen über die Festlegungsvoraussetzungen nach Absatz 3 zu gewinnen. Die §§ 137 bis 141 sind entsprechend anzuwenden.
 
-(5) Der städtebauliche Entwicklungsbereich ist so zu begrenzen, dass sich die Entwicklung zweckmäßig durchführen lässt. Einzelne Grundstücke, die von der Entwicklung nicht betroffen werden, können aus dem Bereich ganz oder teilweise ausgenommen werden. Grundstücke, die den in § 26 Nr. 2 und § 35 Abs. 1 Nr. 7 bezeichneten Zwecken dienen, die in § 26 Nr. 3 bezeichneten Grundstücke sowie Grundstücke, für die nach § 1 Abs. 2 des Landbeschaffungsgesetzes ein Anhörungsverfahren eingeleitet worden ist, und bundeseigene Grundstücke, bei denen die Absicht, sie für Zwecke der Landesverteidigung zu verwenden, der Gemeinde bekannt ist, dürfen nur mit Zustimmung des Bedarfsträgers in den städtebaulichen Entwicklungsbereich einbezogen werden. Der Bedarfsträger soll seine Zustimmung erteilen, wenn auch bei Berücksichtigung seiner Aufgaben ein überwiegendes öffentliches Interesse an der Durchführung der städtebaulichen Entwicklungsmaßnahme besteht.
+(5) Der städtebauliche Entwicklungsbereich ist so zu begrenzen, dass sich die Entwicklung zweckmäßig durchführen lässt. Einzelne Grundstücke, die von der Entwicklung nicht betroffen werden, können aus dem Bereich ganz oder teilweise ausgenommen werden. Grundstücke, die den in § 26 Nummer 2 und § 35 Absatz 1 Nummer 7 bezeichneten Zwecken dienen, die in § 26 Nummer 3 bezeichneten Grundstücke sowie Grundstücke, für die nach § 1 Absatz 2 des Landbeschaffungsgesetzes ein Anhörungsverfahren eingeleitet worden ist, und bundeseigene Grundstücke, bei denen die Absicht, sie für Zwecke der Landesverteidigung zu verwenden, der Gemeinde bekannt ist, dürfen nur mit Zustimmung des Bedarfsträgers in den städtebaulichen Entwicklungsbereich einbezogen werden. Der Bedarfsträger soll seine Zustimmung erteilen, wenn auch bei Berücksichtigung seiner Aufgaben ein überwiegendes öffentliches Interesse an der Durchführung der städtebaulichen Entwicklungsmaßnahme besteht.
 
 (6) Die Gemeinde beschließt die förmliche Festlegung des städtebaulichen Entwicklungsbereichs als Satzung (Entwicklungssatzung). In der Entwicklungssatzung ist der städtebauliche Entwicklungsbereich zu bezeichnen.
 
 (7) Der Entwicklungssatzung ist eine Begründung beizufügen. In der Begründung sind die Gründe darzulegen, die die förmliche Festlegung des entwicklungsbedürftigen Bereichs rechtfertigen.
 
-(8) Der Beschluss der Entwicklungssatzung ist ortsüblich bekannt zu machen. § 10 Abs. 3 Satz 2 bis 5 ist entsprechend anzuwenden. In der Bekanntmachung nach Satz 1 ist auf die Genehmigungspflicht nach den §§ 144, 145 und 153 Abs. 2 hinzuweisen. Mit der Bekanntmachung wird die Entwicklungssatzung rechtsverbindlich.
+(8) Der Beschluss der Entwicklungssatzung ist ortsüblich bekannt zu machen. § 10 Absatz 3 Satz 2 bis 5 ist entsprechend anzuwenden. In der Bekanntmachung nach Satz 1 ist auf die Genehmigungspflicht nach den §§ 144, 145 und 153 Absatz 2 hinzuweisen. Mit der Bekanntmachung wird die Entwicklungssatzung rechtsverbindlich.
 
-(9) Die Gemeinde teilt dem Grundbuchamt die rechtsverbindliche Entwicklungssatzung mit. Sie hat hierbei die von der Entwicklungssatzung betroffenen Grundstücke einzeln aufzuführen. Das Grundbuchamt hat in die Grundbücher dieser Grundstücke einzutragen, dass eine städtebauliche Entwicklungsmaßnahme durchgeführt wird (Entwicklungsvermerk). § 54 Abs. 2 Satz 1 und Abs. 3 ist entsprechend anzuwenden.
+(9) Die Gemeinde teilt dem Grundbuchamt die rechtsverbindliche Entwicklungssatzung mit. Sie hat hierbei die von der Entwicklungssatzung betroffenen Grundstücke einzeln aufzuführen. Das Grundbuchamt hat in die Grundbücher dieser Grundstücke einzutragen, dass eine städtebauliche Entwicklungsmaßnahme durchgeführt wird (Entwicklungsvermerk). § 54 Absatz 2 Satz 1 und Absatz 3 ist entsprechend anzuwenden.
 
 ### § 166 Zuständigkeit und Aufgaben
 
@@ -5573,7 +3959,7 @@ Die öffentlichen und privaten Belange sind gegeneinander und untereinander gere
 
 (2) Die Gemeinde hat die Voraussetzungen dafür zu schaffen, dass ein funktionsfähiger Bereich entsprechend der beabsichtigten städtebaulichen Entwicklung und Ordnung entsteht, der nach seinem wirtschaftlichen Gefüge und der Zusammensetzung seiner Bevölkerung den Zielen und Zwecken der städtebaulichen Entwicklungsmaßnahme entspricht und in dem eine ordnungsgemäße und zweckentsprechende Versorgung der Bevölkerung mit Gütern und Dienstleistungen sichergestellt ist.
 
-(3) Die Gemeinde soll die Grundstücke im städtebaulichen Entwicklungsbereich erwerben. Dabei soll sie feststellen, ob und in welcher Rechtsform die bisherigen Eigentümer einen späteren Erwerb von Grundstücken oder Rechten im Rahmen des § 169 Abs. 6 anstreben. Die Gemeinde soll von dem Erwerb eines Grundstücks absehen, wenn
+(3) Die Gemeinde soll die Grundstücke im städtebaulichen Entwicklungsbereich erwerben. Dabei soll sie feststellen, ob und in welcher Rechtsform die bisherigen Eigentümer einen späteren Erwerb von Grundstücken oder Rechten im Rahmen des § 169 Absatz 6 anstreben. Die Gemeinde soll von dem Erwerb eines Grundstücks absehen, wenn
 
 1.  
 bei einem baulich genutzten Grundstück die Art und das Maß der baulichen Nutzung bei der Durchführung der Entwicklungsmaßnahme nicht geändert werden sollen oder
@@ -5583,19 +3969,19 @@ der Eigentümer eines Grundstücks, dessen Verwendung nach den Zielen und Zwecke
 
 Erwirbt die Gemeinde ein Grundstück nicht, ist der Eigentümer verpflichtet, einen Ausgleichsbetrag an die Gemeinde zu entrichten, der der durch die Entwicklungsmaßnahme bedingten Erhöhung des Bodenwerts seines Grundstücks entspricht.
 
-(4) Die Vorbereitung und Durchführung der Entwicklungsmaßnahme kann einem Planungsverband nach § 205 Abs. 4 übertragen werden.
+(4) Die Vorbereitung und Durchführung der Entwicklungsmaßnahme kann einem Planungsverband nach § 205 Absatz 4 übertragen werden.
 
 ### § 167 Erfüllung von Aufgaben für die Gemeinde; Entwicklungsträger
 
-(1) Die Gemeinde kann sich zur Erfüllung von Aufgaben, die ihr bei der Vorbereitung oder Durchführung der städtebaulichen Entwicklungsmaßnahme obliegen, eines geeigneten Beauftragten, insbesondere eines Entwicklungsträgers, bedienen. § 157 Abs. 1 Satz 2 und § 158 sind entsprechend anzuwenden.
+(1) Die Gemeinde kann sich zur Erfüllung von Aufgaben, die ihr bei der Vorbereitung oder Durchführung der städtebaulichen Entwicklungsmaßnahme obliegen, eines geeigneten Beauftragten, insbesondere eines Entwicklungsträgers, bedienen. § 157 Absatz 1 Satz 2 und § 158 sind entsprechend anzuwenden.
 
-(2) Der Entwicklungsträger erfüllt die ihm von der Gemeinde übertragenen Aufgaben in eigenem Namen für Rechnung der Gemeinde als deren Treuhänder. § 159 Abs. 1 Satz 3 und Abs. 2 sowie die §§ 160 und 161 sind entsprechend anzuwenden.
+(2) Der Entwicklungsträger erfüllt die ihm von der Gemeinde übertragenen Aufgaben in eigenem Namen für Rechnung der Gemeinde als deren Treuhänder. § 159 Absatz 1 Satz 3 und Absatz 2 sowie die §§ 160 und 161 sind entsprechend anzuwenden.
 
-(3) Der Entwicklungsträger ist verpflichtet, die Grundstücke des Treuhandvermögens nach Maßgabe des § 169 Abs. 5 bis 8 zu veräußern; er ist dabei an Weisungen der Gemeinde gebunden.
+(3) Der Entwicklungsträger ist verpflichtet, die Grundstücke des Treuhandvermögens nach Maßgabe des § 169 Absatz 5 bis 8 zu veräußern; er ist dabei an Weisungen der Gemeinde gebunden.
 
 ### § 168 Übernahmeverlangen
 
-Der Eigentümer eines im städtebaulichen Entwicklungsbereich gelegenen Grundstücks kann von der Gemeinde die Übernahme des Grundstücks verlangen, wenn es ihm mit Rücksicht auf die Erklärung zum städtebaulichen Entwicklungsbereich oder den Stand der Entwicklungsmaßnahme wirtschaftlich nicht mehr zuzumuten ist, das Grundstück zu behalten oder in der bisherigen oder einer anderen zulässigen Art zu nutzen. Die Vorschrift des § 145 Abs. 5 Satz 2 bis 5 ist entsprechend anzuwenden.
+Der Eigentümer eines im städtebaulichen Entwicklungsbereich gelegenen Grundstücks kann von der Gemeinde die Übernahme des Grundstücks verlangen, wenn es ihm mit Rücksicht auf die Erklärung zum städtebaulichen Entwicklungsbereich oder den Stand der Entwicklungsmaßnahme wirtschaftlich nicht mehr zuzumuten ist, das Grundstück zu behalten oder in der bisherigen oder einer anderen zulässigen Art zu nutzen. Die Vorschrift des § 145 Absatz 5 Satz 2 bis 5 ist entsprechend anzuwenden.
 
 ### § 169 Besondere Vorschriften für den städtebaulichen Entwicklungsbereich
 
@@ -5605,7 +3991,7 @@ Der Eigentümer eines im städtebaulichen Entwicklungsbereich gelegenen Grundst�
 die §§ 137, 138 und 139 (Beteiligung und Mitwirkung der Betroffenen; Auskunftspflicht; Beteiligung und Mitwirkung öffentlicher Aufgabenträger),
 
 2.  
-§ 142 Abs. 2 (Ersatz- und Ergänzungsgebiete),
+§ 142 Absatz 2 (Ersatz- und Ergänzungsgebiete),
 
 3.  
 die §§ 144 und 145 (Genehmigungspflichtige Vorhaben und Rechtsvorgänge; Genehmigung),
@@ -5617,10 +4003,10 @@ die §§ 146 bis 148 (Durchführung; Ordnungsmaßnahmen; Baumaßnahmen),
 die §§ 150 und 151 (Ersatz für Änderungen von Einrichtungen, die der öffentlichen Versorgung dienen; Abgaben- und Auslagenbefreiung),
 
 6.  
-§ 153 Abs. 1 bis 3 (Bemessung von Ausgleichs- und Entschädigungsleistungen; Kaufpreise),
+§ 153 Absatz 1 bis 3 (Bemessung von Ausgleichs- und Entschädigungsleistungen; Kaufpreise),
 
 7.  
-die §§ 154 bis 156, ohne § 154 Abs. 2a (Ausgleichsbetrag des Eigentümers; Anrechnung auf den Ausgleichsbetrag, Absehen; Überleitungsvorschriften zur förmlichen Festlegung),
+die §§ 154 bis 156, ohne § 154 Absatz 2a (Ausgleichsbetrag des Eigentümers; Anrechnung auf den Ausgleichsbetrag, Absehen; Überleitungsvorschriften zur förmlichen Festlegung),
 
 8.  
 §§ 162 bis 164 (Abschluss der Maßnahme),
@@ -5633,21 +4019,21 @@ die §§ 164a und 164b (Einsatz von Städtebauförderungsmitteln; Verwaltungsver
 
 (2) Die Vorschriften des Vierten Teils des Ersten Kapitels über die Bodenordnung sind im städtebaulichen Entwicklungsbereich nicht anzuwenden.
 
-(3) Die Enteignung ist im städtebaulichen Entwicklungsbereich ohne Bebauungsplan zugunsten der Gemeinde oder des Entwicklungsträgers zur Erfüllung ihrer Aufgaben zulässig. Sie setzt voraus, dass der Antragsteller sich ernsthaft um den freihändigen Erwerb des Grundstücks zu angemessenen Bedingungen bemüht hat. Die §§ 85, 87, 88 und 89 Abs. 1 bis 3 sind im städtebaulichen Entwicklungsbereich nicht anzuwenden.
+(3) Die Enteignung ist im städtebaulichen Entwicklungsbereich ohne Bebauungsplan zugunsten der Gemeinde oder des Entwicklungsträgers zur Erfüllung ihrer Aufgaben zulässig. Sie setzt voraus, dass der Antragsteller sich ernsthaft um den freihändigen Erwerb des Grundstücks zu angemessenen Bedingungen bemüht hat. Die §§ 85, 87, 88 und 89 Absatz 1 bis 3 sind im städtebaulichen Entwicklungsbereich nicht anzuwenden.
 
-(4) Auf land- oder forstwirtschaftlich genutzte Grundstücke ist § 153 Abs. 1 mit der Maßgabe entsprechend anzuwenden, dass in den Gebieten, in denen sich kein von dem innerlandwirtschaftlichen Verkehrswert abweichender Verkehrswert gebildet hat, der Wert maßgebend ist, der in vergleichbaren Fällen im gewöhnlichen Geschäftsverkehr auf dem allgemeinen Grundstücksmarkt dort zu erzielen wäre, wo keine Entwicklungsmaßnahmen vorgesehen sind.
+(4) Auf land- oder forstwirtschaftlich genutzte Grundstücke ist § 153 Absatz 1 mit der Maßgabe entsprechend anzuwenden, dass in den Gebieten, in denen sich kein von dem innerlandwirtschaftlichen Verkehrswert abweichender Verkehrswert gebildet hat, der Wert maßgebend ist, der in vergleichbaren Fällen im gewöhnlichen Geschäftsverkehr auf dem allgemeinen Grundstücksmarkt dort zu erzielen wäre, wo keine Entwicklungsmaßnahmen vorgesehen sind.
 
 (5) Die Gemeinde ist verpflichtet, Grundstücke, die sie zur Durchführung der Entwicklungsmaßnahme freihändig oder nach den Vorschriften dieses Gesetzbuchs erworben hat, nach Maßgabe der Absätze 6 bis 8 zu veräußern mit Ausnahme der Flächen, die als Baugrundstücke für den Gemeinbedarf oder als Verkehrs-, Versorgungs- oder Grünflächen in einem Bebauungsplan festgesetzt sind oder für sonstige öffentliche Zwecke oder als Austauschland oder zur Entschädigung in Land benötigt werden.
 
-(6) Die Grundstücke sind nach ihrer Neuordnung und Erschließung unter Berücksichtigung weiter Kreise der Bevölkerung und unter Beachtung der Ziele und Zwecke der Entwicklungsmaßnahme an Bauwillige zu veräußern, die sich verpflichten, dass sie die Grundstücke innerhalb angemessener Frist entsprechend den Festsetzungen des Bebauungsplans und den Erfordernissen der Entwicklungsmaßnahme bebauen werden. Dabei sind zunächst die früheren Eigentümer zu berücksichtigen. Auf die Veräußerungspflicht ist § 89 Abs. 4 anzuwenden. Zur land- oder forstwirtschaftlichen Nutzung festgesetzte Grundstücke sind Land- oder Forstwirten anzubieten, die zur Durchführung der Entwicklungsmaßnahme Grundstücke übereignet haben oder abgeben mussten.
+(6) Die Grundstücke sind nach ihrer Neuordnung und Erschließung unter Berücksichtigung weiter Kreise der Bevölkerung und unter Beachtung der Ziele und Zwecke der Entwicklungsmaßnahme an Bauwillige zu veräußern, die sich verpflichten, dass sie die Grundstücke innerhalb angemessener Frist entsprechend den Festsetzungen des Bebauungsplans und den Erfordernissen der Entwicklungsmaßnahme bebauen werden. Dabei sind zunächst die früheren Eigentümer zu berücksichtigen. Auf die Veräußerungspflicht ist § 89 Absatz 4 anzuwenden. Zur land- oder forstwirtschaftlichen Nutzung festgesetzte Grundstücke sind Land- oder Forstwirten anzubieten, die zur Durchführung der Entwicklungsmaßnahme Grundstücke übereignet haben oder abgeben mussten.
 
-(7) Die Gemeinde hat bei der Veräußerung dafür zu sorgen, dass die Bauwilligen die Bebauung in wirtschaftlich sinnvoller Aufeinanderfolge derart durchführen, dass die Ziele und Zwecke der städtebaulichen Entwicklung erreicht werden und die Vorhaben sich in den Rahmen der Gesamtmaßnahme einordnen. Sie hat weiter sicherzustellen, dass die neugeschaffenen baulichen Anlagen entsprechend den Zielen und Zwecken der städtebaulichen Entwicklungsmaßnahme dauerhaft genutzt werden.
+(7) Die Gemeinde hat bei der Veräußerung dafür zu sorgen, dass die Bauwilligen die Bebauung in wirtschaftlich sinnvoller Aufeinanderfolge derart durchführen, dass die Ziele und Zwecke der städtebaulichen Entwicklung erreicht werden und die Vorhaben sich in den Rahmen der Gesamtmaßnahme einordnen. Sie hat weiter sicherzustellen, dass die neu geschaffenen baulichen Anlagen entsprechend den Zielen und Zwecken der städtebaulichen Entwicklungsmaßnahme dauerhaft genutzt werden.
 
-(8) Zur Finanzierung der Entwicklung ist das Grundstück oder das Recht zu dem Verkehrswert zu veräußern, der sich durch die rechtliche und tatsächliche Neuordnung des städtebaulichen Entwicklungsbereichs ergibt. § 154 Abs. 5 ist auf den Teil des Kaufpreises entsprechend anzuwenden, der der durch die Entwicklung bedingten Werterhöhung des Grundstücks entspricht.
+(8) Zur Finanzierung der Entwicklung ist das Grundstück oder das Recht zu dem Verkehrswert zu veräußern, der sich durch die rechtliche und tatsächliche Neuordnung des städtebaulichen Entwicklungsbereichs ergibt. § 154 Absatz 5 ist auf den Teil des Kaufpreises entsprechend anzuwenden, der der durch die Entwicklung bedingten Werterhöhung des Grundstücks entspricht.
 
 ### § 170 Sonderregelung für Anpassungsgebiete
 
-Ergeben sich aus den Zielen und Zwecken der städtebaulichen Entwicklungsmaßnahme in einem im Zusammenhang bebauten Gebiet Maßnahmen zur Anpassung an die vorgesehene Entwicklung, kann die Gemeinde dieses Gebiet in der Entwicklungssatzung förmlich festlegen (Anpassungsgebiet). Das Anpassungsgebiet ist in der Entwicklungssatzung zu bezeichnen. Die förmliche Festlegung darf erst erfolgen, wenn entsprechend § 141 vorbereitende Untersuchungen durchgeführt worden sind. In dem Anpassungsgebiet sind neben den für städtebauliche Entwicklungsmaßnahmen geltenden Vorschriften mit Ausnahme des § 166 Abs. 3 und des § 169 Abs. 2 bis 8 die Vorschriften über städtebauliche Sanierungsmaßnahmen entsprechend anzuwenden, mit Ausnahme der §§ 136, 142 und 143.
+Ergeben sich aus den Zielen und Zwecken der städtebaulichen Entwicklungsmaßnahme in einem im Zusammenhang bebauten Gebiet Maßnahmen zur Anpassung an die vorgesehene Entwicklung, kann die Gemeinde dieses Gebiet in der Entwicklungssatzung förmlich festlegen (Anpassungsgebiet). Das Anpassungsgebiet ist in der Entwicklungssatzung zu bezeichnen. Die förmliche Festlegung darf erst erfolgen, wenn entsprechend § 141 vorbereitende Untersuchungen durchgeführt worden sind. In dem Anpassungsgebiet sind neben den für städtebauliche Entwicklungsmaßnahmen geltenden Vorschriften mit Ausnahme des § 166 Absatz 3 und des § 169 Absatz 2 bis 8 die Vorschriften über städtebauliche Sanierungsmaßnahmen entsprechend anzuwenden, mit Ausnahme der §§ 136, 142 und 143.
 
 ### § 171 Kosten und Finanzierung der Entwicklungsmaßnahme
 
@@ -5662,7 +4048,7 @@ Dritter Teil Stadtumbau
 
 ### § 171a Stadtumbaumaßnahmen
 
-(1) Stadtumbaumaßnahmen in Stadt- und Ortsteilen, deren einheitliche und zügige Durchführung im öffentlichen Interesse liegen, können auch an Stelle von oder ergänzend zu sonstigen Maßnahmen nach diesem Gesetzbuch nach den Vorschriften dieses Teils durchgeführt werden.
+(1) Stadtumbaumaßnahmen in Stadt- und Ortsteilen, deren einheitliche und zügige Durchführung im öffentlichen Interesse liegen, können auch anstelle von oder ergänzend zu sonstigen Maßnahmen nach diesem Gesetzbuch nach den Vorschriften dieses Teils durchgeführt werden.
 
 (2) Stadtumbaumaßnahmen sind Maßnahmen, durch die in von erheblichen städtebaulichen Funktionsverlusten betroffenen Gebieten Anpassungen zur Herstellung nachhaltiger städtebaulicher Strukturen vorgenommen werden. Erhebliche städtebauliche Funktionsverluste liegen insbesondere vor, wenn ein dauerhaftes Überangebot an baulichen Anlagen für bestimmte Nutzungen, namentlich für Wohnzwecke, besteht oder zu erwarten ist, oder wenn die allgemeinen Anforderungen an den Klimaschutz und die Klimaanpassung nicht erfüllt werden.
 
@@ -5693,7 +4079,7 @@ innerstädtische Altbaubestände nachhaltig erhalten werden.
 
 (1) Die Gemeinde legt das Gebiet, in dem Stadtumbaumaßnahmen durchgeführt werden sollen, durch Beschluss als Stadtumbaugebiet fest. Es ist in seinem räumlichen Umfang so festzulegen, dass sich die Maßnahmen zweckmäßig durchführen lassen.
 
-(2) Grundlage für den Beschluss nach Absatz 1 ist ein von der Gemeinde aufzustellendes städtebauliches Entwicklungskonzept, in dem die Ziele und Maßnahmen (§ 171a Abs. 3) im Stadtumbaugebiet schriftlich darzustellen sind. Die öffentlichen und privaten Belange sind gegeneinander und untereinander gerecht abzuwägen.
+(2) Grundlage für den Beschluss nach Absatz 1 ist ein von der Gemeinde aufzustellendes städtebauliches Entwicklungskonzept, in dem die Ziele und Maßnahmen (§ 171a Absatz 3) im Stadtumbaugebiet schriftlich darzustellen sind. Die öffentlichen und privaten Belange sind gegeneinander und untereinander gerecht abzuwägen.
 
 (3) Die §§ 137 und 139 sind bei der Vorbereitung und Durchführung der Stadtumbaumaßnahmen entsprechend anzuwenden.
 
@@ -5714,11 +4100,11 @@ der Ausgleich von Lasten zwischen den beteiligten Eigentümern.
 
 ### § 171d Sicherung von Durchführungsmaßnahmen
 
-(1) Die Gemeinde kann durch Satzung ein Gebiet bezeichnen, das ein festgelegtes Stadtumbaugebiet (§ 171b Abs. 1) oder Teile davon umfasst und in dem zur Sicherung und sozialverträglichen Durchführung von Stadtumbaumaßnahmen die in § 14 Abs. 1 bezeichneten Vorhaben und sonstigen Maßnahmen der Genehmigung bedürfen. Auf die Satzung ist § 16 Absatz 2 entsprechend anzuwenden.
+(1) Die Gemeinde kann durch Satzung ein Gebiet bezeichnen, das ein festgelegtes Stadtumbaugebiet (§ 171b Absatz 1) oder Teile davon umfasst und in dem zur Sicherung und sozialverträglichen Durchführung von Stadtumbaumaßnahmen die in § 14 Absatz 1 bezeichneten Vorhaben und sonstigen Maßnahmen der Genehmigung bedürfen. Auf die Satzung ist § 16 Absatz 2 entsprechend anzuwenden.
 
-(2) Ist der Beschluss über die Aufstellung einer Satzung nach Absatz 1 gefasst und ortsüblich bekannt gemacht, ist § 15 Abs. 1 auf die Durchführung der Vorhaben und Maßnahmen im Sinne von Absatz 1 entsprechend anzuwenden.
+(2) Ist der Beschluss über die Aufstellung einer Satzung nach Absatz 1 gefasst und ortsüblich bekannt gemacht, ist § 15 Absatz 1 auf die Durchführung der Vorhaben und Maßnahmen im Sinne von Absatz 1 entsprechend anzuwenden.
 
-(3) In den Fällen des Absatzes 1 darf die Genehmigung nur versagt werden, um einen den städtebaulichen und sozialen Belangen Rechnung tragenden Ablauf der Stadtumbaumaßnahmen auf der Grundlage des von der Gemeinde aufgestellten städtebaulichen Entwicklungskonzeptes (§ 171b Abs. 2) oder eines Sozialplans (§ 180) zu sichern. Die Genehmigung ist zu erteilen, wenn auch unter Berücksichtigung des Allgemeinwohls ein Absehen von dem Vorhaben oder der Maßnahme wirtschaftlich nicht zumutbar ist.
+(3) In den Fällen des Absatzes 1 darf die Genehmigung nur versagt werden, um einen den städtebaulichen und sozialen Belangen Rechnung tragenden Ablauf der Stadtumbaumaßnahmen auf der Grundlage des von der Gemeinde aufgestellten städtebaulichen Entwicklungskonzeptes (§ 171b Absatz 2) oder eines Sozialplans (§ 180) zu sichern. Die Genehmigung ist zu erteilen, wenn auch unter Berücksichtigung des Allgemeinwohls ein Absehen von dem Vorhaben oder der Maßnahme wirtschaftlich nicht zumutbar ist.
 
 (4) Die §§ 138, 173 und 174 sind im Gebiet der Satzung nach Absatz 1 entsprechend anzuwenden.
 
@@ -5729,7 +4115,7 @@ Vierter Teil Soziale Stadt
 
 ### § 171e Maßnahmen der Sozialen Stadt
 
-(1) Städtebauliche Maßnahmen der Sozialen Stadt in Stadt- und Ortsteilen, deren einheitliche und zügige Durchführung im öffentlichen Interesse liegen, können auch an Stelle von oder ergänzend zu sonstigen Maßnahmen nach diesem Gesetzbuch nach den Vorschriften dieses Teils durchgeführt werden.
+(1) Städtebauliche Maßnahmen der Sozialen Stadt in Stadt- und Ortsteilen, deren einheitliche und zügige Durchführung im öffentlichen Interesse liegen, können auch anstelle von oder ergänzend zu sonstigen Maßnahmen nach diesem Gesetzbuch nach den Vorschriften dieses Teils durchgeführt werden.
 
 (2) Städtebauliche Maßnahmen der Sozialen Stadt sind Maßnahmen zur Stabilisierung und Aufwertung von durch soziale Missstände benachteiligten Ortsteilen oder anderen Teilen des Gemeindegebiets, in denen ein besonderer Entwicklungsbedarf besteht. Soziale Missstände liegen insbesondere vor, wenn ein Gebiet auf Grund der Zusammensetzung und wirtschaftlichen Situation der darin lebenden und arbeitenden Menschen erheblich benachteiligt ist. Ein besonderer Entwicklungsbedarf liegt insbesondere vor, wenn es sich um benachteiligte innerstädtische oder innenstadtnah gelegene Gebiete oder verdichtete Wohn- und Mischgebiete handelt, in denen es einer aufeinander abgestimmten Bündelung von investiven und sonstigen Maßnahmen bedarf.
 
@@ -5739,7 +4125,7 @@ Vierter Teil Soziale Stadt
 
 (5) Bei der Erstellung des Entwicklungskonzeptes und bei seiner Umsetzung sollen die Beteiligten in geeigneter Form einbezogen und zur Mitwirkung angeregt werden. Die Gemeinde soll die Beteiligten im Rahmen des Möglichen fortlaufend beraten und unterstützen. Dazu kann im Zusammenwirken von Gemeinde und Beteiligten eine Koordinierungsstelle eingerichtet werden. Soweit erforderlich, soll die Gemeinde zur Verwirklichung und zur Förderung der mit dem Entwicklungskonzept verfolgten Ziele sowie zur Übernahme von Kosten mit den Eigentümern und sonstigen Maßnahmenträgern städtebauliche Verträge schließen.
 
-(6) Die §§ 164a und 164b sind im Gebiet nach Absatz 3 entsprechend anzuwenden. Dabei ist § 164a Abs. 1 Satz 2 über den Einsatz von Finanzierungs- und Fördermitteln auf Grund anderer gesetzlicher Grundlage insbesondere auch auf sonstige Maßnahmen im Sinne des Absatzes 2 Satz 3 anzuwenden.
+(6) Die §§ 164a und 164b sind im Gebiet nach Absatz 3 entsprechend anzuwenden. Dabei ist § 164a Absatz 1 Satz 2 über den Einsatz von Finanzierungs- und Fördermitteln auf Grund anderer gesetzlicher Grundlage insbesondere auch auf sonstige Maßnahmen im Sinne des Absatzes 2 Satz 3 anzuwenden.
 
 Fünfter Teil Private Initiativen
 --------------------------------
@@ -5773,13 +4159,13 @@ zur Erhaltung der Zusammensetzung der Wohnbevölkerung (Absatz 4) oder
 3.  
 bei städtebaulichen Umstrukturierungen (Absatz 5)
 
-der Rückbau, die Änderung oder die Nutzungsänderung baulicher Anlagen der Genehmigung bedürfen. In den Fällen des Satzes 1 Nr. 1 bedarf auch die Errichtung baulicher Anlagen der Genehmigung. Auf die Satzung ist § 16 Abs. 2 entsprechend anzuwenden. Die Landesregierungen werden ermächtigt, für die Grundstücke in Gebieten einer Satzung nach Satz 1 Nr. 2 durch Rechtsverordnung mit einer Geltungsdauer von höchstens fünf Jahren zu bestimmen, dass die Begründung von Wohnungseigentum oder Teileigentum (§ 1 des Wohnungseigentumsgesetzes) an Gebäuden, die ganz oder teilweise Wohnzwecken zu dienen bestimmt sind, nicht ohne Genehmigung erfolgen darf. Ein solches Verbot gilt als Verbot im Sinne des § 135 des Bürgerlichen Gesetzbuchs. In den Fällen des Satzes 4 ist § 22 Abs. 2 Satz 3 und 4, Abs. 6 und 8 entsprechend anzuwenden.
+der Rückbau, die Änderung oder die Nutzungsänderung baulicher Anlagen der Genehmigung bedürfen. In den Fällen des Satzes 1 Nummer 1 bedarf auch die Errichtung baulicher Anlagen der Genehmigung. Auf die Satzung ist § 16 Absatz 2 entsprechend anzuwenden. Die Landesregierungen werden ermächtigt, für die Grundstücke in Gebieten einer Satzung nach Satz 1 Nummer 2 durch Rechtsverordnung mit einer Geltungsdauer von höchstens fünf Jahren zu bestimmen, dass die Begründung von Wohnungseigentum oder Teileigentum (§ 1 des Wohnungseigentumsgesetzes) an Gebäuden, die ganz oder teilweise Wohnzwecken zu dienen bestimmt sind, nicht ohne Genehmigung erfolgen darf. Ein solches Verbot gilt als Verbot im Sinne des § 135 des Bürgerlichen Gesetzbuchs. In den Fällen des Satzes 4 ist § 22 Absatz 2 Satz 3 und 4, Absatz 6 und 8 entsprechend anzuwenden.
 
-(2) Ist der Beschluss über die Aufstellung einer Erhaltungssatzung gefasst und ortsüblich bekannt gemacht, ist § 15 Abs. 1 auf die Durchführung eines Vorhabens im Sinne des Absatzes 1 entsprechend anzuwenden.
+(2) Ist der Beschluss über die Aufstellung einer Erhaltungssatzung gefasst und ortsüblich bekannt gemacht, ist § 15 Absatz 1 auf die Durchführung eines Vorhabens im Sinne des Absatzes 1 entsprechend anzuwenden.
 
-(3) In den Fällen des Absatzes 1 Satz 1 Nr. 1 darf die Genehmigung nur versagt werden, wenn die bauliche Anlage allein oder im Zusammenhang mit anderen baulichen Anlagen das Ortsbild, die Stadtgestalt oder das Landschaftsbild prägt oder sonst von städtebaulicher, insbesondere geschichtlicher oder künstlerischer Bedeutung ist. Die Genehmigung zur Errichtung der baulichen Anlage darf nur versagt werden, wenn die städtebauliche Gestalt des Gebiets durch die beabsichtigte bauliche Anlage beeinträchtigt wird.
+(3) In den Fällen des Absatzes 1 Satz 1 Nummer 1 darf die Genehmigung nur versagt werden, wenn die bauliche Anlage allein oder im Zusammenhang mit anderen baulichen Anlagen das Ortsbild, die Stadtgestalt oder das Landschaftsbild prägt oder sonst von städtebaulicher, insbesondere geschichtlicher oder künstlerischer Bedeutung ist. Die Genehmigung zur Errichtung der baulichen Anlage darf nur versagt werden, wenn die städtebauliche Gestalt des Gebiets durch die beabsichtigte bauliche Anlage beeinträchtigt wird.
 
-(4) In den Fällen des Absatzes 1 Satz 1 Nr. 2 und Satz 4 darf die Genehmigung nur versagt werden, wenn die Zusammensetzung der Wohnbevölkerung aus besonderen städtebaulichen Gründen erhalten werden soll. Sie ist zu erteilen, wenn auch unter Berücksichtigung des Allgemeinwohls die Erhaltung der baulichen Anlage oder ein Absehen von der Begründung von Wohnungseigentum oder Teileigentum wirtschaftlich nicht mehr zumutbar ist. Die Genehmigung ist ferner zu erteilen, wenn
+(4) In den Fällen des Absatzes 1 Satz 1 Nummer 2 und Satz 4 darf die Genehmigung nur versagt werden, wenn die Zusammensetzung der Wohnbevölkerung aus besonderen städtebaulichen Gründen erhalten werden soll. Sie ist zu erteilen, wenn auch unter Berücksichtigung des Allgemeinwohls die Erhaltung der baulichen Anlage oder ein Absehen von der Begründung von Wohnungseigentum oder Teileigentum wirtschaftlich nicht mehr zumutbar ist. Die Genehmigung ist ferner zu erteilen, wenn
 
 1.  
 die Änderung einer baulichen Anlage der Herstellung des zeitgemäßen Ausstattungszustands einer durchschnittlichen Wohnung unter Berücksichtigung der bauordnungsrechtlichen Mindestanforderungen dient,
@@ -5800,27 +4186,27 @@ ohne die Genehmigung Ansprüche Dritter auf Übertragung von Wohnungseigentum od
 das Gebäude im Zeitpunkt der Antragstellung zur Begründung von Wohnungseigentum oder Teileigentum nicht zu Wohnzwecken genutzt wird oder
 
 6.  
-sich der Eigentümer verpflichtet, innerhalb von sieben Jahren ab der Begründung von Wohnungseigentum Wohnungen nur an die Mieter zu veräußern; eine Frist nach § 577a Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs verkürzt sich um fünf Jahre; die Frist nach § 577a Abs. 1 des Bürgerlichen Gesetzbuchs entfällt.
+sich der Eigentümer verpflichtet, innerhalb von sieben Jahren ab der Begründung von Wohnungseigentum Wohnungen nur an die Mieter zu veräußern; eine Frist nach § 577a Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs verkürzt sich um fünf Jahre; die Frist nach § 577a Absatz 1 des Bürgerlichen Gesetzbuchs entfällt.
 
-In den Fällen des Satzes 3 Nr. 6 kann in der Genehmigung bestimmt werden, dass auch die Veräußerung von Wohnungseigentum an dem Gebäude während der Dauer der Verpflichtung der Genehmigung der Gemeinde bedarf. Diese Genehmigungspflicht kann auf Ersuchen der Gemeinde in das Wohnungsgrundbuch eingetragen werden; sie erlischt nach Ablauf der Verpflichtung.
+In den Fällen des Satzes 3 Nummer 6 kann in der Genehmigung bestimmt werden, dass auch die Veräußerung von Wohnungseigentum an dem Gebäude während der Dauer der Verpflichtung der Genehmigung der Gemeinde bedarf. Diese Genehmigungspflicht kann auf Ersuchen der Gemeinde in das Wohnungsgrundbuch eingetragen werden; sie erlischt nach Ablauf der Verpflichtung.
 
-(5) In den Fällen des Absatzes 1 Satz 1 Nr. 3 darf die Genehmigung nur versagt werden, um einen den sozialen Belangen Rechnung tragenden Ablauf auf der Grundlage eines Sozialplans (§ 180) zu sichern. Ist ein Sozialplan nicht aufgestellt worden, hat ihn die Gemeinde in entsprechender Anwendung des § 180 aufzustellen. Absatz 4 Satz 2 ist entsprechend anzuwenden.
+(5) In den Fällen des Absatzes 1 Satz 1 Nummer 3 darf die Genehmigung nur versagt werden, um einen den sozialen Belangen Rechnung tragenden Ablauf auf der Grundlage eines Sozialplans (§ 180) zu sichern. Ist ein Sozialplan nicht aufgestellt worden, hat ihn die Gemeinde in entsprechender Anwendung des § 180 aufzustellen. Absatz 4 Satz 2 ist entsprechend anzuwenden.
 
 ### § 173 Genehmigung, Übernahmeanspruch
 
-(1) Die Genehmigung wird durch die Gemeinde erteilt; § 22 Absatz 5 Satz 2 bis 5 ist entsprechend anzuwenden. Ist eine baurechtliche Genehmigung oder an ihrer Stelle eine baurechtliche Zustimmung erforderlich, wird die Genehmigung durch die Baugenehmigungsbehörde im Einvernehmen mit der Gemeinde erteilt; im Baugenehmigungs- oder Zustimmungsverfahren wird über die in § 172 Abs. 3 bis 5 bezeichneten Belange entschieden.
+(1) Die Genehmigung wird durch die Gemeinde erteilt; § 22 Absatz 5 Satz 2 bis 5 ist entsprechend anzuwenden. Ist eine baurechtliche Genehmigung oder an ihrer Stelle eine baurechtliche Zustimmung erforderlich, wird die Genehmigung durch die Baugenehmigungsbehörde im Einvernehmen mit der Gemeinde erteilt; im Baugenehmigungs- oder Zustimmungsverfahren wird über die in § 172 Absatz 3 bis 5 bezeichneten Belange entschieden.
 
-(2) Wird in den Fällen des § 172 Abs. 3 die Genehmigung versagt, kann der Eigentümer von der Gemeinde unter den Voraussetzungen des § 40 Abs. 2 die Übernahme des Grundstücks verlangen. § 43 Abs. 1, 4 und 5 sowie § 44 Abs. 3 und 4 sind entsprechend anzuwenden.
+(2) Wird in den Fällen des § 172 Absatz 3 die Genehmigung versagt, kann der Eigentümer von der Gemeinde unter den Voraussetzungen des § 40 Absatz 2 die Übernahme des Grundstücks verlangen. § 43 Absatz 1, 4 und 5 sowie § 44 Absatz 3 und 4 sind entsprechend anzuwenden.
 
-(3) Vor der Entscheidung über den Genehmigungsantrag hat die Gemeinde mit dem Eigentümer oder sonstigen zur Unterhaltung Verpflichteten die für die Entscheidung erheblichen Tatsachen zu erörtern. In den Fällen des § 172 Abs. 4 und 5 hat sie auch Mieter, Pächter und sonstige Nutzungsberechtigte zu hören. In den Fällen des § 172 Absatz 4 Satz 3 Nummer 6 hat sie die nach Satz 2 anzuhörenden Personen über die Erteilung einer Genehmigung zu informieren.
+(3) Vor der Entscheidung über den Genehmigungsantrag hat die Gemeinde mit dem Eigentümer oder sonstigen zur Unterhaltung Verpflichteten die für die Entscheidung erheblichen Tatsachen zu erörtern. In den Fällen des § 172 Absatz 4 und 5 hat sie auch Mieter, Pächter und sonstige Nutzungsberechtigte zu hören. In den Fällen des § 172 Absatz 4 Satz 3 Nummer 6 hat sie die nach Satz 2 anzuhörenden Personen über die Erteilung einer Genehmigung zu informieren.
 
 (4) Die landesrechtlichen Vorschriften, insbesondere über den Schutz und die Erhaltung von Denkmälern, bleiben unberührt.
 
 ### § 174 Ausnahmen
 
-(1) § 172 ist nicht auf Grundstücke anzuwenden, die den in § 26 Nr. 2 bezeichneten Zwecken dienen, und auf die in § 26 Nr. 3 bezeichneten Grundstücke.
+(1) § 172 ist nicht auf Grundstücke anzuwenden, die den in § 26 Nummer 2 bezeichneten Zwecken dienen, und auf die in § 26 Nummer 3 bezeichneten Grundstücke.
 
-(2) Befindet sich ein Grundstück der in Absatz 1 bezeichneten Art im Geltungsbereich einer Erhaltungssatzung, hat die Gemeinde den Bedarfsträger hiervon zu unterrichten. Beabsichtigt der Bedarfsträger ein Vorhaben im Sinne des § 172 Abs. 1, hat er dies der Gemeinde anzuzeigen. Der Bedarfsträger soll auf Verlangen der Gemeinde von dem Vorhaben absehen, wenn die Voraussetzungen vorliegen, die die Gemeinde berechtigen würden, die Genehmigung nach § 172 zu versagen, und wenn die Erhaltung oder das Absehen von der Errichtung der baulichen Anlage dem Bedarfsträger auch unter Berücksichtigung seiner Aufgaben zuzumuten ist.
+(2) Befindet sich ein Grundstück der in Absatz 1 bezeichneten Art im Geltungsbereich einer Erhaltungssatzung, hat die Gemeinde den Bedarfsträger hiervon zu unterrichten. Beabsichtigt der Bedarfsträger ein Vorhaben im Sinne des § 172 Absatz 1, hat er dies der Gemeinde anzuzeigen. Der Bedarfsträger soll auf Verlangen der Gemeinde von dem Vorhaben absehen, wenn die Voraussetzungen vorliegen, die die Gemeinde berechtigen würden, die Genehmigung nach § 172 zu versagen, und wenn die Erhaltung oder das Absehen von der Errichtung der baulichen Anlage dem Bedarfsträger auch unter Berücksichtigung seiner Aufgaben zuzumuten ist.
 
 Zweiter Abschnitt Städtebauliche Gebote
 ---------------------------------------
@@ -5835,7 +4221,7 @@ Zweiter Abschnitt Städtebauliche Gebote
 
 (3) Mieter, Pächter und sonstige Nutzungsberechtigte haben die Durchführung der Maßnahmen nach den §§ 176 bis 179 zu dulden.
 
-(4) Die §§ 176 bis 179 sind nicht auf Grundstücke anzuwenden, die den in § 26 Nr. 2 bezeichneten Zwecken dienen, und auf die in § 26 Nr. 3 bezeichneten Grundstücke. Liegen für diese Grundstücke die Voraussetzungen für die Anordnung eines Gebots nach den §§ 176 bis 179 vor, soll auf Verlangen der Gemeinde der Bedarfsträger die entsprechenden Maßnahmen durchführen oder ihre Durchführung dulden, soweit dadurch nicht die Erfüllung seiner Aufgaben beeinträchtigt wird.
+(4) Die §§ 176 bis 179 sind nicht auf Grundstücke anzuwenden, die den in § 26 Nummer 2 bezeichneten Zwecken dienen, und auf die in § 26 Nummer 3 bezeichneten Grundstücke. Liegen für diese Grundstücke die Voraussetzungen für die Anordnung eines Gebots nach den §§ 176 bis 179 vor, soll auf Verlangen der Gemeinde der Bedarfsträger die entsprechenden Maßnahmen durchführen oder ihre Durchführung dulden, soweit dadurch nicht die Erfüllung seiner Aufgaben beeinträchtigt wird.
 
 (5) Die landesrechtlichen Vorschriften, insbesondere über den Schutz und die Erhaltung von Denkmälern, bleiben unberührt.
 
@@ -5853,15 +4239,15 @@ ein vorhandenes Gebäude oder eine vorhandene sonstige bauliche Anlage den Fests
 
 (3) Ist die Durchführung des Vorhabens aus wirtschaftlichen Gründen einem Eigentümer nicht zuzumuten, hat die Gemeinde von dem Baugebot abzusehen.
 
-(4) Der Eigentümer kann von der Gemeinde die Übernahme des Grundstücks verlangen, wenn er glaubhaft macht, dass ihm die Durchführung des Vorhabens aus wirtschaftlichen Gründen nicht zuzumuten ist. § 43 Abs. 1, 4 und 5 sowie § 44 Abs. 3 und 4 sind entsprechend anzuwenden.
+(4) Der Eigentümer kann von der Gemeinde die Übernahme des Grundstücks verlangen, wenn er glaubhaft macht, dass ihm die Durchführung des Vorhabens aus wirtschaftlichen Gründen nicht zuzumuten ist. § 43 Absatz 1, 4 und 5 sowie § 44 Absatz 3 und 4 sind entsprechend anzuwenden.
 
-(5) Ist die Durchführung eines Baugebots nur möglich, wenn zuvor eine bauliche Anlage oder Teile davon beseitigt werden, ist der Eigentümer mit dem Baugebot auch zur Beseitigung verpflichtet. § 179 Abs. 2 und 3 Satz 1, § 43 Abs. 2 und 5 sowie § 44 Abs. 3 und 4 sind entsprechend anzuwenden.
+(5) Ist die Durchführung eines Baugebots nur möglich, wenn zuvor eine bauliche Anlage oder Teile davon beseitigt werden, ist der Eigentümer mit dem Baugebot auch zur Beseitigung verpflichtet. § 179 Absatz 2 und 3 Satz 1, § 43 Absatz 2 und 5 sowie § 44 Absatz 3 und 4 sind entsprechend anzuwenden.
 
 (6) Ist für ein Grundstück eine andere als bauliche Nutzung festgesetzt, sind die Absätze 1 und 3 bis 5 entsprechend anzuwenden.
 
 (7) Mit dem Baugebot kann die Verpflichtung verbunden werden, innerhalb einer zu bestimmenden angemessenen Frist den für eine bauliche Nutzung des Grundstücks erforderlichen Antrag auf Erteilung einer bauaufsichtlichen Genehmigung zu stellen.
 
-(8) Kommt der Eigentümer der Verpflichtung nach Absatz 7 auch nach Vollstreckungsmaßnahmen auf Grund landesrechtlicher Vorschriften nicht nach, kann das Enteignungsverfahren nach § 85 Abs. 1 Nr. 5 auch vor Ablauf der Frist nach Absatz 1 eingeleitet werden.
+(8) Kommt der Eigentümer der Verpflichtung nach Absatz 7 auch nach Vollstreckungsmaßnahmen auf Grund landesrechtlicher Vorschriften nicht nach, kann das Enteignungsverfahren nach § 85 Absatz 1 Nummer 5 auch vor Ablauf der Frist nach Absatz 1 eingeleitet werden.
 
 (9) In dem Enteignungsverfahren ist davon auszugehen, dass die Voraussetzungen des Baugebots vorliegen; die Vorschriften über die Zulässigkeit der Enteignung bleiben unberührt. Bei der Bemessung der Entschädigung bleiben Werterhöhungen unberücksichtigt, die nach Unanfechtbarkeit des Baugebots eingetreten sind, es sei denn, dass der Eigentümer die Werterhöhungen durch eigene Aufwendungen zulässigerweise bewirkt hat.
 
@@ -5886,11 +4272,11 @@ Kann die Behebung der Mängel einer baulichen Anlage nach landesrechtlichen Vors
 
 (4) Der Eigentümer hat die Kosten der von der Gemeinde angeordneten Maßnahmen insoweit zu tragen, als er sie durch eigene oder fremde Mittel decken und die sich daraus ergebenden Kapitalkosten sowie die zusätzlich entstehenden Bewirtschaftungskosten aus Erträgen der baulichen Anlage aufbringen kann. Sind dem Eigentümer Kosten entstanden, die er nicht zu tragen hat, hat die Gemeinde sie ihm zu erstatten, soweit nicht eine andere Stelle einen Zuschuss zu ihrer Deckung gewährt. Dies gilt nicht, wenn der Eigentümer auf Grund anderer Rechtsvorschriften verpflichtet ist, die Kosten selbst zu tragen, oder wenn er Instandsetzungen unterlassen hat und nicht nachweisen kann, dass ihre Vornahme wirtschaftlich unvertretbar oder ihm nicht zuzumuten war. Die Gemeinde kann mit dem Eigentümer den Kostenerstattungsbetrag unter Verzicht auf eine Berechnung im Einzelfall als Pauschale in Höhe eines bestimmten Vomhundertsatzes der Modernisierungs- oder Instandsetzungskosten vereinbaren.
 
-(5) Der vom Eigentümer zu tragende Kostenanteil wird nach der Durchführung der Modernisierungs- oder Instandsetzungsmaßnahmen unter Berücksichtigung der Erträge ermittelt, die für die modernisierte oder instandgesetzte bauliche Anlage bei ordentlicher Bewirtschaftung nachhaltig erzielt werden können; dabei sind die mit einem Bebauungsplan, einem Sozialplan, einer städtebaulichen Sanierungsmaßnahme oder einer sonstigen städtebaulichen Maßnahme verfolgten Ziele und Zwecke zu berücksichtigen.
+(5) Der vom Eigentümer zu tragende Kostenanteil wird nach der Durchführung der Modernisierungs- oder Instandsetzungsmaßnahmen unter Berücksichtigung der Erträge ermittelt, die für die modernisierte oder instand gesetzte bauliche Anlage bei ordentlicher Bewirtschaftung nachhaltig erzielt werden können; dabei sind die mit einem Bebauungsplan, einem Sozialplan, einer städtebaulichen Sanierungsmaßnahme oder einer sonstigen städtebaulichen Maßnahme verfolgten Ziele und Zwecke zu berücksichtigen.
 
 ### § 178 Pflanzgebot
 
-Die Gemeinde kann den Eigentümer durch Bescheid verpflichten, sein Grundstück innerhalb einer zu bestimmenden angemessenen Frist entsprechend den nach § 9 Abs. 1 Nr. 25 getroffenen Festsetzungen des Bebauungsplans zu bepflanzen.
+Die Gemeinde kann den Eigentümer durch Bescheid verpflichten, sein Grundstück innerhalb einer zu bestimmenden angemessenen Frist entsprechend den nach § 9 Absatz 1 Nummer 25 getroffenen Festsetzungen des Bebauungsplans zu bepflanzen.
 
 ### § 179 Rückbau- und Entsiegelungsgebot
 
@@ -5900,13 +4286,13 @@ Die Gemeinde kann den Eigentümer durch Bescheid verpflichten, sein Grundstück 
 den Festsetzungen eines Bebauungsplans nicht entspricht und ihnen nicht angepasst werden kann oder
 
 2.  
-Missstände oder Mängel im Sinne des § 177 Abs. 2 und 3 Satz 1 aufweist, die auch durch eine Modernisierung oder Instandsetzung nicht behoben werden können.
+Missstände oder Mängel im Sinne des § 177 Absatz 2 und 3 Satz 1 aufweist, die auch durch eine Modernisierung oder Instandsetzung nicht behoben werden können.
 
-Satz 1 Nr. 1 gilt entsprechend für die sonstige Wiedernutzbarmachung von dauerhaft nicht mehr genutzten Flächen, bei denen der durch Bebauung oder Versiegelung beeinträchtigte Boden in seiner Leistungsfähigkeit erhalten oder wiederhergestellt werden soll; die sonstige Wiedernutzbarmachung steht der Beseitigung nach Satz 1 gleich. Diejenigen, für die ein Recht an dem Grundstück oder an einem das Grundstück belastenden Recht im Grundbuch eingetragen oder durch Eintragung gesichert ist, das nicht zur Nutzung berechtigt, sollen von dem Bescheid benachrichtigt werden, wenn sie von der Beseitigung betroffen werden. Unberührt bleibt das Recht des Eigentümers, die Beseitigung selbst vorzunehmen.
+Satz 1 Nummer 1 gilt entsprechend für die sonstige Wiedernutzbarmachung von dauerhaft nicht mehr genutzten Flächen, bei denen der durch Bebauung oder Versiegelung beeinträchtigte Boden in seiner Leistungsfähigkeit erhalten oder wiederhergestellt werden soll; die sonstige Wiedernutzbarmachung steht der Beseitigung nach Satz 1 gleich. Diejenigen, für die ein Recht an dem Grundstück oder an einem das Grundstück belastenden Recht im Grundbuch eingetragen oder durch Eintragung gesichert ist, das nicht zur Nutzung berechtigt, sollen von dem Bescheid benachrichtigt werden, wenn sie von der Beseitigung betroffen werden. Unberührt bleibt das Recht des Eigentümers, die Beseitigung selbst vorzunehmen.
 
 (2) Der Bescheid darf bei Wohnraum nur vollzogen werden, wenn im Zeitpunkt der Beseitigung angemessener Ersatzwohnraum für die Bewohner unter zumutbaren Bedingungen zur Verfügung steht. Strebt der Inhaber von Raum, der überwiegend gewerblichen oder beruflichen Zwecken dient (Geschäftsraum), eine anderweitige Unterbringung an, soll der Bescheid nur vollzogen werden, wenn im Zeitpunkt der Beseitigung anderer geeigneter Geschäftsraum unter zumutbaren Bedingungen zur Verfügung steht.
 
-(3) Entstehen dem Eigentümer, Mieter, Pächter oder sonstigen Nutzungsberechtigten durch die Beseitigung Vermögensnachteile, hat die Gemeinde angemessene Entschädigung in Geld zu leisten. Der Eigentümer kann an Stelle der Entschädigung nach Satz 1 von der Gemeinde die Übernahme des Grundstücks verlangen, wenn es ihm mit Rücksicht auf das Rückbau- oder Entsiegelungsgebot wirtschaftlich nicht mehr zuzumuten ist, das Grundstück zu behalten. § 43 Abs. 1, 2, 4 und 5 sowie § 44 Abs. 3 und 4 sind entsprechend anzuwenden.
+(3) Entstehen dem Eigentümer, Mieter, Pächter oder sonstigen Nutzungsberechtigten durch die Beseitigung Vermögensnachteile, hat die Gemeinde angemessene Entschädigung in Geld zu leisten. Der Eigentümer kann anstelle der Entschädigung nach Satz 1 von der Gemeinde die Übernahme des Grundstücks verlangen, wenn es ihm mit Rücksicht auf das Rückbau- oder Entsiegelungsgebot wirtschaftlich nicht mehr zuzumuten ist, das Grundstück zu behalten. § 43 Absatz 1, 2, 4 und 5 sowie § 44 Absatz 3 und 4 sind entsprechend anzuwenden.
 
 (4) Im Falle des Absatzes 1 Satz 1 Nummer 2 sind die Beseitigungskosten vom Eigentümer bis zur Höhe der ihm durch die Beseitigung entstehenden Vermögensvorteile zu tragen. Der Kostenerstattungsbetrag kann durch Bescheid geltend gemacht werden, sobald die bauliche Anlage ganz oder teilweise beseitigt ist. Der Betrag ruht als öffentliche Last auf dem Grundstück.
 
@@ -5925,7 +4311,7 @@ Siebter Teil Sozialplan und Härteausgleich
 
 ### § 181 Härteausgleich
 
-(1) Soweit es die Billigkeit erfordert, soll die Gemeinde bei der Durchführung dieses Gesetzbuchs zur Vermeidung oder zum Ausgleich wirtschaftlicher Nachteile - auch im sozialen Bereich - auf Antrag einen Härteausgleich in Geld gewähren
+(1) Soweit es die Billigkeit erfordert, soll die Gemeinde bei der Durchführung dieses Gesetzbuchs zur Vermeidung oder zum Ausgleich wirtschaftlicher Nachteile – auch im sozialen Bereich – auf Antrag einen Härteausgleich in Geld gewähren
 
 1.  
 einem Mieter oder Pächter, wenn das Miet- oder Pachtverhältnis mit Rücksicht auf die Durchführung städtebaulicher Maßnahmen aufgehoben oder enteignet worden ist;
@@ -5962,7 +4348,7 @@ Achter Teil Miet- und Pachtverhältnisse
 
 (1) Ist nach den Festsetzungen des Bebauungsplans für ein unbebautes Grundstück eine andere Nutzung vorgesehen und ist die alsbaldige Änderung der Nutzung beabsichtigt, kann die Gemeinde auf Antrag des Eigentümers Miet- oder Pachtverhältnisse aufheben, die sich auf das Grundstück beziehen und der neuen Nutzung entgegenstehen.
 
-(2) Auf die Aufhebung ist § 182 Abs. 1 entsprechend anzuwenden.
+(2) Auf die Aufhebung ist § 182 Absatz 1 entsprechend anzuwenden.
 
 ### § 184 Aufhebung anderer Vertragsverhältnisse
 
@@ -5987,7 +4373,7 @@ Neunter Teil Städtebauliche Maßnahmen im Zusammenhang mit Maßnahmen zur Verbe
 
 ### § 187 Abstimmung von Maßnahmen; Bauleitplanung und Maßnahmen zur Verbesserung der Agrarstruktur
 
-(1) Bei der Vorbereitung und Durchführung städtebaulicher Maßnahmen sind Maßnahmen zur Verbesserung der Agrarstruktur, insbesondere auch die Ergebnisse der Vorplanung nach § 1 Abs. 2 des Gesetzes über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des Küstenschutzes", zu berücksichtigen. Ist zu erwarten, dass Maßnahmen zur Verbesserung der Agrarstruktur zu Auswirkungen auf die bauliche Entwicklung des Gemeindegebiets führen, hat die Gemeinde darüber zu befinden, ob Bauleitpläne aufzustellen sind und ob sonstige städtebauliche Maßnahmen durchgeführt werden sollen.
+(1) Bei der Vorbereitung und Durchführung städtebaulicher Maßnahmen sind Maßnahmen zur Verbesserung der Agrarstruktur, insbesondere auch die Ergebnisse der Vorplanung nach § 1 Absatz 2 des Gesetzes über die Gemeinschaftsaufgabe „Verbesserung der Agrarstruktur und des Küstenschutzes“, zu berücksichtigen. Ist zu erwarten, dass Maßnahmen zur Verbesserung der Agrarstruktur zu Auswirkungen auf die bauliche Entwicklung des Gemeindegebiets führen, hat die Gemeinde darüber zu befinden, ob Bauleitpläne aufzustellen sind und ob sonstige städtebauliche Maßnahmen durchgeführt werden sollen.
 
 (2) Bei der Aufstellung von Bauleitplänen hat die obere Flurbereinigungsbehörde zu prüfen, ob im Zusammenhang damit eine Flurbereinigung oder andere Maßnahmen zur Verbesserung der Agrarstruktur einzuleiten sind.
 
@@ -6007,7 +4393,7 @@ Neunter Teil Städtebauliche Maßnahmen im Zusammenhang mit Maßnahmen zur Verbe
 
 ### § 190 Flurbereinigung aus Anlass einer städtebaulichen Maßnahme
 
-(1) Werden für städtebauliche Maßnahmen land- oder forstwirtschaftliche Grundstücke in Anspruch genommen, kann auf Antrag der Gemeinde mit Zustimmung der höheren Verwaltungsbehörde nach § 87 Abs. 1 des Flurbereinigungsgesetzes ein Flurbereinigungsverfahren eingeleitet werden, wenn der den Betroffenen entstehende Landverlust auf einen größeren Kreis von Eigentümern verteilt oder Nachteile für die allgemeine Landeskultur, die durch die städtebaulichen Maßnahmen entstehen, vermieden werden sollen. Das Flurbereinigungsverfahren kann bereits angeordnet werden, wenn ein Bebauungsplan noch nicht rechtsverbindlich ist. In diesem Fall muss der Bebauungsplan vor Bekanntgabe des Flurbereinigungsplans (§ 59 Abs. 1 des Flurbereinigungsgesetzes) in Kraft getreten sein. Die Gemeinde ist Träger des Unternehmens im Sinne des § 88 des Flurbereinigungsgesetzes.
+(1) Werden für städtebauliche Maßnahmen land- oder forstwirtschaftliche Grundstücke in Anspruch genommen, kann auf Antrag der Gemeinde mit Zustimmung der höheren Verwaltungsbehörde nach § 87 Absatz 1 des Flurbereinigungsgesetzes ein Flurbereinigungsverfahren eingeleitet werden, wenn der den Betroffenen entstehende Landverlust auf einen größeren Kreis von Eigentümern verteilt oder Nachteile für die allgemeine Landeskultur, die durch die städtebaulichen Maßnahmen entstehen, vermieden werden sollen. Das Flurbereinigungsverfahren kann bereits angeordnet werden, wenn ein Bebauungsplan noch nicht rechtsverbindlich ist. In diesem Falle muss der Bebauungsplan vor Bekanntgabe des Flurbereinigungsplans (§ 59 Absatz 1 des Flurbereinigungsgesetzes) in Kraft getreten sein. Die Gemeinde ist Träger des Unternehmens im Sinne des § 88 des Flurbereinigungsgesetzes.
 
 (2) Die vorzeitige Ausführung des Flurbereinigungsplans nach § 63 des Flurbereinigungsgesetzes kann bereits angeordnet werden, wenn der Flurbereinigungsplan bekannt gegeben ist.
 
@@ -6087,7 +4473,7 @@ Der Verkehrswert (Marktwert) wird durch den Preis bestimmt, der in dem Zeitpunkt
 
 (2) Die Kaufpreissammlung darf nur dem zuständigen Finanzamt für Zwecke der Besteuerung übermittelt werden. Vorschriften, nach denen Urkunden oder Akten den Gerichten oder Staatsanwaltschaften vorzulegen sind, bleiben unberührt.
 
-(3) Auskünfte aus der Kaufpreissammlung sind bei berechtigtem Interesse nach Maßgabe landesrechtlicher Vorschriften zu erteilen (§ 199 Abs. 2 Nr. 4).
+(3) Auskünfte aus der Kaufpreissammlung sind bei berechtigtem Interesse nach Maßgabe landesrechtlicher Vorschriften zu erteilen (§ 199 Absatz 2 Nummer 4).
 
 ### § 196 Bodenrichtwerte
 
@@ -6160,7 +4546,7 @@ Erster Abschnitt Allgemeine Vorschriften
 
 ### § 200a Ersatzmaßnahmen
 
-Darstellungen für Flächen zum Ausgleich und Festsetzungen für Flächen oder Maßnahmen zum Ausgleich im Sinne des § 1a Abs. 3 umfassen auch Ersatzmaßnahmen. Ein unmittelbarer räumlicher Zusammenhang zwischen Eingriff und Ausgleich ist nicht erforderlich, soweit dies mit einer geordneten städtebaulichen Entwicklung und den Zielen der Raumordnung sowie des Naturschutzes und der Landschaftspflege vereinbar ist.
+Darstellungen für Flächen zum Ausgleich und Festsetzungen für Flächen oder Maßnahmen zum Ausgleich im Sinne des § 1a Absatz 3 umfassen auch Ersatzmaßnahmen. Ein unmittelbarer räumlicher Zusammenhang zwischen Eingriff und Ausgleich ist nicht erforderlich, soweit dies mit einer geordneten städtebaulichen Entwicklung und den Zielen der Raumordnung sowie des Naturschutzes und der Landschaftspflege vereinbar ist.
 
 ### § 201 Begriff der Landwirtschaft
 
@@ -6187,11 +4573,11 @@ Zweiter Abschnitt Zuständigkeiten
 
 ### § 204 Gemeinsamer Flächennutzungsplan, Bauleitplanung bei Bildung von Planungsverbänden und bei Gebiets- oder Bestandsänderung
 
-(1) Benachbarte Gemeinden sollen einen gemeinsamen Flächennutzungsplan aufstellen, wenn ihre städtebauliche Entwicklung wesentlich durch gemeinsame Voraussetzungen und Bedürfnisse bestimmt wird oder ein gemeinsamer Flächennutzungsplan einen gerechten Ausgleich der verschiedenen Belange ermöglicht. Ein gemeinsamer Flächennutzungsplan soll insbesondere aufgestellt werden, wenn die Ziele der Raumordnung oder wenn Einrichtungen und Anlagen des öffentlichen Verkehrs, sonstige Erschließungsanlagen sowie Gemeinbedarfs- oder sonstige Folgeeinrichtungen eine gemeinsame Planung erfordern. Der gemeinsame Flächennutzungsplan kann von den beteiligten Gemeinden nur gemeinsam aufgehoben, geändert oder ergänzt werden; die Gemeinden können vereinbaren, dass sich die Bindung nur auf bestimmte räumliche oder sachliche Teilbereiche erstreckt. Ist eine gemeinsame Planung nur für räumliche oder sachliche Teilbereiche erforderlich, genügt an Stelle eines gemeinsamen Flächennutzungsplans eine Vereinbarung der beteiligten Gemeinden über bestimmte Darstellungen in ihren Flächennutzungsplänen. Sind die Voraussetzungen für eine gemeinsame Planung nach Satz 1 und 4 entfallen oder ist ihr Zweck erreicht, können die beteiligten Gemeinden den Flächennutzungsplan für ihr Gemeindegebiet ändern oder ergänzen; vor Einleitung des Bauleitplanverfahrens ist die Zustimmung der höheren Verwaltungsbehörde erforderlich.
+(1) Benachbarte Gemeinden sollen einen gemeinsamen Flächennutzungsplan aufstellen, wenn ihre städtebauliche Entwicklung wesentlich durch gemeinsame Voraussetzungen und Bedürfnisse bestimmt wird oder ein gemeinsamer Flächennutzungsplan einen gerechten Ausgleich der verschiedenen Belange ermöglicht. Ein gemeinsamer Flächennutzungsplan soll insbesondere aufgestellt werden, wenn die Ziele der Raumordnung oder wenn Einrichtungen und Anlagen des öffentlichen Verkehrs, sonstige Erschließungsanlagen sowie Gemeinbedarfs- oder sonstige Folgeeinrichtungen eine gemeinsame Planung erfordern. Der gemeinsame Flächennutzungsplan kann von den beteiligten Gemeinden nur gemeinsam aufgehoben, geändert oder ergänzt werden; die Gemeinden können vereinbaren, dass sich die Bindung nur auf bestimmte räumliche oder sachliche Teilbereiche erstreckt. Ist eine gemeinsame Planung nur für räumliche oder sachliche Teilbereiche erforderlich, genügt anstelle eines gemeinsamen Flächennutzungsplans eine Vereinbarung der beteiligten Gemeinden über bestimmte Darstellungen in ihren Flächennutzungsplänen. Sind die Voraussetzungen für eine gemeinsame Planung nach Satz 1 und 4 entfallen oder ist ihr Zweck erreicht, können die beteiligten Gemeinden den Flächennutzungsplan für ihr Gemeindegebiet ändern oder ergänzen; vor Einleitung des Bauleitplanverfahrens ist die Zustimmung der höheren Verwaltungsbehörde erforderlich.
 
 (2) Werden Gemeinden in ihrem Gebiet oder Bestand geändert oder geht die Zuständigkeit zur Aufstellung von Flächennutzungsplänen auf Verbände oder sonstige kommunale Körperschaften über, gelten unbeschadet abweichender landesrechtlicher Regelungen bestehende Flächennutzungspläne fort. Dies gilt auch für räumliche und sachliche Teile der Flächennutzungspläne. Die Befugnis und die Pflicht der Gemeinde, eines Verbands oder einer sonstigen Körperschaft, fortgeltende Flächennutzungspläne aufzuheben oder für das neue Gemeindegebiet zu ergänzen oder durch einen neuen Flächennutzungsplan zu ersetzen, bleiben unberührt.
 
-(3) Verfahren zur Aufstellung, Änderung, Ergänzung oder Aufhebung von Bebauungsplänen können nach einer Gebiets- oder Bestandsänderung in ihrem jeweiligen Stand fortgeführt werden. Satz 1 gilt entsprechend bei Bildung von Planungsverbänden und für Zusammenschlüsse nach § 205 Abs. 6. Die höhere Verwaltungsbehörde kann verlangen, dass bestimmte Verfahrensabschnitte wiederholt werden.
+(3) Verfahren zur Aufstellung, Änderung, Ergänzung oder Aufhebung von Bebauungsplänen können nach einer Gebiets- oder Bestandsänderung in ihrem jeweiligen Stand fortgeführt werden. Satz 1 gilt entsprechend bei Bildung von Planungsverbänden und für Zusammenschlüsse nach § 205 Absatz 6. Die höhere Verwaltungsbehörde kann verlangen, dass bestimmte Verfahrensabschnitte wiederholt werden.
 
 ### § 205 Planungsverbände
 
@@ -6207,7 +4593,7 @@ Zweiter Abschnitt Zuständigkeiten
 
 (6) Ein Zusammenschluss nach dem Zweckverbandsrecht oder durch besondere Landesgesetze wird durch diese Vorschriften nicht ausgeschlossen.
 
-(7) Wird die Befugnis zur Aufstellung von Bauleitplänen nach den Absätzen 1 bis 3 oder 6 übertragen, sind die Entwürfe der Bauleitpläne mit Begründung vor der Beschlussfassung hierüber oder der Festsetzung nach Absatz 3 Satz 2 oder 4 den Gemeinden, für deren Gebiet der Bauleitplan aufstellt werden soll, zur Stellungnahme innerhalb angemessener Frist zuzuleiten. Auf die Behandlung der von den Gemeinden fristgemäß vorgebrachten Anregungen ist § 3 Abs. 2 Satz 4 und 6 entsprechend anzuwenden.
+(7) Wird die Befugnis zur Aufstellung von Bauleitplänen nach den Absätzen 1 bis 3 oder 6 übertragen, sind die Entwürfe der Bauleitpläne mit Begründung vor der Beschlussfassung hierüber oder der Festsetzung nach Absatz 3 Satz 2 oder 4 den Gemeinden, für deren Gebiet der Bauleitplan aufgestellt werden soll, zur Stellungnahme innerhalb angemessener Frist zuzuleiten. Auf die Behandlung der von den Gemeinden fristgemäß vorgebrachten Anregungen ist § 3 Absatz 2 Satz 4 und 6 entsprechend anzuwenden.
 
 ### § 206 Örtliche und sachliche Zuständigkeit
 
@@ -6266,7 +4652,7 @@ Für den Fall, dass ein Beteiligter der Anordnung nicht nachkommt, kann ein Zwan
 
 (1) Wenn ein Beteiligter ohne Verschulden verhindert war, eine gesetzliche oder auf Grund dieses Gesetzbuchs bestimmte Frist für eine Verfahrenshandlung einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in den vorigen Stand zu gewähren.
 
-(2) Die nach § 32 Abs. 4 des Verwaltungsverfahrensgesetzes zuständige Behörde kann nach Wiedereinsetzung in den vorigen Stand an Stelle einer Entscheidung, die den durch das bisherige Verfahren herbeigeführten neuen Rechtszustand ändern würde, eine Entschädigung festsetzen.
+(2) Die nach § 32 Absatz 4 des Verwaltungsverfahrensgesetzes zuständige Behörde kann nach Wiedereinsetzung in den vorigen Stand anstelle einer Entscheidung, die den durch das bisherige Verfahren herbeigeführten neuen Rechtszustand ändern würde, eine Entschädigung festsetzen.
 
 ### § 211 Belehrung über Rechtsbehelfe
 
@@ -6279,21 +4665,21 @@ Den nach diesem Gesetzbuch ergehenden Verwaltungsakten ist eine Erklärung beizu
 (2) Ist ein Vorverfahren vorgesehen, hat der Widerspruch gegen
 
 1.  
-den Umlegungsbeschluss nach § 47 Abs. 1,
+den Umlegungsbeschluss nach § 47 Absatz 1,
 
 2.  
-die Bekanntmachung der Unanfechtbarkeit des Umlegungsplans nach § 71 Abs. 1 sowie
+die Bekanntmachung der Unanfechtbarkeit des Umlegungsplans nach § 71 Absatz 1 sowie
 
 3.  
 die vorzeitige Besitzeinweisung nach § 77 oder § 116
 
-keine aufschiebende Wirkung. § 80 Abs. 4 und 5 der Verwaltungsgerichtsordnung ist entsprechend anzuwenden.
+keine aufschiebende Wirkung. § 80 Absatz 4 und 5 der Verwaltungsgerichtsordnung ist entsprechend anzuwenden.
 
 ### § 212a Entfall der aufschiebenden Wirkung
 
 (1) Widerspruch und Anfechtungsklage eines Dritten gegen die bauaufsichtliche Zulassung eines Vorhabens haben keine aufschiebende Wirkung.
 
-(2) Widerspruch und Anfechtungsklage gegen die Geltendmachung des Kostenerstattungsbetrags nach § 135a Abs. 3 sowie des Ausgleichsbetrags nach § 154 durch die Gemeinde haben keine aufschiebende Wirkung.
+(2) Widerspruch und Anfechtungsklage gegen die Geltendmachung des Kostenerstattungsbetrags nach § 135a Absatz 3 sowie des Ausgleichsbetrags nach § 154 durch die Gemeinde haben keine aufschiebende Wirkung.
 
 ### § 213 Ordnungswidrigkeiten
 
@@ -6306,10 +4692,10 @@ wider besseres Wissen unrichtige Angaben macht oder unrichtige Pläne oder Unter
 Pfähle, Pflöcke oder sonstige Markierungen, die Vorarbeiten dienen, wegnimmt, verändert, unkenntlich macht oder unrichtig setzt;
 
 3.  
-einer in einem Bebauungsplan nach § 9 Abs. 1 Nr. 25 Buchstabe b festgesetzten Bindung für Bepflanzungen und für die Erhaltung von Bäumen, Sträuchern und sonstigen Bepflanzungen sowie von Gewässern dadurch zuwiderhandelt, dass diese beseitigt, wesentlich beeinträchtigt oder zerstört werden;
+einer in einem Bebauungsplan nach § 9 Absatz 1 Nummer 25 Buchstabe b festgesetzten Bindung für Bepflanzungen und für die Erhaltung von Bäumen, Sträuchern und sonstigen Bepflanzungen sowie von Gewässern dadurch zuwiderhandelt, dass diese beseitigt, wesentlich beeinträchtigt oder zerstört werden;
 
 4.  
-eine bauliche Anlage im Geltungsbereich einer Erhaltungssatzung (§ 172 Abs. 1 Satz 1) oder einer Satzung über die Durchführung von Stadtumbaumaßnahmen (§ 171d Abs. 1) ohne Genehmigung rückbaut oder ändert.
+eine bauliche Anlage im Geltungsbereich einer Erhaltungssatzung (§ 172 Absatz 1 Satz 1) oder einer Satzung über die Durchführung von Stadtumbaumaßnahmen (§ 171d Absatz 1) ohne Genehmigung rückbaut oder ändert.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig ohne Genehmigung nach § 22 Absatz 1 Satz 1 Nummer 5 einen dort genannten Raum als Nebenwohnung nutzt.
 
@@ -6325,7 +4711,7 @@ Vierter Abschnitt Planerhaltung
 (1) Eine Verletzung von Verfahrens- und Formvorschriften dieses Gesetzbuchs ist für die Rechtswirksamkeit des Flächennutzungsplans und der Satzungen nach diesem Gesetzbuch nur beachtlich, wenn
 
 1.  
-entgegen § 2 Abs. 3 die von der Planung berührten Belange, die der Gemeinde bekannt waren oder hätten bekannt sein müssen, in wesentlichen Punkten nicht zutreffend ermittelt oder bewertet worden sind und wenn der Mangel offensichtlich und auf das Ergebnis des Verfahrens von Einfluss gewesen ist;
+entgegen § 2 Absatz 3 die von der Planung berührten Belange, die der Gemeinde bekannt waren oder hätten bekannt sein müssen, in wesentlichen Punkten nicht zutreffend ermittelt oder bewertet worden sind und wenn der Mangel offensichtlich und auf das Ergebnis des Verfahrens von Einfluss gewesen ist;
 
 2.  
 die Vorschriften über die Öffentlichkeits- und Behördenbeteiligung nach § 3 Absatz 2, § 4 Absatz 2, § 4a Absatz 3, Absatz 4 Satz 1 und Absatz 5 Satz 2, nach § 13 Absatz 2 Satz 1 Nummer 2 und 3, auch in Verbindung mit § 13a Absatz 2 Nummer 1 und § 13b, nach § 22 Absatz 9 Satz 2, § 34 Absatz 6 Satz 1 sowie § 35 Absatz 6 Satz 5 verletzt worden sind; dabei ist unbeachtlich, wenn
@@ -6352,26 +4738,26 @@ g)
 bei Anwendung des § 4a Absatz 3 Satz 4 oder des § 13, auch in Verbindung mit § 13a Absatz 2 Nummer 1 und § 13b, die Voraussetzungen für die Durchführung der Beteiligung nach diesen Vorschriften verkannt worden sind;
 
 3.  
-die Vorschriften über die Begründung des Flächennutzungsplans und der Satzungen sowie ihrer Entwürfe nach §§ 2a, 3 Abs. 2, § 5 Abs. 1 Satz 2 Halbsatz 2 und Abs. 5, § 9 Abs. 8 und § 22 Abs. 10 verletzt worden sind; dabei ist unbeachtlich, wenn die Begründung des Flächennutzungsplans oder der Satzung oder ihr Entwurf unvollständig ist; abweichend von Halbsatz 2 ist eine Verletzung von Vorschriften in Bezug auf den Umweltbericht unbeachtlich, wenn die Begründung hierzu nur in unwesentlichen Punkten unvollständig ist;
+die Vorschriften über die Begründung des Flächennutzungsplans und der Satzungen sowie ihrer Entwürfe nach §§ 2a, 3 Absatz 2, § 5 Absatz 1 Satz 2 Halbsatz 2 und Absatz 5, § 9 Absatz 8 und § 22 Absatz 10 verletzt worden sind; dabei ist unbeachtlich, wenn die Begründung des Flächennutzungsplans oder der Satzung oder ihr Entwurf unvollständig ist; abweichend von Halbsatz 2 ist eine Verletzung von Vorschriften in Bezug auf den Umweltbericht unbeachtlich, wenn die Begründung hierzu nur in unwesentlichen Punkten unvollständig ist;
 
 4.  
 ein Beschluss der Gemeinde über den Flächennutzungsplan oder die Satzung nicht gefasst, eine Genehmigung nicht erteilt oder der mit der Bekanntmachung des Flächennutzungsplans oder der Satzung verfolgte Hinweiszweck nicht erreicht worden ist.
 
-Soweit in den Fällen des Satzes 1 Nr. 3 die Begründung in wesentlichen Punkten unvollständig ist, hat die Gemeinde auf Verlangen Auskunft zu erteilen, wenn ein berechtigtes Interesse dargelegt wird.
+Soweit in den Fällen des Satzes 1 Nummer 3 die Begründung in wesentlichen Punkten unvollständig ist, hat die Gemeinde auf Verlangen Auskunft zu erteilen, wenn ein berechtigtes Interesse dargelegt wird.
 
 (2) Für die Rechtswirksamkeit der Bauleitpläne ist auch unbeachtlich, wenn
 
 1.  
-die Anforderungen an die Aufstellung eines selbständigen Bebauungsplans (§ 8 Abs. 2 Satz 2) oder an die in § 8 Abs. 4 bezeichneten dringenden Gründe für die Aufstellung eines vorzeitigen Bebauungsplans nicht richtig beurteilt worden sind;
+die Anforderungen an die Aufstellung eines selbständigen Bebauungsplans (§ 8 Absatz 2 Satz 2) oder an die in § 8 Absatz 4 bezeichneten dringenden Gründe für die Aufstellung eines vorzeitigen Bebauungsplans nicht richtig beurteilt worden sind;
 
 2.  
-§ 8 Abs. 2 Satz 1 hinsichtlich des Entwickelns des Bebauungsplans aus dem Flächennutzungsplan verletzt worden ist, ohne dass hierbei die sich aus dem Flächennutzungsplan ergebende geordnete städtebauliche Entwicklung beeinträchtigt worden ist;
+§ 8 Absatz 2 Satz 1 hinsichtlich des Entwickelns des Bebauungsplans aus dem Flächennutzungsplan verletzt worden ist, ohne dass hierbei die sich aus dem Flächennutzungsplan ergebende geordnete städtebauliche Entwicklung beeinträchtigt worden ist;
 
 3.  
 der Bebauungsplan aus einem Flächennutzungsplan entwickelt worden ist, dessen Unwirksamkeit sich wegen Verletzung von Verfahrens- oder Formvorschriften einschließlich des § 6 nach Bekanntmachung des Bebauungsplans herausstellt;
 
 4.  
-im Parallelverfahren gegen § 8 Abs. 3 verstoßen worden ist, ohne dass die geordnete städtebauliche Entwicklung beeinträchtigt worden ist.
+im Parallelverfahren gegen § 8 Absatz 3 verstoßen worden ist, ohne dass die geordnete städtebauliche Entwicklung beeinträchtigt worden ist.
 
 (2a) Für Bebauungspläne, die im beschleunigten Verfahren nach § 13a, auch in Verbindung mit § 13b, aufgestellt worden sind, gilt ergänzend zu den Absätzen 1 und 2 Folgendes:
 
@@ -6379,15 +4765,15 @@ im Parallelverfahren gegen § 8 Abs. 3 verstoßen worden ist, ohne dass die geor
 (weggefallen)
 
 2.  
-Das Unterbleiben der Hinweise nach § 13a Abs. 3 ist für die Rechtswirksamkeit des Bebauungsplans unbeachtlich.
+Das Unterbleiben der Hinweise nach § 13a Absatz 3 ist für die Rechtswirksamkeit des Bebauungsplans unbeachtlich.
 
 3.  
-Beruht die Feststellung, dass eine Umweltprüfung unterbleiben soll, auf einer Vorprüfung des Einzelfalls nach § 13a Abs. 1 Satz 2 Nr. 2, gilt die Vorprüfung als ordnungsgemäß durchgeführt, wenn sie entsprechend den Vorgaben von § 13a Abs. 1 Satz 2 Nr. 2 durchgeführt worden ist und ihr Ergebnis nachvollziehbar ist; dabei ist unbeachtlich, wenn einzelne Behörden oder sonstige Träger öffentlicher Belange nicht beteiligt worden sind; andernfalls besteht ein für die Rechtswirksamkeit des Bebauungsplans beachtlicher Mangel.
+Beruht die Feststellung, dass eine Umweltprüfung unterbleiben soll, auf einer Vorprüfung des Einzelfalls nach § 13a Absatz 1 Satz 2 Nummer 2, gilt die Vorprüfung als ordnungsgemäß durchgeführt, wenn sie entsprechend den Vorgaben von § 13a Absatz 1 Satz 2 Nummer 2 durchgeführt worden ist und ihr Ergebnis nachvollziehbar ist; dabei ist unbeachtlich, wenn einzelne Behörden oder sonstige Träger öffentlicher Belange nicht beteiligt worden sind; andernfalls besteht ein für die Rechtswirksamkeit des Bebauungsplans beachtlicher Mangel.
 
 4.  
-Die Beurteilung, dass der Ausschlussgrund nach § 13a Abs. 1 Satz 4 nicht vorliegt, gilt als zutreffend, wenn das Ergebnis nachvollziehbar ist und durch den Bebauungsplan nicht die Zulässigkeit von Vorhaben nach Spalte 1 der Anlage 1 zum Gesetz über die Umweltverträglichkeitsprüfung begründet wird; andernfalls besteht ein für die Rechtswirksamkeit des Bebauungsplans beachtlicher Mangel.
+Die Beurteilung, dass der Ausschlussgrund nach § 13a Absatz 1 Satz 4 nicht vorliegt, gilt als zutreffend, wenn das Ergebnis nachvollziehbar ist und durch den Bebauungsplan nicht die Zulässigkeit von Vorhaben nach Spalte 1 der Anlage 1 zum Gesetz über die Umweltverträglichkeitsprüfung begründet wird; andernfalls besteht ein für die Rechtswirksamkeit des Bebauungsplans beachtlicher Mangel.
 
-(3) Für die Abwägung ist die Sach- und Rechtslage im Zeitpunkt der Beschlussfassung über den Flächennutzungsplan oder die Satzung maßgebend. Mängel, die Gegenstand der Regelung in Absatz 1 Satz 1 Nr. 1 sind, können nicht als Mängel der Abwägung geltend gemacht werden; im Übrigen sind Mängel im Abwägungsvorgang nur erheblich, wenn sie offensichtlich und auf das Abwägungsergebnis von Einfluss gewesen sind.
+(3) Für die Abwägung ist die Sach- und Rechtslage im Zeitpunkt der Beschlussfassung über den Flächennutzungsplan oder die Satzung maßgebend. Mängel, die Gegenstand der Regelung in Absatz 1 Satz 1 Nummer 1 sind, können nicht als Mängel der Abwägung geltend gemacht werden; im Übrigen sind Mängel im Abwägungsvorgang nur erheblich, wenn sie offensichtlich und auf das Abwägungsergebnis von Einfluss gewesen sind.
 
 (4) Der Flächennutzungsplan oder die Satzung können durch ein ergänzendes Verfahren zur Behebung von Fehlern auch rückwirkend in Kraft gesetzt werden.
 
@@ -6396,21 +4782,17 @@ Die Beurteilung, dass der Ausschlussgrund nach § 13a Abs. 1 Satz 4 nicht vorlie
 (1) Unbeachtlich werden
 
 1.  
-eine nach § 214 Abs. 1 Satz 1 Nr. 1 bis 3 beachtliche Verletzung der dort bezeichneten Verfahrens- und Formvorschriften,
+eine nach § 214 Absatz 1 Satz 1 Nummer 1 bis 3 beachtliche Verletzung der dort bezeichneten Verfahrens- und Formvorschriften,
 
 2.  
-eine unter Berücksichtigung des § 214 Abs. 2 beachtliche Verletzung der Vorschriften über das Verhältnis des Bebauungsplans und des Flächennutzungsplans und
+eine unter Berücksichtigung des § 214 Absatz 2 beachtliche Verletzung der Vorschriften über das Verhältnis des Bebauungsplans und des Flächennutzungsplans und
 
 3.  
-nach § 214 Abs. 3 Satz 2 beachtliche Mängel des Abwägungsvorgangs,
+nach § 214 Absatz 3 Satz 2 beachtliche Mängel des Abwägungsvorgangs,
 
-wenn sie nicht innerhalb eines Jahres seit Bekanntmachung des Flächennutzungsplans oder der Satzung schriftlich gegenüber der Gemeinde unter Darlegung des die Verletzung begründenden Sachverhalts geltend gemacht worden sind. Satz 1 gilt entsprechend, wenn Fehler nach § 214 Abs. 2a beachtlich sind.
+wenn sie nicht innerhalb eines Jahres seit Bekanntmachung des Flächennutzungsplans oder der Satzung schriftlich gegenüber der Gemeinde unter Darlegung des die Verletzung begründenden Sachverhalts geltend gemacht worden sind. Satz 1 gilt entsprechend, wenn Fehler nach § 214 Absatz 2a beachtlich sind.
 
 (2) Bei Inkraftsetzung des Flächennutzungsplans oder der Satzung ist auf die Voraussetzungen für die Geltendmachung der Verletzung von Vorschriften sowie auf die Rechtsfolgen hinzuweisen.
-
-### § 215a
-
-(weggefallen)
 
 ### § 216 Aufgaben im Genehmigungsverfahren
 
@@ -6423,7 +4805,7 @@ Dritter Teil Verfahren vor den Kammern (Senaten) für Baulandsachen
 
 ### § 217 Antrag auf gerichtliche Entscheidung
 
-(1) Verwaltungsakte nach dem Vierten und Fünften Teil des Ersten Kapitels sowie nach den §§ 18, 28 Absatz 3, 4 und 6, den §§ 39 bis 44, 126 Absatz 2, § 150 Absatz 2, § 179 Absatz 4, den §§ 181, 209 Absatz 2 oder § 210 Absatz 2 können nur durch Antrag auf gerichtliche Entscheidung angefochten werden. Satz 1 ist auch anzuwenden auf andere Verwaltungsakte auf Grund dieses Gesetzbuchs, für die die Anwendung des Zweiten Abschnitts des Fünften Teils des Ersten Kapitels vorgeschrieben ist oder die in einem Verfahren nach dem Vierten oder Fünften Teil des Ersten Kapitels erlassen werden, sowie auf Streitigkeiten über die Höhe der Geldentschädigung nach § 190 in Verbindung mit § 88 Nr. 7 und § 89 Abs. 2 des Flurbereinigungsgesetzes. Mit dem Antrag auf gerichtliche Entscheidung kann auch die Verurteilung zum Erlass eines Verwaltungsakts oder zu einer sonstigen Leistung sowie eine Feststellung begehrt werden. Über den Antrag entscheidet das Landgericht, Kammer für Baulandsachen.
+(1) Verwaltungsakte nach dem Vierten und Fünften Teil des Ersten Kapitels sowie nach den §§ 18, 28 Absatz 3, 4 und 6, den §§ 39 bis 44, 126 Absatz 2, § 150 Absatz 2, § 179 Absatz 4, den §§ 181, 209 Absatz 2 oder § 210 Absatz 2 können nur durch Antrag auf gerichtliche Entscheidung angefochten werden. Satz 1 ist auch anzuwenden auf andere Verwaltungsakte auf Grund dieses Gesetzbuchs, für die die Anwendung des Zweiten Abschnitts des Fünften Teils des Ersten Kapitels vorgeschrieben ist oder die in einem Verfahren nach dem Vierten oder Fünften Teil des Ersten Kapitels erlassen werden, sowie auf Streitigkeiten über die Höhe der Geldentschädigung nach § 190 in Verbindung mit § 88 Nummer 7 und § 89 Absatz 2 des Flurbereinigungsgesetzes. Mit dem Antrag auf gerichtliche Entscheidung kann auch die Verurteilung zum Erlass eines Verwaltungsakts oder zu einer sonstigen Leistung sowie eine Feststellung begehrt werden. Über den Antrag entscheidet das Landgericht, Kammer für Baulandsachen.
 
 (2) Der Antrag ist binnen eines Monats seit der Zustellung des Verwaltungsakts bei der Stelle einzureichen, die den Verwaltungsakt erlassen hat. Ist die ortsübliche Bekanntmachung des Verwaltungsakts vorgeschrieben, so ist der Antrag binnen sechs Wochen seit der Bekanntmachung einzureichen. Hat ein Vorverfahren (§ 212) stattgefunden, so beginnt die in Satz 1 bestimmte Frist mit der Zustellung des Bescheids, der das Vorverfahren beendet hat.
 
@@ -6433,9 +4815,9 @@ Dritter Teil Verfahren vor den Kammern (Senaten) für Baulandsachen
 
 ### § 218 Wiedereinsetzung in den vorigen Stand
 
-(1) War ein Beteiligter ohne Verschulden verhindert, die Frist nach § 217 Abs. 2 einzuhalten, so ist ihm auf Antrag vom Landgericht, Kammer für Baulandsachen, Wiedereinsetzung in den vorigen Stand zu gewähren, wenn er den Antrag auf gerichtliche Entscheidung binnen zwei Wochen nach Beseitigung des Hindernisses einreicht und die Tatsachen, die die Wiedereinsetzung begründen, glaubhaft macht. Gegen die Entscheidung über den Antrag findet die sofortige Beschwerde an das Oberlandesgericht, Senat für Baulandsachen, statt. Nach Ablauf eines Jahres, vom Ende der versäumten Frist an gerechnet, kann die Wiedereinsetzung nicht mehr beantragt werden.
+(1) War ein Beteiligter ohne Verschulden verhindert, die Frist nach § 217 Absatz 2 einzuhalten, so ist ihm auf Antrag vom Landgericht, Kammer für Baulandsachen, Wiedereinsetzung in den vorigen Stand zu gewähren, wenn er den Antrag auf gerichtliche Entscheidung binnen zwei Wochen nach Beseitigung des Hindernisses einreicht und die Tatsachen, die die Wiedereinsetzung begründen, glaubhaft macht. Gegen die Entscheidung über den Antrag findet die sofortige Beschwerde an das Oberlandesgericht, Senat für Baulandsachen, statt. Nach Ablauf eines Jahres, vom Ende der versäumten Frist an gerechnet, kann die Wiedereinsetzung nicht mehr beantragt werden.
 
-(2) Ist der angefochtene Verwaltungsakt ein Enteignungsbeschluss und ist der bisherige Rechtszustand bereits durch den neuen Rechtszustand ersetzt (§ 117 Abs. 5), so kann das Gericht im Falle der Wiedereinsetzung den Enteignungsbeschluss nicht aufheben und hinsichtlich des Gegenstands der Enteignung oder der Art der Entschädigung nicht ändern.
+(2) Ist der angefochtene Verwaltungsakt ein Enteignungsbeschluss und ist der bisherige Rechtszustand bereits durch den neuen Rechtszustand ersetzt (§ 117 Absatz 5), so kann das Gericht im Falle der Wiedereinsetzung den Enteignungsbeschluss nicht aufheben und hinsichtlich des Gegenstands der Enteignung oder der Art der Entschädigung nicht ändern.
 
 ### § 219 Örtliche Zuständigkeit der Landgerichte
 
@@ -6451,13 +4833,13 @@ Dritter Teil Verfahren vor den Kammern (Senaten) für Baulandsachen
 
 ### § 221 Allgemeine Verfahrensvorschriften
 
-(1) In den Sachen, die auf Grund eines Antrags auf gerichtliche Entscheidung bei den Gerichten anhängig werden, sind die bei Klagen in bürgerlichen Rechtsstreitigkeiten geltenden Vorschriften entsprechend anzuwenden, soweit sich aus den §§ 217 bis 231 nichts anderes ergibt. § 227 Abs. 3 Satz 1 der Zivilprozessordnung ist nicht anzuwenden.
+(1) In den Sachen, die auf Grund eines Antrags auf gerichtliche Entscheidung bei den Gerichten anhängig werden, sind die bei Klagen in bürgerlichen Rechtsstreitigkeiten geltenden Vorschriften entsprechend anzuwenden, soweit sich aus den §§ 217 bis 231 nichts anderes ergibt. § 227 Absatz 3 Satz 1 der Zivilprozessordnung ist nicht anzuwenden.
 
 (2) Das Gericht kann auch von Amts wegen die Aufnahme von Beweisen anordnen und nach Anhörung der Beteiligten auch solche Tatsachen berücksichtigen, die von ihnen nicht vorgebracht worden sind.
 
 (3) Sind gegen denselben Verwaltungsakt mehrere Anträge auf gerichtliche Entscheidung gestellt, so wird über sie gleichzeitig verhandelt und entschieden.
 
-(4) Die Vorschriften über die Vorauszahlung der Gebühr für das Verfahren im Allgemeinen nach § 12 Abs. 1 Satz 1 und 2 des Gerichtskostengesetzes sind nicht anzuwenden.
+(4) Die Vorschriften über die Vorauszahlung der Gebühr für das Verfahren im Allgemeinen nach § 12 Absatz 1 Satz 1 und 2 des Gerichtskostengesetzes sind nicht anzuwenden.
 
 ### § 222 Beteiligte
 
@@ -6476,10 +4858,10 @@ Soweit die Stelle, die den Verwaltungsakt erlassen hat, ermächtigt ist, nach ih
 Der Antrag auf gerichtliche Entscheidung gegen
 
 1.  
-den Umlegungsbeschluss nach § 47 Abs. 1,
+den Umlegungsbeschluss nach § 47 Absatz 1,
 
 2.  
-die Bekanntmachung der Unanfechtbarkeit des Umlegungsplans nach § 71 Abs. 1,
+die Bekanntmachung der Unanfechtbarkeit des Umlegungsplans nach § 71 Absatz 1,
 
 3.  
 die vorzeitige Besitzeinweisung nach § 77 oder § 116 sowie
@@ -6487,7 +4869,7 @@ die vorzeitige Besitzeinweisung nach § 77 oder § 116 sowie
 4.  
 die Geltendmachung des Kostenerstattungsbetrags nach § 179 Absatz 4
 
-hat keine aufschiebende Wirkung. § 80 Abs. 5 der Verwaltungsgerichtsordnung ist entsprechend anzuwenden.
+hat keine aufschiebende Wirkung. § 80 Absatz 5 der Verwaltungsgerichtsordnung ist entsprechend anzuwenden.
 
 ### § 225 Vorzeitige Ausführungsanordnung
 
@@ -6499,17 +4881,17 @@ Ist nur noch die Höhe einer Geldentschädigung streitig, so kann das Gericht au
 
 (2) Wird ein Antrag auf gerichtliche Entscheidung, der einen Anspruch auf eine Geldleistung betrifft, für begründet erachtet, so hat das Gericht den Verwaltungsakt zu ändern. Wird in anderen Fällen ein Antrag auf gerichtliche Entscheidung für begründet erachtet, so hat das Gericht den Verwaltungsakt aufzuheben und erforderlichenfalls auszusprechen, dass die Stelle, die den Verwaltungsakt erlassen hat, verpflichtet ist, in der Sache unter Beachtung der Rechtsauffassung des Gerichts anderweit zu entscheiden.
 
-(3) Einen Enteignungsbeschluss kann das Gericht auch ändern, wenn der Antrag auf gerichtliche Entscheidung nicht einen Anspruch auf Geldleistung betrifft. Es darf in diesem Falle über den Antrag des Beteiligten hinaus, der den Antrag auf gerichtliche Entscheidung gestellt hat, den Enteignungsbeschluss auch ändern, soweit ein anderer Beteiligter es beantragt hat; dabei ist eine Änderung des Enteignungsbeschlusses zum Nachteil dessen, der den Antrag auf gerichtliche Entscheidung gestellt hat, nicht statthaft. Wird ein Enteignungsbeschluss geändert, so ist § 113 Abs. 2 entsprechend anzuwenden. Wird ein Enteignungsbeschluss aufgehoben oder hinsichtlich des Gegenstands der Enteignung geändert, so gibt das Gericht im Falle des § 113 Abs. 5 dem Vollstreckungsgericht von seinem Urteil Kenntnis.
+(3) Einen Enteignungsbeschluss kann das Gericht auch ändern, wenn der Antrag auf gerichtliche Entscheidung nicht einen Anspruch auf Geldleistung betrifft. Es darf in diesem Falle über den Antrag des Beteiligten hinaus, der den Antrag auf gerichtliche Entscheidung gestellt hat, den Enteignungsbeschluss auch ändern, soweit ein anderer Beteiligter es beantragt hat; dabei ist eine Änderung des Enteignungsbeschlusses zum Nachteil dessen, der den Antrag auf gerichtliche Entscheidung gestellt hat, nicht statthaft. Wird ein Enteignungsbeschluss geändert, so ist § 113 Absatz 2 entsprechend anzuwenden. Wird ein Enteignungsbeschluss aufgehoben oder hinsichtlich des Gegenstands der Enteignung geändert, so gibt das Gericht im Falle des § 113 Absatz 5 dem Vollstreckungsgericht von seinem Urteil Kenntnis.
 
-(4) Ist von mehreren Anträgen nur der eine oder ist nur ein Teil eines Antrag zur Endentscheidung reif, so soll das Gericht hierüber ein Teilurteil nur erlassen, wenn es zur Beschleunigung des Verfahrens notwendig erscheint.
+(4) Ist von mehreren Anträgen nur der eine oder ist nur ein Teil eines Antrags zur Endentscheidung reif, so soll das Gericht hierüber ein Teilurteil nur erlassen, wenn es zur Beschleunigung des Verfahrens notwendig erscheint.
 
 ### § 227 Säumnis eines Beteiligten
 
-(1) Erscheint der Beteiligte, der den Antrag auf gerichtliche Entscheidung gestellt hat, in einem Termin zur mündlichen Verhandlung, so kann auch dann mündlich verhandelt werden, wenn einer der anderen Beteiligten nicht erscheint. Über einen Antrag, den ein nichterschienener Beteiligter in einer früheren mündlichen Verhandlung gestellt hat, kann nach Lage der Akten entschieden werden.
+(1) Erscheint der Beteiligte, der den Antrag auf gerichtliche Entscheidung gestellt hat, in einem Termin zur mündlichen Verhandlung, so kann auch dann mündlich verhandelt werden, wenn einer der anderen Beteiligten nicht erscheint. Über einen Antrag, den ein nicht erschienener Beteiligter in einer früheren mündlichen Verhandlung gestellt hat, kann nach Lage der Akten entschieden werden.
 
 (2) Erscheint der Beteiligte, der den Antrag auf gerichtliche Entscheidung gestellt hat, in einem Termin zur mündlichen Verhandlung nicht, so kann jeder andere Beteiligte eine Entscheidung nach Lage der Akten beantragen.
 
-(3) Die §§ 332 bis 335, 336 Abs. 2 und § 337 der Zivilprozessordnung gelten entsprechend. Im Übrigen sind die Vorschriften über die Versäumnisurteile nicht anzuwenden.
+(3) Die §§ 332 bis 335, 336 Absatz 2 und § 337 der Zivilprozessordnung gelten entsprechend. Im Übrigen sind die Vorschriften über die Versäumnisurteile nicht anzuwenden.
 
 ### § 228 Kosten des Verfahrens
 
@@ -6519,7 +4901,7 @@ Ist nur noch die Höhe einer Geldentschädigung streitig, so kann das Gericht au
 
 ### § 229 Berufung, Beschwerde
 
-(1) Über die Berufung und die Beschwerde entscheidet das Oberlandesgericht, Senat für Baulandsachen, in der Besetzung mit zwei Richtern des Oberlandesgerichts einschließlich des Vorsitzenden und einem hauptamtlichen Richter eines Oberverwaltungsgerichts. § 220 Abs. 1 Satz 3 und Abs. 2 gilt entsprechend.
+(1) Über die Berufung und die Beschwerde entscheidet das Oberlandesgericht, Senat für Baulandsachen, in der Besetzung mit zwei Richtern des Oberlandesgerichts einschließlich des Vorsitzenden und einem hauptamtlichen Richter eines Oberverwaltungsgerichts. § 220 Absatz 1 Satz 3 und Absatz 2 gilt entsprechend.
 
 (2) Die Landesregierungen können durch Rechtsverordnung die Verhandlung und Entscheidung über die Berufungen und Beschwerden gegen die Entscheidungen der Kammern für Baulandsachen einem Oberlandesgericht oder dem obersten Landesgericht für die Bezirke mehrerer Oberlandesgerichte zuweisen, wenn die Zusammenfassung für eine Förderung oder schnellere Erledigung der Verfahren sachdienlich ist. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
@@ -6557,39 +4939,37 @@ Erster Teil Überleitungsvorschriften
 
 (1) Für das Vorkaufsrecht sind die jeweils zur Zeit des Verkaufsfalls geltenden städtebaurechtlichen Vorschriften anzuwenden.
 
-(2) Satzungen, die auf Grund von § 25 des Bundesbaugesetzes erlassen worden sind, gelten als Satzungen nach § 25 Abs. 1 Satz 1 Nr. 2 weiter.
+(2) Satzungen, die auf Grund von § 25 des Bundesbaugesetzes erlassen worden sind, gelten als Satzungen nach § 25 Absatz 1 Satz 1 Nummer 2 weiter.
 
 ### § 235 Überleitungsvorschriften für städtebauliche Sanierungs- und Entwicklungsmaßnahmen
 
-(1) Auf städtebauliche Sanierungs- und Entwicklungsmaßnahmen, für die vor dem Inkrafttreten einer Gesetzesänderung nach den bisher geltenden Rechtsvorschriften der Beginn der vorbereitenden Untersuchungen oder der Voruntersuchungen beschlossen worden ist, sind abweichend von § 233 Abs. 1 die Vorschriften dieses Gesetzes anzuwenden; abgeschlossene Verfahrensschritte bleiben unberührt. Ist eine städtebauliche Entwicklungsmaßnahme jedoch vor dem 1. Juli 1987 förmlich festgelegt worden, sind die §§ 165 bis 171 in der bis zum 30. April 1993 geltenden Fassung weiter anzuwenden; wird zur zweckmäßigen Durchführung entsprechend den Zielen und Zwecken einer solchen Entwicklungsmaßnahme eine Änderung des Geltungsbereichs der Entwicklungsmaßnahmeverordnung erforderlich, ist § 53 in Verbindung mit § 1 des Städtebauförderungsgesetzes weiter anzuwenden.
+(1) Auf städtebauliche Sanierungs- und Entwicklungsmaßnahmen, für die vor dem Inkrafttreten einer Gesetzesänderung nach den bisher geltenden Rechtsvorschriften der Beginn der vorbereitenden Untersuchungen oder der Voruntersuchungen beschlossen worden ist, sind abweichend von § 233 Absatz 1 die Vorschriften dieses Gesetzes anzuwenden; abgeschlossene Verfahrensschritte bleiben unberührt. Ist eine städtebauliche Entwicklungsmaßnahme jedoch vor dem 1. Juli 1987 förmlich festgelegt worden, sind die §§ 165 bis 171 in der bis zum 30. April 1993 geltenden Fassung weiter anzuwenden; wird zur zweckmäßigen Durchführung entsprechend den Zielen und Zwecken einer solchen Entwicklungsmaßnahme eine Änderung des Geltungsbereichs der Entwicklungsmaßnahmeverordnung erforderlich, ist § 53 in Verbindung mit § 1 des Städtebauförderungsgesetzes weiter anzuwenden.
 
-(2) Ist eine städtebauliche Sanierungsmaßnahme vor dem 1. Januar 1998 förmlich festgelegt worden und ist nach der Sanierungssatzung nur die Genehmigungspflicht nach § 144 Abs. 2 in der bis zum 31. Dezember 1997 geltenden Fassung ausgeschlossen, bedarf eine Teilung auch weiterhin der schriftlichen Genehmigung der Gemeinde. Die Gemeinde hat dem Grundbuchamt Sanierungssatzungen im Sinne des Satzes 1 in entsprechender Anwendung des ab dem 1. Januar 1998 geltenden § 143 Abs. 2 Satz 1 bis 3 unverzüglich nachträglich mitzuteilen.
+(2) Ist eine städtebauliche Sanierungsmaßnahme vor dem 1. Januar 1998 förmlich festgelegt worden und ist nach der Sanierungssatzung nur die Genehmigungspflicht nach § 144 Absatz 2 in der bis zum 31. Dezember 1997 geltenden Fassung ausgeschlossen, bedarf eine Teilung auch weiterhin der schriftlichen Genehmigung der Gemeinde. Die Gemeinde hat dem Grundbuchamt Sanierungssatzungen im Sinne des Satzes 1 in entsprechender Anwendung des ab dem 1. Januar 1998 geltenden § 143 Absatz 2 Satz 1 bis 3 unverzüglich nachträglich mitzuteilen.
 
-(3) In dem Gebiet, in dem das Grundgesetz schon vor dem 3. Oktober 1990 galt, ist § 141 Abs. 4 auf Beschlüsse über den Beginn der vorbereitenden Untersuchungen, die vor dem 1. Mai 1993 bekannt gemacht worden sind, nicht anzuwenden.
+(3) In dem Gebiet, in dem das Grundgesetz schon vor dem 3. Oktober 1990 galt, ist § 141 Absatz 4 auf Beschlüsse über den Beginn der vorbereitenden Untersuchungen, die vor dem 1. Mai 1993 bekannt gemacht worden sind, nicht anzuwenden.
 
-(4) Sanierungssatzungen, die vor dem 1. Januar 2007 bekannt gemacht worden sind, sind spätestens bis zum 31. Dezember 2021 mit den Rechtswirkungen des § 162 Abs. 1 Satz 1 Nr. 4 aufzuheben, es sei denn, es ist entsprechend § 142 Abs. 3 Satz 3 oder 4 eine andere Frist für die Durchführung der Sanierung festgelegt worden.
+(4) Sanierungssatzungen, die vor dem 1. Januar 2007 bekannt gemacht worden sind, sind spätestens bis zum 31. Dezember 2021 mit den Rechtswirkungen des § 162 Absatz 1 Satz 1 Nummer 4 aufzuheben, es sei denn, es ist entsprechend § 142 Absatz 3 Satz 3 oder 4 eine andere Frist für die Durchführung der Sanierung festgelegt worden.
 
 ### § 236 Überleitungsvorschriften für das Baugebot und die Erhaltung baulicher Anlagen
 
-(1) § 176 Abs. 9 ist auf Enteignungsverfahren nach § 85 Abs. 1 Nr. 5 anzuwenden, wenn der Eigentümer die Verpflichtung aus einem Baugebot nicht erfüllt, das nach dem 31. Mai 1990 angeordnet worden ist.
+(1) § 176 Absatz 9 ist auf Enteignungsverfahren nach § 85 Absatz 1 Nummer 5 anzuwenden, wenn der Eigentümer die Verpflichtung aus einem Baugebot nicht erfüllt, das nach dem 31. Mai 1990 angeordnet worden ist.
 
-(2) § 172 Abs. 1 Satz 4 bis 6 gilt nicht für die Bildung von Teil- und Wohnungseigentum, dessen Eintragung vor dem 26. Juni 1997 beantragt worden ist. Dies gilt auch, wenn ein Anspruch auf Bildung oder Übertragung von Teil- und Wohnungseigentum vor dem 26. Juni 1997 durch eine Vormerkung gesichert wurde. § 172 in der ab dem 1. Januar 1998 geltenden Fassung ist auch auf Satzungen, die vor dem 1. Januar 1998 ortsüblich bekannt gemacht worden sind, anzuwenden.
+(2) § 172 Absatz 1 Satz 4 bis 6 gilt nicht für die Bildung von Teil- und Wohnungseigentum, dessen Eintragung vor dem 26. Juni 1997 beantragt worden ist. Dies gilt auch, wenn ein Anspruch auf Bildung oder Übertragung von Teil- und Wohnungseigentum vor dem 26. Juni 1997 durch eine Vormerkung gesichert wurde. § 172 in der ab dem 1. Januar 1998 geltenden Fassung ist auch auf Satzungen, die vor dem 1. Januar 1998 ortsüblich bekannt gemacht worden sind, anzuwenden.
 
-### § 237
-
-(weggefallen)
+### § 237 (weggefallen)
 
 ### § 238 Überleitungsvorschrift für Entschädigungen
 
-Wurde durch die Änderung des § 34 des Bundesbaugesetzes durch das Gesetz zur Änderung des Bundesbaugesetzes vom 18. August 1976 die bis dahin zulässige Nutzung eines Grundstücks aufgehoben oder wesentlich geändert, ist eine Entschädigung in entsprechender Anwendung der §§ 42, 43 Abs. 1, 2, 4 und 5 und des § 44 Abs. 1 Satz 2, Abs. 3 und 4 zu gewähren; dies gilt nicht, soweit in dem Zeitpunkt, in dem nach § 44 Abs. 3 bis 5 Entschädigung verlangt werden kann, eine entsprechende Aufhebung oder Änderung der zulässigen Nutzung auch nach § 34 des Bundesbaugesetzes in der bis zum 31. Dezember 1976 geltenden Fassung hätte eintreten können, ohne dass die Aufhebung oder Änderung nach § 44 des Bundesbaugesetzes in der bis zum 31. Dezember 1976 geltenden Fassung zu entschädigen gewesen wäre. Wird durch die Änderung des § 34 durch das Europarechtsanpassungsgesetz Bau vom 24. Juni 2004 die bis dahin zulässige Nutzung eines Grundstücks aufgehoben oder wesentlich geändert, ist Satz 1 entsprechend anzuwenden.
+Wurde durch die Änderung des § 34 des Bundesbaugesetzes durch das Gesetz zur Änderung des Bundesbaugesetzes vom 18. August 1976 die bis dahin zulässige Nutzung eines Grundstücks aufgehoben oder wesentlich geändert, ist eine Entschädigung in entsprechender Anwendung der §§ 42, 43 Absatz 1, 2, 4 und 5 und des § 44 Absatz 1 Satz 2, Absatz 3 und 4 zu gewähren; dies gilt nicht, soweit in dem Zeitpunkt, in dem nach § 44 Absatz 3 bis 5 Entschädigung verlangt werden kann, eine entsprechende Aufhebung oder Änderung der zulässigen Nutzung auch nach § 34 des Bundesbaugesetzes in der bis zum 31. Dezember 1976 geltenden Fassung hätte eintreten können, ohne dass die Aufhebung oder Änderung nach § 44 des Bundesbaugesetzes in der bis zum 31. Dezember 1976 geltenden Fassung zu entschädigen gewesen wäre. Wird durch die Änderung des § 34 durch das Europarechtsanpassungsgesetz Bau vom 24. Juni 2004 die bis dahin zulässige Nutzung eines Grundstücks aufgehoben oder wesentlich geändert, ist Satz 1 entsprechend anzuwenden.
 
 ### § 239 Überleitungsvorschrift für die Grenzregelung
 
 Hat die Gemeinde den Beschluss über die Grenzregelung (§ 82 in der vor dem 20. Juli 2004 geltenden Fassung) vor dem 20. Juli 2004 gefasst, sind die Vorschriften des Zweiten Abschnitts des Vierten Teils des Ersten Kapitels in der vor dem 20. Juli 2004 geltenden Fassung weiterhin anzuwenden.
 
-### (XXXX) §§ 240 und 241 (weggefallen)
+### § 240 (weggefallen)
 
--
+### § 241 (weggefallen)
 
 ### § 242 Überleitungsvorschriften für die Erschließung
 
@@ -6597,11 +4977,11 @@ Hat die Gemeinde den Beschluss über die Grenzregelung (§ 82 in der vor dem 20.
 
 (2) Soweit am 29. Juni 1961 zur Erfüllung von Anliegerbeitragspflichten langfristige Verträge oder sonstige Vereinbarungen, insbesondere über das Ansammeln von Mitteln für den Straßenbau in Straßenbaukassen oder auf Sonderkonten bestanden, können die Länder ihre Abwicklung durch Gesetz regeln.
 
-(3) § 125 Abs. 3 ist auch auf Bebauungspläne anzuwenden, die vor dem 1. Juli 1987 in Kraft getreten sind.
+(3) § 125 Absatz 3 ist auch auf Bebauungspläne anzuwenden, die vor dem 1. Juli 1987 in Kraft getreten sind.
 
-(4) § 127 Abs. 2 Nr. 2 ist auch auf Verkehrsanlagen anzuwenden, die vor dem 1. Juli 1987 endgültig hergestellt worden sind. Ist vor dem 1. Juli 1987 eine Beitragspflicht nach Landesrecht entstanden, so verbleibt es dabei.
+(4) § 127 Absatz 2 Nummer 2 ist auch auf Verkehrsanlagen anzuwenden, die vor dem 1. Juli 1987 endgültig hergestellt worden sind. Ist vor dem 1. Juli 1987 eine Beitragspflicht nach Landesrecht entstanden, so verbleibt es dabei.
 
-(5) Ist für einen Kinderspielplatz eine Beitragspflicht bereits auf Grund der vor dem 1. Juli 1987 geltenden Vorschriften (§ 127 Abs. 2 Nr. 3 und 4 des Bundesbaugesetzes) entstanden, so verbleibt es dabei. Die Gemeinde soll von der Erhebung des Erschließungsbeitrags ganz oder teilweise absehen, wenn dies auf Grund der örtlichen Verhältnisse, insbesondere unter Berücksichtigung des Nutzens des Kinderspielplatzes für die Allgemeinheit, geboten ist. Satz 2 ist auch auf vor dem 1. Juli 1987 entstandene Beiträge anzuwenden, wenn
+(5) Ist für einen Kinderspielplatz eine Beitragspflicht bereits auf Grund der vor dem 1. Juli 1987 geltenden Vorschriften (§ 127 Absatz 2 Nummer 3 und 4 des Bundesbaugesetzes) entstanden, so verbleibt es dabei. Die Gemeinde soll von der Erhebung des Erschließungsbeitrags ganz oder teilweise absehen, wenn dies auf Grund der örtlichen Verhältnisse, insbesondere unter Berücksichtigung des Nutzens des Kinderspielplatzes für die Allgemeinheit, geboten ist. Satz 2 ist auch auf vor dem 1. Juli 1987 entstandene Beiträge anzuwenden, wenn
 
 1.  
 der Beitrag noch nicht entrichtet ist oder
@@ -6609,11 +4989,11 @@ der Beitrag noch nicht entrichtet ist oder
 2.  
 er entrichtet worden, aber der Beitragsbescheid noch nicht unanfechtbar geworden ist.
 
-(6) § 128 Abs. 1 ist auch anzuwenden, wenn der Umlegungsplan (§ 66 des Bundesbaugesetzes) oder die Vorwegregelung (§ 76 des Bundesbaugesetzes) vor dem 1. Juli 1987 ortsüblich bekannt gemacht worden ist (§ 71 des Bundesbaugesetzes).
+(6) § 128 Absatz 1 ist auch anzuwenden, wenn der Umlegungsplan (§ 66 des Bundesbaugesetzes) oder die Vorwegregelung (§ 76 des Bundesbaugesetzes) vor dem 1. Juli 1987 ortsüblich bekannt gemacht worden ist (§ 71 des Bundesbaugesetzes).
 
-(7) Ist vor dem 1. Juli 1987 über die Stundung des Beitrags für landwirtschaftlich genutzte Grundstücke (§ 135 Abs. 4 des Bundesbaugesetzes) entschieden und ist die Entscheidung noch nicht unanfechtbar geworden, ist § 135 Abs. 4 dieses Gesetzbuchs anzuwenden.
+(7) Ist vor dem 1. Juli 1987 über die Stundung des Beitrags für landwirtschaftlich genutzte Grundstücke (§ 135 Absatz 4 des Bundesbaugesetzes) entschieden und ist die Entscheidung noch nicht unanfechtbar geworden, ist § 135 Absatz 4 dieses Gesetzbuchs anzuwenden.
 
-(8) § 124 Absatz 2 Satz 2 in der bis zum 21. Juni 2013 geltenden Fassung ist auch auf Kostenvereinbarungen in Erschließungsverträgen anzuwenden, die vor dem 1. Mai 1993 geschlossen worden sind. Auf diese Verträge ist § 129 Abs. 1 Satz 3 weiterhin anzuwenden.
+(8) § 124 Absatz 2 Satz 2 in der bis zum 21. Juni 2013 geltenden Fassung ist auch auf Kostenvereinbarungen in Erschließungsverträgen anzuwenden, die vor dem 1. Mai 1993 geschlossen worden sind. Auf diese Verträge ist § 129 Absatz 1 Satz 3 weiterhin anzuwenden.
 
 (9) Für Erschließungsanlagen oder Teile von Erschließungsanlagen in dem in Artikel 3 des Einigungsvertrags genannten Gebiet, die vor dem Wirksamwerden des Beitritts bereits hergestellt worden sind, kann nach diesem Gesetz ein Erschließungsbeitrag nicht erhoben werden. Bereits hergestellte Erschließungsanlagen oder Teile von Erschließungsanlagen sind die einem technischen Ausbauprogramm oder den örtlichen Ausbaugepflogenheiten entsprechend fertiggestellten Erschließungsanlagen oder Teile von Erschließungsanlagen. Leistungen, die Beitragspflichtige für die Herstellung von Erschließungsanlagen oder Teilen von Erschließungsanlagen erbracht haben, sind auf den Erschließungsbeitrag anzurechnen. Die Landesregierungen werden ermächtigt, bei Bedarf Überleitungsregelungen durch Rechtsverordnung zu treffen.
 
@@ -6625,27 +5005,27 @@ er entrichtet worden, aber der Beitragsbescheid noch nicht unanfechtbar geworden
 
 ### § 244 Überleitungsvorschriften für das Europarechtsanpassungsgesetz Bau
 
-(1) Abweichend von § 233 Abs. 1 werden Verfahren für Bauleitpläne und Satzungen nach § 34 Abs. 4 Satz 1 und § 35 Abs. 6, die nach dem 20. Juli 2004 förmlich eingeleitet worden sind oder die nach dem 20. Juli 2006 abgeschlossen werden, nach den Vorschriften dieses Gesetzes zu Ende geführt.
+(1) Abweichend von § 233 Absatz 1 werden Verfahren für Bauleitpläne und Satzungen nach § 34 Absatz 4 Satz 1 und § 35 Absatz 6, die nach dem 20. Juli 2004 förmlich eingeleitet worden sind oder die nach dem 20. Juli 2006 abgeschlossen werden, nach den Vorschriften dieses Gesetzes zu Ende geführt.
 
 (2) Abweichend von Absatz 1 finden auf Bebauungsplanverfahren, die in der Zeit vom 14. März 1999 bis zum 20. Juli 2004 förmlich eingeleitet worden sind und die vor dem 20. Juli 2006 abgeschlossen werden, die Vorschriften des Baugesetzbuchs in der vor dem 20. Juli 2004 geltenden Fassung weiterhin Anwendung. Ist mit gesetzlich vorgeschriebenen einzelnen Verfahrensschritten noch nicht begonnen worden, können diese auch nach den Vorschriften dieses Gesetzes durchgeführt werden.
 
-(3) § 4 Abs. 3 und § 4c gelten nur für Bauleitpläne, die nach Absatz 1 oder 2 nach den Vorschriften dieses Gesetzes zu Ende geführt werden.
+(3) § 4 Absatz 3 und § 4c gelten nur für Bauleitpläne, die nach Absatz 1 oder 2 nach den Vorschriften dieses Gesetzes zu Ende geführt werden.
 
 (4) (weggefallen)
 
-(5) Die Gemeinden können Satzungen, die auf der Grundlage des § 19 in der vor dem 20. Juli 2004 geltenden Fassung erlassen worden sind, durch Satzung aufheben. Die Gemeinde hat diese Satzung ortsüblich bekannt zu machen; sie kann die Bekanntmachung auch in entsprechender Anwendung des § 10 Abs. 3 Satz 2 bis 5 vornehmen. Unbeschadet der Sätze 1 und 2 sind Satzungen auf der Grundlage des § 19 in der vor dem 20. Juli 2004 geltenden Fassung nicht mehr anzuwenden. Die Gemeinde hat auf die Nichtanwendbarkeit dieser Satzungen bis zum 31. Dezember 2004 durch ortsübliche Bekanntmachung hinzuweisen. Die Gemeinde hat das Grundbuchamt um Löschung eines von ihr nach § 20 Abs. 3 in der vor dem 20. Juli 2004 geltenden Fassung veranlassten Widerspruchs zu ersuchen.
+(5) Die Gemeinden können Satzungen, die auf der Grundlage des § 19 in der vor dem 20. Juli 2004 geltenden Fassung erlassen worden sind, durch Satzung aufheben. Die Gemeinde hat diese Satzung ortsüblich bekannt zu machen; sie kann die Bekanntmachung auch in entsprechender Anwendung des § 10 Absatz 3 Satz 2 bis 5 vornehmen. Unbeschadet der Sätze 1 und 2 sind Satzungen auf der Grundlage des § 19 in der vor dem 20. Juli 2004 geltenden Fassung nicht mehr anzuwenden. Die Gemeinde hat auf die Nichtanwendbarkeit dieser Satzungen bis zum 31. Dezember 2004 durch ortsübliche Bekanntmachung hinzuweisen. Die Gemeinde hat das Grundbuchamt um Löschung eines von ihr nach § 20 Absatz 3 in der vor dem 20. Juli 2004 geltenden Fassung veranlassten Widerspruchs zu ersuchen.
 
-(6) Für eine auf der Grundlage des § 22 in der vor dem 20. Juli 2004 geltenden Fassung wirksam erlassene Satzung bleibt § 22 in der vor dem 20. Juli 2004 geltenden Fassung bis zum 30. Juni 2005 weiterhin anwendbar. Auf die Satzung ist § 22 in der geltenden Fassung anzuwenden, wenn beim Grundbuchamt vor Ablauf des 30. Juni 2005 eine den Anforderungen des § 22 Abs. 2 Satz 3 und 4 entsprechende Mitteilung der Gemeinde eingegangen ist. Ist die Mitteilung hinsichtlich der Satzung nicht fristgerecht erfolgt, ist die Satzung auf die von ihr erfassten Vorgänge nicht mehr anzuwenden. Eine Aussetzung der Zeugniserteilung nach § 22 Abs. 6 Satz 3 in der vor dem 20. Juli 2004 geltenden Fassung ist längstens bis zum 30. Juni 2005 wirksam. Die Baugenehmigungsbehörde hat das Grundbuchamt um Löschung eines von ihr nach § 20 Abs. 3 in der vor dem 20. Juli 2004 geltenden Fassung oder auf Grundlage von Satz 1 oder 4 in Verbindung mit § 20 Abs. 3 in der vor dem 20. Juli 2004 geltenden Fassung veranlassten Widerspruchs im Grundbuch zu ersuchen, wenn die Satzung nicht mehr anwendbar ist oder die Aussetzung der Zeugniserteilung unwirksam wird.
+(6) Für eine auf der Grundlage des § 22 in der vor dem 20. Juli 2004 geltenden Fassung wirksam erlassene Satzung bleibt § 22 in der vor dem 20. Juli 2004 geltenden Fassung bis zum 30. Juni 2005 weiterhin anwendbar. Auf die Satzung ist § 22 in der geltenden Fassung anzuwenden, wenn beim Grundbuchamt vor Ablauf des 30. Juni 2005 eine den Anforderungen des § 22 Absatz 2 Satz 3 und 4 entsprechende Mitteilung der Gemeinde eingegangen ist. Ist die Mitteilung hinsichtlich der Satzung nicht fristgerecht erfolgt, ist die Satzung auf die von ihr erfassten Vorgänge nicht mehr anzuwenden. Eine Aussetzung der Zeugniserteilung nach § 22 Absatz 6 Satz 3 in der vor dem 20. Juli 2004 geltenden Fassung ist längstens bis zum 30. Juni 2005 wirksam. Die Baugenehmigungsbehörde hat das Grundbuchamt um Löschung eines von ihr nach § 20 Absatz 3 in der vor dem 20. Juli 2004 geltenden Fassung oder auf Grundlage von Satz 1 oder 4 in Verbindung mit § 20 Absatz 3 in der vor dem 20. Juli 2004 geltenden Fassung veranlassten Widerspruchs im Grundbuch zu ersuchen, wenn die Satzung nicht mehr anwendbar ist oder die Aussetzung der Zeugniserteilung unwirksam wird.
 
-(7) § 35 Abs. 5 Satz 2 gilt nicht für die Zulässigkeit eines Vorhabens, das die Nutzungsänderung einer baulichen Anlage zum Inhalt hat, deren bisherige Nutzung vor dem 20. Juli 2004 zulässigerweise aufgenommen worden ist.
+(7) § 35 Absatz 5 Satz 2 gilt nicht für die Zulässigkeit eines Vorhabens, das die Nutzungsänderung einer baulichen Anlage zum Inhalt hat, deren bisherige Nutzung vor dem 20. Juli 2004 zulässigerweise aufgenommen worden ist.
 
 ### § 245 Überleitungsvorschriften für den Stadtumbau, die Soziale Stadt und die Förderung städtebaulicher Maßnahmen
 
-(1) Ein von einer Gemeinde bis zum 20. Juli 2004 im Hinblick auf die Verwaltungsvereinbarungen über die Gewährung von Finanzhilfen des Bundes an die Länder nach Artikel 104a Abs. 4 des Grundgesetzes in seiner bis zum 20. Juli 2004 geltenden Fassung zur Förderung städtebaulicher Maßnahmen beschlossenes Gebiet für Stadtumbaumaßnahmen sowie ein hierfür aufgestelltes städtebauliches Entwicklungskonzept der Gemeinde gilt als Stadtumbaugebiet und städtebauliches Entwicklungskonzept im Sinne des § 171b.
+(1) Ein von einer Gemeinde bis zum 20. Juli 2004 im Hinblick auf die Verwaltungsvereinbarungen über die Gewährung von Finanzhilfen des Bundes an die Länder nach Artikel 104a Absatz 4 des Grundgesetzes in seiner bis zum 20. Juli 2004 geltenden Fassung zur Förderung städtebaulicher Maßnahmen beschlossenes Gebiet für Stadtumbaumaßnahmen sowie ein hierfür aufgestelltes städtebauliches Entwicklungskonzept der Gemeinde gilt als Stadtumbaugebiet und städtebauliches Entwicklungskonzept im Sinne des § 171b.
 
-(2) Ein von der Gemeinde bis zum 20. Juli 2004 im Hinblick auf die Verwaltungsvereinbarungen über die Gewährung von Finanzhilfen des Bundes an die Länder nach Artikel 104a Abs. 4 des Grundgesetzes in seiner bis zum 20. Juli 2004 geltenden Fassung zur Förderung städtebaulicher Maßnahmen beschlossenes Gebiet für Maßnahmen der Sozialen Stadt sowie ein hierfür aufgestelltes Konzept der Gemeinde gilt als Gebiet und Entwicklungskonzept im Sinne des § 171e.
+(2) Ein von der Gemeinde bis zum 20. Juli 2004 im Hinblick auf die Verwaltungsvereinbarungen über die Gewährung von Finanzhilfen des Bundes an die Länder nach Artikel 104a Absatz 4 des Grundgesetzes in seiner bis zum 20. Juli 2004 geltenden Fassung zur Förderung städtebaulicher Maßnahmen beschlossenes Gebiet für Maßnahmen der Sozialen Stadt sowie ein hierfür aufgestelltes Konzept der Gemeinde gilt als Gebiet und Entwicklungskonzept im Sinne des § 171e.
 
-(3) Für die zur Förderung städtebaulicher Maßnahmen bis zum 1. September 2006 geschlossenen Verwaltungsvereinbarungen über die Gewährung von Finanzhilfen des Bundes an die Länder nach Artikel 104a Abs. 4 des Grundgesetzes in seiner bis zum 1. September 2006 geltenden Fassung ist § 164b in seiner bis zum 12. September 2006 geltenden Fassung bis zum 31. Dezember 2019 anzuwenden.
+(3) Für die zur Förderung städtebaulicher Maßnahmen bis zum 1. September 2006 geschlossenen Verwaltungsvereinbarungen über die Gewährung von Finanzhilfen des Bundes an die Länder nach Artikel 104a Absatz 4 des Grundgesetzes in seiner bis zum 1. September 2006 geltenden Fassung ist § 164b in seiner bis zum 12. September 2006 geltenden Fassung bis zum 31. Dezember 2019 anzuwenden.
 
 ### § 245a Überleitungsvorschriften aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts
 
@@ -6661,7 +5041,7 @@ er entrichtet worden, aber der Beitragsbescheid noch nicht unanfechtbar geworden
 
 (1) (weggefallen)
 
-(2) Die Länder können bestimmen, dass die Frist nach § 35 Abs. 4 Satz 1 Nr. 1 Buchstabe c nicht anzuwenden ist.
+(2) Die Länder können bestimmen, dass die Frist nach § 35 Absatz 4 Satz 1 Nummer 1 Buchstabe c nicht anzuwenden ist.
 
 ### § 245c Überleitungsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt
 
@@ -6678,11 +5058,11 @@ Zweiter Teil Schlussvorschriften
 
 ### § 246 Sonderregelungen für einzelne Länder; Sonderregelungen für Flüchtlingsunterkünfte
 
-(1) In den Ländern Berlin und Hamburg entfallen die in § 6 Abs. 1, § 10 Abs. 2 und § 190 Abs. 1 vorgesehenen Genehmigungen oder Zustimmungen; das Land Bremen kann bestimmen, dass diese Genehmigungen oder Zustimmungen entfallen.
+(1) In den Ländern Berlin und Hamburg entfallen die in § 6 Absatz 1, § 10 Absatz 2 und § 190 Absatz 1 vorgesehenen Genehmigungen oder Zustimmungen; das Land Bremen kann bestimmen, dass diese Genehmigungen oder Zustimmungen entfallen.
 
-(1a) Die Länder können bestimmen, dass Bebauungspläne, die nicht der Genehmigung bedürfen, und Satzungen nach § 34 Abs. 4 Satz 1, § 35 Abs. 6 und § 165 Abs. 6 vor ihrem Inkrafttreten der höheren Verwaltungsbehörde anzuzeigen sind; dies gilt nicht für Bebauungspläne nach § 13. Die höhere Verwaltungsbehörde hat die Verletzung von Rechtsvorschriften, die eine Versagung der Genehmigung nach § 6 Abs. 2 rechtfertigen würde, innerhalb eines Monats nach Eingang der Anzeige geltend zu machen. Der Bebauungsplan und die Satzungen dürfen nur in Kraft gesetzt werden, wenn die höhere Verwaltungsbehörde die Verletzung von Rechtsvorschriften nicht innerhalb der in Satz 2 bezeichneten Frist geltend gemacht hat.
+(1a) Die Länder können bestimmen, dass Bebauungspläne, die nicht der Genehmigung bedürfen, und Satzungen nach § 34 Absatz 4 Satz 1, § 35 Absatz 6 und § 165 Absatz 6 vor ihrem Inkrafttreten der höheren Verwaltungsbehörde anzuzeigen sind; dies gilt nicht für Bebauungspläne nach § 13. Die höhere Verwaltungsbehörde hat die Verletzung von Rechtsvorschriften, die eine Versagung der Genehmigung nach § 6 Absatz 2 rechtfertigen würde, innerhalb eines Monats nach Eingang der Anzeige geltend zu machen. Der Bebauungsplan und die Satzungen dürfen nur in Kraft gesetzt werden, wenn die höhere Verwaltungsbehörde die Verletzung von Rechtsvorschriften nicht innerhalb der in Satz 2 bezeichneten Frist geltend gemacht hat.
 
-(2) Die Länder Berlin und Hamburg bestimmen, welche Form der Rechtsetzung an die Stelle der in diesem Gesetzbuch vorgesehenen Satzungen tritt. Das Land Bremen kann eine solche Bestimmung treffen. Die Länder Berlin, Bremen und Hamburg können eine von § 10 Abs. 3, § 16 Abs. 2, § 22 Abs. 2, § 143 Abs. 1, § 162 Abs. 2 Satz 2 bis 4 und § 165 Abs. 8 abweichende Regelung treffen.
+(2) Die Länder Berlin und Hamburg bestimmen, welche Form der Rechtsetzung an die Stelle der in diesem Gesetzbuch vorgesehenen Satzungen tritt. Das Land Bremen kann eine solche Bestimmung treffen. Die Länder Berlin, Bremen und Hamburg können eine von § 10 Absatz 3, § 16 Absatz 2, § 22 Absatz 2, § 143 Absatz 1, § 162 Absatz 2 Satz 2 bis 4 und § 165 Absatz 8 abweichende Regelung treffen.
 
 (3) § 171f ist auch auf Rechtsvorschriften der Länder anzuwenden, die vor dem 1. Januar 2007 in Kraft getreten sind.
 
@@ -6692,7 +5072,7 @@ Zweiter Teil Schlussvorschriften
 
 (6) (weggefallen)
 
-(7) Die Länder können bestimmen, dass § 34 Abs. 1 Satz 1 bis zum 31. Dezember 2004 nicht für Einkaufszentren, großflächige Einzelhandelsbetriebe und sonstige großflächige Handelsbetriebe im Sinne des § 11 Abs. 3 der Baunutzungsverordnung anzuwenden ist. Wird durch eine Regelung nach Satz 1 die bis dahin zulässige Nutzung eines Grundstücks aufgehoben oder wesentlich geändert, ist § 238 entsprechend anzuwenden.
+(7) Die Länder können bestimmen, dass § 34 Absatz 1 Satz 1 bis zum 31. Dezember 2004 nicht für Einkaufszentren, großflächige Einzelhandelsbetriebe und sonstige großflächige Handelsbetriebe im Sinne des § 11 Absatz 3 der Baunutzungsverordnung anzuwenden ist. Wird durch eine Regelung nach Satz 1 die bis dahin zulässige Nutzung eines Grundstücks aufgehoben oder wesentlich geändert, ist § 238 entsprechend anzuwenden.
 
 (8) Bis zum 31. Dezember 2019 gilt § 34 Absatz 3a Satz 1 entsprechend für die Nutzungsänderung zulässigerweise errichteter baulicher Anlagen in bauliche Anlagen, die der Unterbringung von Flüchtlingen oder Asylbegehrenden dienen, und für deren Erweiterung, Änderung oder Erneuerung.
 
@@ -6732,7 +5112,7 @@ Für Vorhaben nach Satz 1 gilt § 35 Absatz 5 Satz 2 Halbsatz 1 und Satz 3 entsp
 
 ### § 246a Überschwemmungsgebiete, überschwemmungsgefährdete Gebiete
 
-Anlässlich der Neubekanntmachung eines Flächennutzungsplans nach § 6 Abs. 6 sollen die in § 5 Abs. 4a bezeichneten Gebiete nach Maßgabe dieser Bestimmung nachrichtlich übernommen und vermerkt werden.
+Anlässlich der Neubekanntmachung eines Flächennutzungsplans nach § 6 Absatz 6 sollen die in § 5 Absatz 4a bezeichneten Gebiete nach Maßgabe dieser Bestimmung nachrichtlich übernommen und vermerkt werden.
 
 ### § 247 Sonderregelungen für Berlin als Hauptstadt der Bundesrepublik Deutschland
 
@@ -6748,7 +5128,7 @@ Anlässlich der Neubekanntmachung eines Flächennutzungsplans nach § 6 Abs. 6 s
 
 (6) (weggefallen)
 
-(7) Die Entwicklung der Parlaments- und Regierungsbereiche in Berlin entspricht den Zielen und Zwecken einer städtebaulichen Entwicklungsmaßnahme nach § 165 Abs. 2.
+(7) Die Entwicklung der Parlaments- und Regierungsbereiche in Berlin entspricht den Zielen und Zwecken einer städtebaulichen Entwicklungsmaßnahme nach § 165 Absatz 2.
 
 (8) Ist im Rahmen von Genehmigungs-, Zustimmungs- oder sonstigen Verfahren für Vorhaben der Verfassungsorgane des Bundes Ermessen auszuüben oder sind Abwägungen oder Beurteilungen vorzunehmen, sind die von den Verfassungsorganen des Bundes entsprechend Absatz 3 festgestellten Erfordernisse mit dem ihnen nach dem Grundgesetz zukommenden Gewicht zu berücksichtigen. Absatz 2 ist entsprechend anzuwenden.
 
@@ -6766,7 +5146,7 @@ In Gebieten mit Bebauungsplänen oder Satzungen nach § 34 Absatz 4 Satz 1 Numme
 
 ### Anlage 1 (zu § 2 Absatz 4 und den §§ 2a und 4c)
 
-(Fundstelle: BGBl I 2017, 1061 - 1062)
+(Fundstelle: BGBl. I 2017, 3720 — 3721)
 
 Der Umweltbericht nach § 2 Absatz 4 und § 2a Satz 2 Nummer 2 hat folgende Bestandteile:
 
@@ -6838,74 +5218,35 @@ eine allgemein verständliche Zusammenfassung der erforderlichen Angaben nach di
 d)  
 eine Referenzliste der Quellen, die für die im Bericht enthaltenen Beschreibungen und Bewertungen herangezogen wurden.
 
-### Anlage 2 (zu § 13a Abs. 1 Satz 2 Nr. 2)
+### Anlage 2 (zu § 13a Absatz 1 Satz 2 Nummer 2)
 
-(Fundstelle: BGBl. I 2006, 3316;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2017, 3722)
+
 Nachstehende Kriterien sind anzuwenden, soweit auf Anlage 2 Bezug genommen wird.
 
-1.  
-Merkmale des Bebauungsplans, insbesondere in Bezug auf
+|       |                                                                                                                                                                                                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.    | Merkmale des Bebauungsplans, insbesondere in Bezug auf                                                                                                                                                                                                                                    |
+| 1.1   | das Ausmaß, in dem der Bebauungsplan einen Rahmen im Sinne des § 35 Absatz 3 des Gesetzes über die Umweltverträglichkeitsprüfung setzt;                                                                                                                                                   |
+| 1.2   | das Ausmaß, in dem der Bebauungsplan andere Pläne und Programme beeinflusst;                                                                                                                                                                                                              |
+| 1.3   | die Bedeutung des Bebauungsplans für die Einbeziehung umweltbezogener, einschließlich gesundheitsbezogener Erwägungen, insbesondere im Hinblick auf die Förderung der nachhaltigen Entwicklung;                                                                                           |
+| 1.4   | die für den Bebauungsplan relevanten umweltbezogenen, einschließlich gesundheitsbezogener Probleme;                                                                                                                                                                                       |
+| 1.5   | die Bedeutung des Bebauungsplans für die Durchführung nationaler und europäischer Umweltvorschriften.                                                                                                                                                                                     |
+| 2.    | Merkmale der möglichen Auswirkungen und der voraussichtlich betroffenen Gebiete, insbesondere in Bezug auf                                                                                                                                                                                |
+| 2.1   | die Wahrscheinlichkeit, Dauer, Häufigkeit und Umkehrbarkeit der Auswirkungen;                                                                                                                                                                                                             |
+| 2.2   | den kumulativen und grenzüberschreitenden Charakter der Auswirkungen;                                                                                                                                                                                                                     |
+| 2.3   | die Risiken für die Umwelt, einschließlich der menschlichen Gesundheit (zum Beispiel bei Unfällen);                                                                                                                                                                                       |
+| 2.4   | den Umfang und die räumliche Ausdehnung der Auswirkungen;                                                                                                                                                                                                                                 |
+| 2.5   | die Bedeutung und die Sensibilität des voraussichtlich betroffenen Gebiets auf Grund der besonderen natürlichen Merkmale, des kulturellen Erbes, der Intensität der Bodennutzung des Gebiets jeweils unter Berücksichtigung der Überschreitung von Umweltqualitätsnormen und Grenzwerten; |
+| 2.6   | folgende Gebiete:                                                                                                                                                                                                                                                                         |
+| 2.6.1 | Natura 2000-Gebiete nach § 7 Absatz 1 Nummer 8 des Bundesnaturschutzgesetzes,                                                                                                                                                                                                             |
+| 2.6.2 | Naturschutzgebiete gemäß § 23 des Bundesnaturschutzgesetzes, soweit nicht bereits von Nummer 2.6.1 erfasst,                                                                                                                                                                               |
+| 2.6.3 | Nationalparke gemäß § 24 des Bundesnaturschutzgesetzes, soweit nicht bereits von Nummer 2.6.1 erfasst,                                                                                                                                                                                    |
+| 2.6.4 | Biosphärenreservate und Landschaftsschutzgebiete gemäß den §§ 25 und 26 des Bundesnaturschutzgesetzes,                                                                                                                                                                                    |
+| 2.6.5 | gesetzlich geschützte Biotope gemäß § 30 des Bundesnaturschutzgesetzes,                                                                                                                                                                                                                   |
+| 2.6.6 | Wasserschutzgebiete gemäß § 51 des Wasserhaushaltsgesetzes, Heilquellenschutzgebiete gemäß § 53 Absatz 4 des Wasserhaushaltsgesetzes sowie Überschwemmungsgebiete gemäß § 76 des Wasserhaushaltsgesetzes,                                                                                 |
+| 2.6.7 | Gebiete, in denen die in Rechtsakten der Europäischen Union festgelegten Umweltqualitätsnormen bereits überschritten sind,                                                                                                                                                                |
+| 2.6.8 | Gebiete mit hoher Bevölkerungsdichte, insbesondere Zentrale Orte im Sinne des § 2 Absatz 2 Nummer 2 des Raumordnungsgesetzes,                                                                                                                                                             |
+| 2.6.9 | in amtlichen Listen oder Karten verzeichnete Denkmäler, Denkmalensembles, Bodendenkmäler oder Gebiete, die von der durch die Länder bestimmten Denkmalschutzbehörde als archäologisch bedeutende Landschaften eingestuft worden sind.                                                     |
 
-1.1  
-das Ausmaß, in dem der Bebauungsplan einen Rahmen im Sinne des § 35 Absatz 3 des Gesetzes über die Umweltverträglichkeitsprüfung setzt;
 
-1.2  
-das Ausmaß, in dem der Bebauungsplan andere Pläne und Programme beeinflusst;
-
-1.3  
-die Bedeutung des Bebauungsplans für die Einbeziehung umweltbezogener, einschließlich gesundheitsbezogener Erwägungen, insbesondere im Hinblick auf die Förderung der nachhaltigen Entwicklung;
-
-1.4  
-die für den Bebauungsplan relevanten umweltbezogenen, einschließlich gesundheitsbezogener Probleme;
-
-1.5  
-die Bedeutung des Bebauungsplans für die Durchführung nationaler und europäischer Umweltvorschriften.
-
-2.  
-Merkmale der möglichen Auswirkungen und der voraussichtlich betroffenen Gebiete, insbesondere in Bezug auf
-
-2.1  
-die Wahrscheinlichkeit, Dauer, Häufigkeit und Umkehrbarkeit der Auswirkungen;
-
-2.2  
-den kumulativen und grenzüberschreitenden Charakter der Auswirkungen;
-
-2.3  
-die Risiken für die Umwelt, einschließlich der menschlichen Gesundheit (zum Beispiel bei Unfällen);
-
-2.4  
-den Umfang und die räumliche Ausdehnung der Auswirkungen;
-
-2.5  
-die Bedeutung und die Sensibilität des voraussichtlich betroffenen Gebiets auf Grund der besonderen natürlichen Merkmale, des kulturellen Erbes, der Intensität der Bodennutzung des Gebiets jeweils unter Berücksichtigung der Überschreitung von Umweltqualitätsnormen und Grenzwerten;
-
-2.6  
-folgende Gebiete:
-
-2.6.1  
-Natura 2000-Gebiete nach § 7 Absatz 1 Nummer 8 des Bundesnaturschutzgesetzes,
-
-2.6.2  
-Naturschutzgebiete gemäß § 23 des Bundesnaturschutzgesetzes, soweit nicht bereits von Nummer 2.6.1 erfasst,
-
-2.6.3  
-Nationalparke gemäß § 24 des Bundesnaturschutzgesetzes, soweit nicht bereits von Nummer 2.6.1 erfasst,
-
-2.6.4  
-Biosphärenreservate und Landschaftsschutzgebiete gemäß den §§ 25 und 26 des Bundesnaturschutzgesetzes,
-
-2.6.5  
-gesetzlich geschützte Biotope gemäß § 30 des Bundesnaturschutzgesetzes,
-
-2.6.6  
-Wasserschutzgebiete gemäß § 51 des Wasserhaushaltsgesetzes, Heilquellenschutzgebiete gemäß § 53 Absatz 4 des Wasserhaushaltsgesetzes sowie Überschwemmungsgebiete gemäß § 76 des Wasserhaushaltsgesetzes,
-
-2.6.7  
-Gebiete, in denen die in Rechtsakten der Europäischen Union festgelegten Umweltqualitätsnormen bereits überschritten sind,
-
-2.6.8  
-Gebiete mit hoher Bevölkerungsdichte, insbesondere Zentrale Orte im Sinne des § 2 Abs. 2 Nr. 2 des Raumordnungsgesetzes,
-
-2.6.9  
-in amtlichen Listen oder Karten verzeichnete Denkmäler, Denkmalensembles, Bodendenkmäler oder Gebiete, die von der durch die Länder bestimmten Denkmalschutzbehörde als archäologisch bedeutende Landschaften eingestuft worden sind.
