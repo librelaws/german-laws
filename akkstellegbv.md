@@ -2,7 +2,7 @@ Verordnung über die Beleihung der Akkreditierungsstelle nach dem Akkreditierung
 ============================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 6 V v. 27.4.2016 I 980
+Zuletzt geändert durch Art. 1 V v. 3.11.2017 I 3732
 
 ### 
 
@@ -26,6 +26,9 @@ Die Aufsicht über die Akkreditierungsstelle wird ausgeübt vom
 
 1.  
 Bundesministerium des Innern im Bereich der Sicherheit in der Informationstechnik;
+
+1a.  
+Bundesministerium der Finanzen im Bereich des Finanzmarktes;
 
 2.  
 Bundesministerium für Arbeit und Soziales oder der von ihm benannten Behörden in den Bereichen Arbeit und Soziales; hierzu gehört insbesondere der Bereich
