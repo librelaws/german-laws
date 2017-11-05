@@ -2,7 +2,10 @@ Frequenzverordnung (FreqV)
 ==========================
 
 Stand  
-geändert durch Art. 1 V v. 21.5.2015 I 780
+Zuletzt geändert durch Art. 1 V v. 6.11.2017 I 3733
+
+Hinweis  
+Änderung durch Art. 1 G v. 27.11.2018 I 2026 (Nr. 40) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -1027,7 +1030,7 @@ ziv., mil.
 
  75
 
-**5 275 – 5 450**
+**5 275 – 5 351,5**
 2 5
 
 FESTER FUNKDIENST
@@ -1035,9 +1038,22 @@ MOBILFUNKDIENST außer mobiler Flugfunkdienst
 
 ziv., mil.
 
+75A
+
+**5 351,5 – 5 366,5**
+
+FESTER FUNKDIENST
+MOBILFUNKDIENST außer mobiler Flugfunkdienst
+
+ziv., mil.
+
+2 5
+
+Amateurfunkdienst D133B
+
  76
 
-**5 450 – 5 480**
+**5 366,5 – 5 480**
 2 5
 
 FESTER FUNKDIENST
@@ -1131,7 +1147,7 @@ D138
 2 5 10
 
 FESTER FUNKDIENST
-MOBILFUNKDIENST außer mobiler Flugfunkdienst (R) D138A
+MOBILFUNKDIENST außer mobiler Flugfunkdienst (R)
 
 ziv., mil.
 
@@ -2008,6 +2024,7 @@ ziv., mil.
 175
 
 **25 550 – 25 670**
+D149
 2 5 8
 
 RADIOASTRONOMIEFUNKDIENST
@@ -2229,7 +2246,7 @@ D162A
 
 MOBILER LANDFUNKDIENST
 
-ziv., mil.
+mil.
 
 196
 
@@ -2401,6 +2418,7 @@ ziv.
 
 MOBILER FLUGFUNKDIENST (OR)
 MOBILER LANDFUNKDIENST 13
+MOBILER SEEFUNKDIENST
 
 mil.
 
@@ -2439,12 +2457,10 @@ ziv.
 214
 
 **149,9 – 150,05**
-D220
 3 5 31
 
 MOBILFUNKDIENST ÜBER SATELLITEN
-(Richtung Erde – Weltraum) D209 D224A
-NAVIGATIONSFUNKDIENST ÜBER SATELLITEN D224B
+(Richtung Erde – Weltraum) D209
 
 ziv.
 
@@ -2493,13 +2509,29 @@ ziv.
 
 219
 
-**156,8375 – 161,9625**
+**156,8375 – 161,9375**
 D226
 3 5 31
 
 MOBILFUNKDIENST außer mobiler Flugfunkdienst
 
 ziv.
+
+219A
+
+**161,9375 – 161,9625**
+
+MOBILFUNKDIENST außer mobiler Flugfunkdienst
+
+ziv.
+
+D226
+
+Mobiler Seefunkdienst über Satelliten
+
+3 5 31
+
+(Erde – Weltraum) D228AA
 
 220
 
@@ -2519,6 +2551,7 @@ D226
 3 5 31
 
 MOBILFUNKDIENST außer mobiler Flugfunkdienst
+Mobiler Seefunkdienst über Satelliten (Erde – Weltraum) D228AA
 
 ziv.
 
@@ -2536,7 +2569,7 @@ ziv.
 223
 
 **162,0375 – 174**
-D226 D227A
+D226
 3 5 31
 
 MOBILFUNKDIENST außer mobiler Flugfunkdienst
@@ -2691,12 +2724,10 @@ mil.
 237
 
 **399,9 – 400,05**
-D220
 5 31
 
 MOBILFUNKDIENST ÜBER SATELLITEN
-(Richtung Erde – Weltraum) D209 D224A
-NAVIGATIONSFUNKDIENST ÜBER SATELLITEN D224B
+(Richtung Erde – Weltraum) D209
 
 ziv., mil.
 
@@ -2756,6 +2787,7 @@ ziv., mil.
 242
 
 **403 – 406**
+D265
 5 31
 
 WETTERHILFENFUNKDIENST
@@ -2765,6 +2797,7 @@ ziv., mil.
 243
 
 **406 – 406,1**
+D265
 D266
 5 31
 
@@ -2777,6 +2810,7 @@ ziv., mil.
 
 **406,1 – 410**
 D149
+D265
 5 31
 
 MOBILER LANDFUNKDIENST
@@ -2820,7 +2854,7 @@ ziv.
 D209 D286 D287
 3 5 20 31
 
-MOBILFUNKDIENST D286A
+MOBILFUNKDIENST D286AA
 
 ziv.
 
@@ -2838,17 +2872,17 @@ ziv.
 249A
 
 **694 – 790**
-3 5 31 36A 41
+5 31 36A 41
 
 RUNDFUNKDIENST 6 14 40
-MOBILFUNKDIENST außer mobiler Flugfunkdienst
+MOBILFUNKDIENST außer mobiler Flugfunkdienst D317A
 
-ziv.
+ziv., mil.
 
 250
 
 **790 – 862**
-3 5 31 36
+3 5 31
 
 MOBILFUNKDIENST außer mobiler Flugfunkdienst D317A
 
@@ -2879,7 +2913,7 @@ ziv., mil.
 D328A
 5 31
 
-FLUGNAVIGATIONSFUNKDIENST D328
+FLUGNAVIGATIONSFUNKDIENST D328 D328AA
 NAVIGATIONSFUNKDIENST ÜBER SATELLITEN
 (Richtung Weltraum – Erde)
 (Richtung Weltraum – Weltraum)
@@ -2974,7 +3008,7 @@ ziv.
 
 **1 350 – 1 400**
 D149 D338A D339
-5 31
+5 31 38
 
 FESTER FUNKDIENST
 MOBILFUNKDIENST
@@ -3001,7 +3035,7 @@ D338A
 5 31
 
 FESTER FUNKDIENST
-MOBILFUNKDIENST außer mobiler Flugfunkdienst
+MOBILFUNKDIENST außer mobiler Flugfunkdienst D341A
 WELTRAUMFERNWIRKFUNKDIENST
 (Richtung Erde – Weltraum)
 
@@ -3014,7 +3048,7 @@ D338A
 5 31
 
 FESTER FUNKDIENST
-MOBILFUNKDIENST außer mobiler Flugfunkdienst
+MOBILFUNKDIENST außer mobiler Flugfunkdienst D341A
 
 mil.
 
@@ -3023,10 +3057,9 @@ mil.
 **1 452 – 1 492**
 5 31 38
 
-FESTER FUNKDIENST
-MOBILFUNKDIENST außer mobiler Flugfunkdienst (R)
+MOBILFUNKDIENST außer mobiler Flugfunkdienst
 
-ziv., mil.
+ziv.
 
 265
 
@@ -3034,14 +3067,14 @@ ziv., mil.
 5 13 31
 
 FESTER FUNKDIENST
-MOBILFUNKDIENST außer mobiler Flugfunkdienst
+MOBILFUNKDIENST außer mobiler Flugfunkdienst D341A
 
 mil.
 
 266
 
 **1 518 – 1 525**
-5 31
+5 31 38
 
 FESTER FUNKDIENST
 MOBILFUNKDIENST außer mobiler Flugfunkdienst
@@ -3127,7 +3160,6 @@ ziv.
 **1 559 – 1 610**
 5 24 31
 
-Fester Funkdienst D362B
 NAVIGATIONSFUNKDIENST ÜBER SATELLITEN
 (Richtung Weltraum – Erde)
 (Richtung Weltraum – Weltraum) D329A
@@ -3316,12 +3348,12 @@ ziv.
 **1 690 – 1 700**
 3 5 31
 
-WETTERHILFENFUNKDIENST 3
-WETTERFUNKDIENST ÜBER SATELLITEN 3
+WETTERHILFENFUNKDIENST
+WETTERFUNKDIENST ÜBER SATELLITEN
 (Richtung Weltraum – Erde)
-Fester Funkdienst 25
+FESTER FUNKDIENST 25
 
-ziv.
+mil.
 
 289
 
@@ -3357,7 +3389,7 @@ ziv.
 292
 
 **1 980 – 2 010**
-5 31 39
+5 31
 
 MOBILFUNKDIENST D388
 MOBILFUNKDIENST ÜBER SATELLITEN
@@ -3417,7 +3449,7 @@ ziv.
 297
 
 **2 170 – 2 200**
-5 31 39
+5 31
 
 MOBILFUNKDIENST D388
 MOBILFUNKDIENST ÜBER SATELLITEN
@@ -3674,10 +3706,12 @@ ziv.
 319
 
 **4 200 – 4 400**
+D437
 D438
 5 31
 
 FLUGNAVIGATIONSFUNKDIENST
+MOBILER FLUGFUNKDIENST (R) D436
 
 ziv., mil.
 
@@ -3943,10 +3977,12 @@ ziv.
 341
 
 **7 075 – 7 250**
-D460
+D460A; 460B
 5 31
 
 FESTER FUNKDIENST
+WELTRAUMFORSCHUNGSFUNKDIENST
+(Richtung Erde – Weltraum)
 
 ziv.
 
@@ -3964,16 +4000,35 @@ mil.
 
 343
 
-**7 300 – 7 550**
+**7 300 – 7 375**
 D461
 5 31
 
 FESTER FUNKDIENST
-WETTERFUNKDIENST ÜBER SATELLITEN D461A
 Fester Funkdienst über Satelliten 29
 (Richtung Weltraum – Erde)
 
 ziv., mil.
+
+343A
+
+**7 375 – 7 550**
+
+FESTER FUNKDIENST
+
+ziv., mil.
+
+5 31
+
+WETTERFUNKDIENST ÜBER SATELLITEN
+
+(Richtung Weltraum – Erde) D461A
+
+MOBILER SEEFUNKDIENST ÜBER SATELLITEN
+
+(Richtung Weltraum – Erde) D461AA D461AB
+
+Fester Funkdienst über Satelliten 29
 
 344
 
@@ -4112,6 +4167,7 @@ D474
 
 NICHTNAVIGATORISCHER ORTUNGSFUNKDIENST
 SEENAVIGATIONSFUNKDIENST D472
+ERDERKUNDUNGSFUNKDIENST ÜBER SATELLITEN (aktiv) D474A D474D
 
 ziv., mil.
 
@@ -4161,6 +4217,7 @@ mil.
 
 NICHTNAVIGATORISCHER ORTUNGSFUNKDIENST
 Fester Funkdienst
+ERDERKUNDUNGSFUNKDIENST ÜBER SATELLITEN (aktiv) D474A D474D
 
 mil.
 
@@ -4182,6 +4239,7 @@ Nutzung
 MOBILFUNKDIENST
 NICHTNAVIGATORISCHER ORTUNGSFUNKDIENST
 Amateurfunkdienst 13
+ERDERKUNDUNGSFUNKDIENST ÜBER SATELLITEN (aktiv) D474A
 
 mil.
 
@@ -4571,7 +4629,7 @@ ziv.
 5 31 34
 
 FESTER FUNKDIENST
-RUNDFUNKDIENST ÜBER SATELLITEN D530A D530B D530C
+RUNDFUNKDIENST ÜBER SATELLITEN D530A D530B
 
 ziv.
 
@@ -4683,6 +4741,7 @@ ziv., mil.
 5 31 34
 
 FESTER FUNKDIENST
+MOBILFUNKDIENST
 
 ziv.
 
@@ -4693,6 +4752,7 @@ ziv.
 
 FESTER FUNKDIENST
 FESTER FUNKDIENST ÜBER SATELLITEN D532B
+MOBILFUNKDIENST
 
 ziv.
 
@@ -4717,8 +4777,7 @@ ziv.
 FESTER FUNKDIENST
 INTERSATELLITENFUNKDIENST D536
 MOBILFUNKDIENST
-Erderkundungsfunkdienst über Satelliten
-(Richtung Weltraum – Erde)
+ERDERKUNDUNGSFUNKDIENST ÜBER SATELLITEN (Richtung Weltraum – Erde)
 Normalfrequenz- und Zeitzeichenfunkdienst über Satelliten
 (Richtung Erde – Weltraum)
 
@@ -4732,12 +4791,11 @@ ziv.
 FESTER FUNKDIENST
 INTERSATELLITENFUNKDIENST D536
 MOBILFUNKDIENST
-Erderkundungsfunkdienst über Satelliten
-(Richtung Weltraum – Erde)
+ERDERKUNDUNGSFUNKDIENST ÜBER SATELLITEN (Richtung Weltraum – Erde)
 Normalfrequenz- und Zeitzeichenfunkdienst über Satelliten
 (Richtung Erde – Weltraum)
 
-ziv.
+ziv., mil.
 
 409
 
@@ -4748,7 +4806,7 @@ FESTER FUNKDIENST
 MOBILFUNKDIENST
 INTERSATELLITENFUNKDIENST D536
 
-mil.
+ziv., mil.
 
 410
 
@@ -5361,7 +5419,7 @@ ziv.
 D149
 5 31
 
-NICHTNAVIGATORISCHER ORTUNGSFUNKDIENST
+NICHTNAVIGATORISCHER ORTUNGSFUNKDIENST D559B
 Amateurfunkdienst
 Amateurfunkdienst über Satelliten
 Radioastronomiefunkdienst
@@ -6186,18 +6244,22 @@ nicht zugewiesen
 <td>Funkstellen des nichtnavigatorischen Ortungsfunkdienstes dürfen bei Funkstellen des festen Funkdienstes weder schädliche Störungen verursachen noch können sie verlangen, gegenüber diesen geschützt zu werden. Die Nutzung der Frequenzbereiche 4 438 – 4 488 kHz, 5 250 – 5 275 kHz, 13 450 – 13 550 kHz, 24 450 – 24 600 kHz, 26 200 – 26 350 kHz und 39 – 39,5 MHz durch den nichtnavigatorischen Ortungsfunkdienst ist auf ozeanographische Radare begrenzt.</td>
 </tr>
 <tr class="even">
-<td>D134</td>
-<td>Die Benutzung der Frequenzbereiche 5 900 – 5 950 kHz, 7 300 – 7 350 kHz, 9 400 – 9 500 kHz, 11 600 – 11 650 kHz, 12 050 – 12 100 kHz, 13 570 – 13 600 kHz, 13 800 – 13 870 kHz, 15 600 – 15 800 kHz, 17 480 – 17 550 kHz und 18 900 – 19 020 kHz durch den Rundfunkdienst ist für Einseitenbandaussendungen oder andere spektrumseffiziente Modulationsverfahren vorgesehen.</td>
+<td>D133B</td>
+<td>Im Frequenzbereich 5 351,5 – 5 366,5 kHz darf die Sendeleistung der Amateurfunkstellen 15 Watt EIRP nicht überschreiten.</td>
 </tr>
 <tr class="odd">
+<td>D134</td>
+<td>Die Nutzung der Frequenzbereiche 5 900 – 5 950 kHz, 7 300 – 7 350 kHz, 9 400 – 9 500 kHz, 11 600 – 11 650 kHz, 12 050 – 12 100 kHz, 13 570 – 13 600 kHz, 13 800 – 13 870 kHz, 15 600 – 15 800 kHz, 17 480 – 17 550 kHz und 18 900 – 19 020 kHz durch den Rundfunkdienst ist für Einseitenbandaussendungen oder andere spektrumseffiziente Modulationsverfahren vorgesehen.</td>
+</tr>
+<tr class="even">
 <td>D136</td>
 <td>Der Frequenzbereich 5 900 – 5 950 kHz ist zusätzlich dem festen Funkdienst und dem mobilen Landfunkdienst innerhalb der deutschen Grenzen auf sekundärer Basis zugewiesen.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>D137</td>
 <td>Die Frequenzbereiche 6 200 – 6 213,5 kHz und 6 220,5 – 6 525 kHz sind zusätzlich dem festen Funkdienst für Funkverkehr innerhalb der deutschen Grenzen auf sekundärer Basis zugewiesen. Die mittlere Leistung der Funkstellen darf höchstens 50 Watt betragen.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>D138</td>
 <td>Die Frequenzbereiche<br />
 6 765 – 6 795 kHz (Mittenfrequenz 6 780 kHz),<br />
@@ -6206,31 +6268,31 @@ nicht zugewiesen
 244 – 246 GHz (Mittenfrequenz 245 GHz)<br />
 sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen dürfen bei Funkdiensten, die in diesen Frequenzbereichen betrieben werden, keine Störungen verursachen.</td>
 </tr>
-<tr class="even">
-<td>D138A</td>
-<td>Bis zum 29. März 2009 ist der Frequenzbereich 6 765 – 7 000 kHz dem festen Funkdienst primär und dem mobilen Landfunkdienst sekundär zugewiesen. Nach diesem Datum ist der Frequenzbereich dem festen Funkdienst und dem Mobilfunkdienst, außer dem mobilen Flugfunkdienst (R), primär zugewiesen.</td>
-</tr>
 <tr class="odd">
+<td>D138A</td>
+<td>(weggefallen)</td>
+</tr>
+<tr class="even">
 <td>D143</td>
 <td>Der Frequenzbereich 7 300 – 7 350 kHz ist zusätzlich dem festen Funkdienst und dem mobilen Landfunkdienst auf sekundärer Basis für Funkverkehr innerhalb der deutschen Grenzen zugewiesen.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>D143B</td>
 <td>Funkstellen des festen Funkdienstes und des mobilen Landfunkdienstes dürfen keine schädlichen Störungen beim Rundfunkdienst verursachen. Frequenzen aus dem Frequenzbereich 7 350 – 7 450 kHz dürfen durch Funkstellen des festen Funkdienstes und des Mobilfunkdienstes nur noch genutzt werden, wenn die abgestrahlte Leistung den Wert von 24 dBW nicht überschreitet.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>D145</td>
 <td>Die Trägerfrequenzen 8 291 kHz, 12 290 kHz und 16 420 kHz werden für Not- und Sicherheitsfunkverkehr im Sprechfunk benutzt.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>D145A</td>
 <td>Funkstellen des nichtnavigatorischen Ortungsfunkdienstes dürfen bei Funkstellen des festen Funkdienstes weder schädliche Störungen verursachen noch können sie verlangen, gegenüber diesen geschützt zu werden. Die Nutzung der Frequenzbereiche 9 305 – 9 355 kHz und 16 100 – 16 200 kHz durch den nichtnavigatorischen Ortungsfunkdienst ist auf ozeanographische Radare begrenzt.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>D146</td>
 <td>Die Frequenzbereiche 9 400 – 9 500 kHz, 11 600 – 11 650 kHz, 12 050 – 12 100 kHz, 15 600 – 15 800 kHz, 17 480 – 17 550 kHz und 18 900 – 19 020 kHz sind zusätzlich dem festen Funkdienst für Funkverkehr innerhalb der deutschen Grenzen auf sekundärer Basis zugewiesen.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>D147</td>
 <td>Unter der Bedingung, dass keine Störungen beim Rundfunkdienst verursacht werden, dürfen Frequenzen in den Frequenzbereichen 9 775 – 9 900 kHz, 11 650 – 11 700 kHz und 11 975 – 12 050 kHz von Funkstellen des festen Funkdienstes benutzt werden, deren Gesamtstrahlungsleistung höchstens 24 dBW beträgt und die ihren Funkverkehr nur innerhalb der deutschen Grenzen abwickeln.</td>
 </tr>
@@ -6246,6 +6308,7 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 <tr class="even">
 <td></td>
 <td>13 360 – 13 410 kHz,<br />
+25 550 – 25 670 kHz,<br />
 37,75 – 38,25 MHz,<br />
 150,05 – 153 MHz,<br />
 322 – 328,6 MHz,<br />
@@ -6264,7 +6327,7 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 </tr>
 <tr class="odd">
 <td></td>
-<td>durch Funkstellen anderer Funkdienste, denen diese Frequenzbereiche ebenfalls zugewiesen sind, werden alle nur möglichen Maßnahmen getroffen, um den Radioastronomiefunkdienst vor Störungen zu schützen.</td>
+<td>durch Funkstellen anderer Funkdienste, denen diese Frequenzbereiche zugewiesen sind, werden alle nur möglichen Maßnahmen getroffen, um den Radioastronomiefunkdienst vor Störungen zu schützen.</td>
 </tr>
 <tr class="even">
 <td>D150</td>
@@ -6321,15 +6384,15 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 </tr>
 <tr class="even">
 <td>D220</td>
-<td>Der mobile Landfunkdienst über Satelliten darf die Entwicklung und Benutzung des Navigationsfunkdienstes über Satelliten in den Frequenzbereichen 149,9 – 150,05 MHz und 399,9 – 400,05 MHz nicht einschränken.</td>
+<td>(weggefallen)</td>
 </tr>
 <tr class="odd">
 <td>D224A</td>
-<td>Die Benutzung der Frequenzbereiche 149,9 – 150,05 MHz und 399,9 – 400,05 MHz durch den Mobilfunkdienst über Satelliten (Richtung Erde – Weltraum) ist bis zum 1. Januar 2015 auf den mobilen Landfunkdienst über Satelliten (Richtung Erde – Weltraum) beschränkt.</td>
+<td>(weggefallen)</td>
 </tr>
 <tr class="even">
 <td>D224B</td>
-<td>Die Zuweisung der Frequenzbereiche 149,9 – 150,05 MHz und 399,9 – 400,05 MHz an den Navigationsfunkdienst über Satelliten gilt bis zum 1. Januar 2015.</td>
+<td>(weggefallen)</td>
 </tr>
 <tr class="odd">
 <td>D226</td>
@@ -6341,7 +6404,7 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 </tr>
 <tr class="odd">
 <td>D227A</td>
-<td>Die Frequenzbereiche 161,9625 – 161,9875 MHz und 162,0125 – 162,0375 MHz sind zusätzlich dem Mobilfunkdienst über Satelliten (Richtung Erde – Weltraum) für den Empfang von Signalen des Automatischen Identifizierungssystems (AIS) im mobilen Seefunkdienst auf sekundärer Basis zugewiesen.</td>
+<td>(weggefallen)</td>
 </tr>
 <tr class="even">
 <td>D228</td>
@@ -6352,36 +6415,44 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 <td>Die Frequenzbereiche 161,9625 – 161,9875 MHz und 162,0125 – 162,0375 MHz dürfen für Such- und Rettungszwecke oder für andere sicherheitsrelevante Kommunikation auch von Luftfunkstellen genutzt werden.</td>
 </tr>
 <tr class="even">
+<td>D228AA</td>
+<td>Die Nutzung der Frequenzbereiche 161,9375 – 161,9625 MHz und 161,9875 – 162,0125 MHz durch den mobilen Seefunkdienst über Satelliten (Richtung Erde – Weltraum) ist auf Aussendungen des Automatischen Identifizierungssystems (AIS) begrenzt.</td>
+</tr>
+<tr class="odd">
 <td>D228B</td>
 <td>Die Nutzung der Frequenzbereiche 161,9625 – 161,9875 MHz und 162,0125 – 162,0375 MHz durch den mobilen Landfunkdienst darf weder schädliche Störungen bei Funkstellen des mobilen Seefunkdienstes verursachen noch Schutz beanspruchen.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>D228F</td>
 <td>Die Nutzung der Frequenzbereiche 161,9625 – 161,9875 MHz und 162,0125 – 162,0375 MHz durch den Mobilfunkdienst über Satelliten (Richtung Erde – Weltraum) ist auf den Empfang von AIS-Aussendungen von Funkstellen des mobilen Seefunkdienstes begrenzt.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>D254</td>
 <td>Die Frequenzbereiche 235 – 322 MHz und 335,4 – 399,9 MHz dürfen vom Mobilfunkdienst über Satelliten unter der Bedingung benutzt werden, dass Funkstellen dieses Dienstes bei Funkstellen anderer Dienste, die in Übereinstimmung mit der Frequenzzuweisungstabelle arbeiten oder deren Betrieb in Übereinstimmung mit der Frequenzzuweisungstabelle geplant ist, keine Störungen verursachen.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>D256</td>
 <td>Die Frequenz 243 MHz ist die im Frequenzbereich 235 – 272 MHz von Rettungsfunkstellen und von Geräten für Rettungszwecke zu benutzende Frequenz.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>D258</td>
 <td>Die Benutzung des Frequenzbereichs 328,6 – 335,4 MHz durch den Flugnavigationsfunkdienst ist auf Instrumentenlandesysteme (Gleitwegsender) beschränkt.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>D261</td>
 <td>Die Aussendungen müssen innerhalb der Grenzen von ± 25 kHz der Normalfrequenz 400,1 MHz gehalten werden.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>D263</td>
 <td>Der Frequenzbereich 400,15 – 401 MHz ist zusätzlich dem Weltraumforschungsfunkdienst in der Richtung Weltraum – Weltraum für Verkehr mit bemannten Weltraumfahrzeugen zugewiesen.</td>
 </tr>
+<tr class="even">
+<td>D265</td>
+<td>Zum Schutz des Empfangs von Signalen von Satellitenfunkbaken zur Kennzeichnung der Notposition (Sat-EPIRB) werden die Verwaltungen aufgefordert, alle notwendigen Maßnahmen zu ergreifen, um Außerband- und Nebenaussendungen aus den Frequenzbereichen 403 – 406 MHz und 406,1 – 410 MHz in den Frequenzbereich 406 – 406,1 MHz zu minimieren sowie schädliche Störungen des Not- und Sicherheitssystems zu eliminieren.</td>
+</tr>
 <tr class="odd">
 <td>D266</td>
-<td>Die Benutzung des Frequenzbereichs 406 – 406,1 MHz durch den Mobilfunkdienst über Satelliten ist auf Satellitenfunkbaken zur Kennzeichnung der Notposition (Sat-EPIRB) beschränkt.</td>
+<td>Die Nutzung des Frequenzbereichs 406 – 406,1 MHz durch den Mobilfunkdienst über Satelliten ist auf Satellitenfunkbaken zur Kennzeichnung der Notposition (Sat-EPIRB) beschränkt.</td>
 </tr>
 <tr class="even">
 <td>D282</td>
@@ -6392,12 +6463,12 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 <td>Der Frequenzbereich 449,75 – 450,25 MHz ist zusätzlich dem Weltraumfernwirkfunkdienst (Richtung Erde – Weltraum) und dem Weltraumforschungsfunkdienst (Richtung Erde – Weltraum) auf sekundärer Basis zugewiesen.</td>
 </tr>
 <tr class="even">
-<td>D286A</td>
+<td>D286AA</td>
 <td>Der Frequenzbereich 450 – 470 MHz ist für die Nutzung durch Internationale Mobile Telekommunikation (IMT) identifiziert. Diese Identifizierung schließt eine Nutzung dieses Frequenzbereichs durch andere Funkstellen von Funkdiensten, denen dieser Frequenzbereich zugewiesen ist, nicht aus und begründet keinen Vorrang in der Frequenzzuweisungstabelle.</td>
 </tr>
 <tr class="odd">
 <td>D287</td>
-<td>Die Frequenzen 457,525 MHz, 457,550 MHz, 457,575 MHz, 467,525 MHz, 467,550 MHz und 467,575 MHz dürfen zusätzlich im mobilen Seefunkdienst von Funkstellen für den Funkverkehr an Bord benutzt werden. Geräte mit 12,5 kHz Kanalraster können auch die Frequenzen 457,5375 MHz, 457,5625 MHz, 467,5375 MHz und 467,5625 MHz nutzen.</td>
+<td>Die Nutzung der Frequenzbereiche 457,5125 – 457,5875 MHz und 467,5125 – 467,5875 MHz im mobilen Seefunkdienst ist auf den Funkverkehr an Bord von Schiffen begrenzt.</td>
 </tr>
 <tr class="even">
 <td>D291A</td>
@@ -6413,7 +6484,7 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 </tr>
 <tr class="odd">
 <td>D317A</td>
-<td>Teile des Frequenzbereichs 790 – 960 MHz sind für die Nutzung durch IMT identifiziert. Diese Identifizierung schließt eine Nutzung dieses Frequenzbereichs durch andere Funkstellen von Funkdiensten, denen dieser Frequenzbereich zugewiesen ist, nicht aus und begründet keinen Vorrang in der Frequenzzuweisungstabelle.</td>
+<td>Teile des Frequenzbereichs 694 – 960 MHz sind für die Nutzung durch IMT identifiziert. Diese Identifizierung schließt eine Nutzung dieses Frequenzbereichs durch andere Funkstellen von Funkdiensten, denen dieser Frequenzbereich zugewiesen ist, nicht aus und begründet keinen Vorrang in der Frequenzzuweisungstabelle.</td>
 </tr>
 <tr class="even">
 <td>D327A</td>
@@ -6421,39 +6492,47 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 </tr>
 <tr class="odd">
 <td>D328</td>
-<td>Die Benutzung des Frequenzbereichs 960 – 1 215 MHz durch den Flugnavigationsfunkdienst ist auf weltweiter Basis dem Betrieb und der Entwicklung elektronischer Flugnavigationshilfen an Bord von Luftfahrzeugen sowie der zugehörigen Einrichtungen am Boden vorbehalten.</td>
+<td>Die Nutzung des Frequenzbereichs 960 – 1 215 MHz durch den Flugnavigationsfunkdienst ist auf weltweiter Basis dem Betrieb und der Entwicklung elektronischer Flugnavigationshilfen an Bord von Luftfahrzeugen sowie der zugehörigen Einrichtungen am Boden vorbehalten.</td>
 </tr>
 <tr class="even">
 <td>D328A</td>
 <td>Funkstellen des Navigationsfunkdienstes über Satelliten im Frequenzbereich 1 164 – 1 215 MHz genießen keinen Schutz vor Störungen durch Funkstellen des Flugnavigationsfunkdienstes im Frequenzbereich 960 – 1 215 MHz.</td>
 </tr>
 <tr class="odd">
+<td>D328AA</td>
+<td>Der Frequenzbereich 1 087,7 – 1 092,3 MHz ist zusätzlich dem mobilen Flugfunkdienst (R) über Satelliten (Richtung Erde-Weltraum) auf primärer Basis zugewiesen. Die Zuweisung ist begrenzt auf den Satelliten-Empfang von Automatic-Dependent-Surveillance-Broadcast-Aussendungen, die in Übereinstimmung mit dem anerkannten Luftfahrtstandard betrieben werden. Empfangsfunkstellen des mobilen Flugfunkdienstes (R) über Satelliten genießen keinen Schutz vor Störungen durch Aussendungen des Flugnavigationsfunkdienstes.</td>
+</tr>
+<tr class="even">
 <td>D329</td>
 <td>Im Frequenzbereich 1 215 – 1 300 MHz darf der Navigationsfunkdienst über Satelliten keine Störungen beim Navigationsfunkdienst hervorrufen und kann gegenüber diesem keinen Schutz vor Störungen beanspruchen. Der Navigationsfunkdienst über Satelliten im Frequenzbereich 1 215 – 1 300 MHz darf keine Störungen beim Ortungsfunkdienst hervorrufen.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>D329A</td>
 <td>Einrichtungen des Navigationsfunkdienstes über Satelliten (Richtung Weltraum – Weltraum), die in den Frequenzbereichen 1 215 – 1 300 MHz und 1 559 – 1 610 MHz betrieben werden, können gegenüber anderen Funkdiensten, die in Übereinstimmung mit der Frequenzzuweisungstabelle betrieben werden, keinen Schutz verlangen.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>D337</td>
-<td>Die Benutzung der Frequenzbereiche 1 340 – 1 350 MHz, 2 700 – 2 900 MHz und 9 000 – 9 200 MHz durch den Flugnavigationsfunkdienst ist auf Radaranlagen am Boden und auf diejenigen zugehörigen Transponder in Luftfahrzeugen beschränkt, die nur auf den in diesen Frequenzbereichen liegenden Frequenzen senden, und zwar nur dann, wenn sie durch Radargeräte, die in demselben Frequenzbereich arbeiten, in Betrieb gesetzt werden.</td>
+<td>Die Nutzung der Frequenzbereiche 1 340 – 1 350 MHz, 2 700 – 2 900 MHz und 9 000 – 9 200 MHz durch den Flugnavigationsfunkdienst ist auf Radaranlagen am Boden und auf diejenigen zugehörigen Transponder in Luftfahrzeugen beschränkt, die nur auf den in diesen Frequenzbereichen liegenden Frequenzen senden, und zwar nur dann, wenn sie durch Radargeräte, die in demselben Frequenzbereich arbeiten, in Betrieb gesetzt werden.</td>
+</tr>
+<tr class="odd">
+<td>D337A</td>
+<td>Die Nutzung des Frequenzbereichs 1 340 – 1 350 MHz durch Erdfunkstellen des Navigationsfunkdienstes über Satelliten darf weder schädliche Störungen beim Flugnavigationsfunkdienst hervorrufen noch den Betrieb und die Entwicklung des Flugnavigationsfunkdienstes beeinträchtigen.</td>
 </tr>
 <tr class="even">
-<td>D337A</td>
-<td>Die Benutzung des Frequenzbereichs 1 340 – 1 350 MHz durch Erdfunkstellen des Navigationsfunkdienstes über Satelliten darf weder schädliche Störungen beim Flugnavigationsfunkdienst hervorrufen noch den Betrieb und die Entwicklung des Flugnavigationsfunkdienstes beeinträchtigen.</td>
-</tr>
-<tr class="odd">
 <td>D338A</td>
 <td>Zum Schutz von Anwendungen des Erderkundungsfunkdienstes über Satelliten (passiv) unterliegen die anderen Funkdienste in den Frequenzbereichen 1 350 – 1 400 MHz, 1 427 – 1 452 MHz, 22,55 – 23,55 GHz, 30 – 31,3 MHz, 49,7 – 50,2 GHz, 50,4 – 50,9 GHz, 51,4 – 52,6 GHz, 81 – 86 GHz und 92 – 94 GHz besonderen internationalen Vorgaben.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>D339</td>
 <td>Die Frequenzbereiche 1 370 – 1 400 MHz, 2 640 – 2 655 MHz, 4 950 – 4 990 MHz und 15,20 – 15,35 GHz sind zusätzlich dem Weltraumforschungsfunkdienst (passiv) und dem Erderkundungsfunkdienst über Satelliten (passiv) auf sekundärer Basis zugewiesen.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>D340</td>
 <td>In den folgenden Frequenzbereichen sind Aussendungen nicht zugelassen: 1 400 – 1 427 MHz, 2 690 – 2 700 MHz, 10,68 – 10,7 GHz, 15,35 – 15,4 GHz, 23,6 – 24 GHz, 31,3 – 31,5 GHz, 48,94 – 49,04 GHz von in der Luft befindlichen Funkstellen, 50,2 – 50,4 GHz, 52,6 – 54,25 GHz, 86 – 92 GHz, 100 – 102 GHz, 109,5 – 111,8 GHz, 114,25 – 116 GHz, 148,5 – 151,5 GHz 164 – 167 GHz, 182 – 185 GHz, 190 – 191,8 GHz, 200 – 209 GHz, 226 – 231,5 GHz und 250 – 252 GHz.</td>
+</tr>
+<tr class="odd">
+<td>D341A</td>
+<td>Die Frequenzbereiche 1 427 – 1 452 MHz und 1 492 – 1 518 MHz sind für die Nutzung durch IMT identifiziert. Diese Identifizierung schließt eine Nutzung dieses Frequenzbereichs durch andere Funkstellen von Funkdiensten, denen dieser Frequenzbereich zugewiesen ist, nicht aus und begründet keinen Vorrang in der Frequenzzuweisungstabelle.</td>
 </tr>
 <tr class="even">
 <td>D345</td>
@@ -6477,7 +6556,7 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 </tr>
 <tr class="odd">
 <td>D356</td>
-<td>Die Benutzung des Frequenzbereichs 1 544 – 1 545 MHz durch den Mobilfunkdienst über Satelliten (Richtung Weltraum – Erde) ist auf Not- und Sicherheitsverkehr beschränkt.</td>
+<td>Die Nutzung des Frequenzbereichs 1 544 – 1 545 MHz durch den Mobilfunkdienst über Satelliten (Richtung Weltraum – Erde) ist auf Not- und Sicherheitsverkehr beschränkt.</td>
 </tr>
 <tr class="even">
 <td>D357</td>
@@ -6489,7 +6568,7 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 </tr>
 <tr class="even">
 <td>D362B</td>
-<td>Funkstellen des festen Funkdienstes können im Frequenzbereich 1 559 – 1 610 MHz auf sekundärer Basis bis zum 1. Januar 2015 weiterhin betrieben werden.</td>
+<td>(weggefallen)</td>
 </tr>
 <tr class="odd">
 <td>D364</td>
@@ -6509,7 +6588,7 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 </tr>
 <tr class="odd">
 <td>D375</td>
-<td>Die Benutzung des Frequenzbereichs 1 645,5 – 1 646,5 MHz durch den Mobilfunkdienst über Satelliten (Richtung Erde – Weltraum) und für Intersatellitenfunkverbindungen ist auf Not- und Sicherheitsverkehr beschränkt.</td>
+<td>Die Nutzung des Frequenzbereichs 1 645,5 – 1 646,5 MHz durch den Mobilfunkdienst über Satelliten (Richtung Erde – Weltraum) und für Intersatellitenfunkverbindungen ist auf Not- und Sicherheitsverkehr beschränkt.</td>
 </tr>
 <tr class="even">
 <td>D376</td>
@@ -6537,19 +6616,27 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 </tr>
 <tr class="even">
 <td>D425</td>
-<td>Im Frequenzbereich 2 900 – 3 100 MHz ist die Benutzung von Abfragetranspondersystemen an Bord von Schiffen auf den Frequenzteilbereich 2 930 – 2 950 MHz beschränkt.</td>
+<td>Im Frequenzbereich 2 900 – 3 100 MHz ist die Nutzung von Abfragetranspondersystemen an Bord von Schiffen auf den Frequenzteilbereich 2 930 – 2 950 MHz beschränkt.</td>
 </tr>
 <tr class="odd">
 <td>D426</td>
-<td>Die Benutzung des Frequenzbereichs 2 900 – 3 100 MHz durch den Flugnavigationsfunkdienst ist auf Radaranlagen am Boden beschränkt.</td>
+<td>Die Nutzung des Frequenzbereichs 2 900 – 3 100 MHz durch den Flugnavigationsfunkdienst ist auf Radaranlagen am Boden beschränkt.</td>
 </tr>
 <tr class="even">
 <td>D430A</td>
 <td>Der Frequenzbereich 3 400 – 3 600 MHz ist zusätzlich für den Mobilfunkdienst, außer dem mobilen Flugfunkdienst, für die Nutzung durch IMT vorgesehen. Diese Identifizierung schließt eine Nutzung dieses Frequenzbereichs durch andere Funkstellen von Funkdiensten, denen dieser Frequenzbereich zugewiesen ist, nicht aus und begründet keinen Vorrang in der Frequenzzuweisungstabelle.</td>
 </tr>
 <tr class="odd">
+<td>D436</td>
+<td>Passive Sensoren des Erderkundungsfunkdienstes über Satelliten und des Weltraumforschungsfunkdienstes dürfen den Frequenzbereich 4 200 – 4 400 MHz auf sekundärer Basis mitnutzen.</td>
+</tr>
+<tr class="even">
+<td>D437</td>
+<td>Die Nutzung des Frequenzbereichs 4 200 – 4 400 MHz durch Funkstellen des mobilen Flugfunkdienstes (R) ist begrenzt auf drahtlose flugzeuginterne Avioniksysteme, die in Übereinstimmung mit international anerkannten Luftfahrtstandards arbeiten.</td>
+</tr>
+<tr class="odd">
 <td>D438</td>
-<td>Die Benutzung des Frequenzbereichs 4 200 – 4 400 MHz durch den Flugnavigationsfunkdienst ist ausschließlich den Funkhöhenmessern an Bord von Luftfahrzeugen sowie den zugehörigen automatischen Antwortgeräten am Boden vorbehalten. Zusätzlich ist dieser Bereich dem Erderkundungsfunkdienst über Satelliten und dem Weltraumforschungsfunkdienst für die Benutzung passiver Sensoren auf sekundärer Basis zugewiesen.</td>
+<td>Die Benutzung des Frequenzbereichs 4 200 – 4 400 MHz durch den Flugnavigationsfunkdienst ist ausschließlich den Funkhöhenmessern an Bord von Luftfahrzeugen sowie den zugehörigen automatischen Antwortgeräten am Boden vorbehalten.</td>
 </tr>
 <tr class="even">
 <td>D443AA</td>
@@ -6569,7 +6656,7 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 </tr>
 <tr class="even">
 <td>D444A</td>
-<td>Die Zuweisung für den festen Funkdienst über Satelliten (Richtung Erde – Weltraum) im Frequenzbereich 5 091 – 5 150 MHz ist auf Speiseverbindungen für nichtgeostationäre Satellitensysteme des Mobilfunkdienstes über Satelliten beschränkt. Nach dem 1. Januar 2016 werden keine neuen Zuteilungen an Funkstellen dieses Dienstes erfolgen. Nach dem 1. Januar 2018 hat der feste Funkdienst über Satelliten gegenüber dem Flugnavigationsfunkdienst sekundären Status.</td>
+<td>Die Zuweisung für den festen Funkdienst über Satelliten (Richtung Erde – Weltraum) im Frequenzbereich 5 091 – 5 150 MHz ist auf Speiseverbindungen für nichtgeostationäre Satellitensysteme des Mobilfunkdienstes über Satelliten beschränkt. Ferner ist, um den Flugnavigationsdienst vor schädlichen Störungen zu schützen, eine Koordinierung in den Fällen erforderlich, in denen Erdfunkstellen mit Speiseverbindungen für nichtgeostationäre Satellitensysteme des Mobilfunkdienstes über Satelliten mit einem Abstand von weniger als 450 km zur Grenze eines Landes betrieben werden, das Bodenstationen des Flugnavigationsfunkdienstes betreibt.</td>
 </tr>
 <tr class="odd">
 <td>D444B</td>
@@ -6616,7 +6703,7 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 </tr>
 <tr class="odd">
 <td>D449</td>
-<td>Die Benutzung des Frequenzbereichs 5 350 – 5 470 MHz durch den Flugnavigationsfunkdienst ist auf Radaranlagen in Luftfahrzeugen und auf zugehörige Antwortbaken in Luftfahrzeugen beschränkt.</td>
+<td>Die Nutzung des Frequenzbereichs 5 350 – 5 470 MHz durch den Flugnavigationsfunkdienst ist auf Radaranlagen in Luftfahrzeugen und auf zugehörige Antwortbaken in Luftfahrzeugen beschränkt.</td>
 </tr>
 <tr class="even">
 <td>D450A</td>
@@ -6635,8 +6722,16 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 <td>Die Zuweisung Richtung Weltraum – Erde an den festen Funkdienst über Satelliten im Frequenzbereich 6 700 – 7 075 MHz ist auf Speiseverbindungen für nichtgeostationäre Satellitensysteme des Mobilfunkdienstes über Satelliten beschränkt.</td>
 </tr>
 <tr class="even">
+<td>D460A</td>
+<td>Die Nutzung des Frequenzbereichs 7 190 – 7 250 MHz im Erderkundungsfunkdienst über Satelliten (Richtung Erde – Weltraum) ist auf Bahnverfolgung, Fernmessen und Fernsteuern von Weltraumfahrzeugen begrenzt. Raumstationen, die im Erderkundungsfunkdienst über Satelliten (Richtung Erde – Weltraum) betrieben werden, können keinen Schutz von bestehenden oder zukünftigen Funkstellen des festen Funkdienstes und des mobilen Funkdienstes verlangen.</td>
+</tr>
+<tr class="odd">
+<td>D460B</td>
+<td>Weltraumstationen im geostationären Orbit, die im Erderkundungsfunkdienst über Satelliten (Richtung Erde – Weltraum) im Frequenzbereich 7 190 – 7 235 MHz arbeiten, können keinen Schutz von bestehenden oder zukünftigen Systemen des Weltraumforschungsfunkdienstes verlangen.</td>
+</tr>
+<tr class="even">
 <td>D460</td>
-<td>Der Frequenzbereich 7 145 – 7 235 MHz ist zusätzlich dem Weltraumforschungsfunkdienst (Richtung Erde – Weltraum) auf primärer Basis zugewiesen. Die Benutzung des Frequenzbereichs 7 145 – 7 190 MHz ist auf den fernen Weltraum beschränkt; der Frequenzbereich 7 190 – 7 235 MHz darf nicht für Aussendungen in den fernen Weltraum benutzt werden.</td>
+<td>(weggefallen)</td>
 </tr>
 <tr class="odd">
 <td>D461</td>
@@ -6644,11 +6739,19 @@ sind für ISM-Anwendungen bestimmt. ISM-Anwendungen in diesen Frequenzbereichen 
 </tr>
 <tr class="even">
 <td>D461A</td>
-<td>Die Benutzung des Frequenzbereichs 7 450 – 7 550 MHz durch den Wetterfunkdienst über Satelliten (Richtung Weltraum – Erde) ist auf geostationäre Satellitensysteme beschränkt. Nichtgeostationäre Satellitenwetterfunksysteme in diesem Frequenzbereich, die vor dem 30. November 1997 notifiziert wurden, dürfen bis zu ihrem Lebensende auf primärer Basis betrieben werden.</td>
+<td>Die Nutzung des Frequenzbereichs 7 450 – 7 550 MHz durch den Wetterfunkdienst über Satelliten (Richtung Weltraum – Erde) ist auf geostationäre Satellitensysteme beschränkt. Nichtgeostationäre Satellitenwetterfunksysteme in diesem Frequenzbereich, die vor dem 30. November 1997 notifiziert wurden, dürfen bis zu ihrem Lebensende auf primärer Basis betrieben werden.</td>
+</tr>
+<tr class="odd">
+<td>D461AA</td>
+<td>Die Nutzung des Frequenzbereichs 7 375 – 7 750 MHz durch den mobilen Seefunk über Satelliten ist auf geostationäre Satellitensysteme begrenzt.</td>
+</tr>
+<tr class="even">
+<td>D461AB</td>
+<td>Erdfunkstellen des mobilen Seefunkdienstes über Satelliten können weder Schutz verlangen noch die Nutzung und Weiterentwicklung des festen Funkdienstes und des mobilen Funkdienstes einschränken.</td>
 </tr>
 <tr class="odd">
 <td>D461B</td>
-<td>Die Benutzung des Frequenzbereichs 7 750 – 7 900 MHz durch den Wetterfunkdienst über Satelliten (Richtung Weltraum – Erde) ist auf nichtgeostationäre Satellitensysteme beschränkt.</td>
+<td>Die Nutzung des Frequenzbereichs 7 750 – 7 900 MHz durch den Wetterfunkdienst über Satelliten (Richtung Weltraum – Erde) ist auf nichtgeostationäre Satellitensysteme beschränkt.</td>
 </tr>
 <tr class="even">
 <td>D462A</td>
@@ -6675,8 +6778,16 @@ in einem 1 MHz breiten Frequenzband für 5° ≤ θ &lt; 25°<br />
 <td>Im Frequenzbereich 9 200 – 9 500 MHz dürfen Such- und Rettungstransponder (SART) benutzt werden.</td>
 </tr>
 <tr class="odd">
+<td>D474A</td>
+<td>Die Nutzung der Frequenzbänder 9 200 – 9 300 MHz und 9 900 – 10 400 MHz durch den Erderkundungsfunkdienst über Satelliten (aktiv) ist auf Systeme begrenzt, die eine Bandbreite von mehr als 600 MHz benötigen und nicht vollständig im Frequenzbereich 9 300 – 9 900 MHz untergebracht werden können.</td>
+</tr>
+<tr class="even">
+<td>D474D</td>
+<td>Funkstellen des Erderkundungsfunkdienstes über Satelliten (aktiv) dürfen weder schädliche Störungen hervorrufen noch Schutz von Funkstellen des Seenavigationsfunkdienstes im Frequenzbereich 9 200 – 9 300 MHz und des nichtnavigatorischen Ortungsfunkdienstes in den Frequenzbereichen 9 200 – 9 300 MHz und 9 900 – 10 000 MHz verlangen.</td>
+</tr>
+<tr class="odd">
 <td>D475</td>
-<td>Die Benutzung des Frequenzbereichs 9 300 – 9 500 MHz durch den Flugnavigationsfunkdienst ist auf Wetterradaranlagen in Luftfahrzeugen und auf Radaranlagen am Boden beschränkt. Darüber hinaus sind Radarantwortbaken am Boden im Flugnavigationsfunkdienst im Frequenzbereich 9 300 – 9 320 MHz zulässig, vorausgesetzt, dass beim Seenavigationsfunkdienst keine Störungen verursacht werden.</td>
+<td>Die Nutzung des Frequenzbereichs 9 300 – 9 500 MHz durch den Flugnavigationsfunkdienst ist auf Wetterradaranlagen in Luftfahrzeugen und auf Radaranlagen am Boden beschränkt. Darüber hinaus sind Radarantwortbaken am Boden im Flugnavigationsfunkdienst im Frequenzbereich 9 300 – 9 320 MHz zulässig, vorausgesetzt, dass beim Seenavigationsfunkdienst keine Störungen verursacht werden.</td>
 </tr>
 <tr class="even">
 <td>D475A</td>
@@ -6716,7 +6827,7 @@ in einem 1 MHz breiten Frequenzband für 5° ≤ θ &lt; 25°<br />
 </tr>
 <tr class="odd">
 <td>D497</td>
-<td>Die Benutzung des Frequenzbereichs 13,25 – 13,4 GHz durch den Flugnavigationsfunkdienst ist auf Dopplernavigationshilfen beschränkt.</td>
+<td>Die Nutzung des Frequenzbereichs 13,25 – 13,4 GHz durch den Flugnavigationsfunkdienst ist auf Dopplernavigationshilfen beschränkt.</td>
 </tr>
 <tr class="even">
 <td>D502</td>
@@ -6762,7 +6873,7 @@ Diese Identifikation schließt nicht die Nutzung der Frequenzbereiche durch ande
 </tr>
 <tr class="even">
 <td>D523B</td>
-<td>Die Benutzung des Frequenzbereichs 19,3 – 19,6 GHz (Richtung Erde – Weltraum) durch den festen Funkdienst über Satelliten ist auf Speiseverbindungen für nichtgeostationäre Satelliten im Mobilfunkdienst über Satelliten beschränkt.</td>
+<td>Die Nutzung des Frequenzbereichs 19,3 – 19,6 GHz (Richtung Erde – Weltraum) durch den festen Funkdienst über Satelliten ist auf Speiseverbindungen für nichtgeostationäre Satelliten im Mobilfunkdienst über Satelliten beschränkt.</td>
 </tr>
 <tr class="odd">
 <td>D526</td>
@@ -6774,11 +6885,11 @@ Diese Identifikation schließt nicht die Nutzung der Frequenzbereiche durch ande
 </tr>
 <tr class="odd">
 <td>D530B</td>
-<td>Die Benutzung des Frequenzbereichs 21,4 – 22 GHz durch Funkstellen des festen Funkdienstes ist beschränkt auf Punkt-zu-Punkt-Verbindungen.</td>
+<td>Die Nutzung des Frequenzbereichs 21,4 – 22 GHz durch Funkstellen des festen Funkdienstes ist beschränkt auf Punkt-zu-Punkt-Verbindungen.</td>
 </tr>
 <tr class="even">
 <td>D530C</td>
-<td>Bei der Benutzung des Frequenzbereichs 21,4 – 22 GHz sind die festgelegten Grenzwerte für die Leistungsflussdichte zu beachten.</td>
+<td>(weggefallen)</td>
 </tr>
 <tr class="odd">
 <td>D532B</td>
@@ -6786,11 +6897,11 @@ Diese Identifikation schließt nicht die Nutzung der Frequenzbereiche durch ande
 </tr>
 <tr class="even">
 <td>D535A</td>
-<td>Die Benutzung des Frequenzbereichs 29,1 – 29,4 GHz (Richtung Erde – Weltraum) durch den festen Funkdienst über Satelliten ist auf geostationäre Satellitensysteme und auf Speiseverbindungen zu nichtgeostationären Satellitensystemen im Mobilfunkdienst über Satelliten beschränkt.</td>
+<td>Die Nutzung des Frequenzbereichs 29,1 – 29,4 GHz (Richtung Erde – Weltraum) durch den festen Funkdienst über Satelliten ist auf geostationäre Satellitensysteme und auf Speiseverbindungen zu nichtgeostationären Satellitensystemen im Mobilfunkdienst über Satelliten beschränkt.</td>
 </tr>
 <tr class="odd">
 <td>D536</td>
-<td>Die Benutzung des Frequenzbereichs 25,25 – 27,5 GHz durch den Intersatellitenfunkdienst ist auf den Weltraumforschungsfunk- und Erderkundungsfunkdienst über Satelliten sowie auf Aussendungen von Daten, die aus industriellen und medizinischen Aktivitäten im Weltraum stammen, beschränkt.</td>
+<td>Die Nutzung des Frequenzbereichs 25,25 – 27,5 GHz durch den Intersatellitenfunkdienst ist auf den Weltraumforschungsfunk- und Erderkundungsfunkdienst über Satelliten sowie auf Aussendungen von Daten, die aus industriellen und medizinischen Aktivitäten im Weltraum stammen, beschränkt.</td>
 </tr>
 <tr class="even">
 <td>D538</td>
@@ -6834,7 +6945,7 @@ Diese Identifikation schließt nicht die Nutzung der Frequenzbereiche durch ande
 </tr>
 <tr class="even">
 <td>D556A</td>
-<td>Die Benutzung der Frequenzbereiche 54,25 – 56,9 GHz, 57 – 58,2 GHz und 59 – 59,3 GHz durch den Intersatellitenfunkdienst ist auf Satelliten in geostationärer Umlaufbahn beschränkt. Die von einer Funkstelle des Intersatellitenfunkdienstes unter allen Bedingungen und bei allen Modulationsverfahren in einer beliebigen Höhe von 0 km bis 1 000 km über der Erdoberfläche erzeugte Leistungsflussdichte darf –147 dB (W/[m<sup>2</sup>·• 100 MHz]) für beliebige Einfallswinkel nicht überschreiten.</td>
+<td>Die Nutzung der Frequenzbereiche 54,25 – 56,9 GHz, 57 – 58,2 GHz und 59 – 59,3 GHz durch den Intersatellitenfunkdienst ist auf Satelliten in geostationärer Umlaufbahn beschränkt. Die von einer Funkstelle des Intersatellitenfunkdienstes unter allen Bedingungen und bei allen Modulationsverfahren in einer beliebigen Höhe von 0 km bis 1 000 km über der Erdoberfläche erzeugte Leistungsflussdichte darf –147 dB (W/[m<sup>2</sup>·• 100 MHz]) für beliebige Einfallswinkel nicht überschreiten.</td>
 </tr>
 <tr class="odd">
 <td>D557A</td>
@@ -6846,41 +6957,45 @@ Diese Identifikation schließt nicht die Nutzung der Frequenzbereiche durch ande
 </tr>
 <tr class="odd">
 <td>D558A</td>
-<td>Die Benutzung des Frequenzbereichs 56,9 – 57 GHz durch den Intersatellitenfunkdienst ist auf Verbindungen zwischen Satelliten im geostationären Orbit und auf Übertragungen von nichtgeostationären Satelliten in hohen Erdumlaufbahnen zu solchen in niedrigen Erdumlaufbahnen beschränkt. Bei Verbindungen zwischen Satelliten im geostationären Orbit darf die unter allen Bedingungen und bei allen Modulationsverfahren in einer beliebigen Höhe von 0 km bis 1 000 km über der Erdoberfläche erzeugte Leistungsflussdichte den Wert von –147 dB (W/[m<sup>2</sup>·100 • MHz]) für beliebige Einfallswinkel nicht überschreiten.</td>
+<td>Die Nutzung des Frequenzbereichs 56,9 – 57 GHz durch den Intersatellitenfunkdienst ist auf Verbindungen zwischen Satelliten im geostationären Orbit und auf Übertragungen von nichtgeostationären Satelliten in hohen Erdumlaufbahnen zu solchen in niedrigen Erdumlaufbahnen beschränkt. Bei Verbindungen zwischen Satelliten im geostationären Orbit darf die unter allen Bedingungen und bei allen Modulationsverfahren in einer beliebigen Höhe von 0 km bis 1 000 km über der Erdoberfläche erzeugte Leistungsflussdichte den Wert von –147 dB (W/[m<sup>2</sup>·100 • MHz]) für beliebige Einfallswinkel nicht überschreiten.</td>
 </tr>
 <tr class="even">
 <td>D559</td>
 <td>Im Frequenzbereich 59 – 64 GHz dürfen in Luftfahrzeugen betriebene Radaranlagen des nichtnavigatorischen Ortungsfunkdienstes keine Störungen beim Intersatellitenfunkdienst verursachen.</td>
 </tr>
 <tr class="odd">
+<td>D559B</td>
+<td>Die Nutzung des Frequenzbereichs 77,5 – 78 GHz durch Funkanlagen des nichtnavigatorischen Ortungsfunkdienstes ist auf Kurzstreckenradare, inklusive Fahrzeugradaranwendungen am Boden, begrenzt.</td>
+</tr>
+<tr class="even">
 <td>D560</td>
 <td>Im Frequenzbereich 78 – 79 GHz dürfen Radaranlagen in Weltraumfunkstellen im Erderkundungsfunkdienst über Satelliten und im Weltraumforschungsfunkdienst auf primärer Basis betrieben werden.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>D561</td>
 <td>Im Frequenzbereich 74 – 76 GHz dürfen Funkstellen des festen Funkdienstes, des Mobilfunkdienstes und des Rundfunkdienstes keine schädlichen Störungen bei Funkstellen des festen Funkdienstes über Satelliten und des Rundfunkdienstes über Satelliten hervorrufen.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>D561A</td>
 <td>Der Frequenzbereich 81 – 81,5 GHz ist zusätzlich dem Amateurfunkdienst und dem Amateurfunkdienst über Satelliten auf sekundärer Basis zugewiesen.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>D562E</td>
 <td>Die Zuweisung an den Erderkundungsfunkdienst ist auf den Frequenzbereich 133,5 – 134 GHz beschränkt.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>D562F</td>
 <td>Im Frequenzbereich 155,5 – 158,5 GHz endet die Zuweisung an den Erderkundungsfunkdienst über Satelliten (passiv) und den Weltraumforschungsfunkdienst (passiv) am 1. Januar 2018.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>D562G</td>
 <td>Im Frequenzbereich 155,5 – 158,5 GHz beginnt die Zuweisung an den festen Funkdienst und Mobilfunkdienst am 1. Januar 2018.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>D563B</td>
 <td>Der Frequenzbereich 237,9 – 238 GHz ist auch dem Erderkundungsfunkdienst über Satelliten (aktiv) und dem Weltraumforschungsfunkdienst (aktiv) für den Betrieb von Radargeräten zur Wolkenbeobachtung in Weltraumfunkstellen zugewiesen.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>D565</td>
 <td>(1) Der Frequenzbereich 275 – 3 000 GHz kann für Infrarotfunkanlagen und optische Funkanlagen sowie für Versuche zur Entwicklung von Funksystemen genutzt werden. Es dürfen keine Störungen beim Radioastronomiefunkdienst, Erderkundungsfunkdienst über Satelliten (passiv) und Weltraumforschungsfunkdienst (passiv) hervorgerufen werden, wenn diese Funkdienste Frequenzbereiche nach Absatz 3 nutzen. Schutz vor Störungen durch Frequenznutzungen nach Absatz 2 kann nicht beansprucht werden.<br />
 (2) Die Frequenzbereiche 444 – 453 GHz, 510 – 546 GHz, 711 – 730 GHz, 909 – 926 GHz, 945 – 951 GHz und Frequenzen oberhalb von 956 GHz können auch von Amateurfunkstellen genutzt werden. Amateurfunkstellen können keinen Schutz vor Störungen durch Frequenznutzungen nach Absatz 1 beanspruchen.<br />
@@ -6904,7 +7019,7 @@ Diese Identifikation schließt nicht die Nutzung der Frequenzbereiche durch ande
 |  9  | Frequenzen aus dem Frequenzbereich 26 560 – 27 410 kHz können für CB-Funkanlagen mitgenutzt werden.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | 10  | Die Frequenzbereiche 6 765 – 6 795 kHz, 13 553 – 13 567 kHz, 26 957 – 27 283 kHz, 40,66 – 40,70 MHz, 433,05 – 434,79 MHz, 2 400 – 2 483,5 MHz, 5 725 – 5 875 MHz, 24 – 24,25 GHz, 61 – 61,5 GHz, 122 – 123 GHz und 244 – 246 GHz können durch Funkanlagen geringer Reichweite mitgenutzt werden.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | 11  | Die Frequenzteilbereiche 30,3 – 30,5 MHz und 32,15 – 32,45 MHz werden durch das Bundesministerium der Verteidigung verwaltet.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| 12  | Der Frequenzbereich 50,08 – 51 MHz ist zusätzlich dem Amateurfunkdienst auf sekundärer Basis zugewiesen. Die maximale Strahlungsleistung einer Amateurfunkstelle darf 25 Watt ERP nicht überschreiten.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 12  | Der Frequenzbereich 50,03 – 51 MHz ist zusätzlich dem Amateurfunkdienst auf sekundärer Basis zugewiesen. Die maximale Strahlungsleistung einer Amateurfunkstelle darf 25 Watt ERP nicht überschreiten.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | 13  | In den Frequenzbereichen 70 – 74,2 MHz, 78,7 – 84 MHz, 138 – 144 MHz, 272 – 273 MHz, 322 – 328,6 MHz, 1 215 – 1 250 MHz, 1 260 – 1 340 MHz, 1 492 – 1 518 MHz, 4 800 – 5 000 MHz, 5 650 – 5 755 MHz, 7 750 – 7 850 MHz, 8 025 – 8 400 MHz, 9 500 – 9 900 MHz, 10 – 10,4 GHz, 13,4 – 13,75 GHz, 15,7 – 17,3 GHz, 36 – 37 GHz, 43,5 – 47 GHz, 81 – 84 GHz und 95 – 100 GHz werden Einzelfrequenzen für zivile Zwecke genutzt.                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | 14  | Frequenzen aus den Frequenzbereichen 87,5 – 108 MHz, 174 – 223 MHz und 470 – 790 MHz können für nichtöffentliche, ortsfeste Übertragungen innerhalb eines Grundstückes mit einer Sendeleistung von maximal 50 mW ERP und mit der im jeweiligen Frequenzbereich verwendeten Rundfunkübertragungstechnik genutzt werden. Diese Nutzungen genießen keinerlei Schutz gegenüber dem Rundfunkdienst und dürfen keine schädlichen Störungen des Rundfunkdienstes verursachen.                                                                                                                                                                                                                                                                                                                                                                              |
 | 15  | Für Such- und Rettungszwecke können militärische Luftfunkstellen die Frequenzen 156,3 MHz, 156,375 MHz, 156,5 MHz und 156,675 MHz des UKW-Seefunkdienstes mitbenutzen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -6913,7 +7028,7 @@ Diese Identifikation schließt nicht die Nutzung der Frequenzbereiche durch ande
 | 18  | nicht genutzt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 19  | Im Frequenzbereich 430 – 440 MHz können Einzelfrequenzen für militärischen nichtnavigatorischen Ortungsfunk mitbenutzt werden.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | 20  | Die Frequenzbereiche 443,6 – 444,9625 MHz und 448,6 – 449,9625 MHz sind zusätzlich dem festen Funkdienst auf sekundärer Basis zur Verwendung für Festfunkzubringer der BOS zugewiesen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 21  | Bei Benutzung des Kanals 38 (606 – 614 MHz) durch den Fernsehrundfunk ist der Schutz der Radioastronomiefunkstelle Effelsberg sicherzustellen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 21  | Bei Nutzung des Kanals 38 (606 – 614 MHz) durch den Fernsehrundfunk ist der Schutz der Radioastronomiefunkstelle Effelsberg sicherzustellen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 22  | nicht genutzt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 23  | Der Frequenzbereich 1 270 – 1 295 MHz (vorzugsweise die Frequenz 1 290 MHz) kann auch durch Windprofil-Messradaranlagen auf sekundärer Basis genutzt werden.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 24  | Im Frequenzbereich 1 559 – 1 610 MHz gewährleistet der militärische Bedarfsträger zivilen Nutzern den Schutz des Empfangs von Aussendungen des Global Positioning System (GPS) und künftiger europäischer Systeme des Navigationsfunkdienstes über Satelliten.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -6928,11 +7043,11 @@ Diese Identifikation schließt nicht die Nutzung der Frequenzbereiche durch ande
 | 33  | Einzelfrequenzen aus den Frequenzbereichen 2 700 – 2 900 MHz und 3 400 – 3 600 MHz können durch drahtlose Kameras mitgenutzt werden. Diese Nutzungen genießen keinerlei Schutz gegenüber Funkdiensten, denen diese Frequenzbereiche zugewiesen sind, und dürfen keine schädlichen Störungen bei diesen Diensten verursachen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 34  | Der Frequenzbereich 21,65 – 26,65 GHz darf durch Kraftfahrzeug-Kurzstreckenradare mitgenutzt werden. Die Mitnutzung ist bis zum 31. Dezember 2021 befristet.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 35  | Die Frequenzbereiche 4 825 – 4 835 MHz und 4 950 – 4 990 MHz sind von der Zuweisung an den Mobilfunkdienst ausgenommen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 36  | Der Frequenzbereich 790 – 862 MHz ist im Benehmen mit den Ländern so bald wie möglich für die mobile breitbandige Internetversorgung zu nutzen. Er dient vorrangig zur Schließung von Versorgungslücken in ländlichen Bereichen. Der Mobilfunkdienst im Frequenzbereich 790 – 862 MHz darf keine Störungen des Rundfunkdienstes verursachen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 36  | nicht genutzt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 36A | Der Frequenzbereich 694 – 790 MHz ist im Benehmen mit den Ländern so bald wie möglich für die mobile breitbandige Internetversorgung zu nutzen. Der Mobilfunkdienst im Frequenzbereich 694 – 790 MHz darf keine Störungen des Rundfunkdienstes verursachen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | 37  | Eine Zuweisung an den Mobilfunkdienst im Frequenzbereich 2 500 – 2 690 MHz ermöglicht sowohl mobile, nomadische als auch feste Anwendungen. Frequenznutzungen zwischen ortsfesten Funkstellen an beliebigen, unbestimmten Punkten sind auch zugelassen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 38  | Frequenzen aus dem Frequenzbereich 1 452 – 1 492 MHz können für Funkmikrofone genutzt werden.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| 39  | Im Frequenzbereich 1 980 – 2 010 MHz und 2 170 – 2 200 MHz dürfen durch den Mobilfunkdienst und den Mobilfunkdienst über Satelliten in der Bundesrepublik Deutschland auch Rundfunksignale übertragen werden.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 38  | Frequenzen aus den Frequenzbereichen 1 350 – 1 400 MHz, 1 452 – 1 492 MHz und 1 518 – 1 525 MHz können für Funkmikrofone genutzt werden.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 39  | nicht genutzt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 40  | Die Nutzung durch den Rundfunkdienst ist auslaufend.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | 41  | Der Frequenzbereich 694 – 790 MHz kann für Anwendungen der drahtlosen Produktionstechnik im Zusammenhang mit Rundfunk und zur professionellen drahtlosen Produktion genutzt werden. Funkstellen dieser Anwendungen dürfen bei gegenwärtig oder zukünftig betriebenen Funkstellen primärer Funkdienste keine schädlichen Störungen verursachen und genießen keinerlei Schutz gegenüber diesen.                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
