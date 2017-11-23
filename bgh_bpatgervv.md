@@ -2,7 +2,7 @@ Verordnung über den elektronischen Rechtsverkehr beim Bundesgerichtshof und Bun
 ===============================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 1 G v. 10.2.2010 I 83
+Zuletzt geändert durch § 10 Abs. 2 Nr. 1 V v. 24.11.2017 I 3803
 
 ### 
 
@@ -43,7 +43,19 @@ bezeichneten Kommunikationswege erreichbar.
 
 (2) Die Einreichung erfolgt durch die Übertragung des elektronischen Dokuments in die elektronische Poststelle.
 
-(2a) In den Verfahren nach den Nummern 6 bis 13 der Anlage sind elektronische Dokumente mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz oder mit einer fortgeschrittenen elektronischen Signatur zu versehen, die von einer internationalen Organisation auf dem Gebiet des gewerblichen Rechtsschutzes herausgegeben wird und sich zur Bearbeitung durch das jeweilige Gericht eignet.
+(2a) In den Verfahren nach den Nummern 6 bis 13 der Anlage sind elektronische Dokumente zu versehen
+
+1.  
+mit einer qualifizierten elektronischen Signatur gemäß Artikel 3 Nummer 12 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) oder
+
+2.  
+mit einer fortgeschrittenen elektronischen Signatur gemäß Artikel 3 Nummer 11 der Verordnung (EU) Nr. 910/2014, die
+
+a)  
+von einer internationalen Organisation auf dem Gebiet des gewerblichen Rechtsschutzes herausgegeben wird und
+
+b)  
+sich zur Bearbeitung durch das jeweilige Gericht eignet.
 
 (3) Eine elektronische Signatur und das ihr zugrunde liegende Zertifikat müssen durch das adressierte Gericht oder eine andere von diesem mit der automatisierten Überprüfung beauftragte Stelle prüfbar sein. Die Eignungsvoraussetzungen für eine Prüfung werden gemäß § 3 Nr. 2 bekannt gegeben.
 
@@ -101,7 +113,8 @@ Diese Verordnung tritt am 1. September 2007 in Kraft.
 
 ### Anlage (zu § 1)
 
-(Fundstelle: BGBl. I 2007, 2132)
+(Fundstelle: BGBl. I 2007, 2132;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Nr.
 
@@ -112,36 +125,14 @@ Verfahrensart
 Datum
 
  1.
-
-Bundesgerichtshof
-
-Verfahren nach der Zivilprozessordnung
-
-1. 9. 2007
-
- 2.
-
-Bundesgerichtshof
-
-Verfahren nach dem Gesetz über die Angelegenheiten der freiwilligen Gerichtsbarkeit und nach dem Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
-
-1. 9. 2007
-
- 3.
-
-Bundesgerichtshof
-
-Verfahren nach der Grundbuchordnung
-
-1. 9. 2007
-
+bis
  4.
 
-Bundesgerichtshof
+(weggefallen)
 
-Verfahren nach der Schiffsregisterordnung
+(weggefallen)
 
-1. 9. 2007
+(weggefallen)
 
  5.
 
@@ -187,7 +178,7 @@ Verfahren nach dem Halbleiterschutzgesetz
 
 Bundesgerichtshof
 
-Verfahren nach dem Geschmacksmustergesetz
+Verfahren nach dem Designgesetz
 
 1. 3. 2010
 
@@ -227,6 +218,6 @@ Verfahren nach dem Halbleiterschutzgesetz
 
 Bundespatentgericht
 
-Verfahren nach dem Geschmacksmustergesetz
+Verfahren nach dem Designgesetz
 
 1. 3. 2010
