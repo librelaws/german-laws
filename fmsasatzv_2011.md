@@ -2,7 +2,7 @@ Verordnung über die Satzung der Bundesanstalt für Finanzmarktstabilisierung (F
 =======================================================================================
 
 Stand  
-Geändert durch Art. 5 G v. 24.2.2012 I 206
+Zuletzt geändert durch Art. 2 V v. 20.12.2017 I 4019
 
 ### 
 
@@ -24,6 +24,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt 
 
 ### Anlage (zu § 1)Satzung der Bundesanstalt für Finanzmarktstabilisierung
 
-(Fundstelle: BGBl. I 2011, 272 - 275)
+(Fundstelle: BGBl. I 2017, 4020 - 4022; bzgl. einzelner Änderungen vgl. Fußnote)
 
-(Text siehe unter: FMSASatz 2011)
+(Text der Satzung siehe: FMSASatz 2011)
