@@ -2,7 +2,7 @@ Fahrschüler-Ausbildungsordnung ()
 =================================
 
 Stand  
-Geändert durch Art. 3 V v. 26.6.2012 I 1394
+Zuletzt geändert durch Art. 5 V v. 2.1.2018 I 2
 
 ### 
 
@@ -97,14 +97,14 @@ des § 2 Nummer 1 des Fahrpersonalgesetzes in der Fassung der Bekanntmachung vom
 (zu § 4)<br />
 <br />
 </td>
-<td>Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen A, A1 (4 Doppelstunden), in der Klasse M (2 Doppelstunden)</td>
+<td>Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen A, A2, A1 (4 Doppelstunden), in der Klasse AM (2 Doppelstunden)</td>
 </tr>
 <tr class="odd">
 <td>Anlage 2.2<br />
 (zu § 4)<br />
 <br />
 </td>
-<td>Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen B und S (2 Doppelstunden)</td>
+<td>Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse B (2 Doppelstunden)</td>
 </tr>
 <tr class="even">
 <td>Anlage 2.3<br />
@@ -160,7 +160,7 @@ des § 2 Nummer 1 des Fahrpersonalgesetzes in der Fassung der Bekanntmachung vom
 (zu § 5 Absatz 3)<br />
 <br />
 </td>
-<td>Die besonderen Ausbildungsfahrten für die Klassen A1, A, B, BE, C1, C1E, C und CE</td>
+<td>Die besonderen Ausbildungsfahrten für die Klassen A1, A2, A, B, BE, C1, C1E, C und CE</td>
 </tr>
 <tr class="even">
 <td>Anlage 5<br />
@@ -177,28 +177,6 @@ des § 2 Nummer 1 des Fahrpersonalgesetzes in der Fassung der Bekanntmachung vom
 <td>Für die Klassen BE, C1, C, C1E, CE, D1, D1E, D, DE und T<br />
 Funktions- und Sicherheitskontrolle sowie entsprechende Handfertigkeiten<br />
 Kontrolle der Kraftfahrzeuge und Anhänger auf Verkehrs- und Betriebssicherheit</td>
-</tr>
-<tr class="even">
-<td>Anlage 7.1<br />
-(zu § 6 Absatz 2)<br />
-<br />
-</td>
-<td>Ausbildungsbescheinigung für den theoretischen Mindestunterricht<br />
-(§ 2 Abs. 2 Nr. 4 StVG)</td>
-</tr>
-<tr class="odd">
-<td>Anlage 7.2<br />
-(zu § 6 Absatz 2)<br />
-<br />
-</td>
-<td>Ausbildungsbescheinigung für den praktischen Unterricht der Klassen M, A, A1, B, BE, C1, C1E, C, CE und T<br />
-(§ 2 Abs. 2 Nr. 4 StVG)</td>
-</tr>
-<tr class="even">
-<td>Anlage 7.3<br />
-(zu § 6 Absatz 2)</td>
-<td>Ausbildungsbescheinigung für den praktischen Unterricht der Klassen D1, D1E, D und DE<br />
-(§ 2 Abs. 2 Nr. 4 StVG)</td>
 </tr>
 </tbody>
 </table>
@@ -233,7 +211,7 @@ einschließt.
 
 (1) Die Ausbildung erfolgt in einem theoretischen und einem praktischen Teil. Die beiden Teile sollen in der Konzeption aufeinander bezogen und im Verlauf der Ausbildung miteinander verknüpft werden.
 
-(2) Die Ausbildung bei der Bundeswehr oder der Polizei zur Erlangung einer Dienstfahrerlaubnis kann versuchsweise bis zum 31. Dezember 2006 durch Verwendung von Fahrsimulatoren ergänzt werden. In diesen Fällen sind die für die Ausbildung zuständigen Stellen der Bundeswehr oder der Polizei befugt, auf Teile der vorgeschriebenen praktischen Ausbildung zu verzichten, wenn die Ausbildungsziele in gleicher Weise durch die Verwendung von Fahrsimulatoren erreicht werden.
+(2) Die Ausbildung in der Bundeswehr zur Erlangung der Dienstfahrerlaubnis, die nicht den Klassen nach § 6 der Fahrerlaubnis-Verordnung entsprechen oder die über den Mindestumfang der Ausbildung nach dieser Verordnung hinausgehen, darf durch Verwendung von Fahrsimulatoren ergänzt werden.
 
 ### § 3 Allgemeine Ausbildungsgrundsätze
 
@@ -270,7 +248,7 @@ Nachbesprechung und Erörterung des jeweiligen Ausbildungsstandes.
 
 Der Fahrlehrer hat den jeweiligen Ausbildungsstand durch Aufzeichnungen zu dokumentieren. Diese sollen erkennen lassen, welche Inhalte behandelt wurden.
 
-(2) Die Grundausbildung soll beim jeweiligen Ersterwerb der Klassen A1 und B möglichst abgeschlossen sein, bevor mit den besonderen Ausbildungsfahrten begonnen wird. Dies gilt auch für den Ersterwerb der Klasse A, wenn der Fahrschüler nicht bereits die Klasse A1 besitzt. Bei den übrigen Klassen dürfen die besonderen Ausbildungsfahrten erst gegen Ende der praktischen Ausbildung durchgeführt werden.
+(2) Die Grundausbildung soll beim jeweiligen Ersterwerb der Klassen A1 und B möglichst abgeschlossen sein, bevor mit den besonderen Ausbildungsfahrten begonnen wird. Dies gilt auch für den Ersterwerb der Klasse A ohne Vorbesitz der Klasse A2 sowie der Klasse A2 ohne Vorbesitz der Klasse A1. Bei den übrigen Klassen dürfen die besonderen Ausbildungsfahrten erst gegen Ende der praktischen Ausbildung durchgeführt werden.
 
 (3) Die besonderen Ausbildungsfahrten zu je 45 Minuten sind – ausgenommen für die Klassen D, D1, DE und D1E – nach Anlage 4 durchzuführen.
 
@@ -286,15 +264,15 @@ Der Fahrlehrer hat den jeweiligen Ausbildungsstand durch Aufzeichnungen zu dokum
 
 (9) Bei der Ausbildung auf motorisierten Zweirädern hat der Fahrlehrer den Fahrschüler zumindest in der letzten Phase der Grundausbildung und bei den Ausbildungsfahrten nach Anlage 4 überwiegend vorausfahren zu lassen. Dabei ist eine Funkanlage nach § 5 Absatz 2 Satz 1 der Durchführungsverordnung zum Fahrlehrergesetz zu benutzen. Bei Ausbildungen in der Klasse T ist bei Fahrten auf öffentlichen Straßen eine Funkanlage nach Satz 2 zu benutzen.
 
-(10) Bei den Ausbildungsfahrten auf Fahrzeugen der Klassen C1, C, D1 und D ist das nach § 5 Absatz 3 der Durchführungsverordnung zum Fahrlehrergesetz vorgeschriebene Kontrollgerät zu benutzen. Für jeden Tag der praktischen Ausbildung ist je Fahrschüler ein neues Schaublatt zu verwenden, auf dem auch der Name des Fahrlehrers und der Name des Fahrschülers vermerkt werden müssen.
+(10) Bei den Ausbildungsfahrten auf Fahrzeugen der Klassen C1, C, D1 und D ist der nach § 5 Absatz 3 der Durchführungsverordnung zum Fahrlehrergesetz vorgeschriebene Fahrtenschreiber zu benutzen. Für jeden Tag der praktischen Ausbildung ist je Fahrschüler ein neues Schaublatt zu verwenden, auf dem auch der Name des Fahrlehrers und der Name des Fahrschülers vermerkt werden müssen.
 
 (11) Für den praktischen Unterricht ist ein gegliederter Ausbildungsplan aufzustellen. Der Unterricht hat sich nach dem Ausbildungsplan zu richten. Er ist durch Aushang oder Auslegen in den Geschäftsräumen der Fahrschule bekannt zu geben.
 
 ### § 6 Abschluss der Ausbildung
 
-(1) Der Fahrlehrer darf die theoretische und die praktische Ausbildung erst abschließen, wenn der Bewerber den Unterricht im gesetzlich vorgeschriebenen Umfang absolviert hat und der Fahrlehrer überzeugt ist, dass die Ausbildungsziele nach § 1 erreicht sind. Für die Durchführung der hierfür notwendigen Übungsstunden hat der Fahrlehrer Sorge zu tragen.
+(1) Der Fahrlehrer darf die theoretische und die praktische Ausbildung erst abschließen, wenn der Bewerber den Unterricht im gesetzlich vorgeschriebenen Umfang absolviert hat und der Fahrlehrer überzeugt ist, dass die Ausbildungsziele nach § 1 erreicht sind. Für die Durchführung der hierfür notwendigen Übungsstunden hat der Fahrlehrer Sorge zu tragen. Im Fall eines gemeinsamen Ausbildungsganges nach Anlage 4 ist die praktische Ausbildung erst abgeschlossen, wenn mindestens alle vorgeschriebenen besonderen Ausbildungsfahrten für beide Klassen durchgeführt worden sind. Wird in einem gemeinsamen Ausbildungsgang nach Anlage 4 die praktische Ausbildung für die Klassen C1E und CE nicht abgeschlossen, ist die Ausbildung für die Klasse C1 und C erst abgeschlossen, wenn mindestens die für diese Klassen vorgeschriebenen besonderen Ausbildungsfahrten durchgeführt worden sind.
 
-(2) Nach Abschluss der Ausbildung hat der Inhaber der Fahrschule oder der verantwortliche Leiter des Ausbildungsbetriebes dem Fahrschüler Bescheinigungen über die durchgeführte theoretische und praktische Ausbildung nach den Anlagen 7.1 bis 7.3 auszustellen. Wird die Ausbildung nicht abgeschlossen, sind dem Fahrschüler die durchlaufenen Ausbildungsteile schriftlich zu bestätigen.
+(2) Nach Abschluss der Ausbildung hat der Inhaber der Fahrschule oder der verantwortliche Leiter des Ausbildungsbetriebes dem Fahrschüler Bescheinigungen über die durchgeführte theoretische und praktische Ausbildung nach Anlage 3 der Durchführungsverordnung zum Fahrlehrergesetz auszustellen. Wird die Ausbildung nicht abgeschlossen, sind dem Fahrschüler die durchlaufenen Ausbildungsteile schriftlich zu bestätigen.
 
 ### § 7 Ausnahmen
 
@@ -316,13 +294,13 @@ die Fahrerlaubnis auf Grund einer ausländischen Fahrerlaubnis nach § 31 Absatz
 dem Inhaber einer allgemeinen Fahrerlaubnis eine Dienstfahrerlaubnis nach § 26 Absatz 1 der Fahrerlaubnis-Verordnung erteilt werden soll,
 
 6.  
-(weggefallen)
+die Fahrerlaubnis der Klasse A1 nach mindestens zweijährigem Vorbesitz der Klasse A1 auf die Klasse A2 erweitert wird,
 
 7.  
-(weggefallen)
+die Fahrerlaubnis der Klasse A2 nach mindestens zweijährigem Vorbesitz der Klasse A2 auf die Klasse A erweitert wird,
 
 8.  
-die Prüfung zum Zwecke der Aufhebung der Beschränkung der Fahrerlaubnis auf Kraftfahrzeuge mit automatischer Kraftübertragung nach § 17 Absatz 6 Satz 2 der Fahrerlaubnis-Verordnung abgelegt wird.
+die Prüfung zum Zwecke der Aufhebung der Beschränkung der Fahrerlaubnis auf Kraftfahrzeuge mit automatischer Kraftübertragung nach § 17 Absatz 6 Satz 3 der Fahrerlaubnis-Verordnung abgelegt wird.
 
 (2) Der Fahrlehrer darf, soweit in den Fällen von Absatz 1 eine Prüfung abzulegen ist, den Bewerber nur zur Prüfung begleiten, wenn er sich überzeugt hat, dass er über die zum Führen eines Kraftfahrzeugs erforderlichen Kenntnisse und Fähigkeiten verfügt; dies gilt nicht für Absatz 1 Nummer 4.
 
@@ -330,7 +308,7 @@ die Prüfung zum Zwecke der Aufhebung der Beschränkung der Fahrerlaubnis auf Kr
 
 ### § 8 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 36 Absatz 1 Nummer 15 des Fahrlehrergesetzes handelt, wer als Inhaber einer Fahrschule oder als verantwortlicher Leiter des Ausbildungsbetriebes vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 56 Absatz 1 Nummer 23 des Fahrlehrergesetzes handelt, wer als Inhaber einer Fahrschule oder als verantwortlicher Leiter des Ausbildungsbetriebes vorsätzlich oder fahrlässig
 
 1.  
 entgegen § 4 Absatz 3 oder 4 in Verbindung mit Anlage 2.8 den dort vorgeschriebenen theoretischen Unterricht nicht erteilt oder erteilen lässt,
@@ -348,12 +326,12 @@ entgegen § 5 Absatz 8 Satz 1 für mehrere Fahrschüler die gleichzeitige Erteil
 entgegen § 5 Absatz 11 Satz 1 oder 3 einen Ausbildungsplan nicht aufstellt oder nicht durch Aushang oder Auslage in den Geschäftsräumen der Fahrschule bekannt gibt,
 
 6.  
-entgegen § 6 Absatz 2 Satz 1 eine Bescheinigung über die theoretische und praktische Ausbildung nach den Anlagen 7.1 bis 7.3 ausstellt oder ausstellen lässt, obwohl der Mindestumfang des theoretischen Unterrichts nach § 4 oder der Mindestumfang des praktischen Unterrichts nach § 5 nicht durchgeführt wurde oder
+entgegen § 6 Absatz 2 Satz 1 eine Bescheinigung über die theoretische und praktische Ausbildung nach Anlage 3 der Durchführungsverordnung zum Fahrlehrergesetz ausstellt oder ausstellen lässt, obwohl der Mindestumfang des theoretischen Unterrichts nach § 4 oder der Mindestumfang des praktischen Unterrichts nach § 5 nicht durchgeführt wurde oder
 
 7.  
-entgegen § 6 Absatz 2 Satz 1 oder 2 keine Bescheinigung über die theoretische und praktische Ausbildung nach den Anlagen 7.1 bis 7.3 ausstellt oder ausstellen lässt oder durchlaufene Ausbildungsteile nicht bestätigt oder bestätigen lässt.
+entgegen § 6 Absatz 2 Satz 1 oder 2 keine Bescheinigung über die theoretische und praktische Ausbildung nach Anlage 3 der Durchführungsverordnung zum Fahrlehrergesetz ausstellt oder ausstellen lässt oder durchlaufene Ausbildungsteile nicht bestätigt oder bestätigen lässt.
 
-(2) Ordnungswidrig im Sinne des § 36 Absatz 1 Nummer 15 des Fahrlehrergesetzes handelt, wer als Fahrlehrer vorsätzlich oder fahrlässig
+(2) Ordnungswidrig im Sinne des § 56 Absatz 1 Nummer 23 des Fahrlehrergesetzes handelt, wer als Fahrlehrer vorsätzlich oder fahrlässig
 
 1.  
 entgegen § 5 Absatz 1 Satz 6 den jeweiligen Ausbildungsstand nicht durch Aufzeichnungen dokumentiert,
@@ -368,10 +346,10 @@ entgegen § 5 Absatz 8 Satz 1 für mehrere Fahrschüler gleichzeitig praktischen
 entgegen § 5 Absatz 9 Satz 2 oder 3 bei den Ausbildungsfahrten keine Funkanlage benutzt,
 
 5.  
-entgegen § 5 Absatz 10 Satz 1 bei Ausbildungsfahrten das vorgeschriebene Kontrollgerät nicht benutzen lässt oder entgegen § 5 Absatz 10 Satz 2 Schaublätter nicht oder nicht in der vorgeschriebenen Weise verwendet oder
+entgegen § 5 Absatz 10 Satz 1 bei Ausbildungsfahrten den vorgeschriebenen Fahrtenschreiber nicht benutzen lässt oder entgegen § 5 Absatz 10 Satz 2 Schaublätter nicht oder nicht in der vorgeschriebenen Weise verwendet oder
 
 6.  
-entgegen § 6 Absatz 2 Satz 1 eine Bescheinigung über die theoretische und praktische Ausbildung nach den Anlagen 7.1 bis 7.3 ausstellt, obwohl der Mindestumfang des theoretischen Unterrichts nach § 4 oder der Mindestumfang des praktischen Unterrichts nach § 5 nicht durchgeführt wurde.
+entgegen § 6 Absatz 2 Satz 1 eine Bescheinigung über die theoretische und praktische Ausbildung nach Anlage 3 der Durchführungsverordnung zum Fahrlehrergesetz ausstellt, obwohl der Mindestumfang des theoretischen Unterrichts nach § 4 oder der Mindestumfang des praktischen Unterrichts nach § 5 nicht durchgeführt wurde.
 
 ### § 9 Inkrafttreten, Außerkrafttreten
 
@@ -383,7 +361,8 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage 1 (zu § 4)Rahmenplan für den Grundstoff (12 Doppelstunden) für alle Klassen
 
-(Fundstelle: BGBl. I 2012, 1322 - 1323)
+(Fundstelle: BGBl. I 2012, 1322 - 1323;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **1.**  
 **Persönliche Voraussetzungen**
@@ -620,7 +599,7 @@ Lernen, verantwortungsvoll zu entscheiden, ob und wo man Fahrmanöver ausführen
 **Ahndung von Fehlverhalten**Verwarnung, Bußgeld, Fahrverbot, Strafe
 
 **e)**  
-**Verkehrszentralregister**Punktsystem
+**FahreignungsregisterFahreignungs-Bewertungssystem**
 
 **f)**  
 **Entzug der Fahrerlaubnis**
@@ -647,16 +626,13 @@ Jungen Fahrern
 Älteren Fahrern
 
 **b)**  
-**Hilfen**insbesondere durch
+**Hilfeninsbesondere durch**
 
 –  
-Aufbauseminare (Führerschein auf Probe)
+Aufbauseminare, besondere Aufbauseminare und verkehrspsychologische Beratungsgespräche (Führerschein auf Probe)
 
 –  
-Aufbauseminare für Kraftfahrer (ASK)
-
-–  
-Verkehrspsychologische Beratungsgespräche
+Fahreignungsseminare (Fahreignungs-Bewertungssystem)
 
 –  
 Erfahrungsaustausch für Fahranfänger
@@ -673,9 +649,10 @@ Erfahrungsaustausch für Fahranfänger
 **f)**  
 **Kurse zur umweltschonenden Fahrweise.**
 
-### Anlage 2.1 (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen A, A1 (4 Doppelstunden), in der Klasse M (2 Doppelstunden)
+### Anlage 2.1 (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen A, A2, A1 (4 Doppelstunden), in der Klasse AM (2 Doppelstunden)
 
-(Fundstelle: BGBl. I 2012, 1324 - 1325)
+(Fundstelle: BGBl. I 2012, 1324 - 1325;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **1.**  
 **Fahrer/Beifahrer, Fahrzeug**
@@ -764,11 +741,12 @@ Spurrillen / Gegenstände auf der Fahrbahn
 **f)**  
 **Kritische Fahrzustände/Ursachen**Pendeln, Flattern, Winddruck von vorn und von der Seite.
 
-Gilt nicht für M.Nicht für A1, M.
+Gilt nicht für AM.Nicht für A1, AM.
 
-### Anlage 2.2 (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen B und S (2 Doppelstunden)
+### Anlage 2.2 (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse B (2 Doppelstunden)
 
-(Fundstelle: BGBl. I 2012, 1326)
+(Fundstelle: BGBl. I 2012, 1326;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **1.**  
 **Technische Bedingungen, Personen- und Güterbeförderung – umweltbewusster Umgang mit Kraftfahrzeugen**
@@ -855,13 +833,12 @@ Beleuchtung
 **Sozialvorschriften und Verkehrsverbote (z. B. nach sog. Ozongesetz)**
 
 **i)**  
-**Abgrenzung zur Klasse BE.**
-
-Gilt nicht für Klasse S.
+**Abgrenzung zur Klasse BE und B mit der Schlüsselzahl 96.**
 
 ### Anlage 2.3 (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse C (10 Doppelstunden), in der Klasse C1 (6 Doppelstunden)
 
-(Fundstelle: BGBl. I 2012, 1327)
+(Fundstelle: BGBl. I 2012, 1327;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **1.**  
 **Persönliche Voraussetzungen und Arbeitsplatz**
@@ -873,7 +850,7 @@ Gilt nicht für Klasse S.
 **Papiere**Persönliche Fahrzeugpapiere
 
 **c)**  
-**Sozialvorschriften**EG-Kontrollgerät, Lenk- und Ruhezeiten
+**Sozialvorschriften**Fahrtenschreiber, Lenk- und Ruhezeiten
 
 **d)**  
 **Arbeitsplatz**Sitz- und Spiegeleinstellung (toter Winkel)Klimatisierung, Sichtbehinderung des Fahrers aufgrund der Bauart des Fahrzeugs.
@@ -1357,7 +1334,7 @@ Verhalten bei Pannen und nach Unfällen**
 **Grundzüge der Fahrpersonalverordnung**
 
 **e)**  
-**Verordnung über das Kontrollgerät (EWG) Nr. 3821/85**
+**Verordnung über den Fahrtenschreiber (EU) Nr. 165/2014**
 
 **f)**  
 **Fahrpersonal und Kraftfahrzeuge**
@@ -1481,12 +1458,12 @@ Anhänger Druckluft
 
 ### Anlage 2.8 (zu § 4 Absatz 4)Mindestdauer des Unterrichts für den klassenspezifischen Zusatzstoff
 
-(Fundstelle: BGBl. I 2012, 1333)
+(Fundstelle: BGBl. I 2012, 1417 - 1418)
 
 |                   |                  |
 |-------------------|------------------|
-| M                 | 2 Doppelstunden  |
-| A1, A             | 4 Doppelstunden  |
+| AM                | 2 Doppelstunden  |
+| A1, A2, A         | 4 Doppelstunden  |
 | B                 | 2 Doppelstunden  |
 | C1                | 6 Doppelstunden  |
 | C1 (Vorbesitz D1) | 2 Doppelstunden  |
@@ -1504,12 +1481,12 @@ Anhänger Druckluft
 | D (Vorbesitz C1)  | 12 Doppelstunden |
 | D (Vorbesitz D1)  | 8 Doppelstunden  |
 | L                 | 2 Doppelstunden  |
-| S                 | 2 Doppelstunden  |
 | T                 | 6 Doppelstunden  |
 
 ### Anlage 3 (zu § 5 Absatz 1)Sachgebiete für den praktischen Unterricht für alle Klassen
 
-(Fundstelle: BGBl. I 2012, 1334 - 1338)
+(Fundstelle: BGBl. I 2012, 1334 - 1338;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **1**  
 **Fahrtechnische Vorbereitung der Fahrt**
@@ -1623,7 +1600,7 @@ Beschleunigungsstreifen und Verzögerungsstreifen
 Parkplätze, Raststätte und Tankstellen
 
 **10**  
-**Überholen**(Überholvorgänge sind auch außerhalb geschlossener Ortschaften sowie auf Autobahnen und Kraftfahrstraßenzu üben)
+**Überholen**(Überholvorgänge sind auch außerhalb geschlossener Ortschaften sowie auf Autobahnen und Kraftfahrstraßen zu üben)
 
 **11**  
 **Verhalten an Kreuzungen, Einmündungen und Kreisverkehren**
@@ -1716,7 +1693,7 @@ Beobachtung des Verkehrsraumes
 **Vermeiden risikoreicher Verkehrssituationen**
 
 **17**  
-**Klassenspezifischer Ausbildungsstoff für die Klassen A1, A und M**
+**Klassenspezifischer Ausbildungsstoff für die Klassen A1, A2, A und AM**
 
 17.1  
 SicherheitskontrolleÜberprüfung des ordnungsgemäßen Zustandes von
@@ -1830,7 +1807,7 @@ Fahren in Kurven
 Fahren mit Schutzkleidung
 
 **18**  
-**Klassenspezifischer Ausbildungsstoff für die Klassen B und S**
+**Klassenspezifischer Ausbildungsstoff für die Klassen B**
 
 18.1  
 Sicherheitskontrolle
@@ -2390,27 +2367,25 @@ Sicherung des Anhängers gegen Wegrollen (Feststellbremse, Unterlegkeile)
 –  
 Kenntlichmachung
 
-Gilt nur für Zweiradklassen.Gilt nicht für Zweiradklassen.Gilt auch für Klasse S, soweit Helmpflicht besteht.Gilt nicht für Klasse S.
+Gilt nur für Zweiradklassen.Gilt nicht für Zweiradklassen.
 
-### Anlage 4 (zu § 5 Absatz 3)Die besonderen Ausbildungsfahrten für die Klassen A1, A, B, BE, C1, C1E, C und CE
+### Anlage 4 (zu § 5 Absatz 3)Die besonderen Ausbildungsfahrten für die Klassen A1, A2, A, B, BE, C1, C1E, C und CE
 
-(Fundstelle: BGBl. I 2012, 1339)
+(Fundstelle BGBl. I 2014, 375)
 
 **Besondere Ausbildungsfahrten**
 
 **A1
+A2
 A
 B**
 
+**A1** auf **A2**
 **A1** auf **A**
-**A** (leistungs-
-beschränkt)
-auf **A** (leis-
-tungsunbe-
-schränkt)
+**A2** auf **A**
 
 **B** auf **BE**
-**B** auf **C1**
+**B**  auf **C1**
 **C1** auf **C**
 **C1** auf **C1E**
 
@@ -2512,7 +2487,7 @@ oder auf Kraftfahrstraßen mit Fahrbahnen für eine Richtung, die durch Mittelst
 
 3
 
-Vor Ablauf der zweijährigen Frist nach § 6 Absatz 2 Satz 1 der Fahrerlaubnis-Verordnung.
+Vor Ablauf der zweijährigen Frist nach § 15 Absatz 3 der Fahrerlaubnis-Verordnung.Von einem gemeinsamen Ausbildungsgang ist dann auszugehen, wenn die Klassen C1E und CE jeweils gleichzeitig mit der Fahrerlaubnis für die Klasse C1 oder C ausgebildet werden.
 
 ### Anlage 5 (zu § 5 Absatz 4)Praktische Mindestausbildung in den Klassen D1, D, D1E und DE
 
@@ -2673,16 +2648,17 @@ D1E
 
 ### Anlage 6 (zu § 5 Absatz 5)Für die Klassen BE, C1, C, C1E, CE, D1, D1E, D, DE und TFunktions- und Sicherheitskontrolle sowie entsprechende Handfertigkeiten Kontrolle der Kraftfahrzeuge und Anhänger auf Verkehrs- und Betriebssicherheit
 
-(Fundstelle: BGBl. I 2012, 1341 - 1342)
+(Fundstelle: BGBl. I 2012, 1341 - 1342;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-**1.**  
-**EG – Kontrollgerät (Klassen C1, C, D1 und D)**
+1.  
+Fahrtenschreiber (Klassen C1, C, D1 und D)
 
-Analoges EG-Kontrollgerät
+Analoger Fahrtenschreiber
 
-Digitales EG-Kontrollgerät
+Digitaler Fahrtenschreiber
 
-Bedienung und Handhabung des analogen EG-Kontrollgerätes
+Bedienung und Handhabung des analogen Fahrtenschreibers
 
 –  
 Ausfüllen und Einlegen eines Schaublattes
@@ -2691,12 +2667,12 @@ Ausfüllen und Einlegen eines Schaublattes
 Bedienung der Schalter
 
 –  
-Bedeutung der Kontrolllampen und Ausfall eines Kontrollgerätes kennen
+Bedeutung der Kontrolllampen und Ausfall eines Fahrtenschreibers kennen
 
 –  
-Benennung der Symbole auf dem Kontrollgerät
+Benennung der Symbole auf dem Fahrtenschreiber
 
-Bedienung und Handhabung des digitalen Kontrollgerätes unter Verwendung der Fahrerkarte
+Bedienung und Handhabung des digitalen Fahrtenschreibers unter Verwendung der Fahrerkarte
 
 –  
 vor Beginn der Fahrt, einschließlich Nachtragungen in Form von manuellen Eintragungen bei Arbeitszeiten außerhalb der Ruhezeiten
@@ -2711,10 +2687,10 @@ beim Verlassen des Fahrzeugs
 Bedienung der Schalter
 
 –  
-Bedeutung der Kontrolllampen und Ausfall eines Kontrollgerätes kennen
+Bedeutung der Kontrolllampen und Ausfall eines Fahrtenschreibers kennen
 
 –  
-Benennung der Symbole auf dem Kontrollgerät
+Benennung der Symbole auf dem Fahrtenschreiber
 
 Auswertung des Schaublattes
 
@@ -2756,721 +2732,3 @@ bei Ausfall des Gerätes
 
 **8.**  
 **Handfertigkeiten (Klassen BE, DE, D1E, CE und C1E)**Funktions- und Sicherheitskontrolle, HandfertigkeitenPrüfung der BremsanlagenKontrolle der Druckluftbremsanschlüsse und der elektrischen AnschlüsseFunktionsprüfung der Druckluftbremsanschlüsse oder der AuflaufbremseKontrolle von Aufbau, Planen, Bordwänden und sonstigen Einrichtungen zur Sicherung der Ladung
-
-### Anlage 7.1 (zu § 6 Absatz 2)Ausbildungsbescheinigung für den theoretischen Mindestunterricht (§ 2 Abs. 2 Nr. 4 StVG)
-
-(Fundstelle: BGBl. I 2012, 1343)
-
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td></td>
-<td></td>
-<td><table>
-<tbody>
-<tr class="odd">
-<td>Fahrschule<br />
-<br />
-<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-|               |                       |                          |
-|---------------|-----------------------|--------------------------|
-| Familienname: |                       |                          |
-| Vorname:      |                       |                          |
-| Anschrift:    |                       |                          |
-| Geburtsdatum: | Beantragte Klasse(n): | Vorbesitz der Klasse(n): |
-
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Grundstoff</strong><br />
-Es wird bescheinigt, dass während der Ausbildung an dem nach § 4 Abs. 3 FahrschAusbO vorgeschriebenen Mindestunterricht des allgemeinen Teils (Grundstoff) wie folgt teilgenommen wurde:<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td>       <strong>Doppelstunden zu je 90 Minuten</strong><br />
-(Bei Ersterwerb 12 Doppelstunden Grundstoff zu je 90 Minuten)<br />
-<br />
-</td>
-</tr>
-<tr class="odd">
-<td><strong>Klassenspezifischer Stoff</strong><br />
-Es wird bescheinigt, dass während der Ausbildung an dem nach § 4 Abs. 4 FahrschAusbO vorgeschriebenen klassenspezifischen Mindestunterricht wie folgt teilgenommen wurde:<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td><strong>Für Klasse         wurde an        <br />
-Doppelstunden zu je 90 Minuten teilgenommen.</strong><br />
-<br />
-</td>
-</tr>
-<tr class="odd">
-<td>⃞ Die Ausbildung wurde am             abgeschlossen.<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td>⃞ Die Ausbildung wurde nicht abgeschlossen.<br />
-<br />
-<br />
-<br />
-</td>
-</tr>
-<tr class="odd">
-<td>                                                  <br />
-Ort, Datum</td>
-</tr>
-</tbody>
-</table>
-
-Tabelle des zu absolvierenden klassenspezifischen theoretischen Mindestunterrichts gemäß § 4 FahrschAusbO
-
-Klasse
-
-Doppelstunde
-(je 90 Minuten)
-
-Erweiterung
-auf Klasse
-
-Bei Vorbesitz der Klasse
-
-Doppelstunde
-(je 90 Minuten)
-
-Erweiterung
-auf Klasse
-
-Bei Vorbesitz der Klasse
-
-Doppelstunde
-(je 90 Minuten)
-
-A
-
-4
-
-C1
-
-B
-
-6
-
-D1
-
-B
-
-10
-
-A1
-
-4
-
-C1
-
-D1
-
-2
-
-D1
-
-C1
-
-4
-
-B
-
-2
-
-C1
-
-D
-
-2
-
-D1
-
-C
-
-4
-
-M
-
-2
-
-C
-
-B
-
-10
-
-D
-
-B
-
-18
-
-L
-
-2
-
-C
-
-C1
-
-4
-
-D
-
-C
-
-8
-
-S
-
-2
-
-C
-
-D1
-
-4
-
-D
-
-C1
-
-12
-
-T
-
-6
-
-C
-
-D
-
-2
-
-D
-
-D1
-
-8
-
-CE
-
-C
-
-4
-
-BE, C1E, D1E und DE ohne theoretische Prüfung
-
-### Anlage 7.2 (zu § 6 Absatz 2)Ausbildungsbescheinigung für den praktischen Unterricht der Klassen M, A, A1, B, BE, C1, C1E, C, CE und T (§ 2 Abs. 2 Nr. 4 StVG)
-
-(Fundstelle: BGBl. I 2012, 1344)
-
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td></td>
-<td></td>
-<td><table>
-<tbody>
-<tr class="odd">
-<td>Fahrschule<br />
-<br />
-<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-|               |                       |                          |
-|---------------|-----------------------|--------------------------|
-| Familienname: |                       |                          |
-| Vorname:      |                       |                          |
-| Anschrift:    |                       |                          |
-| Geburtsdatum: | Beantragte Klasse(n): | Vorbesitz der Klasse(n): |
-
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Grundausbildung</strong><br />
-Es wird bescheinigt, dass an der Grundausbildung nach § 5 Abs. 2 FahrschAusbO teilgenommen wurde:<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td><strong>Für Klasse           </strong><br />
-<br />
-</td>
-</tr>
-<tr class="odd">
-<td><strong>Besondere Ausbildungsfahrten und praktische Unterweisung am Ausbildungsfahrzeug</strong><br />
-Es wird bescheinigt, dass während der Ausbildung an den nach § 5 Abs. 3 FahrschAusbO vorgeschriebenen besonderen Ausbildungsfahrten wie folgt teilgenommen wurde:<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td><strong>Für Klasse            wurden<br />
-           Stunden zu je 45 Minuten auf Bundes- oder Landstraßen durchgeführt.<br />
-           Stunden zu je 45 Minuten auf Autobahnen oder auf Kraftfahrstraßen durchgeführt.<br />
-           Stunden zu je 45 Minuten bei Dämmerung oder Dunkelheit durchgeführt.</strong><br />
-<br />
-</td>
-</tr>
-<tr class="odd">
-<td><strong>Eine Unterweisung am Ausbildungsfahrzeug in der Erkennung und Behebung technischer Mängel nach § 5 Abs. 5 FahrschAusbO wurde durchgeführt.</strong> (Gilt für die Klassen C1, C1E, C, CE und T)<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td>⃞ Ja ⃞ Nein<br />
-<br />
-</td>
-</tr>
-<tr class="odd">
-<td>⃞ Die Ausbildung wurde am                 abgeschlossen.<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td>⃞ Die Ausbildung wurde nicht abgeschlossen.<br />
-<br />
-<br />
-<br />
-</td>
-</tr>
-<tr class="odd">
-<td>                                                       <br />
-Ort, Datum</td>
-</tr>
-</tbody>
-</table>
-
-Besondere Ausbildungsfahrten
-
-A1
-A
-B
-
-A1 auf A
-A auf A
-leistungs-
-unbe-
-schränkt
-
-B auf BE
-B auf C1
-C1 auf C
-C1 auf C1E
-
-B auf C
-C auf CE
-
-C1 und C1E
-in einem gemeinsamen
-Ausbildungsgang
-
-C und CE
-in einem gemeinsamen
-Ausbildungsgang
-
-Solo
-
-Zug
-
-Gesamt
-
-Solo
-
-Zug
-
-Gesamt
-
-1
-
-Schulung auf Bundes- oder Landstraße (Überlandschulung, davon eine Fahrt mit mindestens zwei Stunden zu je 45 Minuten)
-
-5
-
-3
-
-3
-
-5
-
-1
-
-3
-
-4
-
-3
-
-5
-
-8
-
-2
-
-Schulung auf Autobahnen oder auf Kraftfahrstraßen (davon eine Fahrt mit mindestens zwei Stunden zu je 45 Minuten und, soweit möglich, mindestens eine Stunde zu 45 Minuten auf den oben genannten Straßen ohne Geschwindigkeitsbegrenzung oder mit einer Geschwindigkeitsbegrenzung nicht unter 120 km/h)
-
-4
-
-2
-
-1
-
-2
-
-1
-
-1
-
-2
-
-1
-
-2
-
-3
-
-3
-
-Schulung bei Dämmerung oder Dunkelheit (zusätzlich zu den Fahrten nach Nr. 1 und 2, mindestens zur Hälfte auf Autobahnen, Bundes- oder Landstraßen in Stunden zu je 45 Minuten)
-
-3
-
-1
-
-1
-
-3
-
-0
-
-2
-
-2
-
-0
-
-3
-
-3
-
-### Anlage 7.3 (zu § 6 Absatz 2)Ausbildungsbescheinigung für den praktischen Unterricht der Klassen D1, D1E, D und DE (§ 2 Abs. 2 Nr. 4 StVG)
-
-(Fundstelle: BGBl. I 2012, 1345)
-
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td></td>
-<td></td>
-<td><table>
-<tbody>
-<tr class="odd">
-<td>Fahrschule<br />
-<br />
-<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-|               |                       |                          |
-|---------------|-----------------------|--------------------------|
-| Familienname: |                       |                          |
-| Vorname:      |                       |                          |
-| Anschrift:    |                       |                          |
-| Geburtsdatum: | Beantragte Klasse(n): | Vorbesitz der Klasse(n): |
-
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Grundausbildung</strong><br />
-Es wird bescheinigt, dass während der Ausbildung an der nach § 5 Abs. 4 FahrschAusbO vorgeschriebenen Grundausbildung wie folgt teilgenommen wurde:<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td><strong>Für Klasse            wurden mindestens<br />
-           Stunden zu je 45 Minuten durchgeführt.</strong><br />
-<br />
-</td>
-</tr>
-<tr class="odd">
-<td><strong>Besondere Ausbildungsfahrten und praktische Unterweisung am Ausbildungsfahrzeug</strong><br />
-Es wird bescheinigt, dass während der Ausbildung an den nach § 5 Abs. 4 FahrschAusbO vorgeschriebenen besonderen Ausbildungsfahrten wie folgt teilgenommen wurde:<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td><strong>Für Klasse            wurden<br />
-           Stunden zu je 45 Minuten auf Bundes- oder Landstraßen durchgeführt.<br />
-           Stunden zu je 45 Minuten auf Autobahnen oder auf Kraftfahrstraßen durchgeführt.<br />
-           Stunden zu je 45 Minuten bei Dämmerung oder Dunkelheit durchgeführt.</strong><br />
-<br />
-</td>
-</tr>
-<tr class="odd">
-<td><strong>Eine Unterweisung am Ausbildungsfahrzeug in der Erkennung und Behebung technischer Mängel nach § 5 Abs. 5 FahrschAusbO wurde durchgeführt.</strong><br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td>⃞ Ja ⃞ Nein<br />
-<br />
-</td>
-</tr>
-<tr class="odd">
-<td>⃞ Die Ausbildung wurde am                 abgeschlossen.<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td>⃞ Die Ausbildung wurde nicht abgeschlossen.<br />
-<br />
-<br />
-<br />
-</td>
-</tr>
-<tr class="odd">
-<td>                                                  <br />
-Ort, Datum</td>
-</tr>
-</tbody>
-</table>
-
-Vorbesitz der
-Klasse(n)
-
-Dauer des
-Vorbesitzes
-
-Erwerb
-
-Grundaus-
-bildung
-
-Überland
-
-Autobahn
-
-Nachtfahrt
-
-C
-
-C mehr als
-2 Jahre
-
-D
-
-7
-
-8
-
-4
-
-3
-
-D1
-
-6
-
-4
-
-2
-
-2
-
-C
-
-C bis
-2 Jahre
-
-D
-
-14
-
-16
-
-8
-
-6
-
-D1
-
-8
-
-8
-
-4
-
-4
-
-B/C1
-
-B oder C1 mehr
-als 2 Jahre
-
-D
-
-33
-
-12
-
-8
-
-5
-
-D1
-
-16
-
-8
-
-4
-
-4
-
-B/C1
-
-B oder C1
-bis 2 Jahre
-
-D
-
-45
-
-22
-
-14
-
-8
-
-D1
-
-41
-
-19
-
-12
-
-7
-
-D1
-
-D
-
-20
-
-5
-
-5
-
-5
-
-D
-
-DE
-
-4
-
-3
-
-1
-
-1
-
-D1
-
-D1E
-
-4
-
-3
-
-1
-
-1
-
-Entfällt bei Vorbesitz C1E bzw. CE.
