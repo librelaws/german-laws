@@ -2,12 +2,34 @@ Verordnung zur Durchsetzung des Fischereirechts der Europäischen Union ()
 =========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 6.6.2012 I 1286
+Zuletzt geändert durch Art. 1 V v. 7.2.2018 I 196
 
 ### 
 
 ```
 (+++ Textnachweis ab: 24.6.1998 +++)
+(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
+     Umsetzung der
+       EUV 2016/1139           (CELEX Nr: 32016R1139) vgl.
+                                V v. 10.11.2017 I 3770
+       EUV 2016/1627           (CELEX Nr: 32016R1627) vgl.
+                                V v. 10.11.2017 I 3770
+       EUV 2016/1903           (CELEX Nr: 32016R1903) vgl.
+                                V v. 10.11.2017 I 3770
+       EUV 2016/2250           (CELEX Nr: 32016R2250) vgl.
+                                V v. 10.11.2017 I 3770      
+       EUV 2016/2285           (CELEX Nr: 32016R2285) vgl.
+                                V v. 10.11.2017 I 3770
+       EUV 2016/2336           (CELEX Nr: 32016R2336) vgl.
+                                V v. 10.11.2017 I 3770
+       EUV 2017/117            (CELEX Nr: 32017R0117) vgl.
+                                V v. 10.11.2017 I 3770
+       EUV 2017/118            (CELEX Nr: 32017R0118) vgl.
+                                V v. 10.11.2017 I 3770
+       EUV 2017/127            (CELEX Nr: 32017R0127) vgl.
+                                V v. 10.11.2017 I 3770
+       EUV 2017/1004           (CELEX Nr: 32017R1004) vgl.
+                                V v. 10.11.2017 I 3770      +++)
 ```
 
 Überschrift: Bezeichnung idF d. Art. 29 V v. 13.12.2011 I 2720 mWv 22.12.2011
@@ -92,128 +114,265 @@ entgegen Artikel 11a Absatz 2 eine dort genannte Art anlandet.
 
 ### § 6 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 850/98
 
-(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 850/98 des Rates vom 30. März 1998 zur Erhaltung der Fischereiressourcen durch technische Maßnahmen zum Schutz von jungen Meerestieren (ABl. L 125 vom 27.4.1998, S. 1), die zuletzt durch die Verordnung (EU) Nr. 579/2011 (ABl. L 165 vom 24.6.2011, S. 1) geändert worden ist, verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 850/98 des Rates vom 30. März 1998 zur Erhaltung der Fischereiressourcen durch technische Maßnahmen zum Schutz von jungen Meerestieren (ABl. L 125 vom 27.4.1998, S. 1), die zuletzt durch die Verordnung (EU) 2015/812 (ABl. L 133 vom 29.5.2015, S. 1) geändert worden ist, verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
 1.  
-entgegen Artikel 4 Absatz 2 Buchstabe a oder c eine Kombination von geschleppten oder gezogenen Netzen mehr als eines Maschenöffnungsbereichs auf einer Fangreise verwendet,
+entgegen Artikel 4 Absatz 1 Unterabsatz 2, entgegen Artikel 7 Absatz 5 Unterabsatz 2 Satz 3, entgegen Artikel 20 Absatz 4 Satz 2, entgegen Artikel 20a Unterabsatz 2 Satz 3, entgegen Artikel 21 Absatz 3 Satz 2, entgegen Artikel 22 Absatz 1 Unterabsatz 2 Satz 2, entgegen Artikel 23 Absatz 1 Unterabsatz 2 Satz 3, entgegen Artikel 27 Absatz 3 Satz 2, entgegen Artikel 29 Absatz 4 Buchstabe b Unterabsatz 3, entgegen Artikel 29a Absatz 1 Unterabsatz 2 Satz 3, entgegen Artikel 29b Absatz 2 Unterabsatz 2 Satz 2, entgegen Artikel 29b Absatz 4 Unterabsatz 2 Satz 2, entgegen Artikel 29d Absatz 3 Unterabsatz 2 Satz 3, entgegen Artikel 29d Absatz 4 Unterabsatz 2 Satz 3, entgegen Artikel 29e Absatz 2 Unterabsatz 2 Satz 3, entgegen Artikel 29f Absatz 1a Satz 2 oder entgegen Artikel 29g Absatz 1 eine dort genannte Art befischt,
 
 2.  
-entgegen Artikel 4 Absatz 2 Buchstabe f ein dort genanntes Netz verwendet,
+entgegen Artikel 4 Absatz 2 Buchstabe a oder c eine dort genannte Kombination von Netzen auf einer Fangreise verwendet,
 
 3.  
-entgegen Artikel 4 Absatz 3 Satz 1 auf einer Fangreise in mehr als einer dort genannten Region oder in mehr als einem dort genannten Gebiet fischt,
+entgegen Artikel 4 Absatz 2 Buchstabe f ein dort genanntes Netz verwendet,
 
 4.  
-entgegen Artikel 4 Absatz 4 einen Fang anlandet,
+entgegen Artikel 4 Absatz 3 Satz 1 auf einer Fangreise in mehr als einer dort genannten Region oder in mehr als einem dort genannten Gebiet fischt,
 
 5.  
-entgegen Artikel 6 Absatz 1 Buchstabe a Satz 1 ein dort genanntes Schleppnetz oder eine Snurrewade an Bord mitführt oder verwendet,
+entgegen Artikel 4 Absatz 4 Unterabsatz 2 Satz 2, entgegen Artikel 7 Absatz 5 Unterabsatz 2 Satz 2, entgegen Artikel 10 Unterabsatz 2 Satz 2, entgegen Artikel 11 Absatz 1 Unterabsatz 2 Satz 2, entgegen Artikel 15 Absatz 1 Satz 2, entgegen Artikel 20a Unterabsatz 2 Satz 2, entgegen Artikel 23 Absatz 1 Unterabsatz 2 Satz 2, entgegen Artikel 29a Absatz 1 Unterabsatz 2 Satz 2, entgegen Artikel 29d Absatz 3 Unterabsatz 2 Satz 2, entgegen Artikel 29d Absatz 4 Unterabsatz 2 Satz 2 oder entgegen Artikel 29e Absatz 2 Unterabsatz 2 Satz 2 einen dort genannten Fang nicht anlandet,
 
 6.  
-entgegen Artikel 7 Absatz 5 ein dort genanntes Krebstier an Bord behält,
+entgegen Artikel 6 Absatz 1 Buchstabe a Satz 1 ein dort genanntes Schleppnetz oder eine Snurrewade an Bord mitführt oder verwendet,
 
 7.  
-entgegen Artikel 8 Absatz 1 oder Absatz 2 oder Artikel 9 Absatz 1 ein dort genanntes Schleppnetz mitführt oder verwendet,
+entgegen Artikel 7 Absatz 5 Unterabsatz 1 ein dort genanntes Krebstier an Bord behält,
 
 8.  
-entgegen Artikel 10 Satz 2 ein Meerestier umlädt, an Bord behält oder anlandet,
+entgegen Artikel 8 Absatz 1 oder 2 oder entgegen Artikel 9 Absatz 1 ein dort genanntes Schleppnetz mitführt oder verwendet,
 
 9.  
-entgegen Artikel 11 Absatz 1 ein dort genanntes Netz in den dort genannten Regionen verwendet oder an Bord mitführt,
+entgegen Artikel 10 Unterabsatz 1 Satz 2 ein Meerestier umlädt, an Bord behält oder anlandet,
 
 10.  
-entgegen Artikel 14 einen Fang nicht oder nicht rechtzeitig sortiert,
+entgegen Artikel 11 Absatz 1 Unterabsatz 1 ein dort genanntes Netz in einer dort genannten Region oder in einem dort genannten Gebiet verwendet oder an Bord mitführt,
 
 11.  
-entgegen Artikel 15 Absatz 1 einen Fang nicht oder nicht rechtzeitig über Bord wirft,
+entgegen Artikel 14 einen Fang nicht oder nicht rechtzeitig sortiert,
 
 12.  
-entgegen Artikel 16 Unterabsatz 1 eine Vorrichtung verwendet,
+entgegen Artikel 15 Absatz 2 einen Fang nicht oder nicht rechtzeitig wieder über Bord wirft,
 
 13.  
-entgegen Artikel 18 Absatz 3 ein dort genanntes Meerestier nicht ganz an Bord behält oder anlandet,
+entgegen Artikel 16 Unterabsatz 1 eine Vorrichtung verwendet,
 
 14.  
-entgegen Artikel 18 Absatz 4 Buchstabe b mehr als 75 Kilogramm abgetrennte Scheren an Bord behält oder am Ende einer Fangreise anlandet,
+entgegen Artikel 18 Absatz 3 ein dort genanntes Meerestier nicht ganz an Bord behält oder anlandet,
 
 15.  
-entgegen Artikel 19 Absatz 1 ein untermaßiges Meerestier an Bord behält, umlädt, anlandet, befördert, lagert, verkauft, feilhält, zum Verkauf anbietet oder nicht oder nicht rechtzeitig wieder über Bord wirft,
+entgegen Artikel 18 Absatz 4 Buchstabe b mehr als 75 Kilogramm abgetrennte Scheren an Bord behält oder am Ende einer Fangreise anlandet,
 
 16.  
-entgegen Artikel 20 Absatz 1, Artikel 21 Absatz 1 oder Artikel 22 Absatz 1 in den dort bezeichneten Gebieten zu den dort angegebenen Zeiträumen einen Hering, eine Sprotte oder eine Makrele an Bord behält,
+entgegen Artikel 19 Absatz 3 ein untermaßiges Meerestier an Bord behält, umlädt, anlandet, befördert, lagert, verkauft, feilhält, zum Verkauf anbietet oder nicht oder nicht rechtzeitig wieder über Bord wirft,
 
 17.  
-entgegen Artikel 23 Absatz 1 eine Sardelle an Bord behält,
+entgegen Artikel 19a Absatz 1 eine quotengebundene Art zurückwirft,
 
 18.  
-entgegen Artikel 25 Absatz 1 einen Fang von dort genannten Garnelen an Bord behält,
+entgegen Artikel 19b Absatz 1 einen anderen Fanggrund nicht oder nicht rechtzeitig ansteuert,
 
 19.  
-entgegen Artikel 25 Absatz 2 Satz 1 ein dort genanntes Trichternetz oder ein Netz mit Sortiergitter nicht verwendet,
+entgegen Artikel 19b Absatz 2 Fisch einer dort genannten Art aussetzt,
 
 20.  
-entgegen Artikel 26 Absatz 1 oder Artikel 36 einen Lachs oder eine Meeresforelle an Bord behält, umlädt, anlandet, befördert, lagert, verkauft, feilhält, zum Verkauf anbietet oder nicht oder nicht rechtzeitig über Bord wirft,
+entgegen Artikel 20 Absatz 1, entgegen Artikel 21 Absatz 1 oder entgegen Artikel 22 Absatz 1 Unterabsatz 1 einen Hering, eine Sprotte oder eine Makrele an Bord behält,
 
 21.  
-entgegen Artikel 27 Absatz 1 in einem dort genannten Gebiet einen Stintdorsch an Bord behält,
+entgegen Artikel 20a Unterabsatz 1 in einem dort genannten Gebiet zu den dort angegebenen Zeiträumen Hering anlandet oder an Bord behält,
 
 22.  
-entgegen Artikel 28 Absatz 1 in den dort genannten Gebieten in einem dort genannten Zeitraum mit einem dort genannten Fanggerät fischt,
+entgegen Artikel 23 Absatz 1 Unterabsatz 1 in einem dort genannten Gebiet mit pelagischen Schleppnetzen Sardellen fängt,
 
 23.  
-entgegen Artikel 28 Absatz 2, Artikel 29 Absatz 5, Artikel 30 Absatz 2 oder Absatz 3 Satz 1 oder 2, Artikel 34 Absatz 5 oder Artikel 40 ein dort genanntes Fanggerät mitführt,
+entgegen Artikel 25 Absatz 1 einen Fang von dort genannten Garnelen an Bord behält,
 
 24.  
-entgegen Artikel 29 Absatz 1, Artikel 34 Absatz 1 oder 3 Satz 1, Artikel 37 Absatz 1 oder Artikel 39 in den dort genannten Gebieten ein dort genanntes Fanggerät verwendet, mit einem dort genannten Fanggerät fischt oder ein dort genanntes Fanggerät einsetzt oder verwendet,
+entgegen Artikel 25 Absatz 2 Satz 1 ein dort genanntes Trichternetz oder ein Netz mit Sortiergitter nicht verwendet,
 
 25.  
-entgegen Artikel 29a Absatz 1 einen Sandaal anlandet oder an Bord behält,
+entgegen Artikel 26 Absatz 1 einen Lachs oder eine Meerforelle an Bord behält, umlädt, anlandet, befördert, lagert, verkauft, feilhält, zum Verkauf anbietet oder nicht oder nicht rechtzeitig über Bord wirft,
 
 26.  
-entgegen Artikel 29b Absatz 1 in einem dort genannten Zeitraum in einem dort genannten Gebiet mit einem dort genannten Fanggerät fischt,
+entgegen Artikel 27 Absatz 1 einen Stintdorsch an Bord behält, der in einem dort genannten Gebiet mit einem Zugnetz gefangen wurde,
 
 27.  
-entgegen Artikel 30 Absatz 1 Satz 1 eine Baumkurre an Bord mitführt oder verwendet,
+entgegen Artikel 28 Absatz 1 in einem dort genannten Gebiet in einem dort genannten Zeitraum mit einem dort genannten Fanggerät fischt,
 
 28.  
-entgegen Artikel 30 Absatz 4 in einem dort genannten Gebiet ein dort genanntes Netz einsetzt,
+entgegen Artikel 28 Absatz 2 ein dort genanntes Fanggerät mitführt,
 
 29.  
-entgegen Artikel 31 Absatz 1 ein Meerestier fischt,
+entgegen Artikel 29 Absatz 1 in einem dort genannten Gebiet mit einem dort genannten Fanggerät fischt,
 
 30.  
-entgegen Artikel 31 Absatz 2 ein Meerestier verkauft, feilhält oder zum Kauf anbietet,
+entgegen Artikel 29 Absatz 5 ein dort genanntes Fanggerät an Bord mitführt,
 
 31.  
-entgegen Artikel 32 Absatz 1 eine dort genannte Vorrichtung an Bord mitführt oder einsetzt,
+entgegen Artikel 29a Absatz 1 Unterabsatz 1 einen Sandaal anlandet oder an Bord behält,
 
 32.  
-entgegen Artikel 38 einen Hering, eine Makrele oder eine Sprotte an Bord behält oder
+entgegen Artikel 29b Absatz 1 in einem dort genannten Zeitraum in einem dort genannten Gebiet mit einem dort genannten Fanggerät fischt,
 
 33.  
+entgegen Artikel 29b Absatz 4 Unterabsatz 1 Satz 1 fischt, obwohl der Beifang von Kaisergranat 5 Prozent übersteigt,
+
+34.  
+entgegen Artikel 29c, entgegen Artikel 29d Absatz 1 oder entgegen Artikel 29e Absatz 1 Satz 1 fischt,
+
+35.  
+entgegen Artikel 29d Absatz 2 nicht sicherstellt, dass ein dort genanntes Fanggerät festgezurrt und verstaut ist,
+
+36.  
+entgegen Artikel 29d Absatz 12 Satz 1 in einem dort genannten Zeitraum in einem dort genannten Gebiet mit einem dort genannten Fanggerät fischt,
+
+37.  
+entgegen Artikel 29f Absatz 1 einen dort genannten Fang in dem dort genannten Zeitraum in einem dort genannten Gebiet an Bord behält,
+
+38.  
+entgegen Artikel 29f Absatz 3 die Fangtätigkeit nicht oder nicht rechtzeitig einstellt, nicht das Gebiet verlässt, erneut in ein genanntes Gebiet einfährt oder Blauleng ins Meer zurückwirft,
+
+39.  
+entgegen Artikel 29f Absatz 5 in dem dort genannten Zeitraum in dem dort genannten Gebiet ein dort genanntes Fanggerät einsetzt,
+
+40.  
+entgegen Artikel 29g Absatz 2 einen dort genannten Beifang von Rotbarsch tätigt,
+
+41.  
+entgegen Artikel 29g Absatz 4 oder Artikel 29h Absatz 5 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+42.  
+entgegen Artikel 29h Absatz 1 Unterabsatz 1 Rotbarsch in einem dort genannten Gebiet fängt,
+
+43.  
+entgegen Artikel 29h Absatz 3 ein dort genanntes Schleppnetz verwendet,
+
+44.  
+entgegen Artikel 30
+
+a)  
+Absatz 1 Satz 1 oder
+
+b)  
+Absatz 2
+
+eine dort genannte Baumkurre an Bord mitführt oder verwendet,
+
+45.  
+entgegen Artikel 30 Absatz 3 Satz 1 in dem dort genannten Gebiet ein dort genanntes Fanggerät verwendet,
+
+46.  
+entgegen Artikel 30 Absatz 3 Satz 2 in dem dort genannten Gebiet ein dort genanntes Fanggerät an Bord mitführt,
+
+47.  
+entgegen Artikel 30
+
+a)  
+Absatz 4 oder
+
+b)  
+Absatz 5
+
+in einem dort genannten Gebiet ein dort genanntes Netz einsetzt,
+
+48.  
+entgegen Artikel 31 Absatz 1 ein Meerestier fischt,
+
+49.  
+entgegen Artikel 31 Absatz 2 ein Meerestier verkauft, feilhält oder zum Kauf anbietet,
+
+50.  
+entgegen Artikel 32 Absatz 1 eine dort genannte Vorrichtung an Bord mitführt oder einsetzt,
+
+51.  
+entgegen Artikel 32a Absatz 2 Fisch löscht,
+
+52.  
+entgegen Artikel 34 Absatz 1 in einem dort genannten Gebiet mit Baumkurren fischt,
+
+53.  
+entgegen Artikel 34 Absatz 3 Satz 1 eine dort genannte Baumkurre verwendet,
+
+54.  
+entgegen Artikel 34 Absatz 5 ein dort genanntes Netz in einem dort genannten Gebiet an Bord mitführt,
+
+55.  
+entgegen Artikel 34a Absatz 1 ein dort genanntes Fanggerät in einem dort genannten Gebiet in dem dort genannten Zeitraum einsetzt,
+
+56.  
+entgegen Artikel 34b Absatz 1 ein dort genanntes Netz in einem dort genannten Gebiet ausbringt,
+
+57.  
+ohne Fangerlaubnis nach Artikel 34b Absatz 4 ein dort genanntes Netz in einem dort genannten Gebiet ausbringt,
+
+58.  
+entgegen Artikel 34b Absatz 5 Satz 1 mehr als ein dort genanntes Fanggerät mitführt,
+
+59.  
+entgegen Artikel 34b Absatz 9 nicht in einem dort genannten Hafen anlandet,
+
+60.  
+entgegen Artikel 34b Absatz 10 mehr als die dort genannten 5 Prozent der dort genannten Gesamtmenge an Hai an Bord behält,
+
+61.  
+entgegen Artikel 34d Absatz 1 in einem dort genannten Gebiet mit einem dort genannten Fanggerät fischt,
+
+62.  
+entgegen Artikel 34d Absatz 2 eine Unterrichtung nicht oder nicht rechtzeitig vornimmt, den Fischfang nicht oder nicht rechtzeitig einstellt oder sich nicht, nicht richtig oder nicht rechtzeitig entfernt,
+
+63.  
+entgegen Artikel 34e Absatz 1 in einem dort genannten Gebiet mit einem dort genannten Fanggerät fischt,
+
+64.  
+entgegen Artikel 34e Absatz 2 Satz 2 nicht nur pelagisches Fanggerät an Bord mitführt,
+
+65.  
+entgegen Artikel 34e Absatz 7 für den Fischfang in einem dort genannten Gebiet nicht nur ein dort genanntes Netz an Bord mitführt und zum Fang einsetzt,
+
+66.  
+entgegen Artikel 34f Absatz 1 in dem dort genannten Gebiet mit einem dort genannten Fanggerät fischt,
+
+67.  
+entgegen Artikel 36 einen dort genannten Lachs oder eine dort genannte Meerforelle an Bord behält, umlädt, anlandet, befördert, lagert, verkauft, feilhält oder zum Verkauf anbietet oder nicht oder nicht rechtzeitig wieder über Bord wirft,
+
+68.  
+entgegen Artikel 37 Absatz 1 in einem dort genannten Gebiet ein dort genanntes Schleppnetz einsetzt,
+
+69.  
+entgegen Artikel 39 in dem dort genannten Gebiet eine Baumkurre einsetzt,
+
+70.  
+entgegen Artikel 40 ein dort genanntes Fanggerät an Bord mitführt oder
+
+71.  
 entgegen Artikel 42 Absatz 1 Satz 1 einen Fisch verarbeitet oder einen Fang zu diesem Zweck umlädt.
 
-(2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer als Kapitän vorsätzlich oder fahrlässig entgegen Artikel 22 Absatz 3 Unterabsatz 2 oder 3 Satz 1 oder Unterabsatz 4 der Verordnung (EG) Nr. 850/98 eine Unterrichtung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt.
+(2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer als Kapitän oder als eine andere an Bord befindliche Person vorsätzlich oder fahrlässig entgegen Artikel 29d Absatz 12 Satz 2 der Verordnung (EG) Nr. 850/98 eine Person an Bord dazu anhält oder ihr gestattet, den Versuch zu unternehmen, in dem betreffenden Gebiet zu fischen oder in diesem Gebiet gefangenen Fisch anzulanden, umzuladen oder an Bord zu behalten.
 
-### § 7 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1434/98
-
-Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1434/98 des Rates vom 29. Juni 1998 über die zulässige Anlandung von Hering zu industriellen Zwecken ohne Bestimmung für den unmittelbaren menschlichen Verzehr (ABl. L 191 vom 7.7.1998, S. 10), die durch die Verordnung (EG) Nr. 2187/2005 (ABl. L 349 vom 31.12.2005, S. 1) geändert worden ist, verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
+(3) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 850/98 verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
 1.  
-entgegen Artikel 2 einen Heringsfang an Bord behält oder
+entgegen Artikel 22 Absatz 3 Unterabsatz 2 oder Unterabsatz 3 Satz 1 oder Unterabsatz 4 eine Unterrichtung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
 
 2.  
-entgegen Artikel 3 Absatz 1 einen Hering anlandet.
+entgegen Artikel 34b Absatz 6 eine Eintragung ins Logbuch nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
 
-### § 8 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2549/2000
+3.  
+entgegen Artikel 34b Absatz 8 eine Eintragung ins Logbuch während jeder Fangreise nicht, nicht richtig oder nicht vollständig vornimmt,
+
+4.  
+entgegen Artikel 34e Absatz 3 Satz 1 eine dort genannte Bekanntmachung nicht oder nicht rechtzeitig vornimmt oder
+
+5.  
+entgegen Artikel 34e Absatz 3 Satz 2 oder Absatz 6 Satz 1 oder 2 eine Meldung nicht oder nicht rechtzeitig macht.
+
+### § 7 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2549/2000
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer als Kapitän vorsätzlich oder fahrlässig entgegen Artikel 2 der Verordnung (EG) Nr. 2549/2000 des Rates vom 17. November 2000 mit zusätzlichen technischen Maßnahmen zur Wiederauffüllung des Kabeljaubestands in der Irischen See (ICES-Gebiet VIIa) (ABl. L 292 vom 21.11.2000, S. 5), die durch die Verordnung (EG) Nr. 1456/2001 des Rates (ABl. L 194 vom 18.7.2001, S. 1) geändert worden ist, ein dort genanntes Schleppnetzgeschirr verwendet.
 
-### § 9 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1035/2001
+### § 8 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1035/2001
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 17 der Verordnung (EG) Nr. 1035/2001 des Rates vom 22. Mai 2001 zur Einführung einer Fangdokumentationsregelung für Dissostichus spp. (ABl. L 145 vom 31.5.2001, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1368/2006 (ABl. L 253 vom 16.9.2006, S. 1) geändert worden ist, Dissostichus spp. einführt.
 
-### § 10 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2056/2001
+### § 9 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2056/2001
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 2056/2001 der Kommission vom 19. Oktober 2001 mit zusätzlichen technischen Maßnahmen zur Wiederauffüllung der Kabeljaubestände in der Nordsee und westlich von Schottland (ABl. L 277 vom 20.10.2001, S. 13) verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
@@ -235,7 +394,7 @@ entgegen Artikel 7 Kabeljau an Bord behält oder
 6.  
 entgegen Artikel 8 Absatz 1 Satz 1 ein dort genanntes Grundschleppnetz einsetzt.
 
-### § 11 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 494/2002
+### § 10 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 494/2002
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 494/2002 der Kommission vom 19. März 2002 mit zusätzlichen technischen Maßnahmen zur Wiederauffüllung des Seehechtsbestands in den ICES-Gebieten III, IV, V, VI und VII sowie VIII a, b, d, e (ABl. L 77 vom 20.3.2002, S. 8) verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
@@ -246,58 +405,25 @@ entgegen Artikel 3 ein dort genanntes Netz oder ein dort genanntes Netzteil verw
 entgegen Artikel 4 Satz 1 erster Halbsatz eine dort genannte Baumkurre an Bord mitführt oder ausbringt,
 
 3.  
-entgegen Artikel 5 Absatz 2 Satz 1 erster oder zweiter Anstrich oder Artikel 6 Absatz 1 oder Absatz 2 ein dort genanntes Schleppnetz oder eine dort genannte Baumkurre einsetzt oder zu Wasser lässt,
+entgegen Artikel 5 Absatz 2 Satz 1 erster oder zweiter Anstrich oder Artikel 6 Absatz 1 oder Absatz 2 ein dort genanntes Schleppnetz oder eine dort genannte Baumkurre einsetzt oder ganz oder teilweise zu Wasser lässt,
 
 4.  
-entgegen Artikel 5 Absatz 2 Satz 2 erster Anstrich oder Satz 3 erster Anstrich Fischfang betreibt,
+entgegen Artikel 5 Absatz 2 Satz 2 erster Anstrich oder Satz 3 erster Anstrich Fischfang betreibt oder
 
 5.  
-entgegen Artikel 5 Absatz 2 Satz 2 zweiter Anstrich oder Satz 3 zweiter Anstrich ein dort genanntes Fanggerät zu Wasser lässt oder ausbringt oder
+entgegen Artikel 5 Absatz 2 Satz 2 zweiter Anstrich oder Satz 3 zweiter Anstrich ein dort genanntes Fanggerät ganz oder teilweise zu Wasser lässt oder ausbringt.
 
-6.  
-entgegen Artikel 6 Absatz 1 oder Absatz 2 eine dort genannte Baumkurre zu Wasser lässt oder einsetzt.
+### § 11 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1185/2003
 
-### § 12 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2347/2002
-
-(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen Artikel 3 Absatz 1 Unterabsatz 2 der Verordnung (EG) Nr. 2347/2002 des Rates vom 16. Dezember 2002 mit spezifischen Zugangsbedingungen und einschlägigen Bestimmungen für die Fischerei auf Tiefseebestände (ABl. L 351 vom 28.12.2002, S. 6), die zuletzt durch die Verordnung (EG) Nr. 2269/2004 (ABl. L 396 vom 31.12.2004, S. 1) geändert worden ist, verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1185/2003 des Rates vom 26. Juni 2003 über das Abtrennen von Haifischflossen an Bord von Schiffen (ABl. L 167 vom 4.7.2003, S. 1), die durch die Verordnung (EU) Nr. 605/2013 (ABl. L 181 vom 29.6.2013, S. 1) geändert worden ist, verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
 1.  
-ohne Tiefsee-Fangerlaubnis mehr als 100 Kilogramm an Tiefseearten fängt und an Bord behält, umlädt oder anlandet,
+entgegen Artikel 3 Absatz 1 eine Haifischflosse an Bord abtrennt, an Bord mitführt, umlädt oder anlandet oder
 
 2.  
-entgegen Artikel 6 Absatz 2 den Hafen verlässt oder
+entgegen Artikel 3 Absatz 2 eine Haifischflosse zum Verkauf anbietet.
 
-3.  
-entgegen Artikel 7 Absatz 1 über einhundert Kilogramm einer Mischung aus Tiefseearten anlandet.
-
-(2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 2347/2002 verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
-
-1.  
-entgegen Artikel 5 eine Angabe nicht, nicht richtig oder nicht vollständig in dem Logbuch vermerkt oder
-
-2.  
-entgegen Artikel 6 Absatz 1 eine Meldung nicht, nicht richtig oder nicht rechtzeitig macht.
-
-### § 13 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2371/2002
-
-Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 18 Absatz 1 der Verordnung (EG) Nr. 2371/2002 des Rates vom 20. Dezember 2002 über die Erhaltung und nachhaltige Nutzung der Fischereiressourcen im Rahmen der Gemeinsamen Fischereipolitik (ABl. L 358 vom 31.12.2002, S. 59), die zuletzt durch die Verordnung (EG) Nr. 1224/2009 (ABl. L 343 vom 22.12.2009, S. 1) geändert worden ist, ohne Genehmigung in einem dort genannten Gebiet fischt.
-
-### § 14 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1185/2003
-
-(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1185/2003 des Rates vom 26. Juni 2003 über das Abtrennen von Haifischflossen an Bord von Schiffen (ABl. L 167 vom 4.7.2003, S. 1) verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
-
-1.  
-entgegen Artikel 3 Absatz 1 eine Haifischflosse an Bord abtrennt, an Bord mitführt, umlädt oder anlandet,
-
-2.  
-entgegen Artikel 3 Absatz 2 eine Haifischflosse zum Verkauf anbietet oder
-
-3.  
-entgegen Artikel 4 Absatz 3 ein dort genanntes Teil eines Haifischs ins Meer zurückwirft.
-
-(2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 5 Absatz 1 Unterabsatz 1 der Verordnung (EG) Nr. 1185/2003 nicht, nicht richtig oder nicht vollständig Buch führt.
-
-### § 15 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1984/2003
+### § 12 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1984/2003
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1984/2003 des Rates vom 8. April 2003 über eine Regelung zur statistischen Erfassung von Schwertfisch und Großaugenthun in der Gemeinschaft (ABl. L 295 vom 13.11.2003, S. 1), die zuletzt durch die Verordnung (EU) Nr. 640/2010 (ABl. L 194 vom 24.7.2010, S. 1) geändert worden ist, verstößt, indem er als Eigentümer oder dessen Beauftragter vorsätzlich oder fahrlässig
 
@@ -324,9 +450,117 @@ entgegen Artikel 5 Absatz 1 ein dort genanntes Dokument nicht, nicht richtig, ni
 4.  
 entgegen Artikel 6 Absatz 1 eine Wiederausfuhrbescheinigung nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise beifügt.
 
-### § 16 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 812/2004
+### § 13 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 600/2004
 
-Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 812/2004 des Rates vom 26. April 2004 zur Festlegung von Maßnahmen gegen Walbeifänge in der Fischerei und zur Änderung der Verordnung (EG) Nr. 88/98 (ABl. L 150 vom 30.4.2004, S. 12, L 185 vom 24.5.2004, S. 4), die durch die Verordnung (EG) Nr. 809/2007 (ABl. L 182 vom 12.7.2007, S. 1) geändert worden ist, verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 600/2004 des Rates vom 22. März 2004 mit technischen Maßnahmen für die Fischerei im Bereich des Übereinkommens über die Erhaltung der lebenden Meeresschätze der Antarktis (ABl. L 97 vom 1.4.2004, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+als Kapitän entgegen Artikel 3 Absatz 1, 2, 3 Satz 1, Absatz 4 oder Absatz 6 eine Fischerei ausübt,
+
+2.  
+als Kapitän entgegen Artikel 4 Absatz 1 bei der Fischerei auf dort genannten Arten ein dort genanntes Netz einsetzt,
+
+3.  
+entgegen Artikel 4 Absatz 2 eine Vorrichtung verwendet,
+
+4.  
+als Kapitän entgegen Artikel 6 Absatz 1 Satz 1 zweiter Halbsatz einen Krebs nicht unversehrt freilässt,
+
+5.  
+entgegen Artikel 7 Absatz 1 Unterabsatz 1 oder Unterabsatz 2 einen dort genannten Verpackungsgurt verwendet,
+
+6.  
+als Kapitän entgegen Artikel 7 Absatz 3 erster Halbsatz Plastikrückstände nicht an Bord aufbewahrt,
+
+7.  
+als Kapitän entgegen Artikel 8 Absatz 1 Satz 3 einen nicht aufgetauten Köder verwendet,
+
+8.  
+entgegen Artikel 8 Absatz 2 Satz 1 eine Langleine ausbringt,
+
+9.  
+als Kapitän entgegen Artikel 8 Absatz 3 Satz 1 Fischabfälle über Bord wirft,
+
+10.  
+entgegen Artikel 8 Absatz 5 Satz 1 keine dort genannte Scheuvorrichtung schleppt,
+
+11.  
+entgegen Artikel 9 Absatz 1 ein Netzsteuerkabel verwendet,
+
+12.  
+entgegen Artikel 9 Absatz 3 Fischabfälle über Bord wirft,
+
+13.  
+als Kapitän entgegen Artikel 10 Absatz 1 oder Absatz 2 ein Fischereifahrzeug nicht an einen anderen Fangplatz begibt,
+
+14.  
+als Kapitän entgegen Artikel 11 Absatz 3 Satz 2 erster Halbsatz den Fischfang nicht einstellt,
+
+15.  
+entgegen Artikel 12 Absatz 1 Champsocephalus gunnari während des dort genannten Zeitraums in dem dort genannten Gebiet fischt,
+
+16.  
+als Kapitän entgegen Artikel 12 Absatz 2 Satz 1 ein Fischereifahrzeug nicht an einen dort genannten Fangplatz begibt,
+
+17.  
+als Kapitän entgegen Artikel 12 Absatz 3 seine Fischereitätigkeit nicht oder nicht rechtzeitig einstellt,
+
+18.  
+als Kapitän entgegen Artikel 12 Absatz 4 nicht in dem dort genannten Umfang Hols zu Forschungszwecken ausführt oder
+
+19.  
+entgegen Artikel 14 Absatz 1, 2 oder Absatz 3 eine dort genannte Person nicht an Bord nimmt.
+
+(2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 600/2004 verstößt, indem er vorsätzlich oder fahrlässig entgegen Artikel 6 Absatz 2 einen verarbeiteten Krebs nicht in der vorgeschriebenen Weise einfriert.
+
+### § 14 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 601/2004
+
+(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 601/2004 des Rates vom 22. März 2004 zur Festlegung von Kontrollmaßnahmen für die Fischerei im Regelungsbereich des Übereinkommens über die Erhaltung der lebenden Meeresschätze der Antarktis und zur Aufhebung der Verordnung (EWG) Nr. 3943/90, (EG) Nr. 66/98 und (EG) Nr. 1721/1999 (ABl. L 97 vom 1.4.2004, S. 16), die zuletzt durch die Verordnung (EG) Nr. 1005/2008 (ABl. L 286 vom 29.10.2008, S. 1) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+als Kapitän entgegen Artikel 3 Absatz 1 ohne eine dort genannte spezielle Fangerlaubnis einen dort genannten Bestand befischt oder einen Fang an Bord behält, umlädt oder anlandet,
+
+2.  
+als Kapitän entgegen Artikel 4 Absatz 1 eine spezielle Fangerlaubnis oder eine beglaubigte Kopie nicht mitführt,
+
+3.  
+entgegen Artikel 6 Absatz 1 eine neue Fischerei ausübt,
+
+4.  
+entgegen Artikel 7 Absatz 1 eine Versuchsfischerei ausübt,
+
+5.  
+als Kapitän entgegen Artikel 7a Buchstabe a einen dort genannten Stoff ins Meer einbringt,
+
+6.  
+entgegen Artikel 7a Buchstabe b lebendes Geflügel oder einen lebenden Vogel in die dort genannten Gebiete verbringt oder nicht aufgebrauchtes geschlachtetes Geflügel nicht aus den dort genannten Gebieten entfernt,
+
+7.  
+entgegen Artikel 7a Buchstabe c Dissostichus spp. in den dort genannten Gebieten fischt,
+
+8.  
+als Kapitän entgegen Artikel 7b Absatz 1 Buchstabe a Satz 1 ein Exemplar von Dissostichus ssp. nicht markiert und wieder freilässt oder
+
+9.  
+als Kapitän entgegen Artikel 7b Absatz 1 Buchstabe d einen wieder gefangenen markierten Fisch freilässt.
+
+(2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 601/2004 verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+als Kapitän entgegen Artikel 9 Absatz 1 eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+2.  
+als Kapitän entgegen Artikel 13 Absatz 1 erster Halbsatz, Artikel 14 Absatz 1, Artikel 17 Absatz 1, Artikel 18 Absatz 1 oder Artikel 19 Absatz 1 Satz 1 die dort genannten Fang- und Aufwandsdaten oder eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+
+3.  
+als Kapitän entgegen Artikel 24 Absatz 2 Satz 1 einer dort genannten Person das Übersetzen an Bord nicht gestattet oder
+
+4.  
+als Kapitän entgegen Artikel 27 Absatz 2 Satz 1 die Ankunft eines Schiffes nicht oder nicht rechtzeitig anmeldet oder die dort genannte Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig abgibt.
+
+### § 15 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 812/2004
+
+Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 812/2004 des Rates vom 26. April 2004 zur Festlegung von Maßnahmen gegen Walbeifänge in der Fischerei und zur Änderung der Verordnung (EG) Nr. 88/98 (ABl. L 150 vom 30.4.2004, S. 12, L 185 vom 24.5.2004, S. 4), die zuletzt durch die Verordnung (EU) Nr. 597/2014 (ABl. L 173 vom 12.6.2014, S. 62) geändert worden ist, verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
 1.  
 entgegen Artikel 2 Absatz 1 ein dort genanntes Fanggerät einsetzt oder
@@ -334,7 +568,7 @@ entgegen Artikel 2 Absatz 1 ein dort genanntes Fanggerät einsetzt oder
 2.  
 entgegen Artikel 2 Absatz 2 nicht gewährleistet, dass eine akustische Abschreckvorrichtung bei Ausbringen des Fanggeräts voll funktionsfähig ist.
 
-### § 17 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2115/2005
+### § 16 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2115/2005
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 2115/2005 des Rates vom 20. Dezember 2005 zur Einführung eines Wiederauffüllungsplans für Schwarzen Heilbutt im Rahmen der Organisation für die Fischerei im Nordwestatlantik (ABl. L 340 vom 23.12.2005, S. 3), die zuletzt durch die Verordnung (EG) Nr. 1224/2009 (ABl. L 343 vom 31.12.2009, S. 1) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -370,128 +604,80 @@ entgegen Artikel 10 Absatz 2 einen dort genannten Fang entlädt oder umlädt ode
 6.  
 als Kapitän entgegen Artikel 10 Absatz 3 eine dort genannte Menge nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig wiegt.
 
-### § 18 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2187/2005
+### § 17 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2187/2005
 
-Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 2187/2005 des Rates vom 21. Dezember 2005 mit technischen Maßnahmen für die Erhaltung der Fischereiressourcen in der Ostsee, den Belten und dem Öresund, zur Änderung der Verordnung (EG) Nr. 1434/98 und zur Aufhebung der Verordnung (EG) Nr. 88/98 (ABl. L 349 vom 31.12.2005, S. 1), die zuletzt durch die Verordnung (EU) Nr. 1237/2010 (ABl. L 348 vom 31.12.2010, S. 34) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 2187/2005 des Rates vom 21. Dezember 2005 mit technischen Maßnahmen für die Erhaltung der Fischereiressourcen in der Ostsee, den Belten und dem Öresund, zur Änderung der Verordnung (EG) Nr. 1434/98 und zur Aufhebung der Verordnung (EG) Nr. 88/98 (ABl. L 349 vom 31.12.2005, S. 1), die zuletzt durch die Verordnung (EU) 2015/812 (ABl. L 133 vom 29.5.2015, S. 1) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  
-als Kapitän entgegen Artikel 3 Absatz 3 lebende aquatische Ressourcen an Bord behält oder anlandet,
+als Kapitän entgegen Artikel 3 Absatz 1 Unterabsatz 2 eine dort genannte Art befischt,
 
 2.  
-als Kapitän entgegen Artikel 3 Absatz 4 oder Absatz 5 Satz 1 ein dort genanntes Kiemennetz, Verwickelnetz oder Spiegelnetz verwendet,
+als Kapitän entgegen Artikel 3 Absatz 3 Unterabsatz 1 eine dort genannte Ressource an Bord behält oder anlandet,
 
 3.  
-als Kapitän entgegen Artikel 3 Absatz 6 den Ertrag einer Fangreise anlandet,
+als Kapitän entgegen Artikel 3 Absatz 3 Unterabsatz 2 Satz 2, entgegen Artikel 3 Absatz 6 Unterabsatz 2 Satz 2, entgegen Artikel 12 Absatz 1 Satz 2 oder entgegen Artikel 17 Absatz 1 Unterabsatz 2 Satz 3 einen dort genannten Fang nicht anlandet,
 
 4.  
+als Kapitän entgegen Artikel 3 Absatz 4 oder Absatz 5 Satz 1 ein dort genanntes Netz verwendet,
+
+5.  
+als Kapitän entgegen Artikel 3 Absatz 6 Unterabsatz 1 einen Ertrag einer Fangreise anlandet,
+
+6.  
 als Kapitän entgegen Artikel 5 Absatz 1 eine dort genannte Vorrichtung verwendet,
 
-5.  
+7.  
 als Kapitän entgegen Artikel 6 oder Artikel 8 Absatz 1 ein dort genanntes Netz oder Netzteil verwendet,
 
-6.  
+8.  
 als Kapitän entgegen Artikel 8 Absatz 2 ein dort genanntes Netz länger als 48 Stunden stellt,
 
-7.  
+9.  
 als Kapitän entgegen Artikel 9 Absatz 1 ein Treibnetz an Bord mitführt oder zur Fischerei einsetzt,
 
-8.  
-als Kapitän entgegen Artikel 12 Absatz 1 eine Menge lebender aquatischer Ressourcen anlandet oder nicht oder nicht rechtzeitig wieder über Bord wirft,
+10.  
+als Kapitän entgegen Artikel 12 Absatz 2 Meerestiere nicht oder nicht rechtzeitig wieder über Bord wirft,
 
-9.  
+11.  
 als Kapitän entgegen Artikel 13 Absatz 1 ein Fanggerät nicht, nicht richtig oder nicht in der vorgeschriebenen Weise verstaut,
 
-10.  
+12.  
 als Kapitän entgegen Artikel 13 Absatz 3 ein anderes Fanggerät an Bord mitführt,
 
-11.  
-als Kapitän entgegen Artikel 15 Absatz 1 einen untermaßigen Fisch an Bord behält, umlädt, anlandet, befördert, lagert, verkauft, feilhält oder zum Verkauf anbietet oder einen solchen nicht oder nicht rechtzeitig wieder ins Meer wirft,
-
-12.  
-als Kapitän entgegen Artikel 15a eine dort genannte Art nicht oder nicht vollständig an Bord nimmt oder nicht, nicht vollständig oder nicht rechtzeitig anlandet,
-
 13.  
-als Kapitän entgegen Artikel 16 das dort genannte Gebiet befischt,
+als Kapitän entgegen Artikel 15 Absatz 1b ein dort genanntes Meerestier an Bord behält, umlädt, anlandet, befördert, lagert, verkauft, feilhält oder zum Verkauf anbietet oder nicht oder nicht rechtzeitig wieder über Bord wirft,
 
 14.  
-als Kapitän entgegen Artikel 17 Absatz 1 einen Lachs oder eine Meerforelle an Bord behält,
+als Kapitän entgegen Artikel 15a eine dort genannte Art nicht oder nicht vollständig an Bord nimmt oder nicht, nicht vollständig oder nicht rechtzeitig anlandet,
 
 15.  
-als Kapitän entgegen Artikel 18 einen Aal an Bord behält,
+als Kapitän entgegen Artikel 16 ein dort genanntes Gebiet mit einem aktiven Fanggerät befischt,
 
 16.  
-als Kapitän entgegen Artikel 18a Absatz 1 eine dort genannte Fischart an Bord behält,
+als Kapitän entgegen Artikel 17 Absatz 1 Unterabsatz 1 einen Lachs oder eine Meerforelle an Bord behält,
 
 17.  
-als Kapitän entgegen Artikel 19 Absatz 1 einen nicht sortierten Fang anlandet,
+als Kapitän entgegen Artikel 17 Absatz 1 Unterabsatz 2 Satz 4 eine dort genannte Art befischt,
 
 18.  
-als Kapitän ohne spezielle Fangerlaubnis nach Artikel 20 Absatz 1 in dem dort genannten Gebiet Fischfang betreibt,
+als Kapitän entgegen Artikel 18 oder Artikel 18a Absatz 1 eine dort genannte Fischart an Bord behält,
 
 19.  
-als Kapitän entgegen Artikel 22 in dem dort genannten Gebiet mit Schleppnetzen in Gewässern von weniger als 20 Metern fischt,
+als Kapitän entgegen Artikel 19 Absatz 1 einen dort genannten Fang anlandet,
 
 20.  
-entgegen Artikel 23 Absatz 1 eine lebende aquatische Ressource unter Verwendung von Sprengstoff, Gift, betäubenden Stoffen, elektrischem Strom oder Geschossen fischt oder
+als Kapitän ohne spezielle Fangerlaubnis nach Artikel 20 Absatz 1 in dem dort genannten Gebiet Fischfang betreibt,
 
 21.  
-entgegen Artikel 23 Absatz 2 eine lebende aquatische Ressource verkauft, feilhält oder zum Verkauf anbietet.
+als Kapitän entgegen Artikel 22 in dem dort genannten Gebiet mit einem Schleppnetz fischt,
 
-### § 19 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1098/2007
+22.  
+entgegen Artikel 23 Absatz 1 eine dort genannte Ressource fischt oder
 
-(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1098/2007 des Rates vom 18. September 2007 zur Festlegung eines Mehrjahresplans für die Dorschbestände der Ostsee und für die Fischereien, die diese Bestände befischen, zur Änderung der Verordnung (EWG) Nr. 2847/93 und zur Aufhebung der Verordnung (EG) Nr. 779/97 (ABl. L 248 vom 22.9.2007, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1224/2009 (ABl. L 343 vom 22.12.2009, S. 1) geändert worden ist, verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
+23.  
+entgegen Artikel 23 Absatz 2 eine dort genannte Ressource verkauft, feilhält oder zum Verkauf anbietet.
 
-1.  
-entgegen Artikel 8 Absatz 1 eine Fischerei mit einem dort genannten Fanggerät in einem dort genannten Gebiet in einem dort genannten Zeitraum ausübt,
-
-2.  
-entgegen Artikel 8 Absatz 2 oder Artikel 9 Absatz 3 einen Dorsch an Bord behält,
-
-3.  
-entgegen Artikel 9 Absatz 1 in einem dort genannten Gebiet in dem dort genannten Zeitraum Fischfang betreibt,
-
-4.  
-entgegen Artikel 9 Absatz 2 Satz 2 ein anderes Fanggerät an Bord behält,
-
-5.  
-ohne eine spezielle Fangerlaubnis entgegen Artikel 10 Absatz 1 Dorschfang betreibt,
-
-6.  
-entgegen Artikel 16 Absatz 1 während einer Fangreise in mehr als in einem der dort genannten Gebiete fischt,
-
-7.  
-entgegen Artikel 16 Absatz 2 Unterabsatz 1 eine Fangtätigkeit in mehr als in einem der dort genannten Gebiete aufnimmt,
-
-8.  
-entgegen Artikel 16 Absatz 3 Buchstabe a einen dort genannten Hafen nicht oder nicht rechtzeitig anläuft oder einen Fisch nicht oder nicht rechtzeitig anlandet,
-
-9.  
-entgegen Artikel 16 Absatz 3 Buchstabe b ein Netz nicht oder nicht in der vorgeschriebenen Weise verstaut,
-
-10.  
-entgegen Artikel 16 Absatz 4 Satz 1 in einem dort genannten Gebiet fischt oder mit einer Fischereitätigkeit beginnt,
-
-11.  
-entgegen Artikel 18 Absatz 1 einen Dorsch anlandet,
-
-12.  
-entgegen Artikel 21 Absatz 1 ein Dorschschutzgebiet durchfährt oder
-
-13.  
-entgegen Artikel 21 Absatz 2 einen Dorsch umlädt.
-
-(2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1098/2007 verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
-
-1.  
-entgegen Artikel 11 Absatz 1 ein Logbuch nicht, nicht richtig oder nicht vollständig führt,
-
-2.  
-entgegen Artikel 17 Absatz 1 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
-
-3.  
-entgegen Artikel 22 eine Anlandeerklärung nicht, nicht richtig oder nicht rechtzeitig ausfüllt.
-
-### § 20 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1386/2007
+### § 18 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1386/2007
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1386/2007 des Rates vom 22. Oktober 2007 mit Bestandserhaltungs- und Kontrollmaßnahmen für den Regelungsbereich der Organisation für die Fischerei im Nordwestatlantik (ABl. L 318 vom 5.12.2007, S. 1), die zuletzt durch die Verordnung (EG) Nr. 679/2009 des Rates (ABl. L 197 vom 29.7.2009, S. 1) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -638,17 +824,7 @@ als Kapitän entgegen Artikel 63f Absatz 2 Satz 1 einen Kontrollbericht nicht un
 21.  
 entgegen Artikel 68 Absatz 1 Satz 2 in Verbindung mit Artikel 63b Absatz 1 eine Mitteilung nicht, nicht richtig oder nicht rechtzeitig macht.
 
-### § 21 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 199/2008
-
-Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 199/2008 des Rates vom 25. Februar 2008 zur Einführung einer gemeinschaftlichen Rahmenregelung für die Erhebung, Verwaltung und Nutzung von Daten im Fischereisektor und Unterstützung wissenschaftlicher Beratung zur Durchführung der Gemeinsamen Fischereipolitik (ABl. L 60 vom 5.3.2008, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
-
-1.  
-entgegen Artikel 11 Absatz 3 eine Einschiffung nicht gestattet oder Beprobungspersonal bei der Wahrnehmung seiner Aufgaben nicht unterstützt oder
-
-2.  
-entgegen Artikel 11 Absatz 4 Satz 1 Beprobungspersonal den Aufenthalt an Bord aus anderen als den dort genannten Gründen verweigert.
-
-### § 22 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 734/2008
+### § 19 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 734/2008
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 734/2008 des Rates vom 15. Juli 2008 zum Schutz empfindlicher Tiefseeökosysteme vor den schädlichen Auswirkungen von Grundfanggeräten (ABl. L 201 vom 30.7.2008, S. 8) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -666,7 +842,7 @@ als Kapitän entgegen Artikel 9 Absatz 2 den Hafen wieder verlässt.
 
 (2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer als Kapitän vorsätzlich oder fahrlässig entgegen Artikel 5 Absatz 2 Satz 1, Artikel 7 Absatz 3 oder Artikel 9 Absatz 1 der Verordnung (EG) Nr. 734/2008 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-### § 23 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1005/2008
+### § 20 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1005/2008
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1005/2008 des Rates vom 29. September 2008 über ein Gemeinschaftssystem zur Verhinderung, Bekämpfung und Unterbindung der illegalen, nicht gemeldeten und unregulierten Fischerei, zur Änderung der Verordnungen (EWG) Nr. 2847/93, (EG) Nr. 1936/2001 und (EG) Nr. 601/2004 und zur Aufhebung der Verordnungen (EG) Nr. 1093/94 und (EG) Nr. 1447/1999 (ABl. L 286 vom 29.10.2008, S. 1), die zuletzt durch die Verordnung (EU) Nr. 202/2011 (ABl. L 57 vom 2.3.2011, S. 10) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -726,7 +902,7 @@ entgegen Artikel 14 Absatz 2 Satz 1 eine dort genannte Erklärung nicht, nicht r
 3.  
 entgegen Artikel 16 Absatz 1 Satz 1 eine validierte Fangbescheinigung nicht, nicht richtig oder nicht rechtzeitig vorlegt.
 
-### § 24 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1006/2008
+### § 21 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1006/2008
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1006/2008 des Rates vom 29. September 2008 über die Genehmigung der Fischereitätigkeiten von Fischereifahrzeugen der Gemeinschaft außerhalb der Gemeinschaftsgewässer und den Zugang von Drittlandschiffen zu Gemeinschaftsgewässern, zur Änderung der Verordnungen (EWG) Nr. 2847/93 und (EG) Nr. 1627/94 und zur Aufhebung der Verordnung (EG) Nr. 3317/94 (ABl. L 286 vom 29.10.2008, S. 33) verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
@@ -744,83 +920,11 @@ entgegen Artikel 24 Absatz 2 eine Fischereitätigkeit ausübt.
 
 (2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer als Kapitän vorsätzlich oder fahrlässig entgegen Artikel 13 Unterabsatz 1 Satz 1 oder Unterabsatz 2 Satz 1, auch in Verbindung mit Satz 2, der Verordnung (EG) Nr. 1006/2008 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
-### § 24a Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1342/2008
+### § 22 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1342/2008
 
-Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 25 Absatz 1 der Verordnung (EG) Nr. 1342/2008 des Rates vom 18. Dezember 2008 zur Festlegung eines langfristigen Plans für die Kabeljaubestände und die Fischereien, die diese Bestände befischen, sowie zur Aufhebung der Verordnung (EG) Nr. 423/2004 (ABl. L 348 vom 24.12.2008, S. 20), die zuletzt durch die Verordnung (EG) Nr. 1224/2009 (ABl. L 343 vom 22.12.2009, S. 1) geändert worden ist, nicht dafür Sorge trägt, dass die Anlandung nur in bezeichneten Häfen erfolgt.
+Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 25 Absatz 1 der Verordnung (EG) Nr. 1342/2008 des Rates vom 18. Dezember 2008 zur Festlegung eines langfristigen Plans für die Kabeljaubestände und die Fischereien, die diese Bestände befischen, sowie zur Aufhebung der Verordnung (EG) Nr. 423/2004 (ABl. L 348 vom 24.12.2008, S. 20), die zuletzt durch die Verordnung (EU) Nr. 1243/2012 (ABl. L 352 vom 21.12.2012, S. 10) geändert worden ist, nicht dafür Sorge trägt, dass die Anlandung nur in bezeichneten Häfen erfolgt.
 
-### § 24b Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 43/2009
-
-(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 43/2009 des Rates vom 16. Januar 2009 zur Festsetzung der Fangmöglichkeiten und begleitenden Fangbedingungen für bestimmte Fischbestände und Bestandsgruppen in den Gemeinschaftsgewässern sowie für Gemeinschaftsschiffe in Gewässern mit Fangbeschränkungen (2009) (ABl. L 22 vom 26.1.2009, S. 1), die zuletzt durch die Verordnung (EU) Nr. 579/2011 (ABl. L 165 vom 24.6.2011, S. 1) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
-
-1.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 1, Hering anlandet oder an Bord behält,
-
-2.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 3.2 Buchstabe e, eine Scheuchkette befestigt,
-
-3.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 4.1, Sandaal anlandet oder an Bord behält,
-
-4.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 5 Satz 1, Nummer 6.1 Ziffer i oder Nummer 6.2 Satz 1, in einem dort genannten Gebiet Fischfang betreibt,
-
-5.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 5b.1, eine dort genannte Art nicht an Bord bringt oder nicht anlandet,
-
-6.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 6.1 Ziffer ii, nicht dafür sorgt, dass ein Fanggerät auf die dort genannte Weise festgezurrt und verstaut ist,
-
-7.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 7.4 Satz 1, in einem dort genannten Gebiet mehr als die dort genannte Menge Blauleng an Bord behält,
-
-8.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 7.4 Satz 2 Buchstabe a, b oder Buchstabe c, bei Erreichen der dort genannten Fangmenge nicht oder nicht rechtzeitig die Fangtätigkeit einstellt, das dort genannte Gebiet nicht oder nicht rechtzeitig verlässt, in das dort genannte Gebiet wieder einfährt, ohne zuvor die Fänge angelandet zu haben, oder Blauleng in das Meer zurückwirft,
-
-9.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 9.3, in einem der dort genannten Gebiete ein dort genanntes Netz ausbringt,
-
-10.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 9.6, ohne eine spezielle Fangerlaubnis für Stellnetze ein Kiemen- oder Verwickelnetz einsetzt,
-
-11.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 9.10, in einem anderen als dem dort bezeichneten Hafen anlandet,
-
-12.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 15.1 oder Nummer 15.2, in einem dort genannten Gebiet mit einem dort genannten Netz oder Fanggerät fischt,
-
-13.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 15.8, in der dort genannten Fischerei ein anderes als ein dort genanntes Netz an Bord mitführt oder zum Fang einsetzt,
-
-14.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 15.9 Satz 1, in einem dort genannten Gebiet mit dort genanntem Fanggerät fischt,
-
-15.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil C Nummer 20 Satz 2, dort genannten Tintenfisch nicht oder nicht rechtzeitig ins Meer zurückwirft,
-
-16.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil F Nummer 24 Buchstabe a, Rotbarsch gezielt befischt oder
-
-17.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Anlage 2 Buchstabe a Satz 3, ein dort genanntes Schleppnetz verwendet.
-
-(2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 43/2009 verstößt, indem er vorsätzlich oder fahrlässig
-
-1.  
-entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 7.2 oder Nummer 7.3, eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig im Logbuch vermerkt,
-
-2.  
-entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 9.7 Unterabsatz 1, eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig im Logbuch erfasst,
-
-3.  
-entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 9.9, eine dort genannte Angabe nicht, nicht richtig oder nicht vollständig ins Logbuch einträgt,
-
-4.  
-als Kapitän entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil A Nummer 15.4 Satz 1, eine Meldung nicht, nicht richtig oder nicht rechtzeitig macht oder
-
-5.  
-entgegen Artikel 13 oder Artikel 19, jeweils in Verbindung mit Anhang III Teil F Nummer 24 Buchstabe c, eine Meldung nicht, nicht richtig oder nicht rechtzeitig macht.
-
-### § 24c Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1010/2009
+### § 23 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1010/2009
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1010/2009 der Kommission vom 22. Oktober 2009 mit Durchführungsbestimmungen zu der Verordnung (EG) Nr. 1005/2008 des Rates über ein Gemeinschaftssystem zur Verhinderung, Bekämpfung und Unterbindung der illegalen, nicht gemeldeten und unregulierten Fischerei (ABl. L 280 vom 27.10.2009, S. 5), die zuletzt durch die Durchführungsverordnung (EU) Nr. 1222/2011 (ABl. L 314 vom 29.11.2011, S. 2) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig als Kapitän
 
@@ -830,9 +934,9 @@ entgegen Artikel 1 in Verbindung mit Artikel 2 eine Voranmeldung nicht, nicht ri
 2.  
 entgegen Artikel 3 Absatz 5 in Verbindung mit Absatz 1 oder Absatz 2 eine Erklärung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt.
 
-### § 24d Durchsetzung bestimmter Vorschriften der Verordnung (EG) 1224/2009
+### § 24 Durchsetzung bestimmter Vorschriften der Verordnung (EG) 1224/2009
 
-(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1224/2009 des Rates vom 20. November 2009 zur Einführung einer gemeinschaftlichen Kontrollregelung zur Sicherstellung der Einhaltung der Vorschriften der gemeinsamen Fischereipolitik und zur Änderung der Verordnungen (EG) Nr. 847/96, (EG) Nr. 2371/2002, (EG) Nr. 811/2004, (EG) Nr. 768/2005, (EG) Nr. 2115/2005, (EG) Nr. 2166/2005, (EG) Nr. 388/2006, (EG) Nr. 509/2007, (EG) Nr. 676/2007, (EG) Nr. 1098/2007, (EG) Nr. 1300/2008, (EG) Nr. 1342/2008 sowie zur Aufhebung der Verordnungen (EWG) Nr. 2847/93, (EG) Nr. 1627/94 und (EG) Nr. 1966/2006 (ABl. L 343 vom 22.12.2009, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1224/2009 des Rates vom 20. November 2009 zur Einführung einer gemeinschaftlichen Kontrollregelung zur Sicherstellung der Einhaltung der Vorschriften der gemeinsamen Fischereipolitik und zur Änderung der Verordnungen (EG) Nr. 847/96, (EG) Nr. 2371/2002, (EG) Nr. 811/2004, (EG) Nr. 768/2005, (EG) Nr. 2115/2005, (EG) Nr. 2166/2005, (EG) Nr. 388/2006, (EG) Nr. 509/2007, (EG) Nr. 676/2007, (EG) Nr. 1098/2007, (EG) Nr. 1300/2008, (EG) Nr. 1342/2008 sowie zur Aufhebung der Verordnungen (EWG) Nr. 2847/93, (EG) Nr. 1627/94 und (EG) Nr. 1966/2006 (ABl. L 343 vom 22.12.2009, S. 1), die zuletzt durch die Verordnung (EU) 2015/812 (ABl. L 133 vom 29.5.2015, S. 1) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  
 als Kapitän entgegen Artikel 9 Absatz 2 Satz 1 ein dort genanntes Gerät nicht an Bord hat,
@@ -915,23 +1019,77 @@ als Kapitän entgegen Artikel 42 Absatz 2 Satz 4 einen Kontrollbeobachter oder e
 entgegen Artikel 48 Absatz 3 eine Unterrichtung nicht, nicht richtig oder nicht rechtzeitig vornimmt,
 
 8.  
-als Marktteilnehmer entgegen Artikel 58 Absatz 4 Satz 2 eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
+als Kapitän entgegen Artikel 49a Absatz 1 Satz 1 einen dort genannten Fang nicht oder nicht in der vorgeschriebenen Weise verstaut,
 
 9.  
-entgegen Artikel 62 Absatz 1 Satz 1 oder Artikel 63 Absatz 1, jeweils in Verbindung mit Artikel 64 Absatz 1, einen dort genannten Verkaufsbeleg nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt,
+entgegen Artikel 49a Absatz 1 Satz 2 einen dort genannten Fang mit anderen Fischereierzeugnissen vermischt,
 
 10.  
-entgegen Artikel 68 Absatz 1 Satz 2 ein dort genanntes Transportdokument nicht, nicht richtig oder nicht rechtzeitig vorlegt,
+als Kapitän entgegen Artikel 49c Satz 1 einen dort genannten Fang nicht oder nicht in der vorgeschriebenen Weise lagert oder nicht oder nicht in der vorgeschriebenen Weise behandelt,
 
 11.  
-entgegen Artikel 73 Absatz 7 Satz 1 nicht für eine angemessene Unterbringung sorgt oder
+als Marktteilnehmer entgegen Artikel 58 Absatz 4 Satz 2 eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
 12.  
+entgegen Artikel 62 Absatz 1 Satz 1 oder Artikel 63 Absatz 1, jeweils in Verbindung mit Artikel 64 Absatz 1, einen dort genannten Verkaufsbeleg nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt,
+
+13.  
+entgegen Artikel 66 Absatz 1 Satz 1 in Verbindung mit Absatz 3 eine Übernahmeerklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+
+14.  
+entgegen Artikel 67 Absatz 1 eine dort genannte Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt,
+
+15.  
+entgegen Artikel 68 Absatz 1 Satz 2 in Verbindung mit Absatz 5 ein dort genanntes Transportdokument nicht, nicht richtig oder nicht rechtzeitig vorlegt,
+
+16.  
+entgegen Artikel 73 Absatz 7 Satz 1 nicht für eine angemessene Unterbringung sorgt oder
+
+17.  
 entgegen Artikel 73 Absatz 7 Satz 2 Zugang nicht oder nicht vollständig gewährt.
 
-### § 24e Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 1236/2010
+### § 25 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 201/2010
 
-(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr. 1236/2010 des Europäischen Parlaments und des Rates vom 15. Dezember 2010 zu einer Kontroll- und Durchsetzungsregelung, die auf dem Gebiet des Übereinkommens über die künftige multilaterale Zusammenarbeit auf dem Gebiet der Fischerei im Nordostatlantik anwendbar ist, und zur Aufhebung der Verordnung (EG) Nr. 2791/1999 des Rates (ABl. L 348 vom 31.12.2010, S. 17) verstößt, indem er vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr. 201/2010 der Kommission vom 10. März 2010 mit Durchführungsbestimmungen zu Verordnung (EG) Nr. 1006/2008 des Rates über die Genehmigung der Fischereitätigkeiten von Fischereifahrzeugen der Gemeinschaft außerhalb der Gemeinschaftsgewässer und den Zugang von Drittlandschiffen zu Gemeinschaftsgewässern (ABl. L 61 vom 11.3.2010, S. 10) verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+als Kapitän entgegen Artikel 2 Absatz 1 in dem dort genannten Gebiet eine Fischereitätigkeit ausübt oder
+
+2.  
+als Kapitän entgegen Artikel 10 in Verbindung mit Anhang IV Teil I Buchstabe a Unterabsatz 1 Satz 1 eine Fangreise beginnt.
+
+(2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr. 201/2010 verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+entgegen Artikel 8 ein Logbuch nicht, nicht richtig oder nicht vollständig führt,
+
+2.  
+als Kapitän entgegen Artikel 10 in Verbindung mit Anhang IV Teil I Buchstabe a Unterabsatz 1 Satz 2 ein dort genanntes Fischereiüberwachungszentrum nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet,
+
+3.  
+als Kapitän entgegen Artikel 10 in Verbindung mit Anhang IV Teil I Buchstabe c Unterabsatz 2 ohne Durchfahrt durch ein dort genanntes Kontrollgebiet die EU-Gewässer verlässt,
+
+4.  
+als Kapitän entgegen Artikel 10 in Verbindung mit Anhang IV Teil I Buchstabe c Unterabsatz 3 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder
+
+5.  
+als Kapitän entgegen Artikel 10 in Verbindung mit Anhang IV Teil I Buchstabe c Unterabsatz 4 das Kontrollgebiet verlässt.
+
+### § 26 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 640/2010
+
+(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr. 640/2010 des Europäischen Parlaments und des Rates vom 7. Juli 2010 zur Einführung einer Fangdokumentationsregelung für Roten Thun *(Thunnus thynnus)* und zur Änderung der Verordnung (EG) Nr. 1984/2003 des Rates (ABl. L 194 vom 24.7.2010, S. 1) verstößt, indem er vorsätzlich oder fahrlässig entgegen Artikel 3 Absatz 2 Unterabsatz 2 eine dort genannte Handlung vornimmt.
+
+(2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr. 640/2010, verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+entgegen Artikel 3 Absatz 2 Unterabsatz 1 ein dort genanntes Fangdokument nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig beifügt oder
+
+2.  
+entgegen Artikel 4 Absatz 1 ein Fangdokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ausfüllt oder nicht oder nicht rechtzeitig dessen Validierung beantragt.
+
+### § 27 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 1236/2010
+
+(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr. 1236/2010 des Europäischen Parlaments und des Rates vom 15. Dezember 2010 zu einer Kontroll- und Durchsetzungsregelung, die auf dem Gebiet des Übereinkommens über die künftige multilaterale Zusammenarbeit auf dem Gebiet der Fischerei im Nordostatlantik anwendbar ist, und zur Aufhebung der Verordnung (EG) Nr. 2791/1999 des Rates (ABl. L 348 vom 31.12.2010, S. 17), die zuletzt durch die Delegierte Verordnung (EU) Nr. 603/2012 (ABl. L 177 vom 7.7.2012, S. 9) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  
 entgegen Artikel 8 Absatz 2 Buchstabe b einen Fang nicht, nicht vollständig oder nicht auf die vorgeschriebene Weise verstaut,
@@ -1010,9 +1168,9 @@ entgegen Artikel 21 Buchstabe f eine Räumlichkeit, eine Unterkunft oder Verpfle
 9.  
 entgegen Artikel 24 Absatz 1 Unterabsatz 1 oder Artikel 40 Absatz 1 Satz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht.
 
-### § 24f Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 404/2011
+### § 28 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 404/2011
 
-(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Durchführungsverordnung (EU) Nr. 404/2011 der Kommission vom 8. April 2011 mit Durchführungsbestimmungen zu der Verordnung (EG) Nr. 1224/2009 des Rates zur Einführung einer gemeinschaftlichen Kontrollregelung zur Sicherstellung der Einhaltung der Vorschriften der gemeinsamen Fischereipolitik (ABl. L 112 vom 30.4.2011, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Durchführungsverordnung (EU) Nr. 404/2011 der Kommission vom 8. April 2011 mit Durchführungsbestimmungen zu der Verordnung (EG) Nr. 1224/2009 des Rates zur Einführung einer gemeinschaftlichen Kontrollregelung zur Sicherstellung der Einhaltung der Vorschriften der gemeinsamen Fischereipolitik (ABl. L 112 vom 30.4.2011, S. 1), die durch die Durchführungsverordnung (EU) 2015/1962 (ABl. L 287 vom 31.10.2015, S. 6) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  
 als Kapitän entgegen Artikel 6 Buchstabe a oder e ein dort genanntes Fischereifahrzeug nicht, nicht richtig oder nicht auf die vorgeschriebene Weise markiert,
@@ -1060,7 +1218,7 @@ als Kapitän entgegen Artikel 25 Absatz 3 Satz 1 einen Hafen verlässt,
 entgegen Artikel 36 Absatz 1 oder Artikel 39 Absatz 4 Satz 1 einen Hafen verlässt,
 
 16.  
-entgegen Artikel 47 Absatz 3 eine Kopie nicht, nicht richtig, nicht vollständig, nicht auf die vorgeschriebene Weise oder nicht für die vorgeschriebene Dauer aufbewahrt,
+entgegen Artikel 47 Absatz 1a eine elektronische Auslaufmeldung nicht oder nicht rechtzeitig sendet,
 
 17.  
 entgegen Artikel 67 Absatz 3 die Herkunft jedes Loses nicht, nicht richtig oder nicht vollständig identifizieren oder zurückverfolgen kann,
@@ -1130,11 +1288,20 @@ entgegen Artikel 67 Absatz 1 die dort genannten Informationen nicht, nicht richt
 19.  
 entgegen Artikel 67 Absatz 2 eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aktualisiert,
 
+19a.  
+entgegen Artikel 70 Absatz 1 eine dort genannte Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+19b.  
+entgegen Artikel 70 Absatz 2 eine Aufzeichnung nicht oder nicht mindestens drei Jahre ab ihrer Erstellung zur Verfügung hält,
+
 20.  
 entgegen Artikel 73 Absatz 2 eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise aufzeichnet,
 
 21.  
 entgegen Artikel 80 Absatz 1 oder Absatz 2 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
+
+21a.  
+ohne Genehmigung nach Artikel 81 Satz 2 eine Entladung nach einer Unterbrechung wieder aufnimmt,
 
 22.  
 entgegen Artikel 82 Absatz 1 eine Seite des Fischereilogbuchs nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt,
@@ -1181,51 +1348,247 @@ entgegen Artikel 114 Absatz 1 Buchstabe f einem Inspektor nicht Zugang gewährt 
 36.  
 entgegen Artikel 114 Absatz 1 Buchstabe g ein sicheres Vonbordgehen nicht ermöglicht.
 
-### § 24g Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 1256/2011
+### § 29 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 1380/2013
 
-Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 6 der Verordnung (EU) Nr. 1256/2011 des Rates vom 30. November 2011 zur Festsetzung der Fangmöglichkeiten für bestimmte Fischbestände und Bestandsgruppen in der Ostsee (2012) und zur Änderung der Verordnung (EU) Nr. 1124/2010 (ABl. L 320 vom 3.12.2011, S. 3) einen Fang an Bord behält oder umlädt.
-
-### § 24h Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 43/2012
-
-Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr. 43/2012 des Rates vom 17. Januar 2012 zur Festsetzung der Fangmöglichkeiten für EU-Schiffe im Jahr 2012 für bestimmte, nicht über internationale Verhandlungen und Übereinkünfte regulierte Fischbestände und Bestandsgruppen (ABl. L 25 vom 27.1.2012, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr. 1380/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über die Gemeinsame Fischereipolitik und zur Änderung der Verordnungen (EG) Nr. 1954/2003 und (EG) Nr. 1224/2009 des Rates sowie zur Aufhebung der Verordnungen (EG) Nr. 2371/2002 und (EG) Nr. 639/2004 des Rates und des Beschlusses 2004/585/EG des Rates (ABl. L 354 vom 28.12.2013, S. 22), die zuletzt durch die Verordnung (EU) 2015/812 (ABl. L 133 vom 29.5.2015, S. 1) geändert worden ist, verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
 1.  
-entgegen Artikel 8 einen Fang an Bord behält oder anlandet,
+entgegen Artikel 15 Absatz 1 einen dort genannten Fang nicht an Bord holt, behält oder anlandet oder
 
 2.  
-entgegen Artikel 11 Absatz 1 eine dort genannte Art fängt oder an Bord behält,
+entgegen Artikel 15 Absatz 12 einen dort genannten Fang nicht oder nicht rechtzeitig wieder über Bord wirft.
 
-3.  
-entgegen Artikel 12 Absatz 1 eine dort genannte Art fängt, an Bord behält, umlädt oder anlandet,
+(2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig als Kapitän entgegen Artikel 15 Absatz 1 der Verordnung (EU) Nr. 1380/2013 einen dort genannten Fang nicht, nicht richtig, nicht vollständig oder nicht vor Anlandung aufzeichnet.
 
-4.  
-entgegen Artikel 12 Absatz 2 Satz 1 einem dort genannten Fang Leid zufügt oder
+### § 30 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) Nr. 1393/2014
 
-5.  
-entgegen Artikel 12 Absatz 2 Satz 2 einen dort genannten Fang nicht oder nicht rechtzeitig freisetzt.
+Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer als Kapitän vorsätzlich oder fahrlässig entgegen Artikel 4 der Delegierten Verordnung (EU) Nr. 1393/2014 der Kommission vom 20. Oktober 2014 zur Erstellung eines Rückwurfplans für bestimmte Fischereien auf pelagische Arten in den nordwestlichen Gewässern (ABl. L 370 vom 30.12.2014, S. 25) eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht unverzüglich nach Freisetzung oder Stichprobenentnahme in das Logbuch einträgt.
 
-### § 24i Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 44/2012
+### § 31 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) Nr. 1395/2014
 
-Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr. 44/2012 des Rates vom 17. Januar 2012 zur Festsetzung der Fangmöglichkeiten im Jahr 2012 in EU-Gewässern und für EU-Schiffe in bestimmten Nicht-EU-Gewässern für bestimmte, über internationale Verhandlungen und Übereinkünfte regulierte Fischbestände und Bestandsgruppen (ABl. L 25 vom 27.1.2012, S. 55) verstößt, indem er vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Delegierte Verordnung (EU) Nr. 1395/2014 der Kommission vom 20. Oktober 2014 zur Erstellung eines Rückwurfplans für die Fischerei auf bestimmte kleine pelagische Arten und die Industriefischerei in der Nordsee (ABl. L 370 vom 30.12.2014, S. 35) verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
 1.  
-entgegen Artikel 8 oder Artikel 36 Absatz 2 einen dort genannten Fang an Bord behält oder anlandet,
+entgegen Artikel 4 Absatz 1 eine dort genannte Angabe nicht, nicht richtig oder nicht vollständig oder nicht unverzüglich nach Freisetzung oder Stichprobenentnahme in das Logbuch einträgt oder
 
 2.  
-entgegen Artikel 12 Absatz 1 eine dort genannte Art fängt oder an Bord behält,
+entgegen Artikel 4 Absatz 2 eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht unverzüglich nach dem Rückwurf in dem Logbuch vermerkt.
+
+### § 32 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/1139
+
+Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2016/1139 des Europäischen Parlaments und des Rates vom 6. Juli 2016 zur Festlegung eines Mehrjahresplans für die Bestände von Dorsch, Hering und Sprotte in der Ostsee und für die Fischereien, die diese Bestände befischen, zur Änderung der Verordnung (EG) Nr. 2187/2005 des Rates und zur Aufhebung der Verordnung (EG) Nr. 1098/2007 des Rates (ABl. L 191 vom 15.7.2016, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+entgegen Artikel 11 Absatz 1 oder 2 Satz 1, jeweils in Verbindung mit Artikel 17 Absatz 1 der Verordnung (EG) Nr. 1224/2009, eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+2.  
+entgegen Artikel 12 in Verbindung mit Artikel 14 Absatz 1 in Verbindung mit Absatz 2, 4 oder 5, jeweils auch in Verbindung mit Absatz 8, der Verordnung (EG) Nr. 1224/2009 ein Fischereilogbuch nicht, nicht richtig oder nicht vollständig führt oder
 
 3.  
-entgegen Artikel 13 Absatz 1 oder Artikel 37 Absatz 1 eine dort genannte Art fängt, fischt, an Bord behält, umlädt oder anlandet,
+entgegen Artikel 14 in Verbindung mit Artikel 43 Absatz 1 der Verordnung (EG) Nr. 1224/2009 einen Fang nicht, nicht richtig oder nicht vollständig anlandet.
+
+### § 33 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/1627
+
+(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2016/1627 des Europäischen Parlaments und des Rates vom 14. September 2016 über einen mehrjährigen Wiederauffüllungsplan für Roten Thun im Ostatlantik und im Mittelmeer und zur Aufhebung der Verordnung (EG) Nr. 302/2009 des Rates (ABl. L 252 vom 16.9.2016, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+entgegen Artikel 5 Absatz 3 ein Fischereifahrzeug chartert,
+
+2.  
+entgegen Artikel 16 Absatz 2 Satz 1 oder Absatz 4 Satz 1 den Fang von Rotem Thun nicht vermeidet,
+
+3.  
+entgegen Artikel 16 Absatz 4 Satz 2 erster Halbsatz oder Artikel 19 Absatz 3 Satz 1 Roten Thun nicht richtig anlandet,
 
 4.  
-entgegen Artikel 13 Absatz 2 Satz 1 oder Artikel 37 Absatz 2 Satz 1 einem dort genannten Exemplar Leid zufügt,
+entgegen Artikel 17 ein Luftfahrzeug zum Auffinden von Rotem Thun einsetzt,
 
 5.  
-entgegen Artikel 13 Absatz 2 Satz 2 oder Artikel 37 Absatz 2 Satz 2 ein dort genanntes Exemplar nicht oder nicht rechtzeitig freisetzt oder
+entgegen Artikel 19 Absatz 2 Roten Thun fängt,
 
 6.  
-entgegen Artikel 34 in den dort genannten Gebieten Pazifischen Pollack fängt.
+entgegen Artikel 19 Absatz 4 Roten Thun vermarktet,
 
-### § 25 Zuständigkeit
+7.  
+entgegen Artikel 22 Absatz 1 Roten Thun fischt, an Bord behält, umlädt, transportiert, umsetzt, verarbeitet oder anlandet,
 
-Soweit die Ausführung des Seefischereigesetzes Bundesbehörden übertragen ist, wird die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 9 des Seefischereigesetzes auf die Außenstelle Hamburg der Bundesanstalt für Landwirtschaft und Ernährung übertragen.
+8.  
+entgegen Artikel 24 Absatz 1 Satz 3 einen gemeinsamen Fangeinsatz vornimmt,
+
+9.  
+entgegen Artikel 30 Absatz 4 Roten Thun anlandet oder umlädt,
+
+10.  
+entgegen Artikel 32 Absatz 1 oder 2 Roten Thun umlädt,
+
+11.  
+entgegen Artikel 40 Absatz 1 ein Transportnetz verankert,
+
+12.  
+entgegen Artikel 56 Absatz 1 in Verbindung mit Artikel 38 Absatz 1, Artikel 6 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 640/2010 oder Artikel 4b Absatz 1 oder 2 der Verordnung (EG) Nr. 1936/2001 des Rates vom 27. September 2001 mit Kontrollmaßnahmen für die Befischung bestimmter Bestände weit wandernder Arten (ABl. L 263 vom 3.10.2001, S. 1), die zuletzt durch die Verordnung (EG) Nr. 302/2009 (ABl. L 96 vom 15.4.2009, S. 1) geändert worden ist, mit Rotem Thun handelt oder Roten Thun einführt, anlandet, ausführt, wieder ausführt, umlädt oder in Netzkäfige zu Mast- oder Aufzuchtzwecken einsetzt oder
+
+13.  
+entgegen Artikel 56 Absatz 2 mit Rotem Thun handelt oder Roten Thun einführt, anlandet, einsetzt, verarbeitet, ausführt, wieder ausführt oder umlädt.
+
+(2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2016/1627 verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+entgegen Artikel 25 Absatz 1 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ins Logbuch einträgt,
+
+2.  
+entgegen Artikel 26 Absatz 1 Satz 1, Absatz 3 oder 4 Satz 1, Artikel 31 Absatz 6, Artikel 32 Absatz 6 oder 8 oder Artikel 38 Absatz 1 eine Angabe, einen dort genannten Bericht oder eine dort genannte Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
+
+3.  
+entgegen Artikel 31 Absatz 2 oder Artikel 32 Absatz 4 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+4.  
+entgegen Artikel 32 Absatz 5 oder Artikel 33 Absatz 3 Satz 1 eine Umladung oder Umsetzung vornimmt,
+
+5.  
+entgegen Artikel 33 Absatz 1 eine Umsetzung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig anmeldet,
+
+6.  
+entgegen Artikel 35 Absatz 1 Satz 1 nicht gewährleistet, dass die Umsetzung überwacht wird,
+
+7.  
+entgegen Artikel 40 Absatz 3 den Einsetzvorgang beginnt,
+
+8.  
+als Kapitän entgegen Artikel 49 Absatz 1 in Verbindung mit Artikel 9 Absatz 2 Satz 1 der Verordnung (EG) Nr. 1224/2009 ein dort genanntes Gerät nicht an Bord hat,
+
+9.  
+als Kapitän entgegen Artikel 49 Absatz 2 eine Übermittlung nicht oder nicht rechtzeitig beginnt oder nicht oder nicht mindestens 15 Tage fortsetzt,
+
+10.  
+entgegen Artikel 49 Absatz 3 eine Übermittlung unterbricht oder
+
+11.  
+entgegen Artikel 51 Absatz 3 Fischerei auf Roten Thun betreibt oder einen dort genannten Einsatz vornimmt.
+
+### § 34 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2016/2250
+
+Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Delegierte Verordnung (EU) 2016/2250 der Kommission vom 4. Oktober 2016 zur Erstellung eines Rückwurfplans für bestimmte Fischereien auf Grundfischarten in der Nordsee und in den Unionsgewässern der ICES-Division IIa (ABl. L 340 vom 15.12.2016, S. 2) verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+als Kapitän entgegen Artikel 5 Absatz 3 eine Seezunge nicht oder nicht rechtzeitig freisetzt oder
+
+2.  
+entgegen Artikel 8 Absatz 1 ein dort genanntes Schleppnetz oder Snurrewade, Baumkurre oder ähnlich gezogenes Netz an Bord mit sich führt oder einsetzt.
+
+### § 35 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/2285
+
+Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig als Kapitän entgegen Artikel 6 der Verordnung (EU) 2016/2285 des Rates vom 12. Dezember 2016 zur Festsetzung der Fangmöglichkeiten von Fischereifahrzeugen der Union für bestimmte Bestände von Tiefseearten (2017 und 2018) und zur Änderung der Verordnung (EU) 2016/72 (ABl. L 344 vom 17.12.2016, S. 32) Granatbarsch fischt, an Bord behält, umlädt oder anlandet.
+
+### § 36 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/2336
+
+(1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2016/2336 des Europäischen Parlaments und des Rates vom 14. Dezember 2016 mit besonderen Auflagen für die Befischung von Tiefseebeständen im Nordostatlantik und Vorschriften für den Fischfang in internationalen Gewässern des Nordostatlantiks und zur Aufhebung der Verordnung (EG) Nr. 2347/2002 des Rates (ABl. L 354 vom 23.12.2016, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+ohne Genehmigung nach Artikel 5 Absatz 1 Satz 1 gezielte Fischerei auf Tiefseearten betreibt,
+
+2.  
+ohne Genehmigung nach Artikel 5 Absatz 3 Satz 1 eine dort genannte Fischereitätigkeit betreibt,
+
+3.  
+als Kapitän entgegen Artikel 9 Absatz 2 Satz 2 die Fischerei nicht oder nicht rechtzeitig einstellt,
+
+4.  
+entgegen Artikel 9 Absatz 9 Fischerei mit Grundfanggeräten betreibt oder
+
+5.  
+entgegen Artikel 11 Absatz 2 eine dort genannte Menge anlandet.
+
+(2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2016/2336 verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+als Kapitän entgegen Artikel 9 Absatz 3 oder Artikel 12 Satz 1 eine Meldung nicht, nicht richtig oder nicht rechtzeitig macht,
+
+2.  
+entgegen Artikel 12 Satz 2 eine zuständige Behörde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet oder
+
+3.  
+entgegen Artikel 13 Absatz 1 Buchstabe a einen Eintrag nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt.
+
+### § 37 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2017/117
+
+Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 3 Absatz 1 der Delegierten Verordnung (EU) 2017/117 der Kommission vom 5. September 2016 zur Festlegung von Bestandserhaltungsmaßnahmen zum Schutz der Meeresumwelt der Ostsee und zur Aufhebung der Verordnung (EU) 2015/1778 (ABl. L 19 vom 25.1.2017, S. 1) eine dort genannte Fangtätigkeit betreibt.
+
+### § 38 Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2017/118
+
+Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 3 Absatz 1 Satz 1 oder Absatz 2 der Delegierten Verordnung (EU) 2017/118 der Kommission vom 5. September 2016 zur Festlegung von Bestandserhaltungsmaßnahmen zum Schutz der Meeresumwelt der Nordsee (ABl. L 19 vom 25.1.2017, S. 10) eine dort genannte Fangtätigkeit betreibt.
+
+### § 39 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2017/127
+
+Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2017/127 des Rates vom 20. Januar 2017 zur Festsetzung der Fangmöglichkeiten für 2017 für bestimmte Fischbestände und Bestandsgruppen in den Unionsgewässern sowie für Fischereifahrzeuge der Union in bestimmten Nicht-Unionsgewässern (ABl. L 24 vom 28.1.2017, S. 1), die zuletzt durch die Verordnung (EU) 2017/1398 (ABl. L 199 vom 29.7.2017, S. 2) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+entgegen Artikel 7 Absatz 1, auch in Verbindung mit Artikel 40, einen Fang an Bord behält oder anlandet,
+
+2.  
+entgegen Artikel 9 Absatz 1, 2 Satz 1 oder Absatz 4 Wolfsbarsch befischt, an Bord behält, umlädt, umsetzt oder anlandet,
+
+3.  
+entgegen Artikel 9 Absatz 5 oder 6 mehr als ein Exemplar Wolfsbarsch oder mehr als fünf Fische behält,
+
+4.  
+entgegen Artikel 11 Absatz 1 Unterabsatz 1 eine dort genannte Art fängt oder an Bord behält,
+
+5.  
+entgegen Artikel 11 Absatz 2 Sandaal fischt,
+
+6.  
+entgegen Artikel 12 Absatz 1 eine dort genannte Art fängt, an Bord behält, umlädt oder anlandet,
+
+7.  
+als Kapitän entgegen Artikel 12 Absatz 2 Satz 2, Artikel 24 Absatz 3 Satz 2, Artikel 28 Absatz 2 Satz 2, Artikel 29 Satz 2, Artikel 34 Absatz 2 Satz 2 oder Artikel 41 Absatz 2 Satz 2 einen dort genannten Fisch nicht oder nicht rechtzeitig freisetzt,
+
+8.  
+entgegen Artikel 18 Absatz 1, 3 oder 4 oder Artikel 24 Absatz 1 oder 2 ein Körperteil oder einen ganzen Körper an Bord mitführt, umlädt oder anlandet,
+
+9.  
+entgegen Artikel 18 Absatz 2, Artikel 30, Artikel 31 Absatz 2, Artikel 36 Absatz 2 Satz 2 oder Artikel 37 eine dort genannte Art befischt,
+
+10.  
+entgegen Artikel 18 Absatz 5 einen Seidenhai an Bord mitführt,
+
+11.  
+entgegen Artikel 19 Absatz 1 eine dort genannte Art während eines dort genannten Zeitraums gezielt befischt,
+
+12.  
+entgegen Artikel 20 Absatz 3 Satz 2 in einer dort genannten Tiefe fischt,
+
+13.  
+entgegen Artikel 23 Absatz 1 ein Fischsammelgerät einsetzt,
+
+14.  
+entgegen Artikel 27 Absatz 1 oder Artikel 32 Absatz 1 Ringwadenfischerei betreibt,
+
+15.  
+entgegen Artikel 28 Absatz 1 oder Artikel 29 Satz 1 ein Körperteil oder einen ganzen Körper befischt, an Bord mitführt, umlädt, lagert, zum Verkauf anbietet, verkauft oder anlandet,
+
+16.  
+entgegen Artikel 34 Absatz 1 ein Körperteil oder einen ganzen Körper an Bord mitführt, umlädt, lagert oder anlandet,
+
+17.  
+entgegen Artikel 36 Absatz 2 Satz 1 an mehr als 180 Fangtagen pro Jahr fischt oder
+
+18.  
+entgegen Artikel 41 Absatz 1 eine dort genannte Art befischt, an Bord behält, umlädt oder anlandet.
+
+### § 40 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2017/1004
+
+Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 12 Absatz 3 Satz 1 der Verordnung (EU) 2017/1004 des Europäischen Parlaments und des Rates vom 17. Mai 2017 zur Einführung einer Rahmenregelung der Union für die Erhebung, Verwaltung und Nutzung von Daten im Fischereisektor und Unterstützung wissenschaftlicher Beratung zur Durchführung der Gemeinsamen Fischereipolitik und zur Aufhebung der Verordnung (EG) Nr. 199/2008 des Rates (ABl. L 157 vom 20.6.2017, S. 1) den Aufenthalt an Bord verweigert.
+
+### § 41 Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2017/1970
+
+Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2017/1970 des Rates vom 27. Oktober 2017 zur Festsetzung der Fangmöglichkeiten für bestimmte Fischbestände und Bestandsgruppen in der Ostsee für 2018 und zur Änderung der Verordnung (EU) 2017/127 (ABl. L 281 vom 31.10.2017, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
+
+1.  
+entgegen Artikel 7 Absatz 1 oder 2 mehr als eine dort genannte Anzahl Exemplare Dorsch behält oder
+
+2.  
+entgegen Unterabsatz 1 der Fußnote (<sup>x</sup>) zu der Tabelle „Dorsch Unionsgewässer der Unterdivisionen 25-32 (COD/3DX32)“ oder Unterabsatz 1 der Fußnote (<sup>x</sup>) zu der Tabelle „Dorsch Unterdivisionen 22-24 (COD/3BC+24)“ des Anhangs der Verordnung (EU) 2017/1970 Fischerei betreibt.
+
+### § 42 Zuständigkeit
+
+Soweit die Ausführung des Seefischereigesetzes Bundesbehörden übertragen ist, wird die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 18 des Seefischereigesetzes auf die Außenstelle Hamburg der Bundesanstalt für Landwirtschaft und Ernährung übertragen.
