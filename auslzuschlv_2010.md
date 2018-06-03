@@ -2,7 +2,7 @@ Verordnung über die Gewährung von Auslandszuschlägen (AuslZuschlV)
 ==================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 9.6.2016 I 1349
+Zuletzt geändert durch Art. 1 V v. 4.6.2018 I 661
 
 ### 
 
@@ -124,7 +124,7 @@ Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
 ### Anlage 1 (zu § 1 Absatz 2 Satz 1)
 
-(Fundstelle: BGBl. I 2014, 803 – 809)
+(Fundstelle: BGBl. I 2018, 661 — 666)
 
 Staat
 
@@ -138,8 +138,8 @@ Zonenstufe
 
 3
 
-**Abschnitt 1
-Europa**
+**Abschnitt 1**
+**Europa**
 
   1
 
@@ -155,7 +155,7 @@ Belgien
 
 Brüssel
 
- 2
+1
 
   3
 
@@ -163,7 +163,7 @@ Bosnien und Herzegowina
 
 Sarajewo
 
-10
+11
 
   4
 
@@ -171,7 +171,7 @@ Bulgarien
 
 Sofia
 
- 9
+9
 
   5
 
@@ -179,7 +179,7 @@ Dänemark
 
 Kopenhagen
 
- 1
+2
 
   6
 
@@ -187,7 +187,7 @@ Estland
 
 Tallinn
 
- 7
+7
 
   7
 
@@ -195,7 +195,7 @@ Finnland
 
 Helsinki
 
- 3
+5
 
   8
 
@@ -203,31 +203,31 @@ Frankreich
 
 Paris
 
- 2
+2
 
   9
 
 Bordeaux
 
- 2
+2
 
  10
 
 Lyon
 
- 2
+1
 
  11
 
 Marseille
 
- 2
+2
 
  12
 
 Straßburg
 
- 2
+2
 
  13
 
@@ -235,13 +235,13 @@ Griechenland
 
 Athen
 
- 4
+5
 
  14
 
 Thessaloniki
 
- 4
+5
 
  15
 
@@ -249,7 +249,7 @@ Irland
 
 Dublin
 
- 1
+2
 
  16
 
@@ -257,7 +257,7 @@ Island
 
 Reykjavik
 
- 3
+5
 
  17
 
@@ -265,13 +265,13 @@ Italien
 
 Rom
 
- 2
+2
 
  18
 
 Mailand
 
- 2
+1
 
  19
 
@@ -279,7 +279,7 @@ Kosovo
 
 Pristina
 
-12
+15
 
  20
 
@@ -287,7 +287,7 @@ Kroatien
 
 Zagreb
 
- 9
+6
 
  21
 
@@ -295,7 +295,7 @@ Lettland
 
 Riga
 
- 7
+6
 
  22
 
@@ -303,7 +303,7 @@ Litauen
 
 Wilna
 
- 7
+5
 
  23
 
@@ -311,7 +311,7 @@ Luxemburg
 
 Luxemburg
 
- 1
+1
 
  24
 
@@ -319,7 +319,7 @@ Malta
 
 Valletta
 
- 4
+3
 
  25
 
@@ -343,7 +343,7 @@ Montenegro
 
 Podgorica
 
-11
+12
 
  28
 
@@ -351,13 +351,13 @@ Niederlande
 
 Den Haag
 
- 1
+1
 
  29
 
 Amsterdam
 
- 1
+1
 
  30
 
@@ -365,7 +365,7 @@ Norwegen
 
 Oslo
 
- 3
+4
 
  31
 
@@ -373,7 +373,7 @@ Oslo
 
 Wien
 
- 1
+1
 
  32
 
@@ -381,31 +381,31 @@ Polen
 
 Warschau
 
- 3
+4
 
  33
 
 Breslau
 
- 4
+6
 
  34
 
 Danzig
 
- 4
+6
 
  35
 
 Krakau
 
- 4
+5
 
  36
 
 Oppeln
 
- 5
+8
 
  37
 
@@ -413,7 +413,7 @@ Portugal
 
 Lissabon
 
- 2
+1
 
  38
 
@@ -421,7 +421,7 @@ Rumänien
 
 Bukarest
 
- 9
+7
 
  39
 
@@ -433,7 +433,7 @@ Hermannstadt
 
 Temeswar
 
- 9
+9
 
  41
 
@@ -441,31 +441,31 @@ Russland
 
 Moskau
 
- 9
+12
 
  42
 
 Jekaterinburg
 
-11
+13
 
  43
 
 Kaliningrad
 
-11
+12
 
  44
 
 Nowosibirsk
 
-11
+15
 
  45
 
 St. Petersburg
 
-10
+11
 
  46
 
@@ -473,7 +473,7 @@ Schweden
 
 Stockholm
 
- 2
+3
 
  47
 
@@ -481,13 +481,13 @@ Schweiz
 
 Bern
 
- 1
+2
 
  48
 
 Genf
 
- 1
+2
 
  49
 
@@ -495,7 +495,7 @@ Serbien
 
 Belgrad
 
-10
+9
 
  50
 
@@ -503,7 +503,7 @@ Slowakische Republik
 
 Pressburg
 
- 3
+5
 
  51
 
@@ -511,7 +511,7 @@ Slowenien
 
 Laibach
 
- 3
+4
 
  52
 
@@ -519,32 +519,32 @@ Spanien
 
 Madrid
 
- 2
+2
 
  53
 
 Barcelona
 
- 2
+1
 
  54
 
-Las Palmas de Gran
-Canaria
+Las Palmas de
+Gran Canaria
 
- 2
+2
 
  55
 
 Malaga
 
- 2
+1
 
  56
 
 Palma de Mallorca
 
- 2
+1
 
  57
 
@@ -552,7 +552,7 @@ Tschechische Republik
 
 Prag
 
- 3
+4
 
  58
 
@@ -560,25 +560,25 @@ Türkei
 
 Ankara
 
- 6
+9
 
  59
 
 Antalya
 
- 6
+8
 
  60
 
 Istanbul
 
- 6
+9
 
  61
 
 Izmir
 
- 6
+7
 
  62
 
@@ -586,13 +586,13 @@ Ukraine
 
 Kiew
 
-10
+12
 
  63
 
 Donezk
 
-11
+17
 
  64
 
@@ -600,7 +600,7 @@ Ungarn
 
 Budapest
 
- 3
+4
 
  65
 
@@ -608,13 +608,13 @@ Vereinigtes Königreich
 
 London
 
- 2
+1
 
  66
 
 Edinburgh
 
- 2
+3
 
  67
 
@@ -622,7 +622,7 @@ Weißrussland
 
 Minsk
 
-10
+12
 
  68
 
@@ -630,10 +630,10 @@ Zypern
 
 Nikosia
 
- 5
+8
 
- **Abschnitt 2
-Afrika**
+**Abschnitt 2**
+**Afrika**
 
  69
 
@@ -657,7 +657,7 @@ Angola
 
 Luanda
 
-19
+20
 
  72
 
@@ -665,7 +665,7 @@ Luanda
 
 Malabo
 
-18
+20
 
  73
 
@@ -673,7 +673,7 @@ Malabo
 
 Addis Abeba
 
-18
+17
 
  74
 
@@ -681,7 +681,7 @@ Benin
 
 Cotonou
 
-18
+19
 
  75
 
@@ -689,7 +689,7 @@ Botsuana
 
 Gaborone
 
-16
+14
 
  76
 
@@ -697,7 +697,7 @@ Burkina Faso
 
 Ouagadougou
 
-18
+20
 
  77
 
@@ -705,15 +705,15 @@ Burundi
 
 Bujumbura
 
-18
+20
 
  78
 
-Côte dʼIvoire
+Côte d´Ivoire
 
 Abidjan
 
-19
+20
 
  79
 
@@ -721,7 +721,7 @@ Dschibuti
 
 Dschibuti
 
-18
+20
 
  80
 
@@ -737,7 +737,7 @@ Gabun
 
 Libreville
 
-18
+20
 
  82
 
@@ -761,7 +761,7 @@ Kamerun
 
 Jaunde
 
-17
+20
 
  85
 
@@ -769,7 +769,7 @@ Kenia
 
 Nairobi
 
-18
+16
 
  86
 
@@ -781,8 +781,7 @@ Brazzaville
 
  87
 
-Kongo,
-Demokratische Republik
+Kongo, Demokratische Republik
 
 Kinshasa
 
@@ -802,7 +801,7 @@ Libyen
 
 Tripolis
 
-17
+20
 
  90
 
@@ -810,7 +809,7 @@ Madagaskar
 
 Antananarivo
 
-18
+20
 
  91
 
@@ -826,7 +825,7 @@ Mali
 
 Bamako
 
-19
+20
 
  93
 
@@ -834,7 +833,7 @@ Marokko
 
 Rabat
 
-14
+11
 
  94
 
@@ -842,7 +841,7 @@ Mauretanien
 
 Nouakchott
 
-19
+20
 
  95
 
@@ -850,7 +849,7 @@ Mosambik
 
 Maputo
 
-17
+18
 
  96
 
@@ -858,7 +857,7 @@ Namibia
 
 Windhuk
 
-15
+13
 
  97
 
@@ -866,7 +865,7 @@ Niger
 
 Niamey
 
-19
+20
 
  98
 
@@ -874,13 +873,13 @@ Nigeria
 
 Abuja
 
-19
+20
 
  99
 
 Lagos
 
-19
+20
 
 100
 
@@ -888,7 +887,7 @@ Ruanda
 
 Kigali
 
-17
+20
 
 101
 
@@ -896,7 +895,7 @@ Sambia
 
 Lusaka
 
-16
+17
 
 102
 
@@ -904,7 +903,7 @@ Senegal
 
 Dakar
 
-16
+18
 
 103
 
@@ -920,7 +919,7 @@ Simbabwe
 
 Harare
 
-18
+20
 
 105
 
@@ -936,13 +935,13 @@ Südafrika
 
 Pretoria
 
-14
+8
 
 107
 
 Kapstadt
 
-14
+11
 
 108
 
@@ -958,7 +957,7 @@ Tansania
 
 Daressalam
 
-18
+19
 
 110
 
@@ -966,13 +965,13 @@ Togo
 
 Lomé
 
-19
+20
 
 111
 
 Tschad
 
-NʼDjamena
+N´Djamena
 
 20
 
@@ -982,7 +981,7 @@ Tunesien
 
 Tunis
 
-14
+9
 
 113
 
@@ -990,10 +989,10 @@ Uganda
 
 Kampala
 
-16
+15
 
-**Abschnitt 3
-Amerika**
+**Abschnitt 3**
+**Amerika**
 
 114
 
@@ -1001,7 +1000,7 @@ Argentinien
 
 Buenos Aires
 
-11
+13
 
 115
 
@@ -1009,39 +1008,39 @@ Bolivien
 
 La Paz
 
-13
+16
 
 116
 
 Brasilien
 
-Brasilia
+Brasília
 
-12
+13
 
 117
 
 Porto Alegre
 
-12
+14
 
 118
 
 Recife
 
-12
+14
 
 119
 
 Rio de Janeiro
 
-12
+14
 
 120
 
 São Paulo
 
-12
+14
 
 121
 
@@ -1049,7 +1048,7 @@ Chile
 
 Santiago de Chile
 
-11
+13
 
 122
 
@@ -1057,7 +1056,7 @@ Costa Rica
 
 San José
 
-12
+13
 
 123
 
@@ -1065,7 +1064,7 @@ Dominikanische Republik
 
 Santo Domingo
 
-13
+15
 
 124
 
@@ -1073,7 +1072,7 @@ Ecuador
 
 Quito
 
-12
+13
 
 125
 
@@ -1081,7 +1080,7 @@ El Salvador
 
 San Salvador
 
-14
+19
 
 126
 
@@ -1089,7 +1088,7 @@ Guatemala
 
 Guatemala City
 
-13
+16
 
 127
 
@@ -1097,7 +1096,7 @@ Haiti
 
 Port-au-Prince
 
-16
+20
 
 128
 
@@ -1105,7 +1104,7 @@ Honduras
 
 Tegucigalpa
 
-14
+20
 
 129
 
@@ -1113,7 +1112,7 @@ Jamaika
 
 Kingston
 
-13
+19
 
 130
 
@@ -1121,25 +1120,25 @@ Kanada
 
 Ottawa
 
- 7
+4
 
 131
 
 Montreal
 
- 7
+6
 
 132
 
 Toronto
 
- 7
+5
 
 133
 
 Vancouver
 
- 7
+3
 
 134
 
@@ -1147,7 +1146,7 @@ Kolumbien
 
 Bogotá
 
-12
+13
 
 135
 
@@ -1155,7 +1154,7 @@ Kuba
 
 Havanna
 
-14
+20
 
 136
 
@@ -1163,7 +1162,7 @@ Mexiko
 
 Mexiko City
 
-12
+13
 
 137
 
@@ -1171,7 +1170,7 @@ Nicaragua
 
 Managua
 
-14
+19
 
 138
 
@@ -1179,7 +1178,7 @@ Panama
 
 Panama
 
-11
+14
 
 139
 
@@ -1187,7 +1186,7 @@ Paraguay
 
 Asunción
 
-12
+13
 
 140
 
@@ -1195,7 +1194,7 @@ Peru
 
 Lima
 
-12
+15
 
 141
 
@@ -1203,7 +1202,7 @@ Trinidad und Tobago
 
 Port-of-Spain
 
-13
+18
 
 142
 
@@ -1219,7 +1218,7 @@ Venezuela
 
 Caracas
 
-14
+18
 
 144
 
@@ -1227,58 +1226,58 @@ Vereinigte Staaten
 
 Washington
 
- 7
+7
 
 145
 
 Atlanta
 
- 8
+5
 
 146
 
 Boston
 
- 7
+5
 
 147
 
 Chicago
 
- 7
+7
 
 148
 
 Houston
 
- 8
+8
 
 149
 
 Los Angeles
 
- 7
+5
 
 150
 
 Miami
 
- 8
+7
 
 151
 
 New York
 
- 7
+6
 
 152
 
 San Francisco
 
- 7
+6
 
-**Abschnitt 4
-Asien**
+**Abschnitt 4**
+**Asien**
 
 153
 
@@ -1300,7 +1299,7 @@ Armenien
 
 Eriwan
 
-16
+13
 
 156
 
@@ -1308,7 +1307,7 @@ Aserbaidschan
 
 Baku
 
-17
+14
 
 157
 
@@ -1316,7 +1315,7 @@ Bahrain
 
 Manama
 
-14
+17
 
 158
 
@@ -1324,7 +1323,7 @@ Bangladesch
 
 Dhaka
 
-18
+20
 
 159
 
@@ -1332,7 +1331,7 @@ Brunei
 
 Bandar Seri Begawan
 
-13
+14
 
 160
 
@@ -1346,31 +1345,31 @@ Peking
 
 Chengdu
 
-14
+16
 
 162
 
 Hongkong
 
-12
+10
 
 163
 
 Kanton
 
-14
+16
 
 164
 
 Shanghai
 
-13
+12
 
 165
 
 Shenyang
 
-15
+20
 
 166
 
@@ -1378,7 +1377,7 @@ Georgien
 
 Tiflis
 
-17
+14
 
 167
 
@@ -1386,31 +1385,31 @@ Indien
 
 New Delhi
 
-16
+17
 
 168
 
 Bangalore
 
-16
+17
 
 169
 
 Chennai (Madras)
 
-16
+17
 
 170
 
 Kalkutta
 
-16
+17
 
 171
 
 Mumbai (Bombay)
 
-16
+14
 
 172
 
@@ -1418,7 +1417,7 @@ Indonesien
 
 Jakarta
 
-15
+17
 
 173
 
@@ -1432,7 +1431,7 @@ Bagdad
 
 Erbil
 
-18
+20
 
 175
 
@@ -1440,7 +1439,7 @@ Iran
 
 Teheran
 
-18
+19
 
 176
 
@@ -1448,7 +1447,7 @@ Israel
 
 Tel Aviv
 
-12
+11
 
 177
 
@@ -1456,13 +1455,13 @@ Japan
 
 Tokyo
 
-11
+12
 
 178
 
 Osaka-Kobe
 
-11
+12
 
 179
 
@@ -1470,7 +1469,7 @@ Jemen
 
 Sanaa
 
-18
+20
 
 180
 
@@ -1478,7 +1477,7 @@ Jordanien
 
 Amman
 
-13
+14
 
 181
 
@@ -1486,7 +1485,7 @@ Kambodscha
 
 Phnom Penh
 
-17
+20
 
 182
 
@@ -1494,13 +1493,13 @@ Kasachstan
 
 Astana
 
-17
+14
 
 183
 
 Almaty
 
-17
+14
 
 184
 
@@ -1508,7 +1507,7 @@ Katar
 
 Doha
 
-13
+14
 
 185
 
@@ -1516,16 +1515,16 @@ Kirgisistan
 
 Bischkek
 
-18
+19
 
 186
 
-Korea,
-Demokratische Volksrepublik
+Korea, Demokratische
+Volksrepublik
 
 Pjöngjang
 
-17
+20
 
 187
 
@@ -1541,7 +1540,7 @@ Kuwait
 
 Kuwait
 
-14
+13
 
 189
 
@@ -1549,7 +1548,7 @@ Laos
 
 Vientiane
 
-16
+19
 
 190
 
@@ -1557,7 +1556,7 @@ Libanon
 
 Beirut
 
-15
+16
 
 191
 
@@ -1565,7 +1564,7 @@ Malaysia
 
 Kuala Lumpur
 
-13
+11
 
 192
 
@@ -1573,7 +1572,7 @@ Mongolei
 
 Ulan Bator
 
-16
+20
 
 193
 
@@ -1581,7 +1580,7 @@ Myanmar
 
 Rangun
 
-17
+20
 
 194
 
@@ -1589,7 +1588,7 @@ Nepal
 
 Kathmandu
 
-18
+20
 
 195
 
@@ -1597,7 +1596,7 @@ Oman
 
 Maskat
 
-13
+14
 
 196
 
@@ -1605,13 +1604,13 @@ Pakistan
 
 Islamabad
 
-17
+19
 
 197
 
 Karachi
 
-17
+20
 
 198
 
@@ -1619,21 +1618,21 @@ Philippinen
 
 Manila
 
-15
+16
 
 199
 
-Saudi Arabien
+Saudi-Arabien
 
 Riad
 
-15
+16
 
 200
 
 Djidda
 
-15
+17
 
 201
 
@@ -1641,7 +1640,7 @@ Singapur
 
 Singapur
 
-11
+10
 
 202
 
@@ -1657,7 +1656,7 @@ Syrien
 
 Damaskus
 
-18
+19
 
 204
 
@@ -1665,7 +1664,7 @@ Tadschikistan
 
 Duschanbe
 
-18
+20
 
 205
 
@@ -1689,7 +1688,7 @@ Usbekistan
 
 Taschkent
 
-18
+20
 
 208
 
@@ -1697,13 +1696,13 @@ Vereinigte Arabische Emirate
 
 Abu Dhabi
 
-12
+13
 
 209
 
 Dubai
 
-12
+11
 
 210
 
@@ -1717,10 +1716,10 @@ Hanoi
 
 Ho-Chi-Minh-Stadt
 
-16
+18
 
-**Abschnitt 5
-Australien und Neuseeland**
+**Abschnitt 5**
+**Australien und Neuseeland**
 
 212
 
@@ -1728,13 +1727,13 @@ Australien
 
 Canberra
 
- 7
+9
 
 213
 
 Sydney
 
- 7
+9
 
 214
 
@@ -1742,29 +1741,27 @@ Neuseeland
 
 Wellington
 
- 7
+8
 
-**Abschnitt 6
-Weitere Dienstorte**
+**Abschnitt 6**
+**Weitere Dienstorte**
 
 215
 
 Ramallah
-(Palästinensisches
-Autonomiegebiet)
+(Palästinensisches Autonomiegebiet)
 
 16
 
 216
 
-Taipei
-(Taiwan)
+Taipei (Taiwan)
 
-13
+14
 
 ### Anlage 2 (zu § 1 Absatz 2 Satz 3)
 
-(Fundstelle: BGBl. I 2014, 810)
+(Fundstelle: BGBl. I 2018, 667)
 
 Staat
 
@@ -1778,134 +1775,149 @@ Zonenstufe
 
 3
 
-**Abschnitt 1
-Europa**
+**Abschnitt 1**
+**Europa**
 
  1
 
 Belgien
 
-Glons
+Casteau (Shape)/Mons
 
- 3
+2
 
  2
+
+Glons
+
+2
+
+ 3
 
 Frankreich
 
-Le Luc
+Évreux
 
- 3
-
- 3
-
-Nancy
-
- 2
+3
 
  4
 
-Italien
+Le Luc/Le Cannet de
+Maures
 
-Decimomannu
-
- 4
-
- 4a
-
-Giugliano
-
- 3
+3
 
  5
 
-Niederlande
+Nancy/Toul
 
-Eibergen
-
- 2
+3
 
  6
 
-Nieuw Milligen
+Italien
 
- 2
+Neapel/Giugliano
 
- 7
-
-Türkei
-
-Trabzon
+4
 
  7
 
-**Abschnitt 2
-Amerika**
+Palermo
+
+4
 
  8
 
-Vereinigte Staaten
+Poggio Renatico
 
-Alamogordo
-
- 8
+2
 
  9
 
-Albuquerque
+Sigonella/Catania
 
- 
+4
 
 10
 
-Carlisle
+Litauen
 
- 8
+Rukla
+
+6
 
 11
 
-El Paso
+Niederlande
 
- 8
+Brunssum/Kerkrade
+
+2
 
 12
 
-(weggefallen)
+Eibergen
+
+2
 
 13
 
-(weggefallen)
+Eindhoven
+
+2
 
 14
 
-Fort Sill
+Vredepeel
 
- 8
+2
+
+**Abschnitt 2**
+**Amerika**
 
 15
 
-(weggefallen)
+Vereinigte Staaten
+
+Alamogordo/Holloman
+
+9
 
 16
 
-Kirtland
+Carlisle
 
- 8
+7
 
 17
 
-(weggefallen)
+El Paso/Fort Bliss
+
+7
 
 18
 
-Sheppard
+Norfolk
 
- 8
-
-**Abschnitt 3
-Weitere Dienstorte**
+5
 
 19
+
+Reston/Dulles
+
+8
+
+20
+
+Sheppard AFB
+
+7
+
+**Abschnitt 3**
+**Weitere Dienstorte**
+
+21
 
 Neumayer-Station III
 (Antarktis)
