@@ -2,10 +2,7 @@ Verordnung über das datenbankgestützte Informationssystem über Arzneimittel d
 ==============================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 54 V v. 31.8.2015 I 1474
-
-Hinweis  
-Änderung durch Art. 6 G v. 20.12.2016 I 3048 (Nr. 63) noch nicht berücksichtigt
+Zuletzt geändert durch Art. 4 V v. 2.7.2018 I 1080
 
 ### 
 
@@ -149,7 +146,7 @@ Daten nach § 1 Absatz 1 Nummer 1 und 2 und Absatz 2 mit Ausnahme personenbezoge
 
 ### § 5 Auskunftsrecht
 
-§ 19 des Bundesdatenschutzgesetzes ist auf juristische Personen entsprechend anzuwenden.
+Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) ist auf juristische Personen entsprechend anzuwenden.
 
 ### § 6 Inkrafttreten
 
