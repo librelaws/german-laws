@@ -2,7 +2,7 @@ Verordnung über den Großhandel und die Arzneimittelvermittlung (AM-HandelsV)
 ============================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 G v. 7.8.2013 I 3108
+Zuletzt geändert durch Art. 1 V v. 2.7.2018 I 1080
 
 ### 
 
@@ -28,7 +28,7 @@ Diese Verordnung findet Anwendung auf Betriebe und Einrichtungen, soweit sie Gro
 
 ### § 1a Qualitätssicherungssystem
 
-Betriebe und Einrichtungen müssen die EU-Leitlinien für die Gute Vertriebspraxis von Arzneimitteln einhalten und hierfür ein funktionierendes Qualitätssicherungssystem entsprechend Art und Umfang der durchgeführten Tätigkeiten betreiben, das die aktive Beteiligung der Geschäftsführung vorsieht. Das Qualitätssicherungssystem muss insbesondere gewährleisten, dass Arzneimittel nur von hierfür berechtigten Betrieben und Einrichtungen bezogen und nur an solche geliefert werden, die Qualität der Arzneimittel auch während Lagerung und Transport nicht nachteilig beeinflusst wird, Verwechslungen vermieden werden und ein ausreichendes System der Rückverfolgung einschließlich der Durchführung eines Rückrufs besteht. Die nach § 2 Abs. 1 bestellte verantwortliche Person muss insbesondere dafür Sorge tragen, dass Bezug und Auslieferung der Arzneimittel gemäß den §§ 4a und 6 erfolgen und die schriftlichen Verfahrensbeschreibungen in regelmäßigen Abständen geprüft, erforderlichenfalls an den Stand von Wissenschaft und Technik angepasst und befolgt werden.
+Betriebe und Einrichtungen müssen die EU-Leitlinien für die Gute Vertriebspraxis von Arzneimitteln einhalten und hierfür ein funktionierendes Qualitätssicherungssystem entsprechend Art und Umfang der durchgeführten Tätigkeiten betreiben, das die aktive Beteiligung der Geschäftsführung vorsieht. Das Qualitätssicherungssystem muss insbesondere gewährleisten, dass Arzneimittel nur von hierfür berechtigten Betrieben und Einrichtungen bezogen und nur an solche geliefert werden, die Qualität der Arzneimittel auch während Lagerung und Transport nicht nachteilig beeinflusst wird, Verwechslungen vermieden werden und ein ausreichendes System der Rückverfolgung einschließlich der Durchführung eines Rückrufs besteht. Die nach § 2 Abs. 1 bestellte verantwortliche Person muss insbesondere dafür Sorge tragen, dass Bezug und Auslieferung der Arzneimittel gemäß den §§ 4a und 6 erfolgen und die schriftlichen oder elektronischen Verfahrensbeschreibungen in regelmäßigen Abständen geprüft, erforderlichenfalls an den Stand von Wissenschaft und Technik angepasst und befolgt werden. Soweit nach dieser Verordnung anstelle der Schriftform elektronische Verfahren eingesetzt werden dürfen, ist sicherzustellen, dass die elektronischen Dokumente für die jeweiligen Empfänger jederzeit leicht zugänglich sind und dass sie in hinreichender Weise vor unbefugten Manipulationen geschützt sind.
 
 ### § 2 Personal
 
@@ -44,7 +44,7 @@ Betriebe und Einrichtungen müssen die EU-Leitlinien für die Gute Vertriebsprax
 
 (3) Die verwendeten Geräte sollen leicht zu reinigen sein und müssen instand gehalten werden.
 
-(4) Betriebsräume und deren Einrichtungen müssen regelmäßig gereinigt werden. Soweit in Betriebsräumen Arzneimittel umgefüllt, abgepackt oder gekennzeichnet werden, soll nach einem schriftlichen Hygieneplan verfahren werden, in dem insbesondere folgendes festgelegt ist:
+(4) Betriebsräume und deren Einrichtungen müssen regelmäßig gereinigt werden. Soweit in Betriebsräumen Arzneimittel umgefüllt, abgepackt oder gekennzeichnet werden, soll nach einem schriftlichen oder elektronischen Hygieneplan verfahren werden, in dem insbesondere folgendes festgelegt ist:
 
 1.  
 die Häufigkeit der Maßnahmen,
@@ -78,15 +78,12 @@ die Behältnisse unbeschädigt sind,
 die Lieferung mit der Bestellung übereinstimmt,
 
 3.  
-der Lieferant unter Angabe der ausstellenden Behörde und des Ausstellungsdatums bestätigt hat, dass er über die notwendige Erlaubnis verfügt,
+der Lieferant unter Angabe der ausstellenden Behörde und des Ausstellungsdatums bestätigt hat, dass er über die notwendige Erlaubnis verfügt, und
 
 4.  
-der Arzneimittelvermittler, soweit er in Anspruch genommen wird, die notwendige Anzeige für die Registrierung vorgenommen hat, und
+der Arzneimittelvermittler, soweit er in Anspruch genommen wird, die notwendige Anzeige für die Registrierung vorgenommen hat.
 
-5.  
-die bei bestimmten Arzneimitteln nach § 10 Absatz 1c des Arzneimittelgesetzes vorgesehenen Sicherheitsmerkmale die Echtheit des Arzneimittels belegen.
-
-(3) Soweit die Arzneimittel von einem Betrieb mit einer Erlaubnis nach § 52a des Arzneimittelgesetzes oder über einen Arzneimittelvermittler bezogen werden, hat sich der Empfänger von deren Einhaltung der Guten Vertriebspraxis zu überzeugen.
+(3) Soweit die Arzneimittel von einem Betrieb mit einer Erlaubnis nach § 52a des Arzneimittelgesetzes oder von einem Betrieb mit einer durch einen anderen Mitgliedstaat der Europäischen Union erteilten Genehmigung nach Artikel 77 Absatz 1 der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311 vom 28.11.2001, S. 67), die zuletzt durch die Verordnung (EU) 2017/745 (ABl. L 117 vom 5.5.2017, S. 1) geändert worden ist oder über einen Arzneimittelvermittler bezogen werden, hat sich der Empfänger von deren Einhaltung der Guten Vertriebspraxis zu überzeugen.
 
 (4) Arzneimittel können aus Betrieben und Einrichtungen, die über eine Erlaubnis nach § 52a des Arzneimittelgesetzes oder nach dem Apothekengesetz verfügen oder die sonst zur Abgabe an den Verbraucher berechtigt sind, zurückgenommen werden.
 
@@ -118,6 +115,8 @@ bei Abgabe von zur Anwendung bei Tieren bestimmten Arzneimitteln sowie
 4.  
 im Falle der Abgabe von Arzneimitteln, die Sicherheitsmerkmale im Sinne von § 10 Absatz 1c des Arzneimittelgesetzes tragen müssen.
 
+Die nach den Sätzen 1 bis 4 beizufügenden Unterlagen und erforderlichen Angaben können dem Empfänger auch elektronisch übermittelt werden. Bei einer elektronischen Übermittlung hat der Absender sicherzustellen, dass die elektronischen Unterlagen und Angaben für die jeweiligen Empfänger jederzeit abrufbar sind und dass sie in hinreichender Weise vor Manipulationen geschützt sind.
+
 (3) Während des Transports der Arzneimittel ist bis zur Übergabe in den Verantwortungsbereich des Empfängers dafür Sorge zu tragen, dass kein Unbefugter Zugriff zu den Arzneimitteln hat und die Qualität der Arzneimittel nicht beeinträchtigt wird.
 
 ### § 7 Dokumentation
@@ -136,7 +135,7 @@ im Falle der Abgabe von Arzneimitteln, die Sicherheitsmerkmale im Sinne von § 1
 
 (1) Wer einen Arzneimittelgroßhandel betreibt, muß einen Rückrufplan bereithalten, der die Durchführung jedes Rückrufes eines Arzneimittels gewährleistet, der nach Angaben der zuständigen Behörden oder des pharmazeutischen Unternehmers erfolgt.
 
-(2) Der Rückrufplan und die hierzu erforderlichen organisatorischen Abläufe müssen schriftlich festgelegt sein. Über die Durchführung von Rückrufen müssen Aufzeichnungen geführt werden. § 7 Abs. 3 gilt entsprechend.
+(2) Der Rückrufplan und die hierzu erforderlichen organisatorischen Abläufe müssen schriftlich oder elektronisch festgelegt sein. Über die Durchführung von Rückrufen müssen Aufzeichnungen geführt werden. § 7 Abs. 3 gilt entsprechend.
 
 ### § 7b Rücknahme von Arzneimitteln
 
@@ -150,7 +149,7 @@ im Falle der Abgabe von Arzneimitteln, die Sicherheitsmerkmale im Sinne von § 1
 der Zurückgebende durch Geschäftsunterlagen wie Lieferscheine oder Rechnungen belegt, daß er sie vom Arzneimittelgroßhandel bezogen hat,
 
 2.  
-der Zurückgebende schriftlich bestätigt, daß sie seit der Lieferung ordnungsgemäß gelagert und gehandhabt wurden, insbesondere seinen Verantwortungsbereich nicht verlassen haben,
+der Zurückgebende schriftlich oder elektronisch bestätigt, daß sie seit der Lieferung ordnungsgemäß gelagert und gehandhabt wurden, insbesondere seinen Verantwortungsbereich nicht verlassen haben,
 
 3.  
 sie sich in den Originalbehältnissen und in ordnungsgemäßen Zustand befinden,
@@ -164,7 +163,7 @@ keine Angaben des pharmazeutischen Unternehmers oder der zuständigen Behörde �
 6.  
 keine sonstigen Anhaltspunkte für eine fehlende Verkehrsfähigkeit bestehen. Dabei sind die Art des Arzneimittels, die erforderlichen Lagerungsbedingungen und der seit der Auslieferung verstrichene Zeitraum zu berücksichtigen. Dies gilt insbesondere für Arzneimittel mit besonderen Anforderungen an die Lagerungsbedingungen.
 
-(4) Die Prüfung und Entscheidung nach Absatz 3 muß durch dafür besonders eingewiesenes Personal erfolgen. Die Prüfanweisung und die organisatorischen Abläufe sind schriftlich festzulegen.
+(4) Die Prüfung und Entscheidung nach Absatz 3 muß durch dafür besonders eingewiesenes Personal erfolgen. Die Prüfanweisung und die organisatorischen Abläufe sind schriftlich oder elektronisch festzulegen.
 
 ### § 7c Selbstinspektion
 
