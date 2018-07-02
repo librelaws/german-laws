@@ -2,7 +2,7 @@ Verordnung zur Beschränkung der Verwendung gefährlicher Stoffe in Elektro- und
 =================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 16.12.2015 I 2349
+Zuletzt geändert durch Art. 1 V v. 3.7.2018 I 1084
 
 ### 
 
@@ -122,12 +122,15 @@ bewegliche Maschinen,
 aktive, implantierbare medizinische Geräte,
 
 9.  
-Photovoltaikmodule, die zur Verwendung in einem System bestimmt sind, das zum ständigen Betrieb an einem festen Ort zur Erzeugung von Strom aus solarer Strahlungsenergie für öffentliche, kommerzielle, industrielle und private Anwendungen von Fachpersonal entworfen, zusammengesetzt und installiert wurde, und
+Photovoltaikmodule, die zur Verwendung in einem System bestimmt sind, das zum ständigen Betrieb an einem festen Ort zur Erzeugung von Strom aus solarer Strahlungsenergie für öffentliche, kommerzielle, industrielle und private Anwendungen von Fachpersonal entworfen, zusammengesetzt und installiert wurde,
 
 10.  
-Geräte, die ausschließlich zu Zwecken der Forschung und Entwicklung entworfen wurden und nur auf zwischenbetrieblicher Ebene bereitgestellt werden.
+Geräte, die ausschließlich zu Zwecken der Forschung und Entwicklung entworfen wurden und nur auf zwischenbetrieblicher Ebene bereitgestellt werden,
 
-(3) Soweit auf Grund anderer Rechtsvorschriften besondere Anforderungen an die Verwendung der durch diese Verordnung beschränkten Stoffe in Elektro- und Elektronikgeräten bestehen, gelten diese Rechtsvorschriften.
+11.  
+Pfeifenorgeln.
+
+(3) Soweit auf Grund anderer Rechtsvorschriften besondere Anforderungen an die Verwendung der durch diese Verordnung beschränkten Stoffe in Elektro- und Elektronikgeräten bestehen, gelten diese Rechtsvorschriften,
 
 ### § 2 Begriffsbestimmungen
 
@@ -239,7 +242,7 @@ d)
 Leistungsvermögen erweitert;
 
 26.  
-bewegliche Maschinen:Maschinen mit eigener Energieversorgung, die
+bewegliche Maschinen:Maschinen mit eigener Energieversorgung oder mit externem Antrieb über Netzkabel, die
 
 a)  
 vorrangig nicht für den Straßenverkehr bestimmt sind,
@@ -255,7 +258,34 @@ beim Betrieb entweder beweglich sind oder kontinuierlich oder halbkontinuierlich
 (1) Elektro- und Elektronikgeräte einschließlich Kabeln und Ersatzteilen dürfen nur in Verkehr gebracht werden, wenn die zulässigen Höchstkonzentrationen folgender Stoffe nicht überschritten werden:
 
 1.  
-0,1 Gewichtsprozent Blei, Quecksilber, sechswertiges Chrom, polybromiertes Biphenyl (PBB) oder polybromierte Diphenylether (PBDE) je homogenen Werkstoff oder
+0,1 Gewichtsprozent je homogenen Werkstoff:
+
+a)  
+Blei,
+
+b)  
+Quecksilber,
+
+c)  
+sechswertiges Chrom,
+
+d)  
+polybromiertes Biphenyl (PBB),
+
+e)  
+polybromierte Diphenylether (PBDE),
+
+f)  
+Di(2-ethylhexyl)phthalat (DEHP),
+
+g)  
+Butylbenzylphthalat (BBP),
+
+h)  
+Dibutylphthalat (DBP) oder
+
+i)  
+Diisobutylphthalat (DIBP) oder
 
 2.  
 0,01 Gewichtsprozent Cadmium je homogenen Werkstoff.
@@ -276,7 +306,9 @@ gemäß § 12 die CE-Kennzeichnung angebracht wurde.
 
 Ist nach anderen geltenden Rechtsvorschriften der Europäischen Union die Durchführung eines Konformitätsbewertungsverfahrens erforderlich, bei dem mindestens die Anforderungen des Moduls A in Anhang II des Beschlusses Nr. 768/2008/EG erfüllt sein müssen, so kann die Erfüllung der Anforderungen gemäß Absatz 1 im Rahmen dieses alternativen Verfahrens nachgewiesen werden. Es können einheitliche technische Unterlagen erstellt werden.
 
-(3) Absatz 1 gilt nicht für Verwendungszwecke, die in den Anhängen III und IV der Richtlinie 2011/65/EU des Europäischen Parlaments und des Rates vom 8. Juni 2011 zur Beschränkung der Verwendung bestimmter gefährlicher Stoffe in Elektro- und Elektronikgeräten (ABl. L 174 vom 1.7.2011, S. 88), die zuletzt durch die die delegierte Richtlinie 2015/573/EU (ABl. L 94 vom 10.4.2015, S. 4) und die delegierte Richtlinie 2015/574/EU (ABl. L 94 vom 10.4.2015, S. 6) geändert worden ist, festgelegt sind. Bei diesen Verwendungszwecken hat die interne Fertigungskontrolle nach Absatz 2 Satz 1 Nummer 2 nachzuweisen, dass die Voraussetzungen für die jeweilige Ausnahme nach den Anhängen III und IV der Richtlinie 2011/65/EU erfüllt werden.
+(3) Absatz 1 gilt nicht für Verwendungszwecke, die in den Anhängen III und IV der Richtlinie 2011/65/EU des Europäischen Parlaments und des Rates vom 8. Juni 2011 zur Beschränkung der Verwendung bestimmter gefährlicher Stoffe in Elektro- und Elektronikgeräten (ABl. L 174 vom 1.7.2011, S. 88), die zuletzt durch die Richtlinie (EU) 2017/2102 (ABl. L 305 vom 21.11.2017, S. 8) geändert worden ist, in der jeweils geltenden Fassung festgelegt sind. Bei diesen Verwendungszwecken hat die interne Fertigungskontrolle nach Absatz 2 Satz 1 Nummer 2 nachzuweisen, dass die Voraussetzungen für die jeweilige Ausnahme nach den Anhängen III und IV der Richtlinie 2011/65/EU erfüllt werden.
+
+(4) Absatz 1 Nummer 1 Buchstabe f bis h gilt nicht für Spielzeug, das bereits gemäß Eintrag 51 in Anhang XVII der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. L 396 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EU) 2015/1494 (ABl. L 233 vom 5.9.2015, S. 2) geändert worden ist, einer Beschränkung unterliegt.
 
 ### § 4 Allgemeine Pflichten des Herstellers
 
@@ -449,20 +481,19 @@ entgegen § 5 Absatz 3 Satz 1, § 7 Absatz 6 Satz 1 oder § 8 Absatz 3 Satz 1 ei
 
 ### § 15 Übergangsvorschriften
 
-(1) Unbeschadet der Absätze 2 und 3 dürfen Elektro- und Elektronikgeräte, die vor dem Inkrafttreten dieser Verordnung nicht in den Anwendungsbereich des Elektro- und Elektronikgerätegesetzes vom 16. März 2005 (BGBl. I S. 762), das zuletzt durch Artikel 3 des Gesetzes vom 24. Februar 2012 (BGBl. I S. 212) geändert worden ist, fielen, bis zum 22. Juli 2019 auf dem Markt bereitgestellt werden, auch wenn sie die Anforderungen dieser Verordnung nicht erfüllen.
+(1) (weggefallen)
 
-(2) Ausgenommen von den Stoffbeschränkungen nach § 3 Absatz 1 sind die folgenden Elektro- und Elektronikgeräte, die noch bis zu den folgenden Zeitpunkten in Verkehr gebracht werden dürfen:
+(2) Ausgenommen von den Stoffbeschränkungen nach § 3 Absatz 1 Nummer 1 Buchstabe a bis e und Nummer 2 sind sonstige Elektro- und Elektronikgeräte, die vor dem Inkrafttreten dieser Verordnung nicht in den Anwendungsbereich des bis zum 23. Oktober 2015 geltenden Elektro- und Elektronikgerätegesetzes vom 16. März 2005 (BGBl. I S. 762), das zuletzt durch Artikel 3 des Gesetzes vom 24. Februar 2012 (BGBl. I S. 212) geändert worden ist, fielen, die bis zum Ablauf des 21. Juli 2019 in Verkehr gebracht werden.
+
+(3) Ausgenommen von den Stoffbeschränkungen nach § 3 Absatz 1 Nummer 1 Buchstabe f bis i sind die folgenden Elektro- und Elektronikgeräte, die noch bis zu den folgenden Zeitpunkten in Verkehr gebracht werden dürfen:
 
 1.  
-medizinische Geräte sowie Überwachungs- und Kontrollinstrumente bis zum Ablauf des 21. Juli 2014,
+Haushaltsgroßgeräte, Haushaltskleingeräte, Geräte der Informations- und Telekommunikationstechnik, Geräte der Unterhaltungselektronik, Beleuchtungskörper, elektrische und elektronische Werkzeuge, Spielzeuge sowie Sport- und Freizeitgeräte und automatische Ausgabegeräte bis zum Ablauf des 21. Juli 2019 sowie
 
 2.  
-In-vitro-Diagnostika bis zum Ablauf des 21. Juli 2016 sowie
+medizinische Geräte einschließlich In-vitro-Diagnostika sowie Überwachungs- und Kontrollinstrumente einschließlich industrielle Überwachungs- und Kontrollinstrumente bis zum Ablauf des 21. Juli 2021.
 
-3.  
-industrielle Überwachungs- und Kontrollinstrumente bis zum Ablauf des 21. Juli 2017.
-
-(3) Ausgenommen von den Stoffbeschränkungen nach § 3 Absatz 1 sind Kabel oder Ersatzteile von
+(4) Ausgenommen von den Stoffbeschränkungen nach § 3 Absatz 1 Nummer 1 Buchstabe a bis e und Nummer 2 sind Kabel oder Ersatzteile für die Reparatur, die Wiederverwendung, die Aktualisierung von Funktionen oder die Erweiterung des Leistungsvermögens von
 
 1.  
 Elektro- und Elektronikgeräten, die bis zum Ablauf des 30. Juni 2006 in Verkehr gebracht wurden,
@@ -477,12 +508,41 @@ In-vitro-Diagnostika, die bis zum Ablauf des 21. Juli 2016 in Verkehr gebracht w
 Überwachungs- und Kontrollinstrumenten, die bis zum Ablauf des 21. Juli 2014 in Verkehr gebracht wurden,
 
 5.  
-industriellen Überwachungs- und Kontrollinstrumenten, die bis zum Ablauf des 21. Juli 2017 in Verkehr gebracht wurden, und
+industriellen Überwachungs- und Kontrollinstrumenten, die bis zum Ablauf des 21. Juli 2017 in Verkehr gebracht wurden,
 
 6.  
+sonstigen Elektro- und Elektronikgeräten, die vor dem Inkrafttreten dieser Verordnung nicht in den Anwendungsbereich des bis zum 23. Oktober 2015 geltenden Elektro- und Elektronikgerätegesetzes fielen und bis zum Ablauf des 21. Juli 2019 in Verkehr gebracht wurden, und
+
+7.  
 Elektro- und Elektronikgeräten, soweit für diese eine Ausnahme nach dem Anhang der Richtlinie 2002/95/EG des Europäischen Parlaments und des Rates vom 27. Januar 2003 zur Beschränkung der Verwendung bestimmter gefährlicher Substanzen in Elektro- und Elektronikgeräten (ABl. L 37 vom 23.2.2003, S. 19) oder auf Grund des Artikels 5 dieser Richtlinie galt und die vor Auslaufen dieser Ausnahme in Verkehr gebracht wurden.
 
-(4) Ausgenommen von den Stoffbeschränkungen nach § 3 Absatz 1 sind Ersatzteile, die aus Elektro- und Elektronikgeräten, die bis zum Ablauf des 30. Juni 2006 in Verkehr gebracht wurden, ausgebaut und in Geräten verwendet werden, die zum Ablauf des 30. Juni 2016 in Verkehr gebracht werden, sofern die Wiederverwendung in einem überprüfbaren geschlossenen zwischenbetrieblichen System erfolgt und den Verbraucherinnen und Verbrauchern kenntlich gemacht wird, dass Teile wiederverwendet wurden.
+(5) Ausgenommen von den Stoffbeschränkungen nach § 3 Absatz 1 Nummer 1 Buchstabe f bis i sind Kabel oder Ersatzteile von
+
+1.  
+Haushaltsgroßgeräten, Haushaltskleingeräten, Geräten der Informations- und Telekommunikationstechnik, Geräten der Unterhaltungselektronik, Beleuchtungskörpern, elektrischen und elektronischen Werkzeugen, Spielzeugen sowie Sport- und Freizeitgeräten und automatischen Ausgabegeräten, die bis zum Ablauf des 21. Juli 2019 in Verkehr gebracht wurden, und
+
+2.  
+medizinischen Geräten einschließlich In-vitro-Diagnostika sowie Überwachungs- und Kontrollinstrumenten einschließlich industriellen Überwachungs- und Kontrollinstrumenten, die bis zum Ablauf des 21. Juli 2021 in Verkehr gebracht wurden.
+
+(6) Sofern die Wiederverwendung in einem überprüfbaren geschlossenen zwischenbetrieblichen System erfolgt und den Verbraucherinnen und Verbrauchern kenntlich gemacht wird, dass Ersatzteile wiederverwendet wurden, gilt § 3 Absatz 1 Nummer 1 nicht für Ersatzteile, die aus
+
+1.  
+Elektro- und Elektronikgeräten ausgebaut werden, die bis zum Ablauf des 30. Juni 2006 in Verkehr gebracht wurden und in Elektro- und Elektronikgeräten wiederverwendet werden, die bis zum Ablauf des 30. Juni 2016 in Verkehr gebracht wurden,
+
+2.  
+medizinischen Geräten ausgebaut werden, die bis zum Ablauf des 21. Juli 2014 in Verkehr gebracht wurden und in Elektro- und Elektronikgeräten wiederverwendet werden, die bis zum Ablauf des 21. Juli 2024 in Verkehr gebracht werden,
+
+3.  
+In-vitro-Diagnostika ausgebaut werden, die bis zum Ablauf des 21. Juli 2016 in Verkehr gebracht wurden und in Elektro- und Elektronikgeräten wiederverwendet werden, die bis zum Ablauf des 21. Juli 2026 in Verkehr gebracht werden,
+
+4.  
+Überwachungs- und Kontrollinstrumenten ausgebaut werden, die bis zum Ablauf des 21. Juli 2014 in Verkehr gebracht wurden und in Elektro- und Elektronikgeräten wiederverwendet werden, die bis zum Ablauf des 21. Juli 2024 in Verkehr gebracht werden,
+
+5.  
+industriellen Überwachungs- und Kontrollinstrumenten ausgebaut werden, die bis zum Ablauf des 21. Juli 2017 in Verkehr gebracht wurden und in Elektro- und Elektronikgeräten wiederverwendet werden, die bis zum Ablauf des 21. Juli 2027 in Verkehr gebracht werden, sowie
+
+6.  
+sonstigen Elektro- und Elektronikgeräten ausgebaut werden, die vor dem Inkrafttreten dieser Verordnung nicht in den Anwendungsbereich des bis zum 23. Oktober 2015 geltenden Elektro- und Elektronikgerätegesetzes fielen, bis zum Ablauf des 21. Juli 2019 in Verkehr gebracht werden und in Elektro- und Elektronikgeräten wiederverwendet werden, die bis zum Ablauf des 21. Juli 2029 in Verkehr gebracht werden.
 
 ### § 16 Inkrafttreten
 
