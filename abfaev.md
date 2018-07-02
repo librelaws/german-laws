@@ -1,8 +1,8 @@
 Verordnung über das Anzeige- und Erlaubnisverfahren für Sammler, Beförderer, Händler und Makler von Abfällen (AbfAEV)
 =====================================================================================================================
 
-Hinweis  
-Änderung durch Art. 8 V v. 2.12.2016 I 2770 (Nr. 58) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Stand  
+Zuletzt geändert durch Art. 2 V v. 3.7.2018 I 1084
 
 ### 
 
@@ -119,7 +119,7 @@ Erlaubnisse für Sammler, Beförderer, Händler und Makler von gefährlichen Abf
 
 (2) Für die Leitung und Beaufsichtigung des Betriebes verantwortliche Personen im Sinne dieser Verordnung sind diejenigen natürlichen Personen, die vom Inhaber mit der fachlichen Leitung, Überwachung und Kontrolle der vom Betrieb durchgeführten Tätigkeiten insbesondere im Hinblick auf die Beachtung der hierfür geltenden Vorschriften und Anordnungen beauftragt worden sind. Die Beauftragung setzt die Übertragung der für die in Satz 1 beschriebenen Aufgaben erforderlichen Entscheidungs- und Mitwirkungsbefugnisse voraus.
 
-(3) Sonstiges Personal im Sinne dieser Verordnung sind diejenigen Arbeitnehmerinnen und Arbeitnehmer und andere im Betrieb des Sammlers, Beförderers, Händlers oder Maklers von Abfällen beschäftigte Personen, die bei der Ausübung dieser betrieblichen Tätigkeiten mitwirken.
+(3) Sonstiges Personal im Sinne dieser Verordnung sind diejenigen Arbeitnehmerinnen und Arbeitnehmer und anderen im Betrieb des Sammlers, Beförderers, Händlers oder Maklers von Abfällen beschäftigten Personen, die bei der Ausübung dieser betrieblichen Tätigkeiten mitwirken.
 
 Abschnitt 2 Anforderungen an Sammler, Beförderer, Händler und Makler von Abfällen
 ---------------------------------------------------------------------------------
@@ -274,7 +274,7 @@ Die Länder sind befugt, Daten zu erheben, zu speichern und zu nutzen, die zur D
 jederzeit Anzeigen nach Absatz 1 Satz 1 über das informationstechnische System erstattet werden können und
 
 2.  
-§ 9 des Bundesdatenschutzgesetzes entsprechende technische und organisatorische Sicherungsmaßnahmen ergriffen werden.
+nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1) entsprechende technische und organisatorische Sicherungsmaßnahmen ergriffen werden.
 
 (4) Das Nähere über die Einrichtung und die Nutzungsbedingungen des informationstechnischen Systems regeln die Länder durch Vereinbarung.
 
@@ -322,7 +322,7 @@ der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen
 ein Nachweis über die Fachkunde
 
 a)  
-des Inhabers, soweit er für Leitung des Betriebes verantwortlich ist, und
+des Inhabers, soweit er für die Leitung des Betriebes verantwortlich ist, und
 
 b)  
 der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen, sofern solche vorhanden sind,
@@ -387,13 +387,13 @@ Die Länder sind befugt, Daten zu erheben, zu speichern und zu nutzen, die zur D
 jederzeit Erlaubnisse nach Absatz 1 Satz 1 über das informationstechnische System beantragt werden können und
 
 2.  
-§ 9 des Bundesdatenschutzgesetzes entsprechende organisatorische und technische Sicherungsmaßnahmen ergriffen werden.
+nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 entsprechende organisatorische und technische Sicherungsmaßnahmen ergriffen werden.
 
 (4) Das Nähere über die Einrichtung und Nutzung des informationstechnischen Systems regeln die Länder durch Vereinbarung.
 
 ### § 12 Ausnahmen von der Erlaubnispflicht
 
-(1) Ungeachtet des § 54 Absatz 3 des Kreislaufwirtschaftsgesetzes, des § 2 Absatz 3 Satz 1 des Elektro- und Elektronikgerätegesetzes und des § 1 Absatz 3 Satz 1 des Batteriegesetzes sind von der Erlaubnispflicht nach § 54 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes auch ausgenommen:
+(1) Ungeachtet des § 54 Absatz 3 des Kreislaufwirtschaftsgesetzes, des § 2 Absatz 2 Satz 1 des Verpackungsgesetzes, des § 2 Absatz 3 Satz 1 des Elektro- und Elektronikgerätegesetzes und des § 1 Absatz 3 Satz 1 des Batteriegesetzes sind von der Erlaubnispflicht nach § 54 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes auch ausgenommen:
 
 1.  
 Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen, die im Rahmen wirtschaftlicher Unternehmen tätig sind,
@@ -450,7 +450,13 @@ Die zuständige Behörde kann eine andere geeignete Kennzeichnung der Fahrzeuge 
 
 ### § 15 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 4 Absatz 5 zuwiderhandelt.
+Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
+
+1.  
+einer vollziehbaren Anordnung nach § 4 Absatz 5 zuwiderhandelt oder
+
+2.  
+entgegen § 13 Absatz 1 Satz 1, 3, 4 oder 5 oder Absatz 2 eine dort genannte Kopie oder einen dort genannten Ausdruck nicht mitführt.
 
 ### § 16 Übergangsvorschriften
 
