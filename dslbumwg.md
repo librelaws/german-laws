@@ -2,12 +2,13 @@ Gesetz über die Umwandlung der Deutschen Siedlungs- und Landesrentenbank in ein
 ==============================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 351 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 11 G v. 10.7.2018 I 1102
 
 ### 
 
 ```
 (+++ Textnachweis ab: 23.12.1999 +++)
+(+++ Zur Anwendung vgl. § 14 Abs. 2 Satz 2 F. vom 14.7.2018 +++)
 ```
 
 ### § 1 Errichtung durch Umwandlung
@@ -75,11 +76,15 @@ Der Vorstand beruft die erste Hauptversammlung spätestens bis zum 31. März 200
 
 (2) Im Fall der Eröffnung des Insolvenzverfahrens sind die §§ 30 bis 37 des Pfandbriefgesetzes entsprechend anzuwenden.
 
+(+++ § 8: Zur Anwendung vgl. § 14 Abs. 2 Satz 2 F. vom 14.07.2018 +++)
+
 ### § 9 Anlagesicherheit, Deckungsstockfähigkeit
 
 (1) Soweit Unternehmen nach Gesetz oder Satzung Geld in mündelsicheren Werten anzulegen haben, stehen gedeckte Schuldverschreibungen der Aktiengesellschaft, die nicht auf ausländische Zahlungsmittel lauten, diesen Werten gleich.
 
 (2) Die gedeckten Schuldverschreibungen der Aktiengesellschaft sind deckungsstockfähig, soweit Unternehmen nach Gesetz oder Satzung eine Deckungsmasse in Hypothekenpfandbriefen oder Öffentlichen Pfandbriefen nach dem Pfandbriefgesetz bilden können.
+
+(+++ § 9: Zur Anwendung vgl. § 14 Abs. 2 Satz 2 F. vom 14.07.2018 +++)
 
 ### § 10 Übergangsregelung für Schuldverschreibungen und Geschäfte der Deutschen Siedlungs- und Landesrentenbank sowie ihr gewährte Darlehen
 
@@ -90,6 +95,8 @@ Der Vorstand beruft die erste Hauptversammlung spätestens bis zum 31. März 200
 (3) Die bisherigen Deckungsregister der Deutschen Siedlungs- und Landesrentenbank bleiben nach der Umwandlung als getrennte Deckungsregister neben dem Deckungsregister nach § 7 Abs. 4 bestehen. Die Aufgaben des Treuhänders nach § 7 Abs. 5 Satz 5 erstrecken sich auf diese Deckungsregister.
 
 (4) Die bis zur Umwandlung in die Deckungsregister eingetragenen Deckungswerte können weiterhin ohne Anrechnung auf die Obergrenze nach § 7 Abs. 1 durch gedeckte Schuldverschreibungen refinanziert werden.
+
+(+++ § 10: Zur Anwendung vgl. § 14 Abs. 2 Satz 2 F. vom 14.07.2018 +++)
 
 ### § 11 Haftung des Bundes für Altverbindlichkeiten
 
@@ -115,11 +122,13 @@ Der Bund haftet für die Erfüllung der Verbindlichkeiten der Deutschen Siedlung
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft kann im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung der Landwirtschaftlichen Rentenbank Aufgaben nach Absatz 1 oder 2 übertragen, soweit es sich um Aufgaben des Bundes handelt.
 
+(+++ § 13: Zur Anwendung vgl. § 14 Abs. 2 Satz 2 F. vom 14.07.2018 +++)
+
 ### § 14 Verschmelzung der Aktiengesellschaft
 
 (1) Für den Fall der Verschmelzung der Aktiengesellschaft gilt für die Anwendung des § 67 des Umwandlungsgesetzes die Aktiengesellschaft als seit dem 14. September 1989 in das Register eingetragener Rechtsträger.
 
-(2) Ist die Aktiengesellschaft im Fall der Verschmelzung nicht übernehmender Rechtsträger, sind die Vorschriften der §§ 7 bis 9 über die Ausgabe gedeckter Schuldverschreibungen sowie die §§ 10 und 13 auf den übernehmenden Rechtsträger entsprechend anzuwenden.
+(2) Ist die Aktiengesellschaft im Fall der Verschmelzung nicht übernehmender Rechtsträger, sind die Vorschriften der §§ 7 bis 9 über die Ausgabe gedeckter Schuldverschreibungen sowie die §§ 10 und 13 auf den übernehmenden Rechtsträger entsprechend anzuwenden. Im Fall jeder weiteren Verschmelzung eines Rechtsnachfolgers der Aktiengesellschaft sind die Vorschriften des § 7 Absatz 2 bis 6 und der §§ 8 bis 10 und 13 auf den jeweiligen übernehmenden Rechtsträger entsprechend anzuwenden.
 
 ### § 15 Inkrafttreten, Außerkrafttreten
 
