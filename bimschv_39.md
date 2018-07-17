@@ -1,8 +1,8 @@
-Neununddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes Verordnung über Luftqualitätsstandards und Emissionshöchstmengen (39. BImSchV)
-================================================================================================================================================================
+Neununddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (39. BImSchV)
+===============================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 10.10.2016 I 2244
+Zuletzt geändert durch Art. 2 V v. 18.7.2018 I 1222
 
 ### 
 
@@ -809,7 +809,7 @@ Teil 7 Emissionshöchstmengen, Programme der Bundesregierung
 
 ### § 33 Emissionshöchstmengen, Emissionsinventare und -prognosen
 
-(1) Für die Bundesrepublik Deutschland werden für die Stoffe Schwefeldioxid (SO<sub>2</sub>), Stickstoffoxide (NO<sub>x</sub>), flüchtige organische Verbindungen (NMVOC) und Ammoniak (NH<sub>3</sub>) folgende Emissionshöchstmengen in Kilotonnen pro Kalenderjahr festgelegt:
+(1) Für die Bundesrepublik Deutschland werden für die Stoffe Schwefeldioxid (SO<sub>2</sub>), Stickstoffoxide (NO<sub>x</sub>), flüchtige organische Verbindungen (NMVOC) und Ammoniak (NH<sub>3</sub>) folgende Emissionshöchstmengen in Kilotonnen pro Kalenderjahr bis einschließlich 31. Dezember 2019 festgelegt:
 
 1.  
 SO<sub>2</sub>520
@@ -823,7 +823,7 @@ NMVOC 995
 4.  
 NH<sub>3</sub>550.
 
-(2) Die Emissionen sind mit Maßnahmen des in § 34 beschriebenen Programms spätestens ab dem Jahr 2011 auf die in Absatz 1 genannten Höchstmengen zu begrenzen und dürfen danach nicht mehr überschritten werden.
+(2) Die Emissionen sind mit Maßnahmen des in § 34 beschriebenen Programms spätestens ab dem Jahr 2011 auf die in Absatz 1 genannten Höchstmengen zu begrenzen und dürfen bis einschließlich 31. Dezember 2019 nicht mehr überschritten werden.
 
 (3) Das Umweltbundesamt erstellt für die in Absatz 1 genannten Stoffe jährlich Emissionsinventare und Emissionsprognosen für die Jahre 2015 und 2020.
 
