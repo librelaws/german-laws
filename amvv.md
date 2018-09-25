@@ -2,7 +2,7 @@ Verordnung über die Verschreibungspflicht von Arzneimitteln (AMVV)
 ==================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 16.2.2016 I 237
+Zuletzt geändert durch Art. 1 V v. 26.9.2018 I 1386
 
 ### 
 
@@ -76,7 +76,7 @@ sofern das Arzneimittel zur Anwendung bei Tieren verschrieben wird, die der Gewi
 sowie anstelle der Angaben nach Nummer 3 der Name des Tierhalters und Zahl und Art der Tiere, bei denen das Arzneimittel angewendet werden soll, sowie bei Verschreibungen für Tiere, die der Gewinnung von Lebensmitteln dienen, die Identität der Tiere,
 
 10.  
-die eigenhändige Unterschrift der verschreibenden Person oder, bei Verschreibungen in elektronischer Form, deren qualifizierte elektronische Signatur nach dem Signaturgesetz.
+die eigenhändige Unterschrift der verschreibenden Person oder, bei Verschreibungen in elektronischer Form, deren qualifizierte elektronische Signatur.
 
 (1a) Den aus Deutschland stammenden ärztlichen oder zahnärztlichen Verschreibungen sind entsprechende Verschreibungen aus den Mitgliedstaaten der Europäischen Union, aus den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und aus der Schweiz gleichgestellt, sofern diese die Angaben nach Absatz 1 aufweisen und dadurch ihre Authentizität und ihre Ausstellung durch eine dazu berechtigte ärztliche oder zahnärztliche Person nachweisen. Die Regelungen des § 3a sowie der Betäubungsmittel-Verschreibungsverordnung bleiben unberührt.
 
@@ -98,7 +98,7 @@ Anschrift der verschreibenden Person einschließlich der Bezeichnung des Mitglie
 handschriftliche oder digitale Unterschrift der verschreibenden Person je nach Medium der Verschreibung,
 
 6.  
-die nach Artikel 1 Nummer 21 der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311 vom 28.11.2001, S. 67), die zuletzt durch die Verordnung (EG) Nr. 1901/2006 (ABl. L 378 vom 27.12.2006, S. 1) geändert worden ist, gebräuchliche Bezeichnung des Arzneimittels (internationaler Freiname); die Bezeichnung eines Fertigarzneimittels darf verwendet werden, wenn
+die nach Artikel 1 Nummer 21 der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November 2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311 vom 28.11.2001, S. 67), die zuletzt durch die Richtlinie 2012/26/EU (ABl. L 299 vom 27.10.2012, S. 1) geändert worden ist, gebräuchliche Bezeichnung des Arzneimittels (internationaler Freiname); die Bezeichnung eines Fertigarzneimittels darf verwendet werden, wenn
 
 a)  
 das verschriebene Arzneimittel ein biologisches Arzneimittel nach Nummer 3.2.1.1. Buchstabe b des Anhangs I Teil 1 der Richtlinie 2001/83/EG ist oder
@@ -112,15 +112,17 @@ abzugebende Menge des verschriebenen Arzneimittels, seine Wirkstärke im Sinne d
 8.  
 Dosierung.
 
-(2) Ist die Verschreibung für den Praxisbedarf einer verschreibenden Person, für ein Krankenhaus, für Einrichtungen oder Teileinheiten von Einrichtungen des Rettungsdienstes, für Bordapotheken von Luftfahrzeugen gemäß § 1 Abs. 2 Nr. 1 und 2 der Betriebsordnung für Luftfahrtgerät vom 4. März 1970 (BGBl. I S. 262), die zuletzt durch Artikel 449 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, für eine Tierklinik oder einen Zoo bestimmt, so genügt an Stelle der Angaben nach Absatz 1 Nr. 3, 7 und 9 ein entsprechender Vermerk.
+(2) Ist die Verschreibung für den Praxisbedarf einer verschreibenden Person, für ein Krankenhaus, für Einrichtungen oder Teileinheiten von Einrichtungen des Rettungsdienstes, für Bordapotheken von Luftfahrzeugen gemäß § 1 Abs. 2 Nr. 1 und 2 der Betriebsordnung für Luftfahrtgerät vom 4. März 1970 (BGBl. I S. 262), die zuletzt durch Artikel 3 der Verordnung vom 29. Oktober 2015 (BGBl. I S. 1894) geändert worden ist, in der jeweils geltenden Fassung, für eine Tierklinik oder einen Zoo bestimmt, so genügt an Stelle der Angaben nach Absatz 1 Nr. 3, 7 und 9 ein entsprechender Vermerk.
 
-(3) In die Verschreibung eines Arzneimittels, das zur Vornahme eines Schwangerschaftsabbruchs zugelassen ist und das nur in einer Einrichtung im Sinne des § 13 des Schwangerschaftskonfliktgesetzes vom 27. Juli 1992 (BGBl. I S. 1398), das durch Artikel 1 des Gesetzes vom 21. August 1995 (BGBl. I S. 1050) geändert worden ist, angewendet werden darf, ist an Stelle der Angaben nach Absatz 1 Nr. 3 ein entsprechender Vermerk zu setzen.
+(3) In die Verschreibung eines Arzneimittels, das zur Vornahme eines Schwangerschaftsabbruchs zugelassen ist und das nur in einer Einrichtung im Sinne des § 13 des Schwangerschaftskonfliktgesetzes angewendet werden darf, ist an Stelle der Angaben nach Absatz 1 Nr. 3 ein entsprechender Vermerk zu setzen.
 
 (4) Fehlt bei Arzneimitteln in abgabefertigen Packungen die Angabe der Menge des verschriebenen Arzneimittels, so gilt die kleinste Packung als verschrieben.
 
 (5) Fehlt die Angabe der Gültigkeitsdauer, so gilt die Verschreibung drei Monate.
 
 (6) Fehlt das Geburtsdatum der Person, für die das Arzneimittel bestimmt ist, oder fehlen Angaben nach Absatz 1 Nr. 2, 5 oder 7 oder sind sie unvollständig, so kann der Apotheker, wenn ein dringender Fall vorliegt und eine Rücksprache mit der verschreibenden Person nicht möglich ist, die Verschreibung insoweit ergänzen.
+
+(6a) Fehlt der Vorname der verschreibenden Person oder deren Telefonnummer zur Kontaktaufnahme, so kann der Apotheker auch ohne Rücksprache mit der verschreibenden Person die Verschreibung insoweit ergänzen, wenn ihm diese Angaben zweifelsfrei bekannt sind.
 
 (7) Ist die Verschreibung eines Arzneimittels für ein Krankenhaus bestimmt, in dem zur Übermittlung derselben ein System zur Datenübertragung vorhanden ist, das die Verschreibung durch eine befugte verschreibende Person sicherstellt, so genügt an Stelle der eigenhändigen Unterschrift nach Absatz 1 Nr. 10 die Namenswiedergabe der verschreibenden Person oder, bei Verschreibungen in elektronischer Form, ein geeignetes elektronisches Identifikationsverfahren.
 
@@ -173,7 +175,7 @@ Von der Verschreibungspflicht nach § 48 Abs. 1 Satz 1 Nr. 2 des Arzneimittelges
 
 ### § 7
 
-(weggefallen)
+Intranasal anzuwendende Arzneimittel mit dem Wirkstoff Beclometasondipropionat, die am 30. September 2016 nicht der Verschreibungspflicht nach § 48 des Arzneimittelgesetzes unterliegen und sich am 30. September 2016 im Verkehr befinden, dürfen mit der am 30. September 2016 gültigen Kennzeichnung, Packungsbeilage und Fachinformation vom pharmazeutischen Unternehmer noch bis zum 30. Juni 2017 und vom pharmazeutischen Großhandel und von Apotheken noch bis zum 30. September 2018 weiter in den Verkehr gebracht werden (§ 4 Absatz 17 des Arzneimittelgesetzes).
 
 ### § 8 (weggefallen)
 
@@ -181,7 +183,7 @@ Von der Verschreibungspflicht nach § 48 Abs. 1 Satz 1 Nr. 2 des Arzneimittelges
 
 ### § 9
 
-Abweichend von § 1 in Verbindung mit Anlage 1 darf, soweit der Stoff Na-Nifurstyrenat oder der Stoff Sarafloxacin betroffen ist, ein Tierarzneimittel, das ausschließlich zur Anwendung bei den in § 60 Absatz 1 des Arzneimittelgesetzes genannten Tierarten bestimmt und vor dem 1. Januar 2010 in Verkehr gebracht worden ist, noch bis zum 1. Januar 2012 ohne Verschreibung abgegeben werden.
+(weggefallen)
 
 ### Anlage 1 (zu § 1 Nr. 1 und § 5)Stoffe und Zubereitungen nach § 1 Nr. 1
 
@@ -208,11 +210,11 @@ Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, 
 – zur parenteralen Anwendung –
 **Acetylcystein**
 - ausgenommen zur oralen Anwendung bei akuten Erkältungskrankheiten bei Menschen -
-**N-Acetylgalactosamin-4-sulfatase vom Menschen, rekombinant, modifiziert (Galsulfase)**
 **Acetylsalicylsäure**
 – zur parenteralen Anwendung –
 **Aciclovir**
-- ausgenommen in Zubereitungen als Creme zur Anwendung bei Herpes labialis in Packungsgrößen bis zu 2 g und einem Wirkstoffgehalt bis zu 100 mg je abgeteilter Arzneiform -
+– ausgenommen in Zubereitungen als Creme zur Anwendung bei Herpes labialis in Packungsgrößen bis zu 2 g und einem Wirkstoffgehalt bis zu 100 mg Aciclovir je abgeteilter Arzneiform –
+– ausgenommen in Zubereitungen als Creme in Kombination mit Hydrocortison in einer Konzentration von 1 Prozent Hydrocortison zur Behandlung von Herpes labialis zur Verringerung des Risikos von ulzerativen Läsionen bei Erwachsenen und Kindern ab 12 Jahren, in Packungsgrößen bis zu 2 g und mit einem Wirkstoffgehalt bis zu 100 mg Aciclovir je abgeteilter Arzneiform –
 **Acipimox**
 **Acitretin**
 **Aclarubicin**
@@ -244,6 +246,7 @@ Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, 
 **Alclometason** und seine Ester
 **Aldesleukin**
 **Aldosteron** und sein Halbacetal
+**Alectinib**
 **Alendronsäure**
 **Alfacalcidol**
 **Alfadolon** und seine Ester
@@ -295,7 +298,7 @@ Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, 
 **Amiphenazol**
 **Amisulprid**
 **Amitraz**
-- zur Anwendung bei Schweinen -
+– zur Anwendung bei Bienen und Schweinen –
 **Amitriptylin**
 **Amitriptylinoxid**
 **Amlexanox**
@@ -352,7 +355,8 @@ Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, 
 **Articain**
 **Ascaridol**
 **Asenapin**
-**L-Asparaginase**
+**Asfotase alfa**
+**Asparaginase**
 **Aspidinolfilizin**
 **Astemizol**
 **Ataluren**
@@ -369,6 +373,8 @@ Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, 
 **Auranofin**
 **Aurothioglucose**
 **Avanafil**
+**Avibactam**
+**Aviptadil**
 **Axitinib**
 **Azacitidin**
 **Azacosterol**
@@ -391,17 +397,17 @@ Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, 
 
 **Bacampicillin**
 **Bacillus Calmette-Guérin**
-– zur Immunstimulation –
 **Bacitracin**
 - ausgenommen Zubereitungen zur örtlichen Anwendung bei Menschen auf Haut oder Schleimhaut, sofern sie je Stück abgeteilter Arzneiform oder bei sonstigen Zubereitungen je Gramm oder Milliliter nicht mehr als 500 I.E. (9,1 mg) Bacitracin enthalten -
 **Baclofen**
 **Bambuterol**
 **Bamifyllin**
+**Baricitinib**
 **Bazedoxifen** und seine Ester
 **Becaplermin**
 **Beclamid**
 **Beclometason** und seine Ester
-- ausgenommen Beclometasondipropionat zur intranasalen Anwendung bei Kurzzeitbehandlung der saisonalen allergischen Rhinitis in Packungsgrößen bis zu 5,5 mg Beclometasondipropionat, sofern auf Behältnissen und äußeren Umhüllungen angegeben ist, dass die Anwendung auf Erwachsene und Kinder ab dem vollendeten 12. Lebensjahr beschränkt ist -
+– ausgenommen Beclometasondipropionat zur intranasalen Anwendung bei Erwachsenen zur symptomatischen Behandlung der saisonalen allergischen Rhinitis, nach der Erstdiagnose einer saisonalen allergischen Rhinitis durch einen Arzt, in einer Tagesdosis bis zu 400 Mikrogramm Beclometasondipropionat, sofern auf Behältnissen und äußeren Umhüllungen angegeben ist, dass die Anwendung auf Erwachsene beschränkt ist –
 **Bedaquilin**
 **Befunolol**
 **Belatacept**
@@ -447,6 +453,7 @@ als Lutschtablette mit maximal 3 mg Benzydaminhydrochlorid pro abgeteilter Form 
 **Betäubungsmittel, soweit sie Zubereitungen nach § 2 Abs. 1 Nr. 3 des Betäubungsmittelgesetzes sind**
 **Betahistin**
 **Betain**
+– zur adjuvanten Therapie der Homocystinurie –
 **Betamethason** und seine Ester
 **Betanidin**
 **Betaxolol**
@@ -461,6 +468,9 @@ als Lutschtablette mit maximal 3 mg Benzydaminhydrochlorid pro abgeteilter Form 
 **Bilastin** und seine Ester
 **Bimatoprost**
 **Biperiden**
+**Birkenrinden-Trockenextrakt**
+(gereinigter Trockenextrakt von geeigneten Betula-Arten mit weißer Rinde \[100 mg aus 0,5 bis 1,0 g Birkenrinde\], entsprechend 72 bis 88 Prozent Betulin)
+– zur Behandlung von oberflächlichen Hautwunden (Epidermis und obere Dermis) und Verbrennungswunden der Haut des Grades IIa bei Erwachsenen –
 **2,5-Bis(aziridin-1-yl)-3,6-b is(2-methoxyethoxy)-1,4-benzochinon**
 Bismut und seine Verbindungen
 - zur oralen Anwendung -
@@ -488,8 +498,10 @@ Blutzubereitungen humanen Ursprungs
 **Bretylium-Salze**
 **Brimonidin**
 **Brinzolamid**
+**Brivaracetam**
 **Brivudin**
 **Bromelain-Proteasen-Konzentrat**
+– zum äußeren Gebrauch bei Erwachsenen mit tiefen thermischen Verletzungen (Grad II b – III) –
 **Bromethan**
 **Bromfenac** und seine Ester
 **Bromisoval**
@@ -544,6 +556,7 @@ Blutzubereitungen humanen Ursprungs
 **Canagliflozin** und seine Derivate
 **Candesartan** und seine Ester
 **Cangrelor** und seine Ester
+**Cannabidiol**
 **Canrenoinsäure** und ihre Ester
 **Cantharides** und ihre Zubereitungen
 - ausgenommen zum äußeren Gebrauch in Pflastern, Salben oder ähnlichen Zubereitungen -
@@ -566,11 +579,15 @@ Blutzubereitungen humanen Ursprungs
 **Carbimazol**
 **Carbocistein**
 **Carboplatin**
+***N*-(Carboxymethyl)-*N*-\[2-oxo-(2,4,5-trimethylanilino)ethyl\]glycin**
+– als Trägersubstanz für (<sup>99m</sup> Tc) Technetium –
 **Carbromal**
 **Carbuterol**
 **Carfecillin**
+**Carfilzomib**
 **Carglumsäure**
 **Carindacillin**
+**Cariprazin**
 **Carisoprodol**
 **Carmustin**
 **L-Carnitin**
@@ -617,11 +634,14 @@ Blutzubereitungen humanen Ursprungs
 **Ceftiofur**
 **Ceftizoxim**
 **Ceftobiprol** und seine Derivate
+**Ceftolozan** und seine Ester
 **Ceftriaxon**
 **Cefuroxim** und seine Ester
 **Celecoxib**
 **Celiprolol**
+**Cenegermin**
 **Ceritinib**
+**Cerliponase alfa**
 **Certoparin**
 – zur parenteralen Anwendung –
 **Ceruletid**
@@ -731,6 +751,7 @@ Blutzubereitungen humanen Ursprungs
 **Cloxacillin**
 **Clozapin**
 **Cobicistat**
+**Cobimetinib** und seine Derivate
 **Coffein**
 – in Zubereitungen mit einem oder mehreren der folgenden analgetisch wirksamen Stoffe
 
@@ -801,6 +822,7 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 **Cyproteron** und seine Ester
 **Cytarabin**
 **Cytisin**
+
 **Dabigatran** und seine Ester
 **Dabrafenib**
 **Dacarbazin**
@@ -813,7 +835,6 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 **Danaparoid**
 **Danazol**
 **Danofloxacin**
-- zur Anwendung beim Schwein, Rind und Huhn -
 **Dapagliflozin** und seine Ester
 **Dapiprazol**
 **Dapoxetin**
@@ -865,14 +886,12 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 - zur Anwendung bei Tieren -
 **Detajmiumbitartrat**
 **Detomidin**
-- zur Anwendung bei Rindern und Pferden -
 **Dexamethason** und seine Ester
 – ausgenommen Dexamethasondihydrogenphosphat zur einmaligen parenteralen Anwendung in wässriger Lösung in Ampullen/Fertigspritzen mit 40 mg Wirkstoff und bis zu maximal 3 Packungseinheiten (entsprechend 120 mg Wirkstoff) für die Notfallbehandlung schwerer anaphylaktischer Reaktionen beim Menschen nach Neuraltherapie bis zum Eintreffen des Rettungsdienstes –
 **Dexibuprofen**
 **Dexketoprofen**
 **Dexlansoprazol**
 **Dexmedetomidin**
-- zur Anwendung bei Hunden und Katzen -
 **Dexrazoxan**
 **Dextrane**
 - zur intravenösen Anwendung -
@@ -891,7 +910,6 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 **1,2-Dichlorethan**
 **Dichlorvos**
 **Diclazuril**
-- zur Anwendung beim Schaf -
 **Diclofenac**
 – ausgenommen zur cutanen Anwendung in Konzentrationen bis zu 5% mit Ausnahme der Anwendung bei Thrombophlebitis superficialis und aktinischer Keratose –
 – ausgenommen bei oraler Anwendung zur Behandlung leichter bis mäßig starker Schmerzen und Fieber in einer Dosierung bis 25 mg je abgeteilter Form und einer Tagesdosis von 25 bis maximal 75 mg für eine maximale Anwendungsdauer von drei (Antipyrese) oder vier (Analgesie) Tagen –
@@ -905,11 +923,10 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 **Dienogest**
 **Diethylcarbamazin**
 **1-(2-(2-(Diethylmethylazaniumyl)ethoxy)ethyl)-1-methylpyrrolidiniumdiiodid**
-**Diethyl-p-nitrophenylphosphat**
+**Diethyl(4-nitrophenyl)phosphat**
 **Diethylstilbestrol**
 **Diflorason-17,21-diacetat**
 **Difloxacin**
-- zur Anwendung bei Huhn, Hund, Pute und Rind -
 **Diflucortolon** und seine Ester
 **Diflunisal**
 **Digitalis folium, glykosidhaltiges** und seine Zubereitungen
@@ -975,7 +992,6 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 **Dopamin**
 **Dopexamin**
 **Doramectin**
-- zur Anwendung bei Rind, Schaf und Schwein -
 **Doripenem**
 **Dornase alfa**
 **Dorzolamid**
@@ -985,6 +1001,8 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 **Doxepin**
 **Doxorubicin**
 **Doxycyclin**
+**Doxylamin**
+– zur Behandlung von Schlafstörungen bei Kindern bis zum vollendeten 18. Lebensjahr –
 **Droloxifen**
 **Dronedaron**
 **Dropempin**
@@ -995,22 +1013,29 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 **Duloxetin**
 **Dutasterid**
 **Dydrogesteron**
+
 **Ebastin**
 **Econazol**
 - ausgenommen zum äußeren Gebrauch -
 **Ecothiopat**
+**Edotreotid**
+– als Kit zur Herstellung eines Radiodiagnostikums mit (<sup>68</sup>Ga)Gallium –
 **Edoxaban**
 **Edoxudin**
 **Efavirenz**
 **Eflornithin**
+**Eisen(III)-citrat-Hydrat, basisches**
 **Eisen(III)-hexacyanoferrat(II)**
 **Eisen(III)-hydroxid-oxid-Sucrose-Stärke-Gemisch**
+**Eisen(III)-Maltol**
 **Eisen-Verbindungen**
 - zur parenteralen Anwendung, ausgenommen zur Prophylaxe der Eisenmangelanämie bei Saugferkeln, sofern dies als alleiniger Anwendungsbereich auf Behältnissen und äußeren Umhüllungen angegeben ist -
+**Elbasvir**
 **Eletriptan**
 **Eliglustat** und seine Ester
 **Elosulfase alfa**
 **Eltrombopag**
+**Eluxadolin**
 **Elvitegravir** und seine Ester
 **Emedastin**
 **Emepronium-Salze**
@@ -1037,14 +1062,15 @@ zur Anwendung bei Tieren, sofern sie in Zubereitungen zur oralen oder nasalen An
 **Ephedra-Arten und Zubereitungen aus Ephedra-Arten**
 – zur oralen Anwendung, ausgenommen homöopathische Zubereitungen aus Ephedra in höheren Verdünnungen als D1 sowie ausgenommen in homöopathischen Zubereitungen, die nach den Herstellungsvorschriften 25 und 26 des Homöopathischen Arzneibuches hergestellt sind –
 **Ephedrin**
-- zur oralen Anwendung
+– zur oralen Anwendung
 
 a)  
 in Zubereitungen, denen als wirksamer Bestandteil nur dieser Stoff oder dieser Stoff zusammen mit Coffein zugesetzt ist,
 
 b)  
-in anderen Zubereitungen, sofern auf Behältnissen und äußeren Umhüllungen eine Einzeldosis von mehr als 10 mg oder bei Retardzubereitungen eine Tagesdosis von mehr als 40 mg, berechnet als Ephedrinbase, angegeben ist oder diese Zubereitungen Coffein enthalten -
+in anderen Zubereitungen, sofern auf Behältnissen und äußeren Umhüllungen eine Einzeldosis von mehr als 10 mg oder bei Retardzubereitungen eine Tagesdosis von mehr als 40 mg, berechnet als Ephedrinbase, angegeben ist oder diese Zubereitungen Coffein enthalten –
 
+– zur parenteralen Anwendung –
 **Epicillin**
 **Epimestrol**
 **Epinastin**
@@ -1094,6 +1120,7 @@ zur Anwendung bei Tieren, sofern auf Behältnissen und äußeren Umhüllungen ei
 bei Tieren -
 **Etanercept**
 **Etaqualon**
+**Etelcalcetid**
 **Ethadion**
 **Ethambuto l**
 **Ethiazid**
@@ -1230,12 +1257,12 @@ bei Tieren -
 **Fluspirilen**
 **Flutamid**
 **Fluticason** und seine Ester
+– ausgenommen Fluticasonpropionat zur intranasalen Anwendung bei Erwachsenen zur symptomatischen Behandlung der saisonalen allergischen Rhinitis, nach der Erstdiagnose einer saisonalen allergischen Rhinitis durch einen Arzt, in einer Tagesdosis bis zu 200 Mikrogramm Fluticasonpropionat, sofern auf Behältnissen und äußeren Umhüllungen angegeben ist, dass die Anwendung auf Erwachsene beschränkt ist –
 **Fluvastatin**
 **Fluvoxamin**
 **Folinsäure**
 - zur parenteralen Anwendung in der Behandlung von Krebs- oder Rheumaerkrankungen -
-**Follitropin**
-**Follitropin alfa und beta**
+**Follitropin und seine rekombinanten Glycoformen alfa, beta und delta**
 **Fomepizol**
 **Fominoben**
 **Fomivirsen**
@@ -1264,6 +1291,7 @@ bei Tieren -
 **Galantamin**
 **Gallamin**
 **Gallopamil**
+**Galsulfase**
 **Gamithromycin**
 – zur Anwendung bei Tieren –
 **Ganciclovir**
@@ -1285,6 +1313,7 @@ bei Tieren -
 **Gitoformat**
 **Glafenin**
 **Glatiramer**
+**Glecaprevir**
 **Glibenclamid**
 **Glibornurid**
 **Gliclazid**
@@ -1296,6 +1325,7 @@ bei Tieren -
 **Glucametacin**
 **Glucosamin**
 - ausgenommen zur oralen Anwendung -
+**Glycerolphenylbutyrat**
 **Glyceroltrinitrat**
 **Glycopyrroniumbromid**
 **Glymidin**
@@ -1307,6 +1337,7 @@ bei Tieren -
 **Gonadotropin (humanes und Pferdeserum)**
 **Goserelin**
 **Granisetron**
+**Grazoprevir**
 **Grepafloxacin**
 **Griseofulvin**
 **Grünteeblätter-Trockenextrakt** (gereinigter Trockenextrakt aus *Camellia sinensis* (L.) O. Kuntze (45 – 56:1), entsprechend 55 – 72 % (-)-Epigallocatechin-3-(3,4,5-trihydroxybenzoat) )
@@ -1403,14 +1434,17 @@ und sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der A
 **Ibandronsäure**
 **Ibrutinib**
 **Ibuprofen**
-– ausgenommen zum äußeren Gebrauch in einer Konzentration bis zu 5 Gewichtsprozenten –
+– ausgenommen zum äußeren Gebrauch, außer als Pflaster, in Salben oder ähnlichen Zubereitungen in einer Konzentration bis zu 5 Gewichtsprozenten –
+– ausgenommen zum äußeren Gebrauch als Pflaster ohne Zusatz weiterer arzneilich wirksamer Bestandteile in einer Wirkstoffmenge bis zu 200 mg Ibuprofen je abgeteilter Arzneiform –
 – ausgenommen zur oralen Anwendung ohne Zusatz weiterer arzneilich wirksamer Bestandteile in einer Konzentration bis zu 400 mg je abgeteilter Form und in einer Tagesdosis bis zu 1 200 mg bei leichten bis mäßig starken Schmerzen und Fieber –
 – ausgenommen in festen Zubereitungen zur rektalen Anwendung als Monopräparate in Einzeldosen bis 10 mg/kg Körpergewicht (bis zu einer maximalen Einzeldosis von 600 mg je abgeteilter Form) und in einer Tagesdosis bis zu 30 mg/kg Körpergewicht (bis zu einer maximalen Tagesdosis von 1 800 mg) bei leichten bis mäßig starken Schmerzen und Fieber –
 – ausgenommen zur oralen Anwendung in flüssigen Zubereitungen ohne Zusatz weiterer arzneilich wirksamer Bestandteile für Erwachsene und Kinder ab 6 Monaten in Einzeldosen bis zu 10 mg/kg Körpergewicht (bis zu einer maximalen Tagesdosis von 1 200 mg) bei leichten bis mäßig starken Schmerzen und Fieber –
 – ausgenommen zur oralen Anwendung in Dosen bis maximal 400 mg je abgeteilter Form und in einer maximalen Tagesdosis von 1 200 mg, zur rektalen Anwendung in festen Zubereitungen als Monopräparate in Einzeldosen bis 10 mg/kg Körpergewicht bis zur maximalen Einzeldosis von 600 mg je abgeteilter Form und bis zur maximalen Tagesdosis von 30 mg/kg Körpergewicht bzw. 1 800 mg, zur Behandlung der akuten Kopfschmerzphase bei Migräne mit oder ohne Aura –
 – ausgenommen zur oralen Anwendung (in maximaler Einzeldosis von 400 mg und in einer maximalen Tagesdosis von 1 200 mg) in Kombination mit Pseudoephedrinhydrochlorid (in maximaler Einzeldosis von 60 mg und in einer maximalen Tagesdosis von 180 mg) mit einer Wirkstoffmenge von insgesamt bis zu 720 mg Pseudoephedrin und 4 800 mg Ibuprofen pro Packung, zur Behandlung der akuten Rhinosinusitis im Zusammenhang mit weiteren Erkältungssymptomen (wie z. B. Fieber und Schmerzen) –
+– ausgenommen zur oralen Anwendung (in maximaler Einzeldosis von 400 mg und in einer maximalen Tagesdosis von 1 200 mg) in Kombination mit Coffein (in maximaler Einzeldosis von 100 mg und in einer maximalen Tagesdosis von 300 mg), zur Behandlung von akuten mäßig starken Schmerzen bei Erwachsenen –
 **Icatibant**
 **Idarubicin**
+**Idebenon** und seine Ester
 **Idelalisib**
 **Idoxuridin**
 **Idursulfase**
@@ -1470,6 +1504,7 @@ und sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der A
 - zur Anwendung bei Tieren -
 **Irbesartan**
 **Irinotecan**
+**Isavuconazonium-Salze** und ihre Ester
 **Isoaminil**
 **Isocarboxazid**
 **Isoconazol**
@@ -1489,6 +1524,7 @@ und sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der A
 **Ivabradin**
 **Ivacaftor**
 **Ivermectin** und seine Ester
+**Ixazomib** und seine Derivate
 
 **Jalapae resina et tuber** und ihre Zubereitungen
 **Johanniskraut**
@@ -1530,6 +1566,7 @@ und sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der A
 **Lactucavirosa-Zubereitungen**
 **Lamivudin**
 **Lamotrigin**
+**Landiolol**
 **Lanreotid**
 **Lansoprazol**
 **Lapatinib**
@@ -1546,6 +1583,7 @@ und sofern auf Behältnissen und äußeren Umhüllungen eine Beschränkung der A
 **Lenvatinib**
 **Lepirudin**
 **Lercanidipin**
+**Lesinurad** und seine Ester
 **Lespedeza capitata** und ihre Zubereitungen
 **Letrozol**
 **Leuprorelin**
@@ -1602,11 +1640,14 @@ zur Linderung von neuropathischen Schmerzen nach einer Herpes-Zoster-Infektion (
 **Lornoxicam**
 **Losartan**
 **Loteprednol**
+**Lotilaner**
+– zur Anwendung bei Tieren –
 **Lovastatin**
 **Loxapin**
 **Lubiproston** und seine Ester
 **Lufenuron**
 - zur parenteralen Anwendung bei Hunden und Katzen -
+**Lumacaftor** und seine Ester
 **Lumefantrin**
 **Lumiracoxib**
 **Luprostiol**
@@ -1615,6 +1656,7 @@ zur Linderung von neuropathischen Schmerzen nach einer Herpes-Zoster-Infektion (
 **Lutropin**
 **Lutropin alfa**
 **Lynestrenol**
+
 **(RS)-3-Methyl-2-oxopentansäure**
 **3-Methyl-2-oxobutansäure**
 **4-Methyl-2-oxopentansäure**
@@ -1702,6 +1744,7 @@ Magnesiumbis(hydrogenaspartat)-Dihydrat
 **Methantheliniumbromid**
 **Methazolamid**
 **Methocarbamol**
+**Methohexital**
 **Methotrexat**
 **Methoxamin**
 **Methoxsalen**
@@ -1740,12 +1783,15 @@ Magnesiumbis(hydrogenaspartat)-Dihydrat
 **Miconazol**
 - ausgenommen zum äußeren Gebrauch und zur Anwendung in der Mundhöhle -
 - ausgenommen zur vaginalen Anwendung in Packungsgrößen mit einer Gesamtmenge von bis zu 1 043 mg Miconazol und für eine Anwendungsdauer bis zu 3 Tagen -
-**Mikrobielle Collagenase**
 **Midodrin**
+**Midostaurin**
 **Mifamurtid** und seine Ester
 **Mifepriston**
+**Migalastat** und seine *N*- und *O*-Acyl-Derivate
 **Miglitol**
 **Miglustat**
+**Mikrobielle Collagenase**
+**Milnacipran**
 **Milrinon**
 **Miltefosin**
 **Minocyclin**
@@ -1767,6 +1813,7 @@ Magnesiumbis(hydrogenaspartat)-Dihydrat
 **Molgramostim**
 **Molsidomin**
 **Mometason** und seine Ester
+– ausgenommen Mometasonfuroat zur intranasalen Anwendung bei Erwachsenen zur symptomatischen Behandlung der saisonalen allergischen Rhinitis, nach der Erstdiagnose einer saisonalen allergischen Rhinitis durch einen Arzt, in einer Tagesdosis bis zu 200 Mikrogramm Mometasonfuroat, sofern auf Behältnissen und äußeren Umhüllungen angegeben ist, dass die Anwendung auf Erwachsene beschränkt ist –
 **Monepantel**
 – zur Anwendung bei Tieren –
 **Monobenzon**
@@ -1859,6 +1906,7 @@ bis zu 15 mg Nicotin je abgeteilter Arzneiform und in einer Tagesdosis bis zu 64
 **Nimorazol**
 **Nimustin**
 **Nintedanib**
+**Niraparib**
 **Niridazol**
 **Nisoldipin**
 **Nitisinon**
@@ -1890,9 +1938,13 @@ bis zu 15 mg Nicotin je abgeteilter Arzneiform und in einer Tagesdosis bis zu 64
 **Noscapin**
 **Novobiocin**
 **Noxiptilin**
+**Nusinersen**
+
+**Obeticholsäure**
 **Obidoxim**
 **Oclacitinib**
 – zur Anwendung bei Tieren –
+**Ocriplasmin**
 **Octreotid**
 **Öl von Hochseefischen (mit spezifizierter Zusammensetzung)**
 - zur parenteralen Ernährung -
@@ -1911,6 +1963,7 @@ bis zu 15 mg Nicotin je abgeteilter Arzneiform und in einer Tagesdosis bis zu 64
 **Omeprazol**
 – ausgenommen zur Behandlung von Sodbrennen und saurem Aufstoßen in einer Einzeldosis von 20 mg und in einer Tageshöchstdosis von 20 mg für eine maximale Anwendungsdauer von 14 Tagen und in einer maximalen Packungsgröße von 280 mg Wirkstoff –
 **Ondansetron**
+**Opicapon**
 **Opipramol**
 **Opiumalkaloide**
 - soweit die Verschreibung und Abgabe nicht durch die Anlagen des Betäubungsmittelgesetzes in der jeweils geltenden Fassung geregelt ist -
@@ -1925,9 +1978,9 @@ bis zu 15 mg Nicotin je abgeteilter Arzneiform und in einer Tagesdosis bis zu 64
 **Ornidazol**
 **Osateron** und seine Ester
 **Oseltamivir**
+**Osimertinib**
 **Osmiumsäure**
 **Ospemifen** und seine Ester
-**Osteogenes Protein 1**
 **Oxabolon** und seine Ester
 **Oxaceprol**
 **Oxacillin**
@@ -1960,13 +2013,17 @@ bis zu 15 mg Nicotin je abgeteilter Arzneiform und in einer Tagesdosis bis zu 64
 **Oxytetracyclin** und seine Verbindungen
 **Oxytocin**
 - ausgenommen zur Anwendung bei Nachgeburtsblutungen in einer Konzentration bis zu 10 I.E./ml und einer Einzeldosis bis zu 1 ml zur Abgabe an Hebammen und Entbindungspfleger für den Praxisbedarf -
+**Ozenoxacin**
 
 **4-Phenylbutansäure**
 **Paclitaxel**
+**Padeliporfin**
+**Palbociclib**
 **Palifermin**
 **Palonosetron**
 **Pamidronsäure**
 **Pancuroniumbromid**
+**Panobinostat**
 **Pantoprazol**
 – ausgenommen Arzneimittel in Packungsgrößen von nicht mehr als 14 abgeteilten Einheiten in einer Einzeldosis von 20 mg und in einer Tageshöchstdosis von 20 mg für eine kurzzeitige, ohne ärztliche Beratung auf maximal 4 Wochen und bei täglicher Einnahme auf maximal 2 Wochen begrenzte Behandlung von Reflux-Symptomen (z. B. Sodbrennen und saures Aufstoßen) bei Erwachsenen –
 **Papaverin**
@@ -1984,7 +2041,6 @@ rektalen Anwendung –
 **Paraldehyd**
 **Paramethadion**
 **Paramethason** und seine Ester
-**Paraoxon**
 **Parathyroidhormon vom Menschen**
 **Parbendazol**
 **Parecoxib**
@@ -1996,11 +2052,14 @@ rektalen Anwendung –
 **Paromomycin**
 **Paroxetin**
 **Pasireotid**
+**Patiromer**
 **Pazopanib**
 **Pefloxacin**
 **Peforelin**
 – zur Anwendung bei Tieren –
 **Pegaptanib**
+**Pegbovigrastim**
+– zur Anwendung bei Tieren –
 **Pegaspargase**
 **PEG-Epoetin beta**
 **Pegfilgrastim**
@@ -2077,6 +2136,7 @@ zur Anwendung beim Pferd -
 **Phoxim**
 - zur Anwendung bei Tieren -
 **Physostigmin**
+**Pibrentasvir**
 **Picrotoxin**
 **Pilocarpin**
 **Pimecrolimus**
@@ -2113,6 +2173,7 @@ zur Anwendung beim Pferd -
 - ausgenommen zum äußeren Gebrauch -
 **Pirprofen**
 **Pitavastatin** und seine Ester
+**Pitolisant**
 **Pivampicillin**
 **Pivmecillinam**
 **Pixantron**
@@ -2151,16 +2212,6 @@ als Aluminium-, Calcium-, Kalium- und Natriumsalz
 **Prasugrel**
 **Pravastatin**
 **Praziquantel**
-
-–  
-ausgenommen zur Anwendung
-
-a)  
-bei Hunden und Katzen und
-
-b)  
-bei Zierfischen der Ordnungen Karpfenartige, Barschartige, Welsartige und Zahnkärpflinge mit einem Wirkstoffgehalt bis zu 20 g je Packung –
-
 **Prazosin**
 **Prednicarbat**
 **Prednimustin**
@@ -2329,6 +2380,7 @@ unter den Warnhinweisen angegeben wird, dass Racecadotril nur nach ärztlicher V
 **Reviparin**
 – zur parenteralen Anwendung –
 **Ribavirin**
+**Ribociclib**
 **Ribostamycin**
 **Rifabutin**
 **Rifampicin**
@@ -2352,9 +2404,9 @@ unter den Warnhinweisen angegeben wird, dass Racecadotril nur nach ärztlicher V
 – zur Anwendung bei Tieren –
 **Rocuroniumbromid**
 **Roflumilast**
+**Rolapitant**
 **Rolitetracyclin**
 **Romifidin**
-bei Pferden, Hunden und Katzen -
 **Romiplostim**
 **Ronidazol**
 - zur Anwendung bei Tieren -
@@ -2372,6 +2424,7 @@ bei Pferden, Hunden und Katzen -
 **Sabinae oleum**
 **Sabinae summitates** - und ihre Zubereitungen
 ausgenommen zum äußeren Gebrauch in Salben -
+**Sacubitril** und seine Ester
 **Rufinamid**
 **Safinamid**
 **Salbutamol**
@@ -2386,6 +2439,7 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Sarafloxacin**
 - zur Anwendung bei Tieren -
 **Saralasin**
+**Sarolaner** – zur Anwendung bei Tieren –
 **Saxagliptin** und seine Ester
 **Scammoniae resina** und seine Zubereitungen
 **Schilddrüsenwirkstoffe**
@@ -2393,6 +2447,7 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Scilla-Glykoside**
 **Scopolamin**
 **Scopoliawurzelstock** und seine Zubereitungen
+**Sebelipase alfa**
 **Secale-Alkaloide**
 **Secale cornutum** und seine Zubereitungen
 **Secnidazol**
@@ -2402,7 +2457,8 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Selegilin**
 **Selenverbindungen**
 - ausgenommen Selendisulfid zum äußeren Gebrauch in einer Konzentration bis zu 2,5 Gewichtsprozenten -
-- ausgenommen in Zubereitungen zum inneren Gebrauch mit einer Tagesdosis bis zu 50 my g Selen -
+- ausgenommen in Zubereitungen zum inneren Gebrauch mit einer Tagesdosis bis zu 70 my g Selen -
+**Selexipag**
 **Sera und monoklonale Antikörper**
 - zur Anwendung am oder im menschlichen oder tierischen Körper -
 **Sermorelin**
@@ -2433,6 +2489,7 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Somatorelin**
 **Somatostatin**
 **Somatropin**
+**Sonidegib**
 **Sorafenib**
 **Sotalol**
 **Spagluminsäure**
@@ -2452,7 +2509,6 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Stickstoffmonoxid**
 **Stilbamidin**
 **(E)-Stiripentol**
-**Stoffe und Zubereitungen aus Stoffen, die zur Behebung der Amenorrhoe bestimmt sind, auch wenn sie als Mittel gegen Regel-, Perioden- oder Menstruationsstörungen angekündigt werden, zur Anwendung bei Menschen**
 **Strandkiefernrinde** und ihre Zubereitungen
 - mit einem Gehalt von mindestens 50% Gesamtprocyanidine, berechnet als Cyanidinchlorid -
 **Streptokinase**
@@ -2465,6 +2521,8 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Strychnin**
 **Strychnin-N-oxid**
 **Strychninsäure**
+**Succimer**
+– ausgenommen in Kits zur Herstellung eines radioaktiven Arzneimittels –
 **Sucralfat**
 **Sugammadex**
 **Sulbactam**
@@ -2496,9 +2554,11 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Tafamidis** und seine Ester
 **Tafluprost**
 **Talastin**
+**Talimogen laherparepvec**
 **Talinolol**
 **Tamoxifen**
 **Tamsulosin**
+**Tasimelteon**
 **Tasonermin**
 **Taurolidin**
 **Tazaroten**
@@ -2512,13 +2572,14 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Telbivudin**
 **Telithromycin**
 **Telmisartan**
+**Telotristat** und seine Ester
 **Temocapril**
 **Temoporfin**
 **Temozolomid**
 **Temsirolimus**
 **Tenecteplase**
 **Teniposid**
-**Tenofovir** und seine Ester
+**Tenofovir** und seine Derivate
 **Tenonitrozol**
 **Tenoxicam**
 **Tepoxalin**
@@ -2602,10 +2663,12 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Tiopronin**
 **Tiotixen**
 **Tiotropiumbromid** und sein Hydrat
+**Tipiracil**
 **Tipranavir**
 **Tiracizin**
 **Tirofiban**
 **Tiropramid**
+**Tivozanib**
 **Tixocortol** und seine Ester
 **Tizanidin**
 **Tobramycin**
@@ -2614,6 +2677,7 @@ ausgenommen zum äußeren Gebrauch in Salben -
 – zur Anwendung bei Tieren –
 **Tocofersolan** und seine Ester
 – bei Vitamin-E-Mangel auf Grund digestiver Malabsorption bei pädiatrischen Patienten –
+**Tofacitinib**
 **Tolazamid**
 **Tolbutamid**
 **Tolcapon**
@@ -2659,6 +2723,7 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Trichloroethylen**
 - ausgenommen zum äußeren Gebrauch -
 **Triclabendazol**
+**Trientin**
 **Trifluperidol**
 **Trifluridin**
 **Trihexyphenidyl**
@@ -2670,8 +2735,6 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Trimethidiniummethosulfat**
 **Trimethoprim**
 **Trimethylolmelamin**
-**(2-Oxo-2-(2,4,5-trimethylanilino)ethyl)azandiyl)diessigsäure**
-- als Trägersubstanz für ((hoch)99m Tc) Technetium -
 **Trimetozin**
 **Trimipramin**
 **Triparanol**
@@ -2701,6 +2764,7 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Tulobuterol**
 **Tylosin**
 **Tylvalosin** (Acetylisovaleryltylosin) und seine Ester
+
 **Ulipristal** und seine Ester
 – ausgenommen Ulipristalacetat in Zubereitungen zur oralen Anwendung ohne Zusatz weiterer arzneilich wirksamer Bestandteile in einer Konzentration bis zu 30 mg Wirkstoff je abgeteilter Arzneiform und in Packungen mit einem maximalen Wirkstoffgehalt von 30 mg zur Notfallkontrazeption –
 **Umeclidinium**
@@ -2727,7 +2791,9 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Vedaprofen**
 - zur Anwendung bei Tieren -
 **Velaglucerase alfa**
+**Velpatasvir**
 **Vemurafenib**
+**Venetoclax**
 **Venlafaxin**
 **Verapamil**
 **Veratri rhizoma** und seine Zubereitungen
@@ -2751,19 +2817,10 @@ ausgenommen zum äußeren Gebrauch in Salben -
 **Viquidil**
 **Virginiamycin**
 **Vismodegib**
-Zubereitung aus
-**Lidocain**
-und
-**Prilocain**
-– zur Behandlung von primärer vorzeitiger Ejakulation bei erwachsenen Männern –
 **Vorapaxar**
 **Voriconazol**
 **Vortioxetin**
-Zubereitung aus
-**Azelastin**
-und
-**Fluticasonpropionat**
-
+**Voxilaprevir**
 **Warfarin**
 
 **Xantocillin**
@@ -2781,8 +2838,8 @@ und
 **Zeranol**
 **Ziconotid**
 **Zidovudin**
-**Zinkoxid** zur oralen Anwendung bei Menschen
-- ausgenommen in Tagesdosen bis zu 25 mg Zink -
+**Zinkoxid zur oralen Anwendung**
+– ausgenommen in Tagesdosen bis zu 25 mg Zink –
 **Zink**
 - ausgenommen
 
@@ -2817,6 +2874,10 @@ Zubereitung aus
 und
 **Methopren**
 – zur Anwendung beim Hund –
+Zubereitung aus
+**Azelastin**
+und
+**Fluticasonpropionat**
 Zubereitung aus
 **Colfosceril,**
 **1-Hexadecanol**
@@ -2863,6 +2924,11 @@ und
 **Praziquantel**
 - zur Anwendung beim Pferd -
 Zubereitung aus
+**Lidocain**
+und
+**Prilocain**
+– zur Behandlung von primärer vorzeitiger Ejakulation bei erwachsenen Männern –
+Zubereitung aus
 **Lufenuron**
 und
 **Milbemycinoxim**
@@ -2908,6 +2974,11 @@ Zubereitung aus
 und
 **Pyriproxifen**
 - zur Anwendung beim Hund -
+Zubereitung aus
+**Sarolaner**
+und
+**Selamectin**
+– zur Anwendung bei Tieren –
 Zubereitung aus
 **Xylometazolin**
 und
