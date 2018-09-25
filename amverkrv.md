@@ -2,7 +2,7 @@ Verordnung über apothekenpflichtige und freiverkäufliche Arzneimittel ()
 ========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 3 V v. 19.12.2014 I 2371
+Zuletzt geändert durch Art. 2 V v. 26.9.2018 I 1386
 
 ### 
 
@@ -212,6 +212,11 @@ Baldriantinktur,
 Baldrianwein als Fertigarzneimittel
 Benediktiner Essenz als Fertigarzneimittel
 Benzoetinktur, mit Äthanol 90% im Verhältnis 1 : 5
+Birkenblätter und ihre Zubereitungen, auch in Mischungen mit Orthosiphonblättern und ihren 
+  Zubereitungen und/oder Goldrutenkraut/Echtem Goldrutenkraut und seinen Zubereitungen, auch
+  mit Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen, als Fertigarzneimittel, 
+  registriert als traditionelles pflanzliches Arzneimittel nach den §§ 39a bis 39d des 
+  Arzneimittelgesetzes
 Birkenteer zum äußeren Gebrauch bei Tieren
 Borsäure und ihre Salze zur Pufferung und/oder
   Isotonisierung in Benetzungslösungen oder
@@ -277,6 +282,10 @@ Germerwurzelstock (Nieswurzel) in Zubereitungen mit
   einem Gehalt bis zu 3% als Schneeberger Schnupftabak
 Glycerol 85% (Glycerin),
   auch mit Zusatz von Wasser
+Goldrutenkraut/Echtes Goldrutenkraut und seine Zubereitungen, 
+  auch mit Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen, 
+  als Fertigarzneimittel, registriert als traditionelles pflanzliches Arzneimittel 
+  nach den §§ 39a bis 39d des Arzneimittelgesetzes
 Haftmittel für Zahnersatz
 Hartparaffin,
   auch mit Zusatz von Heilerde, Bademooren oder
@@ -389,6 +398,12 @@ Natriumsulfat-Dekahydrat (Glaubersalz)
 Nelkenöl, ätherisches
 Nelkentinktur mit Äthanol 70% im Verhältnis 1 : 5
 Opodeldok, flüssiger
+Orthosiphonblätter und ihre Zubereitungen, 
+  auch mit Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen, 
+  als Fertigarzneimittel, registriert als traditionelles pflanzliches Arzneimittel 
+  nach den §§ 39a bis 39d des Arzneimittelgesetzes
+Oxalsäuredihydratlösung bis zu einer Konzentration 
+  von 5,7 Prozent zur Anwendung bei Bienen
 Pappelsalbe
 Pepsinwein als Fertigarzneimittel
 Pfefferminzöl, ätherisches
@@ -438,7 +453,7 @@ Talkum
 Tamponadestreifen, imprägniert mit weißem Vaselin
 Tannin-Eiweiß-Tabletten als Fertigarzneimittel
 Thymianöl, ätherisches
-Thymol zur Anwendung bei Bienen
+Thymol, in Fertigarzneimitteln auch in Kombinationen mit Eukalyptusöl, Campher und Menthol, zur Anwendung bei Bienen
 Ton, weißer
 Troxerutin bis zu einer maximalen Tagesdosis von 300 mg
 Vaselin, weißes oder gelbes
