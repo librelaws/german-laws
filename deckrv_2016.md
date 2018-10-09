@@ -2,7 +2,7 @@ Verordnung über Rechnungsgrundlagen für die Deckungsrückstellungen (DeckRV)
 ===========================================================================
 
 Stand  
-Geändert durch Art. 1 V v. 18.5.2016 I 1231
+Zuletzt geändert durch Art. 1 V v. 10.10.2018 I 1653
 
 ### 
 
@@ -37,7 +37,7 @@ Versicherungsunternehmen, die Rentenleistungen der Allgemeinen Haftpflichtversic
 
 ### § 2 Höchstzinssatz
 
-(1) Bei Versicherungsverträgen mit Zinsgarantie, die auf Euro oder die nationale Währungseinheit eines an der Europäischen Wirtschafts- und Währungsunion teilnehmenden Mitgliedstaates lauten, wird der Höchstzinssatz für die Berechnung der Deckungsrückstellungen auf 1,25 Prozent festgesetzt. Bei Verträgen, die auf andere Währungen lauten, setzt die Bundesanstalt für Finanzdienstleistungsaufsicht den Höchstzinssatz unter Berücksichtigung der Festlegungen dieser Verordnung nach pflichtgemäßem Ermessen fest.
+(1) Bei Versicherungsverträgen mit Zinsgarantie, die auf Euro oder die nationale Währungseinheit eines an der Europäischen Wirtschafts- und Währungsunion teilnehmenden Mitgliedstaates lauten, wird der Höchstzinssatz für die Berechnung der Deckungsrückstellungen auf 0,9 Prozent festgesetzt. Bei Verträgen, die auf andere Währungen lauten, setzt die Bundesanstalt für Finanzdienstleistungsaufsicht den Höchstzinssatz unter Berücksichtigung der Festlegungen dieser Verordnung nach pflichtgemäßem Ermessen fest.
 
 (2) Bei Versicherungsverträgen mit Zinsgarantie gilt der von einem Versicherungsunternehmen zum Zeitpunkt des Vertragsabschlusses verwendete Rechnungszins für die Berechnung der Deckungsrückstellung für die gesamte Laufzeit des Vertrages. Bei einem Versicherungsvertrag, der bei einer internen Teilung nach § 10 des Versorgungsausgleichsgesetzes zugunsten der ausgleichsberechtigten Person abgeschlossen wird, kann auch der dem ursprünglichen Versicherungsvertrag zugrunde liegende Rechnungszins verwendet werden. Dies gilt entsprechend für einen Lebensversicherungsvertrag zwischen einem Versicherungsunternehmen und einem Versorgungsträger im Sinne des Versorgungsausgleichsgesetzes mit einer ausgleichsberechtigten Person als versicherter Person. § 5 Absatz 3 und 4 bleibt unberührt.
 
@@ -73,9 +73,17 @@ Für Unfallversicherungen der in § 161 des Versicherungsaufsichtsgesetzes genan
 
 (2) Im Fall von Verträgen mit Überschussbeteiligung kann die Bewertungsmethode zukünftige Überschussanteile aller Art explizit oder implizit in einer Weise berücksichtigen, die mit den anderen Annahmen über die zukünftige Entwicklung und mit der aktuellen Überschussverteilungsmethode vereinbar ist.
 
-(3) Bei einer gemäß § 341f Absatz 2 des Handelsgesetzbuchs erforderlichen Berechnung der zu erwartenden Erträge des Unternehmens ist als Rendite das über einen Referenzzeitraum von zehn Kalenderjahren errechnete arithmetische Mittel von Euro-Zinsswapsätzen zugrunde zu legen. Maßgebend für die Errechnung des arithmetischen Mittels sind die auf die zweite Nachkommastelle aufgerundeten Jahresmittelwerte aus den von der Deutschen Bundesbank gemäß § 7 der Rückstellungsabzinsungsverordnung veröffentlichten Monatsendständen derjenigen Null-Kupon-Euro-Zinsswapsätze, die eine Laufzeit von zehn Jahren haben. Für das jeweils aktuelle Bilanzjahr sind die Monatsendstände der ersten neun Monate heranzuziehen. Für die Jahre 2006 bis 2013 werden als Jahresmittelwerte 3,86, 4,25, 4,23, 3,81, 3,13, 3,15, 2,14 und 1,96 Prozent angesetzt.
+(3) Bei einer gemäß § 341f Absatz 2 des Handelsgesetzbuchs erforderlichen Berechnung der zu erwartenden Erträge des Unternehmens ist als Rendite zugrunde zu legen ein Referenzzins, der kalenderjährlich nach Maßgabe der folgenden Sätze ermittelt wird. Verwendet werden die von der Deutschen Bundesbank gemäß § 7 der Rückstellungsabzinsungsverordnung veröffentlichten Monatsendstände derjenigen Null-Kupon-Euro-Zinsswapsätze, die eine Laufzeit von 10 Jahren haben. Für die neun vorangegangenen Kalenderjahre wird jeweils der auf die zweite Nachkommastelle aufgerundete Jahresmittelwert der Monatsendstände bestimmt; dabei werden für die Jahre 2009 bis 2013 als Jahresmittelwerte 3,81, 3,13, 3,15, 2,14 und 1,96 Prozent angesetzt. Für das laufende Kalenderjahr wird der auf die zweite Nachkommastelle aufgerundete Mittelwert der Monatsendstände der ersten neun Monate bestimmt. Die Summe der neun Jahresmittelwerte aus Satz 3 und des Mittelwerts aus Satz 4 wird durch 10 geteilt. Es werden die folgenden, auf die nächsthöhere zweite Nachkommastelle gerundeten Differenzen gebildet:
 
-(4) Zu jedem Bilanzstichtag ist der gemäß Absatz 3 ermittelte Durchschnittswert (Referenzzins) mit dem höchsten in den nächsten 15 Jahren für einen Vertrag maßgeblichen Rechnungszins zu vergleichen. Ist der Referenzzins kleiner als der höchste maßgebliche Rechnungszins, so ist der einzelvertraglichen Berechnung der Deckungsrückstellung Folgendes zugrunde zu legen:
+1.  
+der in Satz 5 erhaltene Wert abzüglich des Referenzzinses des vorherigen Kalenderjahres,
+
+2.  
+9 Prozent des in Satz 4 erhaltenen Werts abzüglich 9 Prozent des Referenzzinses des vorherigen Kalenderjahres.
+
+Haben die Differenzen aus Satz 6 Nummer 1 und 2 das gleiche Vorzeichen, ergibt sich der Referenzzins des Kalenderjahres dadurch, dass der Referenzzins des vorherigen Kalenderjahres um die Differenz, die den kleineren Absolutbetrag hat, angepasst wird. Andernfalls bleibt der Referenzzins gegenüber dem vorherigen Kalenderjahr unverändert. Der Referenzzins des Kalenderjahres 2017 beträgt 2,21 Prozent.
+
+(4) Zu jedem Bilanzstichtag ist der gemäß Absatz 3 ermittelte Referenzzins des Kalenderjahres, in dem das Geschäftsjahr begonnen hat, mit dem höchsten in den nächsten 15 Jahren für einen Vertrag maßgeblichen Rechnungszins zu vergleichen. Ist der Referenzzins kleiner als der höchste maßgebliche Rechnungszins, so ist der einzelvertraglichen Berechnung der Deckungsrückstellung Folgendes zugrunde zu legen:
 
 1.  
 für den Zeitraum der nächsten 15 Jahre jeweils das Minimum aus dem für das jeweilige Jahr maßgeblichen Rechnungszins und dem Referenzzins und
@@ -84,6 +92,12 @@ für den Zeitraum der nächsten 15 Jahre jeweils das Minimum aus dem für das je
 für den Zeitraum nach Ablauf von 15 Jahren der jeweils maßgebliche Rechnungszins.
 
 Andernfalls ist für die gesamte Restlaufzeit der jeweils maßgebliche Rechnungszins zu verwenden.
+
+(+++ § 5 Abs. 3 u. 4: Zur Anwendung vgl. § 5a +++)
+
+### § 5a Übergangsregelung
+
+§ 5 Absatz 3 und 4 in der ab dem 23. Oktober 2018 geltenden Fassung ist erstmals für das Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2017 begonnen hat. Für Geschäftsjahre, die vor dem 1. Januar 2018 begonnen haben, ist § 5 Absatz 3 und 4 in der bis zum 22. Oktober 2018 geltenden Fassung weiterhin anzuwenden.
 
 ### § 6 Inkrafttreten
 
