@@ -2,10 +2,7 @@ Verordnung zum Schutz gegen die Geflügelpest ()
 ===============================================
 
 Neuf  
-Neugefasst durch Bek. v. 8.5.2013 I 1212;
-
-Stand  
-geändert durch Art. 388 V v. 31.8.2015 I 1474
+Neugefasst durch Bek. v. 15.10.2018 I 1665, 2664
 
 ### 
 
@@ -24,9 +21,9 @@ Abschnitt 1
 
 Allgemeine Bestimmungen
 
-|     |                      |
-|-----|----------------------|
-| § 1 | Begriffsbestimmungen |
+|      |                      |
+|------|----------------------|
+| §  1 | Begriffsbestimmungen |
 
 Abschnitt 2
 
@@ -52,12 +49,13 @@ Allgemeine Schutzmaßregeln
 
 Unterabschnitt 2
 
-Haltung von Geflügel
+Aufstallung, Anordnungen
 
-|      |                        |
-|------|------------------------|
-| § 13 | Haltung von Geflügel   |
-| § 14 | Weitere Untersuchungen |
+|       |                        |
+|-------|------------------------|
+| § 13  | Aufstallung            |
+| § 14  | Weitere Anordnungen    |
+| § 14a | Abgabe im Reisegewerbe |
 
 Unterabschnitt 3
 
@@ -188,9 +186,11 @@ Schlussvorschriften
 |------|-----------------------------------------|
 | § 64 | Ordnungswidrigkeiten                    |
 | § 65 | Weitergehende Maßnahmen                 |
-| § 66 | Übergangsvorschriften                   |
+| § 66 | *(weggefallen)*                         |
 | § 67 | Aufheben bundesrechtlicher Vorschriften |
-| § 68 | Inkrafttreten                           |
+| § 68 | (Inkrafttreten)                         |
+
+Inhaltsübersicht (zu § 66) Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Übergangsvorschriften" durch die Bezeichnung "(weggefallen)" ersetzt
 
 Abschnitt 1 Allgemeine Bestimmungen
 -----------------------------------
@@ -210,7 +210,7 @@ hochpathogenes aviäres Influenza-A-Virus der Subtypen H5 oder H7, das für mult
 b)  
 andere als in Buchstabe a genannte Influenzaviren mit einem intravenösen Pathogenitätsindex von mehr als 1,2 in sechs Wochen alten Hühnern durch virologische Untersuchung
 
-(hochpathogenes aviäres Influenzavirus) bei einem gehaltenen Vogel oder hochpathogenes aviäres Influenza-A-Virus des Subtyps H5N1 bei einem Wildvogel durch eine virologische Untersuchung nachgewiesen worden ist;
+(hochpathogenes aviäres Influenzavirus) bei einem gehaltenen Vogel oder hochpathogenes aviäres Influenza-A-Virus der Subtypen H5 oder H7, das für multiple basische Aminosäuren im Spaltbereich des Hämagglutininmoleküls kodiert, bei einem Wildvogel durch eine virologische Untersuchung nachgewiesen worden ist;
 
 2.  
 Verdacht auf Geflügelpest, wenn
@@ -219,7 +219,7 @@ a)
 das Ergebnis der virologischen, serologischen, pathologisch-anatomischen oder klinischen Untersuchung unter Berücksichtigung der epidemiologischen Erkenntnisse den Ausbruch der Geflügelpest bei einem gehaltenen Vogel befürchten lässt oder
 
 b)  
-aviäres Influenza-A-Virus des Subtyps H5N1 durch virologische Untersuchung bei einem Wildvogel nachgewiesen worden ist;
+aviäres Influenza-A-Virus der Subtypen H5 oder H7 durch virologische Untersuchung bei einem Wildvogel nachgewiesen worden ist;
 
 3.  
 niedrigpathogene aviäre Influenza, wenn durch virologische Untersuchung
@@ -228,7 +228,7 @@ a)
 aviäres Influenza-A-Virus der Subtypen H5 oder H7 mit einem intravenösen Pathogenitätsindex von weniger als 1,2 in sechs Wochen alten Hühnern oder
 
 b)  
-aviäres Influenza-A-Virus, das nicht für multiple basische Aminosäuren im Spaltbereich des Hämagglutininmoleküls kodiert,
+aviäres Influenza-A-Virus der Subtypen H5 oder H7, das nicht für multiple basische Aminosäuren im Spaltbereich des Hämagglutininmoleküls kodiert,
 
 (niedrigpathogenes aviäres Influenzavirus) bei einem gehaltenen Vogel nachgewiesen worden ist.
 
@@ -241,7 +241,7 @@ gehaltene Vögel: Geflügel oder in Gefangenschaft gehaltene Vögel anderer Arte
 Geflügel: Hühner, Truthühner, Perlhühner, Rebhühner, Fasane, Laufvögel, Wachteln, Enten und Gänse, die in Gefangenschaft aufgezogen oder gehalten werden;
 
 3.  
-in Gefangenschaft gehaltene Vögel anderer Arten: andere gehaltene Vögel als das in Nummer 2 genannte Geflügel;
+in Gefangenschaft gehaltene Vögel anderer Arten: andere gehaltene Vögel als das in Nummer 2 genannte Geflügel, ausgenommen Tauben;
 
 4.  
 Federwild: Vögel freilebender Arten, die für den menschlichen Verzehr gejagt werden;
@@ -311,7 +311,7 @@ Werden in Gefangenschaft gehaltene Vögel anderer Arten zu Erwerbszwecken gehalt
 
 ### § 3 Fütterung und Tränkung
 
-Wer Geflügel nicht ausschließlich in Ställen hält, hat sicherzustellen, dass
+Wer Geflügel hält, hat sicherzustellen, dass
 
 1.  
 die Tiere nur an Stellen gefüttert werden, die für Wildvögel nicht zugänglich sind,
@@ -324,90 +324,117 @@ Futter, Einstreu und sonstige Gegenstände, mit denen Geflügel in Berührung ko
 
 ### § 4 Früherkennung
 
-(1) Treten innerhalb von 24 Stunden in einem Geflügelbestand Verluste von
+(1) Treten innerhalb von 24 Stunden in einem Bestand oder einem räumlich abgegrenzten Teil eines Bestandes Verluste von
 
 1.  
-mindestens drei Tieren bei einer Bestandsgröße von bis zu 100 Tieren oder
+mindestens drei Tieren bei einer Größe des Bestandes oder des räumlich abgegrenzten Teils des Bestandes von bis einschließlich 100 Tieren oder
 
 2.  
-mehr als 2 vom Hundert der Tiere des Bestandes bei einer Bestandsgröße von mehr als 100 Tieren
+mehr als 2 vom Hundert der Tiere bei einer Größe des Bestandes oder des räumlich abgegrenzten Teils des Bestandes von mehr als 100 Tieren
 
-auf oder kommt es zu einer erheblichen Veränderung der Legeleistung oder der Gewichtszunahme, so hat der Tierhalter, vorbehaltlich des Absatzes 2, unverzüglich durch einen Tierarzt das Vorliegen einer Infektion mit dem hochpathogenen oder niedrigpathogenen aviären Influenzavirus durch geeignete Untersuchungen ausschließen zu lassen.
+auf oder kommt es zu einer Abnahme der üblichen Legeleistung oder der durchschnittlichen Gewichtszunahme von jeweils mehr als 5 vom Hundert, so hat der Tierhalter, vorbehaltlich des Absatzes 2, unverzüglich durch einen Tierarzt das Vorliegen einer Infektion mit dem hochpathogenen oder niedrigpathogenen aviären Influenzavirus durch geeignete Untersuchungen ausschließen zu lassen.
 
-(2) Treten in einem Geflügelbestand, in dem ausschließlich Enten und Gänse gehalten werden, über einen Zeitraum von mehr als vier Tagen
+(2) Treten in einem Bestand oder einem räumlich abgegrenzten Teil eines Bestandes, in dem ausschließlich Enten und Gänse gehalten werden, über einen Zeitraum von mehr als vier Tagen
 
 1.  
-Verluste von mehr als der dreifachen üblichen Sterblichkeit der Tiere des Bestandes oder
+Verluste von mehr als der dreifachen üblichen Sterblichkeit der Tiere des Bestandes oder des räumlich abgegrenzten Teils des Bestandes oder
 
 2.  
 eine Abnahme der üblichen Gewichtszunahme oder Legeleistung von mehr als 5 vom Hundert
 
 ein, so hat der Tierhalter unverzüglich durch einen Tierarzt das Vorliegen einer Infektion mit dem hochpathogenen oder niedrigpathogenen aviären Influenzavirus durch geeignete Untersuchungen ausschließen zu lassen.
 
-(3) Die zuständige Behörde kann anordnen, dass der Tierhalter einen Geflügelbestand untersuchen lässt, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
-
 ### § 5 Schutzkleidung
 
-Der Tierhalter hat sicherzustellen, dass jede Person, die gewerbsmäßig bei der Ein- oder Ausstallung von Geflügel tätig ist, vor Beginn der Tätigkeit zur Vermeidung der Ein- oder Verschleppung der Geflügelpest oder der niedrigpathogenen aviären Influenza gereinigte und desinfizierte Schutzkleidung oder Einwegkleidung anlegt und diese während der Ein- oder Ausstallung trägt. Der Tierhalter hat ferner sicherzustellen, dass die Schutzkleidung unverzüglich nach Gebrauch abgelegt, gereinigt und desinfiziert oder, im Falle von Einwegkleidung, unverzüglich unschädlich beseitigt wird.
+Der Tierhalter hat sicherzustellen, dass jede Person, die Geflügel impft oder gewerbsmäßig in einer Geflügelhaltung tätig ist, insbesondere Geflügel ein- oder ausstallt, vor Beginn der jeweiligen Tätigkeit zur Vermeidung der Ein- oder Verschleppung der Geflügelpest oder der niedrigpathogenen aviären Influenza gereinigte und desinfizierte Schutzkleidung oder Einwegschutzkleidung anlegt und diese während der jeweiligen Tätigkeit trägt. Der Tierhalter hat ferner sicherzustellen, dass die Schutzkleidung unverzüglich nach Gebrauch abgelegt, gereinigt und desinfiziert oder, im Falle von Einwegschutzkleidung, unverzüglich unschädlich beseitigt wird.
 
 ### § 6 Weitere allgemeine Schutzmaßregeln
 
-Werden in einem Geflügelbestand mehr als 1 000 Stück Geflügel gehalten, so hat der Tierhalter sicherzustellen, dass
+(1) Werden in einem Geflügelbestand mehr als 1 000 Stück Geflügel gehalten, so hat der Tierhalter sicherzustellen, dass
 
 1.  
 die Ein- und Ausgänge zu den Ställen oder die sonstigen Standorte des Geflügels gegen unbefugten Zutritt oder unbefugtes Befahren gesichert sind,
 
 2.  
-die Ställe oder die sonstigen Standorte des Geflügels von betriebsfremden Personen nur mit betriebseigener Schutzkleidung oder Einwegkleidung betreten werden und dass diese Personen die Schutz- oder Einwegkleidung nach Verlassen des Stalles oder sonstigen Standorts des Geflügels unverzüglich ablegen,
+die Ställe oder die sonstigen Standorte des Geflügels von betriebsfremden Personen nur mit betriebseigener Schutzkleidung oder Einwegschutzkleidung betreten werden und dass diese Personen die Schutz- oder Einwegschutzkleidung nach Verlassen des Stalles oder sonstigen Standorts des Geflügels unverzüglich ablegen,
 
 3.  
-Schutzkleidung nach Gebrauch unverzüglich gereinigt und desinfiziert und Einwegkleidung nach Gebrauch unverzüglich unschädlich beseitigt wird,
+Schutzkleidung nach Gebrauch unverzüglich gereinigt und desinfiziert und Einwegschutzkleidung nach Gebrauch unverzüglich unschädlich beseitigt wird,
 
 4.  
 nach jeder Einstallung oder Ausstallung von Geflügel die dazu eingesetzten Gerätschaften und der Verladeplatz gereinigt und desinfiziert werden und dass nach jeder Ausstallung die frei gewordenen Ställe einschließlich der dort vorhandenen Einrichtungen und Gegenstände gereinigt und desinfiziert werden,
 
 5.  
-betriebseigene Fahrzeuge abweichend von § 17 Absatz 1 der Viehverkehrsverordnung unmittelbar nach Abschluss eines Geflügeltransports auf einem befestigten Platz gereinigt und desinfiziert werden,
+betriebseigene Fahrzeuge abweichend von § 17 Absatz 1 Satz 1 und 2 der Viehverkehrsverordnung unmittelbar nach Abschluss eines Geflügeltransports auf einem befestigten Platz gereinigt und desinfiziert werden,
 
 6.  
-Fahrzeuge, Maschinen und sonstige Gerätschaften, die in der Geflügelhaltung eingesetzt und von mehreren Betrieben gemeinsam benutzt werden, jeweils im abgebenden Betrieb vor der Abgabe gereinigt und desinfiziert werden,
+Fahrzeuge, Maschinen und sonstige Gerätschaften, die in der Geflügelhaltung eingesetzt und
+
+a)  
+in mehreren Ställen oder
+
+b)  
+von mehreren Betrieben gemeinsam
+
+benutzt werden, jeweils vor der Benutzung in einem anderen Stall oder, in den Fällen des Buchstaben b, im abgebenden Betrieb vor der Abgabe gereinigt und desinfiziert werden,
 
 7.  
 eine ordnungsgemäße Schadnagerbekämpfung durchgeführt wird und hierüber Aufzeichnungen gemacht werden,
 
 8.  
-der Raum, der Behälter oder die sonstigen Einrichtungen zur Aufbewahrung verendeten Geflügels bei Bedarf, mindestens jedoch einmal im Monat, gereinigt und desinfiziert werden,
+der Raum, der Behälter oder die sonstigen Einrichtungen zur Aufbewahrung verendeten Geflügels nach jeder Abholung, mindestens jedoch einmal im Monat, gereinigt und desinfiziert wird oder werden,
 
 9.  
-eine betriebsbereite Einrichtung zum Waschen der Hände sowie eine Einrichtung zur Desinfektion der Schuhe vorgehalten wird.
+eine betriebsbereite Einrichtung zum Waschen der Hände sowie eine Einrichtung zum Wechseln und Ablegen der Kleidung und zur Desinfektion der Schuhe vorgehalten wird.
+
+(2) Die zuständige Behörde kann für Bestände bis einschließlich 1 000 Stück Geflügel oder für Bestände mit in Gefangenschaft gehaltenen Vögeln anderer Arten Schutzmaßregeln nach Absatz 1 anordnen, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
+
+(3) In den Fällen des Absatzes 1 Nummer 5 kann die Reinigung und Desinfektion im Falle mehrerer Transporte lebenden Geflügels an einem Tag von demselben Herkunftsbetrieb in denselben Bestimmungsbetrieb unmittelbar nach Abschluss des letzten Transportes durchgeführt werden.
 
 ### § 7 Geflügelausstellungen und Geflügelmärkte
 
 (1) Eine Geflügelausstellung, ein Geflügelmarkt oder eine Veranstaltung ähnlicher Art darf nur durchgeführt werden, soweit der Veranstalter sicherstellt, dass
 
 1.  
-die auf der Veranstaltung jeweils aufgestellten gehaltenen Vögel vor der Veranstaltung klinisch tierärztlich untersucht werden und
+die auf der jeweiligen Veranstaltung aufgestellten gehaltenen Vögel vor der jeweiligen Veranstaltung klinisch tierärztlich untersucht werden und
 
 2.  
-die Veranstaltung in geschlossenen Räumen durchgeführt wird.
+die Örtlichkeit, an der die jeweilige Veranstaltung abgehalten wird, nach dem Ende der jeweiligen Veranstaltung nach näherer Anweisung der zuständigen Behörde gereinigt und desinfiziert wird, es sei denn, die jeweilige Veranstaltung findet in geschlossenen Räumen statt.
 
-Auf Verlangen hat der Halter des auf einer Veranstaltung nach Satz 1 aufgestellten Geflügels der zuständigen Behörde die Registriernummer nach § 26 Absatz 2 der Viehverkehrsverordnung mitzuteilen. Satz 1 gilt nicht für eine Geflügelausstellung, einen Geflügelmarkt oder eine Veranstaltung ähnlicher Art, soweit die aufgestellten Vögel vor der Veranstaltung in Beständen gehalten worden sind, die
+Für den Veranstalter einer Geflügelausstellung, eines Geflügelmarktes oder einer Veranstaltung ähnlicher Art gilt § 3 entsprechend. Auf Verlangen hat der Halter des auf einer Veranstaltung nach Satz 1 aufgestellten Geflügels der zuständigen Behörde die Registriernummer nach § 26 Absatz 2 der Viehverkehrsverordnung mitzuteilen. Die Sätze 1 und 2 gelten nicht für eine Geflügelausstellung, einen Geflügelmarkt oder eine Veranstaltung ähnlicher Art, soweit die aufgestellten Vögel vor der jeweiligen Veranstaltung in Beständen gehalten worden sind, die
 
 1.  
-in dem Kreis oder in der kreisfreien Stadt (Kreis) gelegen sind, in dem die Veranstaltung stattfindet, oder
+in dem Kreis oder in der kreisfreien Stadt (Kreis) gelegen sind, in dem die jeweilige Veranstaltung stattfindet, oder
 
 2.  
-in einem Kreis gelegen sind, der an einen Kreis im Sinne der Nummer 1 angrenzt.
+in einem Kreis gelegen ist, der an einen Kreis im Sinne der Nummer 1 angrenzt.
 
-(2) Enten und Gänse dürfen auf einem Geflügelmarkt oder einer Veranstaltung ähnlicher Art nur aufgestellt werden, soweit längstens sieben Tage vor der Veranstaltung Proben von 60 Tieren des jeweiligen Bestands in einer von der zuständigen Behörde bestimmten Untersuchungseinrichtung virologisch mit negativem Ergebnis auf hochpathogenes aviäres Influenzavirus untersucht worden sind. Die Proben sind mittels eines kombinierten Rachen- und Kloakentupfers zu entnehmen. Werden weniger als 60 Enten und Gänse gehalten, sind die jeweils vorhandenen Tiere zu untersuchen. Anstelle der Untersuchung nach Satz 1 kann der Tierhalter Enten und Gänse zusammen mit Hühnern oder Puten halten, soweit die Hühner oder Puten dazu dienen, die Einschleppung oder Verschleppung der Geflügelpest in den Bestand frühzeitig zu erkennen. In diesem Fall muss die in der Anlage 2 in Spalte 2 vorgesehene Anzahl von Hühnern oder Puten gehalten werden. Ferner hat der Tierhalter in den Fällen des Satzes 4 jedes verendete Stück Geflügel in einer von der zuständigen Behörde bestimmten Untersuchungseinrichtung unverzüglich auf hochpathogenes aviäres Influenzavirus virologisch untersuchen zu lassen.
+(2) Enten und Gänse dürfen auf einem Geflügelmarkt oder einer Veranstaltung ähnlicher Art nur aufgestellt werden, soweit längstens sieben Tage vor der jeweiligen Veranstaltung Proben von 60 Tieren des jeweiligen Bestands in einer von der zuständigen Behörde bestimmten Untersuchungseinrichtung virologisch mit negativem Ergebnis auf hochpathogenes aviäres Influenzavirus untersucht worden sind. Die Proben sind mittels eines kombinierten Rachen- und Kloakentupfers zu entnehmen. Werden weniger als 60 Enten und Gänse gehalten, sind die jeweils vorhandenen Tiere zu untersuchen. Anstelle der Untersuchung nach Satz 1 kann der Tierhalter Enten und Gänse zusammen mit Hühnern oder Puten halten, soweit die Hühner oder Puten dazu dienen, die Einschleppung oder Verschleppung der Geflügelpest in den Bestand frühzeitig zu erkennen. In diesem Fall muss die in der Anlage 2 in Spalte 2 vorgesehene Anzahl von Hühnern oder Puten gehalten werden. Ferner hat der Tierhalter in den Fällen des Satzes 4 jedes verendete Stück Geflügel in einer von der zuständigen Behörde bestimmten Untersuchungseinrichtung unverzüglich auf hochpathogenes aviäres Influenzavirus virologisch untersuchen zu lassen.
 
 (3) In den Fällen des Absatzes 2 Satz 4 hat der Tierhalter der zuständigen Behörde die gemeinsame Haltung von Enten und Gänsen mit Hühnern und Puten unverzüglich anzuzeigen. Die zuständige Behörde hat dem Tierhalter über die Anzeige eine Bestätigung auszustellen.
 
-(4) Die tierärztliche Untersuchung nach Absatz 1 Satz 1 Nummer 1 ist dem Veranstalter vom Tierhalter durch die Vorlage einer tierärztlichen Bescheinigung, die virologische Untersuchung nach Absatz 2 Satz 1 ist dem Veranstalter vom Tierhalter durch die Vorlage des Untersuchungsbefundes und die gemeinsame Haltung nach Absatz 2 Satz 4 ist dem Veranstalter vom Tierhalter durch die Vorlage der Bestätigung nach Absatz 3 Satz 2 nachzuweisen. Die Bescheinigung, der Untersuchungsbefund oder die Bestätigung sind der zuständigen Behörde auf Verlangen vorzulegen.
+(4) Die tierärztliche Untersuchung nach Absatz 1 Satz 1 Nummer 1 ist dem Veranstalter vom Tierhalter durch die Vorlage einer tierärztlichen Bescheinigung, die virologische Untersuchung nach Absatz 2 Satz 1 ist dem Veranstalter vom Tierhalter durch die Vorlage des Untersuchungsbefundes und die gemeinsame Haltung nach Absatz 2 Satz 4 ist dem Veranstalter vom Tierhalter durch die Vorlage der Bestätigung nach Absatz 3 Satz 2, die nicht älter als zwölf Monate sein darf, nachzuweisen. Die Bescheinigung, der Untersuchungsbefund oder die Bestätigung sind der zuständigen Behörde auf Verlangen vorzulegen.
 
-(5) Die zuständige Behörde kann für Geflügelausstellungen oder Veranstaltungen ähnlicher Art nach Absatz 1 Satz 3 Maßregeln nach Absatz 1 Satz 1 anordnen, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
+(5) Die zuständige Behörde kann für
 
-(5a) Die zuständige Behörde kann Ausnahmen von Absatz 1 Satz 1 für in Gefangenschaft gehaltene Vögel anderer Arten genehmigen, soweit auf der Ausstellung, dem Markt oder der Veranstaltung ähnlicher Art kein Geflügel aufgestellt wird und sonstige Belange der Tierseuchenbekämpfung nicht entgegenstehen.
+1.  
+Geflügelausstellungen, Geflügelmärkte und Veranstaltungen ähnlicher Art anordnen, dass
+
+a)  
+die jeweilige Veranstaltung in geschlossenen Räumen durchgeführt wird,
+
+b)  
+die auf der jeweiligen Veranstaltung aufgestellten, anderen gehaltenen Vögel als Enten und Gänse auf hochpathogenes aviäres Influenzavirus virologisch untersucht werden,
+
+c)  
+in den Fällen des Absatzes 1 Satz 4 die auf der jeweiligen Veranstaltung aufgestellten gehaltenen Vögel vor der jeweiligen Veranstaltung klinisch tierärztlich untersucht werden,
+
+2.  
+Enten und Gänse, die auf einer Geflügelausstellung aufgestellt werden sollen, eine Untersuchung auf hochpathogenes aviäres Influenzavirus anordnen,
+
+soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist. In den Fällen des Satzes 1 Nummer 1 Buchstabe b und Nummer 2 gilt Absatz 2 Satz 2 entsprechend.
+
+(5a) Die zuständige Behörde kann Ausnahmen von Absatz 1 Satz 1 und 2 für in Gefangenschaft gehaltene Vögel anderer Arten genehmigen, soweit auf der Ausstellung, dem Markt oder der Veranstaltung ähnlicher Art kein Geflügel aufgestellt wird und sonstige Belange der Tierseuchenbekämpfung nicht entgegenstehen.
 
 (6) § 4 der Viehverkehrsverordnung bleibt unberührt.
 
@@ -518,7 +545,7 @@ Die Aufzeichnungen nach Satz 1 Nummer 2 sind mindestens fünf Jahre lang aufzube
 (2) Der Inhaber einer Genehmigung nach § 8 Absatz 3 Nummer 2 hat
 
 1.  
-unmittelbar vor der Schutzimpfung mindestens 10 vom Hundert der zu impfenden Vögel des Bestands serologisch auf Antikörper des hochpathogenen oder niedrigpathogenen aviären Influenzavirus untersuchen zu lassen,
+unmittelbar vor der Schutzimpfung mindestens 10 vom Hundert der zu impfenden Vögel des Bestands serologisch auf Antikörper gegen das aviäre Influenzavirus untersuchen zu lassen,
 
 2.  
 während der ersten 30 Tage nach der Schutzimpfung eine wöchentliche klinische tierärztliche Untersuchung durchführen zu lassen und, im Falle des Vorhandenseins klinisch auffälliger Vögel, diese unverzüglich virologisch untersuchen zu lassen,
@@ -526,7 +553,7 @@ während der ersten 30 Tage nach der Schutzimpfung eine wöchentliche klinische 
 3.  
 frühestens 30 Tage nach der Schutzimpfung diejenigen Vögel, die nach Nummer 1 untersucht worden sind, erneut serologisch untersuchen zu lassen.
 
-(3) Die zuständige Behörde kann weitere serologische oder virologische Untersuchungen zum Nachweis des hochpathogenen oder niedrigpathogenen aviären Influenzavirus in einem geimpften Bestand, in dem Vögel zur Arterhaltung oder zur Erhaltung seltener Rassen nach Anlage 1 gehalten werden, anordnen, soweit dies zur Tierseuchenbekämpfung erforderlich ist.
+(3) Die zuständige Behörde kann weitere serologische Untersuchungen auf Antikörper gegen das aviäre Influenzavirus oder virologische Untersuchungen zum Nachweis des hochpathogenen oder niedrigpathogenen aviären Influenzavirus in einem geimpften Bestand, in dem Vögel zur Arterhaltung oder zur Erhaltung seltener Rassen nach Anlage 1 gehalten werden, anordnen, soweit dies zur Tierseuchenbekämpfung erforderlich ist.
 
 (4) Der Inhaber einer Genehmigung hat über die durchgeführten Untersuchungen nach Absatz 2 unverzüglich Aufzeichnungen zu machen. Die Aufzeichnungen nach Satz 1 sind mindestens fünf Jahre lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen. Die Frist beginnt mit dem Ablauf des letzten Tages des Kalendermonats, in dem ihm die Ergebnisse der Untersuchungen schriftlich mitgeteilt worden sind.
 
@@ -542,21 +569,21 @@ dürfen Vögel, die zur Arterhaltung oder zur Erhaltung seltener Rassen nach Anl
 
 Die zuständige Behörde kann Ausnahmen von Satz 1 Nummer 2 genehmigen für das Verbringen von Vögeln in einen anderen Bestand, soweit die Vögel längstens drei Tage vor dem Verbringen virologisch mit negativem Ergebnis auf hochpathogenes oder niedrigpathogenes aviäres Influenzavirus untersucht worden sind. § 10 Absatz 1 Satz 2 gilt entsprechend.
 
-(2) Das Aufstellen geimpfter Vögel auf einer Geflügelausstellung oder einer Veranstaltung ähnlicher Art oder einem Geflügelmarkt oder einer Veranstaltung ähnlicher Art ist verboten. Die zuständige Behörde kann nach Ablauf einer Frist von 30 Tagen nach Beendigung der Untersuchungen nach § 10 Absatz 2 Nummer 3 Ausnahmen von Satz 1 genehmigen, soweit sichergestellt ist, dass
+(2) Das Aufstellen geimpfter Vögel auf einer Geflügelausstellung, einem Geflügelmarkt oder einer Veranstaltung ähnlicher Art ist verboten. Die zuständige Behörde kann nach Ablauf einer Frist von 30 Tagen nach Beendigung der Untersuchungen nach § 10 Absatz 2 Nummer 3 Ausnahmen von Satz 1 genehmigen, soweit sichergestellt ist, dass
 
 1.  
 das geimpfte Geflügel
 
 a)  
-längstens drei Tage vor der Veranstaltung virologisch,
+längstens drei Tage vor der jeweiligen Veranstaltung virologisch,
 
 b)  
-vor der Veranstaltung klinisch tierärztlich
+vor der jeweiligen Veranstaltung klinisch tierärztlich
 
 mit negativem Ergebnis auf hochpathogenes oder niedrigpathogenes aviäres Influenzavirus untersucht worden ist,
 
 2.  
-die Veranstaltung in geschlossenen Räumen durchgeführt wird und
+die jeweilige Veranstaltung in geschlossenen Räumen durchgeführt wird und
 
 3.  
 das geimpfte Geflügel getrennt von nicht geimpftem Geflügel gehalten wird.
@@ -575,12 +602,12 @@ niedrigpathogenes aviäres Influenzavirus der Subtypen H5 oder H7
 
 amtlich festgestellt, finden im Falle der Nummer 1 die Maßregeln nach den §§ 18 bis 33 sowie § 35 und im Falle der Nummer 2 die Maßregeln nach den §§ 46 bis 51 Anwendung.
 
-Unterabschnitt 2 Haltung von Geflügel
--------------------------------------
+Unterabschnitt 2 Aufstallung, Anordnungen
+-----------------------------------------
 
 ### 
 
-### § 13 Haltung von Geflügel
+### § 13 Aufstallung
 
 (1) Die zuständige Behörde ordnet eine Aufstallung des Geflügels
 
@@ -590,7 +617,7 @@ in geschlossenen Ställen oder
 2.  
 unter einer Vorrichtung, die aus einer überstehenden, nach oben gegen Einträge gesicherten dichten Abdeckung und mit einer gegen das Eindringen von Wildvögeln gesicherten Seitenbegrenzung bestehen muss (Schutzvorrichtung),
 
-an, soweit dies auf der Grundlage einer Risikobewertung nach Maßgabe des Absatzes 2 zur Vermeidung der Einschleppung oder Verschleppung der Geflügelpest durch Wildvögel erforderlich ist.
+an, soweit dies auf der Grundlage einer Risikobewertung nach Maßgabe des Absatzes 2 zur Vermeidung der Einschleppung oder Verschleppung der Geflügelpest durch Wildvögel erforderlich ist. Dabei kann sie für bestimmte Haltungen oder Örtlichkeiten Ausnahmen vorsehen, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen und sichergestellt ist, dass der Kontakt zu Wildvögeln auf andere Weise weitestgehend vermieden wird. Netze oder Gitter dürfen zur Vermeidung des Kontaktes zu Wildvögeln nur genutzt werden, wenn sie als Abdeckung nach oben eine Maschenweite von nicht mehr als 25 mm aufweisen.
 
 (2) Der Risikobewertung nach Absatz 1 sind zu Grunde zu legen:
 
@@ -598,57 +625,120 @@ an, soweit dies auf der Grundlage einer Risikobewertung nach Maßgabe des Absatz
 die örtlichen Gegebenheiten einschließlich der Nähe des Bestands zu einem Gebiet, in dem sich wildlebende Wat- und Wasservögel sammeln, insbesondere einem Feuchtbiotop, einem See, einem Fluss oder einem Küstengewässer, an dem die genannten Vögel rasten oder brüten,
 
 2.  
-das sonstige Vorkommen oder Verhalten von Wildvögeln oder
+das sonstige Vorkommen oder Verhalten von Wildvögeln,
+
+2a.  
+die Geflügeldichte oder
 
 3.  
 der Verdacht auf Geflügelpest oder der Ausbruch der Geflügelpest in einem Kreis, der an einen Kreis angrenzt, in dem eine Anordnung nach Absatz 1 getroffen werden soll.
 
-Der Risikobewertung können weitere Tatsachen zu Grunde gelegt werden, soweit dies für eine hinreichende Abschätzung der Gefährdungslage erforderlich ist.
+Zu berücksichtigen ist ferner, soweit vorhanden, eine Risikobewertung des Friedrich-Loeffler-Institutes. Der Risikobewertung können weitere Tatsachen zu Grunde gelegt werden, soweit dies für eine hinreichende Abschätzung der Gefährdungslage erforderlich ist.
 
-(3) Die zuständige Behörde kann Ausnahmen von Absatz 1 genehmigen, soweit
+(3) Die zuständige Behörde kann Ausnahmen von Absatz 1 Satz 1 genehmigen, soweit
 
 1.  
-eine Aufstallung wegen der bestehenden Haltungsverhältnisse nicht möglich ist,
+eine Aufstallung
+
+a)  
+wegen der bestehenden Haltungsverhältnisse nicht möglich ist oder
+
+b)  
+eine artgerechte Haltung erheblich beeinträchtigt,
 
 2.  
-sichergestellt ist, dass der Kontakt zu Wildvögeln auf andere Weise wirksam unterbunden wird, und
+sichergestellt ist, dass der Kontakt zu Wildvögeln auf andere Weise weitestgehend vermieden wird, und
 
 3.  
 sonstige Belange der Tierseuchenbekämpfung nicht entgegenstehen.
 
-(4) Ist eine Genehmigung nach Absatz 3 erteilt worden, sind Enten und Gänse räumlich getrennt von sonstigem Geflügel zu halten. In diesem Fall hat der Halter von Enten und Gänsen sicherzustellen, dass die Tiere vierteljährlich virologisch auf hochpathogenes aviäres Influenzavirus untersucht werden. Anstelle der Untersuchung nach Satz 2 kann der Tierhalter Enten und Gänse abweichend von Satz 1 nach Maßgabe der Sätze 4 und 5 zusammen mit Hühnern oder Puten halten, soweit die Hühner oder Puten dazu dienen, die Einschleppung oder Verschleppung der Geflügelpest in den Bestand frühzeitig zu erkennen. In diesem Fall muss die in der Anlage 2 in Spalte 2 vorgesehene Anzahl von Hühnern oder Puten gehalten werden. Ferner hat der Tierhalter in den Fällen des Satzes 3
+Absatz 1 Satz 3 gilt entsprechend.
+
+(4) Ist eine Ausnahme nach Absatz 1 Satz 2 oder eine Genehmigung nach Absatz 3 erteilt worden, sind Enten, Gänse und Laufvögel räumlich getrennt von sonstigem Geflügel zu halten. In diesem Fall hat der Halter von Enten, Gänsen und Laufvögeln sicherzustellen, dass die Tiere vierteljährlich virologisch auf hochpathogenes aviäres Influenzavirus untersucht werden. Anstelle der Untersuchung nach Satz 2 kann der Tierhalter Enten, Gänse und Laufvögel abweichend von Satz 1 nach Maßgabe der Sätze 4 und 5 zusammen mit Hühnern oder Puten halten, soweit die Hühner oder Puten dazu dienen, die Einschleppung oder Verschleppung der Geflügelpest in den Bestand frühzeitig zu erkennen. In diesem Fall muss die in der Anlage 2 in Spalte 2 vorgesehene Anzahl von Hühnern oder Puten gehalten werden. Ferner hat der Tierhalter in den Fällen des Satzes 3
 
 1.  
 jedes verendete Stück Geflügel in einer von der zuständigen Behörde bestimmten Untersuchungseinrichtung unverzüglich auf hochpathogenes aviäres Influenzavirus virologisch untersuchen zu lassen,
 
 2.  
-abweichend von § 2 Absatz 2 Satz 1 und 2 Nummer 3 und 4 und § 6 die dort genannten Maßregeln unabhängig von der Größe des Geflügelbestandes durchzuführen.
+abweichend von § 2 Absatz 2 Satz 1 und 2 Nummer 3 und 4 und § 6 Absatz 1 die dort genannten Maßregeln unabhängig von der Größe des Geflügelbestandes durchzuführen.
 
-(5) Die Untersuchungen nach Absatz 4 Satz 2 sind jeweils an Proben von 60 Tieren je Bestand in einer von der zuständigen Behörde bestimmten Untersuchungseinrichtung durchzuführen. Die Proben sind mittels eines kombinierten Rachen- und Kloakentupfers zu entnehmen. Werden weniger als 60 Enten und Gänse gehalten, sind die jeweils vorhandenen Tiere zu untersuchen.
+(5) Die Untersuchungen nach Absatz 4 Satz 2 sind
+
+1.  
+im Fall von Enten und Gänsen jeweils an Proben von 60 Tieren je Bestand,
+
+2.  
+im Fall von Laufvögeln an 60 Proben je Bestand
+
+in einer von der zuständigen Behörde bestimmten Untersuchungseinrichtung durchzuführen. Werden weniger als 60 Enten, Gänse oder Laufvögel gehalten, sind im Fall von Enten und Gänsen die jeweils vorhandenen Tiere, im Fall von Laufvögeln eine der Zahl der Tiere im Bestand entsprechende Anzahl von Proben zu untersuchen. Die Proben sind
+
+1.  
+im Fall von Enten und Gänsen mittels eines kombinierten Rachen- und Kloakentupfers,
+
+2.  
+im Fall von Laufvögeln mittels Kloakentupfer oder gleichmäßig über die Haltung verteilter frischer Kotproben
+
+zu entnehmen.
 
 (6) Der Tierhalter hat der zuständigen Behörde das Ergebnis einer virologischen Untersuchung nach Absatz 4 Satz 2 oder 5 Nummer 1 unverzüglich mitzuteilen. Ferner hat er das Ergebnis der Untersuchung mindestens ein Jahr lang aufzubewahren. Die Frist beginnt mit dem Ablauf des Kalendermonats, in dem ihm das Ergebnis der Untersuchung schriftlich mitgeteilt worden ist.
 
-(7) Für die gemeinsame Haltung von Enten und Gänsen mit Hühnern und Puten nach Absatz 4 Satz 3 gilt § 7 Absatz 3 entsprechend.
-
-### § 14 Weitere Untersuchungen
-
-(1) Die zuständige Behörde kann anordnen, dass ein Geflügelhalter
+(7) Die zuständige Behörde kann anordnen, dass
 
 1.  
-Untersuchungen in einem kürzeren als dem in § 13 Absatz 4 Satz 2 genannten Untersuchungsabstand durchführen lassen muss,
+Untersuchungen in einem kürzeren als dem in Absatz 4 Satz 2 genannten Untersuchungsabstand durchgeführt werden müssen,
 
 2.  
-in den Fällen des § 13 Absatz 4 Satz 3 Geflügel auf das hochpathogene aviäre Influenzavirus virologisch untersuchen lassen muss,
+in den Fällen des Absatzes 4 Satz 3 das Geflügel auf das hochpathogene aviäre Influenzavirus virologisch untersucht werden muss,
+
+soweit dies zur Erkennung der Einschleppung oder Verschleppung der Geflügelpest erforderlich ist.
+
+(8) Für die gemeinsame Haltung von Enten, Gänsen und Laufvögeln mit Hühnern und Puten nach Absatz 4 Satz 3 gilt § 7 Absatz 3 entsprechend.
+
+### § 14 Weitere Anordnungen
+
+(1) Die zuständige Behörde kann, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist, anordnen, dass
+
+1.  
+ein Geflügelhalter
+
+a)  
+das von ihm gehaltene Geflügel serologisch auf Antikörper gegen aviäres Influenzavirus oder virologisch auf hochpathogenes oder niedrigpathogenes aviäres Influenzavirus untersuchen lassen muss und der zuständigen Behörde das Ergebnis der Untersuchung mitzuteilen hat,
+
+b)  
+von ihm gehaltene Katzen und Schweine untersuchen lassen muss,
+
+2.  
+gehaltene Vögel eines bestimmten Gebietes serologisch auf Antikörper gegen aviäres Influenzavirus oder virologisch auf hochpathogenes oder niedrigpathogenes aviäres Influenzavirus zu untersuchen sind,
 
 3.  
-das Geflügel serologisch auf Antikörper gegen das hochpathogene oder niedrigpathogene aviäre Influenzavirus untersuchen lassen muss und das Ergebnis der Untersuchung der zuständigen Behörde mitzuteilen hat,
+gehaltene Vögel, die in einen Bestand eingestellt werden sollen,
 
-4.  
-von ihm gehaltene Katzen und Schweine zu untersuchen hat,
+a)  
+klinisch, virologisch oder serologisch zu untersuchen,
 
-soweit dies zur Erkennung der Einschleppung oder Verschleppung des hochpathogenen oder niedrigpathogenen aviären Influenzavirus erforderlich ist. Im Falle einer Anordnung nach Satz 1 Nummer 3 sind die Untersuchungen jeweils an Proben von 15 Tieren je Bestand durchzuführen. Werden weniger als 15 Tiere gehalten, sind die jeweils vorhandenen Tiere zu untersuchen.
+b)  
+abzusondern oder
 
-(2) Der Geflügelhalter hat der zuständigen Behörde unverzüglich jeden Nachweis des hochpathogenen oder niedrigpathogenen aviären Influenzavirus mitzuteilen. Ferner hat er die Ergebnisse der Untersuchungen nach Absatz 1 mindestens ein Jahr lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen. Die Frist beginnt mit dem Ablauf des letzten Tages des Kalendermonats, in dem ihm die Ergebnisse der Untersuchungen schriftlich mitgeteilt worden sind.
+c)  
+behördlich zu beobachten
+
+sind, soweit Regelungen dieser Verordnung oder Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union nicht entgegenstehen.
+
+(2) Der Tierhalter hat der zuständigen Behörde unverzüglich jeden Nachweis des hochpathogenen oder niedrigpathogenen aviären Influenzavirus mitzuteilen. Ferner hat er die Ergebnisse der Untersuchungen nach Absatz 1 mindestens ein Jahr lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen. Die Frist beginnt mit dem Ablauf des letzten Tages des Kalendermonats, in dem ihm die Ergebnisse der Untersuchungen schriftlich mitgeteilt worden sind.
+
+### § 14a Abgabe im Reisegewerbe
+
+(1) Die zuständige Behörde kann, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist, anordnen, dass Geflügel außerhalb einer gewerblichen Niederlassung oder, ohne eine solche Niederlassung zu haben, gewerbsmäßig nur abgegeben werden darf, soweit das Geflügel längstens vier Tage vor der Abgabe
+
+1.  
+klinisch tierärztlich oder,
+
+2.  
+im Fall von Enten und Gänsen, virologisch
+
+nach näherer Anweisung der zuständigen Behörde mit negativem Ergebnis auf hochpathogenes oder niedrigpathogenes aviäres Influenzavirus untersucht worden ist. Im Fall von Enten und Gänsen gilt § 13 Absatz 5 Satz 1 Nummer 1, Satz 2 und 3 Nummer 1 entsprechend. Derjenige, der das Geflügel abgibt, hat eine tierärztliche Bescheinigung über das Ergebnis der Untersuchung nach Satz 1 mitzuführen. Die Bescheinigung ist der zuständigen Behörde auf Verlangen vorzulegen. Die Bescheinigung nach Satz 3 ist mindestens ein Jahr aufzubewahren. Die Frist beginnt mit dem Ablauf des letzten Tages des Kalendermonats, an dem die Bescheinigung ausgestellt worden ist.
+
+(2) Absatz 1 gilt nicht für die Abgabe von Geflügel, das unmittelbar zur Schlachtung verbracht wird.
 
 Unterabschnitt 3 Schutzmaßregeln bei Geflügelpest
 -------------------------------------------------
@@ -726,7 +816,7 @@ an den Ein- und Ausgängen der Ställe oder sonstigen Standorten Matten oder son
 sicherzustellen, dass
 
 a)  
-der jeweilige Stall oder sonstige Standort nur von ihm, seinem Vertreter, den mit der Betreuung und Beaufsichtigung betrauten Personen, Tierärzten oder Personen im amtlichen Auftrag und nur mit Schutzkleidung betreten wird und diese unverzüglich nach Verlassen des Stalls oder sonstigen Standorts abgelegt, gereinigt und desinfiziert oder, im Falle von Einwegkleidung, unverzüglich nach Gebrauch unschädlich beseitigt wird,
+der jeweilige Stall oder sonstige Standort nur von ihm, seinem Vertreter, den mit der Betreuung und Beaufsichtigung betrauten Personen, Tierärzten oder Personen im amtlichen Auftrag und nur mit Schutzkleidung betreten wird und diese unverzüglich nach Verlassen des Stalls oder sonstigen Standorts abgelegt, gereinigt und desinfiziert oder, im Falle von Einwegschutzkleidung, unverzüglich nach Gebrauch unschädlich beseitigt wird,
 
 b)  
 Schuhwerk vor dem Betreten und nach dem Verlassen des Bestands sowie nach Verlassen eines Stalls oder sonstigen Standorts gereinigt und desinfiziert wird,
@@ -775,10 +865,12 @@ der Fahrzeuge, mit denen getötete oder verendete Vögel transportiert worden si
 nach Maßgabe des Anhangs VI der Richtlinie 2005/94/EG des Rates vom 20. Dezember 2005 mit Gemeinschaftsmaßnahmen zur Bekämpfung der Aviären Influenza und zur Aufhebung der Richtlinie 92/40/EWG (ABl. L 10 vom 14.1.2006, S. 16) durchgeführt wird,
 
 1a.  
-nach der Tötung und unschädlichen Beseitigung des Geflügels oder der Schlachtung eine Wiederbelegung mit Vögeln frühestens 21 Tage nach Beendigung der Reinigung und Desinfektion nach Nummer 1 Buchstabe a und deren Abnahme durch die zuständige Behörde vorgenommen werden darf,
+nach der Tötung und unschädlichen Beseitigung der gehaltenen Vögel oder der Schlachtung eine Wiederbelegung mit Vögeln frühestens 21 Tage nach Beendigung der Reinigung und Desinfektion nach Nummer 1 Buchstabe a und deren Abnahme durch die zuständige Behörde vorgenommen werden darf,
 
 2.  
 eine Entwesung der Ställe und sonstigen Standorte und ihrer unmittelbaren Umgebung durchgeführt wird.
+
+Im Falle der Freilandhaltung hat der Tierhalter eine Reinigung und Desinfektion nach näherer Anweisung der zuständigen Behörde durchzuführen.
 
 (5) Die zuständige Behörde kann, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen, auf der Grundlage einer von ihr durchgeführten Risikobewertung Ausnahmen
 
@@ -856,10 +948,10 @@ die sofortige Tötung und unschädliche Beseitigung der nicht bereits nach § 15
 die unschädliche Beseitigung von
 
 a)  
-Fleisch von Geflügel und Eiern, soweit diese Erzeugnisse in der Zeit von der mutmaßlichen Einschleppung der Seuche in den Bestand bis zu ihrer amtlichen Feststellung gewonnen worden sind,
+Fleisch von gehaltenen Vögeln und Eiern, soweit diese Erzeugnisse in der Zeit von der mutmaßlichen Einschleppung der Seuche in den Bestand bis zu ihrer amtlichen Feststellung gewonnen worden sind,
 
 b)  
-vorhandenen tierischen Nebenprodukten, Futtermitteln und Einstreu,
+vorhandenen tierischen Nebenprodukten, Futtermitteln und Einstreu, die mit seuchenkranken oder seuchenverdächtigen gehaltenen Vögeln in Berührung gekommen sein können,
 
 3.  
 die Reinigung und Desinfektion
@@ -908,7 +1000,7 @@ soweit er Hunde und Katzen hält, sicherzustellen, dass diese nicht frei umherla
 (4) Die zuständige Behörde führt Untersuchungen nach Maßgabe des Kapitels IV Nummer 8.3 des Anhangs der Entscheidung 2006/437/EG durch über den Verbleib gehaltener Vögel, die in der Zeit von der mutmaßlichen Einschleppung der Seuche in den Seuchenbestand bis zu ihrer amtlichen Feststellung aus Bruteiern geschlüpft und aus dem Seuchenbestand verbracht worden sind. Die zuständige Behörde führt ferner Untersuchungen durch über den Verbleib von
 
 1.  
-Fleisch von Geflügel und Eiern, soweit diese Erzeugnisse in der Zeit von der mutmaßlichen Einschleppung der Seuche in den Seuchenbestand bis zu ihrer amtlichen Feststellung gewonnen worden sind,
+Fleisch von gehaltenen Vögeln und Eiern, soweit diese Erzeugnisse in der Zeit von der mutmaßlichen Einschleppung der Seuche in den Seuchenbestand bis zu ihrer amtlichen Feststellung gewonnen worden sind,
 
 2.  
 tierischen Nebenprodukten und Futtermitteln, die in der Zeit von der mutmaßlichen Einschleppung der Seuche in den Seuchenbestand bis zu ihrer amtlichen Feststellung aus dem Seuchenbestand verbracht worden sind.
@@ -925,23 +1017,37 @@ Sie unterrichtet die für den Ort des Verbleibs der Vögel, Erzeugnisse oder son
 die gehaltenen Vögel
 
 a)  
-in geschlossenen Ställen oder unter einer Schutzvorrichtung gehalten werden,
+in geschlossenen Ställen oder unter einer Schutzvorrichtung gehalten werden und
 
 b)  
-in einen anderen Bestand im Inland oder zur Schlachtung nur verbracht werden, soweit eine mindestens wöchentliche klinische tierärztliche Untersuchung mit negativem Ergebnis auf Geflügelpest durchgeführt worden ist, die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.4 des Anhangs der Entscheidung 2006/437/EG durchgeführt und die dort vorgeschriebenen virologischen Untersuchungen in einer von der zuständigen Behörde bezeichneten Untersuchungseinrichtung vorgenommen werden,
+mindestens wöchentlich klinisch tierärztlich mit negativem Ergebnis auf Geflügelpest untersucht werden und
+
+1a.  
+die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.4 des Anhangs der Entscheidung 2006/437/EG durchgeführt und die dort vorgeschriebenen virologischen Untersuchungen in einer von der zuständigen Behörde bezeichneten Untersuchungseinrichtung vorgenommen werden,
 
 2.  
 Eier unmittelbar in einen Verarbeitungsbetrieb für Eiprodukte nach Anhang III Abschnitt X Kapitel II der Verordnung (EG) Nr. 853/2004 verbracht werden und die Eier dort nach Maßgabe des Anhangs II Kapitel XI der Verordnung (EG) Nr. 852/2004 behandelt werden.
 
-Satz 1 Nummer 1 Buchstabe b gilt für das Verbringen in einen anderen Mitgliedstaat entsprechend, soweit die für den Bestimmungsort zuständige Behörde dem Verbringen zugestimmt hat.
+(2a) Ist eine Genehmigung nach Absatz 1 erteilt worden, dürfen die gehaltenen Vögel
+
+1.  
+in einen anderen Bestand im Inland oder in einen anderen Mitgliedstaat nur verbracht werden, wenn die für den Bestimmungsort zuständige Behörde,
+
+2.  
+zur Schlachtung nur verbracht werden, wenn die für die Schlachtstätte zuständige Behörde
+
+dem Versand der gehaltenen Vögel zugestimmt hat.
 
 (3) Die zuständige Behörde kann, soweit dies zur Erkennung der Einschleppung oder Verschleppung des hochpathogenen aviären Influenzavirus erforderlich ist, anordnen, dass
 
 1.  
-die gehaltenen Vögel serologisch auf Antikörper gegen das hochpathogene aviäre Influenzavirus zu untersuchen sind und das Ergebnis der Untersuchung der zuständigen Behörde mitzuteilen ist,
+die gehaltenen Vögel serologisch auf Antikörper gegen das aviäre Influenzavirus zu untersuchen sind und das Ergebnis der Untersuchung der zuständigen Behörde mitzuteilen ist,
 
 2.  
-weitere Tiere eines Bestands zu untersuchen sind.
+weitere Tiere eines Bestands zu untersuchen sind,
+
+3.  
+die virologischen Untersuchungen nach Absatz 2 Nummer 1a in einem kürzeren als dem in Kapitel IV Nummer 8.4 Buchstabe c des Anhangs der Entscheidung 2006/437/EG genannten Untersuchungsabstand durchgeführt werden.
 
 Im Falle einer Anordnung nach Satz 1 Nummer 1 sind die Untersuchungen jeweils an Proben von 15 Vögeln je Bestand durchzuführen. Werden weniger als 15 Vögel gehalten, sind die jeweils vorhandenen Vögel zu untersuchen.
 
@@ -953,16 +1059,7 @@ Im Falle einer Anordnung nach Satz 1 Nummer 1 sind die Untersuchungen jeweils an
 
 (1) Ist Geflügelpest bei einem gehaltenen Vogel amtlich festgestellt, so legt die zuständige Behörde ein Gebiet um den Seuchenbestand mit einem Radius von mindestens drei Kilometern als Sperrbezirk fest. Bei der Gebietsfestlegung berücksichtigt sie die Strukturen des Handels und der örtlichen Gegebenheiten, natürliche Grenzen, epidemiologische Erkenntnisse, ökologische Gegebenheiten, Überwachungsmöglichkeiten sowie das Vorhandensein von Schlachtstätten und Verarbeitungsbetrieben für Material der Kategorie 1 und 2 nach Artikel 24 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (ABl. L 300 vom 14.11.2009, S. 1) in der jeweils geltenden Fassung.
 
-(2) Wer im Sperrbezirk Geflügel hält, hat das Geflügel in geschlossenen Ställen oder unter einer Schutzvorrichtung zu halten. Die zuständige Behörde kann Ausnahmen von Satz 1 genehmigen, soweit
-
-1.  
-eine Aufstallung wegen der bestehenden Haltungsverhältnisse nicht möglich ist,
-
-2.  
-sichergestellt ist, dass der Kontakt zu Wildvögeln auf andere Weise wirksam unterbunden wird, und
-
-3.  
-sonstige Belange der Tierseuchenbekämpfung nicht entgegenstehen.
+(2) Wer im Sperrbezirk Geflügel oder in Gefangenschaft gehaltene Vögel anderer Arten hält, hat das Geflügel und die in Gefangenschaft gehaltenen Vögel anderer Arten in geschlossenen Ställen oder unter einer Schutzvorrichtung zu halten. Für die Genehmigung von Ausnahmen gilt § 13 Absatz 1 Satz 2 und 3 und Absatz 3 entsprechend.
 
 (3) Abweichend von Absatz 1 kann die zuständige Behörde auf der Grundlage einer von ihr durchgeführten Risikobewertung von der Einrichtung eines Sperrbezirks absehen, soweit
 
@@ -994,7 +1091,10 @@ durch,
 kann für die im Sperrbezirk gelegenen Bestände serologische oder virologische Untersuchungen anordnen,
 
 4.  
-kann unter Berücksichtigung des Anhangs IV der Richtlinie 2005/94/EG die Tötung und unschädliche Beseitigung im Sperrbezirk gehaltener Vögel anordnen, soweit dies aus Gründen der Tierseuchenbekämpfung, insbesondere zur unverzüglichen Beseitigung eines Infektionsherdes, erforderlich ist.
+kann unter Berücksichtigung des Anhangs IV der Richtlinie 2005/94/EG die Tötung und unschädliche Beseitigung im Sperrbezirk gehaltener Vögel anordnen, soweit dies aus Gründen der Tierseuchenbekämpfung, insbesondere zur unverzüglichen Beseitigung eines Infektionsherdes, erforderlich ist,
+
+5.  
+kann die Jagd auf Federwild untersagen, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
 Im Falle einer Anordnung nach Satz 1 Nummer 4 gilt § 20 entsprechend. Zum Zwecke der Mitteilung an die Kommission teilt die zuständige Behörde dem Bundesministerium die nach Satz 1 Nummer 4 getroffenen Maßnahmen mit.
 
@@ -1011,10 +1111,10 @@ sowie jede Änderung anzuzeigen.
 (6) Außerdem gilt, vorbehaltlich der §§ 22 bis 25, für den Sperrbezirk Folgendes:
 
 1.  
-gehaltene Vögel, Säugetiere, Fleisch von Geflügel und Federwild, Eier sowie von Geflügel und Federwild stammende sonstige Erzeugnisse und tierische Nebenprodukte dürfen weder in einen noch aus einem Bestand, Futtermittel dürfen nicht aus einem Bestand verbracht werden;
+gehaltene Vögel, Säugetiere, Fleisch von Geflügel und Federwild, Eier sowie von Geflügel und Federwild stammende sonstige Erzeugnisse und tierische Nebenprodukte dürfen weder in einen noch aus einem Bestand mit gehaltenen Vögeln, Futtermittel dürfen nicht aus einem solchen Bestand verbracht werden;
 
 2.  
-§ 6 findet unabhängig von der Größe eines Bestands oder einer sonstigen Vogelhaltung Anwendung;
+§ 6 Absatz 1 findet unabhängig von der Größe eines Bestands oder einer sonstigen Vogelhaltung Anwendung;
 
 3.  
 die Beförderung von frischem Fleisch von Geflügel aus einer Schlachtstätte, einem Zerlegebetrieb oder einem Kühlhaus ist verboten;
@@ -1039,7 +1139,13 @@ das frische Fleisch von Geflügel außerhalb des Sperrbezirks gewonnen und von f
 2.  
 das frische Fleisch von Geflügel vor dem 21. Tag der mutmaßlichen Einschleppung des hochpathogenen aviären Influenzavirus in den Seuchenbestand gewonnen und von frischem Fleisch getrennt gelagert und befördert worden ist, das nach diesem Zeitpunkt gewonnen worden ist.
 
-Ferner gilt Satz 1 Nummer 5 nicht für die Beförderung im Durchgangsverkehr auf Bundesfernstraßen oder Schienenverbindungen, soweit das Fahrzeug nicht anhält und Geflügel oder frisches Fleisch von Geflügel nicht entladen wird.
+Ferner gilt Satz 1 Nummer 5 nicht
+
+1.  
+für die Beförderung im Durchgangsverkehr auf Bundesfernstraßen oder Schienenverbindungen, soweit das Fahrzeug nicht anhält und Geflügel oder frisches Fleisch von Geflügel nicht entladen wird, und
+
+2.  
+für die sonstige Beförderung von Konsumeiern, die außerhalb des Sperrbezirks erzeugt worden sind.
 
 ### § 22 Ausnahmen von der Sperrbezirksregelung für gehaltene Vögel
 
@@ -1052,10 +1158,16 @@ die zuständige Behörde innerhalb von 24 Stunden vor dem Versand zur Schlachtun
 sichergestellt ist, dass
 
 a)  
-die für die bezeichnete Schlachtstätte zuständige Behörde spätestens 24 Stunden vor dem Versand des Geflügels über den Versand unterrichtet wird und die für die bezeichnete Schlachtstätte zuständige Behörde die für die Geflügelhaltung zuständige Behörde unverzüglich über die durchgeführte Schlachtung unterrichtet,
+die für die bezeichnete Schlachtstätte zuständige Behörde
+
+aa)  
+dem Versand des Geflügels zugestimmt hat und
+
+bb)  
+die für die Geflügelhaltung zuständige Behörde unverzüglich über die durchgeführte Schlachtung unterrichtet,
 
 b)  
-das Geflügel in einem verplombten Transportfahrzeug befördert wird,
+das Geflügel in einem verplombten Transportfahrzeug oder unter amtlicher Überwachung befördert wird,
 
 c)  
 das Geflügel am Ende des Schlachttages geschlachtet wird und die zur Schlachtung benutzten Gegenstände anschließend unverzüglich gereinigt und desinfiziert werden,
@@ -1064,7 +1176,7 @@ d)
 der amtliche Tierarzt eine Schlachttier- und Fleischuntersuchung durchführt,
 
 e)  
-das frische Fleisch mit einem Genusstauglichkeitskennzeichen nach Anhang II der Richtlinie 2002/99/EG des Rates vom 16. Dezember 2002 zur Festlegung von tierseuchenrechtlichen Vorschriften für das Herstellen, die Verarbeitung, den Vertrieb und die Einfuhr von Lebensmitteln tierischen Ursprungs (ABl. EG 2003 Nr. L 18 S. 11) in der jeweils geltenden Fassung versehen wird und das frische Fleisch nicht innergemeinschaftlich oder in Drittländer verbracht wird und
+das frische Fleisch mit einem Genusstauglichkeitskennzeichen nach Anhang II der Richtlinie 2002/99/EG des Rates vom 16. Dezember 2002 zur Festlegung von tierseuchenrechtlichen Vorschriften für das Herstellen, die Verarbeitung, den Vertrieb und die Einfuhr von Lebensmitteln tierischen Ursprungs (ABl. EG 2003 Nr. L 18 S. 11) in der jeweils geltenden Fassung oder mit einem alternativen Kennzeichen nach der Entscheidung 2007/118/EG der Kommission vom 16. Februar 2007 zur Festlegung von Einzelvorschriften für ein alternatives Identitätskennzeichen gemäß der Richtlinie 2002/99/EG des Rates (ABl. L 51 vom 20.2.2007, S. 19) in der jeweils geltenden Fassung versehen wird und das frische Fleisch nicht innergemeinschaftlich oder in Drittländer verbracht wird und
 
 f)  
 das frische Fleisch getrennt von frischem Fleisch, das für andere Mitgliedstaaten oder Drittländer bestimmt ist, gewonnen, zubereitet, gelagert und befördert wird und nicht für Fleischzubereitungen verwendet wird, die für andere Mitgliedstaaten oder Drittländer bestimmt sind, es sei denn, das frische Fleisch wurde nach Maßgabe des Anhangs III der Richtlinie 2002/99/EG behandelt.
@@ -1077,7 +1189,13 @@ Die zuständige Behörde kann anordnen, dass Untersuchungen des zur Schlachtung 
 das gewonnene frische Fleisch unverzüglich nach außerhalb des Sperrbezirks befördert wird,
 
 2.  
-die für die bezeichnete Schlachtstätte zuständige Behörde spätestens 24 Stunden vor dem Versand des Geflügels über den Versand unterrichtet wird und die für die bezeichnete Schlachtstätte zuständige Behörde die für die Geflügelhaltung zuständige Behörde unverzüglich über die durchgeführte Schlachtung unterrichtet,
+die für die bezeichnete Schlachtstätte zuständige Behörde
+
+a)  
+dem Versand des Geflügels zugestimmt hat und
+
+b)  
+die für die Geflügelhaltung zuständige Behörde unverzüglich über die durchgeführte Schlachtung unterrichtet,
 
 3.  
 das von außerhalb des Sperrbezirks stammende Geflügel getrennt von Geflügel aus dem Sperrbezirk gehalten und geschlachtet wird,
@@ -1088,36 +1206,48 @@ das frische Fleisch getrennt von frischem Fleisch von Geflügel aus dem Sperrbez
 5.  
 die tierischen Nebenprodukte des nach Nummer 3 geschlachteten Geflügels unverzüglich unschädlich beseitigt werden.
 
-(3) Die zuständige Behörde kann Ausnahmen von § 21 Absatz 6 Satz 1 Nummer 1 für das Verbringen von Legehennen aus einem Bestand im Sperrbezirk in einen Bestand im Inland genehmigen, soweit
+(3) Die zuständige Behörde kann Ausnahmen von § 21 Absatz 6 Satz 1 Nummer 1 für das Verbringen von Legehennen und Truthühnern aus einem Bestand im Sperrbezirk in einen Bestand im Inland genehmigen, soweit
 
 1.  
-die Legehennen des Bestands von der zuständigen Behörde klinisch mit negativem Ergebnis auf Geflügelpest untersucht worden sind,
+die Legehennen und Truthühner des Bestands innerhalb von 24 Stunden vor dem Versand von der zuständigen Behörde klinisch mit negativem Ergebnis auf Geflügelpest untersucht worden sind,
 
 2.  
-die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.9 des Anhangs der Entscheidung 2006/437/EG durchgeführt worden sind und
+die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.9 des Anhangs der Entscheidung 2006/437/EG durchgeführt worden sind,
 
 3.  
+die für den Herkunftsbestand zuständige Behörde die für den Bestimmungsbestand zuständige Behörde über den Versand unterrichtet hat und
+
+4.  
 sichergestellt ist, dass
 
 a)  
-die Legehennen in einem von der zuständigen Behörde verplombten Transportfahrzeug befördert werden,
+die Legehennen oder Truthühner in einem von der zuständigen Behörde verplombten Transportfahrzeug oder unter amtlicher Überwachung befördert werden,
 
 b)  
-der Bestimmungsbestand amtlich überwacht wird und
+sich in dem Stall des Bestimmungsbestandes, in den die Legehennen oder Truthühner verbracht werden sollen, kein Geflügel befindet,
 
 c)  
-die Legehennen für den Fall, dass der Bestimmungsbestand außerhalb des Sperrbezirks oder Beobachtungsgebiets gelegen ist, mindestens 21 Tage in diesem Bestand verbleiben.
+der Bestimmungsbestand amtlich überwacht wird und,
 
-(4) Die zuständige Behörde kann Ausnahmen von § 21 Absatz 6 Satz 1 Nummer 1 für das Verbringen von Eintagsküken aus einem Bestand im Sperrbezirk in einen Bestand im Inland genehmigen, soweit sichergestellt ist, dass
+d)  
+für den Fall, dass der Bestimmungsbestand außerhalb eines Sperrbezirks oder Beobachtungsgebiets gelegen ist, der Tierhalter des Bestimmungsbestandes die Legehennen oder Truthühner mindestens 21 Tage in diesem Bestand hält.
+
+(4) Die zuständige Behörde kann Ausnahmen von § 21 Absatz 6 Satz 1 Nummer 1 für das Verbringen von Eintagsküken aus einem Bestand im Sperrbezirk in einen Bestand im Inland genehmigen, soweit
 
 1.  
-die Eintagsküken in einem von der zuständigen Behörde verplombten Transportfahrzeug befördert werden,
+die für den Herkunftsbestand zuständige Behörde die für den Bestimmungsbestand zuständige Behörde über den Versand unterrichtet hat und
 
 2.  
-der Bestimmungsbestand amtlich überwacht wird und
+sichergestellt ist, dass
 
-3.  
-die Eintagsküken für den Fall, dass der Bestimmungsbestand außerhalb des Sperrbezirks oder Beobachtungsgebiets gelegen ist, mindestens 21 Tage in diesem Bestand verbleiben.
+a)  
+die Eintagsküken in einem von der zuständigen Behörde verplombten Transportfahrzeug oder unter amtlicher Überwachung befördert werden,
+
+b)  
+der Bestimmungsbestand amtlich überwacht wird und,
+
+c)  
+für den Fall, dass der Bestimmungsbestand außerhalb eines Sperrbezirks oder Beobachtungsgebiets gelegen ist, der Tierhalter des Bestimmungsbestandes die Eintagsküken mindestens 21 Tage in diesem Bestand hält.
 
 (5) Die zuständige Behörde kann ferner Ausnahmen von § 21 Absatz 6 Satz 1 Nummer 1 für das Verbringen von Eintagsküken genehmigen, die aus Bruteiern geschlüpft sind, die von außerhalb des Sperrbezirks stammen, in einen Bestand im Inland, soweit sichergestellt ist, dass die Bruteier oder Eintagsküken von außerhalb des Sperrbezirks in der Brüterei nicht mit Bruteiern oder Eintagsküken aus dem Sperrbezirk in Kontakt gekommen sind.
 
@@ -1134,9 +1264,12 @@ aus einem Bestand im Inland in eine von der zuständigen Behörde bezeichnete Br
 aus einem Bestand im Sperrbezirk in eine von der zuständigen Behörde bezeichnete Brüterei im Inland, soweit
 
 a)  
-im Elterntierbestand, aus dem die Bruteier stammen, die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.10 des Anhangs der Entscheidung 2006/437/EG durchgeführt worden sind und
+im Elterntierbestand, aus dem die Bruteier stammen, die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.10 des Anhangs der Entscheidung 2006/437/EG durchgeführt worden sind,
 
 b)  
+die für den Elterntierbestand zuständige Behörde die für die Bestimmungsbrüterei zuständige Behörde über den Versand unterrichtet hat und
+
+c)  
 sichergestellt ist, dass
 
 aa)  
@@ -1146,7 +1279,7 @@ bb)
 die Rückverfolgbarkeit der Bruteier gewährleistet ist,
 
 cc)  
-die Bruteier in einem von der zuständigen Behörde verplombten Transportfahrzeug befördert werden und
+die Bruteier in einem von der zuständigen Behörde verplombten Transportfahrzeug oder unter amtlicher Überwachung befördert werden und
 
 dd)  
 die Brüterei amtlich überwacht wird.
@@ -1164,7 +1297,7 @@ zur Verarbeitung in einen Verarbeitungsbetrieb für Material der Kategorie 1 ode
 
 ### § 24 Ausnahmen von der Sperrbezirksregelung für Fleisch von Geflügel und Federwild
 
-(1) Die zuständige Behörde kann Ausnahmen von § 21 Absatz 6 Satz 1 Nummer 1 für das Verbringen von frischem Fleisch von Geflügel und Federwild sowie von aus diesem Fleisch hergestelltem Hackfleisch, Separatorenfleisch, Fleischzubereitungen und Fleischerzeugnissen genehmigen, soweit das Fleisch, das Hackfleisch, das Separatorenfleisch, die Fleischzubereitungen oder die Fleischerzeugnisse mit einem Genusstauglichkeitskennzeichen nach Maßgabe des Anhangs II der Richtlinie 2002/99/EG oder nach Artikel 4 der Verordnung (EG) Nr. 2076/2005 der Kommission vom 5. Dezember 2005 zur Festlegung von Übergangsregelungen für die Durchführung der Verordnungen (EG) Nr. 853/2004, (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates sowie zur Änderung der Verordnungen (EG) Nr. 853/2004 und (EG) Nr. 854/2004 (ABl. EU Nr. L 338 S. 83) in der jeweils geltenden Fassung versehen worden ist oder sind.
+(1) Die zuständige Behörde kann Ausnahmen von § 21 Absatz 6 Satz 1 Nummer 1 für das Verbringen von frischem Fleisch von Geflügel und Federwild sowie von aus diesem Fleisch hergestelltem Hackfleisch, Separatorenfleisch, Fleischzubereitungen und Fleischerzeugnissen genehmigen, soweit das Fleisch, das Hackfleisch, das Separatorenfleisch, die Fleischzubereitungen oder die Fleischerzeugnisse mit einem Genusstauglichkeitskennzeichen nach Maßgabe des Anhangs II der Richtlinie 2002/99/EG versehen worden ist oder sind.
 
 (2) Die zuständige Behörde kann ferner Ausnahmen von § 21 Absatz 6 Satz 1 Nummer 1 genehmigen für das Verbringen von
 
@@ -1219,14 +1352,14 @@ in einen Betrieb im Inland, soweit die tierischen Nebenprodukte im Rahmen der Sc
 5.  
 Gülle oder Einstreu zur Behandlung in eine Biogas- oder Kompostierungsanlage nach Artikel 24 Absatz 1 Buchstabe g der Verordnung (EG) Nr. 1069/2009
 
-verbracht werden. Federn oder Federteile nach Satz 1 Nummer 2 und Federn oder Federteile nach Satz 1 Nummer 3 müssen beim Verbringen von einem Handelspapier nach Anhang VIII Kapitel III der Verordnung (EU) Nr. 142/2011 begleitet sein, aus dem im Hinblick auf Federn oder Federteile nach Satz 1 Nummer 3 unter der Nummer 6.1 hervorgeht, dass diese einer Dampfspannung ausgesetzt oder nach einem anderen Verfahren behandelt worden sind, das die Abtötung von Krankheitserregern gewährleistet. Satz 2 gilt nicht für behandelte Zierfedern, behandelte Federn, die von Reisenden zum eigenen Gebrauch im persönlichen Reisegepäck mitgeführt werden, oder behandelte Federn, die Privatpersonen zu nicht gewerblichen Zwecken zugesandt werden.
+verbracht werden. Federn oder Federteile nach Satz 1 Nummer 2 und Federn oder Federteile nach Satz 1 Nummer 3 müssen beim Verbringen von einem Handelspapier nach Anhang VIII Kapitel III der Verordnung (EU) Nr. 142/2011 begleitet sein, aus dem im Hinblick auf Federn oder Federteile nach Satz 1 Nummer 3 hervorgeht, dass diese einer Dampfspannung ausgesetzt oder nach einem anderen Verfahren behandelt worden sind, das die Abtötung von Krankheitserregern gewährleistet. Satz 2 gilt nicht für behandelte Zierfedern, behandelte Federn, die von Reisenden zum eigenen Gebrauch im persönlichen Reisegepäck mitgeführt werden, oder behandelte Federn, die Privatpersonen zu nicht gewerblichen Zwecken zugesandt werden.
 
 ### § 26 Reinigung und Desinfektion von Transportfahrzeugen
 
 Transportfahrzeuge, mit denen
 
 1.  
-gehaltene Vögel nach § 22 Absatz 1 Satz 1 Nummer 2 Buchstabe b, Absatz 3 Nummer 3 Buchstabe a oder Absatz 4 Nummer 1 oder Bruteier nach § 23 Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe cc befördert worden ist oder sind,
+gehaltene Vögel nach § 22 Absatz 1 Satz 1 Nummer 2 Buchstabe b, Absatz 3 Nummer 3 Buchstabe a oder Absatz 4 Nummer 1 oder Bruteier nach § 23 Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe cc befördert worden sind,
 
 2.  
 Fleisch von Geflügel und Federwild sowie von aus diesem Fleisch hergestelltes Hackfleisch, Separatorenfleisch, Fleischzubereitungen oder Fleischerzeugnisse nach § 24 Absatz 1 oder frisches Fleisch nach § 24 Absatz 2 Nummer 1 oder tierische Nebenprodukte nach § 25 Satz 1 verbracht worden ist oder sind,
@@ -1239,7 +1372,7 @@ sind unverzüglich nach jeder Beförderung nach näherer Anweisung der zuständi
 
 (2) Die zuständige Behörde bringt an den Hauptzufahrtswegen zu dem Beobachtungsgebiet Schilder mit der deutlichen und haltbaren Aufschrift „Geflügelpest – Beobachtungsgebiet“ gut sichtbar an.
 
-(3) § 21 Absatz 2, 3, 4 Nummer 2 Buchstabe a, Nummer 3 und 4 und Absatz 5 gilt entsprechend.
+(3) § 21 Absatz 3, 4 Satz 1 Nummer 2 Buchstabe a, Nummer 3, 4 und 5 und Absatz 5 gilt entsprechend.
 
 (4) Außerdem gilt, vorbehaltlich der §§ 28 und 29, für das Beobachtungsgebiet Folgendes:
 
@@ -1247,7 +1380,7 @@ sind unverzüglich nach jeder Beförderung nach näherer Anweisung der zuständi
 gehaltene Vögel, frisches Fleisch von Geflügel und Federwild, Eier sowie von Geflügel und Federwild stammende sonstige Erzeugnisse sowie tierische Nebenprodukte von Geflügel dürfen weder in einen noch aus einem Bestand verbracht werden;
 
 2.  
-§ 6 Nummer 2 und 3 findet unabhängig von der Größe eines Bestands oder einer sonstigen Vogelhaltung Anwendung;
+§ 6 Absatz 1 Nummer 2 und 3 findet unabhängig von der Größe eines Bestands oder einer sonstigen Vogelhaltung Anwendung;
 
 3.  
 gehaltene Vögel zur Aufstockung des Wildvogelbestands dürfen nicht frei gelassen werden;
@@ -1257,6 +1390,8 @@ die Durchführung von Geflügelausstellungen, Geflügelmärkten oder Veranstaltu
 
 5.  
 Transportfahrzeuge und Behälter, mit denen gehaltene Vögel, frisches Fleisch von Geflügel, tierische Nebenprodukte von Geflügel, Futtermittel oder sonstige Materialien, die Träger des hochpathogenen aviären Influenzavirus sein können, befördert worden sind, sowie Fahrzeuge, mit denen ein Bestand mit gehaltenen Vögeln befahren worden ist, sind unverzüglich nach jeder Beförderung nach näherer Anweisung der zuständigen Behörde zu reinigen und zu desinfizieren.
+
+(5) Die zuständige Behörde kann Maßnahmen nach § 21 Absatz 2 anordnen, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
 ### § 28 Ausnahmen von der Beobachtungsgebietsregelung
 
@@ -1277,25 +1412,51 @@ aa)
 das Geflügel in eine Schlachtstätte in dem Beobachtungsgebiet oder in eine von der zuständigen Behörde bezeichnete Schlachtstätte außerhalb des Beobachtungsgebiets verbracht wird und
 
 bb)  
-die für die bezeichnete Schlachtstätte zuständige Behörde spätestens 24 Stunden vor dem Versand des Geflügels über den Versand unterrichtet wird und die für die bezeichnete Schlachtstätte zuständige Behörde die für die Geflügelhaltung zuständige Behörde unverzüglich über die durchgeführte Schlachtung unterrichtet,
+die für die bezeichnete Schlachtstätte zuständige Behörde
+
+aaa)  
+dem Versand des Geflügels zugestimmt hat und
+
+bbb)  
+die für die Geflügelhaltung zuständige Behörde unverzüglich über die durchgeführte Schlachtung unterrichtet,
 
 2.  
-Legehennen, soweit sichergestellt ist, dass die Legehennen in einen Bestand im Inland verbracht werden, in dem kein anderes Geflügel gehalten wird und
+Legehennen oder Truthühnern in einen Bestand im Inland, soweit
 
 a)  
-der Bestimmungsbestand amtlich überwacht wird und
+die für den Herkunftsbestand zuständige Behörde die für den Bestimmungsbestand zuständige Behörde über den Versand unterrichtet hat und
 
 b)  
-die Legehennen für den Fall, dass der Bestimmungsbestand außerhalb des Sperrbezirks oder des Beobachtungsgebiets gelegen ist, mindestens 21 Tage in diesem Bestand verbleiben,
+sichergestellt ist, dass
+
+aa)  
+die Legehennen oder Truthühner innerhalb von 24 Stunden vor dem Versand von der zuständigen Behörde klinisch mit negativem Ergebnis auf Geflügelpest untersucht werden,
+
+bb)  
+sich in dem Stall des Bestimmungsbestandes, in den die Legehennen oder Truthühner verbracht werden sollen, kein Geflügel befindet,
+
+cc)  
+der Bestimmungsbestand amtlich überwacht wird und,
+
+dd)  
+für den Fall, dass der Bestimmungsbestand außerhalb eines Sperrbezirks oder Beobachtungsgebiets gelegen ist, der Tierhalter des Bestimmungsbestandes die Legehennen oder Truthühner mindestens 21 Tage in diesem Bestand hält,
 
 3.  
-Eintagsküken, soweit sichergestellt ist, dass die Eintagsküken
+Eintagsküken
 
 a)  
-aus einem Bestand im Beobachtungsgebiet in einen Bestand im Inland verbracht werden, der Bestimmungsbestand amtlich überwacht wird und die Eintagsküken für den Fall, dass der Bestimmungsbestand außerhalb des Sperrbezirks oder des Beobachtungsgebiets gelegen ist, mindestens 21 Tage in diesem Bestand verbleiben oder
+in einen Bestand im Inland, soweit
+
+aa)  
+die für den Herkunftsbestand zuständige Behörde die für den Bestimmungsbestand zuständige Behörde über den Versand unterrichtet hat und
+
+bb)  
+sichergestellt ist, dass der Bestimmungsbestand amtlich überwacht wird und, für den Fall, dass der Bestimmungsbestand außerhalb eines Sperrbezirks oder Beobachtungsgebiets gelegen ist, der Tierhalter des Bestimmungsbestandes die Eintagsküken mindestens 21 Tage in diesem Bestand hält,
+
+oder
 
 b)  
-aus Bruteiern geschlüpft sind, die von außerhalb des Sperrbezirks oder des Beobachtungsgebiets stammen, und die Eintagsküken oder Bruteier nicht mit Eintagsküken oder Bruteiern aus dem Sperrbezirk oder dem Beobachtungsgebiet in Berührung gekommen sind,
+in einen Bestand im Inland oder in einen anderen Mitgliedstaat, wenn die Eintagsküken aus Bruteiern geschlüpft sind, die von außerhalb des Sperrbezirks oder des Beobachtungsgebiets stammen, und die Eintagsküken oder Bruteier nicht mit Eintagsküken oder Bruteiern aus dem Sperrbezirk oder dem Beobachtungsgebiet in Berührung gekommen sind,
 
 4.  
 in Gefangenschaft gehaltenen Vögeln anderer Arten, soweit sichergestellt ist, dass diese Vögel nicht mit im Bestand gehaltenem Geflügel in Kontakt gekommen sind.
@@ -1305,16 +1466,30 @@ in Gefangenschaft gehaltenen Vögeln anderer Arten, soweit sichergestellt ist, d
 (1) Die zuständige Behörde kann Ausnahmen von § 27 Absatz 4 Nummer 1 genehmigen für das Verbringen von
 
 1.  
-Bruteiern, soweit sichergestellt ist, dass die Bruteier
+Bruteiern, soweit
 
 a)  
-innerhalb des Beobachtungsgebiets unter amtlicher Überwachung und in eine von der zuständigen Behörde bezeichnete Brüterei im Inland verbracht werden,
+sichergestellt ist, dass
+
+aa)  
+die Bruteier
+
+aaa)  
+in eine von der zuständigen Behörde bezeichnete Brüterei verbracht,
+
+bbb)  
+vor dem Verbringen desinfiziert und
+
+ccc)  
+in einem verplombten Transportfahrzeug oder unter amtlicher Überwachung befördert
+
+werden,
+
+bb)  
+die Rückverfolgbarkeit der Bruteier gewährleistet ist und
 
 b)  
-vor dem Verbringen desinfiziert werden und
-
-c)  
-die Rückverfolgbarkeit der Bruteier gewährleistet ist,
+die für den Elterntierbestand zuständige Behörde die für den Bestimmungsort zuständige Behörde über den Versand unterrichtet hat,
 
 2.  
 Konsumeiern, soweit sichergestellt ist, dass die Konsumeier
@@ -1399,7 +1574,7 @@ in einen Geflügelbestand oder eine sonstige Vogelhaltung nicht verbracht werden
 aus einem Bestand in der Kontrollzone unmittelbar zur Schlachtung in eine von der zuständigen Behörde bezeichnete Schlachtstätte,
 
 2.  
-aus einem Bestand in der Kontrollzone in einen Bestand im Inland, der amtlich überwacht wird, und soweit sichergestellt ist, dass die gehaltenen Vögel mindestens 21 Tage in diesem Bestand verbleiben,
+aus einem Bestand in der Kontrollzone in einen Bestand im Inland, der amtlich überwacht wird, und soweit sichergestellt ist, dass der Tierhalter des Bestimmungsbestandes die gehaltenen Vögel mindestens 21 Tage in diesem Bestand hält,
 
 3.  
 von außerhalb der Kontrollzone unmittelbar zur Schlachtung in eine von der zuständigen Behörde bezeichnete Schlachtstätte,
@@ -1421,7 +1596,7 @@ in der Kontrollzone, soweit sichergestellt ist, dass die Bruteier von außerhalb
 4.  
 von außerhalb der Kontrollzone zur Wiederaufstallung in einen Geflügelbestand.
 
-(3) In den Fällen des Absatzes 2 Nummer 2 und 3 muss die Gesundheitsbescheinigung nach dem Muster 1 des Anhangs IV der Richtlinie 90/539/EWG des Rates vom 15. Oktober 1990 über die tierseuchenrechtlichen Bedingungen für den innergemeinschaftlichen Handel mit Geflügel und Bruteiern und für ihre Einfuhr aus Drittländern (ABl. EG Nr. L 303 S. 6) in der jeweils geltenden Fassung, die Sendungen von Eintagsküken beim Verbringen in andere Mitgliedstaaten begleitet, folgenden Vermerk enthalten: „Die Sendung erfüllt die Hygienebestimmungen der Entscheidung 2006/415/EG der Kommission.“
+(3) In den Fällen des Absatzes 2 Nummer 2 und 3 muss, soweit bei einem gehaltenen Vogel hochpathogenes aviäres Influenzavirus des Subtyps H5N1 amtlich festgestellt worden ist, die Gesundheitsbescheinigung nach dem Muster 2 des Anhangs IV der Richtlinie 2009/158/EG des Rates vom 30. November 2009 über die tierseuchenrechtlichen Bedingungen für den innergemeinschaftlichen Handel mit Geflügel und Bruteiern sowie für ihre Einfuhr aus Drittländern (ABl. L 343 vom 22.12.2009, S. 74) in der jeweils geltenden Fassung, die Sendungen von Eintagsküken beim Verbringen in andere Mitgliedstaaten begleitet, folgenden Vermerk enthalten: „Diese Sendung erfüllt die Hygienebedingungen der Entscheidung 2006/415/EG der Kommission“.
 
 ### § 32 Weitere Ausnahmen von der Kontrollzonenregelung
 
@@ -1439,13 +1614,21 @@ die zuständige Behörde des Mitgliedstaates oder des Drittlandes zugestimmt hat
 b)  
 die Bruteier in einem Bestand erzeugt worden sind, in dem serologische Stichprobenuntersuchungen des Geflügels durchgeführt worden sind, um mit einer Wahrscheinlichkeit von 95 vom Hundert und einer angenommenen Rate von 5 vom Hundert von Geflügelpest befallene Tiere zu erkennen und die Rückverfolgbarkeit der Bruteier sichergestellt ist.
 
-(2) In den Fällen des Absatzes 1 Nummer 2 muss die Gesundheitsbescheinigung nach dem Muster 1 des Anhangs IV der Richtlinie 90/539/EWG, die Sendungen von Bruteiern beim Verbringen in andere Mitgliedstaaten begleitet, folgenden Vermerk enthalten: „Die Sendung erfüllt die Hygienebestimmungen der Entscheidung 2006/415/EG der Kommission.“
+(2) In den Fällen des Absatzes 1 Nummer 2 muss, soweit bei einem gehaltenen Vogel hochpathogenes aviäres Influenzavirus des Subtyps H5N1 amtlich festgestellt worden ist, die Gesundheitsbescheinigung nach dem Muster 1 des Anhangs IV der Richtlinie 2009/158/EG, die Sendungen von Bruteiern beim Verbringen in andere Mitgliedstaaten begleitet, folgenden Vermerk enthalten: „Diese Sendung erfüllt die Hygienebedingungen der Entscheidung 2006/415/EG der Kommission“.
 
 (3) Für das Verbringen von frischem Fleisch von Geflügel und Federwild gilt § 24, für das Verbringen von tierischen Nebenprodukten § 25 entsprechend.
 
 ### § 32a Schutzmaßregeln für Gebiete mit hoher Geflügeldichte
 
-Ist Geflügelpest bei einem gehaltenen Vogel amtlich festgestellt, kann die zuständige Behörde nach Maßgabe der Sätze 2 und 3 anordnen, dass die Geflügelbestände oder sonstigen Vogelhaltungen innerhalb eines bestimmten, an ein Beobachtungsgebiet oder eine Kontrollzone unmittelbar angrenzenden Gebietes mit einem Radius von insgesamt höchstens 25 Kilometern um den Seuchenbestand frühestens 30 Tage nach einer Entfernung des Geflügels aus dem jeweiligen Bestand oder der jeweiligen Vogelhaltung wiederbelegt werden dürfen. Die Anordnung darf nur ergehen,
+Ist Geflügelpest bei einem gehaltenen Vogel amtlich festgestellt, kann die zuständige Behörde nach Maßgabe der Sätze 2 und 3 anordnen, dass die Geflügelbestände oder sonstigen Vogelhaltungen innerhalb eines bestimmten, an ein Beobachtungsgebiet oder eine Kontrollzone unmittelbar angrenzenden Gebietes mit einem Radius von insgesamt höchstens 25 Kilometern um den Seuchenbestand
+
+1.  
+frühestens 30 Tage nach einer Entfernung des Geflügels aus dem jeweiligen Bestand oder der jeweiligen Vogelhaltung oder
+
+2.  
+im Falle leerstehender Gebäude oder Einrichtungen zur Haltung von Vögeln frühestens 30 Tage nach Erlass der Anordnung
+
+wiederbelegt werden dürfen. Die Anordnung darf nur ergehen,
 
 1.  
 für ein Gebiet, in dem mindestens 500 Stück Geflügel pro Quadratkilometer gehalten werden, und
@@ -1484,18 +1667,18 @@ des § 32a Schutzmaßregeln anordnen.
 (2) Für die der behördlichen Beobachtung unterstellten Kontaktbestände
 
 1.  
-ordnet die zuständige Behörde eine klinische Untersuchung an,
+ordnet die zuständige Behörde eine Untersuchung nach Kapitel IV Nummer 8.5 des Anhangs der Entscheidung 2006/437/EG an,
 
 2.  
 kann die zuständige Behörde, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist,
 
 a)  
-eine virologische und serologische Untersuchung,
+unter Berücksichtigung des Anhangs IV der Richtlinie 2005/94/EG die Tötung und unschädliche Beseitigung,
 
 b)  
-unter Berücksichtigung des Anhangs IV der Richtlinie 2005/94/EG die Tötung und unschädliche Beseitigung der gehaltenen Vögel des Bestands
+zusätzlich zu den Untersuchungen nach Nummer 1 eine serologische und virologische Untersuchung
 
-anordnen,
+der gehaltenen Vögel des Bestandes anordnen,
 
 3.  
 gilt § 15 Absatz 2 Satz 1 Nummer 2 bis 8, Satz 2 und Absatz 4 entsprechend.
@@ -1713,9 +1896,9 @@ die Reinigung, Desinfektion und, soweit erforderlich, Entwesung der Schlachtstä
 4.  
 für Bestände, die in der Nähe der Schlachtstätte oder Grenzkontrollstelle liegen, die behördliche Beobachtung
 
-anordnen.
+anordnen. Abweichend von Satz 2 Nummer 3 kann die zuständige Behörde im Fall des Verdachts auf Geflügelpest in einem Flugzeug eine Reinigung, eine Desinfektion und, soweit erforderlich, eine Entwesung des Frachtraumes sowie der benutzten Behältnisse und Gerätschaften anordnen.
 
-(2) Wird bei einem Vogel, der sich in einer Schlachtstätte, einem Transportmittel oder einer Grenzkontrollstelle befindet, Geflügelpest amtlich festgestellt, so ordnet die zuständige Behörde die in Absatz 1 Satz 2 vorgesehenen Maßregeln an.
+(2) Wird bei einem Vogel, der sich in einer Schlachtstätte, einem Transportmittel oder einer Grenzkontrollstelle befindet, Geflügelpest amtlich festgestellt, so ordnet die zuständige Behörde die in Absatz 1 Satz 2 vorgesehenen Maßregeln an. Absatz 1 Satz 3 gilt entsprechend.
 
 (3) Frühestens 24 Stunden nach Abschluss der Maßnahmen nach Absatz 1 Satz 2 Nummer 3, auch in Verbindung mit Absatz 2, dürfen erneut Vögel in die Schlachtstätte, das Transportmittel oder die Grenzkontrollstelle verbracht werden.
 
@@ -1744,7 +1927,7 @@ sich der Verdacht auf Geflügelpest bei gehaltenen Vögeln als unbegründet erwi
 die gehaltenen Vögel des Seuchenbestands verendet oder getötet und unschädlich beseitigt worden sind,
 
 2.  
-in den Fällen des § 20 Absatz 1 Satz 1 bei den gehaltenen Vögeln im Abstand von mindestens 21 Tagen jeweils eine virologische Untersuchung an Proben von jeweils 60 Vögeln je Bestand in einer von der zuständigen Behörde bezeichneten Untersuchungseinrichtung mit negativem Ergebnis auf Influenzavirus durchgeführt worden ist,
+in den Fällen des § 20 Absatz 1 Satz 1 bei den gehaltenen Vögeln zweimal im Abstand von mindestens 21 Tagen, frühestens 21 Tage nach dem letzten Nachweis von hochpathogenem aviärem Influenzavirus, jeweils eine virologische Untersuchung an Proben von jeweils 60 Vögeln je Bestand in einer von der zuständigen Behörde bezeichneten Untersuchungseinrichtung mit negativem Ergebnis auf aviäres Influenzavirus durchgeführt worden ist,
 
 3.  
 eine Grobreinigung und Vordesinfektion des Seuchenbestands nach Maßgabe des Anhangs VI Nummer 2 Buchstabe a der Richtlinie 2005/94/EG sowie eine Feinreinigung und Schlussdesinfektion nach Maßgabe des Anhangs VI Nummer 2 Buchstabe b der Richtlinie 2005/94/EG durchgeführt und von der zuständigen Behörde abgenommen worden sind,
@@ -1764,17 +1947,25 @@ durchgeführt und von ihr abgenommen worden ist,
 eine Entwesung sowie eine Reinigung und Desinfektion der Fahrzeuge, die mit gehaltenen Vögeln im Seuchenbestand in Berührung gekommen sind, nach näherer Anweisung der zuständigen Behörde durchgeführt und von ihr abgenommen worden sind und,
 
 6.  
-im Falle der Nummer 1,
+im Fall der Nummer 1 oder, wenn ein Sperrbezirk oder ein Beobachtungsgebiet eingerichtet worden ist, im Fall der Nummer 2,
 
 a)  
-im Sperrbezirk frühestens 21 Tage nach Abnahme der Grobreinigung und Vordesinfektion nach Nummer 3 die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.11 des Anhangs der Entscheidung 2006/437/EG durchgeführt worden sind,
+im Sperrbezirk nach Abnahme der Grobreinigung und Vordesinfektion nach Nummer 3 die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.11 des Anhangs der Entscheidung 2006/437/EG durchgeführt worden sind, jedoch frühestens 21 Tage nach Abnahme der Grobreinigung und Vordesinfektion,
 
 b)  
-im Beobachtungsgebiet frühestens 30 Tage nach Abnahme der Grobreinigung und Vordesinfektion nach Nummer 3 gehaltene Vögel nach näherer Anweisung der zuständigen Behörde mit negativem Ergebnis auf hochpathogenes aviäres Influenzavirus untersucht worden sind.
+im Beobachtungsgebiet nach Abnahme der Grobreinigung und Vordesinfektion nach Nummer 3 gehaltene Vögel nach näherer Anweisung der zuständigen Behörde mit negativem Ergebnis auf hochpathogenes aviäres Influenzavirus untersucht worden sind, jedoch frühestens 30 Tage nach Abnahme der Grobreinigung und Vordesinfektion.
 
 Die Proben nach Satz 1 Nummer 2 sind mittels eines kombinierten Rachen- und Kloakentupfers zu entnehmen. Werden weniger als 60 Vögel gehalten, sind die jeweils vorhandenen Vögel zu untersuchen.
 
-(3) Nach Ablauf von 21 Tagen nach Festlegung des Sperrbezirks gelten für diesen die Maßregeln nach § 27 Absatz 4 sowie die §§ 28 und 29 entsprechend. Mit der Aufhebung der Maßregeln im Beobachtungsgebiet gelten auch die Maßregeln in der Kontrollzone als aufgehoben.
+(3) Nach Aufhebung des Sperrbezirks gelten für dieses Gebiet die Maßregeln nach § 27 Absatz 4 sowie die §§ 28 und 29 entsprechend, soweit
+
+1.  
+die gehaltenen Vögel des Seuchenbestandes nach Absatz 2 Satz 1 Nummer 1 verendet oder getötet und unschädlich beseitigt worden sind und
+
+2.  
+die Maßnahmen nach Absatz 2 Satz 1 Nummer 2, 3, 5 und 6 Buchstabe a, im Falle der Nummer 2 mit negativem Ergebnis, durchgeführt worden sind.
+
+Mit der Aufhebung der Maßregeln im Beobachtungsgebiet gelten auch die Maßregeln in der Kontrollzone als aufgehoben.
 
 (4) Der Verdacht auf Geflügelpest bei gehaltenen Vögeln gilt als unbegründet, wenn der Verdacht auf Grund einer virologischen Untersuchung nicht bestätigt werden konnte.
 
@@ -1817,10 +2008,16 @@ an und führt epidemiologische Nachforschungen nach § 15 Absatz 1 Satz 3 durch.
 die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.16 des Anhangs der Entscheidung 2006/437/EG durchgeführt worden sind,
 
 2.  
-die für die bezeichnete Schlachtstätte zuständige Behörde spätestens 24 Stunden vor dem Versand des Geflügels über den Versand unterrichtet wird und die für die bezeichnete Schlachtstätte zuständige Behörde die für die Geflügelhaltung zuständige Behörde unverzüglich über die durchgeführte Schlachtung unterrichtet,
+die für die bezeichnete Schlachtstätte zuständige Behörde
+
+a)  
+dem Versand des Geflügels zugestimmt hat und
+
+b)  
+die für die Geflügelhaltung zuständige Behörde unverzüglich über die durchgeführte Schlachtung unterrichtet,
 
 3.  
-das Geflügel in einem verplombten Transportfahrzeug befördert wird,
+das Geflügel in einem verplombten Transportfahrzeug oder unter amtlicher Überwachung befördert wird,
 
 4.  
 das Geflügel am Ende des Schlachttages geschlachtet wird und die zur Schlachtung benutzten Gegenstände anschließend unverzüglich gereinigt und desinfiziert werden,
@@ -1893,27 +2090,17 @@ Die zuständige Behörde kann Ausnahmen nach Satz 1 Nummer 2 Buchstabe a genehmi
 
 ### § 47 Schutzmaßregeln in besonderen Einrichtungen
 
-(1) Die zuständige Behörde kann, vorbehaltlich des Absatzes 2, nach amtlicher Feststellung der niedrigpathogenen aviären Influenza der Subtypen H5 oder H7 in einem Zoologischen Garten oder einer ähnlichen Einrichtung, einem Zirkus, einem Zoofachgeschäft, einer Haltung, in der in Gefangenschaft gehaltene Vögel anderer Arten, Vögel zur Arterhaltung oder zur Erhaltung seltener Rassen nach Anlage 1 oder Vögel zu anderen als zu Erwerbszwecken gehalten werden, oder einer wissenschaftlichen Einrichtung Ausnahmen von § 46 Absatz 1 Nummer 1 und, im Falle von Bruteiern, von § 46 Absatz 1 Nummer 2 genehmigen, soweit die Einrichtung auf Grund ihrer Struktur, ihres Umfangs und ihrer Funktion in Bezug auf die Haltung einschließlich der Betreuung, Fütterung und Entsorgung so vollständig getrennt von anderen gehaltenen Vögeln ist, dass eine Verbreitung des niedrigpathogenen aviären Influenazavirus ausgeschlossen werden kann.
+(1) Die zuständige Behörde kann, vorbehaltlich des Absatzes 2, nach amtlicher Feststellung der niedrigpathogenen aviären Influenza der Subtypen H5 oder H7 in einem zoologischen Garten oder einer ähnlichen Einrichtung, einem Zirkus, einem Zoofachgeschäft, einer Haltung, in der in Gefangenschaft gehaltene Vögel anderer Arten, Vögel zur Arterhaltung oder zur Erhaltung seltener Rassen nach Anlage 1 oder Vögel zu anderen als zu Erwerbszwecken gehalten werden, oder einer wissenschaftlichen Einrichtung Ausnahmen von § 46 Absatz 1 Nummer 1 und, im Falle von Bruteiern, von § 46 Absatz 1 Nummer 2 genehmigen, soweit die Einrichtung auf Grund ihrer Struktur, ihres Umfangs und ihrer Funktion in Bezug auf die Haltung einschließlich der Betreuung, Fütterung und Entsorgung so vollständig getrennt von anderen gehaltenen Vögeln ist, dass eine Verbreitung des niedrigpathogenen aviären Influenzavirus ausgeschlossen werden kann.
 
-(2) Eine Genehmigung nach Absatz 1 darf nur erteilt werden, soweit sichergestellt ist, dass die gehaltenen Vögel
+(2) Eine Genehmigung nach Absatz 1 darf nur erteilt werden, soweit sichergestellt ist, dass
 
 1.  
-in geschlossenen Ställen oder unter einer Schutzvorrichtung gehalten und die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.17 des Anhangs der Entscheidung 2006/437/EG durchgeführt werden oder
+die Anforderungen nach § 20 Absatz 2 Nummer 1 erfüllt werden und
 
 2.  
-in einen anderen Bestand oder in eine Schlachtstätte
+die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.17 des Anhangs der Entscheidung 2006/437/EG durchgeführt und die dort vorgeschriebenen virologischen Untersuchungen in einer von der zuständigen Behörde bezeichneten Untersuchungseinrichtung vorgenommen werden.
 
-a)  
-im Inland verbracht werden und
-
-aa)  
-die für den Bestimmungsort oder, im Falle einer Schlachtung, die für die Schlachtstätte zuständige Behörde spätestens 24 Stunden vor dem Versand der gehaltenen Vögel über den Versand unterrichtet wird und, im Falle einer Schlachtung, die für die Schlachtstätte zuständige Behörde die für die Geflügelhaltung zuständige Behörde unverzüglich über die durchgeführte Schlachtung unterrichtet und
-
-bb)  
-die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.17 des Anhangs der Entscheidung 2006/437/EG durchgeführt werden oder
-
-b)  
-in einen anderen Mitgliedstaat verbracht werden und die für den Bestimmungsort zuständige Behörde dem Verbringen zugestimmt hat.
+Ist eine Genehmigung nach Absatz 1 erteilt worden, gilt § 20 Absatz 2a entsprechend. Ferner kann die zuständige Behörde, soweit dies zur Erkennung der Einschleppung oder Verschleppung des aviären Influenzavirus erforderlich ist, anordnen, dass die virologischen Untersuchungen nach Satz 1 Nummer 2 in einem kürzeren als dem in Kapitel IV Nummer 8.17 Buchstabe c des Anhangs der Entscheidung 2006/437/EG genannten Untersuchungsabstand durchgeführt werden.
 
 (3) Eine Genehmigung nach Absatz 1 darf in Bezug auf Bruteier nur erteilt werden nach Maßgabe des Anhangs V der Richtlinie 2005/94/EG und soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
 
@@ -1923,15 +2110,23 @@ in einen anderen Mitgliedstaat verbracht werden und die für den Bestimmungsort 
 
 (1) Ist niedrigpathogene aviäre Influenza der Subtypen H5 oder H7 bei einem gehaltenen Vogel amtlich festgestellt, so legt die zuständige Behörde ein Gebiet um den Bestand oder die sonstige Vogelhaltung mit einem Radius von mindestens einem Kilometer als Sperrgebiet fest. § 21 Absatz 1 Satz 2 gilt entsprechend.
 
-(2) Abweichend von Absatz 1 kann die zuständige Behörde auf der Grundlage einer von ihr durchgeführten Risikobewertung von der Einrichtung eines Sperrgebiets absehen, soweit niedrigpathogene aviäre Influenza der Subtypen H5 oder H7
+(2) Abweichend von Absatz 1 kann die zuständige Behörde von der Einrichtung eines Sperrgebietes absehen, wenn
 
 1.  
-bei einem gehaltenen Vogel in einem Zoologischen Garten oder einer ähnlichen Einrichtung, einem Zirkus, einem Zoofachgeschäft, einer Haltung, in der in Gefangenschaft gehaltene Vögel, Vögel zur Arterhaltung oder zur Erhaltung seltener Rassen nach Anlage 1 oder Vögel zu anderen als zu Erwerbszwecken gehalten werden, oder einer wissenschaftlichen Einrichtung oder
+sich in einem Radius von einem Kilometer um den Bestand keine Geflügelhaltung befindet, oder
 
 2.  
+niedrigpathogene aviäre Influenza der Subtypen H5 oder H7
+
+a)  
+bei einem gehaltenen Vogel in einem zoologischen Garten oder einer ähnlichen Einrichtung, einem Zirkus, einem Zoofachgeschäft, einer Haltung, in der in Gefangenschaft gehaltene Vögel, Vögel zur Arterhaltung oder zur Erhaltung seltener Rassen nach Anlage 1 oder Vögel zu anderen als zu Erwerbszwecken gehalten werden, oder einer wissenschaftlichen Einrichtung oder
+
+b)  
 in einer Brüterei
 
-amtlich festgestellt worden ist und Belange der Tierseuchenbekämpfung nicht entgegenstehen. Für die Risikobewertung gilt § 13 Absatz 2 entsprechend.
+amtlich festgestellt worden ist und Belange der Tierseuchenbekämpfung nicht entgegenstehen.
+
+Für die Risikobewertung gilt § 13 Absatz 2 entsprechend.
 
 (3) Im Sperrgebiet führt die zuständige Behörde in Geflügelbeständen, die Erwerbszwecken dienen, die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.19 des Anhangs der Entscheidung 2006/437/EG durch.
 
@@ -1947,7 +2142,7 @@ tierische Nebenprodukte von Geflügel sind unschädlich zu beseitigen;
 der jeweilige Stall oder sonstige Standort darf nur von dem Tierhalter, seinem Vertreter, den mit der Betreuung und Beaufsichtigung betrauten Personen, Tierärzten oder Personen im amtlichen Auftrag und nur mit Schutzkleidung betreten werden;
 
 4.  
-Schutzkleidung ist unverzüglich nach Verlassen des Stalls oder sonstigen Standorts abzulegen, zu reinigen und zu desinfizieren oder, im Falle von Einwegkleidung, unverzüglich nach Gebrauch unschädlich zu beseitigen;
+Schutzkleidung ist unverzüglich nach Verlassen des Stalls oder sonstigen Standorts abzulegen, zu reinigen und zu desinfizieren oder, im Falle von Einwegschutzkleidung, unverzüglich nach Gebrauch unschädlich zu beseitigen;
 
 5.  
 Schuhwerk ist vor dem Betreten und nach dem Verlassen des Bestands sowie nach Verlassen eines Stalls oder sonstigen Standorts zu reinigen und zu desinfizieren;
@@ -1961,7 +2156,7 @@ die Durchführung von Geflügelausstellungen, Geflügelmärkten oder Veranstaltu
 8.  
 Transportfahrzeuge und Behälter, mit denen gehaltene Vögel, frisches Fleisch von Geflügel, tierische Nebenprodukte von Geflügel, Futtermittel oder sonstige Materialien, die Träger des niedrigpathogenen aviären Influenzavirus der Subtypen H5 oder H7 sein können, befördert worden sind, sowie Fahrzeuge, mit denen ein Bestand mit gehaltenen Vögeln befahren worden ist, sind unverzüglich nach jeder Beförderung zu reinigen und zu desinfizieren.
 
-§ 21 Absatz 5 gilt entsprechend.
+§ 21 Absatz 2 und 5 gilt entsprechend.
 
 (5) § 32a gilt entsprechend.
 
@@ -1984,7 +2179,7 @@ a)
 der Bestimmungsbestand amtlich überwacht wird,
 
 b)  
-das Geflügel mindestens 21 Tage in diesem Bestand verbleibt und
+der Tierhalter des Bestimmungsbestandes das Geflügel mindestens 21 Tage in diesem Bestand hält und
 
 c)  
 in dem Bestand anderes Geflügel nicht gehalten wird,
@@ -2031,7 +2226,26 @@ mit Vögeln wiederbelegt werden darf.
 
 ### § 50 Schutzmaßregeln für weitere Bestände
 
-Führen die epidemiologischen Nachforschungen nach § 46 Absatz 1 zu dem Ergebnis, dass niedrigpathogene aviäre Influenza der Subtypen H5 oder H7 aus einem anderen Geflügelbestand oder einer sonstigen Vogelhaltung eingeschleppt oder bereits in andere Geflügelbestände oder sonstige Vogelhaltungen weiterverschleppt worden sein kann, so ordnet die zuständige Behörde für diese Geflügelbestände oder sonstigen Vogelhaltungen die behördliche Beobachtung an. Ferner kann sie die Schutzmaßregeln nach § 35 Absatz 2 anordnen, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
+Führen die epidemiologischen Nachforschungen nach § 46 Absatz 1 zu dem Ergebnis, dass niedrigpathogene aviäre Influenza der Subtypen H5 oder H7 aus einem anderen Geflügelbestand oder einer sonstigen Vogelhaltung eingeschleppt oder bereits in andere Geflügelbestände oder sonstige Vogelhaltungen weiterverschleppt worden sein kann, so ordnet die zuständige Behörde für diese Geflügelbestände oder sonstigen Vogelhaltungen
+
+1.  
+die behördliche Beobachtung und
+
+2.  
+eine Untersuchung nach Kapitel IV Nummer 8.18 des Anhangs der Entscheidung 2006/437/EG
+
+an. Ferner kann sie, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist,
+
+1.  
+unter Berücksichtigung des Anhangs IV der Richtlinie 2005/94/EG die Tötung und unschädliche Beseitigung,
+
+2.  
+zusätzlich zu den Untersuchungen nach Satz 1 Nummer 2 eine serologische und virologische Untersuchung der gehaltenen Vögel und
+
+3.  
+Schutzmaßregeln nach § 15 Absatz 2 Satz 1 Nummer 2 bis 8, Satz 2 und Absatz 4
+
+anordnen.
 
 ### § 51 Notimpfung
 
@@ -2044,7 +2258,15 @@ Die zuständige Behörde kann unter Beachtung einer Risikobewertung des Friedric
 (2) Niedrigpathogene aviäre Influenza der Subtypen H5 oder H7 bei gehaltenen Vögeln gilt als erloschen, soweit
 
 1.  
-die gehaltenen Vögel des betroffenen Bestands oder der betroffenen sonstigen Vogelhaltung verendet oder getötet und unschädlich beseitigt worden sind oder,
+die gehaltenen Vögel des betroffenen Bestandes oder der betroffenen sonstigen Vogelhaltung
+
+a)  
+verendet oder getötet und unschädlich beseitigt oder
+
+b)  
+geschlachtet
+
+worden sind oder,
 
 2.  
 in den Fällen des § 47 Absatz 1, bei den gehaltenen Vögeln im Abstand von mindestens 21 Tagen jeweils eine virologische Untersuchung an Proben von jeweils 60 Vögeln je Bestand in einer von der zuständigen Behörde bezeichneten Untersuchungseinrichtung mit negativem Ergebnis auf niedrigpathogenes aviäres Influenzavirus der Subtypen H5 oder H7 durchgeführt worden ist,
@@ -2067,10 +2289,10 @@ durchgeführt und von ihr abgenommen worden ist,
 eine Entwesung sowie eine Reinigung und Desinfektion von Fahrzeugen, die mit gehaltenen Vögeln des betroffenen Bestands oder der betroffenen sonstigen Vogelhaltung in Berührung gekommen sind, nach näherer Anweisung der zuständigen Behörde durchgeführt und von ihr abgenommen worden sind und,
 
 6.  
-im Falle der Nummer 1,
+im Fall der Nummer 1 oder, wenn ein Sperrgebiet eingerichtet worden ist, im Fall der Nummer 2,
 
 a)  
-im Sperrgebiet frühestens 21 Tage nach Abnahme der Grobreinigung und Vordesinfektion nach Nummer 3 die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.20 Buchstabe a und b des Anhangs der Entscheidung 2006/437/EG durchgeführt worden sind und
+im Sperrgebiet nach Abnahme der Grobreinigung und Vordesinfektion nach Nummer 3 die Maßnahmen nach Maßgabe des Kapitels IV Nummer 8.20 Buchstabe a und b des Anhangs der Entscheidung 2006/437/EG durchgeführt worden sind, jedoch frühestens 21 Tage nach Abnahme der Grobreinigung und Vordesinfektion, und
 
 b)  
 die zuständige Behörde auf der Grundlage einer von ihr durchgeführten Risikobewertung zu dem Ergebnis gelangt, dass eine Verschleppung des niedrigpathogenen aviären Influenzavirus der Subtypen H5 oder H7 nicht zu befürchten ist.
@@ -2130,7 +2352,7 @@ Die zuständige Behörde kann die Untersuchung anderer Wildvögel anordnen, sowe
 zum Zwecke der Probengewinnung nach Absatz 1 Satz 1 Nummer 1 oder Satz 2 oder
 
 2.  
-zur Durchführung des mit Artikel 1 der Entscheidung 2005/732/EG der Kommission vom 17. Oktober 2005 zur Genehmigung der Programme zur Durchführung von Erhebungen der Mitgliedstaaten über Geflügelpestvorkommen in Haus- und Wildgeflügelbeständen im Jahr 2005 und zur Festlegung von Vorschriften für die Übermittlung der Ergebnisse und die Kostenerstattung im Rahmen der finanziellen Beteiligung der Gemeinschaft an den Kosten der Durchführung dieser Programme (ABl. EU Nr. L 274 S. 95) für die Bundesrepublik Deutschland genehmigten Wildvogelmonitorings in der jeweils geltenden Fassung
+zur Durchführung von Programmen zur Erkennung der Einschleppung oder Verschleppung des aviären Influenzavirus
 
 anzulocken.
 
@@ -2146,71 +2368,17 @@ Teil 1 Vor amtlicher Feststellung
 
 ### § 55 Verdacht auf Geflügelpest, Geflügelpest
 
-(1) Ist der Verdacht auf Geflügelpest oder Geflügelpest bei einem Wildvogel amtlich festgestellt, so legt die zuständige Behörde, vorbehaltlich des Absatzes 3, das Gebiet um den Fundort des erlegten oder tot aufgefundenen Wildvogels mit einem Radius von mindestens
+(1) Ist der Verdacht auf Geflügelpest oder Geflügelpest bei einem Wildvogel amtlich festgestellt, so kann die zuständige Behörde das Gebiet um den Fundort des erlegten oder tot aufgefundenen Wildvogels mit einem Radius von mindestens
 
 1.  
-drei Kilometern als Sperrbezirk und
+einem Kilometer als Sperrbezirk,
 
 2.  
-zehn Kilometern als Beobachtungsgebiet
+drei Kilometern als Beobachtungsgebiet
 
-fest. Bei der jeweiligen Gebietsfestlegung berücksichtigt sie das Vorhandensein eines Sperrbezirks nach § 21 Absatz 1, eines Beobachtungsgebiets nach § 27 Absatz 1 oder einer Kontrollzone nach § 30 Absatz 1, die Strukturen des Handels und der örtlichen Gegebenheiten, natürliche Grenzen, epidemiologische Erkenntnisse, ökologische Gegebenheiten, Überwachungsmöglichkeiten sowie das Vorhandensein von Schlachtstätten und Verarbeitungsbetrieben für Material der Kategorie 1 und 2 nach Artikel 24 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1069/2009.
+festlegen, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist. Bei ihrer Entscheidung berücksichtigt sie insbesondere das Vorhandensein eines Sperrbezirks nach § 21 Absatz 1, eines Beobachtungsgebiets nach § 27 Absatz 1 oder einer Kontrollzone nach § 30 Absatz 1, die Strukturen des Handels und der örtlichen Gegebenheiten, insbesondere Feuchtbiotope, Seen, Flüsse oder Küstengewässer, an denen Wildvögel rasten oder brüten, die Geflügeldichte, natürliche Grenzen, epidemiologische Erkenntnisse, ökologische Gegebenheiten, das Vorkommen und das Verhalten der Vogelart, der der befallene Wildvogel zugehört, Überwachungsmöglichkeiten sowie das Vorhandensein von Schlachtstätten und Verarbeitungsbetrieben für Material der Kategorie 1 und 2 nach Artikel 24 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1069/2009.
 
-(2) Ist der Verdacht auf Geflügelpest oder Geflügelpest bei einem Wildvogel in einem nach § 21 Absatz 1 festgelegten Sperrbezirk oder einem nach § 27 Absatz 1 festgelegten Beobachtungsgebiet amtlich festgestellt worden, kann die zuständige Behörde zusätzliche Maßnahmen nach
-
-1.  
-§ 56 Absatz 1 für den Teil des Sperrbezirks nach § 21 Absatz 1, der nicht von dem Sperrbezirk nach Absatz 1 Satz 1 Nummer 1 erfasst ist, oder
-
-2.  
-§ 56 Absatz 3 für den Teil des Beobachtungsgebiets nach § 27 Absatz 1, der nicht von dem Beobachtungsgebiet nach Absatz 1 Satz 1 Nummer 2 erfasst ist,
-
-anordnen. Die §§ 57 bis 59 und 61 gelten entsprechend.
-
-(3) Die zuständige Behörde kann auf der Grundlage einer von ihr durchgeführten Risikobewertung, die das Vorkommen und das Verhalten der Vogelart, der der befallene Wildvogel zugehört, sowie die örtlichen Gegebenheiten berücksichtigt,
-
-1.  
-a)  
-von der Festlegung eines Sperrbezirks nach Absatz 1 Satz 1 Nummer 1 oder eines Beobachtungsgebiets nach Absatz 1 Satz 1 Nummer 2 absehen oder
-
-b)  
-abweichend von Absatz 1 Satz 1 Nummer 1 das Gebiet um den Fundort des erlegten oder tot aufgefundenen Wildvogels
-
-aa)  
-mit einem Radius von mindestens einem Kilometer oder
-
-bb)  
-mit einer Tiefe von mindestens einem Kilometer und einer Länge von mindestens drei Kilometern entlang einer Küste oder eines Ufers
-
-als Sperrbezirk festlegen,
-
-soweit weder ein Verdacht auf Geflügelpest noch Geflügelpest bei einem gehaltenen Vogel festgestellt worden ist und keine Gefahr der Verschleppung des hochpathogenen aviären Influenzavirus besteht,
-
-2.  
-ein Gebiet unter Aufhebung der Festlegung als Sperrbezirk als Beobachtungsgebiet festlegen, soweit
-
-a)  
-die zuständige Behörde sämtliches zu Erwerbszwecken gehaltene Geflügel in diesem Gebiet
-
-aa)  
-klinisch und,
-
-bb)  
-soweit Belange der Tierseuchenbekämpfung dies erfordern, virologisch mit negativem Ergebnis auf hochpathogenes aviäres Influenzavirus untersucht hat,
-
-b)  
-ein Sperrbezirk nach § 21 Absatz 1 oder ein Beobachtungsgebiet nach § 27 Absatz 1 aufgehoben wird und dieser Sperrbezirk oder dieses Beobachtungsgebiet mit dem Gebiet oder einem Teil eines Gebiets eines Sperrbezirks nach Absatz 1 Satz 1 Nummer 1 zusammenfällt.
-
-In den Fällen des Satzes 1 Nummer 1 Buchstabe a untersucht die zuständige Behörde die mögliche Einschleppung oder Verschleppung des hochpathogenen aviären Influenzavirus durch den befallenen Wildvogel oder andere Vögel der Vogelart, der der befallene Wildvogel zugehört. In den Fällen des Satzes 1 Nummer 1 Buchstabe b legt die zuständige Behörde das Gebiet um den Fundort des erlegten oder verendet aufgefundenen Wildvogels
-
-1.  
-im Falle des Doppelbuchstaben aa mit einem Radius von mindestens drei Kilometern,
-
-2.  
-im Falle des Doppelbuchstaben bb mit einer Tiefe von mindestens drei Kilometern entlang einer Küste oder eines Ufers
-
-als Beobachtungsgebiet fest.
-
-(4) In einem Beobachtungsgebiet nach Absatz 3 Satz 1 Nummer 2 Buchstabe a sind nur die Schutzmaßregeln nach § 56 Absatz 1 Satz 1 Nummer 1 Buchstabe b, Nummer 6 und 7 anzuwenden.
+(2) Die zuständige Behörde kann ferner unter Berücksichtigung einer von ihr durchgeführten Risikobewertung nach Maßgabe des Absatzes 1 Satz 2 ein Gebiet als Beobachtungsgebiet festlegen, wenn ein Sperrbezirk nach § 21 Absatz 1 oder ein Beobachtungsgebiet nach § 27 Absatz 1 aufgehoben wird und dieser Sperrbezirk oder dieses Beobachtungsgebiet mit dem Gebiet oder einem Teil eines Gebiets eines Sperrbezirks, wenn dieser nach Absatz 1 Satz 1 Nummer 1 eingerichtet worden ist, zusammenfällt.
 
 Teil 2 Nach amtlicher Feststellung
 ----------------------------------
@@ -2219,13 +2387,13 @@ Teil 2 Nach amtlicher Feststellung
 
 ### § 56 Schutzmaßregeln in Bezug auf den Sperrbezirk und das Beobachtungsgebiet
 
-(1) Für die Dauer von 21 Tagen nach Festlegung des Sperrbezirks nach § 55 Absatz 1 Satz 1 Nummer 1 oder Absatz 3 Satz 1 Nummer 1 Buchstabe b
+(1) Im Fall der Festlegung eines Sperrbezirks nach § 55 Absatz 1 Satz 1 Nummer 1
 
 1.  
 hat die zuständige Behörde
 
 a)  
-das im Sperrbezirk zu Erwerbszwecken gehaltene Geflügel
+das im Sperrbezirk gehaltene Geflügel
 
 aa)  
 regelmäßig klinisch und,
@@ -2265,61 +2433,55 @@ dürfen tierische Nebenprodukte von gehaltenen Vögeln aus einem Bestand nicht v
 hat der Tierhalter sicherzustellen, dass an den Ein- und Ausgängen der Ställe oder sonstigen Standorte, in denen Geflügel gehalten wird, Matten oder sonstige saugfähige Bodenauflagen ausgelegt werden und diese mit einem wirksamen Desinfektionsmittel getränkt und stets damit feucht gehalten werden,
 
 6.  
-dürfen gehaltene Vögel nicht zur Aufstockung des Wildvogelbestands freigelassen werden,
-
-7.  
-darf Federwild nur mit Genehmigung oder auf Anordnung der zuständigen Behörde gejagt werden,
-
-8.  
-darf Geflügel nur im Durchgangsverkehr auf Autobahnen, anderen Straßen des Fernverkehrs oder Schienenverbindungen befördert werden und nur, soweit das Fahrzeug nicht anhält und Geflügel nicht entladen wird.
-
-Nach Ablauf der 21 Tage gelten für den Sperrbezirk die Anforderungen an ein Beobachtungsgebiet nach Absatz 2 Nummer 2 entsprechend.
-
-(2) Für die Dauer von
-
-1.  
-15 Tagen nach Festlegung des Beobachtungsgebiets dürfen gehaltene Vögel aus dem Beobachtungsgebiet nicht verbracht werden,
-
-2.  
-30 Tagen nach Festlegung des Beobachtungsgebiets
-
-a)  
 dürfen gehaltene Vögel nicht zur Aufstockung des Wildvogelbestandes freigelassen werden,
 
-b)  
-darf Federwild nur mit Genehmigung oder auf Anordnung der zuständigen Behörde gejagt werden.
+7.  
+kann die zuständige Behörde die Jagd auf Federwild untersagen, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist,
 
-Die zuständige Behörde kann die Maßregeln nach Satz 1 Nummer 2 frühestens 21 Tage nach Festlegung des Beobachtungsgebiets aufheben, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen. In den Fällen des § 55 Absatz 3 Satz 1 Nummer 2 berechnen sich die Fristen nach Satz 1 vom Zeitpunkt der Festlegung des Sperrbezirks an, der aufgehoben worden ist.
+8.  
+darf Geflügel nur im Durchgangsverkehr auf Autobahnen, anderen Straßen des Fernverkehrs oder Schienenverbindungen befördert werden und nur, wenn das Fahrzeug nicht anhält und Geflügel nicht entladen wird.
 
-(3) Wer einen Hund oder eine Katze hält, hat sicherzustellen, dass diese im Sperrbezirk oder im Beobachtungsgebiet nicht frei umherlaufen. Die zuständige Behörde kann für das Beobachtungsgebiet Ausnahmen genehmigen, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
+Die Maßregeln nach Satz 1 gelten für die Dauer von 21 Tagen nach Festlegung des Sperrbezirks.
 
-(4) Ein innerhalb eines Sperrbezirks gelegener Stall oder sonstiger Standort, in dem Vögel gehalten werden, darf von betriebsfremden Personen nicht betreten werden. Satz 1 gilt nicht für den den Stall oder sonstigen Standort betreuenden Tierarzt, dessen jeweilige Hilfspersonen sowie die mit der Tierseuchenbekämpfung beauftragten Personen der zuständigen Behörde. Die zuständige Behörde kann Ausnahmen genehmigen, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
-
-(5) Die zuständige Behörde bringt an den Hauptzufahrtswegen
+(2) Im Fall der Festlegung eines Beobachtungsgebiets nach § 55 Absatz 1 Satz 1 Nummer 2 oder Absatz 2 dürfen
 
 1.  
-zu dem Sperrbezirk Schilder mit der deutlichen und haltbaren Aufschrift „Wildvogelgeflügelpest-Sperrbezirk“ und
+für die Dauer von 15 Tagen nach Festlegung des Beobachtungsgebiets gehaltene Vögel aus dem Beobachtungsgebiet nicht verbracht werden,
 
 2.  
-zu dem Beobachtungsgebiet Schilder mit der deutlichen und haltbaren Aufschrift „Wildvogelgeflügelpest-Beobachtungsgebiet“
+für die Dauer von 30 Tagen nach Festlegung des Beobachtungsgebiets gehaltene Vögel nicht zur Aufstockung des Wildvogelbestandes freigelassen werden.
+
+Ferner kann die zuständige Behörde für die Dauer von 30 Tagen nach Festlegung des Beobachtungsgebiets die Jagd auf Federwild untersagen, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist. Die zuständige Behörde kann die Maßregeln nach Satz 1 Nummer 2 und Satz 2 frühestens 21 Tage nach Festlegung des Beobachtungsgebiets aufheben, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen. In den Fällen des § 55 Absatz 2 berechnen sich die Fristen nach Satz 1 und 2 vom Zeitpunkt der Festlegung des Sperrbezirks an, der aufgehoben worden ist.
+
+(3) Die zuständige Behörde kann zur Vermeidung der Verschleppung der Geflügelpest anordnen, dass Hunde und Katzen im Sperrbezirk oder im Beobachtungsgebiet oder in Teilen dieser Gebiete nicht frei umherlaufen dürfen.
+
+(4) Im Fall der Festlegung eines Sperrbezirks nach § 55 Absatz 1 Satz 1 Nummer 1 darf ein innerhalb des Sperrbezirks gelegener Stall oder sonstiger Standort, in oder an dem Vögel gehalten werden, von fremden Personen nicht betreten werden. Satz 1 gilt nicht für den den Stall oder sonstigen Standort betreuenden Tierarzt, dessen jeweilige Hilfspersonen sowie die mit der Tierseuchenbekämpfung beauftragten Personen der zuständigen Behörde.
+
+(5) Die zuständige Behörde bringt
+
+1.  
+im Fall der Festlegung eines Sperrbezirks nach § 55 Absatz 1 Satz 1 Nummer 1 an den Hauptzufahrtswegen zu dem Sperrbezirk Schilder mit der deutlichen und haltbaren Aufschrift „Wildvogelgeflügelpest-Sperrbezirk“ und
+
+2.  
+im Fall der Festlegung eines Beobachtungsgebiets nach § 55 Absatz 1 Satz 1 Nummer 2 oder Absatz 2 an den Hauptzufahrtswegen zu dem Beobachtungsgebiet Schilder mit der deutlichen und haltbaren Aufschrift „Wildvogelgeflügelpest-Beobachtungsgebiet“
 
 gut sichtbar an.
 
-(6) Für das Sperrgebiet und das Beobachtungsgebiet gilt § 21 Absatz 2 entsprechend.
+(6) Im Fall der Festlegung eines Sperrbezirks nach § 55 Absatz 1 Satz 1 Nummer 1 oder im Fall der Festlegung eines Beobachtungsgebiets nach § 55 Absatz 1 Satz 1 Nummer 2 oder Absatz 2 gilt für den Sperrbezirk und das Beobachtungsgebiet § 21 Absatz 2 entsprechend.
 
 ### § 57 Ausnahmen von der Sperrbezirksregelung für gehaltene Vögel und Bruteier
 
-(1) Die zuständige Behörde kann Ausnahmen von § 56 Absatz 1 Satz 1 Nummer 2 genehmigen für das Verbringen von gehaltenen Vögeln unter amtlicher Überwachung in einen anderen Bestand im Sperrbezirk oder in einen im sonstigen Inland gelegenen Bestand. Im Falle des Verbringens von Junghennen oder Truthühnern in einen im sonstigen Inland gelegenen Bestand darf die Genehmigung nur erteilt werden, soweit sichergestellt ist, dass die Junghennen oder Truthühner für mindestens 21 Tage in diesem Bestand gehalten werden.
+(1) Die zuständige Behörde kann im Fall der Festlegung eines Sperrbezirks nach § 55 Absatz 1 Satz 1 Nummer 1 Ausnahmen von § 56 Absatz 1 Satz 1 Nummer 2 genehmigen für das Verbringen von gehaltenen Vögeln unter amtlicher Überwachung in einen anderen Bestand im Sperrbezirk oder in einen im sonstigen Inland gelegenen Bestand. Im Falle des Verbringens von Junghennen oder Truthühnern in einen im sonstigen Inland gelegenen Bestand darf die Genehmigung nur erteilt werden, soweit sichergestellt ist, dass der Tierhalter des Bestimmungsbestandes die Junghennen oder Truthühner für mindestens 21 Tage in diesem Bestand hält.
 
-(2) Die zuständige Behörde kann ferner Ausnahmen von § 56 Absatz 1 Satz 1 Nummer 2 genehmigen für das Verbringen von
+(2) Die zuständige Behörde kann im Fall der Festlegung eines Sperrbezirks nach § 55 Absatz 1 Satz 1 Nummer 1 ferner Ausnahmen von § 56 Absatz 1 Satz 1 Nummer 2 genehmigen für das Verbringen von
 
 1.  
 Geflügel unmittelbar zur Schlachtung in eine Schlachtstätte im Sperrbezirk oder im Beobachtungsgebiet oder, soweit sich im Sperrbezirk oder im Beobachtungsgebiet keine Schlachtstätte befindet, in eine von der zuständigen Behörde bezeichnete Schlachtstätte,
 
 2.  
-Eintagsküken aus dem Sperrbezirk unter amtlicher Überwachung in einen im Inland gelegenen amtlich überwachten Bestand, soweit sichergestellt ist, dass die Eintagsküken für mindestens 21 Tage in diesem Bestand verbleiben.
+Eintagsküken aus dem Sperrbezirk unter amtlicher Überwachung in einen im Inland gelegenen amtlich überwachten Bestand, soweit sichergestellt ist, dass der Tierhalter des Bestimmungsbestandes die Eintagsküken für mindestens 21 Tage in diesem Bestand hält.
 
-(3) Die zuständige Behörde kann ferner Ausnahmen von § 56 Absatz 1 Satz 1 Nummer 2 für das Verbringen von Bruteiern genehmigen
+(3) Die zuständige Behörde kann im Fall der Festlegung eines Sperrbezirks nach § 55 Absatz 1 Satz 1 Nummer 1 ferner Ausnahmen von § 56 Absatz 1 Satz 1 Nummer 2 für das Verbringen von Bruteiern genehmigen
 
 1.  
 in eine
@@ -2334,7 +2496,7 @@ wissenschaftliche oder pharmazeutische Einrichtung,
 in einen Mitgliedstaat oder in ein Drittland, soweit
 
 a)  
-die Bruteier aus einem Bestand stammen, bei dem kein Verdacht auf Geflügelpest vorliegt und in dem Stichprobenuntersuchungen durchgeführt worden sind, um mit einer Wahrscheinlichkeit von 95 vom Hundert und einer angenommenen Rate von 5 vom Hundert befallene Tiere zu erkennen und
+die Bruteier aus einem Bestand stammen, bei dem kein Verdacht auf Geflügelpest vorliegt und in dem Stichprobenuntersuchungen durchgeführt worden sind, um mit einer Wahrscheinlichkeit von 95 vom Hundert und einer angenommenen Rate von 5 vom Hundert befallene Tiere zu erkennen, und
 
 b)  
 sichergestellt ist, dass
@@ -2346,7 +2508,7 @@ bb)
 die Rückverfolgbarkeit der Bruteier gewährleistet ist,
 
 cc)  
-die Bruteier in einem von der zuständigen Behörde verplombten Transportfahrzeug befördert werden und
+die Bruteier in einem von der zuständigen Behörde verplombten Transportfahrzeug oder unter amtlicher Überwachung befördert werden und
 
 dd)  
 die Brüterei amtlich überwacht wird,
@@ -2357,14 +2519,14 @@ in einen Verarbeitungsbetrieb für Eiprodukte nach Anhang III Abschnitt X Kapite
 4.  
 in einen Verarbeitungsbetrieb für Material der Kategorie 1 oder 2 nach Artikel 24 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1069/2009.
 
-In den Fällen des Satzes 1 Nummer 1 Buchstabe a oder Nummer 2 muss die Gesundheitsbescheinigung nach dem Muster 1 des Anhangs IV der Richtlinie 90/539/EWG, die Sendungen von Bruteiern beim Verbringen in andere Mitgliedstaaten begleitet, folgenden Vermerk enthalten: „Diese Sendung erfüllt die Tiergesundheitsbedingungen der Entscheidung 2006/563/EG der Kommission.“
+In den Fällen des Satzes 1 Nummer 1 Buchstabe a oder Nummer 2 muss die Gesundheitsbescheinigung nach dem Muster 1 des Anhangs IV der Richtlinie 2009/158/EG, die Sendungen von Bruteiern beim Verbringen in andere Mitgliedstaaten begleitet, folgenden Vermerk enthalten: „Diese Sendung erfüllt die Tiergesundheitsbedingungen der Entscheidung 2006/563/EG der Kommission.“
 
 ### § 58 Ausnahmen von der Sperrbezirksregelung für Fleisch
 
-Abweichend von § 56 Absatz 1 Satz 1 Nummer 3 darf oder dürfen verbracht werden
+Im Fall der Festlegung eines Sperrbezirks nach § 55 Absatz 1 Satz 1 Nummer 1 darf oder dürfen abweichend von § 56 Absatz 1 Satz 1 Nummer 3 verbracht werden
 
 1.  
-frisches Fleisch von Geflügel und Federwild, das nach Maßgabe der Anhänge II und III Abschnitt II und III der Verordnung (EG) Nr. 853/2004 gewonnen und gekennzeichnet sowie nach Maßgabe des Anhangs I Abschnitt I, II, III und IV Kapitel V und VII der Verordnung (EG) Nr. 854/2004 überwacht worden ist,
+frisches Fleisch von Geflügel und Federwild, das nach Maßgabe der Anhänge II und III Abschnitt II und III der Verordnung (EG) Nr. 853/2004 gewonnen und gekennzeichnet sowie nach Maßgabe des Anhangs I Abschnitt I, II, III und IV Kapitel V und VIII der Verordnung (EG) Nr. 854/2004 überwacht worden ist,
 
 2.  
 Hackfleisch, Separatorenfleisch, Fleischerzeugnisse und Fleischzubereitungen, das oder die frisches Fleisch nach Nummer 1 enthält oder enthalten und das oder die nach Maßgabe des Anhangs III Abschnitt V und VI der Verordnung (EG) Nr. 853/2004 erzeugt worden ist oder sind,
@@ -2373,7 +2535,7 @@ Hackfleisch, Separatorenfleisch, Fleischerzeugnisse und Fleischzubereitungen, da
 frisches Fleisch von Geflügel und Federwild sowie Hackfleisch, Separatorenfleisch, Fleischerzeugnisse und Fleischzubereitungen, das oder die solches frisches Fleisch enthält oder enthalten, soweit
 
 a)  
-das frische Fleisch mit einem Genusstauglichkeitskennzeichen nach Anhang II der Richtlinie 2002/99/EG oder nach Maßgabe des Artikels 4 der Verordnung (EG) Nr. 2076/2005 versehen ist und
+das frische Fleisch mit einem Genusstauglichkeitskennzeichen nach Anhang II der Richtlinie 2002/99/EG oder mit einem alternativen Kennzeichen nach der Entscheidung 2007/118/EG versehen ist und
 
 b)  
 sichergestellt ist, dass das frische Fleisch
@@ -2392,7 +2554,7 @@ frisches Fleisch, Hackfleisch, Separatorenfleisch, Fleischerzeugnisse oder Fleis
 
 ### § 59 Ausnahmen von der Sperrbezirksregelung für tierische Nebenprodukte
 
-(1) Abweichend von § 56 Absatz 1 Satz 1 Nummer 4 dürfen verbracht werden
+(1) Im Fall der Festlegung eines Sperrbezirks nach § 55 Absatz 1 Satz 1 Nummer 1 dürfen abweichend von § 56 Absatz 1 Satz 1 Nummer 4 verbracht werden
 
 1.  
 behandelte Federn oder Federteile von Geflügel, die einer Dampfspannung ausgesetzt oder nach einem anderen, die Abtötung des hochpathogenen aviären Influenzavirus gewährleistenden Verfahren behandelt worden sind,
@@ -2418,7 +2580,9 @@ Anhang XI Kapitel I Abschnitt 2 und
 cc)  
 Anhang XIII Kapitel II Nummer 3 und 4
 
-der Verordnung (EU) Nr. 142/2011 an die Verarbeitung erfüllen,
+der Verordnung (EU) Nr. 142/2011
+
+an die Verarbeitung erfüllen,
 
 4.  
 tierische Nebenprodukte
@@ -2438,13 +2602,13 @@ tierische Nebenprodukte zum Zwecke der Behandlung nach Artikel 13 Buchstabe e Zi
 6.  
 Erzeugnisse von gehaltenen Vögeln, die nach geltendem Gemeinschaftsrecht oder Unionsrecht keinen besonderen tierseuchenrechtlichen Anforderungen unterliegen und die nicht aus sonstigen tierseuchenrechtlichen Gründen vom Verbringen ausgeschlossen oder anderweitig beschränkt sind, einschließlich der Erzeugnisse im Sinne des Anhangs XIII Kapitel VI Buchstabe C der Verordnung (EU) Nr. 142/2011.
 
-(2) Federn oder Federteile nach Absatz 1 Nummer 1 müssen beim Verbringen von einem Handelspapier nach Anhang VIII Kapitel III der Verordnung (EU) Nr. 142/2011 begleitet sein, aus dem unter Nummer 6.1 hervorgeht, dass die Federn oder Federteile einer Dampfspannung ausgesetzt oder nach einem anderen Verfahren behandelt worden sind, das die Abtötung des hochpathogenen aviären Influenzavirus gewährleistet. Satz 1 gilt nicht für behandelte Zierfedern, behandelte Federn, die von Reisenden zum eigenen Gebrauch im persönlichen Reisegepäck mitgeführt werden, oder behandelte Federn, die Privatpersonen zu nichtgewerblichen Zwecken zugesandt werden.
+(2) Federn oder Federteile nach Absatz 1 Nummer 1 müssen beim Verbringen von einem Handelspapier nach Anhang VIII Kapitel III der Verordnung (EU) Nr. 142/2011 begleitet sein, aus dem hervorgeht, dass die Federn oder Federteile einer Dampfspannung ausgesetzt oder nach einem anderen Verfahren behandelt worden sind, das die Abtötung des hochpathogenen aviären Influenzavirus gewährleistet. Satz 1 gilt nicht für behandelte Zierfedern, behandelte Federn, die von Reisenden zum eigenen Gebrauch im persönlichen Reisegepäck mitgeführt werden, oder behandelte Federn, die Privatpersonen zu nichtgewerblichen Zwecken zugesandt werden.
 
 ### § 60 Ausnahmen von der Beobachtungsgebietsregelung
 
-(1) Die zuständige Behörde kann Ausnahmen von § 56 Absatz 2 Satz 1 Nummer 1 für das Verbringen von gehaltenen Vögeln in einen amtlich überwachten Bestand im Inland genehmigen, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen. § 57 Absatz 2 Nummer 1 gilt entsprechend.
+(1) Die zuständige Behörde kann im Falle der Festlegung eines Beobachtungsgebiets nach § 55 Absatz 1 Satz 1 Nummer 2 oder Absatz 2 Ausnahmen von § 56 Absatz 2 Satz 1 Nummer 1 für das Verbringen von gehaltenen Vögeln in einen amtlich überwachten Bestand im Inland genehmigen, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen. § 57 Absatz 2 Nummer 1 gilt entsprechend.
 
-(2) Die zuständige Behörde kann ferner Ausnahmen von § 56 Absatz 2 Satz 1 Nummer 1 für das Verbringen von Eintagsküken genehmigen, die aus Bruteiern geschlüpft sind, die von außerhalb des Beobachtungsgebiets stammen, in einen Bestand im Inland, soweit sichergestellt ist, dass die Bruteier oder Eintagsküken von außerhalb des Beobachtungsgebiets in der Brüterei nicht mit Bruteiern oder Eintagsküken aus dem Beobachtungsgebiet in Kontakt gekommen sind.
+(2) Die zuständige Behörde kann im Falle der Festlegung eines Beobachtungsgebiets nach § 55 Absatz 1 Satz 1 Nummer 2 oder Absatz 2 ferner Ausnahmen von § 56 Absatz 2 Satz 1 Nummer 1 für das Verbringen von Eintagsküken genehmigen, die aus Bruteiern geschlüpft sind, die von außerhalb des Beobachtungsgebiets stammen, in einen Bestand im Inland, soweit sichergestellt ist, dass die Bruteier oder Eintagsküken von außerhalb des Beobachtungsgebiets in der Brüterei nicht mit Bruteiern oder Eintagsküken aus dem Beobachtungsgebiet in Kontakt gekommen sind.
 
 ### § 61 Risikobewertung
 
@@ -2452,7 +2616,7 @@ Für die Erteilung einer Genehmigung nach den §§ 57 bis 60 gilt § 33 entsprec
 
 ### § 62 Seuchenausbruch in einem benachbarten Mitgliedstaat
 
-Wird auf dem Gebiet eines benachbarten Mitgliedstaates oder Drittlandes der Verdacht auf Geflügelpest oder Geflügelpest bei einem Wildvogel innerhalb einer Entfernung von zehn Kilometern von der deutschen Grenze amtlich festgestellt und der für das angrenzende Gebiet im Inland zuständigen Behörde amtlich zur Kenntnis gebracht, so legt diese entsprechend § 55 Absatz 1 bis 3 einen Sperrbezirk und ein Beobachtungsgebiet fest.
+Wird auf dem Gebiet eines benachbarten Mitgliedstaates oder Drittlandes der Verdacht auf Geflügelpest oder Geflügelpest bei einem Wildvogel innerhalb einer Entfernung von zehn Kilometern von der deutschen Grenze amtlich festgestellt und der für das angrenzende Gebiet im Inland zuständigen Behörde amtlich zur Kenntnis gebracht, so gilt § 55 entsprechend.
 
 ### § 63 Aufhebung der Schutzmaßregeln
 
@@ -2473,65 +2637,77 @@ entgegen § 2 Absatz 1 Satz 1, § 13 Absatz 6 Satz 1 oder § 14 Absatz 2 Satz 1 
 2.  
 entgegen § 2 Absatz 1 Satz 2 in Verbindung mit § 26 Absatz 1 Satz 2 der Viehverkehrsverordnung, entgegen § 7 Absatz 3 Satz 1, § 21 Absatz 5, auch in Verbindung mit § 27 Absatz 3 oder § 48 Absatz 4 Satz 2, oder entgegen § 54 Absatz 1 Satz 1 Nummer 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
+2a.  
+entgegen § 2 Absatz 2 Satz 1, auch in Verbindung mit Satz 3, ein Register nicht, nicht richtig oder nicht vollständig führt,
+
 3.  
 entgegen § 2 Absatz 3 Satz 1, § 9 Absatz 2 Satz 1 Nummer 2, auch in Verbindung mit § 36 Absatz 4, § 10 Absatz 4 Satz 1 oder § 15 Absatz 2 Satz 1 Nummer 1 oder Nummer 3, auch in Verbindung mit § 35 Absatz 2 Nummer 3, eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 4.  
-entgegen § 2 Absatz 4 Satz 1, § 9 Absatz 2 Satz 2, auch in Verbindung mit § 36 Absatz 4, § 10 Absatz 4 Satz 2, § 13 Absatz 6 Satz 2 oder § 14 Absatz 2 Satz 2 ein Register, eine Aufzeichnung oder das Ergebnis einer Untersuchung nicht oder nicht für die vorgeschriebene Dauer aufbewahrt,
+entgegen § 2 Absatz 4 Satz 1, § 9 Absatz 2 Satz 2, auch in Verbindung mit § 36 Absatz 4, § 10 Absatz 4 Satz 2, § 13 Absatz 6 Satz 2, § 14 Absatz 2 Satz 2 oder § 14a Absatz 1 Satz 5 ein Register, eine Aufzeichnung, das Ergebnis einer Untersuchung oder eine Bescheinigung nicht oder nicht für die vorgeschriebene Dauer aufbewahrt,
 
 5.  
-entgegen § 3 Nummer 1 nicht sicherstellt, dass ein dort genanntes Tier nur an einer dort genannten Stelle gefüttert wird,
+entgegen § 3 Nummer 1, auch in Verbindung mit § 7 Absatz 1 Satz 2, nicht sicherstellt, dass ein dort genanntes Tier nur an einer dort genannten Stelle gefüttert wird,
 
 6.  
-entgegen § 3 Nummer 2 nicht sicherstellt, dass ein dort genanntes Tier nicht mit dort genanntem Oberflächenwasser getränkt wird,
+entgegen § 3 Nummer 2, auch in Verbindung mit § 7 Absatz 1 Satz 2, nicht sicherstellt, dass ein dort genanntes Tier nicht mit dort genanntem Oberflächenwasser getränkt wird,
 
 7.  
-entgegen § 3 Nummer 3 nicht sicherstellt, dass dort genanntes Futter, Einstreu oder ein sonstiger Gegenstand unzugänglich aufbewahrt wird,
+entgegen § 3 Nummer 3, auch in Verbindung mit § 7 Absatz 1 Satz 2, nicht sicherstellt, dass dort genanntes Futter, Einstreu oder ein sonstiger Gegenstand unzugänglich aufbewahrt wird,
 
 8.  
 entgegen § 4 Absatz 1 das Vorliegen einer Infektion nicht oder nicht rechtzeitig ausschließen lässt,
 
 9.  
-entgegen § 5 Satz 1 nicht sicherstellt, dass eine dort genannte Person Schutzkleidung oder Einwegkleidung anlegt oder trägt,
+entgegen § 5 Satz 1 nicht sicherstellt, dass eine dort genannte Person Schutzkleidung oder Einwegschutzkleidung anlegt oder trägt,
 
 10.  
-entgegen § 5 Satz 2 nicht sicherstellt, dass Schutzkleidung abgelegt, gereinigt oder desinfiziert wird oder Einwegkleidung beseitigt wird,
+entgegen § 5 Satz 2 nicht sicherstellt, dass Schutzkleidung abgelegt, gereinigt oder desinfiziert wird oder Einwegschutzkleidung beseitigt wird,
 
 11.  
-entgegen § 6 Nummer 1, auch in Verbindung mit § 13 Absatz 4 Satz 5 Nummer 2 oder § 21 Absatz 6 Satz 1 Nummer 2, nicht sicherstellt, dass ein Ein- oder Ausgang oder ein sonstiger Standort gesichert ist,
+entgegen § 6 Absatz 1 Nummer 1, auch in Verbindung mit § 13 Absatz 4 Satz 5 Nummer 2 oder § 21 Absatz 6 Satz 1 Nummer 2, nicht sicherstellt, dass ein Ein- oder Ausgang oder ein sonstiger Standort gesichert ist,
 
 12.  
-entgegen § 6 Nummer 2, auch in Verbindung mit § 13 Absatz 4 Satz 5 Nummer 2 oder § 27 Absatz 4 Nummer 2, nicht sicherstellt, dass ein Stall oder ein sonstiger Standort nur mit der dort genannten Kleidung betreten wird oder dass eine dort genannte Person diese Kleidung ablegt,
+entgegen § 6 Absatz 1 Nummer 2, auch in Verbindung mit § 13 Absatz 4 Satz 5 Nummer 2 oder § 27 Absatz 4 Nummer 2, nicht sicherstellt, dass ein Stall oder ein sonstiger Standort nur mit der dort genannten Kleidung betreten wird oder dass eine dort genannte Person diese Kleidung ablegt,
 
 13.  
-entgegen § 6 Nummer 3, auch in Verbindung mit § 21 Absatz 6 Satz 1 Nummer 2 oder § 27 Absatz 4 Nummer 2, nicht sicherstellt, dass Schutzkleidung gereinigt oder desinfiziert wird oder Einwegkleidung beseitigt wird,
+entgegen § 6 Absatz 1 Nummer 3, auch in Verbindung mit § 21 Absatz 6 Satz 1 Nummer 2 oder § 27 Absatz 4 Nummer 2, nicht sicherstellt, dass Schutzkleidung gereinigt oder desinfiziert wird oder Einwegschutzkleidung beseitigt wird,
 
 14.  
-entgegen § 6 Nummer 4 oder Nummer 5, jeweils auch in Verbindung mit § 13 Absatz 4 Satz 5 Nummer 2 oder § 21 Absatz 6 Satz 1 Nummer 2, nicht sicherstellt, dass eine Gerätschaft, ein Verladeplatz, ein Stall, eine Einrichtung, ein Gegenstand oder ein Fahrzeug gereinigt oder desinfiziert wird,
+entgegen § 6 Absatz 1 Nummer 4, 5, 6 oder 8, jeweils auch in Verbindung mit § 13 Absatz 4 Satz 5 Nummer 2 oder § 21 Absatz 6 Satz 1 Nummer 2, nicht sicherstellt, dass eine Gerätschaft, ein Verladeplatz, ein Stall, eine Einrichtung, ein Gegenstand, ein Fahrzeug, eine Maschine, ein Raum oder ein Behälter gereinigt oder desinfiziert wird,
+
+14a.  
+entgegen § 6 Absatz 1 Nummer 7 nicht sicherstellt, dass eine Schadnagerbekämpfung durchgeführt oder eine Aufzeichnung gemacht wird,
+
+14b.  
+einer vollziehbaren Anordnung nach § 6 Absatz 2, § 7 Absatz 5, § 8 Absatz 2 Nummer 2, § 10 Absatz 3, § 13 Absatz 1 Satz 1 oder Absatz 7, § 14 Absatz 1, § 14a Absatz 1 Satz 1, § 15 Absatz 1 Satz 1, 2 Nummer 1 oder Satz 5, Absatz 3 Nummer 2, auch in Verbindung mit § 17 Absatz 1 Satz 2, nach § 15 Absatz 4, § 16, § 17 Absatz 1 Satz 1, § 19 Absatz 1 Satz 1 oder 5, § 21 Absatz 4 Satz 1 Nummer 3, 4 oder 5, jeweils auch in Verbindung mit § 27 Absatz 3, § 22 Absatz 1 Satz 2, § 32a Satz 1, auch in Verbindung mit § 34 Satz 2 Nummer 2 oder § 48 Absatz 5, nach § 35 Absatz 1 oder 2 Nummer 1 oder 2, § 36 Absatz 1, § 42 Satz 1, auch in Verbindung mit § 51 Satz 2, § 43 Absatz 1 Satz 1, 2 oder 3, auch in Verbindung mit § 43 Absatz 2 Satz 2, oder Absatz 2 Satz 1, § 46 Absatz 1, 2 oder 4 Satz 1 Nummer 2, § 50 Satz 2, § 51 Satz 1, § 53a, § 54 Absatz 1 Satz 1 Nummer 1 oder Satz 2 oder § 56 Absatz 1 Satz 1 Nummer 7 oder Absatz 3 zuwiderhandelt,
 
 15.  
-entgegen § 7 Absatz 1 Satz 1 Nummer 1 eine dort genannte Veranstaltung durchführt,
+entgegen § 7 Absatz 1 Satz 1 eine dort genannte Veranstaltung durchführt,
 
 16.  
 entgegen § 7 Absatz 2 Satz 6 oder § 13 Absatz 4 Satz 5 Nummer 1 eine Untersuchung nicht oder nicht rechtzeitig durchführen lässt,
 
 17.  
-einer vollziehbaren Anordnung nach § 7 Absatz 5, § 8 Absatz 2 Nummer 2, § 10 Absatz 3, § 13 Absatz 1, § 14 Absatz 1 Satz 1, § 15 Absatz 1 Satz 1, 2 Nummer 1 oder Satz 5, § 15 Absatz 3 Nummer 2, auch in Verbindung mit § 17 Absatz 1 Satz 2, nach § 15 Absatz 4 Satz 1, § 16, § 17 Absatz 1 Satz 1, § 19 Absatz 1 Satz 1 oder Satz 5, § 21 Absatz 4 Nummer 3 oder Nummer 4, § 22 Absatz 1 Satz 2, § 32a Absatz 1 Satz 1, auch in Verbindung mit § 34 Satz 2 Nummer 2 oder § 48 Absatz 5, § 35 Absatz 1 oder Absatz 2 Nummer 1 oder Nummer 2, jeweils auch in Verbindung mit § 50 Satz 2, § 36 Absatz 1, § 42 Satz 1, auch in Verbindung mit § 51 Satz 2, § 43 Absatz 1 oder Absatz 2, § 46 Absatz 1, 2 Absatz 4 Satz 1 Nummer 2, § 51 Satz 1, § 53a, § 54 Absatz 1 Satz 1 Nummer 1 oder Satz 2 oder § 55 Absatz 2 Satz 1, auch in Verbindung mit § 62, zuwiderhandelt,
+(weggefallen)
 
 18.  
 entgegen § 8 Absatz 1 eine Schutzimpfung oder einen Heilversuch vornimmt,
 
 19.  
-einer mit einer Genehmigung nach § 8 Absatz 2 Nummer 1 oder Absatz 3, § 11 Absatz 1 Satz 2 oder Absatz 2 Satz 2, § 13 Absatz 3, § 15 Absatz 5 Satz 1, auch in Verbindung mit § 17 Absatz 1 Satz 2, nach § 15 Absatz 6 Satz 1, § 19 Absatz 3 Satz 1 oder Satz 3, § 20 Absatz 1 Satz 1, § 21 Absatz 2 Satz 2, auch in Verbindung mit § 30 Absatz 2a oder § 56 Absatz 6, nach § 22 Absatz 1 Satz 1 oder Absatz 2, 3, 4 oder Absatz 5, § 23, § 24, auch in Verbindung mit § 32 Absatz 3, nach § 28, § 29 Absatz 1 oder Absatz 2, § 31 Absatz 1 oder Absatz 2, § 32 Absatz 1, § 37 Satz 1, § 38, § 39, § 47 Absatz 1, § 49 Absatz 1 Satz 1 oder Absatz 2, § 57 Absatz 1 Satz 1 oder Absatz 2 Nummer 1, auch in Verbindung mit § 60 Absatz 1 Satz 2, nach § 57 Absatz 3 Satz 1 oder § 60 Absatz 1 Satz 1 oder Absatz 2 verbundenen vollziehbaren Auflage zuwiderhandelt,
+einer mit einer Genehmigung nach § 8 Absatz 2 Nummer 1 oder Absatz 3, § 11 Absatz 1 Satz 2 oder Absatz 2 Satz 2, § 13 Absatz 1 Satz 2 oder Absatz 3 Satz 1, jeweils auch in Verbindung mit § 21 Absatz 2 Satz 2, auch in Verbindung mit § 30 Absatz 2a, § 48 Absatz 4 Satz 2 oder § 56 Absatz 6, nach § 15 Absatz 5 Satz 1, auch in Verbindung mit § 17 Absatz 1 Satz 2, nach § 15 Absatz 6 Satz 1, § 19 Absatz 3 Satz 1 oder Satz 3, § 20 Absatz 1 Satz 1, § 22 Absatz 1 Satz 1 oder Absatz 2, 3, 4 oder Absatz 5, § 23, § 24, auch in Verbindung mit § 32 Absatz 3, nach § 28, auch in Verbindung mit § 44 Absatz 3 Satz 1, nach § 29 Absatz 1 Nummer 1 Buchstabe a, Nummer 2 oder Absatz 2, jeweils auch in Verbindung mit § 44 Absatz 3 Satz 1, nach § 31 Absatz 1 oder Absatz 2, § 32 Absatz 1, § 37 Satz 1, § 38, § 39, § 47 Absatz 1, § 49 Absatz 1 Satz 1 oder Absatz 2, § 57 Absatz 1 Satz 1 oder Absatz 2 Nummer 1, auch in Verbindung mit § 60 Absatz 1 Satz 2, nach § 57 Absatz 3 Satz 1 oder § 60 Absatz 1 Satz 1 oder Absatz 2 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 20.  
-entgegen § 13 Absatz 4 Satz 1 eine Ente oder eine Gans nicht richtig hält,
+entgegen § 13 Absatz 4 Satz 1 eine Ente, eine Gans oder einen Laufvogel nicht richtig hält,
 
 21.  
-entgegen § 13 Absatz 4 Satz 2 nicht sicherstellt, dass eine Ente oder eine Gans untersucht wird,
+entgegen § 13 Absatz 4 Satz 2 nicht sicherstellt, dass eine Ente, eine Gans oder ein Laufvogel untersucht wird,
+
+21a.  
+entgegen § 14a Absatz 1 Satz 3 eine Bescheinigung nicht mitführt,
 
 22.  
-entgegen § 15 Absatz 2 Satz 1 Nummer 2, auch in Verbindung mit § 35 Absatz 2 Nummer 3, oder entgegen § 21 Absatz 2 Satz 1, auch in Verbindung mit § 30 Absatz 2a oder § 56 Absatz 6, einen dort genannten Vogel nicht richtig hält,
+entgegen § 15 Absatz 2 Satz 1 Nummer 2, auch in Verbindung mit § 35 Absatz 2 Nummer 3, oder entgegen § 21 Absatz 2 Satz 1, auch in Verbindung mit § 30 Absatz 2a, § 48 Absatz 4 Satz 2 oder § 56 Absatz 6, einen dort genannten Vogel nicht richtig hält,
 
 23.  
 entgegen § 15 Absatz 2 Satz 1 Nummer 4, auch in Verbindung mit § 35 Absatz 2 Nummer 3, einen Vogel nicht oder nicht richtig aufbewahrt,
@@ -2540,7 +2716,7 @@ entgegen § 15 Absatz 2 Satz 1 Nummer 4, auch in Verbindung mit § 35 Absatz 2 N
 entgegen § 15 Absatz 2 Satz 1 Nummer 6, auch in Verbindung mit § 35 Absatz 2 Nummer 3, eine Matte oder eine Bodenauflage nicht oder nicht rechtzeitig auslegt, nicht, nicht richtig oder nicht rechtzeitig tränkt oder nicht feucht hält,
 
 25.  
-entgegen § 15 Absatz 2 Satz 1 Nummer 7 Buchstabe a, auch in Verbindung mit § 35 Absatz 2 Nummer 3, nicht sicherstellt, dass ein Stall oder ein sonstiger Standort betreten wird, dass Schutzkleidung abgelegt, gereinigt oder desinfiziert wird oder dass Einwegkleidung beseitigt wird,
+entgegen § 15 Absatz 2 Satz 1 Nummer 7 Buchstabe a, auch in Verbindung mit § 35 Absatz 2 Nummer 3, nicht sicherstellt, dass ein Stall oder ein sonstiger Standort betreten wird, dass Schutzkleidung abgelegt, gereinigt oder desinfiziert wird oder dass Einwegschutzkleidung beseitigt wird,
 
 26.  
 entgegen § 15 Absatz 2 Satz 1 Nummer 7 Buchstabe b, auch in Verbindung mit § 35 Absatz 2 Nummer 3, nicht sicherstellt, dass Schuhwerk gereinigt oder desinfiziert wird,
@@ -2561,7 +2737,7 @@ ohne Genehmigung nach § 19 Absatz 1 Satz 4 ein Schwein verbringt,
 entgegen § 19 Absatz 2 Nummer 1 ein Schild nicht, nicht richtig oder nicht rechtzeitig anbringt,
 
 32.  
-entgegen § 19 Absatz 2 Nummer 2 oder § 56 Absatz 3 Satz 1 nicht sicherstellt, dass ein Hund oder eine Katze nicht frei umherläuft,
+entgegen § 19 Absatz 2 Nummer 2 nicht sicherstellt, dass ein Hund oder eine Katze nicht frei umherläuft,
 
 33.  
 entgegen § 21 Absatz 6 Satz 1 Nummer 5 einen Vogel, ein Ei oder einen Tierkörper befördert,
@@ -2576,7 +2752,7 @@ entgegen § 45 Absatz 1 Satz 1, auch in Verbindung mit § 53 Satz 1, einen Gefl�
 entgegen § 48 Absatz 4 Satz 1 Nummer 3 oder § 56 Absatz 4 Satz 1 einen Stall oder einen sonstigen Standort betritt,
 
 37.  
-entgegen § 48 Absatz 4 Satz 1 Nummer 4 Schutzkleidung nicht oder nicht rechtzeitig ablegt, nicht oder nicht rechtzeitig reinigt oder nicht oder nicht rechtzeitig desinfiziert oder Einwegkleidung nicht oder nicht rechtzeitig beseitigt,
+entgegen § 48 Absatz 4 Satz 1 Nummer 4 Schutzkleidung nicht oder nicht rechtzeitig ablegt, nicht oder nicht rechtzeitig reinigt oder nicht oder nicht rechtzeitig desinfiziert oder Einwegschutzkleidung nicht oder nicht rechtzeitig beseitigt,
 
 38.  
 einer vollziehbaren Auflage nach § 49 Absatz 1a zuwiderhandelt,
@@ -2591,11 +2767,7 @@ entgegen § 56 Absatz 1 Satz 1 Nummer 5 nicht sicherstellt, dass eine Matte oder
 
 Die Befugnis der zuständigen Behörde, bei Feststellung der Geflügelpest oder der niedrigpathogenen aviären Influenza bei einem gehaltenen Vogel oder einem Wildvogel weitergehende Maßnahmen nach § 38 Absatz 11 in Verbindung mit § 6 Absatz 1 und 3 bis 5 des Tiergesundheitsgesetzes anzuordnen, soweit diese zur Tierseuchenbekämpfung erforderlich sind und Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union nicht entgegenstehen, bleibt unberührt.
 
-### § 66 Übergangsvorschriften
-
-(1) Wer am 22. Oktober 2007 Geflügel hält, hat der zuständigen Behörde abweichend von § 2 Absatz 1 die Form der Haltung bis zum 30. April 2008 anzuzeigen.
-
-(2) Wer am 22. Oktober 2007 Geflügel hält, hat abweichend von § 6 Nummer 9 eine Einrichtung zur Desinfektion der Schuhe vom 30. April 2008 an vorzuhalten.
+### § 66 (weggefallen)
 
 ### § 67 Aufheben bundesrechtlicher Vorschriften
 
@@ -2603,66 +2775,48 @@ Die Befugnis der zuständigen Behörde, bei Feststellung der Geflügelpest oder 
 
 (2) Bis zum Erlass einer anderweitigen bundesrechtlichen Regelung sind die Vorschriften der Geflügelpest-Verordnung in der Fassung der Bekanntmachung vom 20. Dezember 2005 (BGBl. I S. 3538) hinsichtlich der Newcastle-Krankheit weiter anzuwenden.
 
-### § 68 Inkrafttreten
+### § 68 (Inkrafttreten)
 
 ### Anlage 1 (zu § 8 Absatz 3, § 10 Absatz 3, § 11 Absatz 1, § 15 Absatz 5, § 20 Absatz 1, § 21 Absatz 3, § 47 Absatz 1, § 48 Absatz 2)Liste der gehaltenen Vögel seltener Rassen
 
-(Fundstelle: BGBl. I 2013, 1243)
+(Fundstelle: BGBl. I 2018, 1698)
 
-|                               |                        |                       |
-|-------------------------------|------------------------|-----------------------|
-| **1. Große Hühner**           |                        |                       |
-| Altenglische Kämpfer          | Dorking                | Plymouth Rocks        |
-| Andalusier                    | Empordanesa            | Prat                  |
-| Annaberger Haubenstrupphühner | Eulenbarthühner        | Ramelsloher           |
-| Appenzeller Barthühner        | Hamburger              | Redcaps               |
-| Augsburger                    | Holländer Haubenhühner | Rheinländer           |
-| Bergische Kräher              | Houdan                 | Sachsenhühner         |
-| Bergische Schlotterkämme      | Kaulhühner             | Satsumadori           |
-| Brabanter Bauernhühner        | Koeyoshi               | Spanier               |
-| Brakel                        | Krüper                 | Sudanesische Kämpfer  |
-| Breda                         | La Fleche              | Sultanhühner          |
-| Brügger Kämpfer               | Lakenfelder            | Sumatra               |
-| Cemani                        | Lütticher Kämpfer      | Sundheimer            |
-| Creve Coeur                   | Mechelner              | Thüringer Barthühner  |
-| Croad Langschan               | Minorka                | Tomaru                |
-| Cubalaya                      | Norwegische Jaerhühner | Totenko               |
-| Denizli-Kräher                | Onagadori              | Tuzo                  |
-| Deutsche Lachshühner          | Orloff                 | Vogtländer            |
-| Deutsche Langschan            | Ostfriesische Möwen    | Vorwerkhühner         |
-| Deutsche Reichshühner         | Paduaner               | Westfälische Totleger |
-| Deutsche Sperber              | Penedesenca            |                       |
-| Dominikaner                   | Pfälzer Kampfhühner    |                       |
+|                          |                       |                       |
+|--------------------------|-----------------------|-----------------------|
+| **1. Große Hühner**      |                       |                       |
+| Altsteirer               | Deutsche Reichshühner | Ostfriesische Möwen   |
+| Andalusier               | Deutsche Sperber      | Ramelsloher           |
+| Appenzeller Spitzhauben  | Dominikaner           | Rheinländer           |
+| Augsburger               | Hamburger Hühner      | Sachsenhühner         |
+| Barnevelder              | Italiener             | Sulmtaler             |
+| Bergische Kräher         | Krüper                | Sundheimer            |
+| Bergische Schlotterkämme | Lakenfelder           | Thüringer Barthühner  |
+| Brakel                   | Mechelner             | Vorwerkhühner         |
+| Deutsche Lachshühner     | Minorka               | Westfälische Totleger |
+| Deutsche Langschan       | Orpington             | Wyandotten            |
 
-|                   |                  |                      |
-|-------------------|------------------|----------------------|
-| **2. Puten**      |                  |                      |
-| Cröllwitzer Puten | Puten, gelb      | Puten, schwarz       |
-| Puten, blau       | Puten, kupfer    | Puten, Schwarzflügel |
-| Puten, Bourbon    | Puten, rot       | Puten, weiß          |
-| Puten, bronze     | Puten, Rotflügel |                      |
+|              |                   |                |
+|--------------|-------------------|----------------|
+| **2. Puten** |                   |                |
+| Bronzeputen  | Cröllwitzer Puten | Deutsche Puten |
 
-|                          |                      |                 |
-|--------------------------|----------------------|-----------------|
-| **3. Gänse**             |                      |                 |
-| Afrikanische Höckergänse | Emporda Gänse        | Pilgrim Gänse   |
-| Celler Gänse             | Fränkische Landgänse | Pommerngänse    |
-| Deutsche Legegänse       | Leine Gänse          | Russische Gänse |
-| Diepholzer Gänse         | Lippegänse           | Toulouser Gänse |
-| Emdener Gänse            | Lockengänse          |                 |
+|                      |               |              |
+|----------------------|---------------|--------------|
+| **3. Gänse**         |               |              |
+| Bayerische Landgänse | Emdener Gänse | Pommerngänse |
+| Deutsche Legegänse   | Leinegänse    |              |
+| Diepholzer Gänse     | Lippegänse    |              |
 
-|                           |                    |                   |
-|---------------------------|--------------------|-------------------|
-| **4. Enten**              |                    |                   |
-| Altrheiner Elsterenten    | Gimbsheimer Enten  | Pommernenten      |
-| Amerikanische Pekingenten | Krummschnabelenten | Rouen Clair-Enten |
-| Aylesburyenten            | Landenten          | Rouenenten        |
-| Campbellenten, weiß       | Orpingtonenten     | Smaragdenten      |
-| Deutsche Pekingenten      | Overberger Enten   |                   |
+|                      |                |             |
+|----------------------|----------------|-------------|
+| **4. Enten**         |                |             |
+| Aylesburyenten       | Laufenten      | Rouenenten  |
+| Deutsche Pekingenten | Orpingtonenten | Warzenenten |
+| Hochbrutflugenten    | Pommernenten   |             |
 
 |                            |                              |                       |
 |----------------------------|------------------------------|-----------------------|
-| **5. Zwerghühner**         |                              |                       |
+| **5. Zwerghühner**         |                              |                       |
 | Bergische Zwerg-Kräher     | Zwerg-Brakel                 | Zwerg-Nackthalshühner |
 | Ruhlaer Zwerg Kaulhühner   | Zwerg-Holländer Haubenhühner | Zwerg-Orloff          |
 | Thüringer Zwerg-Barthühner | Zwerg-Kaulhühner             | Zwerg-Paduaner        |
@@ -2670,10 +2824,11 @@ Die Befugnis der zuständigen Behörde, bei Feststellung der Geflügelpest oder 
 
 ### Anlage 2 (zu § 7 Absatz 2, § 13 Absatz 4)
 
-(Fundstelle: BGBl. I 2013, 1244)
+(Fundstelle: BGBl. I 2018, 1699)
 
 Anzahl der
-gehaltenen Enten oder Gänse
+gehaltenen Enten,
+Gänse oder Laufvögel
 je Bestand
 
 Anzahl der
@@ -2686,7 +2841,7 @@ zu haltenden Hühner oder Puten
 weniger als 10
 
 mindestens 1, höchstens jedoch dieselbe
-Anzahl wie gehaltene Enten und Gänse
+Anzahl wie gehaltene Enten, Gänse und Laufvögel
 
 11 – 100
 
