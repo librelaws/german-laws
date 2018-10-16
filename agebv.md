@@ -2,7 +2,7 @@ Allgemeine Gebührenverordnung (AGebV)
 =====================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 22.9.2016 I 2162
+Zuletzt geändert durch Art. 1 V v. 17.10.2018 I 1701
 
 ### 
 
@@ -141,6 +141,8 @@ kalkulatorische Wagnisse.
 3.  
 36,9 Prozent für den höheren Dienst.
 
+Abweichend von Satz 2 ist der Zuschlag auf die Durchschnittsbezüge der Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten in Höhe von 32,6 Prozent anzusetzen.
+
 (3) Der Berechnung der kalkulatorischen Abschreibungen sind die Anschaffungs- und Herstellungskosten oder die Wiederbeschaffungszeitwerte zugrunde zu legen.
 
 (4) Der kalkulatorische Zinssatz für die Verzinsung des gebundenen Kapitals wird vom Bundesministerium der Finanzen festgesetzt. Er wird vom Bundesministerium des Innern im Bundesanzeiger bekannt gemacht.
@@ -217,7 +219,7 @@ Abschnitt 3 Einheitliche Gebühren
 
 ### § 12 Gebühren für Beglaubigungen
 
-(1) Die Gebühr beträgt 10,30 Euro je Beglaubigungsvermerk für die Beglaubigung von
+(1) Die Gebühr beträgt 10,40 Euro je Beglaubigungsvermerk für die Beglaubigung von
 
 1.  
 durch die beglaubigende Behörde selbst hergestellten
@@ -247,10 +249,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ### Anlage 1 (zu § 5 Absatz 1 Nummer 1, § 9 Absatz 1 Nummer 1 Buchstabe a und § 10 Absatz 2 Nummer 1)
 
-(Fundstelle: BGBl. I 2016, 2162 - 2166)
+(Fundstelle: BGBl. I 2017, 1701 – 1706)
 
 Teil A
-
 Allgemeine pauschale Stundensätze
 (Pauschalsätze der Kosten eines Standardarbeitsplatzes in der Bundesverwaltung)
 
@@ -259,452 +260,605 @@ Kostenblock
 Stundensatz
 in Euro
 
-**Abschnitt 1**
-**Personaleinzel- und Sacheinzelkosten**
+**Abschnitt 1
+Personaleinzel- und Sacheinzelkosten**
 
-**1. mit Gemeinkostenzuschlag**
-Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,81 Euro gekürzt werden.
-Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,07 Euro gekürzt werden.
+**1. mit Gemeinkostenzuschlag**
+
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,89 Euro gekürzt werden.
+Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,06 Euro gekürzt werden.
+
+**Verwaltungsbeschäftigte**
 
 einfacher Dienst
 
-47,09
+47,75
 
 mittlerer Dienst
 
-54,75
+55,30
 
 gehobener Dienst
 
-67,30
+68,66
 
 höherer Dienst
 
-84,63
+86,01
 
-**2. ohne Gemeinkostenzuschlag**
-Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,63 Euro gekürzt werden.
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,87 Euro gekürzt werden.
+Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,06 Euro gekürzt werden.
+Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,13 Euro gekürzt werden.
+Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,05 Euro gekürzt werden.
+Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,05 Euro gekürzt werden.
+
+**Polizeivollzugsbeamtinnen und -beamte**
+
+einfacher Dienst
+
+49,66
+
+mittlerer Dienst
+
+57,79
+
+gehobener Dienst
+
+69,44
+
+höherer Dienst
+
+89,80
+
+**2. ohne Gemeinkostenzuschlag**
+
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,70 Euro gekürzt werden.
 Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,05 Euro gekürzt werden.
 
-einfacher Dienst
-
-36,23
-
-mittlerer Dienst
-
-42,13
-
-gehobener Dienst
-
-51,78
-
-höherer Dienst
-
-65,11
-
-**Abschnitt 2**
-**Personaleinzelkosten**
-
-**1. mit Gemeinkostenzuschlag**
-Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,27 Euro gekürzt werden.
+**Verwaltungsbeschäftigte**
 
 einfacher Dienst
 
-35,36
+37,28
 
 mittlerer Dienst
 
-43,02
+43,17
 
 gehobener Dienst
 
-55,57
+53,60
 
 höherer Dienst
 
-72,90
+67,14
 
-**2. ohne Gemeinkostenzuschlag**
-Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,21 Euro gekürzt werden.
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,68 Euro gekürzt werden.
+Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,05 Euro gekürzt werden.
+Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,10 Euro gekürzt werden.
+Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,04 Euro gekürzt werden.
+Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,04 Euro gekürzt werden.
+
+**Polizeivollzugsbeamtinnen und -beamte**
 
 einfacher Dienst
 
-27,20
+38,77
 
 mittlerer Dienst
 
-33,10
+45,12
 
 gehobener Dienst
 
-42,75
+54,21
 
 höherer Dienst
 
-56,08
+70,10
 
-**Abschnitt 3**
-**Sacheinzelkosten**
+**Abschnitt 2
+Personaleinzelkosten**
 
-**1. mit Gemeinkostenzuschlag**
-Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,54 Euro gekürzt werden.
-Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,07 Euro gekürzt werden.
+**1. mit Gemeinkostenzuschlag**
 
-11,73
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,30 Euro gekürzt werden.
 
-**2. ohne Gemeinkostenzuschlag**
-Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,42 Euro gekürzt werden.
+**Verwaltungsbeschäftigte**
+
+einfacher Dienst
+
+35,95
+
+mittlerer Dienst
+
+43,50
+
+gehobener Dienst
+
+56,86
+
+höherer Dienst
+
+74,21
+
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,30 Euro gekürzt werden.
+
+**Polizeivollzugsbeamtinnen und -beamte**
+
+einfacher Dienst
+
+38,16
+
+mittlerer Dienst
+
+46,29
+
+gehobener Dienst
+
+57,93
+
+höherer Dienst
+
+78,29
+
+**2. ohne Gemeinkostenzuschlag**
+
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,24 Euro gekürzt werden.
+
+**Verwaltungsbeschäftigte**
+
+einfacher Dienst
+
+28,07
+
+mittlerer Dienst
+
+33,96
+
+gehobener Dienst
+
+44,39
+
+höherer Dienst
+
+57,93
+
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,23 Euro gekürzt werden.
+
+**Polizeivollzugsbeamtinnen und -beamte**
+
+einfacher Dienst
+
+29,79
+
+mittlerer Dienst
+
+36,14
+
+gehobener Dienst
+
+45,23
+
+höherer Dienst
+
+61,12
+
+**Abschnitt 3
+Sacheinzelkosten**
+
+**1. mit Gemeinkostenzuschlag**
+
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,59 Euro gekürzt werden.
+Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,06 Euro gekürzt werden.
+
+**Verwaltungsbeschäftigte**
+
+11,80
+
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,58 Euro gekürzt werden.
+Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,06 Euro gekürzt werden.
+Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,13 Euro gekürzt werden.
+Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,05 Euro gekürzt werden.
+Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,05 Euro gekürzt werden.
+
+**Polizeivollzugsbeamtinnen und -beamte**
+
+11,50
+
+**2. ohne Gemeinkostenzuschlag**
+
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,46 Euro gekürzt werden.
 Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,05 Euro gekürzt werden.
 
- 9,03
+**Verwaltungsbeschäftigte**
+
+9,21
+
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,45 Euro gekürzt werden.
+Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,05 Euro gekürzt werden.
+Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,10 Euro gekürzt werden.
+Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,04 Euro gekürzt werden.
+Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,04 Euro gekürzt werden.
+
+**Polizeivollzugsbeamtinnen und -beamte**
+
+8,98
 
 Teil B
-
 Herleitung der allgemeinen pauschalen Stundensätze
 
 Kostenblock
 
-Zweckbestimmung
+Besoldungs- bzw. Entgeltgruppe/Zweckbestimmung
 
-Kosten für den Bund
+Durchschnittskosten für den Bund
 pro Jahr in Euro
 
-**1. Personaleinzelkosten**
+**1. Personaleinzelkosten**
 
-**1.1 Beamtinnen und Beamte**
+**1.1 Beamtinnen und Beamte**
 
-1.1.1 Bruttobezüge
+1.1.1 steuerpflichtiges Brutto
 
-A  2
+A 2
 
-24 819
+–
 
-A  3
+A 3
 
-26 464
+27 817
 
-A  4
+A 4
 
-32 435
+33 676
 
-A  5
+A 5
 
-32 629
+34 762
 
-A  6
+A 6
 
-33 947
+35 349
 
 **einfacher Dienst A 2 bis A 6**
 
-**32 992**
+**34 704**
 
-A  6
+A 6
 
-30 358
+32 123
 
-A  7
+A 7
 
-34 787
+36 120
 
-A  8
+A 8
 
-39 354
+40 963
 
-A  9
+A 9
 
-43 420
+45 511
 
-A  9 + Zulage
+A 9 + Zulage
 
-47 033
+49 427
 
 **mittlerer Dienst A 6 bis A 9 + Zulage**
 
-**40 653**
+**42 577**
 
-A  9
+A 9
 
-37 971
+37 879
 
 A 10
 
-46 484
+48 540
 
 A 11
 
-51 953
+54 686
 
 A 12
 
-56 747
+59 780
 
 A 13
 
-63 244
+66 854
 
 A 13 + Zulage
 
-67 717
+71 216
 
 **gehobener Dienst A 9 bis A 13 + Zulage**
 
-**50 821**
+**53 847**
 
 A 13
 
-58 054
+61 424
 
 A 14
 
-66 197
+69 789
 
 A 15
 
-75 426
+80 688
 
 A 16
 
-83 902
+89 946
 
 **höherer Dienst A 13 bis A 16**
 
-**68 925**
+**73 551**
 
-1.1.2 Versorgung
+1.1.2 Versorgung
 % von 1.1.1
 
-|                  |      |
-|------------------|------|
-| einfacher Dienst | 27,9 |
+**Verwaltungsbeamtinnen und -beamte**
 
- 9 205
+|                  |        |
+|------------------|--------|
+| einfacher Dienst | 27,9   |
 
-|                  |      |
-|------------------|------|
-| mittlerer Dienst | 27,9 |
+ 9 682
 
-11 342
+|                  |        |
+|------------------|--------|
+| mittlerer Dienst | 27,9   |
 
-|                  |      |
-|------------------|------|
-| gehobener Dienst | 29,3 |
+11 879
 
-14 890
+|                  |        |
+|------------------|--------|
+| gehobener Dienst | 29,3   |
 
-|                |      |
-|----------------|------|
-| höherer Dienst | 36,9 |
+15 777
 
-25 433
+|                |        |
+|----------------|--------|
+| höherer Dienst | 36,9   |
 
-1.1.3 Personalnebenkosten
+27 140
 
-Beihilfen aufgrund der Beihilfevorschriften
+**Polizeivollzugsbeamtinnen und -beamte**
 
- 1 950
+|                  |        |
+|------------------|--------|
+| einfacher Dienst | 32,6   |
+
+11 314
+
+|                  |        |
+|------------------|--------|
+| mittlerer Dienst | 32,6   |
+
+13 880
+
+|                  |        |
+|------------------|--------|
+| gehobener Dienst | 32,6   |
+
+17 554
+
+|                |        |
+|----------------|--------|
+| höherer Dienst | 32,6   |
+
+23 978
+
+1.1.3 sonstige Personalnebenkosten
+
+Beihilfen aufgrund der Beihilfevorschriften sowie Heilfürsorge der Polizeivollzugsbeamtinnen und -beamten
+
+ 2 450
 
 Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme von besonderen Fachdiensten/-kräften
 
-   100
+   100
 
-Trennungsgeld, Fahrkostenzuschüsse sowie Umzugskostenvergütungen
+Trennungsgeld, Fahrtkostenzuschüsse sowie Umzugskostenvergütungen
 
-   350
+   400
 
-**1.2 Arbeitnehmerinnen und Arbeitnehmer**
+**1.2 Arbeitnehmerinnen und Arbeitnehmer**
 
-1.2.1 Bruttobezüge
+1.2.1 steuerpflichtiges Brutto
 
-E  2
+E 2
 
-31 084
+30 652
 
-E  2 (übertarifliche Bezahlung)
+E 2 (übertarifliche Bezahlung)
 
-31 388
+29 386
 
-E  3
+E 3
 
-32 637
+33 188
 
-E  4
+E 4
 
-33 329
-
-**einfacher Dienst E 2 bis E 4**
-
-**32 555**
-
-E  5
-
-35 753
-
-E  6
-
-37 293
-
-E  7
-
-40 525
-
-E  8
-
-41 772
-
-E  9 A
-
-44 034
-
-**mittlerer Dienst E 5 bis E 9 A**
-
-**39 231**
-
-E  9 B
-
-47 070
-
-E 10
-
-51 164
-
-E 11
-
-56 417
-
-E 12
-
-65 381
-
-**gehobener Dienst E 9 B bis E 12**
-
-**53 844**
-
-E 13
-
-54 323
-
-E 14
-
-67 582
-
-E 15
-
-77 588
-
-E 15 (übertarifliche Bezahlung)
-
-90 928
-
-**höherer Dienst E 13 bis E 15 (übertarifliche Bezahlung)**
-
-**62 519**
-
-1.2.2 Arbeitgeberanteil Sozialversicherung
-
-E  2
-
- 8 765
-
-E  2 (übertarifliche Bezahlung)
-
- 9 091
-
-E  3
-
- 9 324
-
-E  4
-
-10 049
+33 956
 
 **einfacher Dienst E 2 bis E 4**
 
-** 9 366**
+**33 084**
 
-E  5
+E 5
 
-10 258
+36 631
 
-E  6
+E 6
 
-11 160
+37 484
 
-E  7
+E 7
 
-12 250
+41 365
 
-E  8
+E 8
 
-12 582
+42 865
 
-E  9 A
+E 9 a
 
-13 525
+45 461
 
-**mittlerer Dienst E 5 bis E 9 A**
+**mittlerer Dienst E 5 bis E 9 a**
 
-**11 722**
+**39 868**
 
-E  9 B
+E 9 b
 
-13 879
+48 940
 
 E 10
 
-14 929
+52 361
 
 E 11
 
-16 394
+57 647
 
 E 12
 
-18 518
+61 604
 
-**gehobener Dienst E 9 B bis E 12**
+**gehobener Dienst E 9 b bis E 12**
 
-**15 640**
+**54 849**
 
 E 13
 
-15 080
+57 094
 
 E 14
 
-18 083
+70 833
 
 E 15
 
-19 833
+81 954
 
 E 15 (übertarifliche Bezahlung)
 
-21 577
+96 415
 
 **höherer Dienst E 13 bis E 15 (übertarifliche Bezahlung)**
 
-**16 894**
+**64 900**
 
-1.2.3 Personalnebenkosten
+1.2.2 Personalnebenkosten Bezüge
+
+E 2
+
+ 8 232
+
+E 2 (übertarifliche Bezahlung)
+
+ 7 932
+
+E 3
+
+ 8 654
+
+E 4
+
+ 8 997
+
+**einfacher Dienst E 2 bis E 4**
+
+** 8 682**
+
+E 5
+
+ 9 721
+
+E 6
+
+ 9 980
+
+E 7
+
+11 307
+
+E 8
+
+11 633
+
+E 9 a
+
+12 179
+
+**mittlerer Dienst E 5 bis E 9 a**
+
+**10 683**
+
+E 9 b
+
+12 821
+
+E 10
+
+13 572
+
+E 11
+
+14 770
+
+E 12
+
+15 380
+
+**gehobener Dienst E 9 b bis E 12**
+
+**14 075**
+
+E 13
+
+14 426
+
+E 14
+
+17 057
+
+E 15
+
+18 248
+
+E 15 (übertarifliche Bezahlung)
+
+19 586
+
+**höherer Dienst E 13 bis E 15 (übertarifliche Bezahlung)**
+
+**15 851**
+
+1.2.3 sonstige Personalnebenkosten
 
 Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme von besonderen Fachdiensten/-kräften
 
-   100
+   100
 
 Unfallversicherung Bund und Bahn
 
-   250
+   250
 
-Trennungsgeld, Fahrkostenzuschüsse sowie Umzugskostenvergütungen
+Trennungsgeld, Fahrtkostenzuschüsse sowie Umzugskostenvergütungen
 
-   350
+   400
 
-**2. Sacheinzelkosten**
+**2. Sacheinzelkosten**
 
-**2.1 sächliche Verwaltungsausgaben**
+**2.1 sächliche Verwaltungsausgaben**
 
- 4 900
+ 4 690
 
 Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände, Software, Wartung
 
@@ -718,9 +872,9 @@ Dienstreisen
 
 Sachverständige
 
-**2.2 Investitionen**
+**2.2 Investitionen**
 
- 2 530
+ 2 940
 
 kleine Neu-, Um- und Erweiterungsbauten (weniger als 2 Mio. Euro pro Baumaßnahme)
 
@@ -728,13 +882,13 @@ Erwerb von Fahrzeugen
 
 Erlöse aus der Veräußerung von beweglichen Sachen
 
+Erwerb von Geräten, Ausstattungs- und Ausrüstungsgegenständen für Verwaltungszwecke (ohne Informationstechnik)
+
 Erwerb von Anlagen, Geräten, Ausstattungs- und Ausrüstungsgegenständen sowie Software im Bereich Informationstechnik
 
-Erwerb von sonstigen Geräten, Ausstattungs- und Ausrüstungsgegenständen für Verwaltungszwecke
+**2.3 Büroräume**
 
-**2.3 Büroräume**
-
- 7 720
+ 7 750
 
 Bewirtschaftung der Grundstücke, Gebäude und Räume
 
@@ -742,113 +896,76 @@ Mieten und Pachten im Zusammenhang mit dem einheitlichen Liegenschaftsmanagement
 
 Unterhaltung der Grundstücke und baulichen Anlagen
 
-**2.4 pauschaler Abschlag von 2.1 bis 2.3**
+**2.4 pauschaler Abschlag von 2.1 bis 2.3**
 
-– 4 %
+– 4 %
 
 |                                                        |
 |--------------------------------------------------------|
-| **3. Gemeinkosten**                                    |
+| **3. Gemeinkosten**                                    |
 | Zuschlagssatz auf Personaleinzel- und Sacheinzelkosten |
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>4. Personalzahl</strong></td>
-</tr>
-<tr class="even">
-<td>Bundesbedienstete</td>
-</tr>
-<tr class="odd">
-<td><strong>4.1 Köpfe</strong></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td><strong>4.2 Vollzeitäquivalente</strong></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-</tbody>
-</table>
+|                                           |
+|-------------------------------------------|
+| **4. Personalstruktur Bundesbedienstete** |
+| **4.1 Anzahl**                            |
+|                                           |
+|                                           |
+| **4.2 Vollzeitäquivalente**               |
+|                                           |
+|                                           |
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>5. Arbeitsleistung</strong></td>
-</tr>
-<tr class="even">
-<td>Arbeitsstunden</td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-</tbody>
-</table>
+|                        |
+|------------------------|
+| **5. Arbeitsleistung** |
+| Arbeitsstunden         |
+|                        |
+|                        |
 
 ### Anlage 2 (zu § 5 Absatz 1 Nummer 2, § 9 Absatz 1 Nummer 1 Buchstabe b und § 10 Absatz 2 Nummer 2)
 
-(Fundstelle: BGBl. I 2015, 137 - 141)
+(Fundstelle: BGBl. I 2018, 1707 – 1712)
 
-Besondere pauschale Stundensätze (Berechnungsschema für behördenspezifische Pauschalsätze)
+Besondere pauschale Stundensätze
+(Berechnungsschema für behördenspezifische Pauschalsätze)
 
 Kostenblock
 
-Zweckbestimmung
+Besoldungs- bzw. Entgeltgruppe/Zweckbestimmung
 
-Festtitel
+Festtitel gemäß Haushaltssystematik des Bundes
 
-Festtitel gemäß
-Haushalts-
-systematik des Bundes – neu
+**1. Personaleinzelkosten**
 
-Festtitel gemäß
-Haushalts-
-systematik des Bundes – alt
+**1.1 Beamtinnen und Beamte**
 
-**1. Personaleinzelkosten**
+1.1.1 steuerpflichtiges Brutto
 
-**1.1 Beamtinnen und Beamte**
+A 2
 
-1.1.1 Brutto-
-bezüge
+A 3
 
-A  2
+A 4
 
-A  3
+A 5
 
-A  4
-
-A  5
-
-A  6
+A 6
 
 **einfacher Dienst A 2 bis A 6**
 
-A  6
+A 6
 
-A  7
+A 7
 
-A  8
+A 8
 
-A  9
+A 9
 
-A  9 + Zulage
+A 9 + Zulage
 
 **mittlerer Dienst A 6 bis A 9 + Zulage**
 
-A  9
+A 9
 
 A 10
 
@@ -872,85 +989,93 @@ A 16
 
 **höherer Dienst A 13 bis A 16**
 
-1.1.2 Versorgung
+1.1.2 Versorgung
 % von 1.1.1
 
-|                  |      |
-|------------------|------|
-| einfacher Dienst | 27,9 |
+**Verwaltungsbeamtinnen und -beamte**
 
-|                  |      |
-|------------------|------|
-| mittlerer Dienst | 27,9 |
+|                  |        |
+|------------------|--------|
+| einfacher Dienst | 27,9   |
 
-|                  |      |
-|------------------|------|
-| gehobener Dienst | 29,3 |
+|                  |        |
+|------------------|--------|
+| mittlerer Dienst | 27,9   |
 
-|                |      |
-|----------------|------|
-| höherer Dienst | 36,9 |
+|                  |        |
+|------------------|--------|
+| gehobener Dienst | 29,3   |
 
-1.1.3 Personalnebenkosten
+|                |        |
+|----------------|--------|
+| höherer Dienst | 36,9   |
 
-Beihilfen aufgrund der Beihilfevorschriften
+**Polizeivollzugsbeamtinnen und -beamte**
 
-Z 441 .1
+|                  |        |
+|------------------|--------|
+| einfacher Dienst | 32,6   |
 
-441 .1
+|                  |        |
+|------------------|--------|
+| mittlerer Dienst | 32,6   |
 
-Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme von besonderen Fachdiensten/-kräften
+|                  |        |
+|------------------|--------|
+| gehobener Dienst | 32,6   |
+
+|                |        |
+|----------------|--------|
+| höherer Dienst | 32,6   |
+
+1.1.3 sonstige Personalnebenkosten
+
+Beihilfen aufgrund der Beihilfevorschriften sowie Heilfürsorge der Polizeivollzugsbeamtinnen und -beamten
+
+Z 441 .1 sowie 443 .3
+
+Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme von besonderen Fachdiensten/‑kräften
 
 Z 443 .1
 
-443 .1
-443 .2
-
-Trennungsgeld, Fahrkostenzuschüsse sowie Umzugskostenvergütungen
+Trennungsgeld, Fahrtkostenzuschüsse sowie Umzugskostenvergütungen
 
 453 .1
 
-453 .1
-
-wenn bei Dienstreisen
-Trennungsgeld als Auslage
-abgerechnet wird:
-5 % dieses Titels
+wenn bei Dienstreisen Trennungsgeld als Auslage abgerechnet wird:
+5% dieses Titels
 
 vermischte Personalausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
 459 .9
 
-459 .9
+**1.2 Arbeitnehmerinnen und Arbeitnehmer**
 
-**1.2 Arbeitnehmerinnen und Arbeitnehmer**
+1.2.1 steuerpflichtiges Brutto
 
-1.2.1 Brutto-
-bezüge
+E 2
 
-E  2
+E 2 (übertarifliche Bezahlung)
 
-E  2 (übertarifliche Bezahlung)
+E 3
 
-E  3
-
-E  4
+E 4
 
 **einfacher Dienst E 2 bis E 4**
 
-E  5
+E 5
 
-E  6
+E 6
 
-E  7
+E 7
 
-E  8
+E 8
 
-E  9 A
+E 9 a
 
-**mittlerer Dienst E 5 bis E 9 A**
+**mittlerer Dienst E 5 bis E 9 a**
 
-E  9 B
+E 9 b
 
 E 10
 
@@ -958,7 +1083,7 @@ E 11
 
 E 12
 
-**gehobener Dienst E 9 B bis E 12**
+**gehobener Dienst E 9 b bis E 12**
 
 E 13
 
@@ -970,33 +1095,31 @@ E 15 (übertarifliche Bezahlung)
 
 **höherer Dienst E 13 bis E 15 (übertarifliche Bezahlung)**
 
-1.2.2 Arbeitgeber-
-anteil Sozial-
-versicherung
+1.2.2 Personalnebenkosten Bezüge
 
-E  2
+E 2
 
-E  2 (übertarifliche Bezahlung)
+E 2 (übertarifliche Bezahlung)
 
-E  3
+E 3
 
-E  4
+E 4
 
 **einfacher Dienst E 2 bis E 4**
 
-E  5
+E 5
 
-E  6
+E 6
 
-E  7
+E 7
 
-E  8
+E 8
 
-E  9 A
+E 9 a
 
-**mittlerer Dienst E 5 bis E 9 A**
+**mittlerer Dienst E 5 bis E 9 a**
 
-E  9 B
+E 9 b
 
 E 10
 
@@ -1004,7 +1127,7 @@ E 11
 
 E 12
 
-**gehobener Dienst E 9 B bis E 12**
+**gehobener Dienst E 9 b bis E 12**
 
 E 13
 
@@ -1016,95 +1139,79 @@ E 15 (übertarifliche Bezahlung)
 
 **höherer Dienst E 13 bis E 15 (übertarifliche Bezahlung)**
 
-1.2.3 Personalnebenkosten
+1.2.3 sonstige Personalnebenkosten
 
 Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme von besonderen Fachdiensten/-kräften
 
 Z 443 .1
-
-443 .1
-443 .2
 
 Unfallversicherung Bund und Bahn
 
 Z 452 02
 
-452 02
-
-Trennungsgeld, Fahrkostenzuschüsse sowie Umzugskostenvergütungen
+Trennungsgeld, Fahrtkostenzuschüsse sowie Umzugskostenvergütungen
 
 453 .1
 
-453 .1
-
-wenn bei Dienstreisen
-Trennungsgeld als Auslage
-abgerechnet wird:
+wenn bei Dienstreisen Trennungsgeld als Auslage abgerechnet wird:
 5 % dieses Titels
 
 vermischte Personalausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
 459 .9
 
-459 .9
-
 **2. Sacheinzelkosten**
 
-**2.1 sächliche Verwaltungsausgaben**
+**2.1 sächliche Verwaltungsausgaben**
 
 Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände, Software, Wartung
 
 511 .1
 
-511 .1
-511 55
-511 56
-
 Verbrauchsmittel, Haltung von Fahrzeugen und dergleichen
 
 514 .1
 
-514 .1
+wenn Hubschrauber als Auslage abgerechnet werden:
+72 % dieses Titels
+
+wenn Boote oder Schiffe als Auslage abgerechnet werden:
+89 % dieses Titels
 
 Mieten und Pachten
 
 518 .1
 
-518 .1
-518 55
-518 56
-
 Aus- und Fortbildung
 
 525 .1
-
-525 .1
-525 55
-525 56
 
 Dienstreisen
 
 527 .1
 
-527 .1
-527 09
-
 wenn Dienstreisen als Auslage abgerechnet werden:
 Ansatz dieses Titels:
 0 Euro
+
+Sachverständige, Ausgaben für Mitglieder von Fachbeiräten und ähnlichen Ausschüssen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
+
+Z 526 .2
+
+wenn Sachverständige als Auslage abgerechnet werden:
+60 % dieses Titels
 
 außergewöhnlicher Aufwand aus dienstlicher Veranlassung in besonderen Fällen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
 Z 529 .1
 
-529 .1
-
 Aufträge und Dienstleistungen im Bereich Informationstechnik – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
 532 .1
 
-532 55
-532 56
+behördenspezifische fachbezogene Verwaltungsausgaben (ohne Informationstechnik) – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
+
+532 .2
 
 sonstige Dienstleistungsaufträge an Dritte – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
@@ -1117,60 +1224,29 @@ vermischte Verwaltungsausgaben – soweit die Kosten mit der gebührenfähigen L
 
 539 .9
 
-539 .9
-539 55
-546 88
-
-nicht aufteilbare sächliche Verwaltungsausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
-
-547 .1
-
-547 .1
-
-Sachverständige, Ausgaben für Mitglieder von Fachbeiräten und ähnlichen Ausschüssen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
-
-Z 526 .2
-
-526 .2
-526 .3
-
-wenn Sachverständige als
-Auslage abgerechnet werden:
-60 % dieses Titels
-
 Öffentlichkeitsarbeit – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
 Z 542 .1
-
-542 .1
 
 Veröffentlichungen, Fachinformationen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
 Z 543 .1
 
-543 .1
+Forschung, Untersuchungen und Ähnliches – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
+
+544 .1
 
 Konferenzen, Tagungen, Messen und Ausstellungen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
 Z 545 .1
 
-545 .1
+nicht aufteilbare sächliche Verwaltungsausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
-Forschung, Untersuchungen und Ähnliches – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
+547 .1
 
-544 .1
-
-544 .1
-
-behördenspezifische fachbezogene Verwaltungsausgaben (ohne Informationstechnik) – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
-
-532 .2
-
-**2.2 Investitionen**
+**2.2 Investitionen**
 
 kleine Neu-, Um- und Erweiterungsbauten (weniger als 2 Mio. Euro pro Baumaßnahme)
-
-711 .1
 
 711 .1
 
@@ -1178,38 +1254,28 @@ Erwerb von Fahrzeugen
 
 811 .1
 
-811 .1
+wenn Wasserwerfer als Auslage abgerechnet werden:
+87 % dieses Titels
 
 Erlöse aus der Veräußerung von beweglichen Sachen
 
 132 .1
 
-132 .1
+Erwerb von Geräten, Ausstattungs- und Ausrüstungsgegenständen für Verwaltungszwecke (ohne IT)
+
+812 .1
 
 Erwerb von Anlagen, Geräten, Ausstattungs- und Ausrüstungsgegenständen sowie Software im Bereich Informationstechnik
 
 812 .2
 
-812 55
-812 56
-
-Erwerb von sonstigen Geräten, Ausstattungs- und Ausrüstungsgegenständen für Verwaltungszwecke
-
-812 .1
-
-Extraktion aus Festtitel 812 der Haushaltssystematik des Bundes – alt
-
 Baumaßnahmen von mehr als 2 Mio. Euro im Einzelfall – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3)
 
 712 .1
 
-712 .1
-
-**2.3 Büroräume**
+**2.3 Büroräume**
 
 Bewirtschaftung der Grundstücke, Gebäude und Räume
-
-517 .1
 
 517 .1
 
@@ -1217,23 +1283,19 @@ Mieten und Pachten im Zusammenhang mit dem einheitlichen Liegenschaftsmanagement
 
 518 .2
 
-518 .2
-
 Unterhaltung der Grundstücke und baulichen Anlagen
 
 519 .1
 
-519 .1
-
-**2.4 pauschaler Abschlag von 2.1 bis 2.3**
+**2.4 pauschaler Abschlag von 2.1 bis 2.3**
 
 – 4 %
 
 |                                                                                                          |
 |----------------------------------------------------------------------------------------------------------|
-| **3. Gemeinkosten**                                                                                      |
+| **3. Gemeinkosten**                                                                                      |
 | Zuschlagssatz auf Personaleinzel- und Sacheinzelkosten in Prozent                                        |
-| **3.1 relevante Organisationseinheiten, die interne Leistungen erbringen**                               |
+| **3.1 relevante Organisationseinheiten, die interne Leistungen erbringen**                               |
 | Leitung                                                                                                  |
 | Stabstellen                                                                                              |
 | interne Beauftragte (z. B. Datenschutzbeauftragte)                                                       |
@@ -1252,52 +1314,45 @@ Unterhaltung der Grundstücke und baulichen Anlagen
 | Stelle für Reisekosten, Umzugskosten, Trennungsgeld                                                      |
 | Bezügestelle                                                                                             |
 | Personalvertretung                                                                                       |
-| **3.2 Rechts- und Fachaufsicht**                                                                         |
+| **3.2 Rechts- und Fachaufsicht**                                                                         |
 
 <table>
 <tbody>
 <tr class="odd">
-<td><strong>4. Personalzahl</strong></td>
+<td><strong>4. Personalstruktur</strong></td>
 </tr>
 <tr class="even">
-<td>Bundesbedienstete</td>
-</tr>
-<tr class="odd">
-<td>4.1 Köpfe</td>
-</tr>
-<tr class="even">
-<td></td>
+<td><strong>4.1 Anzahl</strong></td>
 </tr>
 <tr class="odd">
 <td></td>
 </tr>
 <tr class="even">
-<td>4.2 Vollzeitäquivalente</td>
+<td>Arbeitnehmerinnen und Arbeitnehmer</td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><strong>4.2 Vollzeitäquivalente</strong></td>
 </tr>
 <tr class="even">
 <td></td>
+</tr>
+<tr class="odd">
+<td>Arbeitnehmerinnen und Arbeitnehmer</td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td>Arbeitnehmerinnen und Arbeitnehmer</td>
 </tr>
 </tbody>
 </table>
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>5. Arbeitsleistung</strong></td>
-</tr>
-<tr class="even">
-<td>Arbeitsstunden</td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-</tbody>
-</table>
+|                                    |
+|------------------------------------|
+| **5. Arbeitsleistung**             |
+| Arbeitsstunden                     |
+|                                    |
+| Arbeitnehmerinnen und Arbeitnehmer |
 
-
+.
