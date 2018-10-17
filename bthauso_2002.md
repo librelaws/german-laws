@@ -2,7 +2,7 @@ Hausordnung des Deutschen Bundestages ()
 ========================================
 
 Stand  
-Geändert durch Bek. v. 25.11.2004 I 3386
+Zuletzt geändert durch Bek. v. 18.10.2018 I 2246
 
 ### 
 
@@ -36,7 +36,7 @@ der oder die Wehrbeauftragte des Deutschen Bundestages,
 Inhaber eines nach Absatz 2 vom Deutschen Bundestag ausgegebenen Bundestagsausweises,
 
 3.  
-bei berechtigtem Anlass Inhaber eines nach den Absätzen 3 bis 6 vom Deutschen Bundestag ausgegebenen Bundestagsausweises. Als Bundestagsausweis gelten auch der Tagesausweis, die Einlasskarte sowie der Bundestagspresseausweis.
+bei berechtigtem Anlass Inhaber eines nach den Absätzen 3 bis 6 vom Deutschen Bundestag ausgegebenen Ausweises.
 
 (2) Einen Bundestagsausweis erhalten
 
@@ -56,21 +56,27 @@ auf Grund ihres Ehemaligenausweises ehemalige Mitglieder des Deutschen Bundestag
 auf Grund ihres Beschäftigungsverhältnisses
 
 a)  
-die Bediensteten der Verwaltung des Deutschen Bundestages und des Bundesrates,
+die Bediensteten der Verwaltung des Deutschen Bundestages und des Bundesrates, wenn diesen kein elektronischer Dienstausweis ausgestellt wurde,
 
 b)  
 die Mitarbeiterinnen und Mitarbeiter der Fraktionen,
 
 c)  
-die Mitarbeiterinnen und Mitarbeiter der Mitglieder des Deutschen Bundestages,
+die mit einem Arbeitsvertrag oder als Praktikantin oder Praktikant beschäftigten Mitarbeiterinnen und Mitarbeiter der Mitglieder des Deutschen Bundestages,
 
 d)  
 die in den Büros im Deutschen Bundestag beschäftigten Mitarbeiterinnen und Mitarbeiter der deutschen Mitglieder des Europäischen Parlaments,
 
 e)  
-die Mitarbeiterinnen und Mitarbeiter der Interparlamentarischen Arbeitsgemeinschaft.
+die Mitarbeiterinnen und Mitarbeiter der Interparlamentarischen Arbeitsgemeinschaft,
 
-(3) Einen Bundestagsausweis können erhalten
+4.  
+die Mitglieder der G 10-Kommission,
+
+5.  
+der Ständige Bevollmächtigte des Parlamentarischen Kontrollgremiums.
+
+(3) Einen Bundestagsausweis können ferner erhalten
 
 1.  
 Inhaber eines
@@ -79,7 +85,7 @@ a)
 Dienstausweises einer obersten Bundes- oder Landesbehörde,
 
 b)  
-Diplomatenpasses,
+Protokollausweises (Kennzeichnung „D“) des Auswärtigen Amtes,
 
 c)  
 Dienstausweises des Sekretariats des Europäischen Parlaments oder der EU-Kommission,
@@ -87,13 +93,13 @@ Dienstausweises des Sekretariats des Europäischen Parlaments oder der EU-Kommis
 wenn das Erfordernis nicht nur gelegentlicher Besuche besteht,
 
 2.  
-Mitarbeiterinnen und Mitarbeiter der Medien in Form eines Bundestagspresseausweises (Tages- oder Jahresakkreditierung durch das Pressezentrum des Deutschen Bundestages oder Wahlperiodenakkreditierung durch das Presse- und Informationsamt der Bundesregierung in Kooperation mit dem Pressezentrum des Deutschen Bundestages).
+Mitarbeiterinnen und Mitarbeiter der Medien in Form eines Bundestagspresseausweises (Tages- oder Jahresakkreditierung durch das Pressezentrum des Deutschen Bundestages).
 
-Für gelegentliche Besuche wird gegen Hinterlegung eines Lichtbildausweises (z. B. Pass, Personalausweis) jeweils an der Pforte ein Bundestagsausweis in Form eines Tagesausweises zum Zutritt am jeweiligen Tage ausgegeben. Medienvertreter erhalten solche Tagesausweise vom Pressereferat.
+Für gelegentliche Besuche wird gegen Hinterlegung eines amtlichen Ausweises jeweils an der Pforte ein Tagesausweis zum Zutritt am jeweiligen Tage ausgegeben. Medienvertreter erhalten solche Tagesausweise vom Pressereferat.
 
-(4) Andere Personen (z. B. Verbandsvertreter, Handwerker, Lieferanten) können für einen nicht nur gelegentlich erforderlichen Zutritt aus berechtigtem Anlass einen Bundestagsausweis mit einer Gültigkeitsdauer bis maximal zum Ende des laufenden Kalenderjahres im Rahmen der geltenden Vorschriften erhalten. Für gelegentliche Besuche wird gegen Hinterlegung eines Lichtbildausweises (z. B. Pass, Personalausweis) jeweils an der Pforte ein Bundestagsausweis in Form eines Tagesausweises zum Zutritt am jeweiligen Tage ausgegeben.
+(4) Andere Personen können für einen nicht nur gelegentlich erforderlichen Zutritt aus berechtigtem Anlass einen Bundestagsausweis mit einer Gültigkeitsdauer grundsätzlich bis maximal zum Ende des laufenden Kalenderjahres im Rahmen der geltenden Vorschriften erhalten. Für gelegentliche Besuche wird gegen Hinterlegung eines amtlichen Ausweises jeweils an der Pforte ein Tagesausweis zum Zutritt am jeweiligen Tage ausgegeben.
 
-(5) Tagesausweise gegen Hinterlegung eines Lichtbildausweises erhalten auch
+(5) Tagesausweise gegen Hinterlegung eines amtlichen Ausweises erhalten auch
 
 1.  
 auf Grund ihres Ehemaligenausweises ehemalige deutsche Mitglieder des Europäischen Parlaments,
@@ -102,7 +108,7 @@ auf Grund ihres Ehemaligenausweises ehemalige deutsche Mitglieder des Europäisc
 auf Grund ihres Mitgliedsausweises die Mitglieder der deutschen Länderparlamente,
 
 3.  
-auf Grund ihres Beschäftigungsnachweises die nicht in den Büros im Deutschen Bundestag beschäftigten Mitarbeiterinnen und Mitarbeiter der deutschen Mitglieder des Europäischen Parlaments.
+auf Grund ihres Beschäftigungsnachweises die nicht in den Büros beim Deutschen Bundestag beschäftigten Mitarbeiterinnen und Mitarbeiter der deutschen Mitglieder des Europäischen Parlaments.
 
 (6) Gäste sind bei berechtigtem Anlass zutrittsberechtigt auf Grund
 
@@ -110,7 +116,13 @@ auf Grund ihres Beschäftigungsnachweises die nicht in den Büros im Deutschen B
 einer Einlasskarte,
 
 2.  
-eines Tagesausweises, der beim Pfortendienst gegen Hinterlegung des Personalausweises oder Passes ausgegeben wird und zu einem einmaligen befristeten Zutritt berechtigt.
+eines Tagesausweises, der beim Pfortendienst gegen Hinterlegung eines amtlichen Ausweises ausgegeben wird und zu einem einmaligen befristeten Zutritt berechtigt.
+
+(6a) Die Ausstellung eines Bundestagsausweises erfolgt auf Antrag. Der Antrag kann abgelehnt werden, wenn begründete Zweifel an der Zuverlässigkeit der antragstellenden Person bestehen. Bei antragstellenden Personen im Sinne des Absatzes 2 Nr. 3, des Absatzes 3 Satz 1 Nr. 1 Buchstabe c) und Nr. 2 (Jahresakkreditierungen) sowie des Absatzes 4 Satz 1 wird eine Zuverlässigkeitsüberprüfung durchgeführt. Die Zuverlässigkeitsüberprüfung erfolgt mit Einwilligung der Betroffenen insbesondere durch Einsichtnahme in das Vorgangsbearbeitungssystem der Polizei beim Deutschen Bundestag, in das Informationssystem der Polizei und in das Bundeszentralregister.
+
+(6b) Ein Bundestagsausweis kann eingezogen werden, wenn begründete Zweifel an der Zuverlässigkeit der Inhaberin oder des Inhabers bestehen.
+
+(6c) Bei Personen, die auf Grundlage des Absatzes 3 Satz 1 Nr. 2 (Tagesakkreditierung), des Absatzes 5 und des Absatzes 6 aus berechtigtem Anlass Zutritt erhalten, wird zuvor eine Zuverlässigkeitsüberprüfung durchgeführt. Die Zuverlässigkeitsüberprüfung erfolgt insbesondere durch Einsichtnahme in das Vorgangsbearbeitungssystem der Polizei beim Deutschen Bundestag sowie in das Informationssystem der Polizei.
 
 (7) Die Gültigkeitsdauer ist auf dem Ausweis deutlich sichtbar vermerkt.
 
@@ -118,26 +130,26 @@ eines Tagesausweises, der beim Pfortendienst gegen Hinterlegung des Personalausw
 Die Gültigkeitsdauer beträgt in der Regel die Zeit bis zum Ende des laufenden Kalenderjahres.
 
 2.  
-Die Ausweise gemäß Absatz 2 Nr. 1 Buchstabe a gelten für die Dauer des Mandats, die Ausweise gemäß Absatz 2 Nr. 3 Buchstabe b bis d gelten für die Dauer des Beschäftigungsverhältnisses, längstens jedoch bis zum Ende der Wahlperiode des Deutschen Bundestages beziehungsweise des Europäischen Parlaments.
+Die Ausweise gemäß Absatz 2 Nr. 1 Buchstabe a) gelten für die Dauer des Mandats, die Ausweise gemäß Absatz 2 Nr. 3 Buchstaben b) bis d) gelten für die Dauer des Beschäftigungsverhältnisses, längstens jedoch bis zum Ende der Wahlperiode des Deutschen Bundestages beziehungsweise des Europäischen Parlamentes.
 
 3.  
-Die Ausweise gemäß Absatz 2 Nr. 3 Buchstabe a gelten in der Regel für die Dauer des Beschäftigungsverhältnisses, längstens bis zum Ende der Gültigkeit des Dienstausweises.
+Die Ausweise gemäß Absatz 2 Nr. 3 Buchstabe a) gelten in der Regel für die Dauer des Beschäftigungsverhältnisses, längstens bis zum Ende der Gültigkeit des Dienstausweises.
 
 4.  
-Die Ausweise nach Absatz 3 Nr. 2 werden mit einer Gültigkeit als Tages- oder Jahresausweise beziehungsweise mit kurzer Befristung ausgegeben. Die in Kooperation vom Presse- und Informationsamt der Bundesregierung ausgegebenen Ausweise gelten längstens bis zum Ende der jeweils laufenden Wahlperiode des Deutschen Bundestages.
+Die Ausweise nach Absatz 3 Satz 1 Nr. 2 werden mit einer Gültigkeit als Tages- oder Jahresausweise beziehungsweise mit kurzer Befristung ausgegeben.
 
 5.  
 Die Ausweise verlieren ihre Gültigkeit mit dem Tag, an dem der Antragsgrund wegfällt, und sind mit Wegfall der Gültigkeit an die ausgebende Stelle zurückzugeben.
 
 (8) Alle den Zutritt berechtigenden Ausweise sind in den Gebäuden des Deutschen Bundestages grundsätzlich für jeden erkennbar offen zu tragen.
 
-(9) Auf Verlangen der für Ordnungs- und Sicherheitsaufgaben zuständigen Mitarbeiterinnen und Mitarbeiter haben alle Inhaber eines Bundestagsausweises, die sich in den Gebäuden des Deutschen Bundestages aufhalten, die Zutrittsberechtigung nachzuweisen und, soweit sich ihre Zutrittsberechtigung aus Absatz 1 Nr. 2 in Verbindung mit den Absätzen 3 bis 7 ergibt, den Zweck ihres Aufenthaltes anzugeben.
+(9) Auf Verlangen der für Ordnungs- und Sicherheitsaufgaben zuständigen Mitarbeiterinnen und Mitarbeiter haben alle Inhaberinnen und Inhaber eines Bundestagsausweises, die sich in den Gebäuden des Deutschen Bundestages aufhalten, die Zutrittsberechtigung nachzuweisen und, soweit sich ihre Zutrittsberechtigung nicht aus Absatz 1 Nr. 1 ergibt, den Zweck ihres Aufenthaltes anzugeben.
 
 (10) Besuchergruppen erhalten Zutritt nur in Begleitung eines Mitgliedes des Deutschen Bundestages beziehungsweise seines Beauftragten oder eines mit der Betreuung der Gruppe beauftragten Beschäftigten der Verwaltung des Deutschen Bundestages. Richtlinien zur Anmeldung, Einladung und Zuschussgewährung für Besuchergruppen bleiben unberührt.
 
 (11) Für Teilbereiche können für die Öffentlichkeit erweiterte Zutrittsmöglichkeiten eingeräumt werden.
 
-(12) Personen, die die geforderten Sicherheitsmaßnahmen ablehnen, haben keinen Zutritt.
+(12) Personen, die die geforderten Zuverlässigkeitsüberprüfungen oder Sicherheitsmaßnahmen ablehnen, haben keinen Zutritt.
 
 ### § 3 Plenarsaal
 
@@ -159,11 +171,10 @@ die zum Dienst im Plenarsaal eingeteilten Bediensteten der Verwaltung des Deutsc
 3.  
 auf Grund einer Einlasskarte zur Regierungs- oder Bundesratsbank Mitarbeiterinnen und Mitarbeiter der Regierungs- und Bundesratsmitglieder.
 
-(2) Soweit auf den Tribünen Bereiche für bestimmte Personen oder Gruppen vorgesehen sind (Presse, Diplomaten, ausländische Delegationen und Gäste des Deutschen Bundestages), stehen sie in erster Linie diesen Personen bzw. den Angehörigen dieser Gruppen zur Verfügung.
-Darüber hinaus erhalten bevorzugt Zutritt
+(2) Soweit auf den Tribünen Bereiche für bestimmte Personen oder Gruppen vorgesehen sind (Presse, Diplomaten, ausländische Delegationen und Gäste des Deutschen Bundestages), stehen sie in erster Linie diesen Personen bzw. den Angehörigen dieser Gruppen zur Verfügung. Darüber hinaus erhalten bevorzugt Zutritt
 
 a)  
-Mitglieder und ehemalige Mitglieder des Bundestages, des Europäischen Parlaments und der Länderparlamente,
+Mitglieder und ehemalige Mitglieder des Deutschen Bundestages, des Europäischen Parlaments und der Länderparlamente,
 
 b)  
 Inhaber einer Einlasskarte, die von den Fraktionen oder dem Besucherdienst der Verwaltung des Deutschen Bundestages ausgegeben werden,
@@ -179,13 +190,13 @@ Besuchergruppen und Einzelbesucher, die vom Besucherdienst eingeladen oder zugel
 
 (1) In den Gebäuden des Deutschen Bundestages sind Ruhe und Ordnung zu wahren. Die Besucher haben die Würde des Hauses zu achten und auf die Arbeit im Haus Rücksicht zu nehmen. Insbesondere sind alle Handlungen zu unterlassen, die geeignet sind, die Tätigkeit des Deutschen Bundestages, seiner Gremien, Organe und Einrichtungen zu stören.
 
-(2) Es ist nicht gestattet, Spruchbänder oder Transparente zu entfalten, Informationsmaterial zu zeigen oder zu verteilen, es sei denn, es ist zur Verteilung zugelassen.
+(2) Es ist nicht gestattet, Spruchbänder oder Transparente zu entfalten, Informationsmaterial zu zeigen oder zu verteilen, es sei denn, es ist zur Verteilung zugelassen. Das Anbringen von Aushängen, insbesondere Plakaten, Postern, Schildern und Aufklebern an Türen, Wänden oder Fenstern in den allgemein zugänglichen Gebäuden des Deutschen Bundestages sowie an Fenstern und Fassaden dieser Gebäude, die von außen sichtbar sind, ist ausnahmslos nicht gestattet. Das Recht der im Deutschen Bundestag gebildeten Fraktionen zur Öffentlichkeitsarbeit bleibt davon unberührt, soweit eine Anbringung unmittelbar an der Bausubstanz, beispielsweise an Türen, Wänden oder Fenstern, unterbleibt.
 
 (3) Die Werbung für oder der Vertrieb von Waren, die Durchführung von Sammelbestellungen sowie die Veranstaltung von Sammlungen sind in den Gebäuden des Deutschen Bundestages untersagt. Dies gilt nicht für den Vertrieb von Waren in den Pachtbetrieben, aus Automaten, deren Aufstellung genehmigt wurde, sowie für den durch die zuständigen Stellen in Auftrag gegebenen Vertrieb aus Anlass internationaler Konferenzen.
 
-(4) Das Mitbringen von Tieren - ausgenommen Blindenführhunde - ist nicht gestattet.
+(4) Das Mitbringen von Tieren – ausgenommen Blindenführhunde – ist nicht gestattet.
 
-(5) Im unterirdischen Erschließungssystem, in den Parkdecks und auf den sonstigen Verkehrsflächen finden die Bestimmungen der Straßenverkehrsordnung (StVO) entsprechende Anwendung. Ge- und Verbotsschilder sind zu beachten. Parken ist nur im Rahmen der erteilten Berechtigung gestattet.
+(5) Im Unterirdischen Erschließungssystem, in den Parkdecks und auf den sonstigen Verkehrsflächen finden die Bestimmungen der Straßenverkehrsordnung (StVO) entsprechende Anwendung. Ge- und Verbotsschilder sind zu beachten. Parken ist nur im Rahmen der erteilten Berechtigung gestattet.
 
 ### § 5 Besondere Verhaltensregeln für die Besucher von Sitzungen des Deutschen Bundestages und seiner Gremien
 
@@ -209,15 +220,15 @@ Besuchergruppen und Einzelbesucher, die vom Besucherdienst eingeladen oder zugel
 
 (2) Zur Aufrechterhaltung der Sicherheit und Ordnung kann unmittelbarer Zwang im Sinne des Gesetzes über den unmittelbaren Zwang bei Ausübung öffentlicher Gewalt durch Vollzugsbeamte des Bundes ausgeübt werden.
 
-(3) Wer den Bestimmungen dieser Hausordnung zuwiderhandelt, kann aus den Gebäuden des Deutschen Bundestages verwiesen werden.
+(3) Wer den Bestimmungen dieser Hausordnung zuwiderhandelt, kann aus den Gebäuden des Bundestages verwiesen werden.
 
 (4) Der Präsident des Deutschen Bundestages kann bei einem Verstoß gegen diese Hausordnung ein Hausverbot verhängen.
 
 ### § 8 Besondere Veranstaltungen, Pachtbetriebe
 
-(1) Über die Überlassung von Räumen des Deutschen Bundestages für Veranstaltungen von Behörden, Organisationen oder anderen Stellen entscheidet der Präsident des Deutschen Bundestages. Das Verfahren bei der Vergabe und Nutzung von Räumen der Fraktionen bleibt unberührt.
+(1) Über die Überlassung von Räumen des Bundestages für Veranstaltungen von Behörden, Organisationen oder anderen Stellen entscheidet der Präsident des Deutschen Bundestages. Das Verfahren bei der Vergabe und Nutzung von Räumen der Fraktionen bleibt unberührt.
 
-(2) Werden Räume in den Gebäuden des Deutschen Bundestages für Veranstaltungen überlassen, kann der Deutsche Bundestag vom Veranstalter verlangen, dass hierzu nur Besucher zugelassen werden, die sich im Besitz einer von den Veranstaltern ausgestellten Eintrittskarte befinden.
+(2) Werden Räume in den Gebäuden des Bundestages für Veranstaltungen überlassen, kann der Deutsche Bundestag vom Veranstalter verlangen, dass hierzu nur Besucher zugelassen werden, die sich im Besitz einer von den Veranstaltern ausgestellten Eintrittskarte befinden.
 
 (3) Bei Veranstaltungen nach Absatz 1 gilt die Hausordnung sinngemäß. Das Gleiche gilt für Sonderveranstaltungen des Deutschen Bundestages.
 
@@ -235,12 +246,13 @@ Für die Benutzung der Bibliothek, der Archive und anderer Sondereinrichtungen s
 
 ### Anhang zur Hausordnung
 
-Fundstelle des Originaltextes: BGBl. I 2002, 3486
+(Fundstelle: BGBl. I 2017, 1293)
 
-|                                                             |
-|-------------------------------------------------------------|
-| § 112 des Gesetzes über Ordnungswidrigkeiten (OWiG)         |
-| "§ 112 Verletzung der Hausordnung eines Gesetzgebungsorgans |
+|                                                         |
+|---------------------------------------------------------|
+| **§ 112 des Gesetzes über Ordnungswidrigkeiten (OWiG)** |
+| "§ 112                                                  |
+| Verletzung der Hausordnung eines Gesetzgebungsorgans    |
 
 (1) Ordnungswidrig handelt, wer gegen Anordnungen verstößt, die ein Gesetzgebungsorgan des Bundes oder eines Landes oder sein Präsident über das Betreten des Gebäudes des Gesetzgebungsorgans oder des dazugehörigen Grundstücks oder über das Verweilen oder die Sicherheit und Ordnung im Gebäude oder auf dem Grundstück allgemein oder im Einzelfall erlassen hat.
 
@@ -248,10 +260,11 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3486
 
 (3) Die Absätze 1 und 2 gelten bei Anordnungen eines Gesetzgebungsorgans des Bundes oder seines Präsidenten weder für die Mitglieder des Bundestages noch für die Mitglieder des Bundesrates und der Bundesregierung sowie deren Beauftragte, bei Anordnungen eines Gesetzgebungsorgans eines Landes oder seines Präsidenten weder für die Mitglieder der Gesetzgebungsorgane dieses Landes noch für die Mitglieder der Landesregierung und deren Beauftragte."
 
-|                                                         |
-|---------------------------------------------------------|
-| § 106b des Strafgesetzbuches (StGB)                     |
-| "§ 106b Störung der Tätigkeit eines Gesetzgebungsorgans |
+|                                                 |
+|-------------------------------------------------|
+| **§ 106b des Strafgesetzbuches (StGB)**         |
+| "§ 106b                                         |
+| Störung der Tätigkeit eines Gesetzgebungsorgans |
 
 (1) Wer gegen Anordnungen verstößt, die ein Gesetzgebungsorgan des Bundes oder eines Landes oder sein Präsident über die Sicherheit und Ordnung im Gebäude des Gesetzgebungsorgans oder auf dem dazugehörenden Grundstück allgemein oder im Einzelfall erlässt, und dadurch die Tätigkeit des Gesetzgebungsorgans hindert oder stört, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
