@@ -2,7 +2,7 @@ Verordnung über die Deckungsvorsorge nach dem Atomgesetz (AtDeckV)
 ==================================================================
 
 Stand  
-Zuletzt geändert durch Art. 74 G v. 8.7.2016 I 1594
+Zuletzt geändert durch Art. 13 V v. 29.11.2018 I 2034
 
 ### 
 
@@ -159,7 +159,7 @@ beim Umgang mit Kernbrennstoffen nach Anlage 1,
 2.  
 beim Umgang mit sonstigen radioaktiven Stoffen nach Anlage 2,
 
-und zwar jeweils nach der genehmigten Art, Masse, Aktivität oder Beschaffenheit der radioaktiven Stoffe. Die Regeldeckungssumme beim Umgang mit hochradioaktiven Strahlenquellen im Sinne des § 3 Abs. 2 Nr. 29 Buchstabe b Doppelbuchstabe bb der Strahlenschutzverordnung bestimmt sich unabhängig von der Art des radioaktiven Stoffes nach Anlage 2.
+und zwar jeweils nach der genehmigten Art, Masse, Aktivität oder Beschaffenheit der radioaktiven Stoffe. Die Regeldeckungssumme beim Umgang mit hochradioaktiven Strahlenquellen im Sinne des § 4 Absatz 36 des Strahlenschutzgesetzes bestimmt sich unabhängig von der Art des radioaktiven Stoffes nach Anlage 2.
 
 (2) Ist der Umgang mit sonstigen radioaktiven Stoffen darauf gerichtet, daß sie bei der Ausübung der Heilkunde am Menschen angewandt werden oder daß sie in die Luft, das Wasser, den Boden oder den Bewuchs gelangen, ohne daß die weitere Verbreitung verhindert werden kann, so beträgt die Regeldeckungssumme das Zweifache der in der Anlage 2 angegebenen Werte.
 
@@ -401,7 +401,7 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2405
 
  
 
-Aktivitäten, angegeben in Vielfachen der Freigrenzen nach Anlage III Tabelle 1 Spalte 2 der Strahlenschutzverordnung
+Aktivitäten, angegeben in Vielfachen der Freigrenzen nach Anlage 4 Tabelle 1 Spalte 2 der Strahlenschutzverordnung
 
 umschlossene radioaktive Stoffe
 
@@ -413,11 +413,9 @@ offene radioaktive Stoffe
 
 3
 
-4
-
 1.
 
-hochradioaktive Strahlenquellen nach § 3 Abs. 2 Nr. 29 Buchstabe b Doppelbuchstabe bb der Strahlenschutzverordnung, soweit nicht unter Nummer 2 bis 12 in der Spalte 3 höhere Summen genannt sind
+hochradioaktive Strahlenquellen nach § 4 Absatz 36 des Strahlenschutzgesetzes, soweit nicht unter Nummer 2 bis 12 in der Spalte 3 höhere Summen genannt sind
 
 0,05
 
