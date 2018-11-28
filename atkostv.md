@@ -1,8 +1,8 @@
-Kostenverordnung zum Atomgesetz (AtKostV)
-=========================================
+Kostenverordnung zum Atomgesetz und zum Strahlenschutzgesetz (AtSKostV)
+=======================================================================
 
 Stand  
-Zuletzt geändert durch Art. 7 G v. 26.7.2016 I 1843
+Zuletzt geändert durch durch Art. 17 V v. 29.11.2018 I 2034
 
 ### 
 
@@ -10,17 +10,20 @@ Zuletzt geändert durch Art. 7 G v. 26.7.2016 I 1843
 (+++ Textnachweis ab: 23.12.1981 +++)
 ```
 
+Überschrift: IdF d. Art. 24 Nr. 1 G v. 27.6.2017 I 1966 mWv 31.12.2018
+Amtliche Buchstabenabkürzung: IdF d. Art. 24 Nr. 1 G v. 27.6.2017 I 1966 mWv 31.12.2018
+
 ### Eingangsformel
 
 Auf Grund des § 21 Abs. 3 in Verbindung mit § 54 des Atomgesetzes in der Fassung der Bekanntmachung vom 31. Oktober 1976 (BGBl. I S. 3053), zuletzt geändert durch Gesetz vom 20. August 1980 (BGBl. I S. 1556), verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 ### § 1 Anwendungsbereich
 
-Die nach den §§ 23, 23a, 23b, 23d und 24 des Atomgesetzes zuständigen Behörden erheben Kosten (Gebühren und Auslagen) nach § 21 des Atomgesetzes und nach dieser Verordnung. Ergänzend gelten die Vorschriften des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung.
+Die nach den §§ 23, 23a, 23b, 23d und 24 des Atomgesetzes zuständigen Behörden erheben Kosten (Gebühren und Auslagen) nach § 21 des Atomgesetzes und nach dieser Verordnung. Die nach § 81 Satz 3, den §§ 184, 185, 186 und 189 des Strahlenschutzgesetzes zuständigen Behörden erheben Kosten nach § 183 des Strahlenschutzgesetzes und nach dieser Verordnung. Ergänzend gelten die Vorschriften des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung.
 
 ### § 2 Höhe der Gebühren
 
-Die Gebühr beträgt
+(1) Die Gebühr beträgt
 
 1.  
 für Entscheidungen über Anträge auf Errichtung und Betrieb einer Anlage nach § 7 des Atomgesetzes zur
@@ -38,21 +41,35 @@ Aufarbeitung bestrahlter Kernbrennstoffe 0,3 bis 1,7 vom Hundert der Kosten der 
 für Entscheidungen über Anträge auf andere Genehmigungen nach § 7 des Atomgesetzes und über Anträge nach § 7a des Atomgesetzes 500 bis eine Million Euro;
 
 3.  
-für Entscheidungen über Anträge nach § 9 des Atomgesetzes 50 bis 100.000 Euro;
+für Entscheidungen über Anträge nach § 9 des Atomgesetzes 50 bis 100 000 Euro;
 
 4.  
-für Festsetzungen nach § 4b Abs. 1 Satz 2 des Atomgesetzes und § 13 Abs. 1 Satz 2 des Atomgesetzes, für Entscheidungen nach § 9b Abs. 3 Satz 2 des Atomgesetzes, für Entscheidungen nach § 17 Abs. 1 Satz 3, Abs. 2 bis 5 des Atomgesetzes, soweit nach § 18 Abs. 2 des Atomgesetzes eine Entschädigungspflicht nicht gegeben ist, und für Entscheidungen nach § 19 Abs. 3 des Atomgesetzes 25 bis 10.000 Euro;
+für Festsetzungen nach § 4b Abs. 1 Satz 2 des Atomgesetzes und § 13 Abs. 1 Satz 2 des Atomgesetzes, für Entscheidungen nach § 9b Abs. 3 Satz 2 des Atomgesetzes, für Entscheidungen nach § 17 Abs. 1 Satz 3, Abs. 2 bis 5 des Atomgesetzes, soweit nach § 18 Abs. 2 des Atomgesetzes eine Entschädigungspflicht nicht gegeben ist, und für Entscheidungen nach § 19 Abs. 3 des Atomgesetzes 25 bis 10 000 Euro;
 
 5.  
 für Entscheidungen über Anträge nach § 6 des Atomgesetzes 50 bis 2,5 Millionen Euro;
 
 6.  
-für Entscheidungen über Anträge nach § 4 des Atomgesetzes und für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für kerntechnische Entsorgungssicherheit, soweit es nach § 23d des Atomgesetzes zuständig ist, des Bundesamtes für Strahlenschutz, soweit es nach § 23 Absatz 1 des Atomgesetzes oder aufgrund einer Verordnung nach § 23 Absatz 3 des Atomgesetzes zuständig ist, und des Luftfahrt-Bundesamtes, soweit es nach § 23b zuständig ist; 50 bis 2 Millionen Euro;
+für Entscheidungen über Anträge nach § 4 des Atomgesetzes und für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für kerntechnische Entsorgungssicherheit, soweit es nach § 23d des Atomgesetzes zuständig ist, 50 bis 2 Millionen Euro;
 
 7.  
 für Planfeststellungsbeschlüsse nach § 9b des Atomgesetzes 1,5 bis 2 vom Hundert der Kosten der Errichtung.
 
 In den Fällen des Satzes 1 Nummer 1 und 7 kann für eine Teilgenehmigung bzw. einen Teilplanfeststellungsbeschluss eine anteilige Gebühr, orientiert an den Kosten der Teilerrichtung, erhoben werden.
+
+(2) Die Gebühr beträgt
+
+1.  
+für Aufgaben der Qualitätssicherung, zur Verfahrensentwicklung für Probenahme, Analyse und Messung sowie zur Behandlung der Daten durch Verwaltungsbehörden des Bundes nach § 81 Satz 3 des Strahlenschutzgesetzes 50 Euro bis 25 000 Euro;
+
+2.  
+für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für Strahlenschutz, soweit es nach § 185 Absatz 1 Nummer 1 bis 8 und Absatz 2 Nummer 5 und 6 des Strahlenschutzgesetzes zuständig ist, 50 Euro bis 2 Millionen Euro;
+
+3.  
+für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für kerntechnische Entsorgungssicherheit, soweit es nach § 186 des Strahlenschutzgesetzes zuständig ist, 50 Euro bis 2 Millionen Euro;
+
+4.  
+für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Luftfahrt-Bundesamtes, soweit es nach § 189 des Strahlenschutzgesetzes zuständig ist, 50 Euro bis 2 Millionen Euro.
 
 ### § 3 Gebührenbemessung
 
@@ -101,12 +118,9 @@ sonstige Überprüfungen und Kontrollen von Anlagen nach § 7 des Atomgesetzes u
 Überprüfung nach § 12b des Atomgesetzes hinsichtlich der Zuverlässigkeit von Personen, die bei der Errichtung und bei dem Betrieb von Anlagen nach § 7 des Atomgesetzes oder bei Tätigkeiten nach den §§ 4, 6 und 9 des Atomgesetzes tätig sind;
 
 7.  
-die Nummern 1 bis 6 gelten auch für Anlagen des Bundes nach § 9a Absatz 3 des Atomgesetzes und die Schachtanlage Asse II;
+die Nummern 1 bis 6 gelten auch für Anlagen des Bundes nach § 9a Absatz 3 des Atomgesetzes und die Schachtanlage Asse II.
 
-8.  
-Überwachung der Einhaltung der in § 103 in Verbindung mit den §§ 93 und 94 der Strahlenschutzverordnung festgelegten Anforderungen zum Schutz des fliegenden Personals vor Expositionen durch kosmische Strahlung.
-
-(2) Die Gebühr beträgt 25 bis 500.000 Euro, bei Überprüfungen im Sinne des Absatzes 1 Nr. 6 für jede überprüfte Person 25 bis 500 Euro.
+(2) Die Gebühr beträgt 25 bis 500 000 Euro, bei Überprüfungen im Sinne des Absatzes 1 Nr. 6 für jede überprüfte Person 25 bis 500 Euro.
 
 (3) Die Gebührenpflicht entsteht mit der Beendigung der gebührenpflichtigen Amtshandlung, im Falle des Absatzes 1 Nr. 1 am Ende eines Monats, in dem Messungen und Untersuchungen vorgenommen worden sind. Bei regelmäßig wiederkehrenden Amtshandlungen können abweichend von Satz 1 Abschläge erhoben werden, die bei der nachfolgenden Gebührenfestsetzung zu verrechnen sind.
 
