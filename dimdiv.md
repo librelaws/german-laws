@@ -2,7 +2,7 @@ Verordnung über das datenbankgestützte Informationssystem über Medizinprodukt
 ==============================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 5 V v. 25.7.2014 I 1227
+Zuletzt geändert durch Art. 8 V v. 29.11.2018 I 2034
 
 ### 
 
@@ -18,11 +18,11 @@ Diese Verordnung dient der Umsetzung der Richtlinie 93/42/EWG des Rates vom 14. 
        EGRL 34/98  (CELEX Nr: 398L0034) +++)
 ```
 
-Die V wurde als Artikel 1 der V v. 4.12.2002 I 4456 vom Bundesministerium für Gesundheit und Soziale Sicherung mit Zustimmung des Bundesrates erlassen. Sie tritt gem. Art. 4 Satz 1 dieser V am 1.1.2003 in Kraft. &lt;noindex&gt;
+Die V wurde als Artikel 1 der V v. 4.12.2002 I 4456 vom Bundesministerium für Gesundheit und Soziale Sicherung mit Zustimmung des Bundesrates erlassen. Sie tritt gem. Art. 4 Satz 1 dieser V am 1.1.2003 in Kraft.
 
 ### § 1 Anwendungsbereich
 
-Diese Verordnung regelt die Erhebung der Daten, die für das datenbankgestützte Informationssystem über Medizinprodukte benötigt werden, ihre Übermittlung an das Deutsche Institut für Medizinische Dokumentation und Information sowie die Verarbeitung und Nutzung der in diesem Informationssystem gespeicherten Daten.
+Diese Verordnung regelt die Verarbeitung der Daten, die für das datenbankgestützte Informationssystem über Medizinprodukte benötigt werden.
 
 ### § 2 Elektronische Anzeigen, Anträge und Unterrichtungen
 
@@ -91,7 +91,7 @@ Meldungen zu schwerwiegenden unerwünschten Ereignissen während klinischer Prü
 
 ### § 5 Nutzung der Datenbanken
 
-(1) Neben dem Bundesministerium der Verteidigung und dem Bundesministerium für Gesundheit sind die für das Medizinprodukterecht, das Atomrecht und das Eich- und Messwesen zuständigen Behörden des Bundes und der Länder berechtigt, Daten aus den Datenbanken nach § 4 Absatz 1 entgeltfrei abzurufen, soweit dies zur Wahrnehmung ihrer Aufgaben beim Vollzug des Medizinprodukterechts erforderlich ist.
+(1) Neben dem Bundesministerium der Verteidigung und dem Bundesministerium für Gesundheit sind die für das Medizinprodukterecht, das Atomrecht, das Strahlenschutzrecht und das Eich- und Messwesen zuständigen Behörden des Bundes und der Länder berechtigt, Daten aus den Datenbanken nach § 4 Absatz 1 entgeltfrei abzurufen, soweit dies zur Wahrnehmung ihrer Aufgaben beim Vollzug des Medizinprodukterechts erforderlich ist.
 
 (2) Die Benannten Stellen sind berechtigt, die Datenbanken nach
 
@@ -122,7 +122,7 @@ Bei der Datenübermittlung sind dem jeweiligen Stand der Technik entsprechende M
 
 ### § 8 Auskunftsrecht
 
-§ 19 des Bundesdatenschutzgesetzes ist für juristische Personen entsprechend anzuwenden.
+Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) ist für juristische Personen entsprechend anzuwenden.
 
 ### (XXXX) §§ 9 und 10 (weggefallen)
 
