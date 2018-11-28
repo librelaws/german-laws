@@ -2,7 +2,7 @@ Verordnung für die Überprüfung der Zuverlässigkeit zum Schutz gegen Entwendu
 ===============================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 10 G v. 26.7.2016 I 1843
+Zuletzt geändert durch Art. 15 V v. 29.11.2018 I 2034
 
 ### 
 
@@ -20,7 +20,7 @@ Auf Grund des § 12 Abs. 1 Satz 1 Nr. 10 und 11 und des § 12b Abs. 2 in Verbind
 
 (1) Die Überprüfung der Zuverlässigkeit einer Person erfolgt nach Maßgabe des § 12b des Atomgesetzes in Verbindung mit dieser Verordnung.
 
-(2) <sup>1</sup>Einer Überprüfung der Zuverlässigkeit einer Person, die bei der Errichtung oder dem Betrieb von Anlagen, beim Umgang mit radioaktiven Stoffen oder bei der Beförderung von radioaktiven Stoffen im Sinne der §§ 7, 11 oder § 16 der Strahlenschutzverordnung tätig werden soll, bedarf es nur, wenn die zuständige Behörde die Überprüfung verlangt, weil der Schutz gegen unbefugte Handlungen, die zu einer Entwendung oder Freisetzung radioaktiver Stoffe führen können, die Überprüfung erfordert. <sup>2</sup>Satz 1 gilt nicht für die Beförderung von Großquellen im Sinne des § 23d Satz 3 des Atomgesetzes und den Umgang mit umschlossenen radioaktiven Stoffen im Sinne des § 3 Absatz 2 Nummer 29 Buchstabe b der Strahlenschutzverordnung im nichtmedizinischen Bereich, deren Aktivität den Aktivitätswert von 1 000 Terabecquerel übersteigt.
+(2) <sup>1</sup>Einer Überprüfung der Zuverlässigkeit einer Person, die bei der Errichtung oder dem Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, beim Umgang mit radioaktiven Stoffen oder bei der Beförderung von radioaktiven Stoffen im Sinne von § 12 Absatz 1 Nummer 1 bis 3 oder § 27 des Strahlenschutzgesetzes tätig werden soll, bedarf es nur, wenn die zuständige Behörde die Überprüfung verlangt, weil der Schutz gegen unbefugte Handlungen, die zu einer Entwendung oder Freisetzung radioaktiver Stoffe führen können, die Überprüfung erfordert. <sup>2</sup>Satz 1 gilt nicht für die Beförderung von Großquellen im Sinne des § 186 Absatz 1 Satz 2 des Strahlenschutzgesetzes und den Umgang mit umschlossenen radioaktiven Stoffen im Sinne des § 5 Absatz 35 und 36 des Strahlenschutzgesetzes im nichtmedizinischen Bereich, deren Aktivität den Aktivitätswert von 1 000 Terabecquerel übersteigt.
 
 (3) Einer Zuverlässigkeitsüberprüfung bedarf es nicht, wenn für eine Person nach dieser Verordnung bereits eine Überprüfung in der gleichen oder einer höheren Kategorie im Sinne des § 2 durchgeführt worden ist und diese Überprüfung nach § 8 Absatz 1 weiterhin gilt.
 
@@ -70,7 +70,7 @@ nach oder zur Erfüllung von Vorschriften des Atomgesetzes oder einer auf Grund 
 Angehörige des Objektsicherungsdienstes und
 
 5.  
-Einsatzpersonal, das während des Leistungsbetriebs im inneren Sicherungsbereich unbeaufsichtigt Arbeiten an zu schützenden Anlagenteilen oder an Sicherungssystemen ausführt.
+Einsatzpersonal, das im inneren Sicherungsbereich unbeaufsichtigt Arbeiten an zu schützenden Anlagenteilen oder an Sicherungssystemen ausführt; für Anlagen in Stilllegung nach § 7 Absatz 3 des Atomgesetzes nur, solange in der Anlage neben aktivierten oder kontaminierten Anlagenteilen Kernbrennstoffe vorhanden sind.
 
 <sup>2</sup>Ist der Antragsteller oder Genehmigungsinhaber im Falle des Satzes 1 Nr. 1 eine Kapitalgesellschaft, deren vertretungsberechtigtes Organ aus mehreren Mitgliedern besteht, oder eine Personengesellschaft, bei der mehrere vertretungsberechtigte Gesellschafter vorhanden sind, kann die zuständige Behörde die Verpflichtung zur Überprüfung der Zuverlässigkeit auf die Person, die die Aufgaben des Strahlenschutzverantwortlichen wahrnimmt, und andere für die Anlage oder Einrichtung zuständige Personen beschränken.
 
@@ -147,13 +147,13 @@ des Arbeitgebers oder Dienstherrn im Beurteilungszeitraum.
 
 <sup>2</sup>Der Antragsteller soll zur Bestätigung der Mitteilung ergänzende Unterlagen vorlegen.
 
-(5) Zur Überprüfung der Zuverlässigkeit in den Fällen des § 1 Absatz 2 Satz 1 lässt sich die zuständige Behörde nur ein Führungszeugnis für Behörden nach § 30 Absatz 5 des Bundeszentralregistergesetzes vorlegen.
+(5) <sup>1</sup>Zur Überprüfung der Zuverlässigkeit in den Fällen des § 1 Absatz 2 Satz 1 lässt sich die zuständige Behörde nur ein Führungszeugnis für Behörden nach § 30 Absatz 5 des Bundeszentralregisters vorlegen. <sup>2</sup>In Einzelfällen, in denen es der Schutz gegen Störmaßnahmen und Einwirkungen Dritter erfordert, kann die zuständige Behörde abweichend von Satz 1 Zuverlässigkeitsüberprüfungen nach § 2 durchführen.
 
 (6) Bei tatsächlichen Anhaltspunkten für Zweifel an der Zuverlässigkeit des Betroffenen kann die zuständige Behörde zusätzlich Maßnahmen nach § 12b Absatz 4 des Atomgesetzes durchführen.
 
 ### § 6 Verfahren
 
-(1) <sup>1</sup>Die Zuverlässigkeit des Betroffenen ist vor der Aufnahme der vorgesehenen Tätigkeit oder vor dem Zutritt zu der Anlage oder Einrichtung auf Antrag durch die zuständige Behörde zu überprüfen. <sup>2</sup>Antragsberechtigt sind Antragsteller in Genehmigungs- oder Planfeststellungsverfahren oder Genehmigungsinhaber in Aufsichtsverfahren, die sich auf Anlagen oder Tätigkeiten nach den §§ 4, 6, 7, 9 oder § 9a Absatz 3 des Atomgesetzes oder nach den §§ 7, 11 oder 16 der Strahlenschutzverordnung beziehen. <sup>3</sup>Überträgt der Inhaber einer Genehmigung nach § 4 des Atomgesetzes oder einer Genehmigung zur Beförderung von Großquellen im Sinne des § 23d Satz 3 des Atomgesetzes einem Dritten Aufgaben, die in der Genehmigung zur Erfüllung durch einen Dritten zugelassen sind, ist auch der Dritte antragsberechtigt. <sup>4</sup>Für Sachverständige nach § 12b Absatz 1 Satz 1 Nummer 4 des Atomgesetzes wird die Überprüfung der Zuverlässigkeit des Betroffenen durch die zuziehende Behörde veranlaßt.
+(1) <sup>1</sup>Die Zuverlässigkeit des Betroffenen ist vor der Aufnahme der vorgesehenen Tätigkeit oder vor dem Zutritt zu der Anlage oder Einrichtung auf Antrag durch die zuständige Behörde zu überprüfen. <sup>2</sup>Antragsberechtigt sind Antragsteller in Genehmigungs- oder Planfeststellungsverfahren oder Genehmigungsinhaber in Aufsichtsverfahren, die sich auf Anlagen oder Tätigkeiten nach den §§ 4, 6, 7, 9 oder § 9a Absatz 3 des Atomgesetzes oder nach § 12 Absatz 1 Nummer 1 bis 3 oder § 27 des Strahlenschutzgesetzes beziehen. <sup>3</sup>Überträgt der Inhaber einer Genehmigung nach § 4 des Atomgesetzes oder einer Genehmigung zur Beförderung von Großquellen im Sinne des § 23d Satz 3 des Atomgesetzes einem Dritten Aufgaben, die in der Genehmigung zur Erfüllung durch einen Dritten zugelassen sind, ist auch der Dritte antragsberechtigt. <sup>4</sup>Für Sachverständige nach § 12b Absatz 1 Satz 1 Nummer 4 des Atomgesetzes wird die Überprüfung der Zuverlässigkeit des Betroffenen durch die zuziehende Behörde veranlaßt.
 
 (2) <sup>1</sup>Der Antragsberechtigte hat der zuständigen Behörde einen vom Betroffenen ausgefüllten Erklärungsbogen zuzuleiten. <sup>2</sup>Der Antragsberechtigte hat vor der Aushändigung des Erklärungsbogens an den Betroffenen darauf die betriebliche Stellung oder die vorgesehene Verwendung des Betroffenen sowie die vorgesehene Überprüfungskategorie anzugeben.
 
@@ -210,7 +210,7 @@ Verdacht auf Alkohol- oder auf Betäubungsmittelabhängigkeit,
 Umständen, die auf eine derartige Überschuldung des Betroffenen hindeuten, daß er seinen laufenden finanziellen Verpflichtungen nicht mehr nachkommen kann oder
 
 6.  
-Verhängung einer Geldbuße wegen Verletzung der Vorschriften des Atomgesetzes, des Gesetzes über die Kontrolle von Kriegswaffen, des Gesetzes über die Beförderung gefährlicher Güter, des Waffengesetzes, des Beschussgesetzes, des Sprengstoffgesetzes oder einer auf Grund dieser Gesetze erlassenen Rechtsverordnung.
+Verhängung einer Geldbuße wegen Verletzung der Vorschriften des Atomgesetzes, des Strahlenschutzgesetzes, des Gesetzes über die Kontrolle von Kriegswaffen, des Gesetzes über die Beförderung gefährlicher Güter, des Waffengesetzes, des Beschussgesetzes, des Sprengstoffgesetzes oder einer auf Grund dieser Gesetze erlassenen Rechtsverordnung.
 
 (3) Folgende Erkenntnisse sind nur zu berücksichtigen, wenn sie im Rahmen einer Gesamtwürdigung aller Erkenntnisse der zuständigen Behörde von maßgebender Bedeutung sind, um die Zuverlässigkeit des Betroffenen beurteilen zu können:
 
