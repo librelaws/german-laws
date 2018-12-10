@@ -2,13 +2,16 @@ Gesetz über den Einfluß von Eignungsübungen der Streitkräfte auf Vertragsver
 ============================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 15 Abs. 77 G v. 5.2.2009 I 160
+Zuletzt geändert durch Art. 11a G v. 11.12.2018 I 2387
+
+Sonst  
+Die Vorschrift gilt im Saarland gem. § 1 Nr. 59 V v. 26.8.1957 I 1255
 
 ### 
 
+```
 (+++ Textnachweis Geltung ab: 31.12.1977 +++)
-
-Die Vorschrift gilt im Saarland gem. § 1 Nr. 59 V v. 26.8.1957 I 1255
+```
 
 ### § 1 Arbeitsverhältnis bei Einberufung
 
