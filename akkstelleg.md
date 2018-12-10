@@ -2,19 +2,56 @@ Gesetz über die Akkreditierungsstelle (AkkStelleG)
 ==================================================
 
 Stand  
-Zuletzt geändert durch Art. 356 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 1 G v. 11.12.2018 I 2354
 
 ### 
 
 ```
 (+++ Textnachweis ab: 7.8.2009 +++)
+(+++ Zur Anwendung vgl. § 1a u. § 3 +++) 
 ```
 
 ### § 1 Akkreditierung
 
 (1) Die Akkreditierung wird als hoheitliche Aufgabe des Bundes durch die Akkreditierungsstelle durchgeführt. Diese ist nationale Akkreditierungsstelle im Sinne der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Anforderungen an Akkreditierung und Marktüberwachung bei der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 (ABl. L 218 vom 13.8.2008, S. 30) und für Akkreditierungen nach Artikel 3 der Verordnung (EG) Nr. 765/2008 zuständig.
 
-(2) Die in anderen Rechtsvorschriften geregelte Zuständigkeit von Behörden, Stellen die Befugnis zu erteilen, als Konformitätsbewertungsstelle tätig zu werden, bleibt unberührt. Insbesondere gilt dies für die Bereiche Medizinprodukte, Gendiagnostika, Sicherheitstechnik sowie Ernährung, Landwirtschaft und Verbraucherschutz einschließlich Lebensmittelsicherheit.
+(2) Die in anderen Rechtsvorschriften geregelte Zuständigkeit von Behörden, Stellen die Befugnis zu erteilen, als Konformitätsbewertungsstelle tätig zu werden, bleibt unberührt. Insbesondere gilt dies für die Bereiche Medizinprodukte, Gendiagnostika, Sicherheitstechnik und Sicherheit in der Informationstechnik sowie Ernährung, Landwirtschaft und Verbraucherschutz einschließlich Lebensmittelsicherheit.
+
+(+++ § 1 Abs. 2: Zur Anwendung vgl. § 1a Abs. 4 +++)
+
+### § 1a Schutz der Alleinstellung der Akkreditierungsstelle
+
+(1) Es ist verboten,
+
+1.  
+unberechtigt eine Akkreditierung im Sinne des Artikels 2 Nummer 10 der Verordnung (EG) Nr. 765/2008 durchzuführen oder
+
+2.  
+durch Bestätigung der Kompetenz von Konformitätsbewertungsstellen oder in sonstiger Weise den Anschein zu erwecken, Akkreditierungen im Sinne des Artikels 2 Nummer 10 der Verordnung (EG) Nr. 765/2008 durchzuführen, insbesondere dadurch, dass
+
+a)  
+die Erfüllung von Anforderungen bestätigt wird, die Anforderungen aus harmonisierten Normen im Sinne des Artikels 2 Nummer 9 der Verordnung (EG) Nr. 765/2008 inhaltlich ganz oder teilweise entsprechen, wenn im Übrigen eine unberechtigte Akkreditierung im Sinne der Nummer 1 durchgeführt wird oder
+
+b)  
+eine Konformitätsbewertungsstelle im Sinne des Artikels 2 Nummer 13 der Verordnung (EG) Nr. 765/2008 die Bezeichnung „Akkreditierung“ oder eine dieser Bezeichnung entsprechende Bezeichnung in einer anderen Amtssprache der Europäischen Union, jeweils auch in einer abweichenden Schreibweise, unberechtigt für von ihr ausgeführte Konformitätsbewertungen im Sinne des Artikels 2 Nummer 12 der Verordnung (EG) Nr. 765/2008 verwendet.
+
+In Zweifelsfällen entscheidet die Akkreditierungsstelle, ob im Falle des Satzes 1 Nummer 2 Buchstabe b eine Bezeichnung berechtigt geführt wird. Ist die Bezeichnung in der Firma oder als Zusatz zur Firma oder im Namen oder als Zusatz zum Namen eines Vereines verwendet, teilt die Akkreditierungsstelle dem zuständigen Registergericht ihre Entscheidung mit.
+
+(2) Ein Tätigwerden im Sinne des Absatzes 1 Satz 1 wird nicht durch die Erklärung ausgeschlossen, dass die Tätigkeit keine Akkreditierung im Sinne des Artikels 2 Nummer 10 der Verordnung (EG) Nr. 765/2008 sei.
+
+(3) Die Akkreditierungsstelle kann die erforderlichen Anordnungen und Maßnahmen treffen, die zur Feststellung eines Verdachts eines Verstoßes oder zur Beseitigung eines festgestellten Verstoßes oder zur Verhütung eines künftigen Verstoßes gegen ein Verbot des Absatzes 1 erforderlich sind. Dazu kann die Akkreditierungsstelle insbesondere
+
+1.  
+Tätigkeiten im Sinne des Absatzes 1 Satz 1 ganz oder teilweise untersagen oder
+
+2.  
+im Falle des Absatzes 1 Satz 1 Nummer 1 oder Nummer 2 Buchstabe a die Verwendung der Bezeichnung „Akkreditierung“ oder einer dieser Bezeichnung entsprechenden Bezeichnung in einer anderen Amtssprache der Europäischen Union, jeweils auch in einer abweichenden Schreibweise, untersagen.
+
+Besteht der durch Tatsachen hinreichend begründete Verdacht eines Verstoßes gegen ein Verbot des Absatzes 1 Satz 1 und liegt Gefahr im Verzug vor, kann die Akkreditierungsstelle Maßnahmen nach Satz 1 in Verbindung mit Satz 2 auch vorläufig anordnen. Ist im Falle des Satzes 2 Nummer 2, auch in Verbindung mit Satz 3, die Bezeichnung in der Firma oder als Zusatz zur Firma oder im Namen oder als Zusatz zum Namen eines Vereines verwendet, unterrichtet die Akkreditierungsstelle das zuständige Registergericht.
+
+(4) Die in Rechtsvorschriften geregelte Zuständigkeit anderer Behörden, wegen Tätigkeiten im Sinne des Absatzes 1 Maßnahmen zu erlassen, wird nicht berührt. § 1 Absatz 2 ist entsprechend anzuwenden.
+
+(+++ § 1a Abs. 3 u. 4: Zur Anwendung vgl. § 3 Abs. 2 +++)
 
 ### § 2 Aufgaben der Akkreditierungsstelle
 
@@ -24,9 +61,11 @@ Zuletzt geändert durch Art. 356 V v. 31.8.2015 I 1474
 
 (3) Die Akkreditierungsstelle soll bei Begutachtungstätigkeiten das bei anderen Behörden vorhandene Fachwissen heranziehen. Die Akkreditierungsstelle lässt Begutachtungen für die in § 1 Absatz 2 Satz 2 genannten Bereiche von den die Befugnis erteilenden Behörden ausführen. Die Akkreditierungsstelle kann sich bei der Durchführung der Überwachung der akkreditierten Konformitätsbewertungsstellen der die Befugnis erteilenden Behörden bedienen.
 
-### § 3 Befugnisse der Akkreditierungsstelle
+### § 3 Befugnisse gegenüber Konformitätsbewertungsstellen
 
-Die Akkreditierungsstelle kann von der Konformitätsbewertungsstelle und ihrem mit der Leitung und der Durchführung von Fachaufgaben beauftragten Personal die zur Feststellung und Überwachung der fachlichen Kompetenz und der Eignung einer Konformitätsbewertungsstelle erforderlichen Auskünfte und sonstige Unterstützung, insbesondere die Vorlage von Unterlagen, verlangen sowie die dazu erforderlichen Anordnungen treffen. Die Bediensteten und sonstigen Beauftragten der Akkreditierungsstelle sind befugt, zu den Betriebs- und Geschäftszeiten Betriebsstätten, Geschäfts- und Betriebsräume der Konformitätsbewertungsstelle zu betreten, zu besichtigen und zu prüfen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt. Die Konformitätsbewertungsstelle hat an Maßnahmen nach Satz 1 im erforderlichen Umfang mitzuwirken. Die Befugnisse gemäß Satz 1 bis 3 gelten auch für die zuständigen Behörden, die Tätigkeiten im Rahmen von § 2 Absatz 3 ausführen.
+(1) Die Akkreditierungsstelle kann von der Konformitätsbewertungsstelle und ihrem mit der Leitung und der Durchführung von Fachaufgaben beauftragten Personal die zur Feststellung und Überwachung der fachlichen Kompetenz und der Eignung einer Konformitätsbewertungsstelle erforderlichen Auskünfte und sonstige Unterstützung, insbesondere die Vorlage von Unterlagen, verlangen sowie die dazu erforderlichen Anordnungen treffen. Die Bediensteten und sonstigen Beauftragten der Akkreditierungsstelle sind befugt, zu den Betriebs- und Geschäftszeiten Betriebsstätten, Geschäfts- und Betriebsräume der Konformitätsbewertungsstelle zu betreten, zu besichtigen und zu prüfen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt. Die Konformitätsbewertungsstelle hat an Maßnahmen nach Satz 1 im erforderlichen Umfang mitzuwirken. Die Befugnisse gemäß Satz 1 bis 3 gelten auch für die zuständigen Behörden, die Tätigkeiten im Rahmen von § 2 Absatz 3 ausführen.
+
+(2) Eine Konformitätsbewertungsstelle darf keine Konformitätsbewertung im Sinne des Artikels 2 Nummer 12 der Verordnung (EG) Nr. 765/2008 ohne Akkreditierung durchführen, wenn durch eine Rechtsvorschrift angeordnet ist, dass die Konformitätsbewertungsstelle für diese Konformitätsbewertung akkreditiert sein muss. § 1a Absatz 3 Satz 1 bis 3 und Absatz 4 ist entsprechend anzuwenden.
 
 ### § 4 Zusammenarbeit mit anderen Behörden
 
@@ -75,11 +114,11 @@ der Verbraucher und Verbraucherinnen.
 
 Die Mitgliedschaft ist ehrenamtlich. Hinsichtlich der sachverständigen Personen nach Absatz 4 Nummer 1 und 2, sofern es sich um Stellen der Länder handelt, steht den Ländern das Vorschlagsrecht zu.
 
-(5) Das Bundesministerium für Wirtschaft und Energie beruft im Einvernehmen mit den in § 8 Absatz 1 Nummer 1 und 3 bis 7 genannten Bundesministerien für die Dauer von drei Jahren die Mitglieder des Akkreditierungsbeirates und für jedes Mitglied einen Vertreter oder eine Vertreterin. Die Zahl der Mitglieder soll 15 nicht überschreiten. Der Akkreditierungsbeirat wählt den Vorsitzenden oder die Vorsitzende aus seiner Mitte. Die Wahl des Vorsitzenden oder der Vorsitzenden bedarf der Bestätigung durch das Bundesministerium für Wirtschaft und Energie.
+(5) Das Bundesministerium für Wirtschaft und Energie beruft im Einvernehmen mit den in § 8 Absatz 1 Nummer 1 bis 7 genannten Bundesministerien für die Dauer von drei Jahren die Mitglieder des Akkreditierungsbeirates und für jedes Mitglied einen Vertreter oder eine Vertreterin. Die Zahl der Mitglieder soll 15 nicht überschreiten. Der Akkreditierungsbeirat wählt den Vorsitzenden oder die Vorsitzende aus seiner Mitte. Die Wahl des Vorsitzenden oder der Vorsitzenden bedarf der Bestätigung durch das Bundesministerium für Wirtschaft und Energie.
 
 (6) Die obersten Bundes- und Landesbehörden oder die von diesen bestimmten Stellen sowie die Akkreditierungsstelle haben das Recht, an Sitzungen des Akkreditierungsbeirates teilzunehmen und gehört zu werden sowie Tagesordnungspunkte anzumelden und Beratungsunterlagen einzubringen.
 
-(7) Der Akkreditierungsbeirat gibt sich eine Geschäftsordnung, die der Zustimmung des Bundesministeriums für Wirtschaft und Energie und der in § 8 Absatz 1 Nummer 1 und 3 bis 7 genannten Bundesministerien bedarf.
+(7) Der Akkreditierungsbeirat gibt sich eine Geschäftsordnung, die der Zustimmung des Bundesministeriums für Wirtschaft und Energie und der in § 8 Absatz 1 Nummer 1 bis 7 genannten Bundesministerien bedarf.
 
 (8) Der Akkreditierungsbeirat richtet sektorbezogene Fachbeiräte ein. Diese haben insbesondere die Aufgabe, den Akkreditierungsbeirat bei der Ermittlung der in den jeweiligen Sektoren relevanten Regeln nach Absatz 2 Nummer 1 und 2 zu unterstützen. Sie können ferner bei der Vorbereitung von Akkreditierungsentscheidungen mitwirken. Das Nähere, einschließlich der Besetzung der Fachbeiräte, regelt die Geschäftsordnung nach Absatz 7.
 
@@ -100,11 +139,9 @@ Einzelheiten der Verwendung des Akkreditierungssymbols und
 3.  
 die Nutzungsrechte für das Akkreditierungssymbol.
 
-### § 7 Gebühren und Auslagen
+### § 7 Vorschuss auf Gebühren
 
-(1) Für individuell zurechenbare öffentliche Leistungen der Akkreditierungsstelle auf Grund dieses Gesetzes und der Verordnung (EG) Nr. 765/2008 werden zur Deckung des Verwaltungsaufwands Gebühren und Auslagen erhoben. Soweit die Leistungen der Umsatzsteuer unterliegen, erhöhen sich die Gebühren und Auslagen um die gesetzliche Umsatzsteuer.
-
-(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände, die Gebührensätze und die Auslagenerstattung näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene gesamte Personal- und Sachaufwand abgedeckt wird.
+Ergänzend zu der Befugnis des § 15 Absatz 1 des Bundesgebührengesetzes kann die Akkreditierungsstelle im Falle einer von Amts wegen zu erbringenden individuell zurechenbaren öffentlichen Leistung verlangen, dass bis zur Höhe der voraussichtlich entstehenden Gebühren und Auslagen ein Vorschuss gezahlt oder eine Sicherheit geleistet wird.
 
 ### § 8 Beleihung oder Errichtung
 
@@ -182,9 +219,13 @@ Die zur Geschäftsführung berechtigten Personen der Beliehenen müssen zuverlä
 
 ### § 13 Übergangsbestimmungen
 
-(1) Überwachungspflichten für Akkreditierungen, die vor dem 1. Januar 2010 erteilt wurden, gehen zum Zeitpunkt des Wirksamwerdens der Beleihung nach § 8 Absatz 1 auf die Akkreditierungsstelle nach diesem Gesetz über.
+(1) § 5 Absatz 5 Satz 1 in der ab dem 25. Juli 2017 geltenden Fassung ist nicht auf Mitglieder des Akkreditierungsbeirats und deren Vertreterinnen und Vertreter anzuwenden, die ihr Mandat am 25. Juli 2017 bereits innehaben.
 
-(2) Die Akkreditierungsstelle darf bis zum 31. Dezember 2014 nach § 29 des Bundesbeamtengesetzes oder § 20 des Beamtenstatusgesetzes zugewiesene Beamte und Beamtinnen beschäftigen.
+(2) § 5 Absatz 7 in der ab dem 25. Juli 2017 geltenden Fassung ist erstmals auf eine Änderung oder einen Neuerlass der Geschäftsordnung anzuwenden, die oder der nach dem 24. Juli 2017 erfolgt.
+
+### § 13a Verkündung von Rechtsverordnungen
+
+Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
 ### § 14 Inkrafttreten
 
