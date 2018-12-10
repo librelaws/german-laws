@@ -2,7 +2,7 @@ Gesetz über die Zertifizierung von Altersvorsorge- und Basisrentenverträgen (A
 ======================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 450 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 17 G v. 11.12.2018 I 2338
 
 ### 
 
@@ -32,7 +32,7 @@ in welcher der Anbieter zusagt, dass zu Beginn der Auszahlungsphase zumindest di
 die monatliche Leistungen für den Vertragspartner in Form einer
 
 a)  
-lebenslangen Leibrente oder Ratenzahlungen im Rahmen eines Auszahlungsplans mit einer anschließenden Teilkapitalverrentung ab spätestens dem 85. Lebensjahr vorsieht; die Leistungen müssen während der gesamten Auszahlungsphase gleich bleiben oder steigen; Anbieter und Vertragspartner können vereinbaren, dass bis zu zwölf Monatsleistungen in einer Auszahlung zusammengefasst werden oder eine Kleinbetragsrente nach § 93 Abs. 3 des Einkommensteuergesetzes abgefunden wird; bis zu 30 Prozent des zu Beginn der Auszahlungsphase zur Verfügung stehenden Kapitals kann an den Vertragspartner außerhalb der monatlichen Leistungen ausgezahlt werden; die gesonderte Auszahlung der in der Auszahlungsphase anfallenden Zinsen und Erträge ist zulässig;
+lebenslangen Leibrente oder Ratenzahlungen im Rahmen eines Auszahlungsplans mit einer anschließenden Teilkapitalverrentung ab spätestens dem 85. Lebensjahr vorsieht; die Leistungen müssen während der gesamten Auszahlungsphase gleich bleiben oder steigen; Anbieter und Vertragspartner können vereinbaren, dass bis zu zwölf Monatsleistungen in einer Auszahlung zusammengefasst werden oder eine Kleinbetragsrente nach § 93 Abs. 3 des Einkommensteuergesetzes abgefunden wird, wenn die Vereinbarungen vorsehen, dass der Vertragspartner bis vier Wochen nach der Mitteilung des Anbieters darüber, dass die Auszahlung in Form einer Kleinbetragsrentenabfindung erfolgen wird, den Beginn der Auszahlungsphase auf den 1. Januar des darauffolgenden Jahres verschieben kann; bis zu 30 Prozent des zu Beginn der Auszahlungsphase zur Verfügung stehenden Kapitals kann an den Vertragspartner außerhalb der monatlichen Leistungen ausgezahlt werden; die gesonderte Auszahlung der in der Auszahlungsphase anfallenden Zinsen und Erträge ist zulässig;
 
 b)  
 lebenslangen Verminderung des monatlichen Nutzungsentgelts für eine vom Vertragspartner selbst genutzte Genossenschaftswohnung vorsieht oder eine zeitlich befristete Verminderung mit einer anschließenden Teilkapitalverrentung ab spätestens dem 85. Lebensjahr vorsieht; die Leistungen müssen während der gesamten Auszahlungsphase gleich bleiben oder steigen; die Ansparleistung muss in diesem Fall durch die Einzahlung auf weitere Geschäftsanteile an einer eingetragenen Genossenschaft erfolgen; die weiteren Geschäftsanteile gelten mit Beginn der Auszahlungsphase als gekündigt; Buchstabe a Teilsatz 3 bis 5 gilt entsprechend;
@@ -142,7 +142,7 @@ ein Anfangskapital im Sinne des Artikels 4 Absatz 1 Nummer 51 der Verordnung (EU
 3.  
 nach den Bedingungen des Altersvorsorgevertrages die Gelder nur anlegen bei Kreditinstituten im Sinne des Satzes 1.
 
-(3) Die Zertifizierung eines Altersvorsorgevertrages nach diesem Gesetz ist die Feststellung, dass die Vertragsbedingungen des Altersvorsorgevertrages dem Absatz 1, 1a oder beiden Absätzen sowie dem § 2a entsprechen und der Anbieter den Anforderungen des Absatzes 2 entspricht. Eine Zertifizierung im Sinne des § 4 Abs. 2 Satz 1 stellt ausschließlich die Übereinstimmung des Vertrages mit den Anforderungen des Absatzes 1 oder 1a oder beiden fest.
+(3) Die Zertifizierung eines Altersvorsorgevertrages nach diesem Gesetz ist die Feststellung, dass die Vertragsbedingungen des Altersvorsorgevertrages dem Absatz 1, 1a oder beiden Absätzen sowie dem § 2a entsprechen und der Anbieter den Anforderungen des Absatzes 2 entspricht. Eine Zertifizierung im Sinne des § 4 Abs. 2 Satz 1 stellt ausschließlich die Übereinstimmung des Vertrages mit den Anforderungen des Absatzes 1 oder 1a oder beiden sowie des § 2a fest.
 
 (4) (weggefallen)
 
@@ -230,6 +230,17 @@ für eine Verwendung des gebildeten Kapitals im Sinne des § 92a des Einkommenst
 c)  
 für Aufgaben im Zusammenhang mit dem Versorgungsausgleich des Vertragspartners.
 
+Von Satz 1 bleiben unberührt
+
+1.  
+gesetzliche Schadenersatzansprüche,
+
+2.  
+bei Altersvorsorgeverträgen in Form eines Darlehens und bei Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 die Kosten und die Gebühren nach § 6 Absatz 4 der Preisangabenverordnung sowie
+
+3.  
+Steuern, die der Anbieter für den Anleger einzubehalten und abzuführen hat.
+
 § 125 des Investmentgesetzes ist für Altersvorsorgeverträge nicht anzuwenden.
 
 (+++ § 2a: Zur Anwendung vgl. § 14 Abs. 6 +++)
@@ -260,7 +271,7 @@ für Aufgaben im Zusammenhang mit dem Versorgungsausgleich des Vertragspartners.
 Unterlagen, die belegen, dass die Vertragsbedingungen nach § 1 Abs. 3 oder § 2 Abs. 3 zertifizierbar sind;
 
 2.  
-eine Bescheinigung der zuständigen Aufsichtsbehörde über den Umfang der Erlaubnis und bei Unternehmen im Sinne des § 1 Abs. 2 Satz 3 zusätzlich über den Umfang der Aufsicht und die Höhe des Anfangskapitals (§ 1 Abs. 2 Satz 3 Nr. 1 und 2); bei einem Anbieter im Sinne des § 1 Abs. 2 Satz 1 Nr. 4 sind anstelle der Bescheinigung ein Registerauszug, die Satzung und die gutachterliche Äußerung des Prüfungsverbands nach § 1 Abs. 2 Satz 1 Nr. 4 beizufügen.
+eine Bescheinigung der zuständigen Aufsichtsbehörde über den Umfang der Erlaubnis und bei Unternehmen im Sinne des § 1 Absatz 2 Satz 2 zusätzlich über den Umfang der Aufsicht und die Höhe des Anfangskapitals (§ 1 Absatz 2 Satz 2 Nr. 1 und 2); bei einem Anbieter im Sinne des § 1 Abs. 2 Satz 1 Nr. 4 sind anstelle der Bescheinigung ein Registerauszug, die Satzung und die gutachterliche Äußerung des Prüfungsverbands nach § 1 Abs. 2 Satz 1 Nr. 4 beizufügen.
 
 (2) Auf Antrag eines Spitzenverbandes der in § 1 Abs. 2 genannten Anbieter kann die Zertifizierung eines ausschließlich als Muster verwendbaren Vertrages erfolgen. Mit dem Antrag sind die Unterlagen vorzulegen, die belegen, dass die Vertragsbedingungen des Mustervertrags nach § 1 Abs. 3 oder § 2 Abs. 3 zertifizierbar sind.
 
@@ -320,10 +331,10 @@ die wesentlichen Bestandteile des Vertrags;
 die auf Wahrscheinlichkeitsrechnungen beruhende Einordnung in Chancen-Risiko-Klassen;
 
 8.  
-bei Altersvorsorgeverträgen in Form eines Darlehens und bei Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Nummer 3 die Angabe des Nettodarlehensbetrags, der Gesamtkosten und des Gesamtdarlehensbetrags;
+bei Altersvorsorgeverträgen in Form eines Darlehens und bei Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Nummer 3 die die Angabe des Nettodarlehensbetrags, der Gesamtkosten, ausgedrückt als jährlicher Prozentsatz des Nettodarlehensbetrags nach § 6 Absatz 1 der Preisangabenverordnung, und des Gesamtdarlehensbetrags;
 
 9.  
-eine Aufstellung der Kosten nach § 2a Nummer 1 Buchstabe a bis e sowie Nummer 2 Buchstabe a bis c, getrennt für jeden Gliederungspunkt, die Angabe zu § 2a Satz 1 Nummer 1 Buchstabe f ist freiwillig;
+eine Aufstellung der Kosten nach § 2a Satz 1 Nummer 1 Buchstabe a bis f sowie § 2a Satz 1 Nummer 2 Buchstabe a bis c, getrennt für jeden Gliederungspunkt; soweit die Angaben zu § 2a Satz 1 Nummer 1 Buchstabe f noch nicht feststehen, muss ein Hinweis hierauf erfolgen. Auf Kosten nach § 2a Satz 2, die vertragstypisch sind, muss hingewiesen werden. Kosten nach § 2a Satz 1, die im individuellen Produktinformationsblatt nicht ausgewiesen sind oder auf die nicht hingewiesen wurde, sind vom Vertragspartner nicht geschuldet;
 
 10.  
 Angaben zum Preis-Leistungs-Verhältnis;
@@ -366,17 +377,19 @@ Satz 2 Nummer 7, 8, 10 und 13 gilt nicht für Basisrentenverträge nach § 10 Ab
 
 (2) Das individuelle Produktinformationsblatt ersetzt das Produktinformationsblatt nach § 4 der VVG-Informationspflichtenverordnung in der jeweils geltenden Fassung. Eine Modellrechnung nach § 154 des Versicherungsvertragsgesetzes ist für zertifizierte Altersvorsorgeverträge und für zertifizierte Basisrentenverträge nicht durchzuführen. Diese darf dem individuellen Produktinformationsblatt auch nicht zusätzlich beigefügt werden. Der rechtzeitige Zugang des individuellen Produktinformationsblatts muss nachgewiesen werden können. Das Produktinformationsblatt ist dem Vertragspartner kostenlos bereitzustellen.
 
-(3) Erfüllt der Anbieter seine Verpflichtungen nach Absatz 1 nicht, nicht richtig oder nicht vollständig, kann der Vertragspartner innerhalb von zwei Jahren nach der Abgabe der Vertragserklärung vom Vertrag zurücktreten. Der Rücktritt ist innerhalb von drei Monaten ab Erlangung der Kenntnis vom Rücktrittsgrund zu erklären. Der Anbieter hat dem Vertragspartner bei einem Rücktritt mindestens einen Geldbetrag in Höhe der auf den Vertrag eingezahlten Beiträge und Altersvorsorgezulagen zu zahlen. Auf die Beiträge und Altersvorsorgezulagen hat der Anbieter dem Vertragspartner Zinsen in Höhe des gesetzlichen Zinssatzes nach § 246 des Bürgerlichen Gesetzbuchs zu zahlen. Die Verzinsung beginnt an dem Tag, an dem die Beiträge oder die Zulagen dem Anbieter zufließen. § 8 des Versicherungsvertragsgesetzes bleibt unberührt.
+(3) Erfüllt der Anbieter seine Verpflichtungen nach Absatz 1 nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig, kann der Vertragspartner innerhalb von zwei Jahren nach der Abgabe der Vertragserklärung vom Vertrag zurücktreten. Der Rücktritt ist innerhalb von drei Monaten ab Erlangung der Kenntnis vom Rücktrittsgrund zu erklären. Der Anbieter hat dem Vertragspartner bei einem Rücktritt mindestens einen Geldbetrag in Höhe der auf den Vertrag eingezahlten Beiträge und Altersvorsorgezulagen zu zahlen. Auf die Beiträge und Altersvorsorgezulagen hat der Anbieter dem Vertragspartner Zinsen in Höhe des gesetzlichen Zinssatzes nach § 246 des Bürgerlichen Gesetzbuchs zu zahlen. Die Verzinsung beginnt an dem Tag, an dem die Beiträge oder die Zulagen dem Anbieter zufließen. § 8 des Versicherungsvertragsgesetzes bleibt unberührt.
 
-(4) Der Anbieter hat für jeden auf der Basis eines zertifizierten Altersvorsorge- oder Basisrentenvertragsmusters vertriebenen Tarif vor dem erstmaligen Vertrieb eines darauf beruhenden Altersvorsorge- oder Basisrentenvertrags vier Muster-Produktinformationsblätter nach Satz 2 zu erstellen. Diese haben in Form und Inhalt dem individuellen Produktinformationsblatt nach Absatz 1 mit der Maßgabe zu entsprechen, dass den Informationen statt der individuellen Werte Musterdaten zugrunde zu legen sind. Die Muster-Produktinformationsblätter werden im Internet veröffentlicht. Die Einzelheiten der Veröffentlichung regelt ein Schreiben des Bundesministeriums der Finanzen, das im Bundessteuerblatt veröffentlicht wird.
+(4) Der Anbieter hat für jeden auf der Basis eines zertifizierten Altersvorsorge- oder Basisrentenvertragsmusters vertriebenen Tarif vor dem erstmaligen Vertrieb eines darauf beruhenden Altersvorsorge- oder Basisrentenvertrags für unterstellte Vertragslaufzeiten von 12, 20, 30 und 40 Jahren, soweit es die vertraglich vorgesehene Mindestlaufzeit zulässt, jeweils ein Muster-Produktinformationsblatt nach Satz 2 zu erstellen. Dieses Muster-Produktinformationsblatt hat nach Art, Inhalt, Umfang und Darstellung dem individuellen Produktinformationsblatt nach Absatz 1 mit der Maßgabe zu entsprechen, dass den Informationen statt der individuellen Werte Musterdaten zugrunde zu legen sind. Entspricht ein Muster-Produktinformationsblatt nicht mehr den gesetzlichen Vorgaben, muss es geändert werden. Ein Muster-Produktinformationsblatt ist erst mit der öffentlichen Zugänglichmachung auf der Internetseite des Anbieters erstellt oder geändert. Die öffentliche Zugänglichmachung ist der Zertifizierungsstelle formlos anzuzeigen. Die Einzelheiten der Veröffentlichung regelt ein Schreiben des Bundesministeriums der Finanzen, das im Bundessteuerblatt veröffentlicht wird.
 
 (5) Die §§ 297 bis 299, 301 und 303 des Kapitalanlagegesetzbuches bleiben unberührt.
+
+(6) Die Absätze 1 bis 4 gelten nicht für Verträge, deren Auszahlungsphase unmittelbar nach der Einzahlung eines Einmalbetrags beginnt. Sie gelten auch nicht für Altersvorsorge- und Basisrentenverträge, die abgeschlossen werden, um Anrechte auf Grund einer internen Teilung nach § 10 des Versorgungsausgleichsgesetzes zu übertragen.
 
 (+++ § 7: Zur Anwendung vgl. § 14 Abs. 6 +++)
 
 ### § 7a Jährliche Informationspflicht
 
-(1) Der Anbieter eines Altersvorsorge- oder Basisrentenvertrags ist verpflichtet, den Vertragspartner jährlich schriftlich über folgende Punkte zu informieren:
+(1) Der Anbieter eines Altersvorsorge- oder Basisrentenvertrags ist verpflichtet, den Vertragspartner jährlich bis zum Ablauf des auf das Beitragsjahr folgenden Jahres schriftlich über folgende Punkte zu informieren:
 
 1.  
 die Verwendung der eingezahlten Beiträge;
@@ -391,7 +404,7 @@ die im abgelaufenen Beitragsjahr angefallenen tatsächlichen Kosten;
 die erwirtschafteten Erträge;
 
 5.  
-bis zum Beginn der Auszahlungsphase das nach Abzug der Kosten zu Beginn der Auszahlungsphase voraussichtlich zur Verfügung stehende Kapital; für die Berechnung sind die in der Vergangenheit tatsächlich gezahlten Beiträge und die in dem vor Vertragsabschluss zur Verfügung gestellten individuellen Produktinformationsblatt genannten Wertentwicklungen nach § 7 Absatz 1 Satz 2 Nummer 10 zugrunde zu legen.
+bis zum Beginn der Auszahlungsphase das nach Abzug der Kosten zu Beginn der Auszahlungsphase voraussichtlich zur Verfügung stehende Kapital; für die Berechnung sind die in der Vergangenheit tatsächlich gezahlten Beiträge und die in dem vor Vertragsabschluss zur Verfügung gestellten individuellen Produktinformationsblatt genannten Wertentwicklungen nach § 7 Absatz 1 Satz 2 Nummer 10 zugrunde zu legen; bei Altersvorsorge- und Basisrentenverträgen, die abgeschlossen wurden, um Anrechte auf Grund einer internen Teilung nach § 10 des Versorgungsausgleichsgesetzes zu übertragen, sind die in dem vor Vertragsabschluss zur Verfügung gestellten individuellen Produktinformationsblatt der ausgleichspflichtigen Person genannten Wertentwicklungen nach § 7 Absatz 1 Satz 2 Nummer 10 zugrunde zu legen.
 
 Im Rahmen der jährlichen Informationspflicht muss der Anbieter eines Altersvorsorge- oder Basisrentenvertrags auch darüber schriftlich informieren, ob und wie ethische, soziale und ökologische Belange bei der Verwendung der eingezahlten Beiträge berücksichtigt werden.
 
@@ -415,17 +428,17 @@ Absatz 1 Satz 1 Nummer 5 gilt nicht für Verträge, die vor dem in § 14 Absatz 
 
 ### § 7b Information vor der Auszahlungsphase des Altersvorsorgevertrags
 
-(1) Sind aus einem Altersvorsorgevertrag Leistungen nach § 1 Absatz 1 Satz 1 Nummer 4 zu erbringen, hat ein Anbieter von Altersvorsorgeverträgen den Vertragspartner frühestens zwei Jahre vor Beginn der vertraglich vereinbarten Auszahlungsphase schriftlich über Folgendes zu informieren:
+(1) Sind aus einem Altersvorsorgevertrag Leistungen nach § 1 Absatz 1 Satz 1 Nummer 4 zu erbringen, hat ein Anbieter von Altersvorsorgeverträgen den Vertragspartner frühestens zwei Jahre vor Beginn der vertraglich vereinbarten Auszahlungsphase schriftlich über folgende Punkte zu informieren:
 
 1.  
 die Form und Höhe der vorgesehenen Auszahlungen einschließlich Aussagen zu einer Dynamisierung der monatlichen Leistungen sowie
 
 2.  
-die in der Auszahlungsphase anfallenden Kosten.
+die in der Auszahlungsphase anfallenden Kosten; Kosten nach § 2a Satz 1, die im Rahmen dieser Information nicht ausgewiesen sind oder auf die nicht hingewiesen wurde, sind vom Vertragspartner nicht geschuldet.
 
 Ist kein Beginn der Auszahlungsphase vereinbart, so gilt für Altersvorsorgeverträge, die nach dem 31. Dezember 2011 abgeschlossen wurden, die Vollendung des 62. Lebensjahres als Beginn der Auszahlungsphase, im Übrigen die Vollendung des 60. Lebensjahres. Der Vertragspartner ist dann vom Anbieter im Rahmen der Mitteilung nach Satz 1 darüber zu informieren, dass ein tatsächlicher Beginn der Auszahlungsphase nicht vereinbart wurde. Sofern ein Anbieter von Altersvorsorgeverträgen bereit ist, nach § 1 Absatz 1 Satz 1 Nummer 10 Buchstabe b übertragenes Altersvorsorgevermögen anzunehmen, muss er dem Anleger auf Verlangen die Information nach Satz 1 und gegebenenfalls Satz 3 zur Verfügung stellen, wenn bis zum Beginn der Auszahlungsphase weniger als zwei Jahre verbleiben. Dieser Information sind der vom Anleger angegebene Übertragungswert und Übertragungszeitpunkt zugrunde zu legen.
 
-(2) Die Information durch den Anbieter muss spätestens drei Monate vor Beginn der vertraglich vereinbarten Auszahlungsphase erfolgen. Sofern ein Anbieter von Altersvorsorgeverträgen den Vertragspartner nicht spätestens neun Monate vor Beginn der vertraglich vereinbarten Auszahlungsphase gemäß Absatz 1 informiert, hat der Vertragspartner das Recht, den Altersvorsorgevertrag zum Beginn der Auszahlungsphase bis spätestens drei Monate vor dem Beginn zu kündigen, um das gebildete Kapital nach § 1 Absatz 1 Satz 1 Nummer 10 Buchstabe b übertragen zu lassen. Erfolgt sie später als sechs Monate vor Beginn der Auszahlungsphase, hat der Vertragspartner das Recht, den Altersvorsorgevertrag zum Beginn der Auszahlungsphase mit einer Frist von 14 Tagen zu kündigen, um das gebildete Kapital nach § 1 Absatz 1 Satz 1 Nummer 10 Buchstabe b übertragen zu lassen. Absatz 1 Satz 2 und 3 gilt entsprechend.
+(2) Die Information durch den Anbieter muss spätestens drei Monate vor Beginn der vertraglich vereinbarten Auszahlungsphase erfolgen. Sofern ein Anbieter von Altersvorsorgeverträgen den Vertragspartner nicht spätestens neun Monate vor Beginn der vertraglich vereinbarten Auszahlungsphase gemäß Absatz 1 informiert, hat der Vertragspartner das Recht, den Altersvorsorgevertrag zum Beginn der Auszahlungsphase bis spätestens drei Monate vor dem Beginn zu kündigen, um das gebildete Kapital nach § 1 Absatz 1 Satz 1 Nummer 10 Buchstabe b übertragen zu lassen. Erfolgt sie später als sechs Monate vor Beginn der Auszahlungsphase, hat der Vertragspartner das Recht, den Altersvorsorgevertrag zum Beginn der Auszahlungsphase mit einer Frist von 14 Tagen zu kündigen, um das gebildete Kapital nach § 1 Absatz 1 Satz 1 Nummer 10 Buchstabe b übertragen zu lassen. Absatz 1 Satz 2 und 3 gilt entsprechend. Abweichend von den Sätzen 1 bis 4 muss die Information für Verträge, die längstens drei Monate vor Beginn der vertraglich vereinbarten Auszahlungsphase beginnen, spätestens zu Beginn der vertraglich vereinbarten Auszahlungsphase erfolgen. Die vertraglich vereinbarten Kündigungsfristen bleiben in diesen Fällen unberührt.
 
 (3) Erfüllt ein Anbieter seine Verpflichtungen nach Absatz 1 oder 2 nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig, kann der Vertragspartner innerhalb eines Jahres nach Beginn der Auszahlungsphase vom Anbieter verlangen, unter Anrechnung der an ihn schon geleisteten Zahlungen so gestellt zu werden, wie er zu Beginn der Auszahlungsphase gestanden hat. Er kann die Übertragung des so errechneten Kapitals nach § 1 Absatz 1 Satz 1 Nummer 10 Buchstabe b verlangen. Der Anbieter des bisherigen Altersvorsorgevertrags darf dann vom Vertragspartner keine Kosten für die Übertragung des Kapitals verlangen. Das nach Satz 1 errechnete Kapital ist ab Beginn der Auszahlungsphase bis zu dessen Übertragung auf den anderen Altersvorsorgevertrag in Höhe des gesetzlichen Zinssatzes nach § 246 des Bürgerlichen Gesetzbuchs zu verzinsen.
 
@@ -433,7 +446,7 @@ Ist kein Beginn der Auszahlungsphase vereinbart, so gilt für Altersvorsorgevert
 
 ### § 7c Kostenänderung
 
-Ein Anbieter hat dem Vertragspartner eine Änderung der Kosten anzuzeigen, die im individuellen Produktinformationsblatt nach § 7 Absatz 1 ausgewiesen sind. Bei einer Kostenänderung vor Beginn der Auszahlungsphase hat er dazu dem Vertragspartner ein angepasstes individuelles Produktinformationsblatt oder ein Blatt, das mindestens die Angaben nach § 7 Absatz 1 Satz 2 Nummer 1, 9, 10 und 13 enthält, mit einer Frist von mindestens vier Monaten zum Ende eines Kalendervierteljahres vor der Änderung der Kosten auszustellen. Der Berechnung des Preis-Leistungs-Verhältnisses sind die Wertentwicklungen zugrunde zu legen, die den Berechnungen im vor Vertragsabschluss zur Verfügung gestellten individuellen Produktinformationsblatt zugrunde gelegen haben. Bei Altersvorsorgeverträgen in Form eines Darlehens oder Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Nummer 3 treten an die Stelle der verkürzten Angaben nach Satz 2 zweite Alternative die Angaben nach § 7 Absatz 1 Satz 2 Nummer 1, 8 und 9. Bei Basisrentenverträgen nach § 10 Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe bb des Einkommensteuergesetzes treten an die Stelle der verkürzten Angaben nach Satz 2 zweite Alternative die Angaben nach § 7 Absatz 1 Satz 2 Nummer 1, 9 und 11. Ab dem Beginn der Auszahlungsphase sind die in der Auszahlungsphase anfallenden Kosten auf einem gesonderten Blatt auszuweisen. Kosten, die im individuellen Produktinformationsblatt oder dem Blatt nach Satz 2 zweite Alternative oder den Sätzen 4 bis 6 nicht ausgewiesen sind, muss der Vertragspartner nicht übernehmen.
+Ein Anbieter hat dem Vertragspartner eine Änderung der Kosten, die im individuellen Produktinformationsblatt nach § 7 Absatz 1 Satz 1 ausgewiesen sind, nach Maßgabe der Sätze 2 bis 7 anzuzeigen; nicht angezeigte Kosten nach § 2a Satz 1 sind vom Vertragspartner nicht geschuldet. Die Anzeige einer Kostenänderung hat mit einer Frist von vier Monaten zum Ende eines Kalendervierteljahres, bevor die Kostenänderung wirksam werden soll, zu erfolgen. Bei einer Kostenänderung vor Beginn der Auszahlungsphase hat der Anbieter dazu dem Vertragspartner ein angepasstes individuelles Produktinformationsblatt oder ein Blatt, das mindestens die Angaben nach § 7 Absatz 1 Satz 2 Nummer 1, 9, 10 und 13 enthält, zur Verfügung zu stellen. Den Berechnungen für die Angaben nach § 7 Absatz 1 Satz 2 Nummer 10 und 13 sind die Wertentwicklungen zugrunde zu legen, die den Berechnungen im vor Vertragsabschluss zur Verfügung gestellten individuellen Produktinformationsblatt zugrunde gelegen haben; bei Altersvorsorge- und Basisrentenverträgen, die abgeschlossen wurden, um Anrechte auf Grund einer internen Teilung nach § 10 des Versorgungsausgleichsgesetzes zu übertragen, sind die Wertentwicklungen zugrunde zu legen, die den Berechnungen im vor Vertragsabschluss zur Verfügung gestellten individuellen Produktinformationsblatt der ausgleichspflichtigen Person zugrunde gelegen haben. Bei Altersvorsorgeverträgen in Form eines Darlehens oder Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Nummer 3 treten an die Stelle der verkürzten Angaben nach Satz 2 zweite Alternative die Angaben nach § 7 Absatz 1 Satz 2 Nummer 1, 8 und 9. Bei Basisrentenverträgen nach § 10 Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe bb des Einkommensteuergesetzes treten an die Stelle der verkürzten Angaben nach Satz 2 zweite Alternative die Angaben nach § 7 Absatz 1 Satz 2 Nummer 1, 9 und 11. Ab dem Beginn der Auszahlungsphase sind dem Vertragspartner Kostenänderungen auf einem gesonderten Blatt auszuweisen.
 
 (+++ § 7c: Zur Anwendung vgl. § 14 Abs. 6 +++)
 
@@ -448,6 +461,10 @@ Zur Erfüllung ihrer Verpflichtung aus § 1 Absatz 2 Satz 1 Nummer 4 Buchstabe b
 Dem Vertragspartner steht bei einem nach diesem Gesetz zertifizierten Vertrag, unbeschadet anderer Regelungen, ein Widerrufsrecht nach § 355 des Bürgerlichen Gesetzbuchs zu. Steht dem Verbraucher zugleich nach Maßgabe anderer Vorschriften ein Widerrufsrecht nach § 355 des Bürgerlichen Gesetzbuchs oder nach anderen Vorschriften zu, ist das Widerrufsrecht nach Satz 1 ausgeschlossen.
 
 (+++ § 7e: Zur Anwendung vgl. § 14 Abs. 6 +++)
+
+### § 7f Prüfkompetenz
+
+Die Zertifizierungsstelle kann anlassunabhängig prüfen, ob der Anbieter eines Altersvorsorgevertrags oder eines Basisrentenvertrags seine Pflichten nach § 7 erfüllt hat.
 
 ### § 8 Rücknahme, Widerruf und Verzicht
 
@@ -513,18 +530,15 @@ Für Anträge nach § 4 Abs. 3 Satz 1 und 2 beträgt die Gebühr 250 Euro.
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1.  
-entgegen § 7 Absatz 4 Satz 1 ein Muster-Produktinformationsblatt nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt,
+entgegen § 7 Absatz 1 Satz 1, § 7a Absatz 1 oder § 7b Absatz 1 Satz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 6 Satz 1, eine Information nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig gibt,
 
 2.  
-entgegen § 7a Absatz 1 Satz 1 über einen dort genannten Punkt nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig informiert,
+entgegen § 7 Absatz 4 Satz 1, auch in Verbindung mit einer Rechtsverordnung nach § 6 Satz 1, ein Muster-Produktinformationsblatt nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstellt oder
 
 3.  
-entgegen § 7a Absatz 1 Satz 2 über die Berücksichtigung der dort genannten Belange bei der Verwendung der eingezahlten Beträge nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig informiert oder
+entgegen § 7c Satz 1 erster Halbsatz, auch in Verbindung mit einer Rechtsverordnung nach § 6 Satz 1, eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet.
 
-4.  
-entgegen § 7b Absatz 1 Satz 1 über einen dort genannten Punkt nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig informiert.
-
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 3 000 Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2 mit einer Geldbuße bis zu zehntausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Zertifizierungsstelle.
 
@@ -539,6 +553,8 @@ entgegen § 7b Absatz 1 Satz 1 über einen dort genannten Punkt nicht, nicht ric
 (2a) Für Verträge, die nach den §§ 5 oder 5a in der am 31. Dezember 2012 geltenden Fassung zertifiziert wurden und in denen allein die Änderungen der Zertifizierungsvoraussetzungen durch Artikel 2 des Gesetzes vom 24. Juni 2013 (BGBl. I S. 1667) nachvollzogen werden, ist keine erneute Zertifizierung erforderlich. Absatz 1 Satz 3 gilt entsprechend. Geht bis zum Ablauf des Tages vor dem in Absatz 6 Satz 2 genannten Anwendungszeitpunkt keine Änderungsanzeige bei der Zertifizierungsstelle ein, gilt dies als Verzicht des Anbieters auf die Zertifizierung im Sinne des § 8 Absatz 2 ab dem in Absatz 6 Satz 2 genannten Anwendungszeitpunkt.
 
 (2b) Für Verträge, die nach § 5 oder § 5a bis zum 23. Juli 2014 zertifiziert wurden und in denen allein die Änderungen durch Artikel 1 des Gesetzes vom 15. Juli 2013 (BGBl. I S. 2397) und durch Artikel 5 Nummer 1 des Gesetzes vom 18. Juli 2014 (BGBl. I S. 1042) aufgenommen werden, ist keine erneute Zertifizierung erforderlich. Absatz 1 Satz 3 gilt entsprechend.
+
+(2c) Für Verträge, die nach § 5 in der am 31. Dezember 2017 geltenden Fassung zertifiziert wurden und in denen allein die Änderungen nach Artikel 14 Nummer 1 Buchstabe a des Gesetzes vom 17. August 2017 (BGBl. I S. 3214) nachvollzogen werden, ist keine erneute Zertifizierung erforderlich. Absatz 1 Satz 3 gilt entsprechend.
 
 (3) Die Zertifizierung für Verträge, deren Vertragsgestaltung sich auf die in Artikel 2 Nr. 1 Buchstabe a bis c des Gesetzes vom 29. Juli 2008 (BGBl. I S. 1509) vorgenommenen Änderungen beziehen, kann frühestens zum 1. November 2008 erteilt werden. Bis zu dem Zeitpunkt, der sich aus Satz 1 ergibt, können Zertifizierungen auf Grundlage des bis zum 31. Dezember 2007 geltenden Rechts erteilt werden. Verträge, die nach § 4 Abs. 1, 2 oder Abs. 3 in Verbindung mit § 5 in der am 31. Dezember 2007 geltenden Fassung zertifiziert wurden, können um die Regelungen in Artikel 2 Nr. 1 Buchstabe b des Gesetzes vom 29. Juli 2008 (BGBl. I S. 1509) ergänzt werden. Die Gebühren für die Zertifizierung nach Satz 3 richten sich nach § 12 Satz 3. Die durch Artikel 2 Nr. 4 Buchstabe d des Gesetzes vom 29. Juli 2008 (BGBl. I S. 1509) geänderten jährlichen Informationspflichten sind erstmals für nach dem 31. Dezember 2008 beginnende Beitragsjahre anzuwenden.
 
