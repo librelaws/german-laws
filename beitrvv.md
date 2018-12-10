@@ -2,13 +2,7 @@ Verordnung über die Berechnung, Zahlung, Weiterleitung, Abrechnung und Prüfung
 ===========================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 13 G v. 11.8.2014 I 1348
-
-Hinweis  
-Änderung durch Art. 9 G v. 23.12.2014 I 2462 (Nr. 64) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 11 G v. 15.4.2015 I 583 (Nr. 15) noch nicht berücksichtigt
+Zuletzt geändert durch Art. 12a G v. 11.12.2018 I 2387
 
 ### 
 
@@ -35,7 +29,7 @@ Erster Abschnitt Berechnung des Gesamtsozialversicherungsbeitrages und der Beitr
 
 (1) Beiträge, die der Arbeitgeber und der Beschäftigte je zur Hälfte tragen, werden durch Anwendung des halben Beitragssatzes auf das Arbeitsentgelt und anschließender Verdoppelung des gerundeten Ergebnisses berechnet. Auf Beiträge, die der Arbeitgeber allein trägt, kann Satz 1 entsprechend angewandt werden. Werden Beiträge vom Arbeitgeber und vom Beschäftigten nicht je zur Hälfte getragen, ergibt sich der Beitrag aus der Summe der getrennt berechneten gerundeten Anteile. Beiträge, die vom Beschäftigten allein zu tragen sind, werden durch Anwendung des für diese Beiträge geltenden Beitragssatzes oder Beitragszuschlags auf das Arbeitsentgelt berechnet; Satz 3 zweiter Halbsatz gilt entsprechend. Wird die Mindestbeitragsbemessungsgrundlage des § 163 Abs. 8 des Sechsten Buches Sozialgesetzbuch nicht überschritten, wird der Beitragssatz auf die Mindestbeitragsbemessungsgrundlage angewandt und der vom Arbeitgeber zu tragende Beitragsanteil berechnet und gerundet; durch Abzug des Arbeitgeberanteils vom Beitrag ergibt sich der Beitragsanteil des Beschäftigten.
 
-(2) In den Fällen der Gleitzone wird der vom Arbeitgeber zu zahlende Beitrag durch Anwendung des halben Beitragssatzes auf die beitragspflichtige Einnahme und anschließender Verdoppelung des gerundeten Ergebnisses berechnet. Der vom Arbeitgeber zu tragende Beitragsanteil wird durch Anwendung des halben sich aus der Summe des Beitragssatzes zur gesetzlichen Rentenversicherung, der gesetzlichen Pflegeversicherung, zur Arbeitsförderung und des halben um den vom Arbeitnehmer allein zu tragenden Beitragsanteil reduzierten Beitragssatzes in der gesetzlichen Krankenversicherung ergebenden Beitragssatzes auf das der Beschäftigung zugrunde liegende Arbeitsentgelt berechnet und gerundet. Der Abzug des Arbeitgeberanteils von dem nach Satz 1 errechneten Beitrag ergibt den Beitragsanteil des Beschäftigten. Bei Entgelten bis zu 450 Euro ergibt sich die beitragspflichtige Einnahme durch Anwendung des Faktors F (§ 163 Abs. 10 des Sechsten Buches Sozialgesetzbuch) auf das der Beschäftigung zugrunde liegende Arbeitsentgelt. Vom Beschäftigten allein zu tragende Beitragsanteile werden durch Anwendung des maßgebenden Beitragssatzes oder Beitragszuschlags auf die beitragspflichtige Einnahme berechnet und gerundet.
+(2) In den Fällen der Gleitzone wird der vom Arbeitgeber zu zahlende Beitrag durch Anwendung des halben Beitragssatzes auf die beitragspflichtige Einnahme und anschließender Verdoppelung des gerundeten Ergebnisses berechnet. Der vom Arbeitgeber zu tragende Beitragsanteil wird durch Anwendung des halben sich aus der Summe des Beitragssatzes zur gesetzlichen Rentenversicherung, der gesetzlichen Pflegeversicherung, zur Arbeitsförderung und der gesetzlichen Krankenversicherung zuzüglich des kassenindividuellen Zusatzbeitragssatzes ergebenden Beitragssatzes auf das der Beschäftigung zugrunde liegende Arbeitsentgelt berechnet und gerundet. Der Abzug des Arbeitgeberanteils von dem nach Satz 1 errechneten Beitrag ergibt den Beitragsanteil des Beschäftigten. Bei Entgelten bis zu 450 Euro ergibt sich die beitragspflichtige Einnahme durch Anwendung des Faktors F (§ 163 Abs. 10 des Sechsten Buches Sozialgesetzbuch) auf das der Beschäftigung zugrunde liegende Arbeitsentgelt. Vom Beschäftigten allein zu tragende Beitragsanteile werden durch Anwendung des maßgebenden Beitragssatzes oder Beitragszuschlags auf die beitragspflichtige Einnahme berechnet und gerundet.
 
 Zweiter Abschnitt Zahlungen des Arbeitgebers
 --------------------------------------------
@@ -71,7 +65,7 @@ Ist eine Krankenkasse der Arbeitgeber, ist der für die Pflegekasse bestimmte An
 
 ### § 4 Reihenfolge der Tilgung
 
-Schuldet der Arbeitgeber oder ein sonstiger Zahlungspflichtiger Auslagen der Einzugsstelle, Gebühren, Gesamtsozialversicherungsbeiträge zuzüglich der Zusatzbeiträge nach § 242 des Fünften Buches Sozialgesetzbuch, Säumniszuschläge, Zinsen, Geldbußen oder Zwangsgelder, kann er bei der Zahlung bestimmen, welche Schuld getilgt werden soll; der Arbeitgeber kann hinsichtlich der Beiträge bestimmen, dass vorrangig die Arbeitnehmeranteile getilgt werden sollen. Trifft der Arbeitgeber keine Bestimmung, werden die Schulden in der genannten Reihenfolge getilgt. Innerhalb der gleichen Schuldenart werden die einzelnen Schulden nach ihrer Fälligkeit, bei gleichzeitiger Fälligkeit anteilmäßig getilgt.
+Schuldet der Arbeitgeber oder ein sonstiger Zahlungspflichtiger Auslagen der Einzugsstelle, Gebühren, insbesondere Mahn- und Vollstreckungsgebühren sowie wie Gebühren zu behandelnde Entgelte für Rücklastschriften, Gesamtsozialversicherungsbeiträge zuzüglich der Zusatzbeiträge nach § 242 des Fünften Buches Sozialgesetzbuch, Säumniszuschläge, Zinsen, Geldbußen oder Zwangsgelder, kann er bei der Zahlung bestimmen, welche Schuld getilgt werden soll; der Arbeitgeber kann hinsichtlich der Beiträge bestimmen, dass vorrangig die Arbeitnehmeranteile getilgt werden sollen. Trifft der Arbeitgeber keine Bestimmung, werden die Schulden in der genannten Reihenfolge getilgt. Innerhalb der gleichen Schuldenart werden die einzelnen Schulden nach ihrer Fälligkeit, bei gleichzeitiger Fälligkeit anteilmäßig getilgt.
 
 Dritter Abschnitt Weiterleitung und Abrechnung durch die Einzugsstelle
 ----------------------------------------------------------------------
@@ -124,7 +118,7 @@ Vierter Abschnitt Prüfung beim Arbeitgeber
 
 (3) (weggefallen)
 
-(4) Das Ergebnis der Prüfung ist dem Arbeitgeber schriftlich mitzuteilen; die Mitteilung soll innerhalb von zwei Monaten nach Abschluss der Prüfung dem Arbeitgeber zugehen. Die Mitteilung ist vom Arbeitgeber bis zur nächsten Prüfung aufzubewahren. In den Fällen des § 28p Abs. 1a Satz 6 des Vierten Buches Sozialgesetzbuch sind der Künstlersozialkasse die Prüfberichte und Prüfbescheide zu übersenden. Für das Ergebnis der Prüfung nach § 166 Abs. 2 des Siebten Buches gelten die Sätze 1 und 2 entsprechend. Die Feststellungen zu den Arbeitsentgelten, die bei der Berechnung der Beiträge nach dem Siebten Buch Sozialgesetzbuch zu berücksichtigen sind, und deren Zuordnung zu den Gefahrtarifstellen sind den zuständigen Unfallversicherungsträgern zu übersenden.
+(4) Das Ergebnis der Prüfung ist dem Arbeitgeber innerhalb von zwei Monaten nach Abschluss der Prüfung mitzuteilen; auf Wunsch des Arbeitgebers kann dies durch Datenübertragung erfolgen. Der Arbeitgeber soll durch den Prüfbescheid oder das Abschlussgespräch zur Prüfung Hinweise zu den festgestellten Sachverhalten erhalten, um in den weiteren Verfahren fehlerhafte Angaben zu vermeiden. Die Mitteilung ist vom Arbeitgeber bis zur nächsten Prüfung aufzubewahren. In den Fällen des § 28p Abs. 1a Satz 6 des Vierten Buches Sozialgesetzbuch sind der Künstlersozialkasse die Prüfberichte und Prüfbescheide zu übersenden. Für das Ergebnis der Prüfung nach § 166 Abs. 2 des Siebten Buches gelten die Sätze 1 bis 3 entsprechend. Die Feststellungen zu den Arbeitsentgelten, die bei der Berechnung der Beiträge nach dem Siebten Buch Sozialgesetzbuch zu berücksichtigen sind, und deren Zuordnung zu den Gefahrtarifstellen sind den zuständigen Unfallversicherungsträgern zu übersenden.
 
 ### § 8 Entgeltunterlagen
 
@@ -163,6 +157,9 @@ das Arbeitsentgelt nach § 14 des Vierten Buches Sozialgesetzbuch, seine Zusamme
 11.  
 das beitragspflichtige Arbeitsentgelt bis zur Beitragsbemessungsgrenze der Rentenversicherung, seine Zusammensetzung und zeitliche Zuordnung,
 
+11a.  
+das in der Unfallversicherung beitragspflichtige Arbeitsentgelt, die anzuwendende Gefahrtarifstelle und die jeweilige zeitliche Zuordnung,
+
 12.  
 den Betrag nach § 3 Abs. 1 Nr. 1 Buchstabe b des Altersteilzeitgesetzes,
 
@@ -182,7 +179,10 @@ die für die Erstattung von Meldungen erforderlichen Daten, soweit sie in den Nu
 bei Entsendung Eigenart und zeitliche Begrenzung der Beschäftigung,
 
 18.  
-gezahltes Kurzarbeitergeld und die hierauf entfallenden beitragspflichtigen Einnahmen.
+gezahltes Kurzarbeitergeld und die hierauf entfallenden beitragspflichtigen Einnahmen,
+
+19.  
+Wertguthaben aus flexibler Arbeitszeit bis zum 31. Dezember 2009, für die noch Beiträge zur gesetzlichen Unfallversicherung zu entrichten sind.
 
 Bestehen die Entgeltunterlagen aus mehreren Teilen, sind diese Teile durch ein betriebliches Ordnungsmerkmal zu verbinden. Die Angaben nach Satz 1 Nr. 10 bis 15 und 18 sind für jeden Entgeltabrechnungszeitraum erforderlich. Die Beträge nach Satz 1 Nr. 11 und 12 sind für die Meldungen zu summieren. Berichtigungen zu den Angaben nach Satz 1 Nr. 10 bis 15 und 18 oder Stornierungen sind besonders kenntlich zu machen. Die Angaben nach Satz 1 Nr. 8, 9 und 14 können verschlüsselt werden.
 
@@ -213,7 +213,7 @@ die Erklärung des Beschäftigten gegenüber dem Arbeitgeber, dass auf die Anwen
 die schriftliche Erklärung des Arbeitnehmers gegenüber dem Arbeitgeber, dass die Gleitzonenregelung in der gesetzlichen Rentenversicherung nach § 276b Absatz 2 des Sechsten Buches Sozialgesetzbuch Anwendung finden soll,
 
 6.  
-die Niederschrift nach § 2 des Nachweisgesetzes,
+die Niederschrift nach § 2 des Nachweisgesetzes sowie für Seefahrtbetriebe der Heuervertrag nach § 28 des Seearbeitsgesetzes,
 
 7.  
 die Erklärung des kurzfristig geringfügigen Beschäftigten über weitere kurzfristige Beschäftigungen im Kalenderjahr oder die Erklärung des geringfügig entlohnten Beschäftigten über weitere Beschäftigungen sowie in beiden Fällen die Bestätigung, dass die Aufnahme weiterer Beschäftigungen dem Arbeitgeber anzuzeigen sind,
@@ -240,7 +240,19 @@ die Aufzeichnungen nach § 19 Absatz 1 des Arbeitnehmer-Entsendegesetzes und nac
 die Bescheinigung nach § 44a Absatz 5 des Elften Buches Sozialgesetzbuch, wenn die Beschäftigung wegen Bezugs von Pflegeunterstützungsgeld unterbrochen wird,
 
 15.  
-die Erklärung des oder der Beschäftigten zur Inanspruchnahme einer Pflegezeit im Sinne des § 3 des Pflegezeitgesetzes.
+die Erklärung des oder der Beschäftigten zur Inanspruchnahme einer Pflegezeit im Sinne des § 3 des Pflegezeitgesetzes,
+
+16.  
+für Seefahrtbetriebe die Besatzungslisten sowie Seetagebücher nach § 22 des Seearbeitsgesetzes, für Binnenschiffe die Schiffsatteste und für Schiffe der Rheinschifffahrt die Rheinschifffahrtszugehörigkeitsurkunde,
+
+17.  
+Veranlagungs-, Änderungs- und Nachtragsbescheide der Träger der gesetzlichen Unfallversicherung,
+
+18.  
+die Daten der übermittelten Bescheinigungen nach § 106 des Vierten Buches Sozialgesetzbuch,
+
+19.  
+die schriftliche Erklärung des Verzichts auf die Versicherungsfreiheit nach § 5 Absatz 4 Satz 2 oder § 230 Absatz 9 Satz 2 des Sechsten Buches Sozialgesetzbuch, auf der der Tag des Eingangs beim Arbeitgeber dokumentiert ist.
 
 ### § 9 Beitragsabrechnung
 
@@ -251,6 +263,9 @@ dem Familien- und Vornamen und gegebenenfalls dem betrieblichen Ordnungsmerkmal,
 
 2.  
 dem beitragspflichtigen Arbeitsentgelt bis zur Beitragsbemessungsgrenze der Rentenversicherung,
+
+2a.  
+das in der gesetzlichen Unfallversicherung beitragspflichtige Arbeitsentgelt,
 
 3.  
 dem Betrag nach § 3 Abs. 1 Nr. 1 Buchstabe b des Altersteilzeitgesetzes,
@@ -284,7 +299,7 @@ Die Beträge nach Satz 1 Nr. 7 sind zu summieren und die hierauf entfallenden Be
 
 (4) Im Beitragsnachweis sind die als gezahlt geltenden Beiträge nach § 28e Abs. 1 Satz 2 des Vierten Buches Sozialgesetzbuch nicht aufzunehmen.
 
-(5) Entgeltunterlagen können auf maschinell verwertbaren Datenträgern geführt werden. § 8 gilt entsprechend. Werden Entgeltunterlagen auf Datenträgern geführt, sind die Daten in der Aufbewahrungsfrist jederzeit verfügbar und unverzüglich lesbar vorzuhalten. § 147 Abs. 5 und 6 der Abgabenordnung gilt entsprechend.
+(5) Entgeltunterlagen können auf maschinell verwertbaren Datenträgern geführt werden. § 8 gilt entsprechend. Werden Entgeltunterlagen auf Datenträgern geführt, sind die Daten in der Aufbewahrungsfrist jederzeit verfügbar und unverzüglich lesbar vorzuhalten. § 147 Abs. 5 und 6 der Abgabenordnung gilt entsprechend. Überführt der Arbeitgeber schriftliche Entgeltunterlagen mit Unterschriftserfordernis in elektronische Form, hat er diese mit einer fortgeschrittenen Signatur des Arbeitgebers zu versehen. Das ihm im Meldeverfahren nach dem Vierten Buch Sozialgesetzbuch ausgestellte Zertifikat kann dafür verwendet werden. Nach vollständiger Übernahme in elektronischer Form können die schriftlichen Entgeltunterlagen vernichtet werden.
 
 ### § 10 Mitwirkung
 
@@ -310,7 +325,7 @@ die Organisation der manuellen Vor- oder Nachbehandlung von Daten.
 
 Änderungen des Abrechnungsverfahrens sind in der Dokumentation so zu vermerken, dass die zeitliche Abgrenzung einzelner Verfahrensversionen ersichtlich ist.
 
-(5) Bei der Prüfung von Programmen hat der Arbeitgeber die erforderlichen Testaufgaben auszuführen und das Testergebnis den Prüfern zu übergeben. Bei der Prüfung durch Testaufgaben sind nur gemeinsame Testaufgaben zu verwenden. Der Arbeitgeber kann eine Änderung der Testaufgaben verlangen, soweit dies durch betriebliche Gegebenheiten begründet ist. Eine Dokumentation der Programmprüfung ist bis zur nächsten Prüfung aufzubewahren und zur Prüfung vorzulegen. Verfahren oder Verfahrensteile, die bereits geprüft, nicht beanstandet und später nicht geändert worden sind, sind nicht erneut zu prüfen. Bei bereits geprüften Verfahren oder Verfahrensteilen, die später geändert worden sind, kann die Prüfung auf Änderungen beschränkt werden. Weist der Arbeitgeber nach, dass die Testaufgaben im Rahmen einer Systemprüfung bereits erfolgreich geprüft wurden, ist auf eine Prüfung beim Arbeitgeber zu verzichten.
+(5) (weggefallen)
 
 (6) Der Arbeitgeber hat unverzüglich die bei der Prüfung festgestellten Mängel zu beheben und Vorkehrungen zu treffen, dass die festgestellten Mängel sich nicht wiederholen. Dem Arbeitgeber kann dafür eine Frist gesetzt und darüber hinaus die Auflage erteilt werden, dem prüfenden Sozialversicherungsträger die ordnungsmäßige Mängelbeseitigung und die getroffenen Vorkehrungen nachzuweisen.
 
@@ -322,7 +337,7 @@ die Organisation der manuellen Vor- oder Nachbehandlung von Daten.
 
 ### § 12 Prüfung bei Steuerberatern oder bei anderen Stellen
 
-Für die Prüfung bei den in § 28p Abs. 6 des Vierten Buches Sozialgesetzbuch genannten Stellen gelten die §§ 7 bis 11, soweit sie solche Aufgaben vom Arbeitgeber übernommen haben, entsprechend. Beendet der Arbeitgeber die Beauftragung einer Stelle nach Satz 1 während der Prüfung, bleibt das Recht auf Prüfung für den zu prüfenden Zeitraum bestehen. Das Ergebnis der Prüfung ist auch dem Arbeitgeber schriftlich mitzuteilen; die Mitteilung soll innerhalb von zwei Monaten nach Abschluss der Prüfung dem Arbeitgeber zugehen. Das Recht auf Prüfung beim Arbeitgeber oder in den Räumen des Versicherungsträgers bleibt unberührt.
+Für die Prüfung bei den in § 28p Abs. 6 des Vierten Buches Sozialgesetzbuch genannten Stellen gelten die §§ 7 bis 11, soweit sie solche Aufgaben vom Arbeitgeber übernommen haben, entsprechend. Beendet der Arbeitgeber die Beauftragung einer Stelle nach Satz 1 während der Prüfung, bleibt das Recht auf Prüfung für den zu prüfenden Zeitraum bestehen. Für die Übermittlung des Prüfberichtes an eine in Satz 1 genannte Stelle und an den Arbeitgeber gilt § 7 Absatz 4 Satz 1 bis 3 entsprechend. Das Recht auf Prüfung beim Arbeitgeber oder in den Räumen des Versicherungsträgers bleibt unberührt.
 
 ### § 13 Prüfung in den Räumen des Versicherungsträgers
 
@@ -334,17 +349,17 @@ Für die Prüfung bei den in § 28p Abs. 6 des Vierten Buches Sozialgesetzbuch g
 
 Die Vorschriften dieses Abschnitts finden für die Prüfung der Entrichtung der Künstlersozialabgabe entsprechende Anwendung; § 1 Abs. 2, § 2 Abs. 1 Nr. 2 und Abs. 2 und die §§ 7 und 8 der KSVG-Beitragsüberwachungsverordnung sowie § 27 Abs. 1 Satz 3 und 4 des Künstlersozialversicherungsgesetzes gelten ergänzend. Den Zeitpunkt der Prüfung bestimmt der Versicherungsträger.
 
-Fünfter Abschnitt Datei der Arbeitgeber
----------------------------------------
+Fünfter Abschnitt Dateisystem der Arbeitgeber
+---------------------------------------------
 
 ### 
 
-### § 14 Inhalt der Datei
+### § 14 Inhalt des Dateisystems
 
-(1) Die bei der Deutschen Rentenversicherung Bund maschinell geführte Datei (§ 28p Abs. 8 Satz 1 des Vierten Buches Sozialgesetzbuch) enthält über jeden der Beitragsüberwachung unterliegenden Arbeitgeber die für die Übersichten nach § 28p Abs. 7 des Vierten Buches Sozialgesetzbuch erforderlichen Daten sowie folgende Angaben:
+(1) Das bei der Deutschen Rentenversicherung Bund maschinell geführte Dateisystem (§ 28p Abs. 8 Satz 1 des Vierten Buches Sozialgesetzbuch) enthält über jeden der Beitragsüberwachung unterliegenden Arbeitgeber die für die Übersichten nach § 28p Abs. 7 des Vierten Buches Sozialgesetzbuch erforderlichen Daten sowie folgende Angaben:
 
 1.  
-die Betriebsnummern und Gemeindeschlüssel der zu prüfenden Stellen (Betriebsstätten des Arbeitgebers sowie andere Stellen, auf die sich die Prüfung nach § 28p Abs. 6 des Vierten Buches Sozialgesetzbuch erstreckt),
+die Betriebsnummern und Gemeindeschlüssel der zu prüfenden Stellen (Beschäftigungsbetriebe des Arbeitgebers sowie andere Stellen, auf die sich die Prüfung nach § 28p Abs. 6 des Vierten Buches Sozialgesetzbuch erstreckt),
 
 2.  
 deren Namen, Anschriften, Telefon- und Telefaxanschluss, E-Mail-Adresse,
@@ -431,11 +446,14 @@ die Angabe, dass Beschäftigte Entgeltzahlungen durch Dritte erhalten,
 die Angabe, ob der Arbeitgeber hinsichtlich der Melde- und Abgabepflicht nach dem Künstlersozialversicherungsgesetz zu prüfen ist, sowie Informationen zum Verfahrensstand hinsichtlich der Melde- und Abgabepflicht nach dem Künstlersozialversicherungsgesetz,
 
 21.  
-die Angabe, dass der Arbeitgeber die Bestätigung nach § 28p Absatz 1b Satz 5 des Vierten Buches Sozialgesetzbuch abgegeben hat.
+die Angabe, dass der Arbeitgeber die Bestätigung nach § 28p Absatz 1b Satz 5 des Vierten Buches Sozialgesetzbuch abgegeben hat,
 
-(2) Die Angaben nach Absatz 1 dürfen nur von dem zuständigen Träger der Rentenversicherung und der Datenstelle der Träger der Rentenversicherung und für Abfragen nach § 28q Abs. 5 Satz 2 des Vierten Buches Sozialgesetzbuch verarbeitet und genutzt werden.
+22.  
+die Bußgeldbescheide, die nach § 111 Absatz 1 Nummer 2, 3 bis 3b und 8, nach § 111 Absatz 2 des Vierten Buches Sozialgesetzbuch und nach § 98 Absatz 5 des Zehnten Buches Sozialgesetzbuch erlassen wurden.
 
-(3) Die Angaben nach Absatz 1 Nr. 1 und 2 und der Inhalt der Bescheide nach § 28p Abs. 1 Satz 5 des Vierten Buches Sozialgesetzbuch, soweit dieser nach Einzugsstellen gegliedert ist, dürfen für die Prüfungen nach § 28q Abs. 1 Satz 1 und 2 des Vierten Buches Sozialgesetzbuch verarbeitet und genutzt werden.
+(2) Die Angaben nach Absatz 1 dürfen nur von dem zuständigen Träger der Rentenversicherung und der Datenstelle der Rentenversicherung und für Abfragen nach § 28q Abs. 5 Satz 2 des Vierten Buches Sozialgesetzbuch verarbeitet werden.
+
+(3) Die Angaben nach Absatz 1 Nr. 1 und 2 und der Inhalt der Bescheide nach § 28p Abs. 1 Satz 5 des Vierten Buches Sozialgesetzbuch, soweit dieser nach Einzugsstellen gegliedert ist, dürfen für die Prüfungen nach § 28q Abs. 1 Satz 1 und 2 des Vierten Buches Sozialgesetzbuch verarbeitet werden.
 
 Sechster Abschnitt Schlussvorschriften
 --------------------------------------
