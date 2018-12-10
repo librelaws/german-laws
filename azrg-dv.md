@@ -2,13 +2,7 @@ Verordnung zur Durchführung des Gesetzes über das Ausländerzentralregister (A
 ====================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 5 G v. 2.2.2016 I 130
-
-Hinweis  
-Mittelbare Änderung durch Art. 5a G v. 2.2.2016 I 130 ist berücksichtigt
-
-Hinweis  
-Änderung durch Art. 4 Abs. 1 G v. 11.10.2016 I 2226 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 1 V v. 11.12.2018 I 2424, 2019 I 10
 
 ### 
 
@@ -244,7 +238,10 @@ Aufgaben des öffentlichen Gesundheitsdienstes,
 Aufgaben nach dem Achten Buch Sozialgesetzbuch,
 
 29.  
-Aufgaben nach dem Bundesmeldegesetz.
+Aufgaben nach dem Bundesmeldegesetz,
+
+30.  
+Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes.
 
 (4) Von den in § 22 Abs. 1 Nr. 9 Buchstabe a und b des AZR-Gesetzes bezeichneten Stellen sind beim Datenabruf im automatisierten Verfahren nur folgende Aufgabenbezeichnungen zu verwenden:
 
@@ -278,7 +275,7 @@ Aufgabe nach § 1 Abs. 1 Nr. 2 des MAD-Gesetzes.
 
 ### § 10 Zulassung zum Abruf im automatisierten Verfahren
 
-(1) Die Zulassung zum Abruf von Daten im automatisierten Verfahren nach § 22 Abs. 1 des AZR-Gesetzes ist schriftlich bei der Registerbehörde zu beantragen. Im Fall des § 22 Abs. 1 Nr. 9 des AZR-Gesetze ist die Zustimmung der für den Antragsteller zuständigen obersten Bundes- oder Landesbehörde einzuholen. In der Antragsbegründung ist darzulegen, daß die Einrichtung des automatisierten Abrufverfahrens wegen der Vielzahl der Übermittlungsersuchen oder der besonderen Eilbedürftigkeit angemessen ist, und in welchem Umfang und an welchen Standorten Einrichtungen zum Datenabruf im automatisierten Verfahren geschaffen werden sollen. Die Registerbehörde ist berechtigt, entsprechende Nachweise zu verlangen. Im Fall des § 22 Abs. 1 Nr. 9 des AZR-Gesetzes holt sie die Zustimmung des Bundesministeriums des Innern ein, wenn sie dem Antrag stattgeben will.
+(1) Die Zulassung zum Abruf von Daten im automatisierten Verfahren nach § 22 Abs. 1 des AZR-Gesetzes ist schriftlich bei der Registerbehörde zu beantragen. Im Fall des § 22 Abs. 1 Nr. 9 des AZR-Gesetzes ist die Zustimmung der für den Antragsteller zuständigen obersten Bundes- oder Landesbehörde einzuholen. In der Antragsbegründung ist darzulegen, daß die Einrichtung des automatisierten Abrufverfahrens wegen der Vielzahl der Übermittlungsersuchen oder der besonderen Eilbedürftigkeit angemessen ist, und in welchem Umfang und an welchen Standorten Einrichtungen zum Datenabruf im automatisierten Verfahren geschaffen werden sollen. Die Registerbehörde ist berechtigt, entsprechende Nachweise zu verlangen. Im Fall des § 22 Abs. 1 Nr. 9 des AZR-Gesetzes holt sie die Zustimmung des Bundesministeriums des Innern ein, wenn sie dem Antrag stattgeben will.
 
 (2) Die Registerbehörde teilt dem Antragsteller die beabsichtigte Entscheidung mit und fordert ihn zugleich auf, die zur Datensicherung erforderlichen technischen und organisatorischen Maßnahmen zu treffen. Die Entscheidung ergeht, sobald der Antragsteller der Registerbehörde schriftlich mitgeteilt hat, daß er diese Maßnahmen getroffen hat. Die Registerbehörde kann die Zulassung mit Beschränkungen erteilen.
 
@@ -415,7 +412,7 @@ c)
 Daten nach § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 7 des AZR-Gesetzes,
 
 3.  
-nach zwölf Monaten Daten nach § 3 Absatz 2 Nummer 10 und 11 in Verbindung mit § 2 Absatz 1a und 2 Nummer 1 des AZR-Gesetzes.
+nach zwölf Monaten Daten nach § 3 Absatz 2 Nummer 10, 10a und 11 in Verbindung mit § 2 Absatz 1a und 2 Nummer 1 des AZR-Gesetzes.
 
 Die Fristen beginnen mit Ablauf des Vierteljahres, in dem die Daten übermittelt worden sind.
 
@@ -424,6 +421,11 @@ Die Fristen beginnen mit Ablauf des Vierteljahres, in dem die Daten übermittelt
 ### § 19 Löschung von Daten, Löschungsfristen in der Visadatei
 
 In der Visadatei des Registers ist der Datensatz eines Ausländers spätestens nach fünf Jahren zu löschen, wenn Daten nach § 29 Abs. 1 des AZR-Gesetzes gespeichert sind. Sind zusätzlich Daten nach § 29 Abs. 2 des AZR-Gesetzes gespeichert, erfolgt eine Löschung spätestens nach zehn Jahren. Die Fristen beginnen mit Ablauf des Vierteljahres, in dem letztmals Daten übermittelt worden sind.
+
+Abschnitt 6 Schlußvorschriften
+------------------------------
+
+### 
 
 ### § 19a Auswirkungen späterer Rechtsänderungen auf den Registerbestand
 
@@ -436,11 +438,6 @@ In der Visadatei des Registers ist der Datensatz eines Ausländers spätestens n
 (1) Daten zu einem Unionsbürger, die vor dem Erwerb der Unionsbürgerschaft gespeichert wurden, dürfen weiter gespeichert bleiben, sofern es sich um Daten nach § 3 Absatz 4 in Verbindung mit § 2 Absatz 3 des AZR-Gesetzes handelt. Daten zu einem Drittstaatsangehörigen, die vor dem Erwerb der Staatsangehörigkeit des Drittstaats gespeichert wurden, dürfen weiter gespeichert bleiben, sofern es sich um Daten nach § 3 Absatz 1 in Verbindung mit § 2 Absatz 1 oder 2 des AZR-Gesetzes handelt. § 18 bleibt unberührt.
 
 (2) Daten, die nach Absatz 1 weiterhin zulässig gespeichert sind, übermittelt die Registerbehörde entsprechend den Vorschriften über ihrer Art nach vergleichbare Daten.
-
-Abschnitt 6 Schlußvorschriften
-------------------------------
-
-### 
 
 ### § 20 Übergangsregelung aus Anlass des Inkrafttretens des Zuwanderungsgesetzes
 
@@ -570,6 +567,7 @@ Staaten und über- oder zwischenstaatliche Stellen zu Spalte A Buchstabe a
 vertretungen und andere öffentliche Stellen im Visaverfahren
 – Statistisches Bundes-
 amt
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 II)  
 – für die Zuverlässig-
@@ -588,6 +586,7 @@ Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes
 lichen Stellen zu Spalte A Buchstabe a
 – nichtöffentliche Stel-
 len zu Spalte A Buchstabe a
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 § 3 Absatz 4 Nummer 1
 
@@ -595,8 +594,7 @@ len zu Spalte A Buchstabe a
 
 – wie vorstehend –
 
-§ 6 Absatz 1 Nummer 1 bis 5 und Absatz 3 des
-AZR-Gesetzes
+§ 6 Absatz 1 Nummer 1 bis 5 und Absatz 3 des AZR-Gesetzes
 
 §§ 5, 14 bis 19, 21, 23, 24a, 25 bis 27 des AZR-Gesetzes
 
@@ -605,6 +603,7 @@ Bezeichnung der Stelle, die Daten übermittelt hat, und deren Geschäftszeichen
 – nur die zu Personenkreis (1) in Spalte C Nummer I genannten Stellen
 
 – wie vorstehend zu Personenkreis (1) in Spalte D –
+– Familienkasse Direktion der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18f des AZR-Gesetzes
 
 – wie vorstehend –
 
@@ -682,12 +681,14 @@ I)
 – sonstige Polizeivollzugsbehörden der Länder
 – Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes
 – deutsche Auslandsvertretungen und andere öffentliche Stellen im Visaverfahren
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 II)
 
 – Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes
 – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen
 – alle übrigen öffentlichen Stellen
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 § 3 Absatz 4 Nummer 2
 
@@ -865,6 +866,7 @@ Stellen für die Einstellung von Suchvermerken
 )  
 – Statistisches Bundes-
 amt zu Spalte A Buchstabe e (nur Monat und Jahr der Geburt), g und h
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 II)  
 – Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes
@@ -876,6 +878,7 @@ Stellen
 Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes
 – nichtöffentliche
 Stellen, die humanitäre oder soziale Aufgaben wahrnehmen
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 § 3 Absatz 4 Nummer 4
 
@@ -883,15 +886,15 @@ Stellen, die humanitäre oder soziale Aufgaben wahrnehmen
 
 – wie vorstehend –
 
-§ 6 Absatz 1 Nummer 1 bis 5 und Absatz 3 des
-AZR-Gesetzes
+§ 6 Absatz 1 Nummer 1 bis 5 und Absatz 3 des AZR-Gesetzes
 
 Grundpersonalien
 
 – die zu Personenkreis (1) in Spalte C Nummer I genannten Stellen
 – alle öffentlichen Stellen für die Einstellung von Suchvermerken
 
-– wie vorstehend –
+– wie vorstehend –
+– Familienkasse Direktion der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18f des AZR-Gesetzes
 
 – wie vorstehend –
 
@@ -950,7 +953,7 @@ Bezeichnung der Daten
 
 (1)
 
-§§ 15, 18a bis 18e, 24a des AZR-Gesetzes
+§§ 15, 17a, 18a bis 18e, 24a des AZR-Gesetzes
 
 a)
 
@@ -968,7 +971,7 @@ Aufnahmeeinrichtungen
 
 –  
 die für die Unterbrin-
-gung in Gemeinschaftsunterkünften zuständigen Behörden zu Spalte A Buchstabe k und l
+gung in Gemeinschaftsunterkünften und die für den öffentlichen Gesundheitsdienst zuständigen Behörden zu Spalte A Buchstabe k bis l
 
 –  
 Bundespolizei und
@@ -1090,9 +1093,15 @@ k)
 Durchführung der Gesundheitsuntersuchung nach § 62 Absatz 1 des Asylgesetzes
 –  Ort
 –  Datum
-Durchführung der Untersuchung auf Vorliegen einer ansteckungsfähigen Lungentuberkulose nach § 36 Absatz 4 des Infektionsschutzgesetzes
+Durchführung der Untersuchung auf Vorliegen einer ansteckungsfähigen Lungentuberkulose nach § 36 Absatz 4 oder 5 des Infektionsschutzgesetzes
 –  Ort
 –  Datum
+
+(7)
+
+ka)
+
+die Feststellung, dass keine medizinischen Bedenken gegen die Aufnahme in eine Einrichtung der gemeinschaftlichen Unterbringung bestehen
 
 (7)
 
@@ -1118,7 +1127,7 @@ Meldebehörden zu Spalte A Buchstabe c
 
 –  
 für den öffentlichen
-Gesundheitsdienst zuständigen Behörden zu Spalte A Buchstabe a, c, e, f, k und l
+Gesundheitsdienst zuständigen Behörden zu Spalte A Buchstabe a, c, e, f, k, ka und l
 
 –  
 Jugendämter zu
@@ -1127,6 +1136,9 @@ Spalte A Buchstabe a, c, e bis l
 –  
 Gerichte zu Spalte A
 Buchstabe c
+
+–  
+Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
  
 
@@ -1210,6 +1222,7 @@ Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtliche
 zugsbehörden der Länder zu Spalte A Buchstabe a bis i
 – deutsche Auslands-
 vertretungen und andere öffentliche Stellen im Visaverfahren zu Spalte A Buchstabe a bis i
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 II)  
 für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichts-
@@ -1328,6 +1341,7 @@ waltung zu Spalte A Buchstabe a bis d und f
 amt zu Spalte A Buchstabe e und i
 – alle übrigen öffent-
 lichen Stellen zu Spalte A Buchstabe c
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 § 3 Absatz 4 Nummer 5
 
@@ -1431,6 +1445,7 @@ Bezeichnung der Daten
 – alle öffentlichen Stellen mit Ausnahme des Statistischen Bundesamtes
 – nichtöffentliche Stellen, die humanitäre oder soziale Aufgaben wahrnehmen
 – Behörden anderer Staaten, über- oder zwischenstaatliche Stellen
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
  
 
@@ -1467,8 +1482,7 @@ Bezeichnung der Daten
 
 § 3 Absatz 2 Nummer 1 und 2 in Verbindung mit § 2 Absatz 1a und 2 Nummer 1
 
-§§ 15, 21 des AZR-
-Gesetzes
+§§ 15, 17a, 21 des AZR-Gesetzes
 
 Erkennungsdienstliche Daten nach § 16 Absatz 1, § 18 Absatz 5 und § 19 Absatz 2 des Asylgesetzes sowie nach § 49 des Aufenthaltsgesetzes
 
@@ -1524,6 +1538,9 @@ Staatsanwaltschaften
 –  
 oberste Bundes- und
 Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind
+
+–  
+Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 a)
 
@@ -1716,8 +1733,7 @@ Bezeichnung der Daten
 
 (1)
 
-§§ 15, 16, 18, 18a, 18b, 18d, 21, 23, 24a des
-AZR-Gesetzes
+§§ 15, 16, 17a, 18, 18a, 18b, 18d, 21, 23, 24a des AZR-Gesetzes
 
 – als Flüchtling im Ausland anerkannt
 
@@ -1794,6 +1810,9 @@ vertretungen und andere öffentliche Stellen im Visaverfahren
 Statistisches Bundes-
 amt
 
+–  
+Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
+
  
 
 A
@@ -1831,8 +1850,7 @@ Bezeichnung der Daten
 
 (1)
 
-§§ 15, 16, 18, 18a, 18b, 18d, 21, 23 des AZR-
-Gesetzes
+§§ 15, 16, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes
 
 Asyl
 
@@ -1893,6 +1911,9 @@ vertretungen und andere öffentliche Stellen im Visaverfahren
 –  
 Statistisches Bun-
 desamt
+
+–  
+Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 II)  
 –  
@@ -2053,6 +2074,9 @@ führung der Grundsicherung für Arbeitsuchende zuständigen Stellen
 –  
 Jugendämter
 
+–  
+Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
+
 u)
 
 über Überstellung an (Staatsangehörigkeitsschlüssel des Dubliner Vertragsstaats) entschieden am
@@ -2155,7 +2179,7 @@ in Verbindung mit § 2 Absatz 1a Nummer 1 und Absatz 2 Nummer 1
 
 (1)
 
-§§ 15, 18a bis 18e des AZR-Gesetzes
+§§ 15, 17a, 18a bis 18e des AZR-Gesetzes
 
 Bescheinigung über die Meldung als Asylsuchender gemäß § 63a des Asylgesetzes
 
@@ -2235,6 +2259,9 @@ für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zu
 –   
 Meldebehörden
 
+–  
+Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
+
 a)
 
 Seriennummer
@@ -2285,8 +2312,7 @@ Absatz 1a Nummer 2 und 3
 
 (1)
 
-§§ 15, 21 des AZR-
-Gesetzes
+§§ 15, 17a, 21 des AZR-Gesetzes
 
 a)
 
@@ -2361,6 +2387,9 @@ tretungen und andere öffentliche Stellen im Visaverfahren
 –  
 für die Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach
 
+–  
+Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
+
 b)
 
 unerlaubt aufhältig seit
@@ -2400,24 +2429,27 @@ an folgende Stellen
 Bezeichnung der Daten
 (§ 3 des AZR-Gesetzes)
 
-§ 3 Absatz 1 Nummer 3, 6 und 7 in Verbindung mit
-§ 2 Absatz 2 Nummer 3
+§ 3 Absatz 1 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3
 
-(1)
-
-§§ 15, 16, 18, 18a, 18b, 18d, 21, 23, 24a des
+§§ 15, 16, 17a, 18, 18a, 18b, 18d, 21, 23, 24a des
 AZR-Gesetzes
 
 Aufenthaltsstatus
 
 –  
-Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen
+Ausländerbehörden und mit der Durchführung ausländerrecht-
+licher Vorschriften betraute öffent-
+liche Stellen
 
 <!-- -->
 
 I)  
 –  
-Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen
+Ausländerbehörden und mit der Durch-
+führung ausländer-
+rechtlicher Vorschrif-
+ten betraute öffent-
+liche Stellen
 
 –  
 Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes
@@ -2431,25 +2463,37 @@ Bundespolizei
 
 –  
 andere mit der poli-
-zeilichen Kontrolle des grenzüberschreitenden Verkehrs
-beauftragte Behörden
+zeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden
 
 –  
-oberste Bundes- und
-Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind
+oberste Bundes-
+und Landesbehörden, die mit der Durchführung
+ausländer-, asyl-
+und passrechtlicher Vorschriften als
+eigener Aufgabe
+betraut sind
 
 –  
 Bundesagentur für
-Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes
+Arbeit zur Aufgabenerfüllung nach
+§ 18 Absatz 1 des
+AZR-Gesetzes
 
 –  
 deutsche Auslands-
-vertretungen und andere öffentliche Stellen im Visaverfahren
+vertretungen und
+andere öffentliche Stellen im Visa-
+verfahren
 
 –  
 Statistisches Bun-
-desamt zu Spalte A Buchstabe a bis d,
+desamt zu Spalte A
+Buchstabe a bis d,
 i bis l
+
+–  
+Zentralstelle für
+Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufga-
 
 a)
 
@@ -2459,7 +2503,8 @@ vom Erfordernis eines Aufenthaltstitels befreit
 
 b)
 
-Erteilung/Verlängerung des Aufenthaltstitels abgelehnt am
+Erteilung/Verlängerung des Aufenthaltstitels
+abgelehnt am
 
 (3)
 
@@ -2486,14 +2531,17 @@ Antrag auf einen Aufenthaltstitel gestellt am
 
 f)
 
-Antrag auf Verlängerung eines Aufenthaltstitels gestellt am
+Antrag auf Verlängerung eines
+Aufenthaltstitels gestellt am
 
 (1)\*
 
 g)
 
-Bescheinigung über
-die Wirkung der Antragstellung (Fiktionsbescheinigung) ausgestellt am
+Bescheinigung über die Wirkung
+der Antragstellung
+(Fiktionsbescheinigung)
+ausgestellt am
 
 (7)
 
@@ -2507,24 +2555,70 @@ i)
 
 Entscheidungen der Bundesagentur für Arbeit über die Zustimmung zur Beschäftigung
 
-aa) Zustimmung der Bundesagentur
-für Arbeit
+aa)
+
+Zustimmung der
+Bundesagentur für Arbeit
 erteilt am
 befristet bis
 räumlich beschränkt auf
-Arbeitgeberbindung/keine Arbeitgeberbindung
+Arbeitgeberbindung/
+keine Arbeitgeberbindung
 weitere Nebenbestimmungen/keine weiteren Nebenbestimmungen
 
 (5)\*
 
-bb) Zustimmung der Bundesagentur für Arbeit versagt am
+bb)
+
+Zustimmung der Bundesagentur für Arbeit versagt am
 
 (5)\*
+
+j)
+
+Nebenbestimmungen zur Erwerbstätigkeit
+
+aa)
+
+Selbständige Tätigkeit
+erlaubt am
+befristet bis
+weitere Nebenbestimmungen/keine weiteren Nebenbestimmungen
+
+(1)
+
+(2)\*
+
+bb)
+
+Beschäftigung
+erlaubt am
+befristet bis
+räumlich beschränkt auf
+Arbeitgeberbindung/
+keine Arbeitgeberbindung
+weitere Nebenbestimmungen/keine weiteren Nebenbestimmungen
+
+(2)\*
+
+  
+ben nach § 28 Ab-
+satz 1 Satz 2 Num-
+mer 2 des Geld-
+wäschegesetzes
+
+<!-- -->
 
 II)  
 –  
 für die Zuverlässig-
-keitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden
+keitsüberprüfung nach § 7 des Luft-
+sicherheitsgesetzes zuständige Luft-
+sicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des
+Atomgesetzes zu-
+ständige atomrecht-
+liche Genehmigungs- und Aufsichtsbehör-
+den
 
 –  
 Bundeskriminalamt
@@ -2533,8 +2627,8 @@ Bundeskriminalamt
 Landeskriminalämter
 
 –  
-sonstige Polizeivoll-
-zugsbehörden
+sonstige Polizei-
+vollzugsbehörden
 
 –  
 Staatsanwaltschaften
@@ -2547,8 +2641,7 @@ Behörden der Zoll-
 verwaltung
 
 –  
-Träger der Sozialhilfe
-und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen
+Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen
 
 –  
 Bundesagentur für
@@ -2560,26 +2653,6 @@ sicherung für Arbeitsuchende zuständigen Stellen
 
 –  
 Jugendämter
-
-j)
-
-Nebenbestimmungen zur Erwerbstätigkeit
-
-aa) selbständige Tätigkeit
-erlaubt am
-befristet bis
-weitere Nebenbestimmungen/keine weiteren Nebenbestimmungen
-
-(2)\*
-
-bb) Beschäftigung
-erlaubt am
-befristet bis
-räumlich beschränkt auf
-Arbeitgeberbindung/keine Arbeitgeberbindung
-weitere Nebenbestimmungen/keine weiteren Nebenbestimmungen
-
-(2)\*
 
 k)
 
@@ -2598,19 +2671,83 @@ festgestellt am
 m)
 
 Aufenthaltstitel erteilt nach Einreise in das Bundesgebiet mit
-Visum nach § 18c
-AufenthG am
 
 (5)\*
 
-§ 3 Absatz 4 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und 4
+Visum nach § 18c AufenthG am
 
-(2)
+n)
+
+Einreise und Aufenthalt nach § 16a AufenthG
+
+–  
+Ausländerbehörden zu Spalte A Buchstaben n
+bis p jeweils die
+Ziffern aa
+
+–  
+Bundesamt für
+Migration und Flüchtlinge zu Spalte A Buchstaben n bis p
+jeweils die
+Ziffern bb
+
+aa)
+
+Ablehnung am
+
+(2)\*
+
+bb)
+
+Bescheinigung
+
+(2)\*
+
+ausgestellt am
+
+o)
+
+Einreise und Aufenthalt nach § 19c Absatz 1 AufenthG
+
+aa)
+
+Ablehnung am
+
+(2)\*
+
+bb)
+
+Bescheinigung
+
+(2)\*
+
+ausgestellt am
+
+p)
+
+Einreise und Aufenthalt nach § 20a AufenthG
+
+aa)
+
+Ablehnung am
+
+(2)\*
+
+bb)
+
+Bescheinigung
+
+(2)\*
+
+ausgestellt am
+
+§ 3 Absatz 4 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und 4
 
 Aufenthaltsstatus
 
-– wie vor-
-stehend –
+(2)
+
+– wie vorstehend –
 
 – wie vorstehend –
 
@@ -2620,20 +2757,21 @@ stehend –
 
 § 3 Absatz 4 Nummer 3, 6 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und 4
 
-(3)
-
 § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes
 
 Aufenthaltsstatus
 
-– wie vor-
-stehend –
+(3)
 
 – wie vorstehend –
 
-– nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen
+– wie vorstehend –
 
-– wie vorstehend Spalte A Buchstabe b bis c, e bis h –
+–  
+nur die zu Personen-
+kreis (1) in Spalte D Nummer I genannten Stellen
+
+– wie vorstehend Spalte A Buchstabe a bis c, e bis h –
 
  \* In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
 
@@ -2672,7 +2810,7 @@ Bezeichnung der Daten
 
 § 3 Absatz 3 in Verbindung mit § 2 Absatz 1a Nummer 1 und Absatz 2 Nummer 1
 
-§§ 15, 18a, 18b, 24a des AZR-Gesetzes
+§§ 15, 17a, 18a, 18b, 24a des AZR-Gesetzes
 
 Daten zur Durchführung von Integrationsmaßnahmen und zum Zwecke der Arbeits- und Ausbildungsvermittlung
 
@@ -2754,6 +2892,9 @@ Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtliche
 für die Zuverlässigkeits-
 überprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden
 
+–  
+Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
+
 a)
 
 Schulbildung
@@ -2829,451 +2970,781 @@ Bezeichnung der Daten
 
 § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3
 
-(1)
+§§ 15, 16, 17a, 18, 18a, 18b, 18d, 21, 23 des
+AZR-Gesetzes
 
-§§ 15, 16, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes
+Aufenthaltserlaubnisse/Aufenthaltstitel
 
-Aufenthaltserlaubnis
+–  
+Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen
 
-– Ausländerbehörden und mit der Durchführung ausländerrechtlicher Vorschriften betraute öffentliche Stellen
+<!-- -->
 
 I)  
-– Ausländerbehörden
-– Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes
-– Bundesamt für Migra-
-tion und Flüchtlinge
-– Bundespolizei
-– andere mit der polizei-
-lichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden
-– oberste Bundes- und
-Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind
-– sonstige Polizeivoll-
-zugsbehörden der Länder
-– Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes
-– deutsche Auslands-
+–  
+Ausländerbehörden
+
+–  
+Aufnahmeeinrichtungen oder Stellen nach § 88 Absatz 3 des Asylgesetzes
+
+–  
+Bundesamt für
+Migration und Flüchtlinge
+
+–  
+Bundespolizei
+
+–  
+andere mit der poli-
+zeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden
+
+–  
+oberste Bundes-
+und Landesbehörden, die mit der Durchführung
+ausländer-, asyl-
+und passrechtlicher Vorschriften als
+eigener Aufgabe
+betraut sind
+
+–  
+sonstige Polizei-
+vollzugsbehörden der Länder
+
+–  
+Bundesagentur für
+Arbeit zur Aufgabenerfüllung nach
+§ 18 Absatz 1 des
+AZR-Gesetzes
+
+–  
+deutsche Auslands-
 vertretungen und andere öffentliche Stellen im Visaverfahren
-– Statistisches Bundes-
-amt
+
+–  
+Statistisches
+Bundesamt
+
+–  
+Zentralstelle für
+Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufga-
+ben nach § 28 Ab-
+satz 1 Satz 2 Num-
+mer 2 des Geld-
+wäschegesetzes
 
 II)  
-– für die Zuverlässig-
-keitsüberprüfung nach § 7 des Luftsicherheitsgesetzes zuständige Luftsicherheitsbehörden und für die
-Zuverlässigkeitsüberprüfung nach § 12b des Atomgesetzes zuständige atomrechtliche Genehmigungs- und Aufsichtsbehörden
-– Bundeskriminalamt
-– Landeskriminalämter
-– sonstige nicht in
-Spalte D Nummer I oder II aufgeführte
-Polizeivollzugsbehörden des Bundes
+–  
+für die Zuverlässig-
+keitsüberprüfung nach § 7 des Luft-
+sicherheitsgesetzes zuständige Luft-
+sicherheitsbehörden
 
 a)
 
-Aufenthalt zum Zweck der Ausbildung nach
+Aufenthalt zum Zweck der
+Ausbildung nach
 
-aa) § 16 Absatz 1 AufenthG
+aa)
+
+§ 16 Absatz 1 AufenthG
 (Studium)
 erteilt am
-befristet bis
 
 (2)\*
 
-bb) § 16 Absatz 1a AufenthG
+befristet bis
+
+bb)
+
+§ 16 Absatz 6 AufenthG
+(bedingte Zulassung Studium, bedingte oder unbedingte Zulassung Teilzeitstudium, studienvorbereitender Sprachkurs ohne Zulassung zum Studium, studienvorbereitendes Praktikum ohne Zulassung zum Studium)
+erteilt am
+
+(2)\*
+
+befristet bis
+
+cc)
+
+§ 16 Absatz 7 AufenthG
 (Studienbewerbung)
 erteilt am
-befristet bis
 
 (2)\*
 
-cc) § 16 Absatz 4 AufenthG
-(Arbeitsplatzsuche nach Studium)
+befristet bis
+
+dd)
+
+§ 16 Absatz 9 AufenthG
+(Studium für in einem anderen Mitgliedstaat international Schutzberechtigten)
 erteilt am
-befristet bis
 
 (2)\*
 
-dd) § 16 Absatz 5 AufenthG
+befristet bis
+
+ee)
+
+§ 16b Absatz 1 AufenthG
 (Sprachkurse, Schulbesuch)
 erteilt am
-befristet bis
 
 (2)\*
 
-ee) § 16 Absatz 5b AufenthG
-(Arbeitsplatzsuche nach schulischer Berufsausbildung)
-erteilt am
 befristet bis
+
+ff)
+
+§ 17 Absatz 1 AufenthG
+(sonstige betriebliche
+Ausbildungszwecke)
+erteilt am
 
 (2)\*
 
-ff) § 16 Absatz 6 AufenthG
-(innergemeinschaftlich mobiler Student aus \[Staatsangehörigkeitsschlüssel des EU-Mitgliedstaates\])
-erteilt am
 befristet bis
+
+gg)
+
+§ 17a Absatz 1 AufenthG
+(Durchführung einer Bildungsmaßnahme)
+erteilt am
 
 (2)\*
 
-gg) § 17 Absatz 1 AufenthG
-(sonstige betriebliche Ausbildungszwecke)
-erteilt am
 befristet bis
 
-(2)\*
+hh)
 
-hh) § 17 Absatz 3 AufenthG
-(Arbeitsplatzsuche nach betrieblicher Berufsausbildung)
+§ 17a Absatz 5 AufenthG
+(Ablegung einer Prüfung)
 erteilt am
-befristet bis
 
 (2)\*
 
   
-– Staatsanwaltschaften
-– Gerichte
-– Behörden der Zollver-
-waltung
-– Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen
-– Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes
-– die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen
-– Jugendämter
+und für die Zuverläs-
+sigkeitsüberprüfung nach § 12b des
+Atomgesetzes zu-
+ständige atomrecht-
+liche Genehmigungs- und Aufsichtsbehör-
+den
 
-ii) § 17a Absatz 1
-AufenthG
-(Durchführung einer Bildungsmaßnahme)
-erteilt am
+<!-- -->
+
+–  
+Bundeskriminalamt
+
+–  
+Landeskriminalämter
+
+–  
+sonstige nicht in
+Spalte D Nummer I oder II aufgeführte Polizeivollzugsbehörden des Bundes
+
+–  
+Staatsanwaltschaften
+
+–  
+Gerichte
+
+–  
+Behörden der Zoll-
+verwaltung
+
+–  
+Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen
+
+–  
+Bundesagentur für
+Arbeit zur Aufgabenerfüllung nach § 18b des AZR-Gesetzes
+
+–  
+die für die Durch-
+führung der Grundsicherung für Arbeitsuchende zuständigen Stellen
+
+–  
+Jugendämter
+
 befristet bis
+
+ii)
+
+§ 17b Absatz 1 AufenthG
+(Studienbezogenes Prak-
+tikum EU)
+erteilt am
 
 (2)\*
 
-jj) § 17a Absatz 4
-AufenthG
-(Arbeitsplatzsuche nach
-Anerkennung ausländischer
-Berufsqualifikationen)
-erteilt am
 befristet bis
-
-(2)\*
-
-kk) § 17a Absatz 5
-AufenthG
-(Ablegung einer Prüfung)
-erteilt am
-befristet bis
-
-(2)\*
 
 b)
 
 Aufenthalt zum Zweck der Erwerbstätigkeit nach
 
-aa) § 18 Absatz 3 AufenthG
-(keine qualifizierte Beschäftigung)
+aa)
+
+§ 16 Absatz 5 AufenthG
+(Arbeitsplatzsuche nach
+Studium)
 erteilt am
-befristet bis
 
 (2)\*
 
-bb) § 18 Absatz 4 Satz 1 AufenthG
+befristet bis
+
+bb)
+
+§ 16b Absatz 3 AufenthG
+(Arbeitsplatzsuche nach schulischer qualifizierter Berufsausbildung)
+erteilt am
+
+(2)\*
+
+befristet bis
+
+cc)
+
+§ 17 Absatz 3 AufenthG
+(Arbeitsplatzsuche nach betrieblicher Berufsausbildung)
+erteilt am
+
+(2)\*
+
+befristet bis
+
+dd)
+
+§ 17a Absatz 4 AufenthG
+(Arbeitsplatzsuche nach Anerkennung ausländischer Berufsqualifikationen)
+erteilt am
+
+(2)\*
+
+befristet bis
+
+ee)
+
+§ 18 Absatz 3 AufenthG
+(keine qualifizierte
+Beschäftigung)
+erteilt am
+
+(2)\*
+
+befristet bis
+
+ff)
+
+§ 18 Absatz 4 AufenthG
+
+aaa)
+
+§ 18 Absatz 4 Satz 1 AufenthG
 (qualifizierte Beschäftigung nach Rechtsverordnung)
 erteilt am
-befristet bis
 
 (2)\*
 
-cc) § 18 Absatz 4 Satz 2 AufenthG
+befristet bis
+
+bbb)
+
+§ 18 Absatz 4 Satz 2 AufenthG
 (qualifizierte Beschäftigung im öffentlichen Interesse)
 erteilt am
-befristet bis
 
 (2)\*
 
-dd) § 18a Absatz 1 Nummer 1 Buchstabe a AufenthG
+befristet bis
+
+gg)
+
+§ 18 Absatz 4a AufenthG
+(Beamtenverhältnis zu einem deutschen Dienstherrn)
+erteilt am
+
+(2)\*
+
+befristet bis
+
+hh)
+
+§ 18a Absatz 1 Nummer 1
+
+aaa)
+
+§ 18a Absatz 1 Nummer 1 Buchstabe a AufenthG
 (Aufenthaltserlaubnis für qualifizierte Geduldete mit Abschluss in Deutschland)
 erteilt am
-befristet bis
 
 (2)\*
 
-ee) § 18a Absatz 1 Nummer 1 Buchstabe b AufenthG
+befristet bis
+
+bbb)
+
+§ 18a Absatz 1 Nummer 1 Buchstabe b AufenthG
 (Aufenthaltserlaubnis für qualifizierte Geduldete mit einem anerkannten Hochschulabschluss oder mit einem ausländischen Hochschulabschluss, der einem deutschen Hochschulabschluss vergleichbar ist, und mit seit zwei Jahren ununterbrochener, dem Abschluss angemessener Beschäftigung)
 erteilt am
-befristet bis
 
 (2)\*
 
- ff) § 18a Absatz 1 Nummer 1 Buchstabe c AufenthG
-(Aufenthaltserlaubnis für qualifizierte Geduldete, die als Fachkraft seit drei Jahren ununterbrochen eine Beschäftigung ausgeübt haben, die eine qualifizierte Berufsausbildung voraussetzt)
+befristet bis
+
+ccc)
+
+§ 18a Absatz 1 Nummer 1 Buchstabe c AufenthG
+(Aufenthaltserlaubnis für qualifizierte Geduldete, die als Fach-
+kraft seit drei Jahren
+ununterbrochen eine Beschäftigung ausgeübt haben, die eine qualifizierte Berufsausbildung voraussetzt)
 erteilt am
-befristet bis
 
 (2)\*
 
-gg) § 18c AufenthG
-(Aufenthaltserlaubnis zur Arbeitsplatzsuche)
+befristet bis
+
+ii)
+
+§ 18c AufenthG
+(Aufenthaltserlaubnis
+zur Arbeitsplatzsuche)
 erteilt am
-befristet bis
 
 (2)\*
 
-hh) § 19a AufenthG in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe a BeschV
+befristet bis
+
+jj)
+
+§ 18d Absatz 1 AufenthG
+(europäischer
+Freiwilligendienst)
+erteilt am
+
+(2)\*
+
+befristet bis
+
+kk)
+
+§ 19a AufenthG
+in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe a BeschV
 (Blaue Karte EU, Regelberufe)
 erteilt am
-befristet bis
 
 (2)\*
 
- ii) § 19a AufenthG in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe b oder § 2 Absatz 2 BeschV
+befristet bis
+
+ll)
+
+§ 19a AufenthG
+in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe b
+oder § 2 Absatz 2 BeschV
 (Blaue Karte EU, Mangelberufe)
 erteilt am
-befristet bis
 
 (2)\*
 
-  jj)  § 19a AufenthG in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe a BeschV
-(Blaue Karte EU, Voraufenthalt mit Blauer Karte EU in \[EU-Mitgliedstaat\], Regelberufe)
+befristet bis
+
+mm)
+
+§ 19a AufenthG
+in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe a BeschV
+(Blaue Karte EU, Voraufenthalt mit Blauer Karte EU in
+\[EU-Mitgliedstaat\],
+Regelberufe)
 erteilt am
+
+(2)\*
+
 befristet bis
 \[Staatsangehörigkeitsschlüssel anderer EU-Mitgliedstaat\]
 
+nn)
+
+§ 19a AufenthG
+in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe a BeschV
+(Blaue Karte EU, Voraufenthalt mit Blauer Karte EU in
+\[EU-Mitgliedstaat\],
+Regelberufe)
+
 (2)\*
 
-kk) § 19a AufenthG in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe a BeschV
-(Blaue Karte EU, Voraufenthalt mit Blauer Karte EU in \[EU-Mitgliedstaat\], Regelberufe)
 abgelehnt am
 \[Staatsangehörigkeitsschlüssel anderer EU-Mitgliedstaat\]
 
+oo)
+
+§ 19a AufenthG
+in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe b
+oder § 2 Absatz 2 BeschV
+(Blaue Karte EU, Voraufenthalt mit Blauer Karte EU in
+\[EU-Mitgliedstaat\],
+Mangelberufe)
+erteilt am
+
 (2)\*
 
- ll) § 19a AufenthG in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe b oder § 2 Absatz 2 BeschV
-(Blaue Karte EU, Voraufenthalt mit Blauer Karte EU in \[EU-Mitgliedstaat\], Mangelberufe)
-erteilt am
 befristet bis
 \[Staatsangehörigkeitsschlüssel anderer EU-Mitgliedstaat\]
 
+pp)
+
+§ 19a AufenthG
+in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe b
+oder § 2 Absatz 2 BeschV
+(Blaue Karte EU, Voraufenthalt mit Blauer Karte EU in
+\[EU-Mitgliedstaat\],
+Mangelberufe)
+
 (2)\*
 
-mm) § 19a AufenthG in Verbindung mit § 2 Absatz 1 Nummer 2 Buchstabe b oder § 2 Absatz 2 BeschV
-(Blaue Karte EU, Voraufenthalt mit Blauer Karte EU in \[EU-Mitgliedstaat\], Mangelberufe)
 abgelehnt am
 \[Staatsangehörigkeitsschlüssel anderer EU-Mitgliedstaat\]
 
+qq)
+
+§ 19b Absatz 1 AufenthG
+(ICT-Karte)
+erteilt am
+
 (2)\*
 
-nn) § 20 Absatz 1
-AufenthG
+befristet bis
+
+rr)
+
+§ 19d Absatz 1 AufenthG
+(Mobiler-ICT-Karte)
+erteilt am
+
+(2)\*
+
+befristet bis
+
+ss)
+
+§ 20 Absatz 1 AufenthG
 (Forscher)
 erteilt am
-befristet bis
 
 (2)\*
 
-oo) § 20 Absatz 5
-AufenthG
-(in \[EU-Mitgliedstaat\] zugelassener Forscher)
+befristet bis
+
+tt)
+
+§ 20 Absatz 8 AufenthG
+(in einem anderen Mitgliedstaat als international
+Schutzberechtigte
+anerkannte Forscher)
 erteilt am
-befristet bis
-\[Staatsangehörigkeitsschlüssel anderer EU-Mitgliedstaat\]
 
 (2)\*
 
-pp) § 21 Absatz 1
-AufenthG
-(selbständige Tätigkeit – wirtschaftliches Interesse)
+befristet bis
+
+uu)
+
+§ 20b Absatz 1 AufenthG
 erteilt am
-befristet bis
 
 (2)\*
 
-qq) § 21 Absatz 2 AufenthG
-(selbständige Tätigkeit – völkerrechtliche Vergünstigung)
+befristet bis
+
+vv)
+
+§ 21 Absatz 1 AufenthG
+(selbständige Tätigkeit –
+wirtschaftliches Interesse)
 erteilt am
-befristet bis
 
 (2)\*
 
- rr) § 21 Absatz 2a
-AufenthG
+befristet bis
+
+ww)
+
+§ 21 Absatz 2 AufenthG
+(selbständige Tätigkeit – völkerrechtliche
+Vergünstigung)
+erteilt am
+
+(2)\*
+
+befristet bis
+
+xx)
+
+§ 21 Absatz 2a AufenthG
 (selbständige Tätigkeit – Absolvent inländischer Hochschule)
 erteilt am
-befristet bis
 
 (2)\*
 
-ss) § 21 Absatz 5
-AufenthG
+befristet bis
+
+yy)
+
+§ 21 Absatz 5 AufenthG
 (freiberufliche Tätigkeit)
 erteilt am
-befristet bis
 
 (2)\*
+
+befristet bis
 
 c)
 
-Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen nach
+Aufenthalt aus völkerrechtlichen, humanitären oder politischen
+Gründen nach
 
-aa) § 22 Satz 1 AufenthG
+aa)
+
+§ 22 Satz 1 AufenthG
 (Aufnahme aus dem Ausland)
 erteilt am
-befristet bis
 
 (2)\*
 
-bb) § 22 Satz 2 AufenthG
+befristet bis
+
+bb)
+
+§ 22 Satz 2 AufenthG
 (Aufnahme durch BMI)
 erteilt am
-befristet bis
 
 (2)\*
 
-cc) § 23 Absatz 1
-AufenthG
+befristet bis
+
+cc)
+
+§ 23 Absatz 1 AufenthG
 (Aufnahme durch Land)
 erteilt am
-befristet bis
 
 (2)\*
 
-dd) § 23 Absatz 2
-AufenthG
+befristet bis
+
+dd)
+
+§ 23 Absatz 2 AufenthG
 (besondere Fälle)
 erteilt am
-befristet bis
 
 (2)\*
 
-ee) § 23 Absatz 4
-AufenthG
+befristet bis
+
+ee)
+
+§ 23 Absatz 4 AufenthG
 (Resettlement)
 erteilt am
-befristet bis
 
 (2)\*
 
-ff) § 23a AufenthG
-(Härtefallaufnahme durch Länder)
+befristet bis
+
+ff)
+
+§ 23a AufenthG
+(Härtefallaufnahme
+durch Länder)
 erteilt am
-gültig ab
-befristet bis
 
 (2)\*
 
-gg) § 24 AufenthG
+gültig ab
+
+befristet bis
+
+gg)
+
+§ 24 AufenthG
 (vorübergehender Schutz)
 erteilt am
-befristet bis
+
+(1)
 
 (2)\*
 
-hh) § 25 Absatz 1
-AufenthG
+befristet bis
+
+hh)
+
+§ 25 Absatz 1 AufenthG
 (Asyl)
 anerkannt am
-befristet bis
 
 (2)\*
 
-ii) § 25 Absatz 2
-AufenthG
+befristet bis
+
+ii)
+
+§ 25 Absatz 2 AufenthG
 (GFK)
 gewährt am
-befristet bis
 
 (2)\*
 
- jj) § 25 Absatz 2
-AufenthG
+befristet bis
+
+jj)
+
+§ 25 Absatz 2 AufenthG
 (subsidiärer Schutz)
 gewährt am
-befristet bis
 
 (2)\*
 
- kk) § 25 Absatz 3
-AufenthG
+befristet bis
+
+kk)
+
+§ 25 Absatz 3 AufenthG
 (Abschiebungsverbot)
 erteilt am
-befristet bis
 
 (2)\*
 
-ll) § 25 Absatz 4 Satz 1 AufenthG
-(dringende persönliche oder humanitäre Gründe)
-erteilt am
 befristet bis
 
-(2)\*
+ll)
 
- mm) § 25 Absatz 4 Satz 2 AufenthG
-(Verlängerung wegen außergewöhnlicher Härte)
-erteilt am
-befristet bis
-
-(2)\*
-
-nn) § 25 Absatz 5
+§ 25 Absatz 4 Satz 1
 AufenthG
-(rechtliche oder tatsächliche Gründe)
+(dringende persönliche
+oder humanitäre Gründe)
 erteilt am
-befristet bis
 
 (2)\*
 
-oo) § 25a Absatz 1 AufenthG
-(Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden: integrierter Jugendlicher/Heranwachsender)
-erteilt am
 befristet bis
+
+mm)
+
+§ 25 Absatz 4 Satz 2
+AufenthG
+(Verlängerung wegen
+außergewöhnlicher Härte)
+erteilt am
 
 (2)\*
 
-pp) § 25a Absatz 2 Satz 1 AufenthG
-(Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden: Eltern)
-erteilt am
 befristet bis
+
+nn)
+
+§ 25 Absatz 5 AufenthG
+(rechtliche oder
+tatsächliche Gründe)
+erteilt am
 
 (2)\*
 
-qq) § 25a Absatz 2 Satz 2 AufenthG
-(Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden: Geschwister)
-erteilt am
 befristet bis
+
+oo)
+
+§ 25a Absatz 1 AufenthG
+(Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden:
+integrierter Jugendlicher/
+Heranwachsender)
+erteilt am
 
 (2)\*
 
-rr) § 25a Absatz 2
-Satz 3 AufenthG
-(Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden: Ehegatte/Lebenspartner)
-erteilt am
 befristet bis
+
+pp)
+
+§ 25a Absatz 2 Satz 1
+AufenthG
+(Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden:
+Eltern)
+erteilt am
 
 (2)\*
 
-ss) § 25a Absatz 2
-Satz 5 AufenthG
-(Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden: minderjährige ledige Kinder)
-erteilt am
 befristet bis
+
+qq)
+
+§ 25a Absatz 2 Satz 2
+AufenthG
+(Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden:
+Geschwister)
+erteilt am
 
 (2)\*
 
-tt) § 25b Absatz 1
-Satz 1 AufenthG
+befristet bis
+
+rr)
+
+§ 25a Absatz 2 Satz 3
+AufenthG
+(Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden:
+Ehegatte/Lebenspartner)
+erteilt am
+
+(2)\*
+
+befristet bis
+
+ss)
+
+§ 25a Absatz 2 Satz 5
+AufenthG
+(Aufenthaltsgewährung bei gut integrierten Jugendlichen und Heranwachsenden:
+minderjährige ledige Kinder)
+erteilt am
+
+(2)\*
+
+befristet bis
+
+tt)
+
+§ 25b Absatz 1 Satz 1
+AufenthG
 (Aufenthaltsgewährung bei nachhaltiger Integration:
 integrierter Ausländer)
 erteilt am
-befristet bis
 
 (2)\*
 
-uu) § 25b Absatz 4
-Satz 1 AufenthG
-(Aufenthaltsgewährung bei nachhaltiger Integration: Ehegatte/Lebenspartner)
-erteilt am
 befristet bis
 
-(2)\*
+uu)
 
-vv) § 25b Absatz 4 Satz 1
+§ 25b Absatz 4 Satz 1
 AufenthG
-(Aufenthaltsgewährung bei nachhaltiger Integration: minderjähriges Kind)
+(Aufenthaltsgewährung bei nachhaltiger Integration:
+Ehegatte/Lebenspartner)
+erteilt am
+
+(2)\*
+
+befristet bis
+
+vv)
+
+§ 25b Absatz 4 Satz 1
+AufenthG
+(Aufenthaltsgewährung bei nachhaltiger Integration:
+minderjähriges Kind)
 erteilt am
 
 (2)\*
@@ -3282,260 +3753,400 @@ d)
 
 Aufenthalt aus familiären Gründen nach
 
-aa) § 28 Absatz 1 Satz 1 Nummer 1 AufenthG
-(Familiennachzug zu Deutschen: Ehegatte)
+aa)
+
+§ 28 Absatz 1 Satz 1
+Nummer 1 AufenthG
+(Familiennachzug
+zu Deutschen: Ehegatte)
 erteilt am
-befristet bis
 
 (2)\*
 
-bb) § 28 Absatz 1 Satz 1 Nummer 2 AufenthG
-(Familiennachzug zu Deutschen: Kinder)
-erteilt am
 befristet bis
+
+bb)
+
+§ 28 Absatz 1 Satz 1
+Nummer 2 AufenthG
+(Familiennachzug
+zu Deutschen: Kinder)
+erteilt am
 
 (2)\*
 
-cc) § 28 Absatz 1 Satz 1 Nummer 3 AufenthG
-(Familiennachzug zu Deutschen: Elternteil)
-erteilt am
 befristet bis
+
+cc)
+
+§ 28 Absatz 1 Satz 1
+Nummer 3 AufenthG
+(Familiennachzug
+zu Deutschen: Elternteil)
+erteilt am
 
 (2)\*
 
-dd) § 28 Absatz 1 Satz 4 AufenthG
-(Familiennachzug zu Deutschen: Elternteil)
-erteilt am
 befristet bis
 
-(2)\*
+dd)
 
-ee) § 28 Absatz 4
+§ 28 Absatz 1 Satz 4
 AufenthG
-(Familiennachzug zu Deutschen: Sonstige)
+(Familiennachzug
+zu Deutschen: Elternteil)
 erteilt am
-befristet bis
 
 (2)\*
 
- ff) § 30 AufenthG
-(Ehegattennachzug) ohne § 30 Absatz 1 Satz 1 Nummer 3g AufenthG
-erteilt am
 befristet bis
+
+ee)
+
+§ 28 Absatz 4 AufenthG
+(Familiennachzug
+zu Deutschen: Sonstige)
+erteilt am
 
 (2)\*
 
-gg) § 30 Absatz 1 Satz 1 Nummer 3g AufenthG
-(Ehegattennachzug zu einem Inhaber einer Blauen Karte EU)
-erteilt am
 befristet bis
+
+ff)
+
+§ 30 AufenthG
+(Ehegattennachzug)
+ohne § 30 Absatz 1 Satz 1 Nummer 3g AufenthG
+erteilt am
 
 (2)\*
 
-hh) § 32 Absatz 1
-AufenthG
-(Kindesnachzug zu einem Inhaber einer Aufenthaltserlaubnis, einer Niederlassungserlaubnis
-oder einer Erlaubnis zum Daueraufenthalt – EU)
-erteilt am
 befristet bis
+
+gg)
+
+§ 30 Absatz 1 Satz 1
+Nummer 3g AufenthG
+(Ehegattennachzug
+zu einem Inhaber
+einer Blauen Karte EU)
+erteilt am
 
 (2)\*
 
- ii) § 32 Absatz 1 AufenthG
-(Kindesnachzug zu einem Inhaber einer Blauen Karte EU)
-erteilt am
 befristet bis
+
+hh)
+
+§ 32 Absatz 1 AufenthG
+(Kindesnachzug
+zu einem Inhaber einer
+Aufenthaltserlaubnis,
+einer Niederlassungserlaubnis
+oder einer Erlaubnis
+zum Daueraufenthalt – EU)
+erteilt am
 
 (2)\*
 
- jj) § 32 Absatz 1 in Verbindung mit
-Absatz 2 Satz 1 AufenthG
-(Nachzug von Kindern über
-16 Jahre zu einem Inhaber einer Aufenthaltserlaubnis – außer nach § 25 Absatz 1 und 2 AufenthG –, einer Niederlassungserlaubnis – außer nach § 26 Absatz 3 und § 19 AufenthG – oder einer Erlaubnis zum Daueraufenthalt EU)
-erteilt am
 befristet bis
+
+ii)
+
+§ 32 Absatz 1 AufenthG
+(Kindesnachzug
+zu einem Inhaber
+einer Blauen Karte EU)
+erteilt am
 
 (2)\*
 
-kk) § 32 Absatz 4 AufenthG
+befristet bis
+
+jj)
+
+§ 32 Absatz 1 in Verbindung mit Absatz 2 Satz 1 AufenthG
+(Nachzug von Kindern
+über 16 Jahre zu einem
+Inhaber einer
+Aufenthaltserlaubnis –
+außer nach § 25 Absatz 1
+und 2 AufenthG –, einer
+Niederlassungserlaubnis – außer nach § 26 Absatz 3
+und § 19 AufenthG –
+oder einer Erlaubnis
+zum Daueraufenthalt EU)
+erteilt am
+
+(2)\*
+
+befristet bis
+
+kk)
+
+§ 32 Absatz 4 AufenthG
 (Kindesnachzug im Härtefall)
 erteilt am
-befristet bis
 
 (2)\*
 
- ll) § 33 AufenthG
+befristet bis
+
+ll)
+
+§ 33 AufenthG
 (Geburt im Bundesgebiet)
 erteilt am
-befristet bis
 
 (2)\*
 
-mm) § 36 Absatz 1 AufenthG
+befristet bis
+
+mm)
+
+§ 36 Absatz 1 AufenthG
 (Nachzug von Eltern)
 erteilt am
-befristet bis
 
 (2)\*
 
-nn) § 36 Absatz 2 AufenthG
-(Nachzug sonstiger Familienangehöriger)
+befristet bis
+
+nn)
+
+§ 36 Absatz 2 AufenthG
+(Nachzug sonstiger
+Familienangehöriger)
 erteilt am
-befristet bis
 
 (2)\*
+
+befristet bis
 
 e)
 
 besondere Aufenthaltsrechte nach
 
-aa) § 7 Absatz 1 Satz 3 AufenthG
+aa)
+
+§ 7 Absatz 1 Satz 3 AufenthG
 (sonstige begründete Fälle)
 erteilt am
-befristet bis
 
 (2)\*
 
-bb) § 25 Absatz 4a AufenthG
-(Aufenthaltsrecht für Ausländer, die Opfer einer Straftat nach den §§ 232 bis 233a des Strafgesetzbuchs wurden)
+befristet bis
+
+bb)
+
+§ 25 Absatz 4a AufenthG
+(Aufenthaltsrecht für
+Ausländer, die Opfer einer Straftat nach den
+§§ 232 bis 233a des
+Strafgesetzbuchs wurden)
 erteilt am
-befristet bis
 
 (2)\*
 
-cc) § 25 Absatz 4b AufenthG
-(Aufenthaltsrecht für Ausländer, die Opfer einer Straftat nach § 10 Absatz 1 oder § 11 Absatz 1 Nummer 3 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 15a des Arbeitnehmerüberlassungsgesetzes sind)
+befristet bis
+
+cc)
+
+§ 25 Absatz 4b AufenthG
+(Aufenthaltsrecht für
+Ausländer, die Opfer einer Straftat nach § 10 Absatz 1 oder § 11 Absatz 1 Nummer 3 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 15a des Arbeitnehmerüberlassungsgesetzes sind)
 erteilt am
-befristet bis
 
 (2)\*
 
-dd) § 31 Absatz 1, 2, 4 AufenthG
+befristet bis
+
+dd)
+
+§ 31 Absatz 1, 2, 4 AufenthG
 (eigenständiges Ehegattenaufenthaltsrecht)
 erteilt am
-befristet bis
 
 (2)\*
 
-ee) § 34 Absatz 2 AufenthG
+befristet bis
+
+ee)
+
+§ 34 Absatz 2 AufenthG
 (eigenständiges Aufenthaltsrecht von Kindern)
 erteilt am
-befristet bis
 
 (2)\*
 
- ff) § 37 Absatz 1 AufenthG
+befristet bis
+
+ff)
+
+§ 37 Absatz 1 AufenthG
 (Wiederkehr)
 erteilt am
-befristet bis
 
 (2)\*
 
-gg) § 37 Absatz 5 AufenthG
+befristet bis
+
+gg)
+
+§ 37 Absatz 5 AufenthG
 (Wiederkehr Rentner)
 erteilt am
-befristet bis
 
 (2)\*
 
-hh) § 38 Absatz 1 Nummer 2, Absatz 2 und 5 AufenthG
+befristet bis
+
+hh)
+
+§ 38 Absatz 1 Nummer 2, Absatz 2 und 5 AufenthG
 (ehemaliger Deutscher)
 erteilt am
-befristet bis
 
 (2)\*
 
-ii) § 38a AufenthG
-(langfristig Aufenthaltsberechtigter in \[Staatsangehörigkeitsschlüssel des EU-Mitgliedstaates\])
+befristet bis
+
+ii)
+
+§ 38a AufenthG
+(langfristig Aufenthaltsberechtigter in
+\[Staatsangehörigkeitsschlüssel des EU-Mitgliedstaates\])
 erteilt am
-befristet bis
 
 (2)\*
 
-jj) § 104a Absatz 1 Satz 1 AufenthG
-(Aufenthaltserlaubnis auf Probe)
+befristet bis
+
+jj)
+
+§ 104a Absatz 1 Satz 1
+AufenthG
+(Aufenthaltserlaubnis
+auf Probe)
 erteilt am
-befristet bis
 
 (2)\*
 
-kk) § 23 Absatz 1 Satz 1 in Verbindung mit § 104a Absatz 1 Satz 2 AufenthG
+befristet bis
+
+kk)
+
+§ 23 Absatz 1 Satz 1
+in Verbindung mit § 104a
+Absatz 1 Satz 2 AufenthG
 (Altfallregelung)
 erteilt am
-befristet bis
 
 (2)\*
 
- ll) § 23 Absatz 1 Satz 1 in Verbindung mit § 104a Absatz 2 Satz 1 AufenthG
+befristet bis
+
+ll)
+
+§ 23 Absatz 1 Satz 1
+in Verbindung mit § 104a
+Absatz 2 Satz 1 AufenthG
 (Altfallregelung für volljährige Kinder von Geduldeten)
 erteilt am
-befristet bis
 
 (2)\*
 
-mm) § 23 Absatz 1 Satz 1 in Verbindung mit § 104a Absatz 2 Satz 2 AufenthG
-(Altfallregelung für unbegleitete Flüchtlinge)
+befristet bis
+
+mm)
+
+§ 23 Absatz 1 Satz 1
+in Verbindung mit § 104a
+Absatz 2 Satz 2 AufenthG
+(Altfallregelung für
+unbegleitete Flüchtlinge)
 erteilt am
-befristet bis
 
 (2)\*
 
-nn) § 23 Absatz 1 Satz 1 in Verbindung mit § 104b AufenthG
-(integrierte Kinder von Geduldeten)
+befristet bis
+
+nn)
+
+§ 23 Absatz 1 Satz 1
+in Verbindung mit § 104b AufenthG
+(integrierte Kinder von
+Geduldeten)
 erteilt am
-befristet bis
 
 (2)\*
 
-oo) § 4 Absatz 5 AufenthG
-(Assoziationsrecht EWG/Türkei)
+befristet bis
+
+oo)
+
+§ 4 Absatz 5 AufenthG
+(Assoziationsrecht
+EWG/Türkei)
 erteilt am
-befristet bis
 
 (2)\*
 
-pp) dem Freizügigkeitsabkommen EG/ Schweiz für freizügigkeitsberechtigte Schweizerische Bürger
+befristet bis
+
+pp)
+
+dem Freizügigkeitsabkommen EG/Schweiz für freizügigkeitsberechtigte Schweizerische Bürger
 erteilt am
-befristet bis
 
 (2)\*
 
-qq) dem Freizügigkeitsabkommen EG/Schweiz für Angehörige von freizügigkeitsberechtigten Schweizerischen Bürgern
+befristet bis
+
+qq)
+
+dem Freizügigkeitsabkommen EG/Schweiz für Angehörige von freizügigkeitsberechtigten Schweizerischen Bürgern
 erteilt am
-befristet bis
 
 (2)\*
+
+befristet bis
 
 § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3
+
+Aufenthaltserlaubnis
 
 (2)
 
-– wie vorstehend –
+– wie vorstehend –
 
-Aufenthaltserlaubnis
+– wie vorstehend –
 
-– wie vorstehend –
+– wie vorstehend –
 
-– wie vorstehend –
-
-– wie vorstehend ohne Buchstabe e Doppelbuchstabe oo bis qq –
+–  
+wie vorstehend ohne Buchstabe e Doppelbuchstabe oo bis qq –
 
 § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3
 
-(3)
-
-– wie vorstehend –
-
-§ 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des
-AZR-Gesetzes
+§ 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes
 
 Aufenthaltserlaubnis
 
-– wie vorstehend –
+(3)
 
-– nur die zu Personenkreis (1) in Spalte D Nummer I genannten Stellen
+– wie vorstehend –
 
-– wie vorstehend ohne Buchstabe e Doppelbuchstabe oo bis qq –
+– wie vorstehend –
+
+–  
+nur die zu Personen-
+kreis (1) in Spalte D Nummer I genannten Stellen
+
+<!-- -->
+
+–  
+wie vorstehend ohne Buchstabe e Doppelbuchstabe oo bis qq –
 
  \* In diesen Fällen ist zugleich die Einreise in das Bundesgebiet zu melden, wenn die Einreise im Register noch nicht erfasst ist.
 
@@ -3576,7 +4187,7 @@ Bezeichnung der Daten
 
 (1)
 
-§§ 15, 16, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes
+§§ 15, 16, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes
 
 Niederlassungserlaubnis/unbefristeter Aufenthaltstitel nach
 
@@ -3626,6 +4237,7 @@ zugsbehörden der Länder
 vertretungen und andere öffentliche Stellen im Visaverfahren
 – Statistisches Bundes-
 amt
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 II)  
 – für die Zuverlässig-
@@ -3865,7 +4477,7 @@ Bezeichnung der Daten
 
 (1)
 
-§§ 15, 16, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes
+§§ 15, 16, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes
 
 Aufenthaltsrechte nach dem FreizügG/EU
 
@@ -3885,6 +4497,7 @@ vollzugsbehörden der Länder
 – deutsche Auslands-
 vertretungen und andere öffentliche Stellen im Visaverfahren
 – Statistisches Bundesamt
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 II)  
 – für die Zuverlässig-
@@ -3973,7 +4586,7 @@ Bezeichnung der Daten
 
 § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3 und § 3 Absatz 1 Nummer 8
 
-§§ 15, 16, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes
+§§ 15, 16, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes
 
 Ausweisung und Hinweis auf Begründungstext
 
@@ -4008,6 +4621,7 @@ im Visaverfahren
 – Statistisches Bundes-
 amt zu Spalte A
 Buchstabe a bis r
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 II)  
 – für die Zuverlässig-
@@ -4225,6 +4839,10 @@ Ausweisung und Hinweis auf Begründungstext
 
 – wie vorstehend Spalte A Buchstabe g, i, j, l bis n und q bis s –
 
+– wie vorstehend Spalte A Buchstabe g bis s –
+
+– Familienkasse Direktion der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18f des AZR-Gesetzes
+
 § 3 Absatz 4 Nummer 3 und 7 in Verbindung mit § 2 Absatz 3 Nummer 3 und § 3 Absatz 4 Nummer 8
 
 § 15 Absatz 1 Satz 1 Nummer 1 und 6, § 18 Absatz 1, §§ 21, 23 des AZR-Gesetzes
@@ -4281,7 +4899,7 @@ Bezeichnung der Daten
 
 (1)
 
-§§ 15, 16, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes
+§§ 15, 16, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes
 
 Abschiebung (mit Ausnahme der Abschiebung im Sinne des § 71 Absatz 3 Nummer 1a und 1b AufenthG) und Hinweis auf Begründungstext
 
@@ -4362,6 +4980,7 @@ für die Dauer von … Jahren/… Monaten ab Abschiebung
 – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen
 – Jugendämter 
 – Statistisches Bundesamt zu Spalte A Buchstabe a bis h
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 h)
 
@@ -4427,7 +5046,7 @@ Bezeichnung der Daten
 
 (1)
 
-§§ 15, 16, 18, 18a, 18b, 21, 23 des AZR-Gesetzes
+§§ 15, 16, 17a, 18, 18a, 18b, 21, 23 des AZR-Gesetzes
 
 Einreise- und Aufenthaltsverbot und Hinweis auf
 Begründungstext
@@ -4444,6 +5063,7 @@ I)
 – Bundespolizei
 – andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs betraute Behörden
 – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 a)
 
@@ -4528,7 +5148,7 @@ Bezeichnung der Daten
 
 (1)
 
-§§ 15, 16, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes
+§§ 15, 16, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes
 
 Einschränkung/Untersagung der politischen Betätigung und Hinweis auf Begründungstext
 
@@ -4572,6 +5192,7 @@ Wirkung unbefristet
 – Träger der Sozialhilfe und für die Durchführung des Asylbewerberleistungsgesetzes zuständige Stellen
 – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen
 – Jugendämter 
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 c)
 
@@ -4630,7 +5251,7 @@ Bezeichnung der Daten
 
 (1)
 
-§§ 15, 16, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes
+§§ 15, 16, 17a, 18, 18a, 18b, 18d, 21 des AZR-Gesetzes
 
 Überwachungsmaßnahmen bei ausgewiesenen Ausländern nach § 56 AufenthG
 
@@ -4653,6 +5274,7 @@ zugsbehörden
 Arbeit
 – deutsche Auslands-
 vertretungen und andere öffentliche Stellen im Visaverfahren
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 II)  
 – für die Zuverlässig-
@@ -4745,7 +5367,7 @@ Bezeichnung der Daten
 
 § 3 Absatz 1 Nummer 3 und 7 in Verbindung mit § 2 Absatz 2 Nummer 3
 
-§§ 15, 16, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes
+§§ 15, 16, 17a, 18, 18a, 18b, 18d, 21, 23 des AZR-Gesetzes
 
 Duldung
 
@@ -4785,6 +5407,7 @@ beit
 vertretungen und an-
 dere öffentliche Stellen
 im Visaverfahren
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 II)  
 – für die Zuverlässig-
@@ -4959,6 +5582,7 @@ zugsbehörden der Länder
 – Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18 Absatz 1 des AZR-Gesetzes
 – deutsche Auslands-
 vertretungen und andere öffentliche Stellen im Visaverfahren
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 II)  
 – für die Zuverlässig-
@@ -5042,7 +5666,7 @@ Bezeichnung der Daten
 
 (1)
 
-§§ 15, 16, 18, 18a, 18b, 18d, 21, 23, 24a des AZR-Gesetzes
+§§ 15, 16, 17a, 18, 18a, 18b, 18d, 21, 23, 24a des AZR-Gesetzes
 
 Passrechtliche Maßnahmen (Kapitel 2 Abschnitt 1 AufenthV)
 
@@ -5066,6 +5690,7 @@ Passrechtliche Maßnahmen (Kapitel 2 Abschnitt 1 AufenthV)
 – Jugendämter 
 – deutsche Auslandsvertretungen und andere öffentliche Stellen im Visaverfahren
 – Statistisches Bundesamt
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 a)
 
@@ -5134,7 +5759,7 @@ Bezeichnung der Daten
 
 (1)
 
-§§ 15, 16, 18, 18a, 18b, 18d, 21, 23, 24a des AZR-Gesetzes
+§§ 15, 16, 17a, 18, 18a, 18b, 18d, 21, 23, 24a des AZR-Gesetzes
 
 Zurückweisung, Zurückschiebung und Abschiebung im Sinne des § 71 Absatz 3 Nummer 1a und 1b AufenthG und Hinweis auf Begründungstext
 
@@ -5163,6 +5788,7 @@ eigener Aufgabe betraut sind
 – die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen
 – Jugendämter
 – Statistisches Bundesamt
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 a)
 
@@ -5477,6 +6103,7 @@ Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtliche
 zugsbehörden der Länder
 – deutsche Auslands-
 vertretungen und andere öffentliche Stellen im Visaverfahren
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 a)
 
@@ -5582,8 +6209,7 @@ Bezeichnung der Daten
 
 (1)
 
-§§ 15, 16, 21, 24a des
-AZR-Gesetzes
+§§ 15, 16, 17a, 21, 24a des AZR-Gesetzes
 
 Verdacht auf und Gefährdung durch Straftaten
 
@@ -5606,6 +6232,7 @@ Verdacht auf und Gefährdung durch Straftaten
 – Staatsanwaltschaften
 – Gerichte
 – deutsche Auslandsvertretungen und andere öffentliche Stellen im Visaverfahren
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 a)
 
@@ -5692,8 +6319,7 @@ Bezeichnung der Daten
 
 (1)
 
-§§ 15, 16, 21, 24a des
-AZR-Gesetzes
+§§ 15, 16, 17a, 21, 24a des AZR-Gesetzes
 
 a)
 
@@ -5728,6 +6354,7 @@ Verdacht auf Straftat nach § 89b StGB
 
 – Gerichte
 – deutsche Auslandsvertretungen und andere öffentliche Stellen im Visaverfahren
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
  
 
@@ -6053,8 +6680,7 @@ Bezeichnung der Daten
 
 (1)
 
-§§ 15, 16, 21, 24a des
-AZR-Gesetzes
+§§ 15, 16, 17a, 21, 24a des AZR-Gesetzes
 
 Sicherheitsrechtliche Befragung
 
@@ -6074,6 +6700,7 @@ eigener Aufgabe betraut sind
 – Staatsanwaltschaften
 – Gerichte
 – deutsche Auslandsvertretungen und andere öffentliche Stellen im Visaverfahren
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 a)
 
@@ -6254,7 +6881,7 @@ Bezeichnung der Daten
 
 (2)/(3)
 
-§ 15 des AZR-Gesetzes
+§§ 15, 18f des AZR-Gesetzes
 
 – Voraussetzungen des § 6 FreizügG/EU für den Verlust des Rechts auf Einreise und Aufenthalt gegeben
 
@@ -6273,6 +6900,9 @@ Bezeichnung der Daten
 – mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden
 – sonstige Polizeivollzugsbehörden der Länder
 – oberste Bundes- und Landesbehörden, die mit der Durchführung ausländer-, asyl- und passrechtlicher Vorschriften als eigener Aufgabe betraut sind
+
+–  
+Familienkasse Direktion der Bundesagentur für Arbeit zur Aufgabenerfüllung nach § 18f des AZR-Gesetzes
 
 A
 
@@ -6534,6 +7164,7 @@ grenzüberschreitenden Verkehrs betraute Behörden
 – Staatsanwaltschaften
 – Bundesagentur für Arbeit und Behörden der Zollverwaltung
 – deutsche Auslandsvertretungen und andere öffentliche Stellen im Visumverfahren
+– Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes
 
 § 29 Abs. 1 Nr. 1a
 
