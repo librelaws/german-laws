@@ -2,7 +2,10 @@ Verordnung über Beihilfe in Krankheits-, Pflege- und Geburtsfällen (BBhV)
 =========================================================================
 
 Stand  
-Zuletzt geändert durch Art. 11 G v. 17.7.2015 I 1368
+Zuletzt geändert durch Art. 12 G v. 11.12.2018 I 2387
+
+Sonst  
+Berichtigung vom 21.1.2019 I 46 ist berücksichtigt
 
 ### 
 
@@ -20,19 +23,19 @@ Kapitel 1
 
 Allgemeine Vorschriften
 
-|      |                                                |
-|------|------------------------------------------------|
-| §  1 | Regelungszweck                                 |
-| §  2 | Beihilfeberechtigte Personen                   |
-| §  3 | Beamtinnen und Beamte im Ausland               |
-| §  4 | Berücksichtigungsfähige Personen               |
-| §  5 | Konkurrenzen                                   |
-| §  6 | Beihilfefähigkeit von Aufwendungen             |
-| §  7 | Verweisungen auf das Sozialgesetzbuch          |
-| §  8 | Ausschluss der Beihilfefähigkeit               |
-| §  9 | Anrechnung von Erstattungen und Sachleistungen |
-| § 10 | Beihilfeanspruch                               |
-| § 11 | Aufwendungen im Ausland                        |
+|      |                                       |
+|------|---------------------------------------|
+| §  1 | Regelungsgegenstand                   |
+| §  2 | Beihilfeberechtigte Personen          |
+| §  3 | Beamtinnen und Beamte im Ausland      |
+| §  4 | Berücksichtigungsfähige Personen      |
+| §  5 | Konkurrenzen                          |
+| §  6 | Beihilfefähigkeit von Aufwendungen    |
+| §  7 | Verweisungen auf das Sozialgesetzbuch |
+| §  8 | Ausschluss der Beihilfefähigkeit      |
+| §  9 | Anrechnung von Leistungen             |
+| § 10 | Beihilfeanspruch                      |
+| § 11 | Aufwendungen im Ausland               |
 
 Kapitel 2
 
@@ -47,10 +50,12 @@ Ambulante Leistungen
 | § 12  | Ärztliche Leistungen                                                                                           |
 | § 13  | Leistungen von Heilpraktikerinnen und Heilpraktikern                                                           |
 | § 14  | Zahnärztliche Leistungen                                                                                       |
-| § 15  | Implantologische, kieferorthopädische, funktionsanalytische und funktionstherapeutische Leistungen             |
+| § 15  | Implantologische Leistungen                                                                                    |
+| § 15a | Kieferorthopädische Leistungen                                                                                 |
+| § 15b | Funktionsanalytische und funktionstherapeutische Leistungen                                                    |
 | § 16  | Auslagen, Material- und Laborkosten                                                                            |
 | § 17  | Zahnärztliche Leistungen für Beamtinnen und Beamte auf Widerruf                                                |
-| § 18  | Psychotherapie, psychosomatische Grundversorgung                                                               |
+| § 18  | Psychotherapie, psychosomatische Grundversorgung, psychotherapeutische Akutbehandlung                          |
 | § 18a | Gemeinsame Vorschriften für die Behandlungsformen psychoanalytisch begründete Verfahren und Verhaltenstherapie |
 | § 19  | Psychoanalytisch begründete Verfahren                                                                          |
 | § 20  | Verhaltenstherapie                                                                                             |
@@ -66,8 +71,9 @@ Sonstige Aufwendungen
 | § 23  | Heilmittel                                                                       |
 | § 24  | Komplextherapie und integrierte Versorgung                                       |
 | § 25  | Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke |
-| § 26  | Krankenhausleistungen                                                            |
-| § 27  | Häusliche Krankenpflege                                                          |
+| § 26  | Krankenhausleistungen in zugelassenen Krankenhäusern                             |
+| § 26a | Krankenhausleistungen in Krankenhäusern ohne Zulassung                           |
+| § 27  | Häusliche Krankenpflege, Kurzzeitpflege bei fehlender Pflegebedürftigkeit        |
 | § 28  | Familien- und Haushaltshilfe                                                     |
 | § 29  | Familien- und Haushaltshilfe im Ausland                                          |
 | § 30  | Soziotherapie                                                                    |
@@ -90,24 +96,36 @@ Kapitel 3
 
 Aufwendungen in Pflegefällen
 
-|      |                                                            |
-|------|------------------------------------------------------------|
-| § 37 | Pflegeberatung, Anspruch auf Beihilfe für Pflegeleistungen |
-| § 38 | Häusliche Pflege, Tagespflege und Nachtpflege              |
-| § 39 | Vollstationäre Pflege                                      |
-| § 40 | Palliativversorgung                                        |
+|       |                                                                   |
+|-------|-------------------------------------------------------------------|
+| § 37  | Pflegeberatung, Anspruch auf Beihilfe für Pflegeleistungen        |
+| § 38  | Anspruchsberechtigte bei Pflegeleistungen                         |
+| § 38a | Häusliche Pflege                                                  |
+| § 38b | Kombinationsleistungen                                            |
+| § 38c | Häusliche Pflege bei Verhinderung der Pflegeperson                |
+| § 38d | Teilstationäre Pflege                                             |
+| § 38e | Kurzzeitpflege                                                    |
+| § 38f | Ambulant betreute Wohngruppen                                     |
+| § 38g | Pflegehilfsmittel und Maßnahmen zur Verbesserung des Wohnumfeldes |
+| § 38h | Leistungen zur sozialen Sicherung der Pflegeperson                |
+| § 39  | Vollstationäre Pflege                                             |
+| § 39a | Einrichtungen der Behindertenhilfe                                |
+| § 39b | Aufwendungen bei Pflegegrad 1                                     |
+| § 40  | Palliativversorgung                                               |
 
 Kapitel 4
 
 Aufwendungen in anderen Fällen
 
-|      |                                                                                         |
-|------|-----------------------------------------------------------------------------------------|
-| § 41 | Früherkennungsuntersuchungen und Vorsorgemaßnahmen                                      |
-| § 42 | Schwangerschaft und Geburt                                                              |
-| § 43 | Künstliche Befruchtung, Sterilisation, Empfängnisregelung und Schwangerschaftsabbruch   |
-| § 44 | Überführungskosten                                                                      |
-| § 45 | Erste Hilfe, Entseuchung, Kommunikationshilfe, Organspende und klinisches Krebsregister |
+|       |                                                                                       |
+|-------|---------------------------------------------------------------------------------------|
+| § 41  | Früherkennungsuntersuchungen und Vorsorgemaßnahmen                                    |
+| § 42  | Schwangerschaft und Geburt                                                            |
+| § 43  | Künstliche Befruchtung, Sterilisation, Empfängnisregelung und Schwangerschaftsabbruch |
+| § 44  | Überführungskosten                                                                    |
+| § 45  | Erste Hilfe, Entseuchung, Kommunikationshilfe                                         |
+| § 45a | Organspende und andere Spenden                                                        |
+| § 45b | Klinisches Krebsregister                                                              |
 
 Kapitel 5
 
@@ -125,15 +143,16 @@ Kapitel 6
 
 Verfahren und Zuständigkeit
 
-|      |                            |
-|------|----------------------------|
-| § 51 | Bewilligungsverfahren      |
-| § 52 | Zuordnung von Aufwendungen |
-| § 53 | (weggefallen)              |
-| § 54 | Antragsfrist               |
-| § 55 | Geheimhaltungspflicht      |
-| § 56 | Festsetzungsstellen        |
-| § 57 | Verwaltungsvorschriften    |
+|       |                            |
+|-------|----------------------------|
+| § 51  | Bewilligungsverfahren      |
+| § 51a | Zahlung an Dritte          |
+| § 52  | Zuordnung von Aufwendungen |
+| § 53  | (weggefallen)              |
+| § 54  | Antragsfrist               |
+| § 55  | Geheimhaltungspflicht      |
+| § 56  | Festsetzungsstellen        |
+| § 57  | Verwaltungsvorschriften    |
 
 Kapitel 7
 
@@ -259,6 +278,21 @@ und § 24 Absatz 1)<br />
 </td>
 <td>Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko</td>
 </tr>
+<tr class="odd">
+<td>Anlage 14a<br />
+(zu § 41a Absatz 4)</td>
+<td>Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko</td>
+</tr>
+<tr class="even">
+<td>Anlage 15<br />
+(zu § 35 Absatz 1 Nummer 4)</td>
+<td>Heilbäder- und Kurorteverzeichnis</td>
+</tr>
+<tr class="odd">
+<td>Anlage 16<br />
+(zu § 51a)</td>
+<td>Antrag auf Gewährung von Beihilfe und auf Direktabrechnung</td>
+</tr>
 </tbody>
 </table>
 
@@ -267,9 +301,9 @@ Kapitel 1 Allgemeine Vorschriften
 
 ### 
 
-### § 1 Regelungszweck
+### § 1 Regelungsgegenstand
 
-Diese Verordnung regelt die Gewährung von Beihilfe in den gesetzlich vorgesehenen Fällen. Die Beihilfe ergänzt die gesundheitliche Eigenvorsorge, die in der Regel aus den laufenden Bezügen zu bestreiten ist.
+Diese Verordnung regelt die Einzelheiten der Gewährung von Beihilfe nach § 80 Absatz 6 des Bundesbeamtengesetzes.
 
 ### § 2 Beihilfeberechtigte Personen
 
@@ -286,7 +320,7 @@ frühere Beamtin oder früherer Beamter
 
 ist.
 
-(2) Die Beihilfeberechtigung setzt ferner voraus, dass der beihilfeberechtigten Person Dienstbezüge, Amtsbezüge, Anwärterbezüge, Ruhegehalt, Übergangsgebührnisse, Witwengeld, Witwergeld, Waisengeld, Unterhaltsbeiträge nach Abschnitt II oder Abschnitt V, nach § 22 Absatz 1 oder nach § 26 Absatz 1 des Beamtenversorgungsgesetzes oder Übergangsgeld nach Abschnitt VI des Beamtenversorgungsgesetzes zustehen. Die Beihilfeberechtigung besteht auch, wenn Bezüge wegen Elternzeit oder der Anwendung von Ruhens-, Anrechnungs- oder Kürzungsvorschriften nicht gezahlt werden. Der Anspruch auf Beihilfe bleibt bei Urlaub unter Wegfall der Besoldung nach der Sonderurlaubsverordnung unberührt, wenn dieser nicht länger als einen Monat dauert.
+(2) Die Beihilfeberechtigung setzt ferner voraus, dass der beihilfeberechtigten Person Dienstbezüge, Amtsbezüge, Anwärterbezüge, Ruhegehalt, Witwengeld, Witwergeld, Waisengeld, Unterhaltsbeiträge nach Abschnitt II oder Abschnitt V, nach § 22 Absatz 1 oder nach § 26 Absatz 1 des Beamtenversorgungsgesetzes oder Übergangsgeld nach Abschnitt VI des Beamtenversorgungsgesetzes zustehen. Die Beihilfeberechtigung besteht auch, wenn Bezüge wegen Elternzeit oder der Anwendung von Ruhens-, Anrechnungs- oder Kürzungsvorschriften nicht gezahlt werden. Ruhens- und Anrechnungsvorschriften im Sinne von Satz 2 sind insbesondere § 22 Absatz 1 Satz 2, die §§ 53 bis 56, § 61 Absatz 2 Satz 2 und Absatz 3 des Beamtenversorgungsgesetzes, § 9a des Bundesbesoldungsgesetzes sowie § 10 Absatz 4 und 6 des Postpersonalrechtsgesetzes. Der Anspruch auf Beihilfe bleibt bei Urlaub unter Wegfall der Besoldung nach der Sonderurlaubsverordnung unberührt, wenn dieser nicht länger als einen Monat dauert.
 
 (3) Nicht beihilfeberechtigt sind
 
@@ -311,13 +345,15 @@ Beihilfeberechtigt nach § 2 Abs. 1 Nr. 1 sind auch diejenigen Beamtinnen und Be
 
 (1) Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner von beihilfeberechtigten Personen sind berücksichtigungsfähig, wenn der Gesamtbetrag ihrer Einkünfte (§ 2 Absatz 3 in Verbindung mit Absatz 5a des Einkommensteuergesetzes) oder vergleichbarer ausländischer Einkünfte im zweiten Kalenderjahr vor Beantragung der Beihilfe 17 000 Euro nicht übersteigt. Wird dieser Gesamtbetrag der Einkünfte im laufenden Kalenderjahr nicht erreicht, sind Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner unter dem Vorbehalt des Widerrufs bereits im laufenden Jahr berücksichtigungsfähig. Die von den Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner der beihilfeberechtigten Personen nach § 3 im Ausland erzielten Einkünfte bleiben unberücksichtigt. Der Gesamtbetrag der Einkünfte ist durch Vorlage einer Ablichtung des Steuerbescheides nachzuweisen. Weist der Steuerbescheid den Gesamtbetrag der Einkünfte nicht vollständig aus, können andere Nachweise gefordert werden.
 
-(2) Kinder sind berücksichtigungsfähig, wenn sie beim Familienzuschlag der beihilfeberechtigten Person nach dem Bundesbesoldungsgesetz berücksichtigungsfähig sind. Dies gilt für beihilfeberechtigte Personen nach § 3, wenn
+(2) Kinder sind berücksichtigungsfähig, wenn sie beim Familienzuschlag der beihilfeberechtigten Person nach dem Besoldungs- und Versorgungsrecht berücksichtigungsfähig sind. Dies gilt für beihilfeberechtigte Personen nach § 3, wenn
 
 1.  
 Anspruch auf einen Auslandszuschlag nach § 53 Absatz 4 Nummer 2 und 2a des Bundesbesoldungsgesetzes besteht oder 
 
 2.  
 ein Auslandszuschlag nach § 53 Absatz 4 Nummer 2 und 2a des Bundesbesoldungsgesetzes nur deshalb nicht gezahlt wird, weil im Inland ein Haushalt eines Elternteils besteht, der für das Kind sorgeberechtigt ist oder war.
+
+Befinden sich Kinder nach Vollendung des 25. Lebensjahres noch in Schul- oder Berufsausbildung, sind sie weiter berücksichtigungsfähig, wenn die Ausbildung durch einen freiwilligen Wehrdienst nach § 58b des Soldatengesetzes, einen Freiwilligendienst nach dem Bundesfreiwilligendienstgesetz oder dem Jugendfreiwilligendienstegesetz oder einen vergleichbaren anerkannten Freiwilligendienst oder durch eine Tätigkeit als Entwicklungshelfer im Sinne des § 1 Absatz 1 des Entwicklungshelfer-Gesetzes unterbrochen oder verzögert worden ist. Die Dauer der weiteren Berücksichtigungsfähigkeit entspricht der Dauer des abgeleisteten Dienstes, insgesamt höchstens zwölf Monate.
 
 (3) Angehörige beihilfeberechtigter Waisen sind nicht berücksichtigungsfähig.
 
@@ -326,7 +362,7 @@ ein Auslandszuschlag nach § 53 Absatz 4 Nummer 2 und 2a des Bundesbesoldungsges
 (1) Die Beihilfeberechtigung aus einem Dienstverhältnis schließt
 
 1.  
-eine Beihilfeberechtigung aufgrund eines Versorgungsanspruchs sowie
+eine Beihilfeberechtigung auf Grund eines Versorgungsanspruchs sowie
 
 2.  
 die Berücksichtigungsfähigkeit nach § 4
@@ -335,17 +371,25 @@ aus.
 
 (2) Die Beihilfeberechtigung auf Grund eines Versorgungsbezugs schließt die Beihilfeberechtigung auf Grund früherer Versorgungsansprüche sowie als berücksichtigungsfähige Person aus. Satz 1 gilt nicht, wenn der frühere Versorgungsanspruch aus einem eigenen Dienstverhältnis folgt.
 
-(3) Die Beihilfeberechtigung aufgrund privatrechtlicher Rechtsbeziehungen nach Regelungen, die dieser Verordnung im Wesentlichen vergleichbar sind, geht
+(3) Die Beihilfeberechtigung auf Grund privatrechtlicher Rechtsbeziehungen nach Regelungen, die dieser Verordnung im Wesentlichen vergleichbar sind, geht
 
 1.  
-der Beihilfeberechtigung aufgrund eines Versorgungsanspruchs und
+der Beihilfeberechtigung auf Grund eines Versorgungsanspruchs und
 
 2.  
 der Berücksichtigungsfähigkeit nach § 4
 
 vor. Keine im Wesentlichen vergleichbare Regelung stellt der bei teilzeitbeschäftigten Arbeitnehmerinnen und Arbeitnehmern zu quotelnde Beihilfeanspruch dar.  
 
-(4) Ein Kind wird bei der beihilfeberechtigten Person berücksichtigt, die den Familienzuschlag für das Kind erhält. Beihilfeberechtigt im Sinne von Satz 1 sind auch Personen, die einen Anspruch auf Beihilfe haben, der in seinem Umfang dem Anspruch nach dieser Verordnung im Wesentlichen vergleichbar ist, unabhängig von der jeweiligen Anspruchsgrundlage. Familienzuschlag für das Kind im Sinne von Satz 1 sind die Leistungen nach den §§ 39, 40 und 53 des Bundesbesoldungsgesetzes oder vergleichbare Leistungen, die im Hinblick auf das Kind gewährt werden. Die Sätze 1 und 2 gelten nicht für Personen, die Anspruch auf Heilfürsorge oder auf truppenärztliche Versorgung haben.
+(4) Absatz 3 ist nicht anzuwenden bei privat krankenversicherten Versorgungsempfängerinnen und Versorgungsempfängern, die
+
+1.  
+eine Teilzeitbeschäftigung als Tarifbeschäftigte im öffentlichen Dienst ausüben und
+
+2.  
+auf Grund ihres dienstrechtlichen Status weder einen Beitragszuschuss nach § 257 des Fünften Buches Sozialgesetzbuch erhalten noch nach § 5 des Fünften Buches Sozialgesetzbuch versicherungspflichtig sind.
+
+(5) Ein Kind wird bei der beihilfeberechtigten Person berücksichtigt, die den Familienzuschlag für das Kind erhält. Beihilfeberechtigt im Sinne von Satz 1 sind auch Personen, die einen Anspruch auf Beihilfe haben, der in seinem Umfang dem Anspruch nach dieser Verordnung im Wesentlichen vergleichbar ist, unabhängig von der jeweiligen Anspruchsgrundlage. Familienzuschlag für das Kind im Sinne von Satz 1 sind die Leistungen nach den §§ 39, 40 und 53 des Bundesbesoldungsgesetzes oder vergleichbare Leistungen, die im Hinblick auf das Kind gewährt werden. Die Sätze 1 und 2 gelten nicht für Personen, die Anspruch auf Heilfürsorge oder auf truppenärztliche Versorgung haben.
 
 ### § 6 Beihilfefähigkeit von Aufwendungen
 
@@ -353,13 +397,13 @@ vor. Keine im Wesentlichen vergleichbare Regelung stellt der bei teilzeitbeschä
 
 (2) Die Notwendigkeit von Aufwendungen für Untersuchungen und Behandlungen setzt grundsätzlich voraus, dass diese nach einer wissenschaftlich anerkannten Methode vorgenommen werden. Als nicht notwendig gelten in der Regel Untersuchungen und Behandlungen, soweit sie in der Anlage 1 ausgeschlossen werden.
 
-(3) Wirtschaftlich angemessen sind grundsätzlich Aufwendungen für ärztliche, zahnärztliche und psychotherapeutische Leistungen, wenn sie dem Gebührenrahmen der Gebührenordnungen für Ärzte, Zahnärzte sowie für Psychologische Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten entsprechen. Als nicht wirtschaftlich angemessen gelten Aufwendungen aufgrund einer Vereinbarung nach § 2 Abs. 2 der Gebührenordnung für Ärzte, nach § 2 Abs. 3 der Gebührenordnung für Zahnärzte oder nach den Sätzen 2 bis 4 der allgemeinen Bestimmungen des Abschnitts G der Anlage zur Gebührenordnung für Zahnärzte. Wirtschaftlich angemessen sind auch Leistungen, die auf Grund von Vereinbarungen gesetzlicher Krankenkassen nach dem Fünften Buch Sozialgesetzbuch oder auf Grund von Verträgen von Unternehmen der privaten Krankenversicherung mit Leistungserbringerinnen oder Leistungserbringern erbracht worden sind, wenn dadurch Kosten eingespart werden. Aufwendungen für Leistungen von Heilpraktikerinnen oder Heilpraktikern sind wirtschaftlich angemessen, wenn sie die Höchstbeträge nach Anlage 2 nicht übersteigen.
+(3) Aufwendungen für ärztliche, zahnärztliche und psychotherapeutische Leistungen sind wirtschaftlich angemessen, wenn sie sich innerhalb des in der einschlägigen Gebührenordnung vorgesehenen Gebührenrahmens halten. Als nicht wirtschaftlich angemessen gelten Aufwendungen auf Grund einer Vereinbarung nach § 2 der Gebührenordnung für Ärzte, nach § 2 der Gebührenordnung für Zahnärzte oder nach den Sätzen 2 bis 4 der allgemeinen Bestimmungen des Abschnitts G der Anlage 1 zur Gebührenordnung für Zahnärzte, soweit sie die gesetzlichen Gebühren übersteigen. Wirtschaftlich angemessen sind auch Leistungen, die auf Grund von Vereinbarungen oder Verträgen zwischen Leistungserbringerinnen oder Leistungserbringern und gesetzlichen Krankenkassen nach dem Fünften Buch Sozialgesetzbuch, Unternehmen der privaten Krankenversicherung oder Beihilfeträgern erbracht worden sind, wenn dadurch Kosten eingespart werden. Aufwendungen für Leistungen von Heilpraktikerinnen oder Heilpraktikern sind wirtschaftlich angemessen, wenn sie die Höchstbeträge nach Anlage 2 nicht übersteigen.
 
 (4) Für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, gelten unter Berücksichtigung der besonderen Verhältnisse im Ausland die ortsüblichen Gebühren als wirtschaftlich angemessen. Gelten Höchstbeträge nach Anlage 11, kann in entsprechender Anwendung des § 55 des Bundesbesoldungsgesetzes der für den Dienstort jeweils geltende Kaufkraftausgleich hinzutreten.
 
-(5) In Einzelfällen kann das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium der Finanzen die einmalige Beteiligung des Bundes als Beihilfeträger an allgemeinen, nicht individualisierbaren Maßnahmen erklären. Hierfür zu leistende Zahlungen und Erstattungen kann das Bundesministerium des Innern auf die Einrichtungen oder Stellen des Bundes, die Beihilfe nach dieser Verordnung gewähren, aufteilen. Auf Anforderung des Bundesministeriums des Innern leisten die Einrichtungen oder Stellen entsprechende Abschläge und Zahlungen. Die Anteile bemessen sich nach dem Verhältnis der tatsächlichen Beihilfeausgaben im Jahr 2009; jährliche Ausgaben unter 1 000 Euro bleiben außer Betracht. Auf Verlangen von mindestens fünf obersten Bundesbehörden oder Behörden der mittelbaren Bundesverwaltung setzt das Bundesministerium des Innern die Anteile entsprechend dem Verhältnis der tatsächlichen Beihilfeausgaben im Vorjahr für zukünftige Maßnahmen neu fest.
+(5) In Ausnahmefällen kann das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Finanzen die einmalige Beteiligung des Bundes als Beihilfeträger an allgemeinen, nicht individualisierbaren Maßnahmen erklären. Hierfür zu leistende Zahlungen und Erstattungen kann das Bundesministerium des Innern, für Bau und Heimat auf die Einrichtungen oder Stellen des Bundes, die Beihilfe nach dieser Verordnung gewähren, aufteilen. Auf Anforderung des Bundesministeriums des Innern, für Bau und Heimat leisten die Einrichtungen oder Stellen entsprechende Abschläge und Zahlungen. Die Anteile bemessen sich nach dem Verhältnis der tatsächlichen Beihilfeausgaben im Jahr 2009; jährliche Ausgaben unter 1 000 Euro bleiben außer Betracht. Auf Verlangen von mindestens fünf obersten Bundesbehörden oder Behörden der mittelbaren Bundesverwaltung setzt das Bundesministerium des Innern, für Bau und Heimat die Anteile entsprechend dem Verhältnis der tatsächlichen Beihilfeausgaben im Vorjahr für zukünftige Maßnahmen neu fest.
 
-(6) Sofern im Einzelfall die Ablehnung der Beihilfe eine besondere Härte darstellen würde, kann die oberste Dienstbehörde mit Zustimmung des Bundesministeriums des Innern eine Beihilfe zur Milderung der Härte gewähren. Die Entscheidung ist besonders zu begründen und zu dokumentieren.
+(6) Sofern im Einzelfall die Ablehnung der Beihilfe eine besondere Härte darstellen würde, kann die oberste Dienstbehörde mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat eine Beihilfe zur Milderung der Härte gewähren. Die Entscheidung ist besonders zu begründen und zu dokumentieren.
 
 ### § 7 Verweisungen auf das Sozialgesetzbuch
 
@@ -394,13 +438,27 @@ für Untersuchungen und Behandlungen durch die Ehegattin, den Ehegatten, die Leb
 
 (3) Nicht beihilfefähig sind gesetzlich vorgesehene Zuzahlungen und Kostenanteile, Selbstbehalte nach § 53 des Fünften Buches Sozialgesetzbuch sowie Aufwendungen für von der Krankenversorgung ausgeschlossene Arznei-, Hilfs- und Heilmittel sowie Abschläge für Verwaltungskosten und entgangene Apotheker- und Herstellerrabatte bei der Kostenerstattung nach § 13 Abs. 2 des Fünften Buches Sozialgesetzbuch.
 
-(4) Nicht beihilfefähig sind erbrachte Sach- und Dienstleistungen nach § 2 Abs. 2 des Fünften Buches Sozialgesetzbuch. Als Sach- und Dienstleistung nach § 2 Abs. 2 des Fünften Buches Sozialgesetzbuch gilt auch die Kostenerstattung bei kieferorthopädischer Behandlung und bei Pflichtversicherten nach § 5 des Fünften Buches Sozialgesetzbuch einschließlich der familienversicherten Personen nach § 10 des Fünften Buches Sozialgesetzbuch auch die Kostenerstattung nach § 13 des Fünften Buches Sozialgesetzbuch. Bei Personen, denen ein Zuschuss oder Arbeitgeberanteil zum Krankenversicherungsbeitrag gewährt wird oder die einen Anspruch auf beitragsfreie Krankenfürsorge haben, gelten als Sach- und Dienstleistungen auch
+(4) Nicht beihilfefähig sind erbrachte Leistungen nach
+
+1.  
+dem Dritten Kapitel des Fünften Buches Sozialgesetzbuch,
+
+2.  
+dem Ersten Abschnitt des Zweiten Kapitels des Sechsten Buches Sozialgesetzbuch,
+
+3.  
+dem Ersten, Zweiten, Vierten und Fünften Unterabschnitt des Ersten Abschnitts des Dritten Kapitels des Siebten Buches Sozialgesetzbuch,
+
+4.  
+Teil 1 Kapitel 9 und 11 des Neunten Buches Sozialgesetzbuch.
+
+Satz 1 Nummer 1 gilt nicht bei Kostenerstattung nach § 13 des Fünften Buches Sozialgesetzbuch für freiwillige Mitglieder der gesetzlichen Krankenversicherung einschließlich der familienversicherten Personen nach § 10 des Fünften Buches Sozialgesetzbuch. Bei Personen, denen ein Zuschuss oder Arbeitgeberanteil zum Krankenversicherungsbeitrag gewährt wird oder die einen Anspruch auf beitragsfreie Krankenfürsorge haben, gelten als Leistungen auch
 
 1.  
 die über die Festbeträge hinausgehenden Beträge für Arznei-, Verband- und Hilfsmittel nach dem Fünften Buch Sozialgesetzbuch und
 
 2.  
-Aufwendungen, die darauf beruhen, dass Versicherte die ihnen zustehende Sach- und Dienstleistung nicht in Anspruch genommen haben; dies gilt auch, wenn Leistungserbringerinnen und Leistungserbringer in anderen Mitgliedstaaten der Europäischen Union in Anspruch genommen werden; ausgenommen sind Aufwendungen für Wahlleistungen im Krankenhaus.
+Aufwendungen, die darauf beruhen, dass Versicherte die ihnen zustehenden Leistungen nicht in Anspruch genommen haben; dies gilt auch, wenn Leistungserbringerinnen und Leistungserbringer in anderen Mitgliedstaaten der Europäischen Union in Anspruch genommen werden; ausgenommen sind Aufwendungen für Wahlleistungen im Krankenhaus.
 
 Satz 3 gilt nicht für
 
@@ -415,30 +473,30 @@ berücksichtigungsfähige Kinder, die von der Pflichtversicherung in der gesetzl
 
 (5) Die Absätze 3 und 4 gelten nicht für Leistungen nach dem Zwölften Buch Sozialgesetzbuch, wenn Ansprüche auf den Sozialhilfeträger übergeleitet worden sind.
 
-### § 9 Anrechnung von Erstattungen und Sachleistungen
+### § 9 Anrechnung von Leistungen
 
-(1) Soweit Aufwendungen aufgrund von Rechtsvorschriften oder arbeitsvertraglichen Vereinbarungen von dritter Seite getragen oder erstattet werden, sind sie vor Berechnung der Beihilfe von den beihilfefähigen Aufwendungen abzuziehen. Dies gilt nicht für Erstattungen und Sachleistungen
+(1) Soweit Aufwendungen auf Grund von Rechtsvorschriften oder arbeitsvertraglichen Vereinbarungen von dritter Seite getragen oder erstattet werden, sind sie vor Berechnung der Beihilfe von den beihilfefähigen Aufwendungen abzuziehen. Dies gilt nicht für Leistungen
 
 1.  
-an beihilfeberechtigte Personen, die dem gemeinsamen Krankenfürsorgesystem der Europäischen Gemeinschaft angehören, oder
+an beihilfeberechtigte Personen, die dem Gemeinsamen Krankheitsfürsorgesystem der Europäischen Organe angehören, oder
 
 2.  
 der gesetzlichen Krankenversicherung aus einem freiwilligen Versicherungsverhältnis.
 
 Unterhaltsansprüche von beihilfeberechtigten Personen gelten nicht als Ansprüche auf Kostenerstattung.
 
-(2) Von Aufwendungen für Zahnersatz, Zahnkronen und Suprakonstruktionen ist der höchstmögliche Festzuschuss der gesetzlichen Krankenversicherung abzuziehen.
+(2) Von Aufwendungen für Zahnersatz, Zahnkronen und Suprakonstruktionen ist der abstrakt höchstmögliche Festzuschuss der gesetzlichen Krankenversicherung abzuziehen.
 
-(3) Sind Erstattungs- oder Sachleistungsansprüche gegenüber Dritten nicht geltend gemacht worden, sind sie gleichwohl bei der Beihilfefestsetzung zu berücksichtigen. Hierbei sind Aufwendungen für Arznei- und Verbandmittel in voller Höhe anzusetzen. Andere Aufwendungen, deren fiktiver Leistungsanteil nicht nachgewiesen wird oder ermittelt werden kann, sind in Höhe von 50 Prozent der entstandenen Aufwendungen als zustehende Erstattungs- oder Sachleistungen anzusetzen. Die Sätze 1 bis 3 gelten nicht für
+(3) Sind Leistungsansprüche gegenüber Dritten nicht geltend gemacht worden, sind sie gleichwohl bei der Beihilfefestsetzung zu berücksichtigen. Hierbei sind Aufwendungen für Arznei- und Verbandmittel in voller Höhe anzusetzen. Andere Aufwendungen, bei denen der fiktive Leistungsanspruch gegenüber Dritten nicht ermittelt werden kann, sind um 50 Prozent zu kürzen. Die Sätze 1 bis 3 gelten nicht für
 
 1.  
-Erstattungen und Sachleistungen nach § 10 Abs. 2, 4 und 6 des Bundesversorgungsgesetzes oder nach Vorschriften, die hierauf Bezug nehmen,
+Leistungsansprüche nach § 10 Abs. 2, 4 und 6 des Bundesversorgungsgesetzes oder nach Vorschriften, die hierauf Bezug nehmen,
 
 2.  
 berücksichtigungsfähige Kinder, die von der Pflichtversicherung in der gesetzlichen Kranken- oder Rentenversicherung einer anderen Person erfasst werden, und
 
 3.  
-Erstattungen und Sachleistungen der gesetzlichen Krankenversicherung aus einem freiwilligen Versicherungsverhältnis.
+Leistungsansprüche aus einem freiwilligen Versicherungsverhältnis in der gesetzlichen Krankenversicherung.
 
 (4) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, kann von der Anrechnung eines Leistungsanteils nach Absatz 3 Satz 1 bis 3 abgesehen werden, wenn die zustehenden Leistungen wegen Gefahr für Leib und Leben nicht in Anspruch genommen werden konnten oder wegen der besonderen Verhältnisse im Ausland tatsächlich nicht zu erlangen waren.
 
@@ -459,7 +517,7 @@ ein Konto einer oder eines durch Erbschein oder durch eine andere öffentliche o
 
 ### § 11 Aufwendungen im Ausland
 
-(1) Aufwendungen für Leistungen in einem Mitgliedstaat der Europäischen Union sind wie im Inland entstandene Aufwendungen zu behandeln. § 6 Abs. 3 ist in diesen Fällen nicht anzuwenden. Aufwendungen für Leistungen außerhalb der Europäischen Union sind beihilfefähig bis zu der Höhe, in der sie im Inland entstanden und beihilfefähig wären.
+(1) Aufwendungen für Leistungen in einem Mitgliedstaat der Europäischen Union sind wie im Inland entstandene Aufwendungen zu behandeln. § 6 Absatz 3 Satz 1 bis 3 ist in diesen Fällen nicht anzuwenden. Aufwendungen für Leistungen außerhalb der Europäischen Union sind beihilfefähig bis zu der Höhe, in der sie im Inland entstanden und beihilfefähig wären.
 
 (2) Außerhalb der Europäischen Union entstandene Aufwendungen nach Absatz 1 sind ohne Beschränkung auf die Kosten, die im Inland entstanden wären, beihilfefähig, wenn
 
@@ -478,7 +536,7 @@ beihilfeberechtigte oder berücksichtigungsfähige Personen zur Notfallversorgun
 5.  
 die Beihilfefähigkeit vor Antritt der Reise anerkannt worden ist.
 
-Eine Anerkennung nach Satz 1 Nummer 5 kommt ausnahmsweise in Betracht, wenn ein von der Festsetzungsstelle beauftragtes ärztliches Gutachten nachweist, dass die Behandlung außerhalb der Europäischen Union zwingend notwendig ist, weil hierdurch eine wesentlich größere Erfolgsaussicht zu erwarten oder eine Behandlung innerhalb der Europäischen Union nicht möglich ist; in begründeten Ausnahmefällen kann die Anerkennung nachträglich erfolgen.
+Eine Anerkennung nach Satz 1 Nummer 5 kommt ausnahmsweise in Betracht, wenn ein von der Festsetzungsstelle beauftragtes ärztliches Gutachten nachweist, dass die Behandlung außerhalb der Europäischen Union zwingend notwendig ist, weil hierdurch eine wesentlich größere Erfolgsaussicht zu erwarten oder eine Behandlung innerhalb der Europäischen Union nicht möglich ist; in Ausnahmefällen kann die Anerkennung nachträglich erfolgen.
 
 (3) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind Aufwendungen, die während eines nicht dienstlich bedingten Aufenthaltes außerhalb des Gastlandes und außerhalb der Europäischen Union im Ausland entstehen, nur insoweit und bis zu der Höhe beihilfefähig, wie sie im Gastland oder im Inland entstanden und beihilfefähig wären. Dies gilt nicht in den Fällen des § 31 Abs. 5.
 
@@ -504,9 +562,9 @@ Aufwendungen für Leistungen von Heilpraktikerinnen und Heilpraktikern sind nach
 
 Aufwendungen für ambulante zahnärztliche und kieferorthopädische Untersuchungen und Behandlungen sind nach Maßgabe des § 6 grundsätzlich beihilfefähig. Für Zahnersatz und implantologische Leistungen kann der Festsetzungsstelle vor Aufnahme der Behandlung ein Heil- und Kostenplan vorgelegt werden. Die Kosten des Heil- und Kostenplanes gehören zu den beihilfefähigen Aufwendungen. Aufwendungen für Arbeitsunfähigkeitsbescheinigungen für den Dienstherrn der beihilfeberechtigten Person trägt die Festsetzungsstelle.
 
-### § 15 Implantologische, kieferorthopädische, funktionsanalytische und funktionstherapeutische Leistungen
+### § 15 Implantologische Leistungen
 
-(1) Aufwendungen für implantologische Leistungen nach Abschnitt K der Anlage zur Gebührenordnung für Zahnärzte sind beihilfefähig bei
+(1) Aufwendungen für implantologische Leistungen nach Abschnitt K der Anlage 1 zur Gebührenordnung für Zahnärzte und alle damit in Zusammenhang stehenden weiteren Aufwendungen nach der Anlage zur Gebührenordnung für Ärzte und der Anlage 1 zur Gebührenordnung für Zahnärzte sind beihilfefähig bei
 
 1.  
 größeren Kiefer- oder Gesichtsdefekten, die ihre Ursache haben in
@@ -518,13 +576,13 @@ b)
 Entzündungen des Kiefers,
 
 c)  
-Operationen infolge großer Zysten, zum Beispiel großer folikulärer Zysten oder Keratozysten,
+Operationen infolge großer Zysten,
 
 d)  
 Operationen infolge von Osteopathien, sofern keine Kontraindikation für eine Implantatversorgung vorliegt,
 
 e)  
-angeborenen Fehlbildungen des Kiefers, Lippen-, Kiefer-, Gaumenspalten, ektodermale Dyplasien oder
+angeborenen Fehlbildungen des Kiefers, Lippen-Kiefer-Gaumen-Spalten, ektodermalen Dysplasien oder
 
 f)  
 Unfällen,
@@ -536,24 +594,50 @@ dauerhaft bestehender extremer Xerostomie, insbesondere bei einer Tumorbehandlun
 generalisierter genetischer Nichtanlage von Zähnen,
 
 4.  
-nicht willentlich beeinflussbaren muskulären Fehlfunktionen im Mund- und Gesichtsbereich (zum Beispiel Spastiken) oder
+nicht willentlich beeinflussbaren muskulären Fehlfunktionen im Mund- und Gesichtsbereich oder
 
 5.  
 implantatbasiertem Zahnersatz im zahnlosen Ober- oder Unterkiefer.
 
-Im Fall des Satzes 1 Nummer 5 sind die Aufwendungen für höchstens vier Implantate je Kiefer, einschließlich vorhandener Implantate, zu denen Beihilfen oder vergleichbare Leistungen aus öffentlichen Kassen gewährt wurden, beihilfefähig. Liegt keiner der in Satz 1 Nummer 1 bis 5 genannten Fälle vor, sind die Aufwendungen für höchstens zwei Implantate je Kiefer, einschließlich vorhandener Implantate, zu denen Beihilfen oder vergleichbare Leistungen aus öffentlichen Kassen gewährt wurden, beihilfefähig. Die Aufwendungen, einschließlich der Material- und Laborkosten nach den §§ 4 und 9 der Gebührenordnung für Zahnärzte, sind entsprechend dem Verhältnis der Zahl der nicht beihilfefähigen zur Gesamtzahl der Implantate zu kürzen. Aufwendungen für Suprakonstruktionen sind immer beihilfefähig.
+Im Fall des Satzes 1 Nummer 5 sind die Aufwendungen für höchstens vier Implantate je Kiefer, einschließlich bereits vorhandener Implantate, zu denen Beihilfen oder vergleichbare Leistungen aus öffentlichen Kassen gewährt wurden, beihilfefähig. Maßgebend für die Voraussetzung eines zahnlosen Ober- oder Unterkiefers ist der Zeitpunkt der Fixierung der Prothese. Zahnlos im Sinne der Verordnung ist ein Kiefer ohne Zähne und Zahnfragmente.
 
-(2) Aufwendungen für kieferorthopädische Leistungen sind beihilfefähig, wenn
+(2) Liegt keiner der in Absatz 1 Satz 1 genannten Fälle vor, sind die Aufwendungen für höchstens zwei Implantate je Kiefer, einschließlich bereits vorhandener Implantate, zu denen Beihilfen oder vergleichbare Leistungen aus öffentlichen Kassen gewährt wurden, beihilfefähig. Die Aufwendungen, einschließlich der Material- und Laborkosten nach den §§ 4 und 9 der Gebührenordnung für Zahnärzte, sind entsprechend dem Verhältnis der Zahl der nicht beihilfefähigen Implantate zur Gesamtzahl der Implantate zu kürzen.
+
+(3) Die Aufwendungen für Suprakonstruktionen auf Implantaten sind im Rahmen des § 16 stets beihilfefähig.
+
+### § 15a Kieferorthopädische Leistungen
+
+(1) Aufwendungen für kieferorthopädische Leistungen sind beihilfefähig, wenn
 
 1.  
 bei Behandlungsbeginn das 18. Lebensjahr noch nicht vollendet ist oder
 
 2.  
-bei schweren Kieferanomalien eine kombinierte kieferchirurgische und kieferorthopädische Behandlung erfolgt
+bei schweren Kieferanomalien, insbesondere bei angeborenen Missbildungen des Gesichts oder eines Kiefers, skelettalen Dysgnathien oder verletzungsbedingten Kieferfehlstellungen, eine kombinierte kieferchirurgische und kieferorthopädische Behandlung erfolgt.
 
-und die Festsetzungsstelle den Aufwendungen vor Beginn der Behandlung auf der Grundlage eines vorgelegten Heil- und Kostenplanes zugestimmt hat. Aufwendungen für Leistungen zur Retention sind bis zu zwei Jahre nach Abschluss der auf Grundlage des Heil- und Kostenplanes von der Festsetzungsstelle genehmigten kieferorthopädischen Behandlung beihilfefähig. Die Aufwendungen für den Heil- und Kostenplan nach Satz 1 sind beihilfefähig. Bei einem von der beihilfeberechtigten oder der berücksichtigungsfähigen Person zu vertretenden Abbruch einer kieferorthopädischen Behandlung oder bei einem Wechsel der Kieferorthopädin oder des Kieferorthopäden bleiben nur die Aufwendungen beihilfefähig, die nach dem Heil- und Kostenplan, dem die Festsetzungsstelle zugestimmt hatte, noch nicht abgerechnet sind.
+Voraussetzung ist, dass die Festsetzungsstelle den Aufwendungen vor Beginn der Behandlung auf der Grundlage eines vorgelegten Heil- und Kostenplanes zugestimmt hat. Die Aufwendungen für die Erstellung des Heil- und Kostenplanes nach Satz 2 sind beihilfefähig.
 
-(3) Aufwendungen für kieferorthopädische Leistungen vor Beginn der zweiten Phase des Zahnwechsels sind nur beihilfefähig bei
+(2) Für eine kieferorthopädische Behandlung Erwachsener ist abweichend von Absatz 1 Satz 1 Nummer 1 eine Beihilfe zu Aufwendungen zu bewilligen, wenn durch ein Gutachten bestätigt wird, dass
+
+1.  
+die Behandlung ausschließlich medizinisch indiziert ist und ästhetische Gründe ausgeschlossen werden können,
+
+2.  
+keine Behandlungsalternative vorhanden ist,
+
+3.  
+erhebliche Folgeprobleme bestehen, insbesondere bei einer craniomandibulären Dysfunktion, und
+
+4.  
+eine sekundäre Anomalie vorliegt, die erst im Erwachsenenalter erworben wurde.
+
+(3) Bei einem Wechsel der Kieferorthopädin oder des Kieferorthopäden, den die beihilfeberechtigte oder die berücksichtigungsfähige Person zu vertreten hat, bleiben nur die Aufwendungen beihilfefähig, die nach dem Heil- und Kostenplan, dem die Festsetzungsstelle zugestimmt hatte, noch nicht abgerechnet sind.
+
+(4) Ist eine Weiterbehandlung über den Regelfall eines vierjährigen Zeitraums hinaus medizinisch notwendig, muss der Festsetzungsstelle vor Ablauf der laufenden Behandlung ein neuer Heil- und Kostenplan vorgelegt werden. Pro Jahr der Weiterbehandlung werden 25 Prozent der Aufwendungen für die kieferorthopädischen Leistungen nach den Nummern 6030 bis 6080 der Anlage 1 zur Gebührenordnung für Zahnärzte als beihilfefähig anerkannt. Aufwendungen für eine Behandlung, die vor Vollendung des 18. Lebensjahres begonnen wurde, sind auch bei einer medizinisch notwendigen Weiterbehandlung nach Vollendung des 18. Lebensjahres beihilfefähig.
+
+(5) Aufwendungen für Leistungen zur Retention sind bis zu zwei Jahre nach Abschluss der kieferorthopädischen Behandlung beihilfefähig, die auf Grundlage des Heil- und Kostenplanes nach Absatz 1 Satz 2 von der Festsetzungsstelle genehmigt wurde.
+
+(6) Aufwendungen für kieferorthopädische Leistungen vor Beginn der zweiten Phase des Zahnwechsels sind nur beihilfefähig bei
 
 1.  
 Beseitigung von Habits bei einem habituellen Distalbiss bei distal sagittaler Stufe mit einer Frontzahnstufe von mehr als 9 Millimetern,
@@ -586,7 +670,7 @@ bei Platzmangel zum Schaffen von Zahnlücken von mehr als 3 und höchstens 4 Mil
 früher Behandlung
 
 a)  
-einer Lippen-Kiefer-Gaumen-Spalte oder anderen kraniofazialen Anomalien,
+einer Lippen-Kiefer-Gaumen-Spalte oder anderer kraniofazialer Anomalien,
 
 b)  
 eines skelettal offenen Bisses bei vertikaler Stufe von mehr als 4 Millimetern,
@@ -597,30 +681,34 @@ einer Progenie bei mesial sagittaler Stufe,
 d)  
 verletzungsbedingter Kieferfehlstellungen.
 
-Die Frühbehandlung nach Satz 1 Nummer 4 soll innerhalb von sechs Kalenderquartalen abgeschlossen und nicht vor dem vierten Lebensjahr begonnen werden; eine reguläre kieferorthopädische Behandlung kann sich anschließen, wenn die zweite Phase des Zahnwechsels vorliegt. Aufwendungen für den Einsatz individuell gefertigter Behandlungsgeräte sind neben den Aufwendungen für eine Behandlung nach Satz 1 Nummer 4 und 5 gesondert beihilfefähig.
+Die Frühbehandlung nach Satz 1 Nummer 4 soll nicht vor Vollendung des dritten Lebensjahres begonnen und innerhalb von sechs Kalenderquartalen abgeschlossen werden; eine reguläre kieferorthopädische Behandlung kann sich anschließen, wenn die zweite Phase des Zahnwechsels vorliegt. Aufwendungen für den Einsatz individuell gefertigter Behandlungsgeräte sind neben den Aufwendungen für eine Behandlung nach Satz 1 Nummer 4 oder Nummer 5 gesondert beihilfefähig.
 
-(4) Aufwendungen für funktionsanalytische und funktionstherapeutische Leistungen sind nur beihilfefähig bei Vorliegen einer der folgenden Indikationen:
+### § 15b Funktionsanalytische und funktionstherapeutische Leistungen
+
+(1) Aufwendungen für funktionsanalytische und funktionstherapeutische Leistungen sind nur beihilfefähig, wenn eine der folgenden Indikationen vorliegt:
 
 1.  
-Kiefergelenk- und Muskelerkrankungen,
+Kiefer- und Muskelerkrankungen,
 
 2.  
 Zahnfleischerkrankungen im Rahmen einer systematischen Parodontalbehandlung,
 
 3.  
-Behandlungen mit Aufbissbehelfen mit adjustierten Oberflächen nach den Nummern 7010 und 7020 des Gebührenverzeichnisses der Gebührenordnung für Zahnärzte,
+Behandlungen mit Aufbissbehelfen mit adjustierten Oberflächen nach den Nummern 7010 und 7020 der Anlage 1 zur Gebührenordnung für Zahnärzte,
 
 4.  
 umfangreiche kieferorthopädische Maßnahmen einschließlich kieferorthopädisch-kieferchirurgischer Operationen oder
 
 5.  
-umfangreiche Gebiss-Sanierungen.
+umfangreiche Gebisssanierungen.
 
-Eine Gebisssanierung ist umfangreich, wenn in einem Kiefer mindestens acht Seitenzähne mit Zahnersatz oder Inlays versorgt werden müssen, wobei fehlende Zähne sanierungsbedürftigen gleichgestellt werden, und die richtige Schlussbissstellung nicht mehr auf andere Weise herstellbar ist. Die beihilfeberechtigte Person hat der Festsetzungsstelle eine Kopie der zahnärztlichen Dokumentation nach Nummer 8000 der Anlage zur Gebührenordnung für Zahnärzte vorzulegen.
+Eine Gebisssanierung ist umfangreich, wenn in einem Kiefer mindestens acht Seitenzähne mit Zahnersatz oder Inlays versorgt werden müssen, wobei fehlende Zähne sanierungsbedürftigen gleichstehen, und wenn die richtige Schlussbissstellung nicht mehr auf andere Weise herstellbar ist.
+
+(2) Die beihilfeberechtigte Person hat der Festsetzungsstelle eine Kopie der zahnärztlichen Dokumentation nach Nummer 8000 der Anlage 1 zur Gebührenordnung für Zahnärzte vorzulegen.
 
 ### § 16 Auslagen, Material- und Laborkosten
 
-(1) Gesondert berechenbare Aufwendungen für Auslagen, Material- und Laborkosten nach § 4 Abs. 3 und § 9 der Gebührenordnung für Zahnärzte, die bei einer zahnärztlichen Behandlung nach den Nummern 2130 bis 2320, 5000 bis 5340, 7080 bis 7100 und 9000 bis 9170 der Anlage zur Gebührenordnung für Zahnärzte entstanden sind, sind zu 40 Prozent beihilfefähig. Dies gilt nicht bei Indikationen nach § 15 Absatz 1 Satz 1 Nummer 1 bis 4.
+(1) Gesondert berechenbare Aufwendungen für Auslagen, Material- und Laborkosten nach § 4 Abs. 3 und § 9 der Gebührenordnung für Zahnärzte, die bei einer zahnärztlichen Behandlung nach den Nummern 2130 bis 2320, 5000 bis 5340, 7080 bis 7100 und 9000 bis 9170 der Anlage 1 zur Gebührenordnung für Zahnärzte entstanden sind, sind zu 40 Prozent beihilfefähig. Dies gilt nicht bei Indikationen nach § 15 Absatz 1 Satz 1 Nummer 1 bis 4.
 
 (2) Wenn der auf die in Absatz 1 genannten Aufwendungen entfallende Anteil nicht nachgewiesen ist, sind 40 Prozent des Gesamtrechnungsbetrages anzusetzen.
 
@@ -644,13 +732,26 @@ implantologische Leistungen.
 
 Aufwendungen nach Satz 1 sind ausnahmsweise beihilfefähig, wenn sie auf einem Unfall während des Vorbereitungsdienstes beruhen oder wenn die beihilfeberechtigte Person zuvor mindestens drei Jahre ununterbrochen im öffentlichen Dienst beschäftigt gewesen ist.
 
-### § 18 Psychotherapie, psychosomatische Grundversorgung
+### § 18 Psychotherapie, psychosomatische Grundversorgung, psychotherapeutische Akutbehandlung
 
-(1) Aufwendungen für Leistungen der Psychotherapie in den Behandlungsformen psychoanalytisch begründete Verfahren und Verhaltenstherapie sowie für Leistungen der psychosomatischen Grundversorgung sind nach Maßgabe der Absätze 2 und 3 sowie der §§ 18a bis 21 beihilfefähig.
+(1) Aufwendungen für Leistungen der Psychotherapie in den Behandlungsformen psychoanalytisch begründete Verfahren und Verhaltenstherapie sowie für Leistungen der psychosomatischen Grundversorgung sind nach Maßgabe der Absätze 3 und 4 sowie der §§ 18a bis 21 beihilfefähig.
 
-(2) Vor Behandlung durch Psychologische Psychotherapeutinnen und Psychotherapeuten oder durch Kinder- und Jugendlichenpsychotherapeutinnen und -therapeuten muss eine somatische Abklärung spätestens nach den probatorischen Sitzungen oder vor der Einleitung des Begutachtungsverfahrens erfolgen. Die Beihilfefähigkeit setzt voraus, dass die somatische Abklärung durch eine Ärztin oder einen Arzt in einem schriftlichen Konsiliarbericht bestätigt wird.
+(2) Aufwendungen für eine psychotherapeutische Akutbehandlung sind bis zur Entscheidung über die Durchführung einer Therapie nach § 19 oder § 20 beihilfefähig, wenn
 
-(3) Nicht beihilfefähig sind Aufwendungen für
+1.  
+ein akuter Behandlungsbedarf in einer probatorischen Sitzung festgestellt wird,
+
+2.  
+ein Gutachterverfahren bei der Festsetzungsstelle beantragt worden ist und
+
+3.  
+die Akutbehandlung als Einzeltherapie, gegebenenfalls auch unter Einbeziehung von Bezugspersonen, in Einheiten von mindestens 25 Minuten je Krankheitsfall durchgeführt wird.
+
+Im Fall eines positiven Gutachtens wird die Zahl der durchgeführten Akutbehandlungen auf das Kontingent der Behandlungen nach den §§ 19 und 20 angerechnet.
+
+(3) Vor Behandlung durch Psychologische Psychotherapeutinnen und Psychotherapeuten oder durch Kinder- und Jugendlichenpsychotherapeutinnen und -therapeuten muss eine somatische Abklärung spätestens nach den probatorischen Sitzungen oder vor der Einleitung des Begutachtungsverfahrens erfolgen. Die Beihilfefähigkeit setzt voraus, dass die somatische Abklärung durch eine Ärztin oder einen Arzt in einem schriftlichen oder elektronischen Konsiliarbericht bestätigt wird.
+
+(4) Nicht beihilfefähig sind Aufwendungen für
 
 1.  
 gleichzeitige Behandlungen nach den §§ 19 bis 21,
@@ -731,7 +832,7 @@ tiefenpsychologisch fundierte Psychotherapie nach Nummer 861 der Anlage zur Geb�
 2.  
 Verhaltenstherapie nach Nummer 870 der Anlage zur Gebührenordnung für Ärzte.
 
-Bei telekommunikationsgestützter Therapie sind bis zu 15 Sitzungen beihilfefähig. Wird von einer tiefenpsychologisch fundierten Psychotherapie oder Verhaltenstherapie in Gruppen oder von einer analytischen Psychotherapie als Einzel- oder Gruppentherapie zu einer telekommunikationsgestützten Therapie gewechselt, sind die Aufwendungen für die telekommunikationsgestützte Therapie beihilfefähig, wenn die Festsetzungsstelle die Beihilfefähigkeit nach Einholung eines Gutachtens zur Notwendigkeit des Wechsels anerkannt hat. Aufwendungen für Leistungen nach Satz 1 sind nur beihilfefähig, wenn diese im Rahmen einer im Inland begonnenen psychotherapeutischen Behandlung zur weiteren Stabilisierung des erreichten Behandlungserfolgs notwendig sind.
+Bei telekommunikationsgestützter Therapie sind bis zu 15 Sitzungen beihilfefähig. Aufwendungen für Telekommunikationsdienstleistungen sind nicht beihilfefähig. Wird von einer tiefenpsychologisch fundierten Psychotherapie oder Verhaltenstherapie in Gruppen oder von einer analytischen Psychotherapie als Einzel- oder Gruppentherapie zu einer telekommunikationsgestützten Therapie gewechselt, sind die Aufwendungen für die telekommunikationsgestützte Therapie beihilfefähig, wenn die Festsetzungsstelle die Beihilfefähigkeit nach Einholung eines Gutachtens zur Notwendigkeit des Wechsels anerkannt hat. Aufwendungen für Leistungen nach Satz 1 sind nur beihilfefähig, wenn diese im Rahmen einer im Inland begonnenen psychotherapeutischen Behandlung zur weiteren Stabilisierung des erreichten Behandlungserfolgs notwendig sind.
 
 (6) Aufwendungen für eine Eye-Movement-Desensitization-and-Reprocessing-Behandlung sind nur bei Personen, die das 18. Lebensjahr vollendet haben, mit posttraumatischen Belastungsstörungen im Rahmen eines umfassenden Behandlungskonzepts der Verhaltenstherapie, der tiefenpsychologisch fundierten Psychotherapie oder analytischen Psychotherapie beihilfefähig.
 
@@ -740,7 +841,7 @@ Bei telekommunikationsgestützter Therapie sind bis zu 15 Sitzungen beihilfefäh
 (1) Aufwendungen für psychoanalytisch begründete Verfahren mit ihren beiden Behandlungsformen, der tiefenpsychologisch fundierten Psychotherapie und der analytischen Psychotherapie (Nummern 860 bis 865 der Anlage zur Gebührenordnung für Ärzte), sind je Krankheitsfall in folgendem Umfang beihilfefähig:
 
 1.  
-tiefenpsychologisch fundierte Psychotherapie von Personen, die das 18. Lebensjahr vollendet haben:
+tiefenpsychologisch fundierte Psychotherapie von Personen, die das 21. Lebensjahr vollendet haben:
 
 Einzel-
 behandlung
@@ -750,28 +851,20 @@ behandlung
 
 im Regelfall
 
-50 Sitzungen
+60 Sitzungen
 
+60 Sitzungen
+
+in Ausnahmefällen
+
+weitere
 40 Sitzungen
 
-in besonderen Fällen
-
-30 weitere Sitzungen
-
-20 weitere Sitzungen
-
-wenn das Behandlungsziel in den genannten Sitzungen noch nicht erreicht worden ist
-
-höchstens
-20
-weitere Sitzungen
-
-höchstens
-20
-weitere Sitzungen
+weitere
+20 Sitzungen
 
 2.  
-analytische Psychotherapie von Personen, die das 18. Lebensjahr vollendet haben:
+analytische Psychotherapie von Personen, die das 21. Lebensjahr vollendet haben:
 
 Einzel-
 behandlung
@@ -780,39 +873,21 @@ Gruppen-
 behandlung
 
 im Regelfall
+
+160 Sitzungen
 
 80 Sitzungen
 
-40 Sitzungen
+in Ausnahmefällen
 
-bei erneuter eingehender Begründung der Therapeutin/des Therapeuten
+weitere
+140 Sitzungen
 
-80 weitere Sitzungen
-
-40 weitere Sitzungen
-
-in besonderen Fällen
-
-nochmals
-80
-weitere Sitzungen
-
-nochmals
-40
-weitere Sitzungen
-
-wenn das Behandlungsziel in den genannten Sitzungen noch nicht erreicht worden ist
-
-höchstens
-60
-weitere Sitzungen
-
-höchstens
-30
-weitere Sitzungen
+weitere
+70 Sitzungen
 
 3.  
-tiefenpsychologisch fundierte oder analytische Psychotherapie von Personen, die das 14. Lebensjahr, aber noch nicht das 18. Lebensjahr vollendet haben:
+tiefenpsychologisch fundierte oder analytische Psychotherapie von Personen, die das 14. Lebensjahr, aber noch nicht das 21. Lebensjahr vollendet haben:
 
 Einzel-
 behandlung
@@ -824,25 +899,15 @@ im Regelfall
 
 90 Sitzungen
 
-40 Sitzungen
+60 Sitzungen
 
-bei erneuter eingehender Begründung der Therapeutin/des Therapeuten
+in Ausnahmefällen
 
-50 weitere
-Sitzungen
+weitere
+90 Sitzungen
 
-20 weitere
-Sitzungen
-
-in besonderen Fällen
-
-höchstens
-40
-weitere Sitzungen
-
-höchstens
-30
-weitere Sitzungen
+weitere
+30 Sitzungen
 
 4.  
 tiefenpsychologisch fundierte oder analytische Psychotherapie von Personen, die das 14. Lebensjahr noch nicht vollendet haben:
@@ -857,33 +922,27 @@ im Regelfall
 
 70 Sitzungen
 
-40 Sitzungen
+60 Sitzungen
 
-bei erneuter eingehender Begründung der Therapeutin/des Therapeuten
+in Ausnahmefällen
 
-50 weitere
-Sitzungen
+weitere
+80 Sitzungen
 
-20 weitere
-Sitzungen
+weitere
+30 Sitzungen
 
-in besonderen Fällen
+Bei einer Kombination von Einzel- und Gruppenbehandlung richtet sich die Beihilfefähigkeit der Aufwendungen nach der überwiegend durchgeführten Behandlung. Überwiegt die Einzelbehandlung, so werden zwei als Gruppenbehandlung durchgeführte Sitzungen als eine Sitzung der Einzelbehandlung gewertet. Überwiegt die Gruppenbehandlung, so wird eine als Einzelbehandlung durchgeführte Sitzung als zwei Sitzungen der Gruppenbehandlung gewertet.
 
-höchstens
-30
-weitere Sitzungen
+(2) In den Fällen des Absatzes 1 Satz 1 Nummer 3 sind Aufwendungen für eine Psychotherapie, die vor Vollendung des 21. Lebensjahres begonnen wurde, zur Sicherung des Therapieerfolges auch nach Vollendung des 21. Lebensjahres beihilfefähig.
 
-höchstens
-30
-weitere Sitzungen
+(3) In Ausnahmefällen kann die oberste Dienstbehörde die Beihilfefähigkeit von Aufwendungen für die Behandlung auch für eine über die in Absatz 1 Satz 1 festgelegte Höchstzahl von Sitzungen hinaus anerkennen, wenn die medizinische Notwendigkeit durch ein Gutachten belegt wird.
 
-In besonderen Fällen kann die oberste Dienstbehörde die Beihilfefähigkeit von Aufwendungen für die Behandlung auch für eine über die in Satz 1 Nummer 3 und 4 festgelegte Höchstzahl von Sitzungen hinaus anerkennen, wenn die medizinische Notwendigkeit durch ein Gutachten belegt wird.
+(4) Aufwendungen für Sitzungen, in die auf Grund einer durch Gutachten belegten medizinischen Notwendigkeit Bezugspersonen einbezogen werden, sind bei Einzelbehandlung bis zu einem Viertel und bei Gruppenbehandlung bis zur Hälfte der bewilligten Zahl von Sitzungen zusätzlich beihilfefähig, wenn die zu therapierende Person das 21. Lebensjahr noch nicht vollendet hat. Bei Personen, die das 21. Lebensjahr vollendet haben, werden die Sitzungen, in die Bezugspersonen einbezogen werden, in voller Höhe auf die bewilligte Zahl der Sitzungen angerechnet.
 
-(2) Bei durch Gutachten belegter medizinischer Notwendigkeit der Einbeziehung von Bezugspersonen in die Therapie von Personen, die das 18. Lebensjahr noch nicht vollendet haben, kann die Beihilfefähigkeit von Aufwendungen für die dafür vorgesehenen Sitzungen bei Einzelbehandlung bis zu einem Viertel und bei Gruppenbehandlung bis zur Hälfte der bewilligten Zahl von Sitzungen zusätzlich anerkannt werden.
+(5) Im Rahmen psychoanalytisch begründeter Verfahren ist die simultane Kombination von Einzel- und Gruppentherapie grundsätzlich ausgeschlossen. Aufwendungen für Leistungen einer solchen Kombination sind nur beihilfefähig, wenn sie auf dem Gebiet der tiefenpsychologisch fundierten Psychotherapie bei niederfrequenten Therapien auf Grund eines besonders begründeten Erstantrags erbracht werden.
 
-(3) Im Rahmen psychoanalytisch begründeter Verfahren ist die simultane Kombination von Einzel- und Gruppentherapie grundsätzlich ausgeschlossen. Aufwendungen für Leistungen einer solchen Kombination sind nur beihilfefähig, wenn sie auf dem Gebiet der tiefenpsychologisch fundierten Psychotherapie bei niederfrequenten Therapien auf Grund eines besonders begründeten Erstantrags erbracht werden.
-
-(4) Aufwendungen für katathymes Bilderleben sind nur im Rahmen eines übergeordneten tiefenpsychologischen Therapiekonzepts beihilfefähig.
+(6) Aufwendungen für katathymes Bilderleben sind nur im Rahmen eines übergeordneten tiefenpsychologischen Therapiekonzepts beihilfefähig.
 
 ### § 20 Verhaltenstherapie
 
@@ -895,29 +954,21 @@ behandlung
 Gruppen-
 behandlung
 
-Regelfall
+im Regelfall
 
-45 Sitzungen
+60 Sitzungen
 
-45 Sitzungen
+60 Sitzungen
 
-wenn das Behandlungsziel nicht innerhalb von 45 Sitzungen erreicht worden ist
+in Ausnahmefällen
 
-15 weitere
-Sitzungen
+weitere
+20 Sitzungen
 
-15 weitere
-Sitzungen
+weitere
+20 Sitzungen
 
-in besonderen Fällen
-
-20 weitere
-Sitzungen
-
-20 weitere
-Sitzungen
-
-(2) § 19 Absatz 2 gilt entsprechend.
+(2) § 19 Absatz 1 Satz 2 bis 4 und Absatz 2 bis 4 gilt entsprechend.
 
 (3) Einer Anerkennung nach § 18a Absatz 3 Satz 1 Nummer 3 bedarf es nicht, wenn der Festsetzungsstelle nach den probatorischen Sitzungen die Feststellung der Therapeutin oder des Therapeuten nach Abschnitt 4 der Anlage 3 vorgelegt wird, dass
 
@@ -927,7 +978,7 @@ bei Einzelbehandlung nicht mehr als zehn Sitzungen,
 2.  
 bei Gruppenbehandlung nicht mehr als 20 Sitzungen
 
-erforderlich sind. Muss in besonderen Fällen die Behandlung verlängert werden, ist die Festsetzungsstelle unverzüglich zu unterrichten. Aufwendungen für weitere Sitzungen sind nur nach vorheriger Anerkennung der medizinischen Notwendigkeit durch die Festsetzungsstelle beihilfefähig. Die Festsetzungsstelle hat hierzu ein Gutachten nach § 18a Absatz 3 Satz 1 Nummer 3 einzuholen.
+erforderlich sind. Muss in Ausnahmefällen die Behandlung verlängert werden, ist die Festsetzungsstelle unverzüglich zu unterrichten. Aufwendungen für weitere Sitzungen sind nur nach vorheriger Anerkennung der medizinischen Notwendigkeit durch die Festsetzungsstelle beihilfefähig. Die Festsetzungsstelle hat hierzu ein Gutachten nach § 18a Absatz 3 Satz 1 Nummer 3 einzuholen.
 
 (4) Aufwendungen für eine Rational-Emotive Therapie sind nur im Rahmen eines umfassenden verhaltenstherapeutischen Behandlungskonzepts beihilfefähig.
 
@@ -954,7 +1005,7 @@ autogenes Training und Relaxationstherapie nach Jacobson als Einzel- oder Gruppe
 
 Aufwendungen für Leistungen nach Satz 1 Nummer 1 sind nicht beihilfefähig, wenn sie zusammen mit Aufwendungen für Leistungen nach Satz 1 Nummer 2 und 3 in derselben Sitzung entstanden sind. Neben den Aufwendungen für Leistungen nach Absatz 1 Nummer 1 sind Aufwendungen für somatische ärztliche Untersuchungen und Behandlungen von Krankheiten und deren Auswirkungen beihilfefähig.
 
-(3) Aufwendungen für eine bis zu sechs Monate dauernde ambulante psychosomatische Nachsorge nach einer stationären psychosomatischen Behandlung sind beihilfefähig.
+(3) Aufwendungen für eine bis zu sechs Monate dauernde ambulante psychosomatische Nachsorge nach einer stationären psychosomatischen Behandlung sind bis zu der Höhe der Vergütung, die von den gesetzlichen Krankenkassen oder den Rentenversicherungsträgern zu tragen ist, beihilfefähig.
 
 Abschnitt 2 Sonstige Aufwendungen
 ---------------------------------
@@ -1007,7 +1058,7 @@ cc)
 nach chirurgischen Eingriffen im Hals-, Nasen- und Ohrenbereich,
 
 c)  
-Verstopfung, ausgenommen zur Behandlung von Erkrankungen im Zusammenhang mit Tumorleiden, Megacolon, Divertikulose, Divertikulitus, Mukoviszidose, neurogener Darmlähmung, vor diagnostischen Eingriffen, bei phosphatbindender Medikation, bei chronischer Niereninsuffizienz, bei der Opiat- sowie Opioidtherapie und in der Terminalphase oder
+Verstopfung, ausgenommen zur Behandlung von Erkrankungen im Zusammenhang mit Tumorleiden, Megacolon, Divertikulose, Divertikulitis, Mukoviszidose, neurogener Darmlähmung, vor diagnostischen Eingriffen, bei phosphatbindender Medikation, bei chronischer Niereninsuffizienz, bei der Opiat- sowie Opioidtherapie und in der Terminalphase oder
 
 d)  
 Reisekrankheiten, ausgenommen bei der Anwendung gegen Erbrechen bei Tumortherapie und anderen Erkrankungen, zum Beispiel Menièrescher Symptomkomplex,
@@ -1021,13 +1072,49 @@ a)
 sind bestimmt für Personen, die das zwölfte Lebensjahr noch nicht vollendet haben oder für Personen, die das 18. Lebensjahr noch nicht vollendet haben und an Entwicklungsstörungen leiden,
 
 b)  
-wurden für diagnostische Zwecke, Untersuchungen und ambulante Behandlungen benötigt und in der Rechnung als Auslagen abgerechnet oder
+wurden für diagnostische Zwecke, Untersuchungen oder ambulante Behandlungen benötigt und
+
+aa)  
+in der Rechnung als Auslagen abgerechnet oder
+
+bb)  
+auf Grund einer ärztlichen Verordnung zuvor von der beihilfeberechtigten oder berücksichtigungsfähigen Person selbst beschafft,
 
 c)  
 gelten bei der Behandlung einer schwerwiegenden Erkrankung als Therapiestandard und werden mit dieser Begründung ausnahmsweise verordnet; die beihilfefähigen Ausnahmen ergeben sich aus Anlage 6,
 
+d)  
+sind in der Fachinformation zum Hauptarzneimittel eines beihilfefähigen Arzneimittels als Begleitmedikation zwingend vorgeschrieben oder
+
+e)  
+werden zur Behandlung unerwünschter Arzneimittelwirkungen, die beim bestimmungsgemäßen Gebrauch eines beihilfefähigen Arzneimittels auftreten können, eingesetzt; dabei muss die unerwünschte Arzneimittelwirkung lebensbedrohlich sein oder die Lebensqualität auf Dauer nachhaltig beeinträchtigen,
+
 4.  
-hormonelle Mittel zur Empfängnisverhütung; dies gilt nicht bei Personen unter 20 Jahren oder wenn diese Mittel unabhängig von der arzneimittelrechtlichen Zulassung zur Behandlung einer Krankheit verordnet werden.
+traditionell angewendete Arzneimittel nach § 109 Absatz 3 und § 109a des Arzneimittelgesetzes mit einem oder mehreren der folgenden Hinweise auf der äußeren Umhüllung oder der Packungsbeilage des Arzneimittels:
+
+a)  
+zur Stärkung oder Kräftigung,
+
+b)  
+zur Besserung des Befindens,
+
+c)  
+zur Unterstützung der Organfunktion,
+
+d)  
+zur Vorbeugung,
+
+e)  
+als mild wirkendes Arzneimittel,
+
+5.  
+traditionelle pflanzliche Arzneimittel nach § 39a des Arzneimittelgesetzes,
+
+6.  
+hormonelle Mittel zur Empfängnisverhütung; dies gilt nicht bei Personen unter 20 Jahren oder wenn diese Mittel unabhängig von der arzneimittelrechtlichen Zulassung zur Behandlung einer Krankheit verordnet werden,
+
+7.  
+gesondert ausgewiesene Versandkosten.
 
 (3) Aufwendungen für Arzneimittel, die nach Anlage 7 den Arzneimittelgruppen, für die ein Festbetrag nach § 35 Absatz 1 des Fünften Buches Sozialgesetzbuch festgesetzt werden kann, zuzuordnen sind, sind nur bis zur Höhe der Festbeträge nach den Übersichten nach § 35 Absatz 8 des Fünften Buches Sozialgesetzbuch beihilfefähig.
 
@@ -1039,81 +1126,96 @@ hormonelle Mittel zur Empfängnisverhütung; dies gilt nicht bei Personen unter 
 
 ### § 23 Heilmittel
 
-(1) Aufwendungen für ärztlich verordnete Heilmittel und die dabei verbrauchten Stoffe sind beihilfefähig, wenn diese in Anlage 9 aufgeführt sind und von Angehörigen der Gesundheits- oder Medizinalfachberufe nach Anlage 10 angewandt werden. Bei einer Sprachtherapie sind auch Aufwendungen für Leistungen staatlich anerkannter Sprachtherapeuten sowie vergleichbar qualifizierter Personen beihilfefähig. Die beihilfefähigen Aufwendungen sind auf die in Anlage 9 genannten Höchstbeträge beschränkt.
+(1) Aufwendungen für ärztlich oder zahnärztlich verordnete Heilmittel und bei der Anwendung der Heilmittel verbrauchte Stoffe sind nach Maßgabe der Anlagen 9 und 10 beihilfefähig.
 
-(2) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, beurteilt sich die Angemessenheit der Aufwendungen für ärztlich verordnete Heilmittel anstelle der in Absatz 1 Satz 3 genannten Höchstbeträge nach den ortsüblichen Gebühren unter Berücksichtigung der besonderen Verhältnisse im Ausland. Die beihilfefähigen Aufwendungen mindern sich um 10 Prozent der Kosten, die die Höchstbeträge nach Absatz 1 Satz 3 übersteigen, höchstens jedoch um 10 Euro. Diese Minderung gilt nicht für Personen, die das 18. Lebensjahr noch nicht vollendet haben.
+(2) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, beurteilt sich die Angemessenheit der Aufwendungen für ärztlich oder zahnärztlich verordnete Heilmittel anstelle der in Anlage 9 genannten Höchstbeträge nach den ortsüblichen Gebühren unter Berücksichtigung der besonderen Verhältnisse im Ausland. Die beihilfefähigen Aufwendungen mindern sich um 10 Prozent der Kosten, die die Höchstbeträge nach Anlage 9 übersteigen, höchstens jedoch um 10 Euro. Diese Minderung gilt nicht für Personen, die das 18. Lebensjahr noch nicht vollendet haben.
 
 ### § 24 Komplextherapie und integrierte Versorgung
 
-(1) Aufwendungen für Leistungen, die in Form von ambulanten, voll- oder teilstationären Komplextherapien erbracht und pauschal berechnet werden, sind abweichend von § 6 Abs. 3 und § 23 Abs. 1 in angemessener Höhe beihilfefähig. Die Beihilfefähigkeit setzt voraus, dass die Komplextherapie von einem berufsgruppenübergreifenden Team von Therapeutinnen und Therapeuten erbracht wird, dem auch Ärztinnen, Ärzte, Psychologische Psychotherapeutinnen, Psychologische Psychotherapeuten oder andere Angehörige von Gesundheits- und Medizinalfachberufen nach Anlage 10 angehören müssen.
+(1) Aufwendungen für Leistungen, die in Form von ambulanten, voll- oder teilstationären Komplextherapien erbracht und pauschal berechnet werden, sind abweichend von § 6 Absatz 3 Satz 1 und 2 und § 23 Absatz 1 in angemessener Höhe beihilfefähig. Die Beihilfefähigkeit setzt voraus, dass die Komplextherapie von einem berufsgruppenübergreifenden Team von Therapeutinnen und Therapeuten erbracht wird, dem auch Ärztinnen, Ärzte, Psychologische Psychotherapeutinnen, Psychologische Psychotherapeuten oder Leistungserbringerinnen und Leistungserbringer nach Anlage 10 angehören müssen.
 
-(2) Aufwendungen für sozialpädagogische Leistungen sind nicht nach Absatz 1 beihilfefähig.
+(2) Aufwendungen für die ambulante sozialpädiatrische Behandlung von Kindern in sozialpädiatrischen Zentren, die zu einer solchen Behandlung nach § 119 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch ermächtigt wurden, sind beihilfefähig bis zu der Höhe der Vergütung, die die Einrichtung mit dem Verband der privaten Krankenversicherung e. V., mit einem Landesverband der Krankenkassen, mit einem privaten Krankenversicherungsunternehmen oder mit Sozialversicherungsträgern in einer Vereinbarung getroffen hat. Aufwendungen für sozialpädagogische Leistungen sind nicht beihilfefähig.
 
-(3) Aufwendungen für Leistungen, die als integrierte Versorgung erbracht und pauschal berechnet werden, sind in der Höhe der Pauschalbeträge beihilfefähig, wenn dazu Verträge zwischen den Leistungserbringerinnen und Leistungserbringern und den Unternehmen der privaten Krankenversicherung abgeschlossen wurden oder Verträge zu integrierten Versorgungsformen nach § 140b des Fünften Buches Sozialgesetzbuch bestehen.
+(3) Aufwendungen für Leistungen, die als integrierte Versorgung erbracht und pauschal berechnet werden, sind in der Höhe der Pauschalbeträge beihilfefähig, wenn dazu Verträge zwischen den Leistungserbringerinnen und Leistungserbringern und den Unternehmen der privaten Krankenversicherung abgeschlossen wurden oder Verträge zu integrierten Versorgungsformen nach § 140a des Fünften Buches Sozialgesetzbuch bestehen.
 
 ### § 25 Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke
 
 (1) Aufwendungen für ärztlich verordnete Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle sowie Körperersatzstücke sind beihilfefähig, wenn sie im Einzelfall erforderlich sind, um den Erfolg der Krankenbehandlung zu sichern, einer drohenden Behinderung vorzubeugen oder eine Behinderung auszugleichen. Beihilfefähig sind vorbehaltlich des Absatzes 4 Aufwendungen für Anschaffung, Reparatur, Ersatz, Betrieb, Unterweisung in den Gebrauch und Unterhaltung der in Anlage 11 genannten Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle und Körperersatzstücke unter den dort genannten Voraussetzungen. Aufwendungen für den Ersatz eines unbrauchbar gewordenen Gegenstandes im Sinne von Satz 1 sind nach Ablauf von sechs Monaten seit Anschaffung beihilfefähig, wenn eine erneute ärztliche Verordnung vorliegt.
 
-(2) Nicht beihilfefähig sind Aufwendungen für Hilfsmittel und Geräte zur Selbstbehandlung und Selbstkontrolle, die
+(2) Nicht beihilfefähig sind Aufwendungen für
 
 1.  
+Hilfsmittel und Geräte zur Selbstbehandlung und Selbstkontrolle, die
+
+a)  
 einen geringen oder umstrittenen therapeutischen Nutzen haben,
 
-2.  
+b)  
 einen niedrigen Abgabepreis haben,
 
-3.  
+c)  
 der allgemeinen Lebenshaltung zuzurechnen sind oder
 
-4.  
-in Anlage 12 genannt sind.
+d)  
+in Anlage 12 genannt sind, und
+
+2.  
+gesondert ausgewiesene Versandkosten.
 
 (3) Aufwendungen für das Mieten von Hilfsmitteln und Geräten zur Selbstbehandlung und Selbstkontrolle nach Absatz 1 Satz 1 sind beihilfefähig, soweit sie nicht höher als die Aufwendungen für deren Anschaffung sind und diese sich dadurch erübrigt.
 
-(4) Sind Hilfsmittel und Geräte zur Selbstbehandlung und Selbstkontrolle im Sinne des Absatzes 1 Satz 1 weder in Anlage 11 oder 12 aufgeführt noch mit den aufgeführten Gegenständen vergleichbar, sind hierfür getätigte Aufwendungen ausnahmsweise beihilfefähig, wenn dies im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes notwendig ist. Die Festsetzungsstelle entscheidet in Fällen des Satzes 1 mit Zustimmung der obersten Dienstbehörde. Die oberste Dienstbehörde hat vor ihrer Zustimmung das Einvernehmen mit dem Bundesministerium des Innern herzustellen. Soweit das Einvernehmen des Bundesministeriums des Innern allgemein erklärt ist, kann die oberste Dienstbehörde ihre Zuständigkeit auf eine andere Behörde übertragen. Absatz 2 bleibt unberührt.
+(4) Sind Hilfsmittel und Geräte zur Selbstbehandlung und Selbstkontrolle im Sinne des Absatzes 1 Satz 1 weder in Anlage 11 oder 12 aufgeführt noch mit den aufgeführten Gegenständen vergleichbar, sind hierfür getätigte Aufwendungen ausnahmsweise beihilfefähig, wenn dies im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes notwendig ist. Die Festsetzungsstelle entscheidet in Fällen des Satzes 1 mit Zustimmung der obersten Dienstbehörde. Die oberste Dienstbehörde hat bei Aufwendungen von mehr als 600 Euro vor ihrer Zustimmung das Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat herzustellen. Soweit das Einvernehmen des Bundesministeriums des Innern, für Bau und Heimat allgemein erklärt ist, kann die oberste Dienstbehörde ihre Zuständigkeit auf eine andere Behörde übertragen. Absatz 2 bleibt unberührt.
 
 (5) Aufwendungen für den Betrieb und die Unterhaltung der Hilfsmittel und Geräte zur Selbstbehandlung und Selbstkontrolle im Sinne des Absatzes 1 Satz 1 sind nur in Höhe des 100 Euro je Kalenderjahr übersteigenden Betrages beihilfefähig. Nicht beihilfefähig sind Aufwendungen für Batterien von Hörgeräten sowie Pflege- und Reinigungsmittel für Kontaktlinsen. Die Sätze 1 und 2 gelten nicht für Personen, die das 18. Lebensjahr noch nicht vollendet haben.
 
-### § 26 Krankenhausleistungen
+### § 26 Krankenhausleistungen in zugelassenen Krankenhäusern
 
-(1) Beihilfefähig sind die Aufwendungen für Leistungen in Krankenhäusern, die nach dem Krankenhausentgeltgesetz oder der Bundespflegesatzverordnung vergütet werden, für
+(1) Aufwendungen für Behandlungen in zugelassenen Krankenhäusern nach § 108 des Fünften Buches Sozialgesetzbuch sind beihilfefähig, soweit sie entstanden sind für
 
 1.  
-vorstationäre und nachstationäre Krankenhausbehandlung nach § 115a des Fünften Buches Sozialgesetzbuch,
+vorstationäre und nachstationäre Krankenhausbehandlungen nach § 115a des Fünften Buches Sozialgesetzbuch,
 
 2.  
-allgemeine Krankenhausleistungen (§ 2 Abs. 2 des Krankenhausentgeltgesetzes und § 2 Abs. 2 der Bundespflegesatzverordnung),
+allgemeine Krankenhausleistungen (§ 2 Absatz 2 des Krankenhausentgeltgesetzes und § 2 Absatz 2 der Bundespflegesatzverordnung),
 
 3.  
+im Zusammenhang mit den Nummern 1 und 2 berechenbare Leistungen der Belegärztinnen und Belegärzte (§ 18 Absatz 1 Satz 2 des Krankenhausentgeltgesetzes),
+
+4.  
+die aus medizinischen Gründen notwendige Unterbringung einer Begleitperson im Krankenhaus (§ 2 Absatz 2 Satz 2 Nummer 3 des Krankenhausentgeltgesetzes),
+
+5.  
 Wahlleistungen in Form
 
 a)  
-von gesondert berechneten wahlärztlichen Leistungen im Sinne des § 17 des Krankenhausentgeltgesetzes und des § 16 Satz 2 der Bundespflegesatzverordnung,
+gesondert berechneter wahlärztlicher Leistungen im Sinne des § 17 des Krankenhausentgeltgesetzes und des § 16 Satz 2 der Bundespflegesatzverordnung,
 
 b)  
 einer gesondert berechneten Unterkunft im Sinne des § 17 des Krankenhausentgeltgesetzes und des § 16 Satz 2 der Bundespflegesatzverordnung bis zur Höhe der Kosten eines Zweibettzimmers abzüglich eines Betrages von 14,50 Euro täglich und
 
 c)  
-anderer im Zusammenhang mit den Leistungen nach den Buchstaben a und b entstandener Aufwendungen für ärztliche Leistungen und Leistungen nach § 22 sowie
+anderer im Zusammenhang mit Leistungen nach den Buchstaben a und b erbrachter ärztlicher Leistungen oder Leistungen nach § 22.
 
-4.  
-die Unterbringung einer Begleitperson im Krankenhaus, soweit dies aus medizinischen Gründen notwendig ist (§ 2 Abs. 2 Satz 2 Nr. 3 des Krankenhausentgeltgesetzes).
+(2) Aufwendungen für eine stationsäquivalente psychiatrische Behandlung nach § 115d des Fünften Buches Sozialgesetzbuch sind beihilfefähig.
 
-(2) Aufwendungen für Behandlungen in Krankenhäusern, die die Voraussetzungen des § 107 Absatz 1 des Fünften Buches Sozialgesetzbuch erfüllen, aber nicht nach § 108 des Fünften Buches Sozialgesetzbuch zugelassen sind, sind wie folgt beihilfefähig:
+### § 26a Krankenhausleistungen in Krankenhäusern ohne Zulassung
+
+(1) Aufwendungen für Behandlungen in Krankenhäusern, die die Voraussetzungen des § 107 Absatz 1 des Fünften Buches Sozialgesetzbuch erfüllen, aber nicht nach § 108 des Fünften Buches Sozialgesetzbuch zugelassen sind, sind wie folgt beihilfefähig:
 
 1.  
-bei Indikationen, die mit Fallpauschalen nach dem Krankenhausentgeltgesetz abgerechnet werden können, die allgemeinen Krankenhausleistungen (Absatz 1 Nummer 2) bis zu dem Betrag, der sich bei Anwendung des Fallpauschalenkataloges nach § 9 Absatz 1 Satz 1 Nummer 1 des Krankenhausentgeltgesetzes für die Hauptabteilung ergibt; dabei wird die obere Grenze des nach § 10 Absatz 9 des Krankenhausentgeltgesetzes zu vereinbarenden einheitlichen Basisfallwertkorridors zugrunde gelegt,
+bei Indikationen, die mit Fallpauschalen nach dem Krankenhausentgeltgesetz abgerechnet werden können, die allgemeinen Krankenhausleistungen (§ 26 Absatz 1 Nummer 2) bis zu dem Betrag, der sich bei Anwendung des Fallpauschalenkataloges nach § 9 Absatz 1 Satz 1 Nummer 1 des Krankenhausentgeltgesetzes für die Hauptabteilung ergibt; bei der Ermittlung des Betrages wird die obere Grenze des einheitlichen Basisfallwertkorridors zugrunde gelegt, der nach § 10 Absatz 9 des Krankenhausentgeltgesetzes vereinbart ist, sowie die mittlere Verweildauer gemäß des Fallpauschalenkataloges,
 
 2.  
-in allen anderen Fällen der Basispflegesatz und der Abteilungspflegesatz, soweit der tägliche Gesamtbetrag folgende Beträge nicht übersteigt:
+bei Indikationen, die nicht mit Fallpauschalen nach dem Krankenhausentgeltgesetz abgerechnet werden können, der Basispflegesatz und der Abteilungspflegesatz, sofern der tägliche Gesamtbetrag folgende Beträge nicht übersteigt:
 
 a)  
 <table>
 <tbody>
 <tr class="odd">
-<td>bei vollstationärer<br />
-Untersuchung und Behandlung von Personen, die das 18. Lebensjahr vollendet haben,</td>
+<td>bei vollstationärer Untersuchung<br />
+und Behandlung von Personen,<br />
+die das 18. Lebensjahr<br />
+vollendet haben,</td>
 <td>293,80 Euro,</td>
 </tr>
 </tbody>
@@ -1123,8 +1225,10 @@ b)
 <table>
 <tbody>
 <tr class="odd">
-<td>bei teilstationärer<br />
-Untersuchung und Behandlung von Personen, die das 18. Lebensjahr vollendet haben,</td>
+<td>bei teilstationärer Untersuchung<br />
+und Behandlung von Personen,<br />
+die das 18. Lebensjahr<br />
+vollendet haben,</td>
 <td>225,60 Euro,</td>
 </tr>
 </tbody>
@@ -1134,8 +1238,10 @@ c)
 <table>
 <tbody>
 <tr class="odd">
-<td>bei vollstationärer<br />
-Untersuchung und Behandlung von Personen, die das 18. Lebensjahr noch nicht vollendet haben,</td>
+<td>bei vollstationärer Untersuchung<br />
+und Behandlung von Personen,<br />
+die das 18. Lebensjahr noch<br />
+nicht vollendet haben,</td>
 <td>462,80 Euro,</td>
 </tr>
 </tbody>
@@ -1145,29 +1251,44 @@ d)
 <table>
 <tbody>
 <tr class="odd">
-<td>bei teilstationärer<br />
-Untersuchung und Behandlung von Personen, die das 18. Lebensjahr noch nicht vollendet haben,</td>
+<td>bei teilstationärer Untersuchung<br />
+und Behandlung von Personen,<br />
+die das 18. Lebensjahr noch<br />
+nicht vollendet haben,</td>
 <td>345,80 Euro,</td>
 </tr>
 </tbody>
 </table>
 
 3.  
-gesondert berechnete Wahlleistungen für Unterkunft in einem Zweibettzimmer bis zur Höhe von 1,5 Prozent der oberen Grenze des nach § 10 Absatz 9 des Krankenhausentgeltgesetzes zu vereinbarenden einheitlichen Basisfallwertkorridors abzüglich 14,50 Euro täglich,
+gesondert berechnete Wahlleistungen für Unterkunft bis zur Höhe von 1,5 Prozent der oberen Grenze des einheitlichen Basisfallwertkorridors, der nach § 10 Absatz 9 des Krankenhausentgeltgesetzes vereinbart ist, abzüglich 14,50 Euro täglich,
 
 4.  
-zur Notfallversorgung, wenn das nächstgelegene Krankenhaus aufgesucht werden musste.
+zur Notfallversorgung, wenn das nächstgelegene Krankenhaus aufgesucht werden musste,
 
-Absatz 1 Nummer 3 Buchstabe a und Nummer 4 gilt entsprechend. Nicht beihilfefähig sind Aufwendungen für Leistungen, die zusätzlich in Rechnung gestellt werden und die Bestandteile der Leistungen nach Absatz 1 Nummer 2 sind. Vor der Aufnahme in ein Krankenhaus nach Satz 1 kann eine Übersicht über die voraussichtlich entstehenden Kosten bei der Festsetzungsstelle zur Prüfung der Beihilfefähigkeit eingereicht werden.
+5.  
+die Unterbringung einer Begleitperson im Krankenhaus, soweit dies aus medizinischen Gründen notwendig ist (§ 2 Absatz 2 Satz 2 Nummer 3 des Krankenhausentgeltgesetzes).
 
-(3) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind für Unterkunft und Verpflegung in ausländischen Krankenhäusern unter Berücksichtigung der besonderen Verhältnisse am Behandlungsort die entstandenen Aufwendungen beihilfefähig, soweit die Unterbringung derjenigen in einem Zweibettzimmer im Inland nach Absatz 1 Nr. 3 Buchstabe b entspricht, es sei denn, aus medizinischen Gründen ist eine andere Unterbringung notwendig. Der in Absatz 1 Nr. 3 Buchstabe b genannte Abzugsbetrag ist zu berücksichtigen. Beihilfefähig sind auch Aufwendungen, die für den Einsatz von Unternehmen entstehen, die bei der Abrechnung von im Ausland erbrachten stationären Leistungen tätig werden.
+(2) Gesondert in Rechnung gestellte Aufwendungen für ärztliche Leistungen sind, sofern die Abrechnung nach der Anlage zur Gebührenordnung für Ärzte erfolgt, neben den Aufwendungen nach Absatz 1 beihilfefähig.
 
-### § 27 Häusliche Krankenpflege
-
-(1) Beihilfefähig sind Aufwendungen für häusliche Krankenpflege, soweit sie angemessen und nach ärztlicher Verordnung medizinisch erforderlich sind und die häusliche Krankenpflege
+(3) Mit den Beträgen nach Absatz 1 sind Aufwendungen für Leistungen abgegolten, die
 
 1.  
-nicht länger als vier Wochen andauert,
+von Krankenhäusern zusätzlich in Rechnung gestellt werden und
+
+2.  
+Bestandteile der allgemeinen Krankenhausleistungen nach § 2 Absatz 2 des Krankenhausentgeltgesetzes und § 2 Absatz 2 der Bundespflegesatzverordnung sind.
+
+(4) Vor der Aufnahme in ein Krankenhaus nach Absatz 1 kann bei der Festsetzungsstelle eine Übersicht über die voraussichtlich entstehenden Kosten zur Prüfung der Beihilfefähigkeit eingereicht werden.
+
+(5) Bei Personen, die nach § 3 beihilfeberechtigt sind oder die bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind für Unterkunft und Verpflegung in ausländischen Krankenhäusern unter Berücksichtigung der besonderen Verhältnisse am Behandlungsort die entstandenen Aufwendungen abzüglich eines Betrages von 14,50 Euro täglich beihilfefähig, sofern die Unterbringung derjenigen in einem Zweibettzimmer im Inland nach § 26 Absatz 1 Nummer 5 Buchstabe b entspricht. Satz 1 gilt nicht, wenn aus medizinischen Gründen eine andere Unterbringung notwendig ist. Beihilfefähig sind auch Aufwendungen, die für den Einsatz von Unternehmen entstehen, die bei der Abrechnung von im Ausland erbrachten stationären Leistungen tätig werden.
+
+### § 27 Häusliche Krankenpflege, Kurzzeitpflege bei fehlender Pflegebedürftigkeit
+
+(1) Beihilfefähig sind Aufwendungen für häusliche Krankenpflege, soweit sie angemessen und nach ärztlicher Bescheinigung erforderlich sind und die Pflege
+
+1.  
+nicht länger als vier Wochen dauert,
 
 2.  
 weder von der beihilfeberechtigten oder berücksichtigungsfähigen Person noch von einer anderen im Haushalt lebenden Person durchgeführt werden kann und
@@ -1175,20 +1296,35 @@ weder von der beihilfeberechtigten oder berücksichtigungsfähigen Person noch v
 3.  
 im eigenen Haushalt oder an einem anderen geeigneten Ort erbracht wird.
 
-In Ausnahmefällen können die Aufwendungen für häusliche Krankenpflege für einen längeren Zeitraum anerkannt werden, wenn eine medizinische Stellungnahme darüber vorgelegt wird, dass häusliche Krankenpflege über einen längeren Zeitraum notwendig ist. Ist eine Behandlungspflege erforderlich, um sicherzustellen, dass das Ziel der ärztlichen Behandlung erreicht wird, ist Satz 1 Nummer 1 nicht anzuwenden.
+Angemessen im Sinne des Satzes 1 sind Aufwendungen bis zur Höhe des tariflichen oder ortsüblichen Entgelts einer Pflegekraft der öffentlichen oder frei gemeinnützigen Träger, die für die häusliche Krankenpflege in Betracht kommen. Bis zu dieser Höhe beihilfefähig sind auch die Aufwendungen für eine Ersatzpflegekraft, die die Ärztin oder der Arzt für geeignet erklärt.
 
-(2) Häusliche Krankenpflege nach Absatz 1 umfasst 
+(2) Häusliche Krankenpflege nach Absatz 1 Satz 1 umfasst
 
 1.  
 Behandlungspflege, Grundpflege und hauswirtschaftliche Versorgung,
 
 2.  
-verrichtungsbezogene krankheitsspezifische Pflegemaßnahmen und
+verrichtungsbezogene krankheitsspezifische Pflegemaßnahmen,
 
 3.  
-ambulante psychiatrische Krankenpflege.
+ambulante psychiatrische Krankenpflege und
 
-(3) Wird häusliche Krankenpflege im Sinne der Absätze 1 und 2 durch die Ehegattin, den Ehegatten, die Lebenspartnerin, den Lebenspartner, die Eltern oder die Kinder der gepflegten Person durchgeführt, sind nur beihilfefähig:
+4.  
+ambulante Palliativversorgung.
+
+Aufwendungen für die erforderliche Grundpflege und die hauswirtschaftliche Versorgung einer beihilfeberechtigten oder berücksichtigungsfähigen Person sind beihilfefähig bei
+
+1.  
+schwerer Erkrankung oder
+
+2.  
+akuter Verschlimmerung einer Erkrankung,
+
+insbesondere nach einem Krankenhausaufenthalt, einer ambulanten Operation oder einer ambulanten Krankenhausbehandlung. Satz 2 gilt nicht im Fall einer Pflegebedürftigkeit der Pflegegrade 2 bis 5.
+
+(3) In Ausnahmefällen können die Aufwendungen für die häusliche Krankenpflege für einen längeren Zeitraum anerkannt werden, wenn eine ärztliche Bescheinigung darüber vorgelegt wird, dass häusliche Krankenpflege über einen längeren Zeitraum notwendig ist. Die ambulante Palliativversorgung nach Absatz 2 Satz 1 Nummer 4 ist regelmäßig als Ausnahmefall zu werten. Ist eine Behandlungspflege erforderlich, um sicherzustellen, dass das Ziel der ärztlichen Behandlung erreicht wird, ist Absatz 1 Satz 1 Nummer 1 nicht anzuwenden.
+
+(4) Wird häusliche Krankenpflege im Sinne der Absätze 1, 2 und 3 durch die Ehegattin, den Ehegatten, die Lebenspartnerin, den Lebenspartner, die Eltern oder die Kinder der gepflegten Person durchgeführt, sind nur beihilfefähig:
 
 1.  
 Aufwendungen für Fahrtkosten der die häusliche Krankenpflege durchführenden Person und
@@ -1196,12 +1332,24 @@ Aufwendungen für Fahrtkosten der die häusliche Krankenpflege durchführenden P
 2.  
 eine an die die häusliche Krankenpflege durchführende Person gezahlte Vergütung bis zur Höhe der infolge der häuslichen Krankenpflege ausgefallenen Arbeitseinkünfte.
 
-### § 28 Familien- und Haushaltshilfe
-
-(1) Die Aufwendungen für eine Familien- und Haushaltshilfe sind in Höhe von 2,5 Prozent der sich aus § 18 des Vierten Buches Sozialgesetzbuch ergebenden monatlichen Bezugsgröße, aufgerundet auf volle Euro, beihilfefähig, wenn
+(5) Ist häusliche Krankenpflege nach Absatz 1
 
 1.  
-die den Haushalt führende beihilfeberechtigte oder berücksichtigungsfähige Person den Haushalt wegen ihrer notwendigen außerhäuslichen Unterbringung (§§ 26 und 32 Absatz 1, §§ 34 und 35 Absatz 1 Nummer 1 bis 5, §§ 39 und 40 Absatz 2) nicht weiterführen kann oder verstorben ist,
+bei schwerer Krankheit oder
+
+2.  
+wegen akuter Verschlimmerung einer Krankheit,
+
+insbesondere nach einem Krankenhausaufenthalt, nach einer ambulanten Operation oder nach einer ambulanten Krankenhausbehandlung nicht ausreichend und liegt keine Pflegebedürftigkeit der Pflegegrade 2 bis 5 vor, sind Aufwendungen für eine Kurzzeitpflege entsprechend § 42 des Elften Buches Sozialgesetzbuch in zugelassenen Einrichtungen nach dem Elften Buch Sozialgesetzbuch oder in anderen geeigneten Einrichtungen beihilfefähig, wenn die Notwendigkeit der Kurzzeitpflege ärztlich bescheinigt worden ist.
+
+(6) Beihilfefähig sind auch Aufwendungen für die Versorgung chronischer und schwer heilender Wunden in spezialisierten Einrichtungen.
+
+### § 28 Familien- und Haushaltshilfe
+
+(1) Die Aufwendungen für eine Familien- und Haushaltshilfe sind pro Stunde in Höhe von 0,32 Prozent der sich aus § 18 des Vierten Buches Sozialgesetzbuch ergebenden monatlichen Bezugsgröße, aufgerundet auf volle Euro, beihilfefähig, wenn
+
+1.  
+die den Haushalt führende beihilfeberechtigte oder berücksichtigungsfähige Person den Haushalt wegen ihrer notwendigen außerhäuslichen Unterbringung (§ 24 Absatz 1 und 3, §§ 26, 26a und 32 Absatz 1, §§ 34 und 35 Absatz 1 Nummer 1 bis 5, §§ 39 und 40 Absatz 2) nicht weiterführen kann oder verstorben ist,
 
 2.  
 im Haushalt mindestens eine beihilfeberechtigte oder berücksichtigungsfähige Person verbleibt, die pflegebedürftig ist oder das zwölfte Lebensjahr noch nicht vollendet hat, und
@@ -1209,11 +1357,23 @@ im Haushalt mindestens eine beihilfeberechtigte oder berücksichtigungsfähige P
 3.  
 keine andere im Haushalt lebende Person den Haushalt weiterführen kann.
 
-In besonderen Ausnahmefällen kann im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes mit Zustimmung der obersten Dienstbehörde von diesen Voraussetzungen abgewichen werden.
+In Ausnahmefällen kann im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes mit Zustimmung der obersten Dienstbehörde von diesen Voraussetzungen abgewichen werden.
 
-(2) Aufwendungen für eine Familien- und Haushaltshilfe sind auch für die ersten 28 Tage nach dem Ende einer außerhäuslichen Unterbringung beihilfefähig, wenn deren Notwendigkeit ärztlich bescheinigt wurde. Satz 1 gilt auch für Alleinstehende. Im Todesfall der haushaltführenden Person sind die Aufwendungen nach Absatz 1 für sechs Monate, in besonders begründeten Ausnahmefällen für zwölf Monate beihilfefähig. § 27 Abs. 3 gilt entsprechend.
+(2) Aufwendungen für eine Familien- und Haushaltshilfe, deren Notwendigkeit ärztlich bescheinigt worden ist, sind in der in Absatz 1 bestimmten Höhe bis zu 28 Tagen beihilfefähig
 
-(3) Werden statt der Inanspruchnahme einer Familien- und Haushaltshilfe berücksichtigungsfähige Personen, die das zwölfte Lebensjahr noch nicht vollendet haben, oder pflegebedürftige berücksichtigungsfähige oder selbst beihilfeberechtigte Personen in einem Heim oder in einem fremden Haushalt untergebracht, sind die Aufwendungen hierfür bis zu den sonst notwendigen Kosten einer Familien- und Haushaltshilfe beihilfefähig.
+1.  
+bei schwerer Krankheit oder
+
+2.  
+bei akuter Verschlimmerung einer Krankheit,
+
+insbesondere unmittelbar nach einem Krankenhausaufenthalt, unmittelbar nach einer ambulanten Operation oder unmittelbar nach einer ambulanten Krankenhausbehandlung. Satz 1 gilt auch für Alleinstehende. Absatz 1 Satz 2 und § 27 Absatz 4 gelten entsprechend.
+
+(3) Nach dem Tod der haushaltführenden Person sind die Aufwendungen nach Absatz 1 für sechs Monate, in Ausnahmefällen für zwölf Monate, beihilfefähig. § 27 Absatz 4 gilt entsprechend.
+
+(4) Werden statt der Inanspruchnahme einer Familien- und Haushaltshilfe berücksichtigungsfähige Personen, die das zwölfte Lebensjahr noch nicht vollendet haben, oder pflegebedürftige berücksichtigungsfähige oder selbst beihilfeberechtigte Personen in einem Heim oder in einem fremden Haushalt untergebracht, sind die Aufwendungen hierfür bis zu den sonst notwendigen Kosten einer Familien- und Haushaltshilfe beihilfefähig.
+
+(5) Aufwendungen für notwendige Fahrtkosten sind in Höhe der Reisekostenvergütung nach den §§ 3, 4 und 5 Absatz 1 des Bundesreisekostengesetzes beihilfefähig.
 
 ### § 29 Familien- und Haushaltshilfe im Ausland
 
@@ -1313,7 +1473,7 @@ Ausnahmefall
 20 weitere Behandlungseinheiten
 
 3.  
-bei Gruppenbehandlung, bei Kindern und Jugendlichen gegebenenfalls unter Einbeziehung von Bezugspersonen
+bei Gruppenbehandlung, bei Kindern und Jugendlichen, gegebenenfalls unter Einbeziehung von Bezugspersonen
 
 wenn eine
 Behandlungseinheit
@@ -1352,7 +1512,7 @@ b)
 die Festsetzungsstelle zugestimmt hat,
 
 3.  
-anlässlich einer ambulanten Krankenbehandlung in besonderen Ausnahmefällen nach Zustimmung durch die Festsetzungsstelle,
+anlässlich einer ambulanten Krankenbehandlung in Ausnahmefällen nach Zustimmung durch die Festsetzungsstelle,
 
 4.  
 anlässlich einer vor- oder nachstationären Behandlung, wenn dadurch eine – andernfalls medizinisch gebotene – stationäre Krankenbehandlung verkürzt oder vermieden werden kann,
@@ -1364,7 +1524,32 @@ anlässlich einer ambulanten Operation im Krankenhaus oder in der Arztpraxis ein
 zum Krankentransport, wenn während der Fahrt eine fachliche Betreuung oder die Nutzung der besonderen Einrichtungen eines Krankenkraftwagens erforderlich ist, und
 
 7.  
-der Eltern anlässlich des Besuchs ihres stationär untergebrachten Kindes, das das 18. Lebensjahr noch nicht vollendet hat, in begründeten Ausnahmefällen.
+der Eltern anlässlich des Besuchs ihres stationär untergebrachten Kindes, das das 18. Lebensjahr noch nicht vollendet hat, in Ausnahmefällen.
+
+Die Zustimmung der Festsetzungsstelle nach Satz 1 Nummer 3 gilt als erteilt bei
+
+1.  
+beihilfeberechtigten oder berücksichtigungsfähigen Personen
+
+a)  
+mit einem Schwerbehindertenausweis mit dem Merkzeichen
+
+aa)  
+„aG“,
+
+bb)  
+„BI“,
+
+cc)  
+„H“, oder
+
+b)  
+der Pflegegrade 3 bis 5 oder
+
+2.  
+notwendigen Fahrten zur ambulanten Dialyse, onkologischen Strahlentherapie oder onkologischen Chemotherapie.
+
+Die Sätze 1 und 2 Nummer 1 gelten entsprechend bei Fahrten, die durch Zahnärztinnen oder Zahnärzte, durch Psychologische Psychotherapeutinnen oder Psychologische Psychotherapeuten oder durch Kinder- und Jugendpsychotherapeutinnen oder ‑therapeuten verordnet worden sind, wenn die Fahrten im Zusammenhang mit einer zahnärztlichen oder psychotherapeutischen Behandlung stehen.
 
 (3) Nicht beihilfefähig sind
 
@@ -1374,17 +1559,19 @@ Kosten der Rückbeförderung wegen Erkrankung während einer Urlaubsreise oder a
 2.  
 Fahrtkosten einschließlich Flugkosten anlässlich von Untersuchungen und Behandlungen außerhalb der Europäischen Union.
 
-Kosten nach Satz 1 Nummer 2 sind ausnahmsweise beihilfefähig, wenn zwingende medizinische Gründe im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes vorliegen. Die Festsetzungsstelle entscheidet in Fällen des Satzes 2 mit Zustimmung der obersten Dienstbehörde. Die Erteilung der Zustimmung bedarf des Einvernehmens des Bundesministeriums des Innern.
+Kosten nach Satz 1 Nummer 2 sind ausnahmsweise beihilfefähig, wenn zwingende medizinische Gründe im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes vorliegen. Die Festsetzungsstelle entscheidet in Fällen des Satzes 2 mit Zustimmung der obersten Dienstbehörde. Die Erteilung der Zustimmung bedarf des Einvernehmens des Bundesministeriums des Innern, für Bau und Heimat.
 
 (4) Für die Erstattung von Fahrtkosten gilt das Bundesreisekostengesetz entsprechend mit der Maßgabe, dass Wegstreckenentschädigung nur nach § 5 Abs. 1 des Bundesreisekostengesetzes gewährt wird. Bei Fahrten nach den Absätzen 1 und 2 Nr. 6 sind die nach jeweiligem Landes- oder Kommunalrecht berechneten Beträge beihilfefähig.
 
-(5) Ist für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, in Krankheits- oder Geburtsfällen eine notwendige medizinische Versorgung im Gastland nicht gewährleistet, sind die Kosten der Beförderung zum nächstgelegenen geeigneten Behandlungsort beihilfefähig, wenn
+(5) Ist für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, in Krankheits- oder Geburtsfällen eine notwendige medizinische Versorgung im Gastland nicht gewährleistet, sind die Kosten der Beförderung zum nächstgelegenen geeigneten Behandlungsort einschließlich der Kosten für die Rückfahrt beihilfefähig, wenn
 
 1.  
 eine sofortige Behandlung geboten war oder
 
 2.  
-die Festsetzungsstelle die Beihilfefähigkeit dieser Aufwendungen vorher dem Grunde nach anerkannt hat; in begründeten Ausnahmefällen kann die Anerkennung nachträglich erfolgen.
+die Festsetzungsstelle die Beihilfefähigkeit dieser Aufwendungen vorher dem Grunde nach anerkannt hat; in Ausnahmefällen kann die Anerkennung nachträglich erfolgen.
+
+Die Hin- und Rückfahrt gelten als eine Fahrt.
 
 ### § 32 Unterkunftskosten
 
@@ -1396,7 +1583,15 @@ die Festsetzungsstelle die Beihilfefähigkeit dieser Aufwendungen vorher dem Gru
 
 ### § 33 Lebensbedrohliche oder regelmäßig tödlich verlaufende Krankheiten
 
-Aufwendungen für medizinische Leistungen anlässlich einer lebensbedrohlichen oder regelmäßig tödlich verlaufenden Erkrankung, für die eine allgemein anerkannte, dem medizinischen Standard entsprechende Behandlung nicht zur Verfügung steht, sind beihilfefähig, wenn eine nicht ganz entfernt liegende Aussicht auf Heilung oder auf eine spürbare positive Einwirkung auf den Krankheitsverlauf besteht. Die Festsetzungsstelle entscheidet in Fällen des Satzes 1 im Einvernehmen mit der obersten Dienstbehörde. Die oberste Dienstbehörde hat vor ihrer Zustimmung das Einvernehmen mit dem Bundesministerium des Innern herzustellen.
+Beihilfefähig sind Aufwendungen für medizinische Leistungen anlässlich einer lebensbedrohlichen Erkrankung, anlässlich einer im Regelfall tödlich verlaufenden Erkrankung oder anlässlich einer Erkrankung, die diesen beiden Arten von Erkrankungen wertungsmäßig vergleichbar ist, wenn
+
+1.  
+eine allgemein anerkannte, dem medizinischen Standard entsprechende Behandlung nicht zur Verfügung steht und
+
+2.  
+eine nicht ganz entfernt liegende Aussicht auf Heilung oder auf eine spürbare positive Einwirkung auf den Krankheitsverlauf besteht.
+
+Die Festsetzungsstelle entscheidet in Fällen des Satzes 1 im Einvernehmen mit der obersten Dienstbehörde. Die oberste Dienstbehörde hat vor ihrer Zustimmung das Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat herzustellen.
 
 Abschnitt 3 Rehabilitation
 --------------------------
@@ -1405,13 +1600,15 @@ Abschnitt 3 Rehabilitation
 
 ### § 34 Anschlussheil- und Suchtbehandlungen
 
-(1) Aufwendungen für ärztlich verordnete Anschlussheilbehandlungen, die als medizinische Rehabilitationsmaßnahmen durchgeführt werden, sind beihilfefähig. Eine Anschlussheilbehandlung im Sinne des Satzes 1 liegt vor, wenn sich die Rehabilitationsmaßnahme an einen Krankenhausaufenthalt zur Behandlung einer schwerwiegenden Erkrankung anschließt oder im Zusammenhang mit einer Krankenhausbehandlung steht. In Ausnahmefällen liegt eine Anschlussheilbehandlung im Sinne des Satzes 1 auch vor, wenn die Rehabilitationsmaßnahme nach einer ambulanten Behandlung erfolgt.
+(1) Aufwendungen für ärztlich verordnete Anschlussheilbehandlungen, die als medizinische Rehabilitationsmaßnahmen in Rehabilitationseinrichtungen, mit denen ein Versorgungsvertrag nach § 111 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch besteht, durchgeführt werden, sind beihilfefähig. Eine Anschlussheilbehandlung im Sinne des Satzes 1 liegt vor, wenn sich die Rehabilitationsmaßnahme an einen Krankenhausaufenthalt zur Behandlung einer schwerwiegenden Erkrankung anschließt oder im Zusammenhang mit einer Krankenhausbehandlung steht. Satz 1 gilt auch für Anschlussheilbehandlungen, wenn diese nach einer ambulanten Operation, Strahlen- oder Chemotherapie notwendig sind.
 
-(2) Aufwendungen für ärztlich verordnete Suchtbehandlungen, die als medizinische Rehabilitationsmaßnahmen oder Entwöhnungen durchgeführt werden, sind beihilfefähig. Aufwendungen für die ambulante Nachsorge nach einer stationären Entwöhnungsbehandlung sind in angemessener Höhe beihilfefähig.
+(2) Aufwendungen für ärztlich verordnete Suchtbehandlungen, die als medizinische Rehabilitationsmaßnahmen oder Entwöhnungen in Rehabilitationseinrichtungen, mit denen ein Versorgungsvertrag nach § 111 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch besteht, durchgeführt werden, sind beihilfefähig. Aufwendungen für die ambulante Nachsorge nach einer stationären Entwöhnungsbehandlung sind in angemessener Höhe beihilfefähig.
 
-(3) Die Beihilfefähigkeit nach den Absätzen 1 und 2 setzt voraus, dass die ärztliche Verordnung die Rehabilitationsmaßnahme jeweils nach Art, Dauer und Inhalt begründet. Die Einrichtung muss für die Durchführung der Anschlussheil- oder Suchtbehandlung geeignet sein. Maßnahmen nach Absatz 2 sind nur nach Zustimmung durch die Festsetzungsstelle beihilfefähig. In begründeten Ausnahmefällen kann die Zustimmung nachträglich erfolgen.
+(3) Die Beihilfefähigkeit nach den Absätzen 1 und 2 setzt voraus, dass die ärztliche Verordnung die Rehabilitationsmaßnahme jeweils nach Art und Dauer begründet. Die Einrichtung muss für die Durchführung der Anschlussheil- oder Suchtbehandlung geeignet sein. Maßnahmen nach Absatz 2 sind nur nach Zustimmung durch die Festsetzungsstelle beihilfefähig. In Ausnahmefällen kann die Zustimmung nachträglich erfolgen.
 
-(4) § 26 Absatz 1 Nummer 3, § 31 Absatz 2 sowie § 35 Absatz 2 Satz 1 und 2 Nummer 1 bis 4 und 5 Buchstabe a und b gelten entsprechend ohne die zeitliche Begrenzung des Satzes 2 Nummer 5 Buchstabe a und b auf 21 Tage.
+(4) § 26 Absatz 1 Nummer 5, § 31 Absatz 2 Satz 1 Nummer 3, 6 und 7, § 35 Absatz 2 Satz 1 und 2 Nummer 1 bis 4 und 5 Buchstabe a und b gelten entsprechend, jedoch ohne die zeitliche Begrenzung nach § 35 Absatz 2 Satz 2 Nummer 5 Buchstabe a und b auf 21 Tage.
+
+(5) Werden unter den Voraussetzungen des Absatzes 3 Rehabilitationsmaßnahmen nach Absatz 1 oder 2 in Rehabilitationseinrichtungen durchgeführt, mit denen kein Versorgungsvertrag nach § 111 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch besteht, sind Aufwendungen nur entsprechend den §§ 12, 13, 18, 22 bis 25, 26a Absatz 1 Nummer 2, 3 und zu 70 Prozent nach Nummer 5, Absatz 2, § 31 Absatz 2 Satz 1 Nummer 3, 6 und 7, § 35 Absatz 2 Satz 1 und 2 Nummer 1 bis 4 beihilfefähig.
 
 ### § 35 Rehabilitationsmaßnahmen
 
@@ -1427,7 +1624,7 @@ Mutter-Kind- oder Vater-Kind-Rehabilitationsmaßnahmen in Vorsorge- oder Rehabil
 ärztlich verordnete familienorientierte Rehabilitation für berücksichtigungsfähige Kinder, die an schweren chronischen Erkrankungen, insbesondere Krebserkrankungen oder Mukoviszidose, leiden oder deren Zustand nach Operationen am Herzen oder nach Organtransplantationen eine solche Maßnahme erfordert,
 
 4.  
-ambulante Rehabilitationsmaßnahmen unter ärztlicher Leitung nach einem Rehabilitationsplan in einem anerkannten Kurort zur Wiederherstellung oder Erhaltung der Dienstfähigkeit sowie zur Verhütung oder Vermeidung von Krankheiten oder deren Verschlimmerung für beihilfeberechtigte Personen nach § 2 Abs. 1 Nr. 1,
+ambulante Rehabilitationsmaßnahmen unter ärztlicher Leitung nach einem Rehabilitationsplan in einem anerkannten Heilbad oder Kurort zur Wiederherstellung oder Erhaltung der Dienstfähigkeit sowie zur Verhütung oder Vermeidung von Krankheiten oder deren Verschlimmerung für beihilfeberechtigte Personen nach § 2 Abs. 1 Nr. 1,
 
 5.  
 ärztlich verordnete ambulante Rehabilitationsmaßnahmen in Rehabilitationseinrichtungen oder durch wohnortnahe Einrichtungen und
@@ -1435,7 +1632,9 @@ ambulante Rehabilitationsmaßnahmen unter ärztlicher Leitung nach einem Rehabil
 6.  
 ärztlich verordneten Rehabilitationssport in Gruppen unter ärztlicher Betreuung und Überwachung.
 
-(2) Für Rehabilitationsmaßnahmen nach Absatz 1 sind Aufwendungen nach den §§ 12, 13, 18 und 22 bis 25 und 26 Abs. 1 Nr. 3 beihilfefähig. Daneben sind bei Leistungen nach Absatz 1 Nr. 1 bis 4 beihilfefähig:
+Anerkanntes Heilbad oder anerkannter Kurort sind solche, die in Anlage 15 aufgeführt sind. Die Unterkunft muss sich am Heilbad oder Kurort befinden.
+
+(2) Für Rehabilitationsmaßnahmen nach Absatz 1 Satz 1 sind Aufwendungen nach den §§ 12, 13, 18, 22 bis 25 und 26 Absatz 1 Nummer 5 beihilfefähig. Daneben sind bei Leistungen nach Absatz 1 Nummer 1 bis 4 beihilfefähig:
 
 1.  
 Fahrtkosten für die An- und Abreise einschließlich Gepäckbeförderungskosten
@@ -1444,7 +1643,7 @@ a)
 mit regelmäßig verkehrenden Beförderungsmitteln in Höhe der tatsächlichen Aufwendungen bis zu den in der niedrigsten Klasse anfallenden Kosten und
 
 b)  
-mit privaten Kraftfahrzeugen in entsprechender Anwendung des § 5 Abs. 1 des Bundesreisekostengesetzes,
+mit privaten Kraftfahrzeugen in entsprechender Anwendung des § 5 Absatz 1 des Bundesreisekostengesetzes,
 
 insgesamt jedoch nicht mehr als 200 Euro für die Gesamtmaßnahme,
 
@@ -1470,31 +1669,31 @@ c)
 bei Mutter-Kind- oder Vater-Kind-Rehabilitationsmaßnahmen für höchstens 21 Tage (ohne Tage der An- und Abreise) in Höhe der Entgelte, die die Einrichtung einem Sozialleistungsträger in Rechnung stellt,
 
 d)  
-bei ambulanten Rehabilitationsmaßnahmen nach Absatz 1 Nummer 4 in Höhe von 16 Euro täglich für höchstens 21 Tage (ohne Tage der An- und Abreise) und
+bei ambulanten Rehabilitationsmaßnahmen nach Absatz 1 Satz 1 Nummer 4 in Höhe von 16 Euro täglich für höchstens 21 Tage (ohne Tage der An- und Abreise) und
 
 e)  
-der Begleitpersonen bei ambulanten Rehabilitationsmaßnahmen nach Absatz 1 Nummer 4 in Höhe von 13 Euro täglich für höchstens 21 Tage (ohne Tage der An- und Abreise).
+der Begleitpersonen bei ambulanten Rehabilitationsmaßnahmen nach Absatz 1 Satz 1 Nummer 4 in Höhe von 13 Euro täglich für höchstens 21 Tage (ohne Tage der An- und Abreise).
 
-Bei Leistungen nach Absatz 1 Nummer 5 gilt Satz 2 Nummer 1 entsprechend. Aufwendungen für Leistungen nach Absatz 1 Nr. 6 sind bis zur Höhe von 6,20 Euro je Übungseinheit beihilfefähig.
+Bei Leistungen nach Absatz 1 Satz 1 Nummer 5 gilt Satz 2 Nummer 1 entsprechend. Aufwendungen für Leistungen nach Absatz 1 Satz 1 Nummer 6 sind bis zur Höhe des Betrages nach Anlage 9 Abschnitt 1 Nummer 7 je Übungseinheit beihilfefähig.
 
 ### § 36 Voraussetzungen für Rehabilitationsmaßnahmen
 
-(1) Aufwendungen für Rehabilitationsmaßnahmen nach § 35 Abs. 1 Nr. 1, 2 und 4 sind nur beihilfefähig, wenn die Festsetzungsstelle auf entsprechenden Antrag die Beihilfefähigkeit vor Beginn der Rehabilitationsmaßnahme anerkannt hat. Sie hat hierzu ein Gutachten einer Amtsärztin, eines Amtsarztes, einer von ihr beauftragten Ärztin oder eines von ihr beauftragten Arztes einzuholen, das Aussagen darüber enthält, dass
+(1) Aufwendungen für Rehabilitationsmaßnahmen nach § 35 Absatz 1 Satz 1 Nummer 1, 2 und 4 sind nur beihilfefähig, wenn die Festsetzungsstelle auf Antrag die Beihilfefähigkeit vor Beginn der Rehabilitationsmaßnahme anerkannt hat. Sie hat hierzu ein Gutachten einer Amtsärztin, eines Amtsarztes, einer von ihr beauftragten Ärztin oder eines von ihr beauftragten Arztes einzuholen, das Aussagen darüber enthält, dass
 
 1.  
 die Rehabilitationsmaßnahme medizinisch notwendig ist,
 
 2.  
-eine ambulante ärztliche Behandlung und die Anwendung von Heilmitteln am Wohnort wegen erheblich beeinträchtigter Gesundheit zur Erreichung der Rehabilitationsziele nicht ausreichend sind und
+eine ambulante ärztliche Behandlung und die Anwendung von Heilmitteln am Wohnort wegen erheblich beeinträchtigter Gesundheit nicht ausreichen, um die Rehabilitationsziele zu erreichen und
 
 3.  
-bei stationären Rehabilitationsmaßnahmen nach § 35 Abs. 1 Nr. 1 ein gleichwertiger Erfolg nicht auch durch eine ambulante Rehabilitationsmaßnahme nach § 35 Abs. 1 Nr. 4 erzielt werden kann.
+bei stationären Rehabilitationsmaßnahmen nach § 35 Absatz 1 Satz 1 Nummer 1 ein gleichwertiger Erfolg nicht auch durch eine ambulante Rehabilitationsmaßnahme nach § 35 Absatz 1 Satz 1 Nummer 4 erzielt werden kann.
 
-Für die Anerkennung einer Rehabilitationsmaßnahme nach § 35 Absatz 1 Nummer 1 ist ein Gutachten nicht notwendig, wenn die beihilfeberechtigte oder berücksichtigungsfähige Person mit der Mitteilung der Entscheidung über die Pflegebedürftigkeit eine Rehabilitationsempfehlung erhalten hat, aus der hervorgeht, dass die Durchführung einer solchen Rehabilitationsmaßnahme angezeigt ist. Wird die Rehabilitationsmaßnahme nicht innerhalb von vier Monaten nach Anerkennung begonnen, entfällt der Anspruch auf Beihilfe zu der anerkannten Rehabilitationsmaßnahme. In begründeten Ausnahmefällen kann die Anerkennung auch nachträglich erfolgen.
+Für die Anerkennung von Rehabilitationsmaßnahmen nach § 35 Absatz 1 Satz 1 Nummer 1 ist ein Gutachten nicht notwendig, wenn die beihilfeberechtigte oder berücksichtigungsfähige Person mit der Mitteilung der Entscheidung über die Pflegebedürftigkeit eine Rehabilitationsempfehlung erhalten hat, aus der hervorgeht, dass die Durchführung einer solchen Rehabilitationsmaßnahme angezeigt ist. Wird die Rehabilitationsmaßnahme nicht innerhalb von vier Monaten nach Anerkennung begonnen, entfällt der Anspruch auf Beihilfe zu der anerkannten Rehabilitationsmaßnahme. In Ausnahmefällen kann die Anerkennung auch nachträglich erfolgen.
 
 (2) Die Anerkennung von Rehabilitationsmaßnahmen nach Absatz 1 ist nicht zulässig, wenn im laufenden oder den drei vorherigen Kalenderjahren eine als beihilfefähig anerkannte Rehabilitationsmaßnahme nach Absatz 1 durchgeführt wurde, es sei denn, nach dem Gutachten ist aus medizinischen Gründen eine Rehabilitationsmaßnahme nach Absatz 1 in einem kürzeren Zeitabstand dringend notwendig.
 
-(3) Für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind Aufwendungen für eine Rehabilitationsmaßnahme im Sinne des § 35 Abs. 1 Nr. 1 in einer ausländischen Einrichtung außerhalb der Europäischen Union auch beihilfefähig, wenn vor Beginn der Maßnahme die oder der von der Festsetzungsstelle beauftragte Ärztin oder Arzt die Einrichtung für geeignet erklärt hat und die stationäre Rehabilitationsmaßnahme nicht in einem Staat der Europäischen Union durchgeführt werden kann. Dem Antrag auf Anerkennung der Beihilfefähigkeit sind Unterlagen über die in Aussicht genommene Einrichtung beizufügen. Wird eine Rehabilitationsmaßnahme nach § 35 Abs. 1 Nr. 1 bis 4 in einem Staat der Europäischen Union durchgeführt, sind die Beförderungskosten zwischen dem Auslandsdienstort und dem Behandlungsort beihilfefähig, wenn die An- und Abreise nicht mit einer Heimaturlaubsreise oder einer anderen amtlich bezahlten Reise verbunden werden kann. Dies gilt auch, wenn eine Rehabilitationsmaßnahme aufgrund der in § 9 Abs. 1 erwähnten Rechtsvorschriften oder arbeitsvertraglichen Vereinbarungen gewährt wird, soweit der Kostenträger Fahrtkosten für die Abreise vom und die Anreise zum Auslandsdienstort nicht übernimmt und die Festsetzungsstelle die Beihilfefähigkeit der Fahrtkosten vorher dem Grunde nach anerkannt hat.
+(3) Für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind Aufwendungen für eine Rehabilitationsmaßnahme im Sinne des § 35 Absatz 1 Satz 1 Nummer 1 in einer ausländischen Einrichtung außerhalb der Europäischen Union auch beihilfefähig, wenn vor Beginn der Maßnahme die oder der von der Festsetzungsstelle beauftragte Ärztin oder Arzt die Einrichtung für geeignet erklärt hat und die stationäre Rehabilitationsmaßnahme nicht in einem Staat der Europäischen Union durchgeführt werden kann. Dem Antrag auf Anerkennung der Beihilfefähigkeit sind Unterlagen über die in Aussicht genommene Einrichtung beizufügen. Wird eine Rehabilitationsmaßnahme nach § 35 Absatz 1 Satz 1 Nummer 1 bis 4 in einem Staat der Europäischen Union durchgeführt, sind die Beförderungskosten zwischen dem Auslandsdienstort und dem Behandlungsort beihilfefähig, wenn die An- und Abreise nicht mit einer Heimaturlaubsreise oder einer anderen amtlich bezahlten Reise verbunden werden kann. Dies gilt auch, wenn eine Rehabilitationsmaßnahme auf Grund der in § 9 Abs. 1 erwähnten Rechtsvorschriften oder arbeitsvertraglichen Vereinbarungen gewährt wird, soweit der Kostenträger Fahrtkosten für die Abreise vom und die Anreise zum Auslandsdienstort nicht übernimmt und die Festsetzungsstelle die Beihilfefähigkeit der Fahrtkosten vorher dem Grunde nach anerkannt hat.
 
 Kapitel 3 Aufwendungen in Pflegefällen
 --------------------------------------
@@ -1517,98 +1716,218 @@ beantragt haben und erkennbar Hilfe- und Beratungsbedarf besteht und
 2.  
 eine entsprechende Vereinbarung des Bundes und den Trägern der Pflegeberatung nach § 7a des Elften Buches Sozialgesetzbuch besteht.
 
-Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern bekanntgegeben.
+Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern, für Bau und Heimat bekanntgegeben.
 
-(2) Beihilfeberechtigte und berücksichtigungsfähige Personen erhalten Beihilfe zu Pflegeleistungen, wenn sie
+(2) Beihilfeberechtigte und berücksichtigungsfähige Personen erhalten Beihilfe zu Pflegeleistungen nach Maßgabe der §§ 38 bis 38g und der §§ 39 bis 39b, wenn sie pflegebedürftig im Sinne der §§ 14 und 15 des Elften Buches Sozialgesetzbuch sind.
+
+### § 38 Anspruchsberechtigte bei Pflegeleistungen
+
+Aufwendungen für Pflegeleistungen sind nur beihilfefähig bei beihilfeberechtigten oder berücksichtigungsfähigen Personen
 
 1.  
-pflegebedürftig im Sinne des § 14 des Elften Buches Sozialgesetzbuch sind und sie die Voraussetzungen für die Zuordnung zu einer Pflegestufe nach § 15 des Elften Buches Sozialgesetzbuch erfüllen, nach Maßgabe der §§ 38 und 39 oder
+der Pflegegrade 2 bis 5 nach Maßgabe der §§ 38a bis 39a und
 
 2.  
-die Voraussetzungen des § 45a des Elften Buches Sozialgesetzbuch erfüllen, nach Maßgabe des § 38 Absatz 8 und 9.
+des Pflegegrades 1 nach § 39b.
 
-### § 38 Häusliche Pflege, Tagespflege und Nachtpflege
+### § 38a Häusliche Pflege
 
-(1) Aufwendungen für häusliche Pflegehilfe sind in Höhe der in § 36 Abs. 3 des Elften Buches Sozialgesetzbuch genannten Sätze beihilfefähig, soweit sie die in § 14 Abs. 4 des Elften Buches Sozialgesetzbuch genannten Verrichtungen zur Sicherstellung der Grundpflege und zur hauswirtschaftlichen Versorgung sowie die Betreuungsleistungen nach § 36 Absatz 1 Satz 5 und § 124 Absatz 1 bis 3 des Elften Buches Sozialgesetzbuch betreffen und für geeignete Pflegekräfte entstehen, die in einem Vertragsverhältnis zur Pflegekasse oder zu einer ambulanten Pflegeeinrichtung stehen, mit der die jeweilige Pflegekasse einen Versorgungsvertrag abgeschlossen hat. Ausgenommen sind dabei Aufwendungen für Leistungen nach Satz 1, soweit sie nach § 27 beihilfefähig sind. § 36 Abs. 4 Satz 1 des Elften Buches Sozialgesetzbuch gilt entsprechend.
+(1) Aufwendungen für häusliche Pflege entsprechend § 36 Absatz 1 und 2 des Elften Buches Sozialgesetzbuch in Form von körperbezogenen Pflegemaßnahmen, pflegerischen Betreuungsmaßnahmen und Hilfen bei der Haushaltsführung sind in Höhe der in § 36 Absatz 3 des Elften Buches Sozialgesetzbuch genannten Sätze beihilfefähig. Voraussetzung ist, dass die häusliche Pflege durch geeignete Pflegekräfte erbracht wird, die in einem Vertragsverhältnis zur Pflegekasse oder zu einer ambulanten Pflegeeinrichtung stehen, mit der die jeweilige Pflegekasse einen Versorgungsvertrag abgeschlossen hat. Satz 1 ist nicht anwendbar, wenn Aufwendungen wegen desselben Sachverhalts für eine häusliche Krankenpflege nach § 27 beihilfefähig sind. § 36 Absatz 4 Satz 1 des Elften Buches Sozialgesetzbuch gilt entsprechend.
 
-(2) Anstelle der Beihilfe nach Absatz 1 kann auch eine Pauschalbeihilfe gewährt werden, soweit die häusliche Pflege durch andere als die in Absatz 1 Satz 1 genannten Pflegekräfte erfolgt. Die Höhe der Pauschalbeihilfe richtet sich dabei nach § 37 Abs. 1 des Elften Buches Sozialgesetzbuch. Ein aus der privaten oder der sozialen Pflegeversicherung zustehendes Pflegegeld und entsprechende Erstattungen oder Sachleistungen aufgrund sonstiger Rechtsvorschriften sind auf Pauschalbeihilfen anzurechnen. Für Personen, die nicht gegen das Risiko der Pflegebedürftigkeit versichert sind, werden die getätigten Aufwendungen im Rahmen der Pauschalbeihilfe zur Hälfte berücksichtigt. Pauschalbeihilfe wird nicht gewährt, soweit Anspruch auf Entschädigungsleistungen nach § 35 des Bundesversorgungsgesetzes besteht. Ein Anspruch auf Pflegepauschalen im Rahmen der Kriegsopferfürsorge nach § 26c des Bundesversorgungsgesetzes berühren die Gewährung von Pauschalbeihilfe nicht. Leistungen zur sozialen Sicherung der Pflegepersonen nach § 44 Absatz 1 des Elften Buches Sozialgesetzbuch sowie die in § 44a des Elften Buches Sozialgesetzbuch genannten zusätzlichen Leistungen bei Pflegezeit und das Pflegeunterstützungsgeld bei kurzzeitiger Arbeitsverhinderung einschließlich der damit verbundenen Leistungen zur sozialen Sicherung sind beihilfefähig.
+(2) Aufwendungen für Leistungen
 
-(3) Erfolgt die häusliche Pflegehilfe nach Absatz 1 nur teilweise durch eine der in Absatz 1 Satz 1 genannten Pflegekräfte, wird daneben anteilige Pauschalbeihilfe nach Absatz 2 gewährt. Die Pauschalbeihilfe wird um den Prozentsatz vermindert, zu dem Beihilfe nach Absatz 1 gewährt wird. Während einer Verhinderungs- oder Kurzzeitpflege nach Absatz 7 wird jeweils für bis zu vier Wochen je Kalenderjahr die Hälfte der zuvor geleisteten Pauschalbeihilfe gewährt. Pflegebedürftige Personen in vollstationären Einrichtungen der Hilfe für behinderte Menschen erhalten ungeminderte Pauschalbeihilfe anteilig für die Tage, an denen sie sich in häuslicher Pflege befinden.
+1.  
+zur Entlastung pflegender Angehöriger und vergleichbar nahestehender Pflegepersonen in ihrer Eigenschaft als Pflegende oder
 
-(4) Sind die Voraussetzungen nach Absatz 2 nicht für einen vollen Kalendermonat erfüllt, ist die Pauschalbeihilfe um ein Dreißigstel für jeden nicht in Anspruch genommenen Tag zu mindern. Während einer Verhinderungs- oder Kurzzeitpflege nach Absatz 7 wird jeweils für bis zu vier Wochen je Kalenderjahr die Hälfte der zuvor geleisteten Pauschalbeihilfe gewährt. Verstirbt die oder der Pflegebedürftige, wird die Pauschalbeihilfe bis zum Ende des Kalendermonats gewährt, in dem der Tod eingetreten ist.
+2.  
+zur Förderung der Selbständigkeit und Selbstbestimmtheit der Pflegebedürftigen bei der Gestaltung ihres Alltags
 
-(5) Werden Leistungen nach den Absätzen 1 bis 3 in ambulant betreuten Wohngruppen erbracht, gilt § 38a des Elften Buches Sozialgesetzbuch entsprechend. Daneben sind die Kosten der Anschubfinanzierung zur Gründung ambulant betreuter Wohngruppen entsprechend § 45e des Elften Buches Sozialgesetzbuch beihilfefähig.
+sind entsprechend den §§ 45a und 45b des Elften Buches Sozialgesetzbuch beihilfefähig.
 
-(6) Aufwendungen für teilstationäre Pflege in Einrichtungen der Tages- oder Nachtpflege sind beihilfefähig, wenn häusliche Pflege nicht in ausreichendem Umfang sichergestellt werden kann oder die teilstationäre Pflege zur Ergänzung oder Stärkung der häuslichen Pflege erforderlich ist. Die teilstationäre Pflege umfasst auch die notwendige Beförderung der oder des Pflegebedürftigen von der Wohnung zur Einrichtung der Tages- oder Nachtpflege und zurück. § 41 Abs. 2 des Elften Buches Sozialgesetzbuch gilt entsprechend. Aufwendungen für Leistungen der teilstationären Tages- und Nachtpflege sind neben den Aufwendungen nach den Absätzen 1 bis 3 beihilfefähig.
+(3) Anstelle der Beihilfe nach Absatz 1 wird eine Pauschalbeihilfe gewährt, sofern die häusliche Pflege durch andere als die in Absatz 1 Satz 2 genannten Pflegekräfte erfolgt. Die Höhe der Pauschalbeihilfe richtet sich dabei nach § 37 Absatz 1 des Elften Buches Sozialgesetzbuch. Ein aus der privaten oder der sozialen Pflegeversicherung zustehendes Pflegegeld und entsprechende Erstattungen oder Sachleistungen auf Grund sonstiger Rechtsvorschriften sind auf Pauschalbeihilfen anzurechnen. Beihilfeberechtigte oder berücksichtigungsfähige Personen, die nicht gegen das Risiko der Pflegebedürftigkeit versichert sind, erhalten die Pauschalbeihilfe zur Hälfte.
 
-(7) Bei Verhinderung der Pflegeperson und bei Kurzzeitpflege gelten die §§ 39 und 42 des Elften Buches Sozialgesetzbuch entsprechend.
+(4) Besteht der Anspruch auf Pauschalbeihilfe nicht für einen vollen Kalendermonat, wird die Pauschalbeihilfe für den Teilmonat nur anteilig gewährt; dabei ist ein Kalendermonat mit 30 Tagen anzusetzen. Pauschalbeihilfe wird fortgewährt
 
-(8) Beihilfeberechtigte und berücksichtigungsfähige Personen nach § 37 Absatz 2 Nummer 2 mit oder ohne Zuordnung zu einer Pflegestufe nach § 15 des Elften Buches Sozialgesetzbuch erhalten Beihilfe entsprechend den §§ 45b, 123 Absatz 2 Nummer 1 bis 3, Absatz 3 und 4, § 124 Absatz 1 bis 3 des Elften Buches Sozialgesetzbuch, Absatz 10 sowie im Falle der Verhinderung der Pflegeperson nach Absatz 7. Für Pflegedürftige, die nicht die Voraussetzungen des § 45a des Elften Buches Sozialgesetzbuch erfüllen, sind zusätzliche Betreuungs- und Entlastungsleistungen nach § 45b Absatz 1 des Elften Buches Sozialgesetzbuch bis zu einem Betrag von 104 Euro monatlich beihilfefähig.
+1.  
+während einer Verhinderungspflege nach § 38c für bis zu sechs Wochen je Kalenderjahr und
 
-(9) Beihilfe wird auch zu Aufwendungen für Beratungsbesuche im Sinne des § 37 Abs. 3 des Elften Buches Sozialgesetzbuch gewährt, soweit für den jeweiligen Beratungsbesuch Anspruch auf Zahlung eines Zuschusses durch die private oder soziale Pflegeversicherung besteht. § 37 Abs. 4 Satz 1 des Elften Buches Sozialgesetzbuch bleibt unberührt. Der Umfang der beihilfefähigen Aufwendungen bestimmt sich entsprechend § 37 Abs. 3 des Elften Buches Sozialgesetzbuch. § 37 Absatz 6 des Elften Buches Sozialgesetzbuch gilt entsprechend.
+2.  
+während einer Kurzzeitpflege nach § 38e für bis zu acht Wochen je Kalenderjahr.
 
-(10) Beihilfe wird auch zu Aufwendungen für Pflegehilfsmittel nach § 40 Abs. 1 bis 3 und 5 des Elften Buches Sozialgesetzbuch und für Maßnahmen zur Verbesserung des individuellen Wohnumfelds der pflegebedürftigen Person nach § 40 Abs. 4 des Elften Buches Sozialgesetzbuch gewährt. Die Aufwendungen nach Satz 1 sind nur beihilfefähig, wenn auch ein Anspruch auf anteilige Zuschüsse für die jeweiligen Leistungen gegen die private oder soziale Pflegeversicherung besteht. Bei privater Pflegeversicherung ist der Aufwendungsbetrag dem Grunde nach beihilfefähig, aus dem der anteilige Zuschuss berechnet wird.
+Die Höhe der fortgewährten Pauschalbeihilfe beträgt die Hälfte der vor Beginn der Verhinderungs- oder Kurzzeitpflege geleisteten Pauschalbeihilfe. Verstirbt die oder der Pflegebedürftige, wird die Pauschalbeihilfe bis zum Ende des Kalendermonats gewährt, in dem der Tod eingetreten ist.
+
+(5) Pauschalbeihilfe wird nicht gewährt, sofern ein Anspruch auf Entschädigungsleistungen nach § 35 des Bundesversorgungsgesetzes besteht. Ein Anspruch auf Pflegepauschalen im Rahmen der Kriegsopferfürsorge nach § 26c des Bundesversorgungsgesetzes berührt die Gewährung von Pauschalbeihilfe nicht.
+
+(6) Beihilfefähig sind auch Aufwendungen für Beratungsbesuche im Sinne des § 37 Absatz 3 des Elften Buches Sozialgesetzbuch, sofern für den jeweiligen Beratungsbesuch Anspruch auf Zahlung eines Zuschusses durch die private oder soziale Pflegeversicherung besteht. § 37 Absatz 4 Satz 1 des Elften Buches Sozialgesetzbuch bleibt unberührt. Der Umfang der beihilfefähigen Aufwendungen bestimmt sich entsprechend § 37 Absatz 3 des Elften Buches Sozialgesetzbuch. § 37 Absatz 6 des Elften Buches Sozialgesetzbuch gilt entsprechend.
+
+### § 38b Kombinationsleistungen
+
+(1) Erfolgt die häusliche Pflegehilfe nach § 38a Absatz 1 nur teilweise durch eine geeignete Pflegekraft, die die Voraussetzungen nach § 38a Absatz 1 Satz 2 erfüllt, wird neben der Beihilfe anteilige Pauschalbeihilfe nach § 38a Absatz 3 gewährt. Die Pauschalbeihilfe wird um den Prozentsatz vermindert, zu dem Beihilfe nach § 38a Absatz 1 gewährt wird.
+
+(2) Die anteilige Pauschalbeihilfe wird fortgewährt
+
+1.  
+während einer Verhinderungspflege nach § 38c für bis zu sechs Wochen je Kalenderjahr und
+
+2.  
+während einer Kurzzeitpflege nach § 38e für bis zu acht Wochen je Kalenderjahr.
+
+Die Höhe der fortgewährten Pauschalbeihilfe beträgt die Hälfte der vor Beginn der Verhinderungs- oder Kurzzeitpflege geleisteten Pauschalbeihilfe.
+
+(3) Pflegebedürftige Personen in vollstationären Einrichtungen der Hilfe für behinderte Menschen erhalten ungeminderte Pauschalbeihilfe anteilig für die Tage, an denen sie sich in häuslicher Pflege befinden.
+
+### § 38c Häusliche Pflege bei Verhinderung der Pflegeperson
+
+Ist eine Pflegeperson wegen Erholungsurlaubs, Krankheit oder aus anderen Gründen an der häuslichen Pflege gehindert, so sind Aufwendungen für eine notwendige Ersatzpflege entsprechend § 39 des Elften Buches Sozialgesetzbuch beihilfefähig. Voraussetzung ist, dass die Pflegeperson die pflegebedürftige beihilfeberechtigte oder berücksichtigungsfähige Person vor der erstmaligen Verhinderung mindestens sechs Monate in ihrer häuslichen Umgebung gepflegt hat.
+
+### § 38d Teilstationäre Pflege
+
+(1) Aufwendungen für teilstationäre Pflege in Einrichtungen der Tages- oder Nachtpflege sind entsprechend § 41 Absatz 2 des Elften Buches Sozialgesetzbuch beihilfefähig, wenn
+
+1.  
+häusliche Pflege nicht in ausreichendem Umfang sichergestellt werden kann oder
+
+2.  
+die teilstationäre Pflege zur Ergänzung oder Stärkung der häuslichen Pflege erforderlich ist.
+
+(2) Die teilstationäre Pflege umfasst auch die notwendige Beförderung der pflegebedürftigen Person von der Wohnung zur Einrichtung der Tages- oder Nachtpflege und zurück.
+
+(3) Aufwendungen für Leistungen der teilstationären Pflege sind neben den Aufwendungen nach § 38a Absatz 1 oder 3 oder nach § 38b beihilfefähig.
+
+### § 38e Kurzzeitpflege
+
+Kann die häusliche Pflege zeitweise nicht, noch nicht oder nicht im erforderlichen Umfang erbracht werden und reicht auch teilstationäre Pflege nicht aus, sind Aufwendungen für Kurzzeitpflege entsprechend § 42 des Elften Buches Sozialgesetzbuch beihilfefähig.
+
+### § 38f Ambulant betreute Wohngruppen
+
+Entstehen Aufwendungen nach § 38a Absatz 1, 2 oder 3 oder nach § 38b in ambulant betreuten Wohngruppen und sind auch die Voraussetzungen nach § 38a Absatz 1 des Elften Buches Sozialgesetzbuch erfüllt, wird eine weitere Beihilfe entsprechend § 38a Absatz 1 des Elften Buches Sozialgesetzbuch zum jeweiligen Bemessungssatz gewährt. Daneben sind Aufwendungen im Rahmen der Anschubfinanzierung zur Gründung ambulant betreuter Wohngruppen entsprechend § 45e des Elften Buches Sozialgesetzbuch beihilfefähig.
+
+### § 38g Pflegehilfsmittel und Maßnahmen zur Verbesserung des Wohnumfeldes
+
+Beihilfefähig sind Aufwendungen für
+
+1.  
+Pflegehilfsmittel nach § 40 Absatz 1 bis 3 und 5 des Elften Buches Sozialgesetzbuch und
+
+2.  
+Maßnahmen zur Verbesserung des Wohnumfeldes der pflegebedürftigen Person nach § 40 Absatz 4 des Elften Buches Sozialgesetzbuch.
+
+Die Aufwendungen nach Satz 1 sind nur beihilfefähig, wenn auch ein Anspruch auf anteilige Zuschüsse für die jeweiligen Leistungen gegen die private oder soziale Pflegeversicherung besteht.Bei privater Pflegeversicherung ist derjenige Betrag dem Grunde nach beihilfefähig, der für die Berechnung der anteiligen Versicherungsleistungen zugrunde gelegt worden ist.
+
+### § 38h Leistungen zur sozialen Sicherung der Pflegeperson
+
+(1) Auf Antrag der Pflegeperson sind beihilfefähig
+
+1.  
+Zuschüsse zur Kranken- und Pflegeversicherung nach § 44a Absatz 1 und 4 des Elften Buches Sozialgesetzbuch und
+
+2.  
+Pflegeunterstützungsgeld nach § 44a Absatz 3 des Elften Buches Sozialgesetzbuch.
+
+(2) Die Festsetzungsstelle führt an die jeweiligen Leistungsträger Leistungen ab für die
+
+1.  
+Pflegeperson im Sinne des § 19 des Elften Buches Sozialgesetzbuch zur sozialen Sicherung nach § 44 Absatz 1, 2 und 2b des Elften Buches Sozialgesetzbuch und
+
+2.  
+Bezieherinnen und Bezieher von Pflegeunterstützungsgeld nach § 26 Absatz 2 Nummer 2b des Dritten Buches Sozialgesetzbuch in Verbindung mit den §§ 345 und 347 des Dritten Buches Sozialgesetzbuch.
+
+(3) Die Leistungen nach den Absätzen 1 und 2 werden in der Höhe gewährt, die dem Bemessungssatz der beihilfeberechtigten oder berücksichtigungsfähigen Person entspricht.
 
 ### § 39 Vollstationäre Pflege
 
 (1) Aufwendungen für vollstationäre Pflege in einer zugelassenen Pflegeeinrichtung im Sinne des § 72 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch oder in einer vergleichbaren Pflegeeinrichtung sind beihilfefähig, wenn häusliche oder teilstationäre Pflege nicht möglich ist oder wegen der Besonderheit des Einzelfalls nicht in Betracht kommt. Beihilfefähig sind:
 
 1.  
-pflegebedingte Aufwendungen,
+pflegebedingte Aufwendungen einschließlich der Aufwendungen für Betreuung und
 
 2.  
-Aufwendungen für medizinische Behandlungspflege, soweit hierzu nicht nach § 27 Beihilfe gewährt wird, und
+Aufwendungen für medizinische Behandlungspflege, sofern hierzu nicht nach § 27 Beihilfe gewährt wird.
 
-3.  
-Aufwendungen für soziale Betreuung.
+§ 43 Absatz 2 und 4 des Elften Buches Sozialgesetzbuch gilt entsprechend.
 
-§ 43 Absatz 2, 3 und 5 des Elften Buches Sozialgesetzbuch gilt entsprechend.
-
-(2) Aufwendungen für Pflegeleistungen, die über die nach Absatz 1 beihilfefähigen Aufwendungen hinausgehen, Verpflegung und Unterkunft einschließlich der Investitionskosten sind auf besonderen Antrag beihilfefähig, soweit die Pflegeeinrichtung monatlich abrechnet und von den durchschnittlichen monatlichen Einnahmen nach Absatz 3 nicht mindestens ein Betrag in Höhe der Summe der folgenden monatlichen Beträge verbleibt:
+(2) Rechnet die Pflegeeinrichtung monatlich ab, so sind auf besonderen Antrag Aufwendungen für Pflegeleistungen, die über die nach Absatz 1 beihilfefähigen Aufwendungen hinausgehen, sowie für Verpflegung und Unterkunft einschließlich der Investitionskosten beihilfefähig, sofern von den durchschnittlichen monatlichen nach Absatz 3 maßgeblichen Einnahmen höchstens ein Betrag in Höhe der Summe der folgenden monatlichen Beträge verbleibt:
 
 1.  
-8 Prozent des Grundgehalts der Stufe 8 der Besoldungsgruppe A 13 für jede beihilfeberechtigte und jede berücksichtigungsfähige Person sowie für jede Ehegattin, jeden Ehegatten, jede Lebenspartnerin oder jeden Lebenspartner, für die oder den ein Anspruch nach Absatz 1 oder § 43 des Elften Buches Sozialgesetzbuch besteht,
+8 Prozent des Grundgehalts der Stufe 8 der Besoldungsgruppe A 13 für jede beihilfeberechtigte und jede berücksichtigungsfähige Person sowie für jede Ehegattin oder jeden Ehegatten oder für jede Lebenspartnerin oder jeden Lebenspartner, für die oder den ein Anspruch nach Absatz 1 oder nach § 43 Absatz 1, 2 und 4 des Elften Buches Sozialgesetzbuch besteht,
 
 2.  
-30 Prozent des Grundgehalts der Stufe 8 der Besoldungsgruppe A 13 für eine beihilfeberechtigte Person sowie für eine Ehegattin, einen Ehegatten, eine Lebenspartnerin oder einen Lebenspartner, für die oder den kein Anspruch nach Absatz 1 oder nach § 43 des Elften Buches Sozialgesetzbuch besteht,
+30 Prozent des Grundgehalts der Stufe 8 der Besoldungsgruppe A 13 für eine beihilfeberechtigte Person sowie für eine Ehegattin oder einen Ehegatten oder für eine Lebenspartnerin oder einen Lebenspartner, für die oder den kein Anspruch nach Absatz 1 oder nach § 43 Absatz 1, 2 und 4 des Elften Buches Sozialgesetzbuch besteht,
 
 3.  
-3 Prozent des Grundgehalts der Stufe 8 der Besoldungsgruppe A 13 für jedes berücksichtigungsfähige Kind, für das kein Anspruch auf Beihilfe nach Absatz 1 oder nach § 43 des Elften Buches Sozialgesetzbuch besteht, und
+3 Prozent des Grundgehalts der Stufe 8 der Besoldungsgruppe A 13 für jedes berücksichtigungsfähige Kind, für das kein Anspruch auf Beihilfe nach Absatz 1 oder nach § 43 Absatz 1, 2 und 4 des Elften Buches Sozialgesetzbuch besteht, und
 
 4.  
 3 Prozent des Grundgehalts der letzten Besoldungsgruppe für die beihilfeberechtigte Person.
 
-Satz 1 gilt bei anderen Abrechnungszeiträumen entsprechend. Satz 1 gilt nicht für Zusatzleistungen nach § 88 des Elften Buches Sozialgesetzbuch. Hat eine beihilfeberechtigte oder eine berücksichtigungsfähige Person Anspruch auf Zuschuss zu den Unterkunfts-, Investitions- und Verpflegungskosten nach landesrechtlichen Vorschriften, sind die Aufwendungen nach Satz 1 in Höhe des tatsächlich gezahlten Zuschusses zu mindern.
+Satz 1 gilt bei anderen Abrechnungszeiträumen entsprechend. Hat eine beihilfeberechtigte oder eine berücksichtigungsfähige Person Anspruch auf Zuschuss zu den Unterkunfts-, Investitions- und Verpflegungskosten nach landesrechtlichen Vorschriften, sind die Aufwendungen nach Satz 1 in Höhe des tatsächlich gezahlten Zuschusses zu mindern.
 
-(3) Als Einnahmen im Sinne des Absatzes 2 Satz 1 gelten die folgenden im Kalenderjahr vor der Antragstellung erzielten Einkünfte:
+(3) Maßgeblich sind die im Kalenderjahr vor der Antragstellung erzielten Einnahmen. Einnahmen sind:
 
 1.  
-die nach Anwendung von Ruhens-, Kürzungs- und Anrechnungsvorschriften verbleibenden Bruttobezüge nach § 1 Absatz 2 Nummer 1 und 3 und Absatz 3 des Bundesbesoldungsgesetzes und der Altersteilzeitzuschlag; ausgenommen ist der kinderbezogene Familienzuschlag,
+die Bruttobezüge nach § 1 Absatz 2 Nummer 1 und 3 und Absatz 3 des Bundesbesoldungsgesetzes, die nach Anwendung von Ruhens-, Kürzungs- und Anrechnungsvorschriften verbleiben, und der Altersteilzeitzuschlag; unberücksichtigt bleibt der kinderbezogene Familienzuschlag,
 
 2.  
-die nach Anwendung von Ruhens-, Kürzungs- und Anrechnungsvorschriften verbleibenden Bruttobezüge nach § 2 des Beamtenversorgungsgesetzes mit Ausnahme des Unterschiedsbetrags nach § 50 Absatz 1 Satz 2 des Beamtenversorgungsgesetzes, soweit der beihilfeberechtigten Person nicht nach § 57 des Beamtenversorgungsgesetzes geringere Versorgungsbezüge zustehen; der Unfallausgleich nach § 35 des Beamtenversorgungsgesetzes und die Unfallentschädigung nach § 43 des Beamtenversorgungsgesetzes bleiben unberücksichtigt,
+die Bruttobezüge nach § 2 des Beamtenversorgungsgesetzes, die nach Anwendung von Ruhens-, Kürzungs- und Anrechnungsvorschriften verbleiben; unberücksichtigt bleiben das Sterbegeld nach § 18 des Beamtenversorgungsgesetzes, der Unterschiedsbetrag nach § 50 Absatz 1 Satz 2 des Beamtenversorgungsgesetzes, sofern der beihilfeberechtigten Person nicht nach § 57 des Beamtenversorgungsgesetzes geringere Versorgungsbezüge zustehen, sowie der Unfallausgleich nach § 35 des Beamtenversorgungsgesetzes und die Unfallentschädigung nach § 43 des Beamtenversorgungsgesetzes,
 
 3.  
-der Zahlbetrag der Renten aus der gesetzlichen Rentenversicherung und aus einer zusätzlichen Alters- und Hinterbliebenenversorgung der beihilfeberechtigten Person, der Ehegattin, des Ehegatten, der Lebenspartnerin oder des Lebenspartners; maßgeblich ist der Betrag, der sich vor Abzug der Beiträge zur Kranken- und Pflegeversicherung und ohne Berücksichtigung des Beitragszuschusses ergibt, dabei bleiben Leistungen der Kindererziehung nach § 294 des Sechsten Buches Sozialgesetzbuch unberücksichtigt sowie
+der Zahlbetrag der Renten aus der gesetzlichen Rentenversicherung und aus einer zusätzlichen Alters- und Hinterbliebenenversorgung der beihilfeberechtigten Person, der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des Lebenspartners; maßgeblich ist der Betrag, der sich vor Abzug der Beiträge zur Kranken- und Pflegeversicherung und ohne Berücksichtigung des Beitragszuschusses ergibt; eine Leistung für Kindererziehung nach § 294 des Sechsten Buches Sozialgesetzbuch bleibt unberücksichtigt,
 
 4.  
-der unter § 2 Absatz 3 des Einkommensteuergesetzes fallende Gesamtbetrag der Einkünfte der Ehegattin, des Ehegatten, der Lebenspartnerin oder des Lebenspartners, ausgenommen der der Besteuerung unterliegende Anteil einer gesetzlichen Rente.
+der unter § 2 Absatz 3 des Einkommensteuergesetzes fallende Gesamtbetrag der Einkünfte der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des Lebenspartners; unberücksichtigt bleibt der Anteil einer gesetzlichen Rente, der der Besteuerung unterliegt.
 
-Die Einnahmen sind jährlich nachzuweisen. Macht die beihilfeberechtigte Person glaubhaft, dass die Einnahmen im Jahr der Antragstellung voraussichtlich wesentlich geringer sind als im Kalenderjahr davor, sind die aktuellen Einnahmen zugrunde zu legen.
+Die Einnahmen sind jährlich nachzuweisen. Macht die beihilfeberechtigte Person glaubhaft, dass die aktuellen Einnahmen voraussichtlich wesentlich geringer sind als die im Kalenderjahr vor der Antragstellung erzielten durchschnittlichen monatlichen Einnahmen, sind die Einnahmen im jeweiligen Pflegemonat zugrunde zu legen. Hat die beihilfeberechtigte Person keine Einnahmen nach Satz 1 aus dem Kalenderjahr vor Antragstellung, werden die voraussichtlichen Einnahmen im jeweiligen Pflegemonat zugrunde gelegt. Befinden sich verheiratete oder in einer Lebenspartnerschaft lebende Personen in vollstationärer Pflege und verstirbt die beihilfeberechtigte Person, sind die aktuellen Einnahmen im jeweiligen Pflegemonat zugrunde zu legen, bis die Voraussetzungen nach Satz 3 nicht mehr vorliegen.
 
-(4) Beihilfefähig sind auch Aufwendungen für Pflege und Betreuung in einer vollstationären Einrichtung der Hilfe für behinderte Menschen, in der die Teilhabe am Arbeitsleben und am Leben in der Gemeinschaft, die schulische Ausbildung oder die Erziehung behinderter Menschen im Vordergrund des Einrichtungszwecks stehen. § 43a des Elften Buches Sozialgesetzbuch gilt entsprechend.
+(4) Beihilfefähig sind Aufwendungen für zusätzliche Betreuung und Aktivierung entsprechend § 43b des Elften Buches Sozialgesetzbuch, die über die nach Art und Schwere der Pflegebedürftigkeit notwendige Versorgung hinausgeht.
 
-(5) Beihilfefähig sind Aufwendungen nach § 87a Absatz 4 des Elften Buches Sozialgesetzbuch, wenn die pflegebedürftige Person nach der Durchführung aktivierender oder rehabilitativer Maßnahmen in eine niedrigere Pflegestufe oder von erheblicher zu nicht erheblicher Pflegebedürftigkeit zurückgestuft wurde.
+(5) Beihilfefähig sind Aufwendungen entsprechend § 87a Absatz 4 des Elften Buches Sozialgesetzbuch, wenn
 
-(6) Aufwendungen für Vergütungszuschläge nach § 87b des Elften Buches Sozialgesetzbuch sind beihilfefähig.
+1.  
+die pflegebedürftige beihilfeberechtigte oder berücksichtigungsfähige Person nach der Durchführung aktivierender oder rehabilitativer Maßnahmen in einen niedrigeren Pflegegrad zurückgestuft wurde oder
+
+2.  
+festgestellt wurde, dass die zuvor pflegebedürftige beihilfeberechtigte oder berücksichtigungsfähige Person nicht mehr pflegebedürftig im Sinne der §§ 14 und 15 des Elften Buches Sozialgesetzbuch ist.
+
+(6) Absatz 2 gilt nicht für Zusatzleistungen nach § 88 des Elften Buches Sozialgesetzbuch.
+
+### § 39a Einrichtungen der Behindertenhilfe
+
+Beihilfefähig sind entsprechend § 43a des Elften Buches Sozialgesetzbuch Aufwendungen für Pflege und Betreuung in einer vollstationären Einrichtung der Hilfe für behinderte Menschen, in der die Teilhabe am Arbeitsleben und am Leben in der Gemeinschaft, die schulische Ausbildung oder die Erziehung behinderter Menschen im Vordergrund des Einrichtungszwecks stehen.
+
+### § 39b Aufwendungen bei Pflegegrad 1
+
+Für pflegebedürftige beihilfeberechtigte oder berücksichtigungsfähige Personen des Pflegegrades 1 sind Aufwendungen beihilfefähig für:
+
+1.  
+Beratung im eigenen Haushalt nach § 38a Absatz 6,
+
+2.  
+zusätzliche Leistungen in ambulant betreuten Wohngruppen nach § 38f, ohne dass Aufwendungen nach § 38a Absatz 1, 2 oder 3 oder nach § 38b entstanden sein müssen,
+
+3.  
+Pflegehilfsmittel sowie Maßnahmen zur Verbesserung des Wohnumfeldes nach § 38g,
+
+4.  
+zusätzliche Betreuung und Aktivierung in stationären Pflegeeinrichtungen nach § 39 Absatz 4,
+
+5.  
+vollstationäre Pflege nach § 39 Absatz 1 in Höhe von 125 Euro monatlich,
+
+6.  
+den Entlastungsbetrag nach § 38a Absatz 2 in Verbindung mit § 45b des Elften Buches Sozialgesetzbuch,
+
+7.  
+Rückstufung nach § 39 Absatz 5.
+
+Daneben beteiligt sich der Bund an den Kosten der Pflegeberatung nach § 37 Absatz 1 und an den Leistungen zur sozialen Sicherung der Pflegepersonen nach § 38h Absatz 1 und Absatz 2 Nummer 2.
 
 ### § 40 Palliativversorgung
 
 (1) Aufwendungen für spezialisierte ambulante Palliativversorgung sind beihilfefähig, wenn wegen einer nicht heilbaren, fortschreitenden und weit fortgeschrittenen Erkrankung bei einer zugleich begrenzten Lebenserwartung eine besonders aufwändige Versorgung notwendig ist. § 37b Abs. 1 Satz 3 und 4 sowie § 37b Abs. 2 und 3 des Fünften Buches Sozialgesetzbuch gelten entsprechend.
 
-(2) Aufwendungen für stationäre oder teilstationäre Versorgung in Hospizen, in denen palliativ-medizinische Behandlung erbracht wird, sind nach Maßgabe einer ärztlichen Bescheinigung und in angemessener Höhe beihilfefähig, wenn eine ambulante Versorgung im eigenen Haushalt oder in der Familie nicht erbracht werden kann.
+(2) Aufwendungen für eine stationäre oder teilstationäre palliativ-medizinische Versorgung in einem Hospiz sind nach Maßgabe einer ärztlichen Bescheinigung und in angemessener Höhe beihilfefähig, wenn eine ambulante Versorgung im eigenen Haushalt oder in der Familie nicht erbracht werden kann.
 
-(3) Der Bund beteiligt sich an den personenbezogenen Kosten ambulanter Hospizdienste für erbrachte Sterbebegleitung einschließlich palliativ-pflegerischer Beratung bei beihilfeberechtigten und berücksichtigungsfähigen Personen. Voraussetzung einer Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und den für die Wahrnehmung der Interessen der ambulanten Hospizdienste maßgeblichen Spitzenorganisationen. Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern bekanntgegeben.
+(3) Der Bund beteiligt sich an den personenbezogenen Kosten ambulanter Hospizdienste für erbrachte Sterbebegleitung einschließlich palliativ-pflegerischer Beratung bei beihilfeberechtigten und berücksichtigungsfähigen Personen. Voraussetzung einer Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und den für die Wahrnehmung der Interessen der ambulanten Hospizdienste maßgeblichen Spitzenorganisationen. Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern, für Bau und Heimat bekanntgegeben.
 
 Kapitel 4 Aufwendungen in anderen Fällen
 ----------------------------------------
@@ -1628,13 +1947,15 @@ Früherkennungsuntersuchungen auf Zahn-, Mund- und Kieferkrankheiten,
 Maßnahmen zur Verhütung von Zahnerkrankungen (Individualprophylaxe) und
 
 3.  
-prophylaktische zahnärztliche Leistungen nach Abschnitt B und den Nummern 0010, 0070, 2000, 4050, 4055 und 4060 der Anlage zur Gebührenordnung für Zahnärzte und Nummer 1 der Anlage zur Gebührenordnung für Ärzte.
+prophylaktische zahnärztliche Leistungen nach Abschnitt B und den Nummern 0010, 0070, 2000, 4050, 4055 und 4060 der Anlage 1 zur Gebührenordnung für Zahnärzte und Nummer 1 der Anlage zur Gebührenordnung für Ärzte.
 
-(3) Aufwendungen für die Risikofeststellung und interdisziplinäre Beratung, Gendiagnostik und Früherkennung im Rahmen des Früherkennungsprogramms für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko sind nur beihilfefähig, wenn die Leistung durch von der Deutschen Krebshilfe zugelassene Zentren und nach Maßgabe der Anlage 14 erbracht werden.
+(3) Aufwendungen für Leistungen im Rahmen des Früherkennungsprogramms für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko sind nach Maßgabe der Anlage 14 beihilfefähig.
 
-(4) Das Bundesministerium des Innern kann die Beihilfefähigkeit von Aufwendungen für Maßnahmen zur Früherkennung, Überwachung und Verhütung von Erkrankungen, die nicht nach anderen Vorschriften dieser Verordnung beihilfefähig sind, in Verwaltungsvorschriften für diejenigen Fälle ausnahmsweise zulassen, in denen die Gewährung von Beihilfe im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes notwendig ist.
+(4) Aufwendungen für Leistungen im Rahmen des Früherkennungsprogramms für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko sind nach Maßgabe der Anlage 14a beihilfefähig.
 
-(5) § 31 Abs. 5 in Verbindung mit § 49 Absatz 4 Nummer 3 gilt entsprechend.
+(5) Das Bundesministerium des Innern, für Bau und Heimat kann die Beihilfefähigkeit von Aufwendungen für Maßnahmen zur Früherkennung, Überwachung und Verhütung von Erkrankungen, die nicht nach anderen Vorschriften dieser Verordnung beihilfefähig sind, in Verwaltungsvorschriften für diejenigen Fälle ausnahmsweise zulassen, in denen die Gewährung von Beihilfe im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes notwendig ist.
+
+(6) § 31 Abs. 5 in Verbindung mit § 49 Absatz 4 Nummer 3 gilt entsprechend.
 
 ### § 42 Schwangerschaft und Geburt
 
@@ -1644,13 +1965,13 @@ prophylaktische zahnärztliche Leistungen nach Abschnitt B und den Nummern 0010,
 ärztliche Betreuung während der Schwangerschaft und nach der Entbindung,
 
 2.  
-die Hebamme oder den Entbindungspfleger,
+die Hebamme oder den Entbindungspfleger im Rahmen der jeweiligen landesrechtlichen Gebührenordnung,
 
 3.  
 von Hebammen oder Entbindungspflegern geleitete Einrichtungen im Sinne des § 134a des Fünften Buches Sozialgesetzbuch, 
 
 4.  
-eine Haus- und Wochenpflegekraft für bis zu zwei Wochen nach der Geburt bei Hausentbindungen oder ambulanten Entbindungen. § 27 Abs. 3 gilt entsprechend.
+eine Haus- und Wochenpflegekraft für bis zu zwei Wochen nach der Geburt bei Hausentbindungen oder ambulanten Entbindungen. § 27 Absatz 4 gilt entsprechend.
 
 (2) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind in Geburtsfällen zusätzlich die vor Aufnahme in ein Krankenhaus am Entbindungsort entstehenden Kosten der Unterkunft beihilfefähig. § 32 Abs. 3 Satz 2 gilt entsprechend. Dies gilt nicht für die Unterkunft im Haushalt des Ehegatten, der Lebenspartnerin, der Eltern oder der Kinder der Schwangeren.
 
@@ -1658,56 +1979,71 @@ eine Haus- und Wochenpflegekraft für bis zu zwei Wochen nach der Geburt bei Hau
 
 (1) Aufwendungen für eine künstliche Befruchtung einschließlich der Arzneimittel, die im Zusammenhang damit verordnet werden, sind beihilfefähig, soweit deren Inhalt und Ausgestaltung den Grundsätzen nach § 27a des Fünften Buches Sozialgesetzbuch entsprechen.
 
-(2) Aufwendungen für eine durch eine Ärztin oder einen Arzt vorgenommene Sterilisation sind beihilfefähig, wenn diese wegen einer Krankheit notwendig ist.
+(2) Aufwendungen, die über die künstliche Befruchtung hinausgehen, insbesondere die Kryokonservierung von Samenzellen, imprägnierten Eizellen oder noch nicht transferierten Embryonen, sind außer in den Fällen des Satzes 2 nicht beihilfefähig. Aufwendungen für eine Kryokonservierung sind beihilfefähig, wenn die Kryokonservierung unmittelbar durch eine Krankheit bedingt ist und die oberste Dienstbehörde zugestimmt hat. Die oberste Dienstbehörde hat vor ihrer Zustimmung das Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat herzustellen.
 
-(3) Aufwendungen für die ärztliche Beratung über Fragen der Empfängnisregelung einschließlich der hierfür notwendigen ärztlichen Untersuchungen und ärztlich verordnete empfängnisregelnde Mittel sind beihilfefähig. Aufwendungen für ärztlich verordnete Mittel zur Empfängnisverhütung sowie für deren Applikation sind nur bei beihilfeberechtigten und berücksichtigungsfähigen Personen bis zum vollendeten 20. Lebensjahr beihilfefähig, es sei denn, sie sind nach ärztlicher Bestätigung zur Behandlung einer Krankheit notwendig. Aufwendungen für allgemeine Sexualaufklärung oder Sexualberatung sind nicht beihilfefähig.
+(3) Aufwendungen für eine durch eine Ärztin oder einen Arzt vorgenommene Sterilisation sind beihilfefähig, wenn diese wegen einer Krankheit notwendig ist.
 
-(4) Für einen nicht rechtswidrigen Schwangerschaftsabbruch sind Aufwendungen nach den §§ 12, 22, 26, 28, 29, 31 und 32 beihilfefähig. Daneben sind auch die Aufwendungen für die ärztliche Beratung über die Erhaltung der Schwangerschaft und die ärztliche Untersuchung und Begutachtung zur Feststellung der Voraussetzungen eines nicht rechtswidrigen Schwangerschaftsabbruchs beihilfefähig.
+(4) Aufwendungen für die ärztliche Beratung über Fragen der Empfängnisregelung einschließlich der hierfür notwendigen ärztlichen Untersuchungen und ärztlich verordnete empfängnisregelnde Mittel sind beihilfefähig. Aufwendungen für ärztlich verordnete Mittel zur Empfängnisverhütung sowie für deren Applikation sind nur bei beihilfeberechtigten und berücksichtigungsfähigen Personen bis zum vollendeten 20. Lebensjahr beihilfefähig, es sei denn, sie sind nach ärztlicher Bestätigung zur Behandlung einer Krankheit notwendig. Aufwendungen für allgemeine Sexualaufklärung oder Sexualberatung sind nicht beihilfefähig.
+
+(5) Für einen nicht rechtswidrigen Schwangerschaftsabbruch sind Aufwendungen nach den §§ 12, 22, 26, 28, 29, 31 und 32 beihilfefähig. Daneben sind auch die Aufwendungen für die ärztliche Beratung über die Erhaltung der Schwangerschaft und die ärztliche Untersuchung und Begutachtung zur Feststellung der Voraussetzungen eines nicht rechtswidrigen Schwangerschaftsabbruchs beihilfefähig.
 
 ### § 44 Überführungskosten
 
-(1) Ist eine beihilfeberechtigte Person während einer Dienstreise, Abordnung, Zuweisung oder vor einem dienstlich bedingten Umzug außerhalb des Ortes ihrer Hauptwohnung nach § 12 Absatz 2 Satz 2 des Melderechtsrahmengesetzes verstorben, so sind die Kosten der Überführung beihilfefähig.
+(1) Ist eine beihilfeberechtigte Person während einer Dienstreise, Abordnung, Zuweisung oder vor einem dienstlich bedingten Umzug außerhalb des Ortes ihrer Hauptwohnung nach § 22 Absatz 1 des Bundesmeldegesetzes verstorben, so sind die Kosten der Überführung beihilfefähig.
 
 (2) Für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind die Kosten der Überführung in das Inland bis zum Beisetzungsort beihilfefähig. Liegt der Beisetzungsort nicht im Inland, so sind Aufwendungen bis zur Höhe der Überführungskosten, die für eine Überführung in das Inland entstanden wären, beihilfefähig.
 
-### § 45 Erste Hilfe, Entseuchung, Kommunikationshilfe, Organspende und klinisches Krebsregister
+### § 45 Erste Hilfe, Entseuchung, Kommunikationshilfe
 
-(1) Beihilfefähig sind die Aufwendungen für
+(1) Beihilfefähig sind die Aufwendungen für Erste Hilfe und für eine behördlich angeordnete Entseuchung sowie für die dabei verbrauchten Stoffe.
+
+(2) Aufwendungen für Kommunikationshilfen für gehörlose, hochgradig schwerhörige oder ertaubte beihilfeberechtigte oder berücksichtigungsfähige Personen sind bei medizinisch notwendiger ambulanter oder stationärer Untersuchung und Behandlung, bei Verabreichung von Heilmitteln, bei Versorgung mit Hilfsmitteln, Zahnersatzversorgung oder Pflegeleistungen beihilfefähig, wenn
 
 1.  
-Erste Hilfe,
+in Verwaltungsverfahren das Recht auf Verwendung einer Kommunikationshilfe nach § 9 des Behindertengleichstellungsgesetzes bestünde und
 
 2.  
-eine behördlich angeordnete Entseuchung und die dabei verbrauchten Stoffe und
+im Einzelfall der Informationsfluss zwischen Leistungserbringerin oder Leistungserbringer und den beihilfeberechtigten oder berücksichtigungsfähigen Personen nur so gewährleistet werden kann.
+
+### § 45a Organspende und andere Spenden
+
+(1) Beihilfefähig sind Aufwendungen bei postmortalen Organspenden für die Vermittlung, Entnahme, Versorgung, Organisation der Bereitstellung und für den Transport des Organs zur Transplantation, sofern es sich bei den Organempfängerinnen oder Organempfängern um beihilfeberechtigte oder berücksichtigungsfähige Personen handelt. Die Höhe der Aufwendungen nach Satz 1 richtet sich nach den Entgelten, die die Vertragsparteien nach § 11 Absatz 2 des Transplantationsgesetzes vereinbart haben. Das Bundesministerium des Innern, für Bau und Heimat gibt folgende Pauschalen durch Rundschreiben bekannt:
+
+1.  
+für die Organisation der Bereitstellung eines postmortal gespendeten Organs,
+
+2.  
+für die Aufwandserstattung der Entnahmekrankenhäuser,
 
 3.  
-notwendige Kommunikationshilfen für gehörlose, hochgradig schwerhörige oder ertaubte beihilfeberechtigte oder berücksichtigungsfähige Personen bei medizinisch notwendiger ambulanter oder stationärer Untersuchung und Behandlung, bei Verabreichung von Heilmitteln, bei Versorgung mit Hilfsmitteln, Zahnersatzversorgung oder Pflegeleistungen, wenn in Verwaltungsverfahren das Recht auf Verwendung einer Kommunikationshilfe nach § 9 des Behindertengleichstellungsgesetzes bestünde.
+für die Finanzierung des Transplantationsbeauftragten,
 
-Die Notwendigkeit für den Einsatz einer Kommunikationshilfe ist gegeben, wenn im Einzelfall der Informationsfluss zwischen Leistungserbringerin oder Leistungserbringer und den beihilfeberechtigten oder berücksichtigungsfähigen Personen nur so gewährleistet werden kann.
+4.  
+für die Finanzierung des Betriebs der Geschäftsstelle Transplantationsmedizin und des Transplantationsregisters,
 
-(2) Beihilfefähig sind Aufwendungen bei postmortalen Organspenden für die Vermittlung, Entnahme, Versorgung, Organisation der Bereitstellung und den Transport des Organs zur Transplantation, soweit es sich bei den Organempfängern um beihilfeberechtigte oder berücksichtigungsfähige Personen handelt.
+5.  
+für die Flugtransportkosten,
 
-(3) Aufwendungen für eine Spenderin oder einen Spender von Organen, Geweben, Blutstammzellen oder anderen Blutbestandteilen sind entsprechend Kapitel 2 beihilfefähig, wenn die Empfängerin oder der Empfänger der Spende eine beihilfeberechtigte oder berücksichtigungsfähige Person ist. Beihilfefähig ist auch der nachgewiesene Ausfall von Arbeitseinkünften
+6.  
+für den Einsatz des Organ Care Systems je transplantiertem Herz.
+
+(2) Aufwendungen für eine Spenderin oder einen Spender von Organen, Geweben, Blutstammzellen oder anderen Blutbestandteilen sind entsprechend Kapitel 2 beihilfefähig, wenn die Empfängerin oder der Empfänger der Spende eine beihilfeberechtigte oder berücksichtigungsfähige Person ist. Der Spenderin oder dem Spender wird auf Antrag auch der nachgewiesene transplantationsbedingte Ausfall von Arbeitseinkünften anteilig in Höhe des Bemessungssatzes der Empfängerin oder des Empfängers ausgeglichen. Dem Arbeitgeber der Spenderin oder des Spenders wird auf Antrag das fortgezahlte Entgelt anteilig in Höhe des Bemessungssatzes der Empfängerin oder des Empfängers erstattet. Den Spenderinnen und Spendern gleichgestellt sind Personen, die als Spenderin oder Spender vorgesehen waren, aber nicht in Betracht kommen.
+
+(3) Aufwendungen für die Registrierung beihilfeberechtigter und berücksichtigungsfähiger Personen für die Suche nach einer nicht verwandten Blutstammzellspenderin oder einem nicht verwandten Blutstammzellspender im Zentralen Knochenmarkspender-Register sind beihilfefähig.
+
+### § 45b Klinisches Krebsregister
+
+(1) Der Bund beteiligt sich an den personenbezogenen Kosten der Krebsregistrierung beihilfeberechtigter und berücksichtigungsfähiger Personen unmittelbar gegenüber dem klinischen Krebsregister für
 
 1.  
-der Spenderin oder des Spenders,
+jede verarbeitete Meldung zur Neuerkrankung an einem Tumor nach § 65c Absatz 4 Satz 2 bis 4 und Absatz 5 Satz 1 des Fünften Buches Sozialgesetzbuch sowie
 
 2.  
-von Personen, die als Spenderin oder Spender vorgesehen waren, aber nicht in Betracht kommen.
+jede landesrechtlich vorgesehene Meldung der zu übermittelnden klinischen Daten an ein klinisches Krebsregister nach § 65c Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch.
 
-Dem Arbeitgeber der Spenderin oder des Spenders wird auf Antrag das fortgezahlte Entgelt entsprechend dem Bemessungssatz der Empfängerin oder des Empfängers erstattet.
+Voraussetzung der Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und dem klinischen Krebsregister.
 
-(4) Aufwendungen für die Registrierung von beihilfeberechtigten und berücksichtigungsfähigen Personen für die Suche nach einer nicht verwandten Blutstammzellspenderin oder einem nicht verwandten Blutstammzellspender im Zentralen Knochenmarkspender-Register sind beihilfefähig.
-
-(5) Der Bund beteiligt sich an den personenbezogenen Kosten der Krebsregistrierung beihilfeberechtigter und berücksichtigungsfähiger Personen unmittelbar gegenüber dem klinischen Krebsregister für jede
-
-1.  
-verarbeitete Meldung zur Neuerkrankung an einem Tumor nach § 65c Absatz 4 Satz 2 bis 4 und Absatz 5 Satz 1 des Fünften Buches Sozialgesetzbuch sowie
-
-2.  
-landesrechtlich vorgesehene Meldung der zu übermittelnden klinischen Daten an ein klinisches Krebsregister nach § 65c Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch.
-
-Voraussetzung der Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und dem klinischen Krebsregister. Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern bekanntgegeben.
+(2) Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern, für Bau und Heimat bekanntgegeben.
 
 Kapitel 5 Umfang der Beihilfe
 -----------------------------
@@ -1732,7 +2068,7 @@ berücksichtigungsfähige Personen nach § 4 Absatz 1 70 Prozent und
 4.  
 berücksichtigungsfähige Kinder sowie Waisen 80 Prozent.
 
-(3) Sind zwei oder mehr Kinder berücksichtigungsfähig, beträgt der Bemessungssatz für die beihilfeberechtigte Person 70 Prozent. Dies gilt bei mehreren beihilfeberechtigten Personen nur für diejenigen, die den Familienzuschlag nach den §§ 39 und 40 des Bundesbesoldungsgesetzes oder den Auslandszuschlag nach § 53 Absatz 4 Nummer 2 und 2a des Bundesbesoldungsgesetzes beziehen. § 5 Absatz 4 Satz 2 bis 4 gilt entsprechend. Satz 2 ist nur dann anzuwenden, wenn einer beihilfeberechtigten Person nicht aus anderen Gründen bereits ein Bemessungssatz von 70 Prozent zusteht. Beihilfeberechtigte Personen, die Elternzeit in Anspruch nehmen, erhalten während dieser Zeit den Bemessungssatz, der ihnen am Tag vor Beginn der Elternzeit zustand. Der Bemessungssatz für entpflichtete Hochschullehrerinnen und Hochschullehrer beträgt 70 Prozent, wenn ihnen sonst aufgrund einer nach § 5 nachrangigen Beihilfeberechtigung ein Bemessungssatz von 70 Prozent zustände.
+(3) Sind zwei oder mehr Kinder berücksichtigungsfähig, beträgt der Bemessungssatz für die beihilfeberechtigte Person 70 Prozent. Dies gilt bei mehreren beihilfeberechtigten Personen nur für diejenigen, die den Familienzuschlag nach den §§ 39 und 40 des Bundesbesoldungsgesetzes oder den Auslandszuschlag nach § 53 Absatz 4 Nummer 2 und 2a des Bundesbesoldungsgesetzes beziehen. § 5 Absatz 5 Satz 2 bis 4 gilt entsprechend. Satz 2 ist nur dann anzuwenden, wenn einer beihilfeberechtigten Person nicht aus anderen Gründen bereits ein Bemessungssatz von 70 Prozent zusteht. Beihilfeberechtigte Personen, die Elternzeit in Anspruch nehmen, erhalten während dieser Zeit den Bemessungssatz, der ihnen am Tag vor Beginn der Elternzeit zustand. Der Bemessungssatz für entpflichtete Hochschullehrerinnen und Hochschullehrer beträgt 70 Prozent, wenn ihnen sonst auf Grund einer nach § 5 nachrangigen Beihilfeberechtigung ein Bemessungssatz von 70 Prozent zustände.
 
 (4) Für Personen, die nach § 28 Abs. 2 des Elften Buches Sozialgesetzbuch Leistungen der Pflegeversicherung grundsätzlich zur Hälfte erhalten, beträgt der Bemessungssatz bezüglich dieser Aufwendungen 50 Prozent.
 
@@ -1740,23 +2076,23 @@ berücksichtigungsfähige Kinder sowie Waisen 80 Prozent.
 
 (1) Die oberste Dienstbehörde oder eine von ihr bestimmte Behörde kann im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes den Bemessungssatz für Aufwendungen anlässlich einer Dienstbeschädigung angemessen erhöhen, soweit nicht bereits Ansprüche nach dem Beamtenversorgungsgesetz bestehen.
 
-(2) Den Bemessungssatz von Versorgungsempfängerinnen, Versorgungsempfängern und berücksichtigungsfähigen Personen mit geringen Gesamteinkünften kann die oberste Dienstbehörde für höchstens drei Jahre um höchstens 10 Prozentpunkte erhöhen, wenn der Beitragsaufwand für eine beihilfekonforme private Krankenversicherung 15 Prozent ihrer oder seiner Gesamteinkünfte übersteigt. Die geringen Gesamteinkünfte betragen 150 Prozent des Ruhegehalts nach § 14 Abs. 4 Satz 2 und 3 des Beamtenversorgungsgesetzes. Der Betrag erhöht sich um 255,65 Euro, wenn für die berücksichtigungsfähige Person nach § 4 Absatz 1 ebenfalls Beiträge zur privaten Krankenversicherung gezahlt werden. Ein zu zahlender Versorgungsausgleich der Versorgungsempfängerin oder des Versorgungsempfängers mindert die anzurechnenden Gesamteinkünfte nicht. Bei einer erneuten Antragstellung ist von den fiktiven Beiträgen zur Krankenversicherung auszugehen, die sich unter Zugrundelegung eines Bemessungssatzes nach § 46 ergeben würden.
+(2) Den Bemessungssatz für beihilfefähige Aufwendungen nach den Kapiteln 2 und 4 von Versorgungsempfängerinnen, Versorgungsempfängern und berücksichtigungsfähigen Personen mit geringen Gesamteinkünften kann die oberste Dienstbehörde für höchstens drei Jahre um höchstens 10 Prozentpunkte erhöhen, wenn der Beitragsaufwand für eine beihilfekonforme private Krankenversicherung 15 Prozent ihrer oder seiner Gesamteinkünfte übersteigt. Zu den maßgebenden Gesamteinkünften zählt das durchschnittliche Monatseinkommen der zurückliegenden zwölf Monate aus Bruttoversorgungsbezügen, Sonderzahlungen, Renten, Kapitalerträgen und aus sonstigen laufenden Einnahmen der beihilfeberechtigten Person und ihrer berücksichtigungsfähigen Personen nach § 4 Absatz 1; unberücksichtigt bleiben Grundrenten nach dem Bundesversorgungsgesetz, Blindengeld, Wohngeld und Leistungen für Kindererziehung nach § 294 des Sechsten Buches Sozialgesetzbuch. Die geringen Gesamteinkünfte betragen 150 Prozent des Ruhegehalts nach § 14 Abs. 4 Satz 2 und 3 des Beamtenversorgungsgesetzes. Der Betrag erhöht sich um 255,65 Euro, wenn für die berücksichtigungsfähige Person nach § 4 Absatz 1 ebenfalls Beiträge zur privaten Krankenversicherung gezahlt werden. Ein zu zahlender Versorgungsausgleich der Versorgungsempfängerin oder des Versorgungsempfängers mindert die anzurechnenden Gesamteinkünfte nicht. Bei einer erneuten Antragstellung ist von den fiktiven Beiträgen zur Krankenversicherung auszugehen, die sich unter Zugrundelegung eines Bemessungssatzes nach § 46 ergeben würden.
 
-(3) Die oberste Dienstbehörde kann den Bemessungssatz in weiteren besonderen Ausnahmefällen im Einvernehmen mit dem Bundesministerium des Innern angemessen erhöhen, wenn dies im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes zwingend geboten ist. Hierbei ist ein sehr strenger Maßstab anzulegen. Bei dauernder Pflegebedürftigkeit ist eine Erhöhung ausgeschlossen.
+(3) Die oberste Dienstbehörde kann den Bemessungssatz in weiteren Ausnahmefällen im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat angemessen erhöhen, wenn dies im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes zwingend geboten ist. Hierbei ist ein sehr strenger Maßstab anzulegen. Bei dauernder Pflegebedürftigkeit ist eine Erhöhung ausgeschlossen.
 
-(4) Für beihilfefähige Aufwendungen, für die trotz ausreichender und rechtzeitiger Versicherung aufgrund eines individuellen Ausschlusses wegen angeborener Leiden oder bestimmter Krankheiten keine Versicherungsleistungen gewährt werden oder für die die Leistungen auf Dauer eingestellt worden sind (Aussteuerung), erhöht sich der Bemessungssatz um 20 Prozentpunkte, jedoch höchstens auf 90 Prozent. Dies gilt nur, wenn das Versicherungsunternehmen die Bedingungen nach § 257 Abs. 2a Satz 1 Nr. 1 bis 4 des Fünften Buches Sozialgesetzbuch erfüllt.
+(4) Für beihilfefähige Aufwendungen, für die trotz ausreichender und rechtzeitiger Versicherung auf Grund eines individuellen Ausschlusses wegen angeborener Leiden oder bestimmter Krankheiten keine Versicherungsleistungen gewährt werden oder für die die Leistungen auf Dauer eingestellt worden sind (Aussteuerung), erhöht sich der Bemessungssatz um 20 Prozentpunkte, jedoch höchstens auf 90 Prozent. Dies gilt nur, wenn das Versicherungsunternehmen die Bedingungen nach § 257 Abs. 2a Satz 1 Nr. 1 bis 4 des Fünften Buches Sozialgesetzbuch erfüllt. Satz 1 ist nicht anzuwenden auf Aufwendungen nach den §§ 37 bis 39b.
 
-(5) Der Bemessungssatz erhöht sich für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, in den Fällen nach § 31 Abs. 5 und § 41 Abs. 5 auf 100 Prozent der beihilfefähigen Aufwendungen für die Beförderung zum nächstgelegenen geeigneten Behandlungs-, Untersuchungs- oder Entbindungsort, soweit diese Aufwendungen 153 Euro übersteigen und in Fällen nach § 36 Abs. 3, soweit diese Aufwendungen 200 Euro übersteigen.
+(5) Der Bemessungssatz erhöht sich für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, in den Fällen nach § 31 Abs. 5 und § 41 Abs. 5 auf 100 Prozent der beihilfefähigen Aufwendungen, soweit diese Aufwendungen 153 Euro übersteigen und in Fällen nach § 36 Abs. 3, soweit diese Aufwendungen 200 Euro übersteigen.
 
 (6) In Fällen des § 39 Absatz 2 und des § 44 erhöht sich der Bemessungssatz auf 100 Prozent.
 
-(7) Für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, erhöht sich der Bemessungssatz für beihilfefähige Aufwendungen nach den §§ 38 und 39 auf 100 Prozent, wenn eine Pflegestufe vorliegt und während des dienstlichen Auslandsaufenthalts keine Leistungen der privaten oder sozialen Pflegeversicherung gewährt werden.
+(7) Für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, erhöht sich der Bemessungssatz für beihilfefähige Aufwendungen nach den §§ 38 bis 39b auf 100 Prozent, wenn ein Pflegegrad vorliegt und während des dienstlichen Auslandsaufenthalts keine Leistungen der privaten oder sozialen Pflegeversicherung gewährt werden.
 
-(8) Das Bundesministerium des Innern kann für Gruppen von beihilfeberechtigten Personen Abweichungen von den §§ 46 und 47 festlegen, wenn ihnen bis zum Entstehen eines Beihilfeanspruchs nach dieser Verordnung ein Anspruch auf Beihilfe nach Landesrecht zustand und die Änderung der Anspruchsgrundlage auf einer bundesgesetzlichen Regelung beruht. Die Abweichungen sollen so festgelegt werden, dass wirtschaftliche Nachteile, die sich aus unterschiedlichen Regelungen über den Bemessungssatz ergeben, ausgeglichen werden. Die Festlegung bedarf des Einvernehmens des Bundesministeriums der Finanzen und des Ressorts, das nach der Geschäftsverteilung der Bundesregierung für die Belange der betroffenen beihilfeberechtigten Personen zuständig ist.
+(8) Das Bundesministerium des Innern, für Bau und Heimat kann für Gruppen von beihilfeberechtigten Personen Abweichungen von den §§ 46 und 47 festlegen, wenn ihnen bis zum Entstehen eines Beihilfeanspruchs nach dieser Verordnung ein Anspruch auf Beihilfe nach Landesrecht zustand und die Änderung der Anspruchsgrundlage auf einer bundesgesetzlichen Regelung beruht. Die Abweichungen sollen so festgelegt werden, dass wirtschaftliche Nachteile, die sich aus unterschiedlichen Regelungen über den Bemessungssatz ergeben, ausgeglichen werden. Die Festlegung bedarf des Einvernehmens des Bundesministeriums der Finanzen und des Ressorts, das nach der Geschäftsverteilung der Bundesregierung für die Belange der betroffenen beihilfeberechtigten Personen zuständig ist.
 
 ### § 48 Begrenzung der Beihilfe
 
-(1) Die Beihilfe darf zusammen mit den Leistungen, die aus demselben Anlass aus einer Krankenversicherung, aus einer Pflegeversicherung, auf Grund anderer Rechtsvorschriften oder auf Grund arbeitsvertraglicher Vereinbarungen gewährt werden, die dem Grunde nach beihilfefähigen Aufwendungen nicht übersteigen. Leistungen aus Krankentagegeld-, Krankenhaustagegeld-, Pflegetagegeld-, Pflegezusatz-, Pflegerenten- und Pflegerentenzusatzversicherungen bleiben unberücksichtigt, soweit sie nicht der Befreiung von der Versicherungspflicht nach § 22 des Elften Buches Sozialgesetzbuch dienen. Ebenfalls unberücksichtigt bleibt das Sterbegeld nach § 18 Absatz 2 Nummer 2 des Beamtenversorgungsgesetzes. Aufwendungen nach den §§ 35 bis 39 werden getrennt abgerechnet.
+(1) Die Beihilfe darf zusammen mit den Leistungen, die aus demselben Anlass aus einer Krankenversicherung, aus einer Pflegeversicherung, auf Grund anderer Rechtsvorschriften oder auf Grund arbeitsvertraglicher Vereinbarungen gewährt werden, die dem Grunde nach beihilfefähigen Aufwendungen nicht übersteigen. Leistungen aus Krankentagegeld-, Krankenhaustagegeld-, Pflegetagegeld-, Pflegezusatz-, Pflegerenten- und Pflegerentenzusatzversicherungen bleiben unberücksichtigt, soweit sie nicht der Befreiung von der Versicherungspflicht nach § 22 des Elften Buches Sozialgesetzbuch dienen. Ebenfalls unberücksichtigt bleibt das Sterbegeld nach § 18 Absatz 2 Nummer 2 des Beamtenversorgungsgesetzes. Dem Grunde nach beihilfefähig sind die Aufwendungen, für die im Einzelfall eine Beihilfe zu gewähren ist, in tatsächlicher Höhe. Die Aufwendungen nach den §§ 35 bis 39b werden jeweils getrennt, die übrigen Aufwendungen zusammen abgerechnet. Dabei ist der Summe der Aufwendungen, die mit dem Antrag geltend gemacht werden und die dem Grunde nach beihilfefähig sind, die Gesamtsumme der hierauf entfallenden Leistungen gegenüberzustellen.
 
 (2) Die beihilfeberechtigte Person hat nachzuweisen:
 
@@ -1773,10 +2109,10 @@ Satz 1 Nummer 2 gilt nicht für Erstattungen aus einer Kranken- oder Pflegeversi
 (1) Die beihilfefähigen Aufwendungen mindern sich um 10 Prozent der Kosten, mindestens um 5 und höchstens um 10 Euro, jedoch jeweils nicht um mehr als die tatsächlichen Kosten bei
 
 1.  
-Arznei- und Verbandmitteln im Sinne von § 22,
+Arznei- und Verbandmitteln nach § 22 Absatz 1 Nummer 1 und 2 sowie Medizinprodukte nach Anlage 4,
 
 2.  
-Hilfsmitteln, Geräten zur Selbstbehandlung und Selbstkontrolle und Körperersatzstücken,
+Hilfsmitteln, Geräten zur Selbstbehandlung und Selbstkontrolle und Körperersatzstücken nach § 25,
 
 3.  
 Fahrten mit Ausnahme der Fälle nach § 35 Abs. 2,
@@ -1787,15 +2123,15 @@ Familien- und Haushaltshilfe je Kalendertag und
 5.  
 Soziotherapie je Kalendertag.
 
-Maßgebend für den Abzugsbetrag nach Satz 1 Nummer 1 ist der Apothekenabgabepreis oder der Festbetrag der jeweiligen Packung des verordneten Arznei- und Verbandmittels. Dies gilt auch bei Mehrfachverordnungen oder bei der Abgabe der verordneten Menge in mehreren Packungen. Bei zum Verbrauch bestimmten Hilfsmitteln beträgt der Eigenbehalt 10 Prozent der insgesamt beihilfefähigen Aufwendungen, jedoch höchstens 10 Euro für den gesamten Monatsbedarf.
+Maßgebend für den Abzugsbetrag nach Satz 1 Nummer 1 ist der Apothekenabgabepreis oder der Festbetrag der jeweiligen Packung des verordneten Arznei- und Verbandmittels. Dies gilt auch bei Mehrfachverordnungen oder bei der Abgabe der verordneten Menge in mehreren Packungen. Bei zum Verbrauch bestimmten Hilfsmitteln, außer bei zum Verbrauch bestimmten Pflegehilfsmitteln, beträgt der Eigenbehalt 10 Prozent der insgesamt beihilfefähigen Aufwendungen, jedoch höchstens 10 Euro für den gesamten Monatsbedarf.
 
 (2) Die beihilfefähigen Aufwendungen mindern sich um 10 Euro je Kalendertag bei
 
 1.  
-vollstationären Krankenhausleistungen nach § 26 Absatz 1 Nummer 2, Absatz 2 und stationäre Behandlungen in Rehabilitationseinrichtungen nach § 34 Abs. 1 und 2 Satz 1, höchstens für insgesamt 28 Tage im Kalenderjahr, und
+vollstationären Krankenhausleistungen nach § 26 Absatz 1 Nummer 2, § 26a Absatz 1 Nummer 1, 2 und 4 und stationäre Behandlungen in Rehabilitationseinrichtungen nach § 34 Absatz 1, 2 und 5, höchstens für insgesamt 28 Tage im Kalenderjahr, und
 
 2.  
-Rehabilitationsmaßnahmen nach § 35 Absatz 1 Nummer 1 und 2.
+Rehabilitationsmaßnahmen nach § 35 Absatz 1 Satz 1 Nummer 1 und 2.
 
 (3) Die beihilfefähigen Aufwendungen mindern sich bei häuslicher Krankenpflege um 10 Prozent der Kosten für die ersten 28 Tage der Inanspruchnahme im Kalenderjahr und um 10 Euro je Verordnung.
 
@@ -1814,18 +2150,27 @@ ambulante ärztliche und zahnärztliche Vorsorgeleistungen sowie Leistungen zur 
 Arznei- und Verbandmittel nach § 22 Absatz 1 Nummer 1 und 2,
 
 a)  
-die für diagnostische Zwecke, Untersuchungen und ambulante Behandlungen benötigt und in der Rechnung als Auslagen abgerechnet worden sind oder
+die für diagnostische Zwecke, Untersuchungen und ambulanten Behandlungen benötigt und
+
+aa)  
+in der Rechnung als Auslagen abgerechnet oder
+
+bb)  
+auf Grund einer ärztlichen Verordnung zuvor von der beihilfeberechtigten oder berücksichtigungsfähigen Person selbst beschafft worden sind oder
 
 b)  
 deren Apothekeneinkaufspreis einschließlich Umsatzsteuer mindestens 30 Prozent niedriger ist als der jeweils gültige Festbetrag, der diesem Preis zugrunde liegt,
 
 5.  
-Heil- und Hilfsmittel, soweit vom Bundesministerium des Innern beihilfefähige Höchstbeträge festgesetzt worden sind, sowie
+Heil- und Hilfsmittel, soweit vom Bundesministerium des Innern, für Bau und Heimat beihilfefähige Höchstbeträge festgesetzt worden sind,
 
 6.  
-Harn- und Blutteststreifen.
+Harn- und Blutteststreifen sowie
 
-(5) Das Bundesministerium des Innern kann durch Verwaltungsvorschriften für beihilfeberechtigte und berücksichtigungsfähige Personen, die sich besonders gesundheitsbewusst verhalten, indem sie regelmäßig an Vorsorgeprogrammen oder Maßnahmen zur Früherkennung von Krankheiten teilnehmen, geringere Eigenbehalte festlegen.
+7.  
+Spenderinnen und Spender nach § 45a Absatz 2.
+
+(5) (weggefallen)
 
 ### § 50 Belastungsgrenzen
 
@@ -1876,7 +2221,7 @@ berücksichtigungsfähige Personen</td>
 </tbody>
 </table>
 
-Ein Antrag muss spätestens bis zum Ablauf des Jahres gestellt werden, das auf das Jahr folgt, in dem die Eigenbehalte nach § 49 einbehalten worden sind. Dabei sind die Beträge nach § 49 Absatz 1 bis 3 entsprechend der Höhe des tatsächlichen Abzugs sowie Aufwendungen für Arzneimittel nach Nummer 2 zum entsprechenden Bemessungssatz zu berücksichtigen. Die beihilfeberechtigte Person hat das Einkommen nach § 39 Absatz 3, die anrechenbaren Eigenbehalte und die Aufwendungen für nicht verschreibungspflichtige Arzneimittel nachzuweisen. Die Belastungsgrenze beträgt für beihilfeberechtigte Personen und berücksichtigungsfähige Personen zusammen 2 Prozent der jährlichen Einnahmen nach § 39 Absatz 3 Satz 1 sowie für chronisch Kranke nach der Chroniker-Richtlinie in der Fassung vom 22. Januar 2004 (BAnz. S. 1343), die zuletzt am 19. Juni 2008 (BAnz. S. 3017) geändert worden ist, 1 Prozent der jährlichen Einnahmen nach § 39 Absatz 3 Satz 1.
+Ein Antrag muss spätestens bis zum Ablauf des Jahres gestellt werden, das auf das Jahr folgt, in dem die Eigenbehalte nach § 49 einbehalten worden sind. Dabei sind die Beträge nach § 49 Absatz 1 bis 3 entsprechend der Höhe des tatsächlichen Abzugs sowie Aufwendungen für Arzneimittel nach Nummer 2 zum entsprechenden Bemessungssatz zu berücksichtigen. Die beihilfeberechtigte Person hat das Einkommen nach § 39 Absatz 3, die anrechenbaren Eigenbehalte und die Aufwendungen für nicht verschreibungspflichtige Arzneimittel nachzuweisen. Die Belastungsgrenze beträgt für beihilfeberechtigte Personen und berücksichtigungsfähige Personen zusammen 2 Prozent der jährlichen Einnahmen nach § 39 Absatz 3 Satz 1 sowie für chronisch Kranke nach der Chroniker-Richtlinie des Gemeinsamen Bundesausschusses in der Fassung vom 22. Januar 2004 (BAnz. S. 1343), die zuletzt durch Beschluss vom 15. Februar 2018 (BAnz. AT 05.03.2018 B4) geändert worden ist, 1 Prozent der jährlichen Einnahmen nach § 39 Absatz 3 Satz 1.
 
 (2) Maßgeblich ist das Datum des Entstehens der Aufwendungen. Die Einnahmen der Ehegattin, des Ehegatten, der Lebenspartnerin oder des Lebenspartners werden nicht berücksichtigt, wenn sie oder er Mitglied der gesetzlichen Krankenversicherung oder selbst beihilfeberechtigt ist. Die Einnahmen vermindern sich bei verheirateten oder in einer Lebenspartnerschaft lebenden beihilfeberechtigten Personen um 15 Prozent und für jedes Kind nach § 4 Absatz 2 um den Betrag, der sich aus § 32 Absatz 6 Satz 1 bis 3 des Einkommensteuergesetzes ergibt. Maßgebend für die Feststellung der Belastungsgrenze sind jeweils die jährlichen Einnahmen des vorangegangenen Kalenderjahres.
 
@@ -1889,7 +2234,7 @@ Kapitel 6 Verfahren und Zuständigkeit
 
 ### § 51 Bewilligungsverfahren
 
-(1) Über die Notwendigkeit und die wirtschaftliche Angemessenheit von Aufwendungen nach § 6 entscheidet die Festsetzungsstelle. Die beihilfeberechtigte Person ist zur Mitwirkung verpflichtet. § 60 Absatz 1 Satz 1, die §§ 62 und 65 bis 67 des Ersten Buches Sozialgesetzbuch sind entsprechend anzuwenden. Die Festsetzungsstelle kann auf eigene Kosten ein Sachverständigengutachten einholen. Ist für die Erstellung des Gutachtens die Mitwirkung der oder des Betroffenen nicht erforderlich, sind die nötigen Gesundheitsdaten vor der Übermittlung so zu anonymisieren, dass die Gutachterin oder der Gutachter einen Personenbezug nicht herstellen kann.
+(1) Über die Notwendigkeit und die wirtschaftliche Angemessenheit von Aufwendungen nach § 6 entscheidet die Festsetzungsstelle. Die beihilfeberechtigte Person ist zur Mitwirkung verpflichtet. § 60 Absatz 1 Satz 1, die §§ 62 und 65 bis 67 des Ersten Buches Sozialgesetzbuch sind entsprechend anzuwenden. Die Festsetzungsstelle kann auf eigene Kosten ein Sachverständigengutachten einholen. Ist für die Erstellung des Gutachtens die Mitwirkung der oder des Betroffenen nicht erforderlich, sind die nötigen Gesundheitsdaten vor der Übermittlung so zu pseudonymisieren, dass die Gutachterin oder der Gutachter einen Personenbezug nicht herstellen kann.
 
 (2) In Pflegefällen hat die Festsetzungsstelle im Regelfall das Gutachten zugrunde zu legen, das für die private oder soziale Pflegeversicherung zum Vorliegen dauernder Pflegebedürftigkeit sowie zu Art und notwendigem Umfang der Pflege erstellt worden ist. Ist die beihilfeberechtigte oder berücksichtigungsfähige Person nicht in der privaten oder sozialen Pflegeversicherung versichert, lässt die Festsetzungsstelle ein entsprechendes Gutachten erstellen. Satz 2 gilt entsprechend bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, wenn für diese kein Gutachten für die private oder soziale Pflegeversicherung erstellt worden ist. Auf Antrag kann die Festsetzungsstelle Beihilfe für Aufwendungen in Pflegefällen (§§ 37 bis 39) bis zu zwölf Monate regelmäßig wiederkehrend leisten, wenn die beihilfeberechtigte Person sich in dem Antrag verpflichtet,
 
@@ -1899,7 +2244,7 @@ der Festsetzungsstelle jede Änderung der Angaben im Beihilfeantrag unaufgeforde
 2.  
 den Beihilfeanspruch übersteigende Zahlungen zu erstatten.
 
-(3) Die Beihilfe wird auf schriftlichen oder elektronischen Antrag der beihilfeberechtigten Person bei der Festsetzungsstelle gewährt. Die dem Antrag zugrunde liegenden Belege sind der Festsetzungsstelle als Zweitschrift oder in Kopie mit dem Antrag oder gesondert vorzulegen. Liegen konkrete Anhaltspunkte dafür vor, dass eingereichte Belege gefälscht oder verfälscht sind, kann die Festsetzungsstelle mit Einwilligung der beihilfeberechtigten Person bei dem Urheber des Beleges Auskunft über die Echtheit einholen. Wird die Einwilligung verweigert, ist die Beihilfe zu den betreffenden Aufwendungen abzulehnen. Auf Rezepten muss die Pharmazentralnummer des verordneten Arzneimittels angegeben sein, es sei denn, sie ist wegen des Kaufes im Ausland nicht erforderlich. Sofern die Festsetzungsstelle dies zulässt, können auch die Belege elektronisch übermittelt werden. Die Festsetzungsstelle kann einen unterschriebenen Beihilfeantrag in Papierform verlangen.
+(3) Die Beihilfe wird auf schriftlichen oder elektronischen Antrag der beihilfeberechtigten Person bei der Festsetzungsstelle gewährt. Die dem Antrag zugrunde liegenden Belege sind der Festsetzungsstelle als Zweitschrift oder in Kopie mit dem Antrag oder gesondert vorzulegen. Bei Aufwendungen nach § 26 sind zusätzlich die Entlassungsanzeige und die Wahlleistungsvereinbarung vorzulegen, die nach § 16 Satz 2 der Bundespflegesatzverordnung oder nach § 17 des Krankenhausentgeltgesetzes vor Erbringung der Wahlleistungen abgeschlossen worden sind. Bei Aufwendungen nach § 26a gilt Satz 3 entsprechend. Liegen konkrete Anhaltspunkte dafür vor, dass eingereichte Belege gefälscht oder verfälscht sind, kann die Festsetzungsstelle mit Einwilligung der beihilfeberechtigten Person bei dem Urheber des Beleges Auskunft über die Echtheit einholen. Wird die Einwilligung verweigert, ist die Beihilfe zu den betreffenden Aufwendungen abzulehnen. Auf Rezepten muss die Pharmazentralnummer des verordneten Arzneimittels angegeben sein, es sei denn, sie ist wegen des Kaufes im Ausland nicht erforderlich. Sofern die Festsetzungsstelle dies zulässt, können auch die Belege elektronisch übermittelt werden. Die Festsetzungsstelle kann einen unterschriebenen Beihilfeantrag in Papierform verlangen.
 
 (4) Die Belege über Aufwendungen im Ausland müssen grundsätzlich den im Inland geltenden Anforderungen entsprechen. Kann die beihilfeberechtigte Person die für den Kostenvergleich notwendigen Angaben nicht beibringen, hat die Festsetzungsstelle die Angemessenheit der Aufwendungen festzustellen. Auf Anforderung muss mindestens für eine Bescheinigung des Krankheitsbildes und der erbrachten Leistungen eine Übersetzung vorgelegt werden.
 
@@ -1909,7 +2254,21 @@ den Beihilfeanspruch übersteigende Zahlungen zu erstatten.
 
 (7) Beihilfe wird nur gewährt, wenn die mit dem Antrag geltend gemachten Aufwendungen insgesamt mehr als 200 Euro betragen. Die Festsetzungsstelle kann bei drohender Verjährung oder zur Vermeidung anderer unbilliger Härten Ausnahmen zulassen.
 
-(8) Die Festsetzungsstelle kann auf Antrag der beihilfeberechtigten Person Abschlagszahlungen leisten. Sie kann die Beihilfe in Ausnahmefällen mit Zustimmung der beihilfeberechtigten Person an Dritte auszahlen.
+(8) Die Festsetzungsstelle kann auf Antrag der beihilfeberechtigten Person Abschlagszahlungen leisten.
+
+### § 51a Zahlung an Dritte
+
+(1) Die Festsetzungsstelle kann die Beihilfe auf Antrag der beihilfeberechtigten Person an Dritte auszahlen.
+
+(2) Leistungen nach § 26 Absatz 1 Nummer 1, 2, 4 und 5 können direkt zwischen dem Krankenhaus oder dem vom Krankenhaus beauftragten Rechnungssteller und Festsetzungsstelle abgerechnet werden, wenn
+
+1.  
+der Bund eine entsprechende Rahmenvereinbarung mit der Deutschen Krankenhausgesellschaft e. V. abgeschlossen hat und
+
+2.  
+ein Antrag nach Anlage 16 vorliegt.
+
+Die Festsetzungsstelle hat abrechnungsrelevante Klärungen mit dem Krankenhaus oder dem vom Krankenhaus beauftragten Rechnungssteller durchzuführen. Der Beihilfebescheid ist der beihilfeberechtigten Person bekannt zu geben.
 
 ### § 52 Zuordnung von Aufwendungen
 
@@ -1933,15 +2292,13 @@ in Geburtsfällen einschließlich der Aufwendungen des Krankenhauses für das ge
 
 ### § 54 Antragsfrist
 
-(1) Beihilfe wird nur gewährt, wenn sie innerhalb eines Jahres nach Rechnungsdatum beantragt wird. Für den Beginn der Frist ist bei Pflegeleistungen der letzte Tag des Monats maßgebend, in dem die Pflege erbracht wurde. Hat ein Sozialhilfeträger oder im Bereich der Pflege der Träger der Kriegsopferfürsorge vorgeleistet, beginnt die Frist mit dem Ersten des Monats, der auf den Monat folgt, in dem der Sozialhilfeträger oder der Träger der Kriegsopferfürsorge die Aufwendungen bezahlt hat.
+(1) Beihilfe wird nur gewährt, wenn sie innerhalb eines Jahres nach Rechnungsdatum beantragt wird. Für den Beginn der Frist ist bei Pflegeleistungen der letzte Tag des Monats maßgebend, in dem die Pflege erbracht wurde. Hat ein Sozialhilfeträger oder im Bereich der Pflege der Träger der Kriegsopferfürsorge vorgeleistet, beginnt die Frist mit dem Ersten des Monats, der auf den Monat folgt, in dem der Sozialhilfeträger oder der Träger der Kriegsopferfürsorge die Aufwendungen bezahlt hat. Die Frist beginnt in Fällen des § 45a Absatz 2 Satz 2 und 3 mit Ablauf des Jahres, in dem die Transplantation oder gegebenenfalls der Versuch einer Transplantation erfolgte.
 
 (2) Die Frist ist auch gewahrt, wenn der Antrag von beihilfeberechtigten Personen nach § 3 innerhalb der Frist nach Absatz 1 bei der zuständigen Beschäftigungsstelle im Ausland eingereicht wird.
 
 ### § 55 Geheimhaltungspflicht
 
-(1) Die bei der Bearbeitung des Beihilfeantrags bekannt gewordenen personenbezogenen Daten sind geheim zu halten. Sie dürfen nur für den Zweck verwendet werden, für den sie bekannt gegeben worden sind, es sei denn, es besteht eine gesetzliche Befugnis zur Verwendung der Daten für einen anderen Zweck oder die oder der Betroffene hat schriftlich in die Zweckänderung eingewilligt.
-
-(2) Personenbezogene Daten aus der Beihilfeakte dürfen ohne Einwilligung der oder des Betroffenen an die Bezügestelle übermittelt werden, soweit die Kenntnis der Daten für die Festsetzung und Berechnung der Besoldung oder Versorgung oder für die Prüfung der Kindergeldberechtigung erforderlich ist.
+Die bei der Bearbeitung des Beihilfeantrags bekannt gewordenen personenbezogenen Daten sind geheim zu halten.
 
 ### § 56 Festsetzungsstellen
 
@@ -1956,7 +2313,7 @@ die den obersten Dienstbehörden unmittelbar nachgeordneten Behörden für die A
 3.  
 die Versorgungsstellen für die Anträge der Versorgungsempfängerinnen und der Versorgungsempfänger.
 
-(2) Die obersten Dienstbehörden können die Zuständigkeit für ihren Geschäftsbereich abweichend regeln. Die Beihilfebearbeitung darf nur auf Behörden des jeweiligen Dienstherrn übertragen werden. Die Übertragung ist im Gemeinsamen Ministerialblatt zu veröffentlichen.
+(2) Die obersten Dienstbehörden können die Zuständigkeit für ihren Geschäftsbereich abweichend regeln. Die Beihilfebearbeitung darf nur auf Behörden des jeweiligen Dienstherrn übertragen werden. Die Übertragung ist im Bundesgesetzblatt zu veröffentlichen.
 
 (3) Die Festsetzungsstellen haben die Abschläge für Arzneimittel nach dem Gesetz über Rabatte für Arzneimittel geltend zu machen.
 
@@ -1969,17 +2326,13 @@ Kapitel 7 Übergangs- und Schlussvorschriften
 
 ### § 58 Übergangsvorschriften
 
-(1) Auf Aufwendungen, die vor dem 14. Februar 2009 entstanden sind, sind die Beihilfevorschriften vom 1. November 2001, die zuletzt durch Artikel 1 der allgemeinen Verwaltungsvorschrift vom 30. Januar 2004 (GMBl S. 379) geändert worden sind, weiter anzuwenden.
+(1) Auf Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner, bei denen der Gesamtbetrag der Einkünfte die Grenze nach § 4 Absatz 1 überschreitet, aber bis zum 13. Februar 2009 unter der Einkommensgrenze nach § 5 Absatz 4 Nummer 3 der Beihilfevorschriften lag, ist bis zur erstmaligen Überschreitung dieser Grenze § 5 Absatz 4 der Beihilfevorschriften weiter anzuwenden.
 
-(2) Auf Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner, bei denen der Gesamtbetrag der Einkünfte die Grenze nach § 4 Absatz 1 überschreitet, aber bis zum 13. Februar 2009 unter der Einkommensgrenze nach § 5 Absatz 4 Nummer 3 der Beihilfevorschriften lag, ist bis zur erstmaligen Überschreitung dieser Grenze § 5 Absatz 4 der Beihilfevorschriften weiter anzuwenden.
+(2) Für am 20. September 2012 vorhandene freiwillige Mitglieder der gesetzlichen Krankenversicherung ist § 47 Absatz 6 in der bis zum 19. September 2012 geltenden Fassung weiter anzuwenden.
 
-(3) Kinder, die mindestens bis zur Vollendung des 25. Lebensjahres berücksichtigungsfähig sind und im Wintersemester 2006/2007 an einer Hochschule oder Fachhochschule eingeschrieben waren, gelten bis zur Vollendung des 27. Lebensjahres zuzüglich der geleisteten Zeiten des gesetzlichen Grundwehrdienstes oder Zivildienstes als berücksichtigungsfähige Personen. Die Übergangsregelung hat keine Auswirkung auf den Bemessungssatz der beihilfeberechtigten Person.
+(3) Die §§ 141, 144 Absatz 1 und 3 und § 145 des Elften Buches Sozialgesetzbuch gelten entsprechend.
 
-(4) § 46 Absatz 3 Satz 2 ist ab dem 1. Januar 2010 anzuwenden. Bis dahin ist § 14 der Beihilfevorschriften in der bis zum 13. Februar 2009 geltenden Fassung (Absatz 1) weiter anzuwenden.
-
-(5) Für am 20. September 2012 vorhandene freiwillige Mitglieder der gesetzlichen Krankenversicherung ist § 47 Absatz 6 in der bis zum 19. September 2012 geltenden Fassung in Verbindung mit § 9 Absatz 1 Satz 1 in der seit dem 26. Juli 2014 geltenden Fassung bis zum 20. September 2017 weiter anzuwenden. Anschließend gilt § 6 Absatz 7 entsprechend für die Erhöhung des Bemessungssatzes.
-
-(6) Beihilfe für Aufwendungen einer Lebenspartnerin oder eines Lebenspartners und deren Kinder, die die Voraussetzungen des § 4 erfüllen, wird rückwirkend ab dem 14. Februar 2009 gewährt. Für Aufwendungen, die in der Zeit vom 1. Januar bis zum 13. Februar 2009 entstanden sind, sind die Beihilfevorschriften in der bis zum 13. Februar 2009 geltenden Fassung (Absatz 1) mit der Maßgabe weiter anzuwenden, dass Lebenspartner Ehegatten gleichgestellt sind. Die Antragsfrist nach § 54 beginnt frühestens am 2. Januar 2009.
+(4) § 51a gilt nicht für bis zum 31. Juli 2018 eingeführte Verfahren zur direkten Abrechnung von beihilfefähigen Aufwendungen nach § 26 Absatz 1 Nummer 1, 2, 4 und 5.
 
 ### § 59 Inkrafttreten
 
@@ -2030,18 +2383,15 @@ brechkraftverändernde Operation der Hornhaut des Auges (Keratomileusis) nach Ba
 Bruchheilung ohne Operation
 
 3.1  
-Chelat-Therapie
-
-3.2  
 Colon-Hydro-Therapie und ihre Modifikationen
 
-3.3  
+3.2  
 computergestützte mechanische Distraktionsverfahren, zur nichtoperativen segmentalen Distraktion an der Wirbelsäule (zum Beispiel SpineMED-Verfahren, DRX 9000, Accu-SPINA)
 
-3.4  
+3.3  
 computergestütztes Gesichtsfeldtraining zur Behandlung nach einer neurologischbedingten Erkrankung oder Schädigung
 
-3.5  
+3.4  
 cytotoxologische Lebensmitteltests
 
 4.1  
@@ -2087,18 +2437,15 @@ isobare oder hyperbare Inhalationstherapien mit ionisiertem oder nichtionisierte
 (frei)
 
 11.1  
-Kariesdetektor-Behandlung
-
-11.2  
 kinesiologische Behandlung
 
-11.3  
+11.2  
 Kirlian-Fotografie
 
-11.4  
+11.3  
 kombinierte Serumtherapie (zum Beispiel Wiedemann-Kur)
 
-11.5  
+11.4  
 konduktive Förderung nach Petö
 
 12.1  
@@ -2108,45 +2455,54 @@ Laser-Behandlung im Bereich der physikalischen Therapie
 modifizierte Eigenblutbehandlung (zum Beispiel nach Garthe, Blut-Kristall-Analyse unter Einsatz der Präparate Autohaemin, Antihaemin und Anhaemin) und sonstige Verfahren, bei denen aus körpereigenen Substanzen der Patientin oder des Patienten individuelle Präparate gefertigt werden (zum Beispiel Gegensensibilisierung nach Theurer, Clustermedizin)
 
 14.1  
-neurotopische Diagnostik und Therapie
+Neurostimulation nach Molsberger
 
 14.2  
+neurotopische Diagnostik und Therapie
+
+14.3  
 niedrig dosierter, gepulster Ultraschall
 
 15.1  
 osmotische Entwässerungstherapie
 
 16.1  
-Psycotron-Therapie
+photodynamische Therapie in der Parodontologie
 
 16.2  
-pulsierende Signaltherapie
+Psycotron-Therapie
 
 16.3  
+pulsierende Signaltherapie
+
+16.4  
 Pyramidenenergiebestrahlung
 
 17.1  
 (frei)
 
 18.1  
-radiale Stoßwellentherapie
-
-18.2  
 Regeneresen-Therapie
 
-18.3  
+18.2  
 Reinigungsprogramm mit Megavitaminen und Ausschwitzen
 
-18.4  
+18.3  
 Rolfing-Behandlung
 
 19.1  
 Schwingfeld-Therapie
 
+19.2  
+SIPARI-Methode
+
 20.1  
 Thermoregulationsdiagnostik
 
 20.2  
+Transorbitale Wechselstromstimulation bei Optikusatrophie (zum Beispiel SAVIR-Verfahren)
+
+20.3  
 Trockenzellentherapie
 
 21.1  
@@ -2174,34 +2530,40 @@ Abschnitt 2
 Teilweiser Ausschluss
 
 1.  
-Chirurgische Hornhautkorrektur durch LaserbehandlungAufwendungen sind nur beihilfefähig, wenn eine Korrektur durch Brillen oder Kontaktlinsen nach augenärztlicher Feststellung nicht möglich ist. Vor Aufnahme der Behandlung ist die Zustimmung der Festsetzungsstelle einzuholen.
+ChelattherapieAufwendungen sind nur beihilfefähig bei Behandlung von Schwermetallvergiftung, Morbus Wilson und Siderose. Alternative Schwermetallausleitungen gehören nicht zur Behandlung einer Schwermetallvergiftung.
 
 2.  
-Extrakorporale Stoßwellentherapie (ESWT) im orthopädischen und schmerztherapeutischen BereichAufwendungen sind nur beihilfefähig bei Behandlung von Tendinosis calcarea, Pseudarthrose, Fasziitis plantaris und therapiefraktäre Achillodynie. Auf der Grundlage des Beschlusses der Bundesärztekammer zur Analogbewertung der ESWT sind Gebühren nach Nummer 1800 der Anlage zur Gebührenordnung für Ärzte beihilfefähig. Daneben sind keine Zuschläge beihilfefähig.
+Chirurgische Hornhautkorrektur durch LaserbehandlungAufwendungen sind nur beihilfefähig, wenn eine Korrektur durch Brillen oder Kontaktlinsen nach augenärztlicher Feststellung nicht möglich ist. Vor Aufnahme der Behandlung ist die Zustimmung der Festsetzungsstelle einzuholen.
 
 3.  
-Hyperbare Sauerstofftherapie (Überdruckbehandlung)Aufwendungen sind nur beihilfefähig bei Behandlung von Kohlenmonoxidvergiftung, Gasgangrän, chronischen Knocheninfektionen, Septikämien, schweren Verbrennungen, Gasembolien, peripherer Ischämie oder von Tinnitusleiden, die mit Perzeptionsstörungen des Innenohres verbunden sind.
+Extrakorporale Stoßwellentherapie (ESWT) im orthopädischen und schmerztherapeutischen BereichAufwendungen sind nur beihilfefähig bei Behandlung von Tendinosis calcarea, Pseudarthrose, Fasziitis plantaris, therapierefraktäre Epicondylitis humeri radialis und therapiefraktäre Achillodynie. Auf der Grundlage des Beschlusses der Bundesärztekammer zur Analogbewertung der ESWT sind Gebühren nach Nummer 1800 der Anlage zur Gebührenordnung für Ärzte beihilfefähig. Daneben sind keine Zuschläge beihilfefähig.
 
 4.  
+Hyperbare Sauerstofftherapie (Überdruckbehandlung)Aufwendungen sind nur beihilfefähig bei Behandlung von Kohlenmonoxidvergiftung, Gasgangrän, chronischen Knocheninfektionen, Septikämien, schweren Verbrennungen, Gasembolien, peripherer Ischämie, diabetisches Fußsyndrom ab Wagner Stadium II oder von Tinnitusleiden, die mit Perzeptionsstörungen des Innenohres verbunden sind.
+
+5.  
 Hyperthermiebehandlung
 Aufwendungen sind nur beihilfefähig bei Tumorbehandlungen in Kombination mit Chemo- oder Strahlentherapie.
 
-5.  
+6.  
 KlimakammerbehandlungAufwendungen sind nur beihilfefähig, wenn andere übliche Behandlungsmethoden nicht zum Erfolg geführt haben und die Festsetzungsstelle auf Grund des Gutachtens von einer Ärztin oder einem Arzt, die oder den sie bestimmt, vor Beginn der Behandlung zugestimmt hat.
 
-6.  
+7.  
 Lanthasol-Aerosol-InhalationskurAufwendungen sind nur beihilfefähig, wenn die Aerosol-Inhalationskuren mit hochwirksamen Medikamenten, zum Beispiel Aludrin, durchgeführt werden.
 
-7.  
+8.  
 MagnetfeldtherapieAufwendungen sind nur beihilfefähig bei Behandlung von atrophen Pseudarthrosen, bei Endoprothesenlockerung, idiopathischer Hüftnekrose und verzögerter Knochenbruchheilung, wenn die Magnetfeldtherapie in Verbindung mit einer sachgerechten chirurgischen Therapie durchgeführt wird, sowie bei psychiatrischen Erkrankungen.
 
-8.  
+9.  
 OzontherapieAufwendungen sind nur beihilfefähig bei Gasinsufflationen, wenn damit arterielle Verschlusserkrankungen behandelt werden. Vor Aufnahme der Behandlung ist die Zustimmung der Festsetzungsstelle einzuholen.
 
-9.  
-Therapeutisches Reiten (Hippotherapie)Aufwendungen sind nur beihilfefähig bei ausgeprägten cerebralen Bewegungsstörungen (Spastik) oder schwerer geistiger Behinderung, sofern die ärztlich verordnete Behandlung von Angehörigen der Gesundheits- oder Medizinalfachberufe (zum Beispiel Krankengymnastin oder Krankengymnast) mit entsprechender Zusatzausbildung durchgeführt wird. Die Aufwendungen sind nach den Nummern 3 bis 5 der Anlage 9 beihilfefähig.
-
 10.  
+Radiale Stoßwellentherapie (r-ESWT)Aufwendungen sind nur beihilfefähig im orthopädischen und schmerztherapeutischen Bereich bei Behandlung der therapierefraktären Epicondylitis humeri radialis. Auf der Grundlage des Beschlusses der Bundesärztekammer zur Analogbewertung der r-ESWT sind Gebühren nach Nummer 302 der Anlage zur Gebührenordnung für Ärzte beihilfefähig. Zuschläge sind nicht beihilfefähig.
+
+11.  
+Therapeutisches Reiten (Hippotherapie)Aufwendungen sind nur beihilfefähig bei ausgeprägten cerebralen Bewegungsstörungen (Spastik) oder schwerer geistiger Behinderung, sofern die ärztlich verordnete Behandlung von Angehörigen der Gesundheits- oder Medizinalfachberufe (zum Beispiel Krankengymnastin oder Krankengymnast) mit entsprechender Zusatzausbildung durchgeführt wird. Die Aufwendungen sind nach den Nummern 4 bis 6 der Anlage 9 beihilfefähig.
+
+12.  
 Thymustherapie und Behandlung mit ThymuspräparatenAufwendungen sind nur beihilfefähig bei Krebsbehandlungen, wenn andere übliche Behandlungsmethoden nicht zum Erfolg geführt haben.
 
 ### Anlage 2 (zu § 6 Absatz 3 Satz 4)Höchstbeträge für die Angemessenheit der Aufwendungen für Heilpraktikerleistungen
@@ -3281,7 +3643,7 @@ Eine Kinder- und Jugendlichenpsychotherapeutin oder ein Kinder- und Jugendlichen
 Wird die Behandlung von Personen, die das 18. Lebensjahr noch nicht vollendet haben, von einer Person durchgeführt, die weder Fachärztin oder Facharzt für Kinder- und Jugendpsychiatrie und -psychotherapie noch Kinder- und Jugendlichenpsychotherapeutin oder Kinder- und Jugendlichenpsychotherapeut ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.Werden Gruppenbehandlungen von einer Person durchgeführt, die keine Fachärztin oder kein Facharzt für Psychotherapeutische Medizin oder Psychosomatische Medizin ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.
 
 9.  
-Voraussetzung für die Beihilfefähigkeit der Aufwendungen in besonderen Ausnahmefällen (§ 20 Absatz 1 Nummer 3 und 4) ist, dass vor Beginn der Behandlung eine erneute eingehende Begründung der Therapeutin oder des Therapeuten vorgelegt wird und die Festsetzungsstelle vor Beginn der Behandlung zugestimmt hat. Zeigt sich bei der Therapie, dass das Behandlungsziel innerhalb der vorgesehenen Anzahl der Sitzungen nicht erreicht wird, kann in medizinisch besonders begründeten Einzelfällen eine weitere begrenzte Behandlungsdauer anerkannt werden. Die Anerkennung darf erst im letzten Behandlungsabschnitt erfolgen. Voraussetzung für die Anerkennung ist eine Indikation nach § 20 Absatz 1, die nach ihrer besonderen Symptomatik und Struktur eine besondere tiefenpsychologisch fundierte oder analytische Bearbeitung erfordert und eine hinreichende Prognose über das Erreichen des Behandlungsziels erlaubt.
+Voraussetzung für die Beihilfefähigkeit der Aufwendungen in Ausnahmefällen (§ 19 Absatz 1 Nummer 3 und 4) ist, dass vor Beginn der Behandlung eine erneute eingehende Begründung der Therapeutin oder des Therapeuten vorgelegt wird und die Festsetzungsstelle vor Beginn der Behandlung zugestimmt hat. Zeigt sich bei der Therapie, dass das Behandlungsziel innerhalb der vorgesehenen Anzahl der Sitzungen nicht erreicht wird, kann in Ausnahmefällen eine weitere begrenzte Behandlungsdauer anerkannt werden. Die Anerkennung darf erst im letzten Behandlungsabschnitt erfolgen. Voraussetzung für die Anerkennung ist eine Indikation nach § 18a Absatz 1 und 2, die nach ihrer besonderen Symptomatik und Struktur eine besondere tiefenpsychologisch fundierte oder analytische Bearbeitung erfordert und eine hinreichende Prognose über das Erreichen des Behandlungsziels erlaubt.
 
 Abschnitt 4
 Verhaltenstherapie
@@ -3321,15 +3683,49 @@ c)
 4.  
 Wird die Behandlung von Personen, die das 18. Lebensjahr noch nicht vollendet haben, von einer Person durchgeführt, die weder Fachärztin oder Facharzt für Kinder- und Jugendlichenpsychiatrie und -psychotherapie noch Kinder- und Jugendlichenpsychotherapeutin oder Kinder- und Jugendlichenpsychotherapeut ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.Werden Gruppenbehandlungen von einer Person durchgeführt, die keine Fachärztin oder kein Facharzt für Psychotherapeutische Medizin oder Psychosomatische Medizin und Psychotherapie ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.
 
+Abschnitt 5
+Eye-Movement-
+Desensitization-and-Reprocessing-Behandlung
+
+1.  
+Wird die Behandlung von einer ärztlichen Psychotherapeutin oder einem ärztlichen Psychotherapeuten durchgeführt, muss diese Person
+
+a)  
+die Voraussetzungen nach Abschnitt 3 oder Abschnitt 4 erfüllen und
+
+b)  
+Kenntnisse und praktische Erfahrungen in der Behandlung der posttraumatischen Belastungsstörung und in der Eye-Movement-Desensitization-and-Reprocessing-Behandlung erworben haben.
+
+2.  
+Wird die Behandlung von einer Psychologischen Psychotherapeutin oder einem Psychologischen Psychotherapeuten durchgeführt, muss diese Person
+
+a)  
+die Voraussetzungen nach Abschnitt 3 oder Abschnitt 4 erfüllen und
+
+b)  
+Kenntnisse und praktische Erfahrungen in der Behandlung der posttraumatischen Belastungsstörung und in der Eye-Movement-Desensitization-and-Reprocessing-Behandlung erworben haben.
+
+3.  
+Wurde die Qualifikation nach Nummer 1 oder Nummer 2 nicht im Rahmen der Weiterbildung erworben, muss die behandelnde Person
+
+a)  
+in mindestens 40 Stunden eingehende Kenntnisse in der Theorie der Traumabehandlung und der Eye-Movement-Desensitization-and-Reprocessing-Behandlung erworben haben und
+
+b)  
+mindestens 40 Stunden Einzeltherapie mit mindestens fünf abgeschlossenen Eye-Movement-Desensitization-and-Reprocessing-Behandlungsabschnitten unter Supervision von mindestens 10 Stunden mit Eye-Movement-Desensitization-and-Reprocessing-Behandlung durchgeführt haben.
+
+Entsprechende Zusatzqualifikationen müssen an oder über anerkannte Weiterbildungsstätten erworben worden sein.
+
 ### Anlage 4 (zu § 22 Absatz 1)Beihilfefähige Medizinprodukte
 
-(Fundstelle: BGBl. I 2015, 846 - 852)
+(Fundstelle: BGBl. I 2016, 2418 - 2424;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Nr.
 
 Produktbezeichnung
 
-Anwendungsfälle
+Medizinische Anwendungsfälle
 
 1
 
@@ -3339,31 +3735,36 @@ Zur raschen und nachhaltigen Entleerung des Enddarms vor Operationen und diagnos
 
 2.1
 
-AMO
-ENDOSOL
+ALCON BSS
+
+Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
+
+2.2
+
+AMO ENDOSOL
 
 Für intraokulare und topische Spülungen des Auges bei chirurgischen Prozeduren und für diagnostische und therapeutische Maßnahmen.
 
-2.2
+2.3
 
 Ampuwa
 für Spülzwecke
 
 Zum Anfeuchten von Tamponaden und Verbänden; zur Atemluftbefeuchtung nur zur Anwendung in geschlossenen Systemen in medizinisch notwendigen Fällen; jeweils in einer Menge, die ausschließlich für die einmalige Anwendung geeignet ist.
 
-2.3
+2.4
 
 Amvisc
 
 Zur Anwendung als Operationshilfe bei ophthalmischen Eingriffen am vorderen Augenabschnitt.
 
-2.4
+2.5
 
 Amvisc Plus
 
 Zur Anwendung als Operationshilfe bei ophthalmischen Eingriffen am vorderen Augenabschnitt.
 
-2.5
+2.6
 
 Aqua B. Braun
 
@@ -3371,21 +3772,22 @@ Zur Spülung und Reinigung bei operativen Eingriffen, zur Spülung von Wunden un
 
 3.1
 
-Bausch & Lomb Balanced Salt Solution
+Bausch & Lomb
+Balanced Salt Solution
 
 Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
 
 3.2
 
-BSS DISTRA-SOL
+belAir® NaCl 0,9 %
 
-Zur Spülung der Vorderkammer während Kataraktoperationen und anderer intraokularer Eingriffe.
+Als isotone Trägerlösung bei der Verwendung von Inhalaten in Verneblern oder Aerosolgeräten. Dies gilt nur für die Fälle, in denen der Zusatz einer isotonen Trägerlösung in der Fachinformation des arzneistoffhaltigen Inhalats zwingend vorgesehen ist.
 
 3.3
 
-BSS NL250/NL500
+BSS DISTRA-SOL
 
-Zur Spülung des chirurgischen extraokularen oder intraokularen Operationsbereiches.
+Zur Spülung der Vorderkammer während Kataraktoperationen und anderer intraokularer Eingriffe.
 
 3.4
 
@@ -3396,7 +3798,8 @@ Als intraokulare Spüllösung bei chirurgischen Eingriffen im Auge, bei denen ei
 
 3.5
 
-BSS STERILE SPÜLLÖSUNG
+BSS STERILE
+SPÜLLÖSUNG
 (Alcon Pharma GmbH)
 
 Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
@@ -3421,13 +3824,6 @@ Zur Anwendung als Operationshilfe in der Ophthalmochirurgie, zur mechanischen Ne
 
 4.3
 
-Dr. Deppe
-EndoStar-Lavage
-
-Darmreinigung zur Vorbereitung einer Darmspiegelung bei Personen, die das zwölfte Lebensjahr vollendet haben.
-
-4.4
-
 DuoVisc
 
 Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes bei Kataraktextraktion und Implantation einer Intraokularlinse.
@@ -3446,7 +3842,8 @@ das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwickl
 
 5.2
 
-EyE-Lotion BSS
+Eye-Lotion
+Balanced Salt Solution
 
 Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
 
@@ -3493,77 +3890,93 @@ Zur intraoperativen und postoperativen Blasenspülung bei urologischen Eingriffe
 
 7.1
 
-Globance Lavage
-
-Zur Behandlung vor diagnostischen Eingriffen bei Personen, die das 18. Lebensjahr vollendet haben.
-
-7.2
-
-Globance Lavage Apfel
-
-Zur Behandlung vor diagnostischen Eingriffen bei Personen, die das 18. Lebensjahr vollendet haben.
-
-8.1
-
 Healon
 
 Für die intraokulare Verwendung bei Augenoperationen.
 
-8.2
+7.2
 
 Healon5
 
 Als viskoelastische Lösung für die intraokulare Verwendung bei Operationen am vorderen Augenabschnitt.
 
-8.3
+7.3
 
 HEALON GV
 
 Als viskoelastische Lösung für die intraokulare Verwendung bei Operationen am vorderen Augenabschnitt.
 
-8.4
+7.4
+
+Hedrin Once
+Liquid Gel
+
+Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
+
+a)  
+den sechsten Lebensmonat, aber noch nicht das zwölfte Lebensjahr vollendet haben,
+
+b)  
+das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
+
+7.5
 
 HSO
 
 Zur Anwendung als Operationshilfe bei ophthalmischen Eingriffen am vorderen und hinteren Augenabschnitt.
 
-8.5
+7.6
 
 HSO Plus
 
 Zur Anwendung als Operationshilfe bei ophthalmischen Eingriffen am vorderen und hinteren Augenabschnitt.
 
-8.6
+7.7
 
 Hylo-Gel
 
 Als synthetische Tränenflüssigkeit bei Autoimmunerkrankungen (Sjögren-Syndrom mit deutlichen Funktionsstörungen \[trockenes Auge Grad 2\], Epidermolysis bulosa, okulares Pemphigoid), Fehlen oder Schädigung der Tränendrüse, Fazialisparese oder bei Lagophthalmus.
 
-9.1
+8.1
 
 IsoFree
 
 Als Trägerlösung bei der Verwendung von Inhalaten in Verneblern oder Aerosolgeräten, wenn der Zusatz einer isotonen Trägerlösung in der Fachinformation des arzneistoffhaltigen Inhalats zwingend vorgesehen ist.
 
-9.2
+8.2
+
+Isomol
+
+Behandlung
+
+a)  
+der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
+
+8.3
 
 Isotonische Kochsalzlösung zur Inhalation (Eifelfango)
 
 Als Trägerlösung bei der Verwendung von Inhalaten in Verneblern oder Aerosolgeräten, wenn der Zusatz einer isotonen Trägerlösung in der Fachinformation des arzneistoffhaltigen Inhalats zwingend vorgesehen ist.
 
-10.1
+9.1
 
-Jacutin Pedicul Fluid
+Kinderlax elektrolytfrei
 
-Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
+Zur Behandlung der Obstipation für Personen, die den fünften Lebensmonat, aber noch nicht das zwölfte Lebensjahr vollendet haben.
 
-a)  
-das zwölfte Lebensjahr noch nicht vollendet haben,
-
-b)  
-das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
-
-11.1
+9.2
 
 Klistier Fresenius
 
@@ -3574,8 +3987,6 @@ der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des kon
 
 b)  
 vor diagnostischen Eingriffen,
-
-<!-- -->
 
 c)  
 bei Opiat- sowie Opioidtherapie und
@@ -3592,13 +4003,13 @@ bei Personen, die das vierte, aber noch nicht das zwölfte Lebensjahr vollendet 
 b)  
 bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
-12.1
+10.1
 
 Lubricano
 
 Zur Anwendung bei Personen mit Katheterisierung.
 
-13.1
+11.1
 
 Macrogol 1A Pharma
 
@@ -3619,7 +4030,7 @@ in der Terminalphase
 bei Personen, die das zwölfte Lebensjahr vollendet haben.
 Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
-13.2
+11.2
 
 Macrogol AbZ
 
@@ -3640,50 +4051,7 @@ in der Terminalphase
 bei Personen, die das zwölfte Lebensjahr vollendet haben.
 Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
-13.3
-
-Macrogol AL
-
-Behandlung
-
-a)  
-der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
-
-b)  
-bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
-
-c)  
-bei Opiat- sowie Opioidtherapie und
-
-d)  
-in der Terminalphase
-
-bei Personen, die das zwölfte Lebensjahr vollendet haben.
-Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
-
-13.4
-
-Macrogol-CT
-Abführpulver
-
-Behandlung
-
-a)  
-der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose bei neurogener Darmlähmung,
-
-b)  
-bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
-
-c)  
-bei Opiat- sowie Opioidtherapie und
-
-d)  
-in der Terminalphase
-
-bei Personen, die das zwölfte Lebensjahr vollendet haben.
-Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
-
-13.5
+11.3
 
 Macrogol dura
 
@@ -3695,6 +4063,8 @@ der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des tox
 b)  
 bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
 
+<!-- -->
+
 c)  
 bei Opiat- sowie Opioidtherapie und
 
@@ -3704,7 +4074,7 @@ in der Terminalphase
 bei Personen, die das zwölfte Lebensjahr vollendet haben.
 Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
-13.6
+11.4
 
 Macrogol HEXAL
 
@@ -3725,7 +4095,7 @@ in der Terminalphase
 bei Personen, die das zwölfte Lebensjahr vollendet haben.
 Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
-13.7
+11.5
 
 Macrogolratiopharm
 
@@ -3746,7 +4116,29 @@ in der Terminalphase
 bei Personen, die das zwölfte Lebensjahr vollendet haben.
 Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
-13.8
+11.6
+
+Macrogolratiopharm
+flüssig Orange
+
+Behandlung
+
+a)  
+der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
+
+11.7
 
 Macrogol Sandoz
 
@@ -3767,28 +4159,7 @@ in der Terminalphase
 bei Personen, die das zwölfte Lebensjahr vollendet haben.
 Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
-13.9
-
-Macrogol STADA
-
-Behandlung
-
-a)  
-der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
-
-b)  
-bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
-
-c)  
-bei Opiat- sowie Opioidtherapie und
-
-d)  
-in der Terminalphase
-
-bei Personen, die das zwölfte Lebensjahr vollendet haben.
-Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
-
-13.10
+11.8
 
 Macrogol TAD
 
@@ -3809,7 +4180,7 @@ in der Terminalphase
 bei Personen, die das zwölfte Lebensjahr vollendet haben.
 Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
-13.11
+11.9
 
 Medicoforum Laxativ
 
@@ -3821,6 +4192,8 @@ der Obstipation im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des tox
 b)  
 bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
 
+<!-- -->
+
 c)  
 bei Opiat- sowie Opioidtherapie und
 
@@ -3830,9 +4203,16 @@ in der Terminalphase
 bei Personen, die das zwölfte Lebensjahr vollendet haben.
 Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
-13.12
+11.10
 
-Mosquito med Läuse-Shampoo 10
+Microvisc plus
+
+Zur Anwendung als Operationshilfe in der Opthalmochirurgie des vorderen Augenabschnittes.
+
+11.11
+
+Mosquito med
+Läuse-Shampoo 10
 
 Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
 
@@ -3842,13 +4222,7 @@ das zwölfte Lebensjahr noch nicht vollendet haben,
 b)  
 das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
-13.13
-
-MucoClear 6 %
-
-Zur symptomatischen Inhalationsbehandlung der Mukoviszidose bei Personen, die das sechste Lebensjahr vollendet haben.
-
-13.14
+11.12
 
 MOVICOL
 
@@ -3866,9 +4240,31 @@ bei Opiat- oder Opioidtherapie und
 d)  
 in der Terminalphase
 
-bei Personen, die das zwölfte Lebensjahr vollendet haben. Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
-13.15
+11.13
+
+Movicol aromafrei
+
+Behandlung
+
+a)  
+der Obstipation nur im Zusammenhang mit Tumorleiden, Megacolon (mit Ausnahme des toxischen Megacolons), Divertikulose, Divertikulitis, Mukoviszidose oder neurogener Darmlähmung,
+
+b)  
+bei phosphatbindender Medikation bei chronischer Niereninsuffizienz,
+
+c)  
+bei Opiat- sowie Opioidtherapie und
+
+d)  
+in der Terminalphase
+
+bei Personen, die das zwölfte Lebensjahr vollendet haben.
+Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
+
+11.14
 
 MOVICOL flüssig Orange
 
@@ -3889,39 +4285,52 @@ in der Terminalphase
 bei Personen, die das zwölfte Lebensjahr vollendet haben.
 Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
-13.16
+11.15
 
-MOVICOL Junior aromafrei
+MOVICOL Junior
+aromafrei
 
 Behandlung der Obstipation bei Personen, die das zweite, aber noch nicht das elfte Lebensjahr vollendet haben.
 Behandlung der Koprostase bei Personen, die das fünfte, aber noch nicht das elfte Lebensjahr vollendet haben.
 
-13.17
+11.16
 
 MOVICOL Junior Schoko
 
 Behandlung der Obstipation bei Personen, die das zweite, aber noch nicht das elfte Lebensjahr vollendet haben.
 
-14.1
+11.17
+
+MucoClear 6 %
+
+Zur symptomatischen Inhalationsbehandlung der Mukoviszidose bei Personen, die das sechste Lebensjahr vollendet haben.
+
+11.18
+
+myVISC Hyal 1.0
+
+Zur Anwendung als Operationshilfe in der Opthalmochirurgie des vorderen Augenabschnittes.
+
+12.1
 
 NaCl 0,9 % B. Braun
 
 Zur Spülung und Reinigung bei operativen Eingriffen, zur Spülung von Wunden und Verbrennungen, zum Anfeuchten von Wundtamponaden, Tüchern und Verbänden, zur Überprüfung der Durchlässigkeit von Blasenkathetern sowie zur mechanischen Augenspülung.
 
-14.2
+12.2
 
 NaCl 0,9 %
 Fresenius Kabi
 
 Zur internen und externen Anwendung wie Perfusion des extrakorporalen Systems bei der Hämodialyse, der postoperativen Blasenspülung bei allen urologischen Eingriffen, Spülungen im Magen-Darm-Trakt und von Fisteln und Drainagen. Auch zur Wundbehandlung und zum Anfeuchten von Tüchern und Verbänden; jeweils in einer Menge, die ausschließlich für die einmalige Anwendung geeignet ist.
 
-14.3
+12.3
 
 Nebusal 7 %
 
-Zur symptomatischen Inhalationsbehandlung der Mukoviszidose bei Personen ab sechs Jahren.
+Zur symptomatischen Inhalationsbehandlung der Mukoviszidose bei Personen, die das sechste Lebensjahr vollendet haben.
 
-14.4
+12.4
 
 NYDA
 
@@ -3933,46 +4342,58 @@ das zwölfte Lebensjahr noch nicht vollendet haben,
 b)  
 das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
-15.1
+13.1
 
 OcuCoat
 
 Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes.
 
-15.2
+13.2
 
 Oculentis BSS
 
 Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
 
-15.3
+13.3
 
 Okta-line
 
 Zur Anwendung als Operationshilfe in der Ophthalmochirurgie, zur mechanischen Netzhautentfaltung nach Netzhautablösungen/PVR/PDR, Riesenrissen, okularen Traumata sowie zur vereinfachten Entfernung subluxierter Linsen und Fremdkörper aus dem Glaskörperraum.
 
-15.4
+13.4
+
+Optyluron NHS 1,0 %
+
+Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes.
+
+13.5
+
+Optyluron NHS 1,4 %
+
+Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes.
+
+13.6
 
 Oxane 1300
 
 Zur intraokularen Tamponade bei schweren Formen der Netzhautablösung sowie allen Netzhautablösungen, die mit anderen Therapieformen nicht behandelt werden können. Ausgenommen ist die Anwendung bei zentralen Foramina mit Ablösung und bei schweren diabetischen Retinopathien.
 
-15.5
+13.7
 
 Oxane 5700
 
 Zur intraokularen Tamponade bei schweren Formen der Netzhautablösung sowie allen Netzhautablösungen, die mit anderen Therapieformen nicht behandelt werden können. Ausgenommen ist die Anwendung bei zentralen Foramina mit Ablösung und bei schweren diabetischen Retinopathien.
 
-16.1
+14.1
 
-Pädiasalin
-Inhalationslösung
+PädiaSalin 0,9 %
 
 Als Trägerlösung bei der Verwendung von Inhalaten in Verneblern oder Aerosolgeräten. Dies gilt nur für die Fälle, in denen der Zusatz einer Trägerlösung in der Fachinformation des arzneistoffhaltigen Inhalats zwingend vorgesehen ist.
 
-16.2
+14.2
 
-Paranix ohne Nissenkamm
+Paranix ohne
+Nissenkamm
 
 Behandlung des Kopfhaares bei Pediculosis capitis bei Personen, die
 
@@ -3982,13 +4403,14 @@ das zwölfte Lebensjahr noch nicht vollendet haben,
 b)  
 das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
-16.3
+14.3
 
-PARI NaCl Inhalationslösung
+PARI NaCl
+Inhalationslösung
 
 Als Trägerlösung bei der Verwendung von Inhalaten in Verneblern oder Aerosolgeräten. Dies gilt nur für die Fälle, in denen der Zusatz einer Trägerlösung in der Fachinformation des arzneistoffhaltigen Inhalats zwingend vorgesehen ist.
 
-16.4
+14.4
 
 ParkoLax
 
@@ -4009,43 +4431,43 @@ in der Terminalphase
 bei Personen, die das zwölfte Lebensjahr vollendet haben.
 Behandlung der Obstipation bei Personen, die das zwölfte, aber noch nicht das 18. Lebensjahr vollendet haben und an Entwicklungsstörungen leiden.
 
-16.5
+14.5
 
 Pe-Ha-Luron 1,0 %
 
 Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes.
 
-16.6
+14.6
 
 Pe-Ha-Visco 2,0 %
 
 Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes.
 
-16.7
+14.7
 
 Polyvisc 2,0 %
 
 Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes.
 
-16.8
+14.8
 
 Polysol
 
 Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
 
-16.9
+14.9
 
 ProVisc
 
 Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes bei Kataraktextraktion und Implantation einer Intraokularlinse.
 
-16.10
+14.10
 
 PURI CLEAR
 
 Zur Irrigation im Rahmen extraokularer und intraokularer Eingriffe.
 
-16.11
+14.11
 
 Purisole SM verdünnt
 
@@ -4096,23 +4518,11 @@ Zur Anwendung bei ophthalmologischen Eingriffen am vorderen Augenabschnitt, insb
 
 19.2
 
-Visco HYAL 1.0
-
-Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes.
-
-19.3
-
-Viso HYAL 1.4+
-
-Zur Anwendung als Operationshilfe in der Ophthalmochirurgie des vorderen Augenabschnittes.
-
-19.4
-
 VISMED
 
 Als synthetische Tränenflüssigkeit bei Autoimmunerkrankungen (Sjögren-Syndrom mit deutlichen Funktionsstörungen \[trockenes Auge Grad 2\], Epidermolysis bullosa, okuläres Pemphigoid), Fehlen oder Schädigung der Tränendrüse, Fazialisparese oder bei Lagophthalmus.
 
-19.5
+19.3
 
 VISMED MULTI
 
@@ -4126,7 +4536,8 @@ Zur Unterstützung intraokularer Eingriffe am vorderen Augenabschnitt bei Katara
 
 ### Anlage 5 (zu § 22 Absatz 2 Nummer 1)Arzneimittel, die überwiegend der Erhöhung der Lebensqualität dienen
 
-(Fundstelle: BGBl. I 2015, 853 - 855)
+(Fundstelle: BGBl. I 2015, 853 - 855;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Abschnitt 1
 Regulierung des Körpergewichts (zentral wirkend)**
@@ -4164,11 +4575,22 @@ REDUCTIL
 
 A 08 AA 13 Phenylpropanolamin
 
-Antiadipositum Riemser
 BOXOGETTEN S
 RECATOL mono
 
+A 08 AA 62 Bupropion, Naltrexon
+
+Mysimba
+
+A 08 AA 63 Phenylpropanolamin, Kombinationen
+
+Antiadipositum Riemser
+
 A 08 AX 01 Rimonabant
+
+A 10 BX 07 Liraglutid
+
+Saxenda
 
 **Abschnitt 2
 Regulierung des Körpergewichts (peripher wirkend)**
@@ -4197,6 +4619,7 @@ CAVERJECT
 CAVERJECT Impuls
 MUSE
 VIRIDAL
+Vitaros HEXAL
 
 G 04 BE 02 Papaverin
 
@@ -4218,7 +4641,7 @@ G 04 BE 06 Moxisylyt
 G 04 BE 07 Apomorphin
 
 G 04 BE 08 Tadalafil
-(außer Taldafil 5 mg zur Behandlung des benignen Prostatasyndroms bei Männern, die das 18. Lebensjahr vollendet haben)
+(außer Tadalafil 5 mg zur Behandlung des benignen Prostatasyndroms bei Männern, die das 18. Lebensjahr vollendet haben)
 
 CIALIS
 
@@ -4229,6 +4652,10 @@ LEVITRA
 G 04 BE 10 Avanafil
 
 SPEDRA
+
+N 01 BB 20 Lidocain; Prilocain
+
+Fortacin
 
 G 04 BE 30 Kombinationen
 
@@ -4293,6 +4720,7 @@ D 11 AX 01 Minoxidil
 
 ALOPEXY 5 %
 REGAINE
+Minoxidil BIO-H-TIN-Pharma
 
 D 11 AX 10 Finasterid
 
@@ -4307,7 +4735,7 @@ ALPICORT F
 
 Alfatradiol
 
-ELL CRANELL alpha
+ELL CRANELL
 PANTOSTIN
 
 Dexamethason; Alfatradiol
@@ -4469,9 +4897,12 @@ Zinkverbindungen als Monopräparat nur zur Behandlung der enteropathischen Akrod
 44.  
 Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanästhetika zur Injektion,apothekenpflichtige nicht verschreibungspflichtige Arzneimittel, die im Rahmen der ärztlichen Behandlung zur sofortigen Anwendung in der Praxis verfügbar sein müssen, können verordnet werden, wenn entsprechende Vereinbarungen zwischen den Verbänden der Krankenkassen und den Kassenärztlichen Vereinigungen getroffen werden.
 
+Bei den in Satz 1 genannten schwerwiegenden Erkrankungen sind Aufwendungen für anthroposophische und homöopathische Arzneimittel dann beihilfefähig, wenn die Anwendung als Therapiestandard in der jeweiligen Therapierichtung angezeigt ist.
+
 ### Anlage 7 (zu § 22 Absatz 3)Übersicht der Arzneimittelfestbetragsgruppen, für die ein Festbetrag gilt
 
-(Fundstelle: BGBl. I 2015, 856 - 884)
+(Fundstelle: BGBl. I 2015, 856 - 884;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 |         |                                                                                                                                                                                                                                |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -4501,10 +4932,11 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 | 1.01.22 | Amoxicillin + Clavulansäure: feste orale Darreichungsformen, im Verhältnis 7:1                                                                                                                                                 |
 | 1.01.23 | Amoxicillin + Clavulansäure: feste orale Darreichungsformen, im Verhältnis 4:1                                                                                                                                                 |
 | 1.01.24 | Anastrozol: orale Darreichungsformen                                                                                                                                                                                           |
-| 1.01.25 | Atenolol: feste orale Darreichungsformen                                                                                                                                                                                       |
-| 1.01.26 | Atenolol + Chortalidon: feste orale Darreichungsformen                                                                                                                                                                         |
-| 1.01.27 | Azathioprin: orale Darreichungsformen                                                                                                                                                                                          |
-| 1.02.1  | Bemetizid + Triamenteren: feste orale Darreichungsformen                                                                                                                                                                       |
+| 1.01.25 | Aripiprazol: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.01.26 | Atenolol: feste orale Darreichungsformen                                                                                                                                                                                       |
+| 1.01.27 | Atenolol + Chortalidon: feste orale Darreichungsformen                                                                                                                                                                         |
+| 1.01.28 | Azathioprin: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.02.1  | Bemetizid + *Triamenteren*: feste orale Darreichungsformen                                                                                                                                                                     |
 | 1.02.2  | Benzoylperoxid: topische Darreichungsformen                                                                                                                                                                                    |
 | 1.02.3  | Beta-Acetyldigoxin: feste orale Darreichungsformen                                                                                                                                                                             |
 | 1.02.4  | Betahistin: orale Darreichungsformen                                                                                                                                                                                           |
@@ -4521,38 +4953,39 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 | 1.02.15 | Butylscopolamin: feste orale Darreichungsformen                                                                                                                                                                                |
 | 1.02.16 | Butylscopolamin: parenterale Darreichungsformen                                                                                                                                                                                |
 | 1.03.1  | Calcium zur Substitution und Therapie: orale Darreichungsformen                                                                                                                                                                |
-| 1.03.2  | Carbamazepin: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                               |
-| 1.03.3  | Carbamazepin: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                            |
-| 1.03.4  | Carbimazol: feste orale Darreichungsformen                                                                                                                                                                                     |
-| 1.03.5  | Choriongonadotropoin: parenterale Darreichungsformen                                                                                                                                                                           |
-| 1.03.6  | Ciclopirox: topische Darreichungsformen                                                                                                                                                                                        |
-| 1.03.7  | Ciclosporin: orale Darreichungsformen                                                                                                                                                                                          |
-| 1.03.8  | Ciclosporin: orale Darreichungsformen, auf Mikro-/Nanoemulsionsbasis oder kolloidal dispergiert                                                                                                                                |
-| 1.03.9  | Cimetidin: orale Darreichungsformen                                                                                                                                                                                            |
-| 1.03.10 | Cimetidin: parenterale Darreichungsformen                                                                                                                                                                                      |
-| 1.03.11 | Clindamycin: orale Darreichungsformen                                                                                                                                                                                          |
-| 1.03.12 | Clodronsäure: orale Darreichungsformen                                                                                                                                                                                         |
-| 1.03.13 | Clomifen: feste orale Darreichungsformen                                                                                                                                                                                       |
-| 1.03.14 | Clonidin: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                                   |
-| 1.03.15 | Clonidin: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                                |
-| 1.03.16 | Clonidin: Ophalmika                                                                                                                                                                                                            |
-| 1.03.17 | Clopidogrel: orale Darreichungsformen                                                                                                                                                                                          |
-| 1.03.18 | Clotrimazol: Creme, Salbe                                                                                                                                                                                                      |
-| 1.03.19 | Clotrimazol: Liquidum, Lösung, Pumpspray, Spray, Tropflösung                                                                                                                                                                   |
-| 1.03.20 | Clotrimazol: vaginale topische Darreichungsformen                                                                                                                                                                              |
-| 1.03.21 | Clozapin: abgeteilte orale Darreichungsformen                                                                                                                                                                                  |
-| 1.03.22 | Colecalciferol: feste orale Darreichungsformen (400 bis 1 000 I. E.)                                                                                                                                                           |
-| 1.03.23 | Colecalciferol + Fluorid: feste orale Darreichungsformen (500 bis 1 000 I. E. Colecalciferol + 0,25 mg Fluorid)                                                                                                                |
-| 1.03.24 | Co-Trimoxazol: feste orale Darreichungsformen                                                                                                                                                                                  |
-| 1.03.25 | Co-Trimoxazol: flüssige orale Darreichungsformen                                                                                                                                                                               |
-| 1.03.26 | Cromoglicinsäure: Augentropfen, Eindosispipetten                                                                                                                                                                               |
-| 1.03.27 | Cromoglicinsäure: Nasenspray, Nasentropfen, Spray                                                                                                                                                                              |
-| 1.03.28 | Cromoglicinsäure: Augentropfen/Nasenspray (Kombipackung)                                                                                                                                                                       |
-| 1.03.29 | Cromoglicinsäure: inhalative Darreichungsformen                                                                                                                                                                                |
-| 1.03.30 | Cromoglicinsäure: orale Darreichungsformen                                                                                                                                                                                     |
-| 1.03.31 | Cyanocobalamin: parenterale Darreichungsformen                                                                                                                                                                                 |
-| 1.03.32 | Cyclophosphamid: feste orale Darreichungsformen                                                                                                                                                                                |
-| 1.03.33 | Cyproteron-Acetat: feste orale Darreichungsformen                                                                                                                                                                              |
+| 1.03.2  | Capecitabin: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.03.3  | Carbamazepin: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                               |
+| 1.03.4  | Carbamazepin: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                            |
+| 1.03.5  | Carbimazol: feste orale Darreichungsformen                                                                                                                                                                                     |
+| 1.03.6  | Choriongonadotropoin: parenterale Darreichungsformen                                                                                                                                                                           |
+| 1.03.7  | Ciclopirox: topische Darreichungsformen                                                                                                                                                                                        |
+| 1.03.8  | Ciclosporin: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.03.9  | Ciclosporin: orale Darreichungsformen, auf Mikro-/Nanoemulsionsbasis oder kolloidal dispergiert                                                                                                                                |
+| 1.03.10 | Cimetidin: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.03.11 | Cimetidin: parenterale Darreichungsformen                                                                                                                                                                                      |
+| 1.03.12 | Clindamycin: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.03.13 | Clodronsäure: orale Darreichungsformen                                                                                                                                                                                         |
+| 1.03.14 | Clomifen: feste orale Darreichungsformen                                                                                                                                                                                       |
+| 1.03.15 | Clonidin: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                                   |
+| 1.03.16 | Clonidin: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                                |
+| 1.03.17 | Clonidin: *Ophalmika*                                                                                                                                                                                                          |
+| 1.03.18 | Clopidogrel: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.03.19 | Clotrimazol: Creme, Salbe                                                                                                                                                                                                      |
+| 1.03.20 | Clotrimazol: Liquidum, Lösung, Pumpspray, Spray, Tropflösung                                                                                                                                                                   |
+| 1.03.21 | Clotrimazol: vaginale topische Darreichungsformen                                                                                                                                                                              |
+| 1.03.22 | Clozapin: abgeteilte orale Darreichungsformen                                                                                                                                                                                  |
+| 1.03.23 | Colecalciferol: feste orale Darreichungsformen (400 bis 1 000 I. E.)                                                                                                                                                           |
+| 1.03.24 | Colecalciferol + Fluorid: feste orale Darreichungsformen (500 bis 1 000 I. E. Colecalciferol + 0,25 mg Fluorid)                                                                                                                |
+| 1.03.25 | Co-Trimoxazol: feste orale Darreichungsformen                                                                                                                                                                                  |
+| 1.03.26 | Co-Trimoxazol: flüssige orale Darreichungsformen                                                                                                                                                                               |
+| 1.03.27 | Cromoglicinsäure: Augentropfen, Eindosispipetten                                                                                                                                                                               |
+| 1.03.28 | Cromoglicinsäure: nasale Darreichungsformen                                                                                                                                                                                    |
+| 1.03.29 | Cromoglicinsäure: Ophtalmika und nasale Darreichungsformen in Kombipackungen                                                                                                                                                   |
+| 1.03.30 | Cromoglicinsäure: inhalative Darreichungsformen                                                                                                                                                                                |
+| 1.03.31 | Cromoglicinsäure: orale Darreichungsformen                                                                                                                                                                                     |
+| 1.03.32 | Cyanocobalamin: parenterale Darreichungsformen                                                                                                                                                                                 |
+| 1.03.33 | Cyclophosphamid: feste orale Darreichungsformen                                                                                                                                                                                |
+| 1.03.34 | Cyproteron-Acetat: feste orale Darreichungsformen                                                                                                                                                                              |
 | 1.04.1  | Dexamethason: orale Darreichungsformen, normal freisetzend, niedrigdosiert ≤ 2 mg                                                                                                                                              |
 | 1.04.2  | Dexamethason: orale Darreichungsformen, normal freisetzend, hochdosiert ≥ 4 mg                                                                                                                                                 |
 | 1.04.3  | Dexamethason: parenterale Darreichungsformen, wasserlöslich, niedrigdosiert ≤ 20 mg                                                                                                                                            |
@@ -4580,17 +5013,20 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 | 1.04.25 | Doxorubicin: parenterale Darreichungsformen                                                                                                                                                                                    |
 | 1.04.26 | Doxycyclin: feste orale Darreichungsformen                                                                                                                                                                                     |
 | 1.04.27 | Doxylamin: orale Darreichungsformen, normal freisetzend                                                                                                                                                                        |
-| 1.05.1  | Erythromycin: abgeteilte orale Darreichungsformen                                                                                                                                                                              |
-| 1.05.2  | Erythromycin: flüssige orale Darreichungsformen                                                                                                                                                                                |
-| 1.05.3  | Erythromycin: lokale Darreichungsformen                                                                                                                                                                                        |
-| 1.05.4  | Estradiol: orale Darreichungsformen                                                                                                                                                                                            |
-| 1.05.5  | Estradiol: transdermale Darreichungsformen                                                                                                                                                                                     |
-| 1.05.6  | Estramustin: feste orale Darreichungsformen                                                                                                                                                                                    |
-| 1.05.7  | Estriol: feste orale Darreichungsformen                                                                                                                                                                                        |
-| 1.05.8  | Estriol: vaginale topische Darreichungsformen                                                                                                                                                                                  |
-| 1.05.9  | Ethambutol: feste orale Darreichungsformen                                                                                                                                                                                     |
-| 1.05.10 | Etilefrin: orale Darreichungsformen, normal freisetzend                                                                                                                                                                        |
-| 1.05.11 | Exemestan: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.04.28 | Duloxetin: feste orale Darreichungsformen                                                                                                                                                                                      |
+| 1.05.1  | Efavirenz: feste orale Darreichungsformen                                                                                                                                                                                      |
+| 1.05.2  | Eplerenon: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.05.3  | Erythromycin: abgeteilte orale Darreichungsformen                                                                                                                                                                              |
+| 1.05.4  | Erythromycin: flüssige orale Darreichungsformen                                                                                                                                                                                |
+| 1.05.5  | Erythromycin: lokale Darreichungsformen                                                                                                                                                                                        |
+| 1.05.6  | Estradiol: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.05.7  | Estradiol: transdermale Darreichungsformen                                                                                                                                                                                     |
+| 1.05.8  | Estramustin: feste orale Darreichungsformen                                                                                                                                                                                    |
+| 1.05.9  | Estriol: feste orale Darreichungsformen                                                                                                                                                                                        |
+| 1.05.10 | Estriol: vaginale topische Darreichungsformen                                                                                                                                                                                  |
+| 1.05.11 | Ethambutol: feste orale Darreichungsformen                                                                                                                                                                                     |
+| 1.05.12 | Etilefrin: orale Darreichungsformen, normal freisetzend                                                                                                                                                                        |
+| 1.05.13 | Exemestan: orale Darreichungsformen                                                                                                                                                                                            |
 | 1.06.1  | Fentanyl: transdermale Darreichungsformen                                                                                                                                                                                      |
 | 1.06.2  | Flecainid: abgeteilte orale Darreichungsformen                                                                                                                                                                                 |
 | 1.06.3  | Flunarizin: orale Darreichungsformen                                                                                                                                                                                           |
@@ -4634,61 +5070,66 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 | 1.09.7  | Indometacin: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                             |
 | 1.09.8  | Indometacin: rektale Darreichungsformen                                                                                                                                                                                        |
 | 1.09.9  | Indometacin: topische Darreichungsformen                                                                                                                                                                                       |
-| 1.09.10 | Isosorbiddinitrat: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                          |
-| 1.09.11 | Isosorbiddinitrat: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                       |
-| 1.09.12 | Isosorbidmononitrat: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                        |
-| 1.09.13 | Isosorbidmononitrat: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                     |
-| 1.09.14 | Isotretinoin: abgeteilte orale Darreichungsformen                                                                                                                                                                              |
+| 1.09.10 | Infliximab: parenterale Darreichungsformen                                                                                                                                                                                     |
+| 1.09.11 | Isosorbiddinitrat: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                          |
+| 1.09.12 | Isosorbiddinitrat: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                       |
+| 1.09.13 | Isosorbidmononitrat: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                        |
+| 1.09.14 | Isosorbidmononitrat: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                     |
+| 1.09.15 | Isotretinoin: abgeteilte orale Darreichungsformen                                                                                                                                                                              |
 | 1.10.1  | Jodid zur Strumaprophylaxe: orale Darreichungsformen                                                                                                                                                                           |
 | 1.11.1  | Kaliumsalze: orale Darreichungsformen, normal freisetzend                                                                                                                                                                      |
 | 1.11.2  | Kaliumsalze: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                             |
 | 1.12.1  | Lactulose: orale Darreichungsformen                                                                                                                                                                                            |
-| 1.12.2  | Lamotrigin: abgeteilte orale Darreichungsformen                                                                                                                                                                                |
-| 1.12.3  | Leflunomid: orale Darreichungsformen                                                                                                                                                                                           |
-| 1.12.4  | Letrozol: orale Darreichungsformen                                                                                                                                                                                             |
-| 1.12.5  | Levetiracetam: feste orale Darreichungsformen                                                                                                                                                                                  |
-| 1.12.6  | Levodopa + Benserazid: abgeteilte orale Darreichungsformen, normal freisetzend                                                                                                                                                 |
-| 1.12.7  | Levodopa + Benserazid: abgeteilte orale Darreichungsformen, verzögert freisetzend                                                                                                                                              |
-| 1.12.8  | Levodopa + Carbidopa: orale Darreichungsformen, normal freisetzend, im Verhältnis 4:1                                                                                                                                          |
-| 1.12.9  | Levodopa + Carbidopa: orale Darreichungsformen, normal freisetzend, im Verhältnis 10:1                                                                                                                                         |
-| 1.12.10 | Levodopa + Carbidopa: abgeteilte orale Darreichungsformen, verzögert freisetzend, im Verhältnis 4:1                                                                                                                            |
-| 1.12.11 | Levothyroxin-Natrium: orale Darreichungsformen                                                                                                                                                                                 |
-| 1.12.12 | Lithium: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                                 |
-| 1.12.13 | Loperamid: orale Darreichungsformen                                                                                                                                                                                            |
-| 1.12.14 | Lorazepam: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.12.2  | Lamivudin + Zidovudin: orale Darreichungsformen, im Verhältnis 1:2                                                                                                                                                             |
+| 1.12.3  | Lamotrigin: abgeteilte orale Darreichungsformen                                                                                                                                                                                |
+| 1.12.4  | Leflunomid: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.12.5  | Letrozol: orale Darreichungsformen                                                                                                                                                                                             |
+| 1.12.6  | Levetiracetam: feste orale Darreichungsformen                                                                                                                                                                                  |
+| 1.12.7  | Levodopa + Benserazid: abgeteilte orale Darreichungsformen, normal freisetzend                                                                                                                                                 |
+| 1.12.8  | Levodopa + Benserazid: abgeteilte orale Darreichungsformen, verzögert freisetzend                                                                                                                                              |
+| 1.12.9  | Levodopa + Carbidopa: orale Darreichungsformen, normal freisetzend, im Verhältnis 4:1                                                                                                                                          |
+| 1.12.10 | Levodopa + Carbidopa: orale Darreichungsformen, normal freisetzend, im Verhältnis 10:1                                                                                                                                         |
+| 1.12.11 | Levodopa + Carbidopa: abgeteilte orale Darreichungsformen, verzögert freisetzend, im Verhältnis 4:1                                                                                                                            |
+| 1.12.12 | Levothyroxin-Natrium: orale Darreichungsformen                                                                                                                                                                                 |
+| 1.12.13 | Lithium: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                                 |
+| 1.12.14 | Loperamid: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.12.15 | Lorazepam: orale Darreichungsformen                                                                                                                                                                                            |
 | 1.13.1  | Magaldrat: orale Darreichungsformen                                                                                                                                                                                            |
 | 1.13.2  | Magnesium: orale Darreichungsformen                                                                                                                                                                                            |
 | 1.13.3  | Magnesium: parenterale Darreichungsformen                                                                                                                                                                                      |
 | 1.13.4  | Maprotilin: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                                 |
 | 1.13.5  | Mebeverin: abgeteilte orale Darreichungsformen                                                                                                                                                                                 |
 | 1.13.6  | Medroxyprogesteron: Tabletten, Oralsuspension (100 bis 500 mg)                                                                                                                                                                 |
-| 1.13.7  | Mesalazin: feste orale Darreichungsformen                                                                                                                                                                                      |
-| 1.13.8  | Mesalazin: rektale Darreichungsformen                                                                                                                                                                                          |
-| 1.13.9  | Mesalazin: sonstige rektale Darreichungsformen                                                                                                                                                                                 |
-| 1.13.10 | Metamizol: orale Darreichungsformen, normal freisetzend                                                                                                                                                                        |
-| 1.13.11 | Metamizol: rektale Darreichungsformen                                                                                                                                                                                          |
-| 1.13.12 | Metamizol: parenterale Darreichungsformen                                                                                                                                                                                      |
-| 1.13.13 | Metformin: orale Darreichungsformen                                                                                                                                                                                            |
-| 1.13.14 | Methotrexat: orale Darreichungsformen                                                                                                                                                                                          |
-| 1.13.15 | Methyldopa: orale Darreichungsformen                                                                                                                                                                                           |
-| 1.13.16 | Methylphenidat: abgeteilte orale Darreichungsformen                                                                                                                                                                            |
-| 1.13.17 | Metoclopramid: orale Darreichungsformen, normal freisetzend                                                                                                                                                                    |
-| 1.13.18 | Metoclopramid: orale Darreichungsformen, verzögert freisetzend                                                                                                                                                                 |
-| 1.13.19 | Metoclopramid: parenterale Darreichungsformen                                                                                                                                                                                  |
-| 1.13.20 | Metoprolol + Hydrochlorothiazid: feste orale Darreichungsformen, normal freisetzend                                                                                                                                            |
-| 1.13.21 | Metoprolol + Hydrochlorothiazid: orale Darreichungsformen, verzögert freisetzend                                                                                                                                               |
-| 1.13.22 | Metronidazol: orale Darreichungsformen                                                                                                                                                                                         |
-| 1.13.23 | Metronidazol: vaginale topische Darreichungsformen                                                                                                                                                                             |
-| 1.13.24 | Metronidazol: parenterale Darreichungsformen                                                                                                                                                                                   |
-| 1.13.25 | Midodrin: orale Darreichungsformen                                                                                                                                                                                             |
-| 1.13.26 | Minocyclin: orale Darreichungsformen                                                                                                                                                                                           |
-| 1.13.27 | Mirtazapin: orale Darreichungsformen                                                                                                                                                                                           |
-| 1.13.28 | Moclobemid: abgeteilte orale Darreichungsformen                                                                                                                                                                                |
-| 1.13.29 | Molsidomin: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                                 |
-| 1.13.30 | Molsidomin: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                              |
-| 1.13.31 | Montelukast: orale Darreichungsformen                                                                                                                                                                                          |
-| 1.13.32 | Morphin: abgeteilte orale Darreichungsformen, verzögert freisetzend                                                                                                                                                            |
-| 1.13.33 | Moxonidin: abgeteilte orale Darreichungsformen                                                                                                                                                                                 |
+| 1.13.7  | Memantin: orale Darreichungsformen                                                                                                                                                                                             |
+| 1.13.8  | Mesalazin: feste orale Darreichungsformen                                                                                                                                                                                      |
+| 1.13.9  | Mesalazin: rektale Darreichungsformen                                                                                                                                                                                          |
+| 1.13.10 | Mesalazin: sonstige rektale Darreichungsformen                                                                                                                                                                                 |
+| 1.13.11 | Metamizol: orale Darreichungsformen, normal freisetzend                                                                                                                                                                        |
+| 1.13.12 | Metamizol: rektale Darreichungsformen                                                                                                                                                                                          |
+| 1.13.13 | Metamizol: parenterale Darreichungsformen                                                                                                                                                                                      |
+| 1.13.14 | Metformin: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.13.15 | Methotrexat: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.13.16 | Methotrexat: parenterale Darreichungsformen                                                                                                                                                                                    |
+| 1.13.17 | Methyldopa: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.13.18 | Methylphenidat: abgeteilte orale Darreichungsformen                                                                                                                                                                            |
+| 1.13.19 | Metoclopramid: orale Darreichungsformen, normal freisetzend                                                                                                                                                                    |
+| 1.13.20 | Metoclopramid: orale Darreichungsformen, verzögert freisetzend                                                                                                                                                                 |
+| 1.13.21 | Metoclopramid: parenterale Darreichungsformen                                                                                                                                                                                  |
+| 1.13.22 | Metoprolol + Hydrochlorothiazid: feste orale Darreichungsformen, normal freisetzend                                                                                                                                            |
+| 1.13.23 | Metoprolol + Hydrochlorothiazid: orale Darreichungsformen, verzögert freisetzend                                                                                                                                               |
+| 1.13.24 | Metronidazol: orale Darreichungsformen                                                                                                                                                                                         |
+| 1.13.25 | Metronidazol: vaginale topische Darreichungsformen                                                                                                                                                                             |
+| 1.13.26 | Metronidazol: parenterale Darreichungsformen                                                                                                                                                                                   |
+| 1.13.27 | Midodrin: orale Darreichungsformen                                                                                                                                                                                             |
+| 1.13.28 | Minocyclin: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.13.29 | Mirtazapin: orale Darreichungsformen                                                                                                                                                                                           |
+| 1.13.30 | Moclobemid: abgeteilte orale Darreichungsformen                                                                                                                                                                                |
+| 1.13.31 | Molsidomin: feste orale Darreichungsformen, normal freisetzend                                                                                                                                                                 |
+| 1.13.32 | Molsidomin: feste orale Darreichungsformen, verzögert freisetzend                                                                                                                                                              |
+| 1.13.33 | Montelukast: orale Darreichungsformen                                                                                                                                                                                          |
+| 1.13.34 | Morphin: abgeteilte orale Darreichungsformen, verzögert freisetzend                                                                                                                                                            |
+| 1.13.35 | Moxifloxacin: orale Darreichungsformen                                                                                                                                                                                         |
+| 1.13.36 | Moxonidin: abgeteilte orale Darreichungsformen                                                                                                                                                                                 |
 | 1.14.1  | Nachtkerzensamenöl: orale Darreichungsformen, standardisiert auf Gamolensäure                                                                                                                                                  |
 | 1.14.2  | Naftidrofuryl: orale Darreichungsformen                                                                                                                                                                                        |
 | 1.14.3  | Nicergolin: orale Darreichungsformen                                                                                                                                                                                           |
@@ -4704,11 +5145,11 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 | 1.14.13 | Nystatin: vaginale topische Darreichungsformen                                                                                                                                                                                 |
 | 1.14.14 | Nystatin: topische Darreichungsformen                                                                                                                                                                                          |
 | 1.14.15 | Nystatin + Zinkoxid: topische Darreichungsformen                                                                                                                                                                               |
-| 1.15.1  | Olanzapin: abgeteilte orale Darreichungsformen                                                                                                                                                                                 |
+| 1.15.1  | Olanzapin: orale Darreichungsformen                                                                                                                                                                                            |
 | 1.15.2  | Oxazepam: orale Darreichungsformen, normal freisetzend                                                                                                                                                                         |
 | 1.15.3  | Oxybutynin: orale Darreichungsformen                                                                                                                                                                                           |
 | 1.15.4  | Oxycodon: abgeteilte orale Darreichungsformen, verzögert freisetzend                                                                                                                                                           |
-| 1.16.1  | Pankreatin: magensaftresistente polydispere Darreichungsformen                                                                                                                                                                 |
+| 1.16.1  | Pankreatin: magensaftresistente *polydispere* Darreichungsformen                                                                                                                                                               |
 | 1.16.2  | Pankreatin: magensaftresistente monolithische Darreichungsformen                                                                                                                                                               |
 | 1.16.3  | Paracetamol: orale Darreichungsformen                                                                                                                                                                                          |
 | 1.16.4  | Paracetamol: Suppositorien                                                                                                                                                                                                     |
@@ -4738,9 +5179,11 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 | 1.16.28 | Pyrazinamid: feste orale Darreichungsformen                                                                                                                                                                                    |
 | 1.16.29 | Pyridoxin: feste orale Darreichungsformen                                                                                                                                                                                      |
 | 1.16.30 | Pyridoxin: parenterale Darreichungsformen                                                                                                                                                                                      |
-| 1.17.1  | (frei)                                                                                                                                                                                                                         |
+| 1.17.1  | Quetiapin: orale Darreichungsformen                                                                                                                                                                                            |
 | 1.18.1  | Retinol: orale Darreichungsformen                                                                                                                                                                                              |
-| 1.18.2  | Ropinirol: orale Darreichungsformen                                                                                                                                                                                            |
+| 1.18.2  | Riluzol: orale Darreichungsformen                                                                                                                                                                                              |
+| 1.18.3  | Rivastigmin: transdermale Darreichungsformen                                                                                                                                                                                   |
+| 1.18.4  | Ropinirol: orale Darreichungsformen                                                                                                                                                                                            |
 | 1.19.1  | Saccharomyces boulardii: orale Darreichungsformen                                                                                                                                                                              |
 | 1.19.2  | Sägepalmenfrüchte: orale Darreichungsformen                                                                                                                                                                                    |
 | 1.19.3  | Selegilin: orale Darreichungsformen                                                                                                                                                                                            |
@@ -4787,6 +5230,7 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 | 1.24.1  | Xylometazolin: nasale topische Darreichungsformen                                                                                                                                                                              |
 | 1.25.1  | (frei)                                                                                                                                                                                                                         |
 | 1.26.1  | Zink zur Substitution und Therapie: orale Darreichungsformen                                                                                                                                                                   |
+| 1.26.2  | Ziprasidon: orale Darreichungsformen                                                                                                                                                                                           |
 | **2.**  | **Festbetragsgruppen für Arzneimittel mit pharmakologisch-therapeutisch vergleichbaren Wirkstoffen, insbesondere mit chemisch verwandten Stoffen**                                                                             |
 | 2.00.1  | (frei)                                                                                                                                                                                                                         |
 | 2.01.1  | ACE-Hemmer: feste, abgeteilte orale Darreichungsformen                                                                                                                                                                         |
@@ -4945,7 +5389,7 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 | 2.02.8  | Beta2-sympathomimetische Antiasthmatika: kurzwirksame Beta2-Sympathomimetika, inhalative orale Darreichungsformen                                                                                                              |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Fenoterol: Fenoterol hydrobromid                                                                                                                                                                                               |
-|         | Salbutamol: Salbumatol sulfat                                                                                                                                                                                                  |
+|         | Salbutamol: *Salbumatol* sulfat                                                                                                                                                                                                |
 |         | Terbutalin: Terbutalin sulfat                                                                                                                                                                                                  |
 | 2.02.9  | Beta-Rezeptorenblocker: weitere Beta-Rezeptorenblocker, nicht selektiv, abgeteilte orale Darreichungsformen, normal freisetzend                                                                                                |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
@@ -5004,34 +5448,38 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 |         | Isradipin                                                                                                                                                                                                                      |
 |         | Nilvadipin                                                                                                                                                                                                                     |
 |         | Nisoldipin                                                                                                                                                                                                                     |
-| 2.03.4  | Cefalosporine: orale Darreichungsformen                                                                                                                                                                                        |
+| 2.03.4  | Carboanhydrasehemmer: Ophthalmika                                                                                                                                                                                              |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Brinzolamid                                                                                                                                                                                                                    |
+|         | Dorzolamid: Dorzolamid hydrochlorid                                                                                                                                                                                            |
+| 2.03.5  | Cefalosporine: orale Darreichungsformen                                                                                                                                                                                        |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Cefadroxil: Cefadroxil-1-Wasser                                                                                                                                                                                                |
 |         | Cefalexin: Cefalexin-1-Wasser                                                                                                                                                                                                  |
-| 2.03.5  | Cefalosporine: orale Darreichungsformen                                                                                                                                                                                        |
+| 2.03.6  | Cefalosporine: orale Darreichungsformen                                                                                                                                                                                        |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Cefaclor: Cefaclor-1-Wasser                                                                                                                                                                                                    |
 |         | Cefuroxim: Cefuroxim axetil                                                                                                                                                                                                    |
 |         | Loracarbef: Loracarbef-1-Wasser                                                                                                                                                                                                |
-| 2.03.6  | Cefalosporine: orale Darreichungsformen                                                                                                                                                                                        |
+| 2.03.7  | Cefalosporine: orale Darreichungsformen                                                                                                                                                                                        |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Cefixim: Cefixim-(x)-Wasser                                                                                                                                                                                                    |
 |         | Cefpodoxim: Cefpodoxim proxetil                                                                                                                                                                                                |
 |         | Ceftibuten: Ceftibuten-(x)-Wasser                                                                                                                                                                                              |
-| 2.03.7  | Clofibrinsäurederivate und Strukturanaloga: feste orale Darreichungsformen                                                                                                                                                     |
+| 2.03.8  | Clofibrinsäurederivate und Strukturanaloga: feste orale Darreichungsformen                                                                                                                                                     |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Bezafibrat                                                                                                                                                                                                                     |
 |         | Clofibrat                                                                                                                                                                                                                      |
 |         | Etofibrat                                                                                                                                                                                                                      |
 |         | Etofyllinclofibrat                                                                                                                                                                                                             |
 |         | Fenofibrat                                                                                                                                                                                                                     |
-|         | Gemfibrocil                                                                                                                                                                                                                    |
-| 2.04.1  | Dimeticon und Simethicon: feste orale Darreichungsformen                                                                                                                                                                       |
+|         | *Gemfibrocil*                                                                                                                                                                                                                  |
+| 2.04.1  | Dimeticon und Simeticon: feste orale Darreichungsformen                                                                                                                                                                        |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
-|         | Dimeticon und Simethicon                                                                                                                                                                                                       |
-| 2.04.2  | Dimeticon und Simethicon: flüssige orale Darreichungsformen                                                                                                                                                                    |
+|         | Dimeticon und Simeticon                                                                                                                                                                                                        |
+| 2.04.2  | Dimeticon und Simeticon: flüssige orale Darreichungsformen                                                                                                                                                                     |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
-|         | Dimeticon und Simethicon                                                                                                                                                                                                       |
+|         | Dimeticon und Simeticon                                                                                                                                                                                                        |
 | 2.04.3  | Diuretika, weitere Diuretika (Thiazide und Analoga): feste orale Darreichungsformen                                                                                                                                            |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Bendroflumethiazid                                                                                                                                                                                                             |
@@ -5111,7 +5559,7 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Famotidin                                                                                                                                                                                                                      |
 |         | Ranitidin                                                                                                                                                                                                                      |
-| 2.08.3  | Heparine, niedermolekular: Niedermolekulare Heparine, parenterale Darreichungsformen, unitdose                                                                                                                                 |
+| 2.08.3  | Heparine, niedermolekular: niedermolekulare Heparine, parenterale Darreichungsformen, single dose                                                                                                                              |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Certoparin: Certoparin natrium                                                                                                                                                                                                 |
 |         | Dalteparin: Dalteparin natrium                                                                                                                                                                                                 |
@@ -5124,7 +5572,7 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 |         | Lanatosid C                                                                                                                                                                                                                    |
 |         | Meproscillarin                                                                                                                                                                                                                 |
 |         | Metildigoxin                                                                                                                                                                                                                   |
-| 2.08.5  | HMG-CoA-Reduktasehemmer: abgeteilte orale Darreichungsformen                                                                                                                                                                   |
+| 2.08.5  | HMG-CoA-Reduktasehemmer: orale Darreichungsformen                                                                                                                                                                              |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Atorvastatin: Atorvastatin Calciumsalze                                                                                                                                                                                        |
 |         | Fluvastatin: Fluvastatin Natriumsalze                                                                                                                                                                                          |
@@ -5149,13 +5597,19 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 |         | Roxithromycin                                                                                                                                                                                                                  |
 | 2.14.1  | (frei)                                                                                                                                                                                                                         |
 | 2.15.1  | (frei)                                                                                                                                                                                                                         |
-| 2.16.1  | Prostaglandin-Synthetase-Hemmer: Keto-Enolsäuren II (Oxicame), rektale Darreichungsformen                                                                                                                                      |
+| 2.16.1  | Prostaglandin-Analoga: Ophthalmika                                                                                                                                                                                             |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Bimatoprost                                                                                                                                                                                                                    |
+|         | Latanoprost                                                                                                                                                                                                                    |
+|         | Tafluprost                                                                                                                                                                                                                     |
+|         | Travoprost                                                                                                                                                                                                                     |
+| 2.16.2  | Prostaglandin-Synthetase-Hemmer: Keto-Enolsäuren II (Oxicame), rektale Darreichungsformen                                                                                                                                      |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Lornoxicam                                                                                                                                                                                                                     |
 |         | Meloxicam: Meloxicam meglumin                                                                                                                                                                                                  |
 |         | Piroxicam                                                                                                                                                                                                                      |
 |         | Tenoxicam                                                                                                                                                                                                                      |
-| 2.16.2  | Prostaglandin-Synthetase-Hemmer: Arylessigsäurederivate, abgeteilte orale Darreichungsformen, normal freisetzend                                                                                                               |
+| 2.16.3  | Prostaglandin-Synthetase-Hemmer: Arylessigsäurederivate, abgeteilte orale Darreichungsformen, normal freisetzend                                                                                                               |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Aceclofenac                                                                                                                                                                                                                    |
 |         | Acemetacin                                                                                                                                                                                                                     |
@@ -5163,10 +5617,10 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 |         | Nabumeton                                                                                                                                                                                                                      |
 |         | Proglumetacin: Proglumetacin dimaleat                                                                                                                                                                                          |
 |         | Tolmetin                                                                                                                                                                                                                       |
-| 2.16.3  | Prostaglandin-Synthetase-Hemmer: Arylessigsäurederivate, orale Darreichungsformen, verzögert freisetzend                                                                                                                       |
+| 2.16.4  | Prostaglandin-Synthetase-Hemmer: Arylessigsäurederivate, orale Darreichungsformen, verzögert freisetzend                                                                                                                       |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Acemetacin                                                                                                                                                                                                                     |
-| 2.16.4  | Prostaglandin-Synthetase-Hemmer: Arylpropionsäurederivate, orale Darreichungsformen, normal freisetzend                                                                                                                        |
+| 2.16.5  | Prostaglandin-Synthetase-Hemmer: Arylpropionsäurederivate, orale Darreichungsformen, normal freisetzend                                                                                                                        |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Fenbufen                                                                                                                                                                                                                       |
 |         | Fenoprofen                                                                                                                                                                                                                     |
@@ -5174,24 +5628,25 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 |         | Ketoprofen                                                                                                                                                                                                                     |
 |         | Naproxen                                                                                                                                                                                                                       |
 |         | Tiaprofensäure                                                                                                                                                                                                                 |
-| 2.16.5  | Prostaglandin-Synthetase-Hemmer: Arylpropionsäurederivate, orale Darreichungsformen, normal freisetzend                                                                                                                        |
+| 2.16.6  | Prostaglandin-Synthetase-Hemmer: Arylpropionsäurederivate, orale Darreichungsformen, normal freisetzend                                                                                                                        |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Naproxen                                                                                                                                                                                                                       |
-| 2.16.6  | Prostaglandin-Synthetase-Hemmer: Keto-Enolsäuren I (Pyrazolidindion-Derivate), orale Darreichungsformen                                                                                                                        |
+| 2.16.7  | Prostaglandin-Synthetase-Hemmer: Keto-Enolsäuren I (Pyrazolidindion-Derivate), orale Darreichungsformen                                                                                                                        |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Azapropazon                                                                                                                                                                                                                    |
 |         | Bumadizon                                                                                                                                                                                                                      |
 |         | Mofebutazon                                                                                                                                                                                                                    |
 |         | Oxyphenbutazon                                                                                                                                                                                                                 |
 |         | Phenylbutazon                                                                                                                                                                                                                  |
-| 2.16.7  | Prostaglandin-Synthetase-Hemmer: Keto-Enolsäuren II (Oxicame), abgeteilte orale Darreichungsformen                                                                                                                             |
+| 2.16.8  | Prostaglandin-Synthetase-Hemmer: Keto-Enolsäuren II (Oxicame), abgeteilte orale Darreichungsformen                                                                                                                             |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Lornoxicam                                                                                                                                                                                                                     |
 |         | Meloxicam: Meloxicam meglumin                                                                                                                                                                                                  |
 |         | Piroxicam: Piroxicam betadex                                                                                                                                                                                                   |
 |         | Tenoxicam                                                                                                                                                                                                                      |
-| 2.16.8  | Protonenpumpenhemmer: abgeteilte orale Darreichungsformen                                                                                                                                                                      |
+| 2.16.9  | Protonenpumpenhemmer: abgeteilte orale Darreichungsformen                                                                                                                                                                      |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Dexlansoprazol                                                                                                                                                                                                                 |
 |         | Esomeprazol: Esomeprazol Magnesiumsalze                                                                                                                                                                                        |
 |         | Lansoprazol                                                                                                                                                                                                                    |
 |         | Omeprazol: Omeprazol Magnesiumsalze                                                                                                                                                                                            |
@@ -5343,7 +5798,7 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 |         | Desonid                                                                                                                                                                                                                        |
 |         | Desoximetason                                                                                                                                                                                                                  |
 |         | Dexamethason                                                                                                                                                                                                                   |
-|         | Flumethasonpivalat                                                                                                                                                                                                             |
+|         | *Flumethasonpivalat*                                                                                                                                                                                                           |
 |         | Fluocinolonacetonid                                                                                                                                                                                                            |
 |         | Fluocinonid                                                                                                                                                                                                                    |
 |         | Fluocortolon                                                                                                                                                                                                                   |
@@ -5406,8 +5861,14 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 |         | Pheniramin                                                                                                                                                                                                                     |
 | 3.08.4  | H1-Antagonisten: weitere Antihistaminika, abgeteilte orale Darreichungsformen                                                                                                                                                  |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
-|         | Astemizol                                                                                                                                                                                                                      |
 |         | Azelastin: Azelastin hydrochlorid                                                                                                                                                                                              |
+|         | Bilastin                                                                                                                                                                                                                       |
+|         | Desloratadin                                                                                                                                                                                                                   |
+|         | Ebastin                                                                                                                                                                                                                        |
+|         | Fexofenadin: Fexofenadin hydrochlorid                                                                                                                                                                                          |
+|         | Levocetirizin: Levocetirizin dihydrochlorid                                                                                                                                                                                    |
+|         | Mizolastin                                                                                                                                                                                                                     |
+|         | Rupatadin: Rupatadin fumarat                                                                                                                                                                                                   |
 |         | Terfenadin                                                                                                                                                                                                                     |
 | 3.08.5  | H1-Antagonisten: weitere Antihistaminika, abgeteilte orale Darreichungsformen                                                                                                                                                  |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
@@ -5425,7 +5886,7 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Ketotifen                                                                                                                                                                                                                      |
 |         | Oxatomid                                                                                                                                                                                                                       |
-| 3.08.9  | H1-Antagonisten: Antihistaminika, topische Darreichungsformen                                                                                                                                                                  |
+| 3.08.9  | H1-Antagonisten: weitere Antihistaminika, topische Darreichungsformen                                                                                                                                                          |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Bamipin                                                                                                                                                                                                                        |
 |         | Chlorphenoxamin                                                                                                                                                                                                                |
@@ -5441,6 +5902,7 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 |         | Delapril + Manidipin: Delapril hydrochlorid, Manidipin dihydrochlorid                                                                                                                                                          |
 |         | Enalapril + Lercanidipin: Enalapril maleat, Lercanidipin hydrochlorid                                                                                                                                                          |
 |         | Enalapril + Nitrendipin: Enalapril maleat                                                                                                                                                                                      |
+|         | Perindopril + Amlodipin: Amlodipin besilat, Perindopril arginin                                                                                                                                                                |
 |         | Ramipril + Amlodipin: Amlodipin besilat                                                                                                                                                                                        |
 |         | Ramipril + Felodipin                                                                                                                                                                                                           |
 |         | Trandolapril + Verapamil: Verapamil hydrochlorid                                                                                                                                                                               |
@@ -5490,48 +5952,74 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 |         | Penbutolol + Furosemid: Penbutolol sulfat                                                                                                                                                                                      |
 |         | Penbutolol + Piretanid: Penbutolol sulfat                                                                                                                                                                                      |
 |         | Pindolol + Clopamid                                                                                                                                                                                                            |
-| 3.11.8  | Kombinationen von Cromoglicinsäure mit Beta2-Sympathomimetika: inhalative Darreichungsformen                                                                                                                                   |
+| 3.11.8  | Kombinationen von Carboanhydrasehemmern mit Timolol: Ophthalmika                                                                                                                                                               |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Brinzolamid + Timolol: Timolol hydrogenmaleat                                                                                                                                                                                  |
+|         | Dorzolamid + Timolol: Dorzolamid hydrochlorid, Timolol hydrogenmaleat                                                                                                                                                          |
+| 3.11.9  | Kombinationen von Cromoglicinsäure mit Beta2-Sympathomimetika: inhalative Darreichungsformen                                                                                                                                   |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Cromoglicinsäure + Fenoterol                                                                                                                                                                                                   |
 |         | Cromoglicinsäure + Reproterol                                                                                                                                                                                                  |
-| 3.11.9  | Kombinationen von Furosemid mit kaliumsparenden Diuretika: orale Darreichungsformen                                                                                                                                            |
+| 3.11.10 | Kombinationen von Estrogenen und Gestagenen in der Hormonersatztherapie: orale Darreichungsformen                                                                                                                              |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Estradiol + Dienogest: Estradiol valerat                                                                                                                                                                                       |
+|         | Estradiol + Drospirenon: Estradiol 0,5 Wasser                                                                                                                                                                                  |
+|         | Estradiol + Dydrogesteron: Estradiol 0,5 Wasser                                                                                                                                                                                |
+|         | Estradiol + Levonorgestrel: Estradiol 0,5 Wasser, Estradiol valerat                                                                                                                                                            |
+|         | Estradiol + Medroxyprogesteronacetat: Estradiol valerat                                                                                                                                                                        |
+|         | Estradiol + Norethisteron: Estradiol 0,5 Wasser, Estradiol valerat, Norethisteronacetat                                                                                                                                        |
+|         | Estrogene, konjugierte + Medrogeston                                                                                                                                                                                           |
+|         | Estrogene, konjugierte + Medroxyprogesteronacetat                                                                                                                                                                              |
+| 3.11.11 | Kombinationen von Furosemid mit kaliumsparenden Diuretika: orale Darreichungsformen                                                                                                                                            |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Furosemid 15 mg + Triamteren 25 mg                                                                                                                                                                                             |
 |         | Furosemid 30 mg + Triamteren 50 mg                                                                                                                                                                                             |
 |         | Furosemid 40 mg + Amilorid-HCl 5 mg                                                                                                                                                                                            |
 |         | Furosemid 40 mg + Triamteren 50 mg                                                                                                                                                                                             |
-| 3.11.10 | Kombinationen von Glucocorticoiden mit langwirksamen Beta2-Sympathomimetika: inhalative Darreichungsformen                                                                                                                     |
+| 3.11.12 | Kombinationen von Glucocorticoiden mit langwirksamen Beta2-Sympathomimetika: inhalative Darreichungsformen                                                                                                                     |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Beclometasondipropionat + Formoterol: Beclometasondipropionat, wasserfreies, Formoterol hemifumarat-(x)-Wasser                                                                                                                 |
 |         | Budesonid + Formoterol: Formoterol hemifumarat-(x)-Wasser                                                                                                                                                                      |
 |         | Fluticason furoat + Vilanterol: Vilanterol trifenatat                                                                                                                                                                          |
 |         | Fluticason propionat + Formoterol: Fluticason 17-propionat, Formoterol hemifumarat-(x)-Wasser                                                                                                                                  |
 |         | Fluticason propionat + Salmeterol: Fluticason 17-propionat, Salmeterol xinafoat                                                                                                                                                |
-| 3.11.11 | Kombinationen von Levothyroxin mit Jodid: feste orale Darreichungsformen                                                                                                                                                       |
+| 3.11.13 | Kombinationen von Levodopa mit Decarboxylase- und COMT-Hemmern: orale Darreichungsformen                                                                                                                                       |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Levodopa + Carbidopa + Entacapon                                                                                                                                                                                               |
+| 3.11.14 | Kombinationen von Levothyroxin mit Jodid: feste orale Darreichungsformen                                                                                                                                                       |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Levothyroxin + Jodid: Levothyroxin-Natrium und Kaliumjodid                                                                                                                                                                     |
-| 3.11.12 | Kombinationen von Nifedipin mit Beta-Rezeptorenblockern: orale Darreichungsformen                                                                                                                                              |
+| 3.11.15 | Kombinationen von Nifedipin mit Beta-Rezeptorenblockern: orale Darreichungsformen                                                                                                                                              |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Nifedipin 10 mg + Acebutolol 100 mg                                                                                                                                                                                            |
 |         | Nifedipin 10 mg + Atenolol 25 mg                                                                                                                                                                                               |
 |         | Nifedipin 15 mg + Metoprolol 50 mg                                                                                                                                                                                             |
 |         | Nifedipin 20 mg + Atenolol 50 mg                                                                                                                                                                                               |
-| 3.11.13 | Kombinationen von Paracetamol mit Codein: feste orale Darreichungsformen                                                                                                                                                       |
+| 3.11.16 | Kombinationen von Paracetamol mit Codein: feste orale Darreichungsformen                                                                                                                                                       |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Codeinphosphat 30 mg x 0,5 H<sub>2</sub>O                                                                                                                                                                                      |
 |         | Paracetamol 500 mg                                                                                                                                                                                                             |
-| 3.11.14 | Kombinationen von Paracetamol mit Codein: rektale Darreichungsformen                                                                                                                                                           |
+| 3.11.17 | Kombinationen von Paracetamol mit Codein: rektale Darreichungsformen                                                                                                                                                           |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Codeinphosphat 60 mg x 0,5 H<sub>2</sub>O                                                                                                                                                                                      |
 |         | Paracetamol 1 000 mg                                                                                                                                                                                                           |
-| 3.11.15 | Kombinationen von Thiazid-Diuretika und Analoga mit kaliumsparenden Diuretika: orale Darreichungsformen                                                                                                                        |
+| 3.11.18 | Kombinationen von Prostaglandin-Analoga mit Timolol: Ophthalmika                                                                                                                                                               |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Brinzolamid + Timolol: Timolol hydrogenmaleat                                                                                                                                                                                  |
+|         | Latanoprost + Timolol: Timolol hydrogenmaleat                                                                                                                                                                                  |
+|         | Travoprost + Timolol: Timolol hydrogenmaleat                                                                                                                                                                                   |
+| 3.11.19 | Kombinationen von Thiazid-Diuretika und Analoga mit kaliumsparenden Diuretika: orale Darreichungsformen                                                                                                                        |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Bendroflumethiazid 2,5 mg + Amilorid-HCl 4,4 mg                                                                                                                                                                                |
 |         | Trichlormethiazid 2 mg + Amilorid-HCl 2 mg                                                                                                                                                                                     |
 |         | Xipamid 10 mg + Triamteren 30 mg                                                                                                                                                                                               |
 |         | Xipamid 5 mg + Triamteren 15 mg                                                                                                                                                                                                |
 | 3.12.1  | (frei)                                                                                                                                                                                                                         |
-| 3.13.1  | Myotonolytika: zentral wirksame Myotonolytika, orale Darreichungsformen                                                                                                                                                        |
+| 3.13.1  | Monoaminoxidase-B-Hemmer: orale Darreichungsformen                                                                                                                                                                             |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Rasagilin: Rasagilin mesilat, Rasagilin Tartrat                                                                                                                                                                                |
+|         | Safinamid: Safinamid mesilat                                                                                                                                                                                                   |
+| 3.13.2  | Myotonolytika: zentral wirksame Myotonolytika, orale Darreichungsformen                                                                                                                                                        |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Baclofen                                                                                                                                                                                                                       |
 |         | Tetrazepam                                                                                                                                                                                                                     |
@@ -5637,10 +6125,31 @@ Arzneimittel zur sofortigen AnwendungAntidote bei akuten Vergiftungen,Lokalanäs
 | 3.20.1  | Thiamin + Pyridoxin: orale Darreichungsformen                                                                                                                                                                                  |
 |         | Wirkstoff:                                                                                                                                                                                                                     |
 |         | Thiamin + Pyridoxin                                                                                                                                                                                                            |
+| 3.21.1  | Urologische Spasmolytika: feste, orale Darreichungsformen                                                                                                                                                                      |
+|         | Wirkstoff:                                                                                                                                                                                                                     |
+|         | Darifenacin                                                                                                                                                                                                                    |
+|         | Darifenacin hydrobromid                                                                                                                                                                                                        |
+|         | Fesoterodin                                                                                                                                                                                                                    |
+|         | Fesoterodin fumarat                                                                                                                                                                                                            |
+|         | Propiverin                                                                                                                                                                                                                     |
+|         | Propiverin hydrochlorid                                                                                                                                                                                                        |
+|         | Solifenacin                                                                                                                                                                                                                    |
+|         | Solifenacin succinat                                                                                                                                                                                                           |
+|         | Tolterodin                                                                                                                                                                                                                     |
+|         | Tolterodin (R,R)-tartrat                                                                                                                                                                                                       |
+|         | Trospiumchlorid                                                                                                                                                                                                                |
+
+Anlage 7 Nr. 1.02.1 Kursivdruck: Müsste richtig "Triamteren" lauten
+Anlage 7 Nr. 1.03.17 (früher Nr. 1.03.16) Kursivdruck: Müsste richtig "Ophtalmika" lauten
+Anlage 7 Nr. 1.16.1 Kursivdruck: Müsste richtig "polydisperse" lauten
+Anlage 7 Nr. 2.02.8 Kursivdruck: Müsste richtig "Salbutamol" lauten
+Anlage 7 Nr. 2.03.8 Kursivdruck: Müsste richtig "Gemfibrozil" lauten
+Anlage 7 Nr. 3.07.4 Kursivdruck: Müsste richtig "Flumetasonpivalat" lauten
 
 ### Anlage 8 (zu § 22 Absatz 4)Von der Beihilfefähigkeit ausgeschlossene oder beschränkt beihilfefähige Arzneimittel
 
-(Fundstelle: BGBl. I 2012, 1991 - 1992)
+(Fundstelle: BGBl. I 2012, 1991 - 1992;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Folgende Wirkstoffe oder Wirkstoffgruppen sind nur unter den genannten Voraussetzungen beihilfefähig:
 
@@ -5651,11 +6160,14 @@ a)
 Aufrechterhaltung der Abstinenz bei alkoholkranken Patientinnen oder Patienten im Rahmen eines therapeutischen Gesamtkonzepts mit begleitenden psychosozialen und soziotherapeutischen Maßnahmen,
 
 b)  
-Reduktion des Alkoholkonsums bei alkoholkranken Patientinnen oder Patienten, die zu einer Abstinenztherapie hingeführt werden, für die aber entsprechende Therapiemöglichkeiten nicht zeitnah zur Verfügung stehen, für die Dauer von höchstens drei Monaten, in begründeten Ausnahmefällen für die Dauer von weiteren drei Monaten.
+Reduktion des Alkoholkonsums bei alkoholkranken Patientinnen oder Patienten, die zu einer Abstinenztherapie hingeführt werden, für die aber entsprechende Therapiemöglichkeiten nicht zeitnah zur Verfügung stehen, für die Dauer von höchstens drei Monaten, in Ausnahmefällen für die Dauer von weiteren drei Monaten.
 
 Voraussetzung für die Beihilfefähigkeit ist, dass die Erforderlichkeit der Alkoholentwöhnungsmittel in der ärztlichen Verordnung besonders begründet worden ist.
 
 2.  
+Antidiabetika, orale, sind nur beihilfefähig nach einer Therapie mit nichtmedikamentösen Maßnahmen, die erfolglos war; die Anwendung anderer therapeutischer Maßnahmen ist zu dokumentieren.
+
+3.  
 Antidysmenorrhoika sind nur beihilfefähig als
 
 a)  
@@ -5664,30 +6176,42 @@ Prostaglandinsynthetasehemmer bei Regelschmerzen,
 b)  
 systemische hormonelle Behandlung von Regelanomalien.
 
-3.  
+4.  
 Clopidogrel als Monotherapie zur Prävention atherothrombotischer Ereignisse bei Personen mit Herzinfarkt, mit ischämischem Schlaganfall oder mit nachgewiesener peripherer arterieller Verschlusskrankheit ist nur beihilfefähig für Personen mit
 
 a)  
 Amputation oder Gefäßintervention, bedingt durch periphere arterielle Verschlusskrankheit (pAVK), oder
 
 b)  
-diagnostisch eindeutig gesicherter typischer Claudicatio intermittens mit Schmerzrückbildung in &lt; 10 Minuten bei Ruhe oder
+diagnostisch eindeutig gesicherter typischer Claudicatio intermittens mit Schmerzrückbildung in weniger als 10 Minuten bei Ruhe oder
 
 c)  
 Acetylsalicylsäure-Unverträglichkeit, soweit wirtschaftlichere Alternativen nicht eingesetzt werden können.
 
-4.  
-Clopidogrel in Kombination mit Acetylsalicylsäure bei akutem Koronarsyndrom zur Prävention atherothrombotischer Ereignisse ist nur beihilfefähig für Personen mit
+5.  
+Clopidogrel in Kombination mit Acetylsalicylsäure bei akutem Koronarsyndrom zur Prävention atherothrombotischer Ereignisse ist nur beihilfefähig bei Patienten mit
 
 a)  
 akutem Koronarsyndrom ohne ST-Strecken-Hebung während eines Behandlungszeitraums von bis zu zwölf Monaten,
 
 b)  
-Myokardinfarkt mit ST-Strecken-Hebung, für die eine Thrombolyse infrage kommt, während eines Behandlungszeitraums von bis zu 28 Tagen.
+Myokardinfarkt mit ST-Strecken-Hebung, für die eine Thrombolyse infrage kommt, während eines Behandlungszeitraums von bis zu 28 Tagen,
 
-Die Behandlung mit Clopidogrel plus ASS bei akutem Koronarsyndrom mit ST-Strecken-Hebungs-Infarkt, denen bei einer perkutanen Koronarintervention ein Stent implantiert wurde, ist nicht Gegenstand dieser Regelung.
+c)  
+akutem Koronarsyndrom mit ST-Strecken-Hebungs-Infarkt, denen bei einer perkutanen Koronarintervention ein Stent implantiert worden ist.
 
-5.  
+6.  
+Glinide zur Behandlung des Diabetes mellitus Typ 2; hierzu zählen:
+
+a)  
+Nateglinid
+
+b)  
+Repaglinid.
+
+Repaglinid ist nur beihilfefähig bei Behandlung niereninsuffizienter Personen mit einer Kreatinin-Clearance von weniger als 25 ml/min, sofern keine anderen oralen Antidiabetika in Frage kommen und eine Insulintherapie nicht angezeigt ist.
+
+7.  
 Insulinanaloga, schnell wirkend zur Behandlung des Diabetes mellitus Typ 2; hierzu zählen:
 
 a)  
@@ -5710,7 +6234,7 @@ bei denen trotz Intensivierung der Therapie eine stabile adäquate Stoffwechsell
 c)  
 bei denen auf Grund unverhältnismäßig hoher Humaninsulindosen eine Therapie mit schnell wirkenden Insulinanaloga im Einzelfall wirtschaftlicher ist.
 
-6.  
+8.  
 Insulinanaloga, lang wirkend zur Behandlung von Diabetes mellitus Typ 2; hierzu zählen:
 
 a)  
@@ -5722,15 +6246,15 @@ Insulin detemir.
 Diese Wirkstoffe sind nur beihilfefähig, solange sie im Vergleich zu intermediär wirkendem Humaninsulin nicht mit Mehrkosten verbunden sind; die notwendige Dosiseinheit zur Erreichung des therapeutischen Ziels ist zu berücksichtigen. Satz 2 gilt nicht für
 
 a)  
-eine Behandlung mit Insulin glargin für Personen, bei denen im Rahmen einer intensivierten Insulintherapie auch nach individueller Überprüfung des Therapieziels und individueller Anpassung des Ausmaßes der Blutzuckersenkung in Einzelfällen ein hohes Risiko für schwere Hypoglykämien bestehen bleibt, oder
+eine Behandlung mit Insulin glargin für Personen, bei denen im Rahmen einer intensivierten Insulintherapie auch nach individueller Überprüfung des Therapieziels und individueller Anpassung des Ausmaßes der Blutzuckersenkung in Ausnahmefällen ein hohes Risiko für schwere Hypoglykämien bestehen bleibt, oder
 
 b)  
 Personen, die gegen intermediär wirkende Humaninsuline allergisch sind.
 
-7.  
+9.  
 Klimakteriumstherapeutika sind nur beihilfefähig zur systemischen und topischen hormonellen Substitution; sowohl für den Beginn als auch für die Fortführung einer Behandlung postmenopausaler Symptome ist die niedrigste Dosiseinheit für die kürzestmögliche Therapiedauer anzuwenden.
 
-8.  
+10.  
 Prostatamittel sind nur beihilfefähig
 
 a)  
@@ -5739,13 +6263,12 @@ einmalig für eine Dauer von 24 Wochen als Therapieversuch sowie
 b)  
 längerfristig, sofern der Therapieversuch nach Buchstabe a erfolgreich verlaufen ist.
 
-9.  
-Saftzubereitungen sind für Erwachsene nur beihilfefähig in begründeten Ausnahmefällen; die Gründe müssen dabei in der Person liegen.
+11.  
+Saftzubereitungen sind für Erwachsene nur beihilfefähig in Ausnahmefällen; die Gründe müssen dabei in der Person liegen.
 
 ### Anlage 9 (zu § 23 Absatz 1)Höchstbeträge für beihilfefähige Aufwendungen für Heilmittel
 
-(Fundstelle: BGBl. I 2012, 1993 - 1999;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2018, 1247 - 1254;)
 
 Abschnitt 1
 Leistungsverzeichnis
@@ -5754,10 +6277,17 @@ Nr.
 
 Leistung
 
-beihilfe-
-fähiger
-Höchst-
-betrag
+beihilfefähiger
+Höchstbetrag
+in Euro
+
+beihilfefähiger
+Höchstbetrag
+in Euro
+
+bis 31.12.2018
+
+ab 1.1.2019
 
 **Bereich Inhalation**
 
@@ -5769,19 +6299,27 @@ a)
 
 als Einzelinhalation
 
-6,70 €
+8,00
+
+8,80
 
 b)
 
 als Rauminhalation in einer Gruppe, je Teilnehmerin oder Teilnehmer
 
-3,60 €
+4,30
+
+4,80
 
 c)
 
 als Rauminhalation in einer Gruppe bei Anwendung ortsgebundener natürlicher Heilwässer, je Teilnehmerin oder Teilnehmer
 
-5,70 €
+6,80
+
+7,50
+
+Aufwendungen für die für Inhalationen erforderlichen Zusätze sind daneben gesondert beihilfefähig.
 
  2
 
@@ -5791,199 +6329,319 @@ a)
 
 im Stollen
 
-11,30 €
+13,60
+
+14,90
 
 b)
 
 mittels Hauben
 
-13,80 €
+16,60
+
+18,20
 
 **Bereich Krankengymnastik, Bewegungsübungen**
 
  3
 
-Krankengymnastik (auch auf neurophysiologischer Grundlage, Atemtherapie) als Einzelbehandlung
+Physiotherapeutische Erstbefundung zur Erstellung eines Behandlungsplans
 
-19,50 €
+15,00
+
+16,50
 
  4
 
-Krankengymnastik auf neurophysiologischer Grundlage bei zentralen Bewegungsstörungen, die nach Abschluss der Hirnreife erworben werden, als Einzelbehandlung, Mindestbehandlungsdauer 30 Minuten
+Krankengymnastik, auch auf neurophysiologischer Grundlage, Atemtherapie, einschließlich der zur Leistungserbringung erforderlichen Massage, als Einzelbehandlung, Richtwert: 20 Minuten
 
-23,10 €
+23,40
+
+25,70
 
  5
 
-Krankengymnastik auf neurophysiologischer Grundlage bei zentralen Bewegungsstörungen, die angeboren sind oder bis zum Alter von 14 Jahren erworben werden, als Einzelbehandlung, Mindestbehandlungsdauer 45 Minuten
+Krankengymnastik auf neurophysiologischer Grundlage (Bobath, Vojta, Propriozeptive Neuromuskuläre Fazilitation (PNF)) bei zentralen Bewegungsstörungen nach Vollendung des 18. Lebensjahres, als Einzelbehandlung, Richtwert: 30 Minuten
 
-34,30 €
+30,70
+
+33,80
 
  6
 
-Krankengymnastik (auch orthopädisches Turnen) in einer Gruppe (2 – 8 Personen), je Teilnehmerin oder Teilnehmer
+Krankengymnastik auf neurophysiologischer Grundlage (Bobath, Vojta) bei zentralen Bewegungsstörungen für Kinder längstens bis zur Vollendung des 18. Lebensjahres als Einzelbehandlung, Richtwert: 45 Minuten
 
-6,20 €
+41,20
+
+45,30
 
  7
 
-Krankengymnastik bei zerebralen Dysfunktionen in einer Gruppe (2 – 4 Personen), Mindestbehandlungsdauer 45 Minuten, je Teilnehmerin oder Teilnehmer
+Krankengymnastik in einer Gruppe (2 bis 5 Personen), Richtwert: 25 Minuten je Teilnehmerin oder Teilnehmer
 
-10,80 €
+7,40
+
+8,20
 
  8
 
-Krankengymnastik (Atemtherapie)
+Krankengymnastik bei zerebralen Dysfunktionen in einer Gruppe (2 bis 4 Personen), Richtwert: 45 Minuten je Teilnehmerin oder Teilnehmer
 
-a)
+13,00
 
-bei Mukoviszidose und schweren Bronchialerkrankungen als Einzelbehandlung, Mindestbehandlungsdauer 45 Minuten
-
-34,30 €
-
-b)
-
-bei Mukoviszidose und schweren Bronchialerkrankungen in einer Gruppe (2 – 5 Personen), Mindestbehandlungsdauer 45 Minuten, je Teilnehmerin oder Teilnehmer
-
-10,80 €
+14,30
 
  9
 
-Bewegungsübungen
+Krankengymnastik (Atemtherapie) bei Mukoviszidose und schweren Bronchialerkrankungen als Einzelbehandlung, Richtwert: 60 Minuten
 
-7,70 €
+64,90
+
+71,40
 
 10
 
-Krankengymnastik oder Bewegungsübungen im Bewegungsbad
+Krankengymnastik im Bewegungsbad
 
 a)
 
-als Einzelbehandlung – einschließlich der erforderlichen Nachruhe
+als Einzelbehandlung einschließlich der erforderlichen Nachruhe, Richtwert: 30 Minuten
 
-23,60 €
+28,30
 
-b)
-
-in einer Gruppe (bis 5 Personen), je Teilnehmerin oder Teilnehmer – einschließlich der erforderlichen Nachruhe
-
-11,80 €
-
-11
-
-Manuelle Therapie zur Behandlung von Gelenkblockierungen, Mindestbehandlungsdauer 30 Minuten
-
-22,50 €
-
-12
-
-Chirogymnastik – einschließlich der erforderlichen Nachruhe
-
-14,40 €
-
-13
-
-Erweiterte ambulante Physiotherapie Mindestbehandlungsdauer 120 Minuten, je Behandlungstag
-
-81,90 €
-
-14
-
-Gerätegestützte Krankengymnastik (KG-Gerät) einschließlich Medizinischen Aufbautrainings (MAT) und Medizinischer Trainingstherapie (MTT), Behandlungsrichtwert 60 Minuten, begrenzt auf maximal 18 Behandlungen je Kalenderhalbjahr
-
-35,00 €
-
-15
-
-Extensionsbehandlung (zum Beispiel Glissonschlinge)
-
-5,20 €
-
-16
-
-Extensionsbehandlung mit größeren Apparaten (zum Beispiel Schrägbrett, Extensionstisch, Perl´sches Gerät, Schlingentisch)
-
-6,70 €
-
-**Bereich Massagen**
-
-17
-
-Massagen einzelner oder mehrerer Körperteile, auch Spezialmassagen (Bindegewebs-, Reflexzonen-, Segment-, Periost-, Bürsten- und Colonmassage)
-
-13,80 €
-
-18
-
-Manuelle Lymphdrainage nach Dr. Vodder
-
-a)
-
-Teilbehandlung, 30 Minuten
-
-19,50 €
+31,20
 
 b)
 
-Großbehandlung, 45 Minuten
+in einer Gruppe (2 bis 3 Personen), je Teilnehmerin oder Teilnehmer einschließlich der erforderlichen Nachruhe, Richtwert: 30 Minuten
 
-29,20 €
+17,80
+
+19,50
 
 c)
 
-Ganzbehandlung, 60 Minuten
+in einer Gruppe (4 bis 5 Personen), je Teilnehmerin oder Teilnehmer einschließlich der erforderlichen Nachruhe, Richtwert: 30 Minuten
 
-39,00 €
+14,20
 
-d)
+15,60
 
-Kompressionsbandagierung einer Extremität
+11
 
-8,70 €
+Manuelle Therapie, Richtwert: 30 Minuten
 
-19
+27,00
 
-Unterwasserdruckstrahlmassage bei einem Wanneninhalt von mindestens 600 Litern und einer Aggregatleistung von mindestens 200 l/min sowie mit Druck- und Temperaturmesseinrichtung – einschließlich der erforderlichen Nachruhe
+29,70
 
-23,10 €
+12
 
-**Bereich Packungen, Hydrotherapie, Bäder**
+Chirogymnastik (funktionelle Wirbelsäulengymnastik), Richtwert: 20 Minuten
 
-20
+17,30
 
-Heiße Rolle – einschließlich der erforderlichen Nachruhe
+19,00
 
-10,30 €
+13
 
-21
-
-Warmpackung eines oder mehrerer Körperteile – einschließlich der erforderlichen Nachruhe
+Bewegungsübungen
 
 a)
 
-bei Anwendung wiederverwendbarer Packungsmaterialien (zum Beispiel Paraffin, Fango-Paraffin, Moor-Paraffin, Pelose, Turbatherm)
+als Einzelbehandlung, Richtwert: 20 Minuten
 
-11,80 €
+9,20
+
+10,20
+
+b)
+
+in einer Gruppe (2 bis 5 Personen), Richtwert: 20 Minuten
+
+6,00
+
+6,60
+
+14
+
+Bewegungsübungen im Bewegungsbad
+
+a)
+
+als Einzelbehandlung einschließlich der erforderlichen Nachruhe, Richtwert: 30 Minuten
+
+28,30
+
+31,20
+
+b)
+
+in einer Gruppe (2 bis 3 Personen), je Teilnehmerin oder Teilnehmer einschließlich der erforderlichen Nachruhe, Richtwert: 30 Minuten
+
+17,80
+
+19,50
+
+c)
+
+in einer Gruppe (4 bis 5 Personen), je Teilnehmerin oder Teilnehmer einschließlich der erforderlichen Nachruhe, Richtwert: 30 Minuten
+
+14,20
+
+15,60
+
+15
+
+Erweiterte ambulante Physiotherapie (EAP), Richtwert: 120 Minuten je Behandlungstag
+
+98,30
+
+108,10
+
+16
+
+Gerätegestützte Krankengymnastik (KG-Gerät) einschließlich Medizinischen Aufbautrainings (MAT) und Medizinischer Trainingstherapie (MTT), je Sitzung für eine parallele Einzelbehandlung (bis zu 3 Personen), Richtwert: 60 Minuten, begrenzt auf maximal 25 Behandlungen je Kalenderhalbjahr
+
+42,00
+
+46,20
+
+17
+
+Traktionsbehandlung mit Gerät (zum Beispiel Schrägbrett, Extensionstisch, Perl´sches Gerät, Schlingentisch) als Einzelbehandlung, Richtwert: 20 Minuten
+
+8,00
+
+8,80
+
+**Bereich Massagen**
+
+18
+
+Massage einzelner oder mehrerer Körperteile
+
+a)
+
+Klassische Massagetherapie (KMT), Segment-, Periost-, Reflexzonen-, Bürsten- und Colonmassage, Richtwert: 20 Minuten
+
+16,60
+
+18,20
+
+b)
+
+Bindegewebsmassage (BGM), Richtwert: 30 Minuten
+
+16,60
+
+18,20
+
+19
+
+Manuelle Lymphdrainage (MLD)
+
+a)
+
+Teilbehandlung, Richtwert: 30 Minuten
+
+23,40
+
+25,70
+
+b)
+
+Großbehandlung, Richtwert: 45 Minuten
+
+35,00
+
+38,50
+
+c)
+
+Ganzbehandlung, Richtwert: 60 Minuten
+
+53,00
+
+58,30
+
+d)
+
+Kompressionsbandagierung einer Extremität, Aufwendungen für das notwendige Polster- und Bindenmaterial (zum Beispiel Mullbinden, Kurzzugbinden, Fließpolsterbinden) sind daneben beihilfefähig
+
+11,30
+
+12,40
+
+20
+
+Unterwasserdruckstrahlmassage einschließlich der erforderlichen Nachruhe, Richtwert: 20 Minuten
+
+27,70
+
+30,50
+
+**Bereich Palliativversorgung**
+
+21
+
+Physiotherapeutische Komplexbehandlung in der Palliativversorgung, Richtwert: 60 Minuten
+
+60,00
+
+66,00
+
+**Bereich Packungen, Hydrotherapie, Bäder**
+
+22
+
+Heiße Rolle einschließlich der erforderlichen Nachruhe
+
+12,40
+
+13,60
+
+23
+
+Warmpackung eines oder mehrerer Körperteile einschließlich der erforderlichen Nachruhe
+
+a)
+
+bei Anwendung wiederverwendbarer Packungsmaterialien (zum Beispiel Fango-Paraffin, Moor-Paraffin, Pelose, Turbatherm)
+
+14,20
+
+15,60
 
 b)
 
 bei Anwendung einmal verwendbarer natürlicher Peloide (Heilerde, Moor, Naturfango, Pelose, Schlamm, Schlick) ohne Verwendung von Folie oder Vlies zwischen Haut und Peloid
 
-aa)  Teilpackung
+aa)
 
-20,50 €
+Teilpackung
 
-bb) Großpackung
+32,90
 
-28,20 €
+36,20
 
-22
+bb)
 
-Schwitzpackung (zum Beispiel spanischer Mantel, Salzhemd, Dreiviertel-Packung nach Kneipp) – einschließlich der erforderlichen Nachruhe
+Großpackung
 
-14,90 €
+43,40
 
-23
+47,80
+
+24
+
+Schwitzpackung (zum Beispiel spanischer Mantel, Salzhemd, Dreiviertel-Packung nach Kneipp) einschließlich der erforderlichen Nachruhe
+
+17,90
+
+19,70
+
+25
 
 Kaltpackung (Teilpackung)
 
@@ -5991,479 +6649,671 @@ a)
 
 Anwendung von Lehm, Quark oder Ähnlichem
 
-7,70 €
+9,20
+
+10,20
 
 b)
 
 Anwendung einmal verwendbarer Peloide (Heilerde, Moor, Naturfango, Pelose, Schlamm, Schlick) ohne Verwendung von Folie oder Vlies zwischen Haut und Peloid
 
-15,40 €
+18,50
 
-24
-
-Heublumensack, Peloidkompresse
-
-9,20 €
-
-25
-
-Wickel, Auflagen, Kompressen und anderen, auch mit Zusatz
-
-4,60 €
+20,30
 
 26
 
-Trockenpackung
+Heublumensack, Peloidkompresse
 
-3,10 €
+11,00
+
+12,10
 
 27
+
+Wickel, Auflagen, Kompressen und andere, auch mit Zusatz
+
+5,50
+
+6,10
+
+28
+
+Trockenpackung
+
+3,70
+
+4,10
+
+29
 
 a)
 
 Teilguss, Teilblitzguss, Wechselteilguss
 
-3,10 €
+3,70
+
+4,10
 
 b)
 
 Vollguss, Vollblitzguss, Wechselvollguss
 
-4,60 €
+5,50
+
+6,10
 
 c)
 
 Abklatschung, Abreibung, Abwaschung
 
-4,10 €
+4,90
 
-28
-
-a)
-
-an- oder absteigendes Teilbad (zum Beispiel nach Hauffe) – einschließlich der erforderlichen Nachruhe
-
-12,30 €
-
-b)
-
-an- oder absteigendes Vollbad (Überwärmungsbad) – einschließlich der erforderlichen Nachruhe
-
-20,00 €
-
-29
-
-Wechselbäder – einschließlich der erforderlichen Nachruhe
-
-a)
-
-Teilbad
-
-9,20 €
-
-b)
-
-Vollbad
-
-13,30 €
+5,40
 
 30
 
-Bürstenmassagebad – einschließlich der erforderlichen Nachruhe
-
-19,00 €
-
-31
-
-Naturmoorbäder – einschließlich der erforderlichen Nachruhe
-
 a)
 
-Halbbad
+an- oder absteigendes Teilbad (zum Beispiel nach Hauffe) einschließlich der erforderlichen Nachruhe
 
-32,80 €
+14,80
+
+16,20
 
 b)
 
-Vollbad
+an- oder absteigendes Vollbad (Überwärmungsbad) einschließlich der erforderlichen Nachruhe
 
-39,90 €
+24,00
 
-32
+26,40
 
-Sandbäder – einschließlich der erforderlichen Nachruhe
+31
+
+Wechselbad einschließlich der erforderlichen Nachruhe
 
 a)
 
 Teilbad
 
-28,70 €
+11,00
+
+12,10
 
 b)
 
 Vollbad
 
-32,80 €
+16,00
+
+17,60
+
+32
+
+Bürstenmassagebad einschließlich der erforderlichen Nachruhe
+
+22,80
+
+25,10
 
 33
 
-Sole-Photo-Therapie
-
-32,80 €
-
-Behandlung großflächiger Hauterkrankungen mit Balneo-Phototherapie (Einzelbad in Sole kombiniert mit der Bestrahlung durch langwelliges ultraviolettes Licht \[UV-A\] oder kurzwelliges ultraviolettes Licht \[UV-B\], einschließlich Nachfetten) und Licht-Öl-Bad – einschließlich der erforderlichen Nachruhe
-
-34
-
-Medizinische Bäder mit Zusätzen
+Naturmoorbad einschließlich der erforderlichen Nachruhe
 
 a)
 
-Teilbad (Hand- oder Fußbad) mit Zusatz, zum Beispiel vegetabilische Extrakte, ätherische Öle, spezielle Emulsionen, mineralische huminsäurehaltige und salizylsäurehaltige Zusätze
+Teilbad
 
-6,70 €
+39,40
+
+43,30
 
 b)
 
-Sitzbad mit Zusatz – einschließlich der erforderlichen Nachruhe
+Vollbad
 
-13,30 €
+47,90
+
+52,70
+
+34
+
+Sandbad einschließlich der erforderlichen Nachruhe
+
+a)
+
+Teilbad
+
+34,40
+
+37,90
+
+b)
+
+Vollbad
+
+39,40
+
+43,30
+
+35
+
+Balneo-Phototherapie (Sole-Phototherapie) und Licht-Öl-Bad einschließlich Nachfetten und der erforderlichen Nachruhe
+
+39,40
+
+43,30
+
+36
+
+Medizinisches Bad mit Zusatz
+
+a)
+
+Hand- oder Fußbad
+
+8,00
+
+8,80
+
+b)
+
+Teilbad einschließlich der erforderlichen Nachruhe
+
+16,00
+
+17,60
 
 c)
 
-Vollbad, Halbbad mit Zusatz – einschließlich der erforderlichen Nachruhe
+Vollbad einschließlich der erforderlichen Nachruhe
 
-18,50 €
+22,20
+
+24,40
 
 d)
 
 bei mehreren Zusätzen je weiterer Zusatz
 
-3,10 €
+3,70
 
-35
+4,10
 
-Gashaltige Bäder
+37
+
+Gashaltiges Bad
 
 a)
 
-gashaltiges Bad (zum Beispiel Kohlensäurebad, Sauerstoffbad) – einschließlich der erforderlichen Nachruhe
+gashaltiges Bad (zum Beispiel Kohlensäurebad, Sauerstoffbad) einschließlich der erforderlichen Nachruhe
 
-19,50 €
+23,40
+
+25,70
 
 b)
 
-gashaltiges Bad mit Zusatz – einschließlich der erforderlichen Nachruhe
+gashaltiges Bad mit Zusatz einschließlich der erforderlichen Nachruhe
 
-22,50 €
+27,00
+
+29,70
 
 c)
 
-Kohlendioxidgasbad (Kohlensäuregasbad) – einschließlich der erforderlichen Nachruhe
+Kohlendioxidgasbad (Kohlensäuregasbad) einschließlich der erforderlichen Nachruhe
 
-21,00 €
+25,20
+
+27,70
 
 d)
 
-Radon-Bad – einschließlich der erforderlichen Nachruhe
+Radon-Bad einschließlich der erforderlichen Nachruhe
 
-18,50 €
+22,20
+
+24,40
 
 e)
 
 Radon-Zusatz, je 500 000 Millistat
 
-3,10 €
+3,70
 
-Aufwendungen für andere als die in diesem Abschnitt bezeichneten Bäder sind nicht beihilfefähig. Bei Teil-, Sitz- und Vollbädern mit ortsgebundenen natürlichen Heilwässern erhöhen sich die unter Nummer 34 Buchstabe a bis c und Nummer 35 Buchstabe b jeweils angegebenen beihilfefähigen Höchstbeträge um bis zu 3,10 Euro. Weitere Zusätze hierzu sind nach Maßgabe der Nummer 34 Buchstabe d beihilfefähig.
-
-**Bereich Kälte- und Wärmebehandlung**
-
-36
-
-a)
-
-Eisanwendung, Kältebehandlung (zum Beispiel Kompresse, Eisbeutel, direkte Abreibung)
-
-9,80 €
-
-b)
-
-Eisanwendung, Kältebehandlung (zum Beispiel Kaltgas, Kaltluft) großer Gelenke
-
-6,70 €
-
-37
-
-Eisteilbad
-
-9,80 €
+4,10
 
 38
 
-Heißluftbehandlung eines oder mehrerer Körperteile oder Wärmeanwendung (Glühlicht, Strahler auch Infrarot) bei einem oder mehreren Körperteilen
+Aufwendungen für andere als die in diesem Abschnitt bezeichneten Bäder sind nicht beihilfefähig. Bei Teil- und Vollbädern mit ortsgebundenen natürlichen Heilwässern erhöhen sich die Höchstbeträge nach Nummer 36 Buchstabe a bis c und nach Nummer 37 Buchstabe b um 3,70 Euro und ab 1.1.2019 um 4,10 Euro. Weitere Zusätze hierzu sind nach Maßgabe der Nummer 36 Buchstabe d beihilfefähig.
 
-5,70 €
-
-**Bereich Elektrotherapie**
+**Bereich Kälte- und Wärmebehandlung**
 
 39
 
-Ultraschallbehandlung, auch Phonophorese
+Kältetherapie bei einem oder mehreren Körperteilen mit lokaler Applikation intensiver Kälte in Form von Eiskompressen, tiefgekühlten Eis- oder Gelbeuteln, direkter Abreibung, Kaltgas und Kaltluft mit entsprechenden Apparaturen sowie Eisteilbädern in Fuß- oder Armbadewannen
 
-6,20 €
+11,80
+
+12,90
 
 40
 
-Behandlung eines oder mehrerer Körperabschnitte mit hochfrequenten Strömen (Kurz-, Dezimeter- oder Mikrowellen)
+Wärmetherapie mittels Heißluft bei einem oder mehreren Körperteilen, Richtwert: 20 Minuten
 
-6,20 €
+6,80
+
+7,50
 
 41
 
-Behandlung eines oder mehrerer Körperabschnitte mit niederfrequenten Strömen (zum Beispiel Reizstrom, diadynamischer Strom, Interferenzstrom, Galvanisation)
+Ultraschall-Wärmetherapie
 
-6,20 €
+10,80
+
+11,90
+
+**Bereich Elektrotherapie**
 
 42
 
-Gezielte Niederfrequenzbehandlung, Elektrogymnastik; bei spastischen oder schlaffen Lähmungen
+Elektrotherapie einzelner oder mehrerer Körperteile mit individuell eingestellten Stromstärken und Frequenzen
 
-11,80 €
+7,40
+
+8,20
 
 43
 
-Iontophorese
+Elektrostimulation bei Lähmungen
 
-6,20 €
+14,20
+
+15,60
 
 44
 
-Zwei- oder Vierzellenbad
+Iontophorese
 
-11,30 €
+7,40
+
+8,20
 
 45
 
-Hydroelektrisches Vollbad (zum Beispiel Stangerbad), auch mit Zusatz – einschließlich der erforderlichen Nachruhe
+Hydroelektrisches Teilbad (Zwei- oder Vierzellenbad)
 
-22,00 €
+13,60
 
-**Bereich Lichttherapie**
+14,90
 
 46
 
-Behandlung mit Ultraviolettlicht
+Hydroelektrisches Vollbad (zum Beispiel Stangerbad), auch mit Zusatz, einschließlich der erforderlichen Nachruhe
 
-a)
+26,40
 
-als Einzelbehandlung
+29,00
 
-3,10 €
-
-b)
-
-in einer Gruppe, je Teilnehmerin oder Teilnehmer
-
-2,60 €
+**Bereich Stimm-, Sprech- und Sprachtherapie**
 
 47
 
-a)
+Stimm-, sprech- und sprachtherapeutische Erstbefundung zur Erstellung eines Behandlungsplans, einmal je Behandlungsfall
 
-Reizbehandlung eines umschriebenen Hautbezirkes mit Ultraviolettlicht
+98,20
 
-3,10 €
-
-b)
-
-Reizbehandlung mehrerer umschriebener Hautbezirke mit Ultraviolettlicht
-
-5,20 €
+108,00
 
 48
 
-Quarzlampendruckbestrahlung eines Feldes
+Einzelbehandlung bei Atem-, Stimm-, Sprech-, Sprach-, Hör- und Schluckstörungen
 
-6,20 €
+a)
+
+Richtwert: 30 Minuten
+
+38,00
+
+41,80
+
+b)
+
+Richtwert: 45 Minuten
+
+53,60
+
+59,00
+
+c)
+
+Richtwert: 60 Minuten
+
+62,60
+
+68,90
+
+d)
+
+Richtwert: 90 Minuten
+
+94,00
+
+103,40
+
+Aufwendungen für die Vor- und Nachbereitung, die Verlaufsdokumentation, den sprachtherapeutischen Bericht sowie für die Beratung der Patientin oder des Patienten und ihrer oder seiner Bezugspersonen sind daneben nicht beihilfefähig.
 
 49
 
-Quarzlampendruckbestrahlung mehrerer Felder
+Gruppenbehandlung bei Atem-, Stimm-, Sprech-, Sprach-, Hör- und Schluckstörungen, je Teilnehmerin oder Teilnehmer
 
-8,70 €
+a)
 
-**Bereich Logopädie**
+Gruppe (2 Personen), Richtwert: 45 Minuten
+
+45,80
+
+50,40
+
+b)
+
+Gruppe (3 bis 5 Personen), Richtwert: 45 Minuten
+
+31,40
+
+34,60
+
+c)
+
+Gruppe (2 Personen), Richtwert: 90 Minuten
+
+61,40
+
+67,60
+
+d)
+
+Gruppe (3 bis 5 Personen), Richtwert: 90 Minuten
+
+51,00
+
+56,10
+
+Aufwendungen für die Vor- und Nachbereitung, die Verlaufsdokumentation, den sprachtherapeutischen Bericht sowie für die Beratung der Patientin oder des Patienten und ihrer oder seiner Bezugspersonen sind daneben nicht beihilfefähig.
+
+**Bereich Ergotherapie (Beschäftigungstherapie)**
 
 50
 
-Behandlungsplanung und Bericht
-
-a)
-
-Erstgespräch mit Behandlungsplanung und -besprechung, einmal je Behandlungsfall
-
-31,70 €
-
-b)
-
-standardisierte Verfahren zur Behandlungsplanung einschließlich Auswertung, nur auf spezielle ärztliche Verordnung bei Verdacht auf zentrale Sprachstörungen, einmal je Behandlungsfall
-
-49,60 €
-
-c)
-
-ausführlicher Bericht
-
-11,80 €
-
-51
-
-Einzelbehandlung bei Sprech-, Sprach- und Stimmstörungen
-
-a)
-
-Mindestbehandlungsdauer 30 Minuten
-
-31,70 €
-
-b)
-
-Mindestbehandlungsdauer 45 Minuten
-
-41,50 €
-
-c)
-
-Mindestbehandlungsdauer 60 Minuten
-
-52,20 €
-
-52
-
-Gruppenbehandlung bei Sprech-, Sprach- und Stimmstörungen mit Beratung der Patientin oder des Patienten oder gegebenenfalls der Eltern, je Teilnehmerin oder Teilnehmer
-
-a)
-
-Kindergruppe, Mindestbehandlungsdauer 30 Minuten
-
-14,90 €
-
-b)
-
-Erwachsenengruppe, Mindestbehandlungsdauer 45 Minuten
-
-17,40 €
-
-**Bereich Beschäftigungstherapie (Ergotherapie)**
-
-53
-
 Funktionsanalyse und Erstgespräch einschließlich Beratung und Behandlungsplanung, einmal je Behandlungsfall
 
-31,70 €
+38,00
 
-54
+41,80
+
+51
 
 Einzelbehandlung
 
 a)
 
-bei motorischen Störungen, Mindestbehandlungsdauer 30 Minuten
+bei motorisch-funktionellen Störungen, Richtwert: 30 Minuten
 
-31,70 €
+38,00
+
+41,80
 
 b)
 
-bei sensomotorischen oder perzeptiven Störungen, Mindestbehandlungsdauer 45 Minuten
+bei sensomotorischen oder perzeptiven Störungen, Richtwert: 45 Minuten
 
-41,50 €
+49,80
+
+54,80
 
 c)
 
-bei psychischen Störungen, Mindestbehandlungsdauer 60 Minuten
+bei psychisch-funktionellen Störungen, Richtwert: 60 Minuten
 
-54,80 €
+65,80
 
-55
+72,30
 
-Hirnleistungstraining als Einzelbehandlung, Mindestbehandlungsdauer 30 Minuten
+d)
 
-31,70 €
+bei psychisch-funktionellen Störungen als Belastungserprobung, Richtwert: 120 Minuten
 
-56
+116,50
+
+128,20
+
+e)
+
+als Beratung zur Integration in das häusliche und soziale Umfeld im Rahmen eines Hausbesuchs, einmal pro Behandlungsfall
+
+aa)
+
+bis zu 3 Einheiten am Tag, je Einheit
+
+aaa)
+
+bei motorisch-funktionellen Störungen
+
+37,00
+
+40,70
+
+bbb)
+
+bei sensomotorischen oder perzeptiven Störungen
+
+49,40
+
+54,40
+
+bb)
+
+bis zu 2 Einheiten am Tag, je Einheit bei psychisch-funktionellen Störungen
+
+61,60
+
+67,70
+
+52
 
 Gruppenbehandlung
 
 a)
 
-Mindestbehandlungsdauer 45 Minuten, je Teilnehmerin oder Teilnehmer
+bei motorisch-funktionellen Störungen, Richtwert: 30 Minuten, je Teilnehmerin oder Teilnehmer
 
-14,40 €
+14,50
+
+16,00
 
 b)
 
-bei psychischen Störungen, Mindestbehandlungsdauer 90 Minuten, je Teilnehmerin oder Teilnehmer
+bei sensomotorischen oder perzeptiven Störungen, Richtwert: 45 Minuten, je Teilnehmerin oder Teilnehmer
 
-28,70 €
+18,70
 
-**Bereich Podologische Therapie**
+20,60
 
-57
+c)
+
+bei psychisch-funktionellen Störungen, Richtwert: 90 Minuten, je Teilnehmerin oder Teilnehmer
+
+34,40
+
+37,90
+
+d)
+
+bei psychisch-funktionellen Störungen als Belastungserprobung, Richtwert: 180 Minuten, je Teilnehmerin oder Teilnehmer
+
+63,80
+
+70,20
+
+53
+
+Hirnleistungstraining/Neuropsychologisch orientierte Einzelbehandlung, Richtwert: 30 Minuten
+
+42,00
+
+46,20
+
+54
+
+Hirnleistungstraining als Gruppenbehandlung, Richtwert: 45 Minuten, je Teilnehmerin oder Teilnehmer
+
+18,70
+
+20,60
+
+**Bereich Podologie**
+
+55
 
 Hornhautabtragung an beiden Füßen
 
-14,50 €
+24,20
 
-58
+26,70
+
+56
 
 Hornhautabtragung an einem Fuß
 
-8,70 €
+17,20
 
-59
+18,90
+
+57
 
 Nagelbearbeitung an beiden Füßen
 
-13,05 €
+22,80
 
-60
+25,10
+
+58
 
 Nagelbearbeitung an einem Fuß
 
-7,25 €
+17,20
+
+18,90
+
+59
+
+Podologische Komplexbehandlung (Hornhautabtragung und Nagelbearbeitung) beider Füße
+
+37,80
+
+41,60
+
+60
+
+Podologische Komplexbehandlung (Hornhautabtragung und Nagelbearbeitung) eines Fußes
+
+24,20
+
+26,70
 
 61
 
-Podologische Komplexbehandlung an beiden Füßen (Hornhautabtragung und Nagelbearbeitung)
+Erstversorgung mit einer Federstahldraht-Orthonyxiespange nach Ross-Fraser, einteilig, einschließlich Abdruck und Anfertigung der Passiv-Nagel-Korrektur-Spange nach Modell, Applikation sowie Spangenkontrolle nach 1 bis 2 Wochen
 
-26,10 €
+176,90
+
+194,60
 
 62
 
-Podologische Komplexbehandlung an einem Fuß (Hornhautabtragung und Nagelbearbeitung)
+Regulierung der Orthonyxiespange nach Ross-Fraser, einteilig, einschließlich Spangenkontrolle nach 1 bis 2 Tagen
 
-14,50 €
+34,00
 
-**Bereich Sonstiges**
+37,40
 
 63
 
-Ärztlich verordneter Hausbesuch
+Ersatzversorgung mit einer Orthonyxiespange nach Ross-Fraser, einteilig, infolge Verlusts oder Bruchs der Spange bei vorhandenem Modell einschließlich Applikation
 
-9,20 €
+58,90
+
+64,80
 
 64
 
+Versorgung mit einer konfektionierten bilateralen Federstahldraht-Orthonyxiespange, dreiteilig, einschließlich individueller Spangenformung, Applikation und Spangensitzkontrolle nach 1 bis 2 Tagen
+
+68,00
+
+74,80
+
+65
+
+Versorgung mit einer konfektionierten Klebespange, einteilig, einschließlich Applikation und Spangensitzkontrolle nach 1 bis 2 Tagen
+
+34,00
+
+37,40
+
+**Bereich Ernährungstherapie**
+
+66
+
+Erstgespräch mit Behandlungsplanung, Richtwert: 60 Minuten
+
+60,00
+
+66,00
+
+67
+
+Einzelbehandlung, Richtwert: 30 Minuten, begrenzt auf maximal 12 Behandlungen pro Jahr
+
+30,00
+
+33,00
+
+68
+
+Gruppenbehandlung, Richtwert: 30 Minuten, begrenzt auf maximal 12 Behandlungen pro Jahr
+
+10,00
+
+11,00
+
+**Bereich Sonstiges**
+
+69
+
+Ärztlich verordneter Hausbesuch
+
+11,00
+
+12,10
+
+70
+
 Fahrtkosten für Fahrten der behandelnden Person (nur bei ärztlich verordnetem Hausbesuch) bei Benutzung eines Kraftfahrzeuges in Höhe von 0,30 Euro je Kilometer oder die niedrigsten Kosten eines regelmäßig verkehrenden Beförderungsmittels
 
-Bei Besuchen mehrerer Patientinnen oder Patienten auf demselben Weg sind die Nummern 63 und 64 nur anteilig je Patientin oder Patient beihilfefähig.
+71
+
+Werden auf demselben Weg mehrere Patientinnen oder Patienten besucht, sind die Aufwendungen nach den Nummern 69 und 70 nur anteilig je Patientin oder Patient beihilfefähig.
+
+Richtwert im Sinne des Leistungsverzeichnisses ist die Zeitangabe zur regelmäßigen Dauer der jeweiligen Therapiemaßnahme (Regelbehandlungszeit). Er beinhaltet die Durchführung der Therapiemaßnahme einschließlich der Vor- und Nachbereitung. Die Regelbehandlungszeit darf nur aus medizinischen Gründen unterschritten werden.
 
 Abschnitt 2
 Erweiterte ambulante Physiotherapie
 
 1.  
-Aufwendungen der erweiterten ambulanten Physiotherapie (EAP) – Nummer 13 des Leistungsverzeichnisses – werden nur bei folgenden Indikationen als beihilfefähig anerkannt:
+Aufwendungen für eine EAP nach Abschnitt 1 Nummer 15 sind nur dann beihilfefähig, wenn die Therapie in einer Einrichtung, die durch die gesetzlichen Krankenkassen oder Berufsgenossenschaften zur ambulanten Rehabilitation oder zur EAP zugelassen ist und bei einer der folgenden Indikationen angewendet wird:
 
 a)  
 Wirbelsäulensyndrome mit erheblicher Symptomatik bei
@@ -6481,19 +7331,19 @@ dd)
 instabilen Wirbelsäulenverletzungen mit muskulärem Defizit und Fehlstatik, wenn die Leistungen im Rahmen einer konservativen oder postoperativen Behandlung erbracht werden,
 
 ee)  
-lockerer korrigierbarer thorakaler Scheuermann-Kyphose &gt; 50° nach Cobb,
+lockerer korrigierbarer thorakaler Scheuermann-Kyphose von mehr als 50° Grad nach Cobb,
 
 b)  
-Operation am Skelettsystem
+Operationen am Skelettsystem bei
 
 aa)  
-posttraumatische Osteosynthesen,
+posttraumatischen Osteosynthesen,
 
 bb)  
 Osteotomien der großen Röhrenknochen,
 
 c)  
-prothetischer Gelenkersatz bei Bewegungseinschränkungen oder muskulärem Defizit
+prothetischer Gelenkersatz bei Bewegungseinschränkungen oder muskulären Defiziten bei
 
 aa)  
 Schulterprothesen,
@@ -6505,7 +7355,7 @@ cc)
 Hüftendoprothesen,
 
 d)  
-operativ oder konservativ behandelte Gelenkerkrankungen, einschließlich Instabilitäten
+operativ oder konservativ behandelte Gelenkerkrankungen, einschließlich Instabilitäten bei
 
 aa)  
 Kniebandrupturen (Ausnahme isoliertes Innenband),
@@ -6520,7 +7370,7 @@ bbb)
 Rotatorenmanschettenruptur,
 
 ccc)  
-schwere Schultersteife (frozen shoulder),
+schwerer Schultersteife (frozen shoulder),
 
 ddd)  
 Impingement-Syndrom,
@@ -6540,7 +7390,7 @@ Achillessehnenrupturen und Achillessehnenabriss,
 e)  
 Amputationen.
 
-Erforderlich für die Anerkennung als beihilfefähige Aufwendungen ist zudem eine Verordnung von
+Voraussetzung für die Beihilfefähigkeit ist zudem eine Verordnung von
 
 a)  
 einer Krankenhausärztin oder einem Krankenhausarzt,
@@ -6564,32 +7414,22 @@ a)
 Krankengymnastische Einzeltherapie,
 
 b)  
-Physikalische Therapie nach Bedarf,
+Physikalische Therapie,
 
 c)  
-Medizinisches Aufbautraining.
-
-Bei Bedarf können folgende zusätzliche Leistungen erbracht werden:
-
-d)  
-Lymphdrainage oder Massage oder Bindegewebsmassage,
-
-e)  
-Isokinetik,
-
-f)  
-Unterwassermassage.
-
-Diese zusätzlichen Leistungen sind mit dem Höchstbetrag nach Abschnitt 1 Nummer 13 abgegolten.
+MAT.
 
 4.  
+Werden Lymphdrainage, Massage, Bindegewebsmassage, Isokinetik oder Unterwassermassage zusätzlich erbracht, sind diese Leistungen mit dem Höchstbetrag nach Abschnitt 1 Nummer 15 abgegolten.
+
+5.  
 Die Patientin oder der Patient muss die durchgeführten Leistungen auf der Tagesdokumentation unter Angabe des Datums bestätigen.
 
 Abschnitt 3
 Medizinisches Aufbautraining
 
 1.  
-Aufwendungen für ein ärztlich verordnetes medizinisches Aufbautraining (MAT) mit Sequenztrainingsgeräten zur Behandlung von Funktions- und Leistungseinschränkungen im Stütz- und Bewegungsapparat sind beihilfefähig, wenn
+Aufwendungen für ein ärztlich verordnetes MAT nach Abschnitt 1 Nummer 16 mit Sequenztrainingsgeräten zur Behandlung von Funktions- und Leistungseinschränkungen im Stütz- und Bewegungsapparat sind beihilfefähig, wenn
 
 a)  
 das Training verordnet wird von
@@ -6613,68 +7453,184 @@ c)
 jede therapeutische Sitzung unter ärztlicher Aufsicht durchgeführt wird; die Durchführung therapeutischer und diagnostischer Leistungen kann teilweise an speziell geschultes medizinisches Personal delegiert werden.
 
 2.  
-Die Beihilfefähigkeit ist auf maximal 18 Behandlungen je Kalenderhalbjahr begrenzt.
+Die Beihilfefähigkeit ist auf maximal 25 Behandlungen je Kalenderhalbjahr begrenzt.
 
 3.  
 Die Angemessenheit und damit Beihilfefähigkeit der Aufwendungen richtet sich bei Leistungen, die von einer Ärztin oder einem Arzt erbracht werden, nach dem Beschluss der Bundesärztekammer zur Analogbewertung der Medizinischen Trainingstherapie. Danach sind folgende Leistungen bis zum 2,3-fachen der Gebührensätze der Anlage zur Gebührenordnung für Ärzte beihilfefähig:
 
 a)  
-Eingangsuntersuchung zur Medizinischen Trainingstherapie einschließlich biomechanischer Funktionsanalyse der Wirbelsäule, spezieller Schmerzanamnese und gegebenenfalls anderer funktionsbezogener Messverfahren sowie Dokumentation analog Nummer 842 der Anlage zur Gebührenordnung für Ärzte. Die Berechnung einer Kontrolluntersuchung analog Nummer 842 der Anlage zur Gebührenordnung für Ärzte ist nicht vor Abschluss der Behandlungsserie möglich.
+Eingangsuntersuchung zur Medizinischen Trainingstherapie einschließlich biomechanischer Funktionsanalyse der Wirbelsäule, spezieller Schmerzanamnese und gegebenenfalls anderer funktionsbezogener Messverfahren sowie Dokumentation Nummer 842 der Anlage zur Gebührenordnung für Ärzte analog. Aufwendungen für eine Kontrolluntersuchung (Nummer 842 der Anlage zur Gebührenordnung für Ärzte analog) nach Abschluss der Behandlungsserie sind beihilfefähig.
 
 b)  
-Medizinische Trainingstherapie mit Sequenztraining einschließlich progressiv-dynamischen Muskeltrainings mit speziellen Therapiemaschinen analog Nummer 846 der Anlage zur Gebührenordnung für Ärzte, zuzüglich zusätzlichen Geräte-Sequenztrainings analog Nummer 558 der Anlage zur Gebührenordnung für Ärzte (je Sitzung) und begleitenden krankengymnastischen Übungen nach Nummer 506 der Anlage zur Gebührenordnung für Ärzte. Die Nummern analog 846, analog 558 sowie Nummer 506 der Anlage zur Gebührenordnung für Ärzte können pro Sitzung jeweils nur einmal abgerechnet werden.
+Medizinische Trainingstherapie mit Sequenztraining einschließlich progressiv-dynamischen Muskeltrainings mit speziellen Therapiemaschinen (Nummer 846 der Anlage zur Gebührenordnung für Ärzte analog), zuzüglich zusätzlichen Geräte-Sequenztrainings (Nummer 558 der Anlage zur Gebührenordnung für Ärzte analog) und begleitender krankengymnastischer Übungen (Nummer 506 der Anlage zur Gebührenordnung für Ärzte). Aufwendungen für Leistungen nach Nummer 506, Nummer 558 analog sowie Nummer 846 analog der Anlage zur Gebührenordnung für Ärzte sind pro Sitzung jeweils nur einmal beihilfefähig.
 
 4.  
-Werden die Leistungen von zugelassenen Leistungserbringerinnen oder Leistungserbringern für Heilmittel erbracht, richtet sich die Angemessenheit der Aufwendungen nach Nummer 14 des Abschnitts 1.
+Werden die Leistungen von zugelassenen Leistungserbringerinnen oder Leistungserbringern für Heilmittel erbracht, richtet sich die Angemessenheit der Aufwendungen nach Abschnitt 1 Nummer 16.
 
 5.  
-Fitness- und Kräftigungsmethoden, die nicht den Anforderungen des ärztlich geleiteten medizinischen Aufbautrainings entsprechen, sind nicht beihilfefähig. Dies ist auch dann der Fall, wenn sie an identischen Trainingsgeräten mit gesundheitsfördernder Zielsetzung durchgeführt werden.
+Aufwendungen für Fitness- und Kräftigungsmethoden, die nicht den Anforderungen nach Nummer 1 entsprechen, sind nicht beihilfefähig. Dies ist auch dann der Fall, wenn sie an identischen Trainingsgeräten mit gesundheitsfördernder Zielsetzung durchgeführt werden.
 
 Abschnitt 4
-Aufwendungen für medizinische Fußpflege
-
-Aufwendungen für medizinische Fußpflege durch Podologinnen, Podologen, medizinische Fußpflegerinnen und medizinische Fußpfleger sind nur bei der Diagnose „Diabetisches Fußsyndrom“ beihilfefähig.
-
-Die für Inhalationen erforderlichen Stoffe (Arzneimittel) sind daneben gesondert beihilfefähig.Das notwendige Bindenmaterial (zum Beispiel Mullbinden, Kurzzugbinden, Fließpolsterbinden) ist daneben beihilfefähig.Darf nur bei Durchführung von solchen Therapieeinrichtungen als beihilfefähig anerkannt werden, die durch die gesetzlichen Krankenkassen oder Berufsgenossenschaften zur ambulanten Rehabilitation/erweiterten ambulanten Physiotherapie zugelassen sind.Aufwendungen für medizinische Fußpflege durch eine Podologin, einen Podologen, eine medizinische Fußpflegerin oder einen medizinischen Fußpfleger sind nur bei der Diagnose „Diabetisches Fußsyndrom“ beihilfefähig.
-
-### Anlage 10 (zu § 23 Absatz 1 und § 24 Absatz 1)Zugelassene Leistungserbringerinnen und Leistungserbringer für Heilmittel
-
-(Fundstelle: BGBl. I 2012, 2000)
-
-Das Heilmittel muss von einer der folgenden Personen erbracht werden und dem Berufsbild der Leistungserbringerin oder des Leistungserbringers entsprechen:
+Palliativversorgung
 
 1.  
-Beschäftigungs- und Arbeitstherapeutin oder Beschäftigungs- und Arbeitstherapeut,
+Aufwendungen für Palliativversorgung nach Abschnitt 1 Nummer 21 sind gesondert beihilfefähig, sofern sie nicht bereits von § 40 Absatz 1 umfasst sind.
 
 2.  
-Ergotherapeutin oder Ergotherapeut,
+Aufwendungen für Palliativversorgung werden als beihilfefähig anerkannt bei
+
+a)  
+passiven Bewegungsstörungen mit Verlust, Einschränkung und Instabilität funktioneller Bewegung im Bereich der Wirbelsäule, der Gelenke, der discoligamentären Strukturen,
+
+b)  
+aktiven Bewegungsstörungen bei Muskeldysbalancen oder ‑insuffizienz,
+
+c)  
+atrophischen und dystrophischen Muskelveränderungen,
+
+d)  
+spastischen Lähmungen (cerebral oder spinal bedingt),
+
+e)  
+schlaffen Lähmungen,
+
+f)  
+abnormen Bewegungen/Koordinationsstörungen bei Erkrankungen des zentralen Nervensystems,
+
+g)  
+Schmerzen bei strukturellen Veränderungen im Bereich der Bewegungsorgane,
+
+h)  
+funktionellen Störungen von Organsystemen (zum Beispiel Herz-Kreislauferkrankungen, Lungen-/Bronchialerkrankungen, Erkrankungen eines Schließmuskels oder der Beckenbodenmuskulatur),
+
+i)  
+unspezifischen schmerzhaften Bewegungsstörungen, Funktionsstörungen, auch bei allgemeiner Dekonditionierung.
 
 3.  
+Aufwendungen für physiotherapeutische Komplexbehandlung in der Palliativversorgung nach Abschnitt 1 Nummer 21 umfassen folgende Leistungen:
+
+a)  
+Behandlung einzelner oder mehrerer Körperteile entsprechend dem individuell erstellten Behandlungsplan,
+
+b)  
+Wahrnehmungsschulung,
+
+c)  
+Behandlung von Organfehlfunktionen (zum Beispiel Atemtherapie),
+
+d)  
+dosiertes Training (zum Beispiel Bewegungsübungen),
+
+e)  
+angepasstes, gerätegestütztes Training,
+
+f)  
+Anwendung entstauender Techniken,
+
+g)  
+Anwendung von Massagetechniken im Rahmen der lokalen Beeinflussung im Behandlungsgebiet als vorbereitende oder ergänzende Maßnahme der krankengymnastischen Behandlung,
+
+h)  
+ergänzende Beratung,
+
+i)  
+Begleitung in der letzten Lebensphase,
+
+j)  
+Anleitung oder Beratung der Bezugsperson,
+
+k)  
+Hilfsmittelversorgung,
+
+l)  
+interdisziplinäre Absprachen.
+
+### Anlage 10 (zu § 23 Absatz 1 und § 24 Absatz 1)Leistungserbringerinnen und Leistungserbringer für Heilmittel
+
+(Fundstelle: BGBl. I 2018, 1255)
+
+Die Beihilfefähigkeit setzt voraus, dass das Heilmittel in einem der folgenden Bereiche und von einer der folgenden Personen angewandt wird und dass die Anwendung dem Berufsbild der Leistungserbringerin oder des Leistungserbringers entspricht:
+
+1.  
+Bereich Inhalation, Krankengymnastik, Bewegungsübungen, Massagen, Palliativversorgung, Packungen, Hydrotherapie, Bäder, Kälte- und Wärmebehandlung, Elektrotherapie
+
+a)  
 Physiotherapeutin oder Physiotherapeut,
 
-4.  
+b)  
+Masseurin und medizinische Bademeisterin oder Masseur und medizinischer Bademeister,
+
+c)  
 Krankengymnastin oder Krankengymnast,
 
-5.  
+2.  
+Bereich Stimm-, Sprech- und Sprachtherapie
+
+a)  
 Logopädin oder Logopäde,
 
-6.  
-akademische Sprachtherapeutin oder akademischer Sprachtherapeut, die oder der über eine Zulassung der gesetzlichen Krankenkassen nach § 124 des Fünften Buches Sozialgesetzbuch verfügt,
+b)  
+staatlich anerkannte Sprachtherapeutin oder staatlich anerkannter Sprachtherapeut,
 
-7.  
+c)  
+staatlich geprüfte Atem-, Sprech- und Stimmlehrerin der Schule Schlaffhorst-Andersen oder staatlich geprüfter Atem-, Sprech- und Stimmlehrer der Schule Schlaffhorst-Andersen,
+
+d)  
+medizinische Sprachheilpädagogin oder medizinischer Sprachheilpädagoge,
+
+e)  
 klinische Linguistin oder klinischer Linguist,
 
-8.  
-Masseurin oder Masseur,
+f)  
+klinische Sprechwissenschaftlerin oder klinischer Sprechwissenschaftler,
 
-9.  
-medizinische Bademeisterin oder medizinischer Bademeister,
+g)  
+bei Kindern für sprachtherapeutische Leistungen bei Sprachentwicklungsstörungen, Stottern oder Poltern auch
 
-10.  
+aa)  
+Sprachheilpädagogin oder Sprachheilpädagoge,
+
+bb)  
+Diplomlehrerin für Sprachgeschädigte oder Sprachgestörte oder Diplomlehrer für Sprachgeschädigte oder Sprachgestörte,
+
+cc)  
+Diplomvorschulerzieherin für Sprachgeschädigte oder Sprachgestörte oder Diplomvorschulerzieher für Sprachgeschädigte oder Sprachgestörte,
+
+dd)  
+Diplomerzieherin für Sprachgeschädigte oder Sprachgestörte oder Diplomerzieher für Sprachgeschädigte oder Sprachgestörte,
+
+h)  
+Diplompatholinguistin oder Diplompatholinguist,
+
+3.  
+Bereich Ergotherapie (Beschäftigungstherapie)
+
+a)  
+Ergotherapeutin oder Ergotherapeut,
+
+b)  
+Beschäftigungs- und Arbeitstherapeutin oder Beschäftigungs- und Arbeitstherapeut,
+
+4.  
+Bereich Podologie
+
+a)  
 Podologin oder Podologe,
 
-11.  
-medizinische Fußpflegerin oder medizinischer Fußpfleger nach § 1 des Podologengesetzes.
+b)  
+medizinische Fußpflegerin oder medizinischer Fußpfleger nach § 1 des Podologengesetzes,
+
+5.  
+Bereich Ernährungstherapie
+
+a)  
+Diätassistentin oder Diätassistent,
+
+b)  
+Oecotrophologin oder Oecotrophologe,
+
+c)  
+Ernährungswissenschaftlerin oder Ernährungswissenschaftler.
 
 ### Anlage 11 (zu § 25 Absatz 1 und 4)Beihilfefähige Aufwendungen für Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke
 
@@ -6693,57 +7649,60 @@ Abduktionslagerungskeil
 Absauggerät (zum Beispiel bei Kehlkopferkrankung)
 
 1.3  
-Anpassungen für diverse Gebrauchsgegenstände (zum Beispiel Universalhalter für Schwerstbehinderte zur Erleichterung der Körperpflege und zur Nahrungsaufnahme)
+Adaptionshilfen
 
 1.4  
-Alarmgerät für Epileptikerinnen oder Epileptiker
+Anpassungen für diverse Gebrauchsgegenstände (zum Beispiel Universalhalter für Schwerstbehinderte zur Erleichterung der Körperpflege und zur Nahrungsaufnahme)
 
 1.5  
-Anatomische Brillenfassung
+Alarmgerät für Epileptikerinnen oder Epileptiker
 
 1.6  
-Anus-praeter-Versorgungsartikel
+Anatomische Brillenfassung
 
 1.7  
-Anzieh- oder Ausziehhilfen
+Anus-praeter-Versorgungsartikel
 
 1.8  
-Aquamat
+Anzieh- oder Ausziehhilfen
 
 1.9  
-Armmanschette
+Aquamat
 
 1.10  
-Armtragegurt oder -tuch
+Armmanschette
 
 1.11  
-Arthrodesensitzkissen oder -sitzkoffer
+Armtragegurt oder -tuch
 
 1.12  
-Atemtherapiegeräte
+Arthrodesensitzkissen oder -sitzkoffer
 
 1.13  
-Atomiseur (zur Medikamenten-Aufsprühung)
+Atemtherapiegeräte
 
 1.14  
-Auffahrrampen für einen Krankenfahrstuhl
+Atomiseur (zur Medikamenten-Aufsprühung)
 
 1.15  
-Aufrichteschlaufe
+Auffahrrampen für einen Krankenfahrstuhl
 
 1.16  
-Aufrichtstuhl (für Aufrichtfunktion sind bis zu 150 Euro beihilfefähig)
+Aufrichteschlaufe
 
 1.17  
-Aufstehgestelle
+Aufrichtstuhl (für Aufrichtfunktion sind bis zu 150 Euro beihilfefähig)
 
 1.18  
-Auftriebshilfe (bei Schwerstbehinderung)
+Aufstehgestelle
 
 1.19  
-Augenbadewanne, -dusche, -spülglas, -flasche, -pinsel, -pipette oder -stäbchen
+Auftriebshilfe (bei Schwerstbehinderung)
 
 1.20  
+Augenbadewanne, -dusche, -spülglas, -flasche, -pinsel, -pipette oder -stäbchen
+
+1.21  
 Augenschielklappe, auch als Folie
 
 2.1  
@@ -6804,9 +7763,12 @@ Bruchband
 Clavicula-Bandage
 
 3.2  
-Communicator (bei dysarthrischen Sprachstörungen)
+Cochlea-Implantate einschließlich Zubehör
 
 3.3  
+Communicator (bei dysarthrischen Sprachstörungen)
+
+3.4  
 Computerspezialausstattung für Behinderte; Spezialhardware und Spezialsoftware bis zu 3 500 Euro, gegebenenfalls zuzüglich bis zu 5 400 Euro für eine Braillezeile mit 40 Modulen
 
 4.1  
@@ -6879,21 +7841,24 @@ Genutrain-Aktiv-Kniebandage
 Gerät zur Behandlung mit elektromagnetischen Wechselfeldern bei atropher Pseudarthrose, Endoprothesenlockerung, idiopathischer Hüftnekrose oder verzögerter Knochenbruchheilung (in Verbindung mit einer sachgerechten chirurgischen Therapie)
 
 7.6  
-Gesichtsteilersatzstücke (Ektoprothese, Epithese)
+Gerät zur kontinuierlichen Gewebezuckermessung (Continuous Glucose Monitoring – CGM, Flash Glucose Monitoring – FGM) einschließlich Sensoren bei Personen mit einem insulinpflichtigen Diabetes mellitus; daneben sind Aufwendungen für übliche Blutzuckermessgeräte einschließlich der erforderlichen Blutteststreifen beihilfefähig
 
 7.7  
-Gilchrist-Bandage
+Gesichtsteilersatzstücke (Ektoprothese, Epithese)
 
 7.8  
-Gipsbett, Liegeschale
+Gilchrist-Bandage
 
 7.9  
-Glasstäbchen
+Gipsbett, Liegeschale
 
 7.10  
-Gummihose bei Blasen- oder Darminkontinenz
+Glasstäbchen
 
 7.11  
+Gummihose bei Blasen- oder Darminkontinenz
+
+7.12  
 Gummistrümpfe
 
 8.1  
@@ -6918,7 +7883,7 @@ Herz-Atmungs-Überwachungsgerät oder -monitor
 Hochtontherapiegerät
 
 8.8  
-Hörgeräte (Hinter-dem-Ohr-Geräte \[HdO-Geräte\], Taschengeräte, Hörbrillen, Schallsignale überleitende Geräte \[C.R.O.S.-Geräte, Contralateral Routing of Signals\], drahtlose Hörhilfen, Otoplastik, In-dem-Ohr-Geräte \[IdO-Geräte\], schallaufnehmende Geräte bei teilimplantiertem Knochenleitungs-Hörsystem), alle fünf Jahre einschließlich der Nebenkosten, es sei denn, aus medizinischen oder technischen Gründen ist eine vorzeitige Verordnung zwingend erforderlich; Aufwendungen sind für Personen ab 15 Jahren auf 1 500 Euro je Ohr begrenzt, gegebenenfalls zuzüglich der Aufwendungen für eine medizinisch indizierte notwendige Fernbedienung; der Höchstbetrag kann überschritten werden, soweit dies erforderlich ist, um eine ausreichende Versorgung bei beidseitiger an Taubheit grenzender Schwerhörigkeit oder bei vergleichbar schwerwiegenden Sachverhalten zu gewährleisten
+Hörgeräte (Hinter-dem-Ohr-Geräte \[HdO-Geräte\], Taschengeräte, Hörbrillen, Schallsignale überleitende Geräte \[C.R.O.S.-Geräte, Contralateral Routing of Signals\], drahtlose Hörhilfen, Otoplastik, In-dem-Ohr-Geräte \[IdO-Geräte\]), alle fünf Jahre einschließlich der Nebenkosten, es sei denn, aus medizinischen oder technischen Gründen ist eine vorzeitige Verordnung zwingend erforderlich; Aufwendungen sind für Personen ab 15 Jahren auf 1 500 Euro je Ohr begrenzt, gegebenenfalls zuzüglich der Aufwendungen für eine medizinisch indizierte notwendige Fernbedienung; der Höchstbetrag kann überschritten werden, soweit dies erforderlich ist, um eine ausreichende Versorgung bei beidseitiger an Taubheit grenzender Schwerhörigkeit oder bei vergleichbar schwerwiegenden Sachverhalten zu gewährleisten
 
 9.1  
 Impulsvibrator
@@ -7086,9 +8051,6 @@ Orthese, Orthoprothese, Korrekturschienen, Korsetts und Ähnliches, auch Haltema
 Orthesenschuhe, abzüglich eines Eigenanteils von 64 Euro
 
 15.3  
-Orthonyxie-Nagelkorrekturspange einschließlich der Anpassungen
-
-15.4  
 Orthopädische Zurichtungen an Konfektionsschuhen (höchstens sechs Paar Schuhe pro Jahr)
 
 16.1  
@@ -7116,18 +8078,21 @@ Psoriasiskamm
 Quengelschiene
 
 18.1  
-Reflektometer
+Rauchwarnmelder für Gehörlose und hochgradig Schwerhörige
 
 18.2  
-Rektophor
+Reflektometer
 
 18.3  
-Rollator
+Rektophor
 
 18.4  
-Rollbrett
+Rollator
 
 18.5  
+Rollbrett
+
+18.6  
 Rutschbrett
 
 19.1  
@@ -7212,15 +8177,18 @@ Talocrur (Sprunggelenkmanschette nach Dr. Grisar)
 Therapeutische Bewegungsgeräte (nur mit Spasmenschaltung)
 
 20.3  
-Tinnitusgerät
+Therapiestuhl
 
 20.4  
-Toilettenhilfen bei Schwerbehinderten
+Tinnitusgerät
 
 20.5  
-Tracheostomaversorgungsartikel, auch Wasserschutzgerät (Larchel)
+Toilettenhilfen bei Schwerbehinderten
 
 20.6  
+Tracheostomaversorgungsartikel, auch Wasserschutzgerät (Larchel)
+
+20.7  
 Tragegurtsitz
 
 21.1  
@@ -7332,18 +8300,30 @@ Allgemeine Bestimmungen der Beihilfefähigkeit von Sehhilfen
 Sehhilfen zur Verbesserung des Visus sind beihilfefähig
 
 a)  
-für Personen, die das 18. Lebensjahr noch nicht vollendet haben,
+für Personen, die das 18. Lebensjahr noch nicht vollendet haben;
 
 b)  
-für Personen, die das 18. Lebensjahr vollendet haben, wenn beide Augen auf Grund der Sehschwäche oder Blindheit eine schwere Sehbeeinträchtigung aufweisen, die mindestens der Stufe 1 der von der Weltgesundheitsorganisation empfohlenen Klassifikation des Grades der Sehbeeinträchtigung entspricht. Eine schwere Sehbeeinträchtigung liegt unter anderem vor, wenn
+für Personen, die das 18. Lebensjahr vollendet haben, wenn beide Augen auf Grund der Sehschwäche oder Blindheit eine schwere Sehbeeinträchtigung aufweisen, die mindestens der Stufe 1 der von der Weltgesundheitsorganisation empfohlenen Klassifikationen des Grades der Sehbeeinträchtigung entspricht; eine schwere Sehbeeinträchtigung liegt unter anderem vor, wenn
 
 aa)  
-der Visus bei bestmöglicher Korrektur mit einer Brille oder mit möglichen Kontaktlinsen auf dem besseren Auge ≤ 0,3 beträgt oder
+der Visus bei bestmöglicher Korrektur mit einer Brille oder mit Kontaktlinsen auf dem besseren Auge nicht mehr als 0,3 beträgt oder
 
 bb)  
-das beidäugige Gesichtsfeld bei zentraler Fixation ≤ 10 Grad ist.
+das beidäugige Gesichtsfeld bei zentraler Fixation nicht mehr als 10 Grad ist;
 
-Der Visus ist mit bester Korrektur mit Brillengläsern oder Kontaktlinsen zu bestimmen.
+c)  
+für Personen, die das 18. Lebensjahr vollendet haben, bei einem Korrekturausgleich für einen Refraktionsfehler bei
+
+aa)  
+Myopie von mehr als 6 dpt,
+
+bb)  
+Hyperopie von mehr als 6 dpt,
+
+cc)  
+Astigmatismus von mehr als 4 dpt.
+
+Liegt ein Refraktionsfehler nach Satz 1 Buchstabe c nur bei einem Auge vor, sind die Aufwendungen für das Brillenglas oder die Kontaktlinse auch für das andere Auge beihilfefähig.
 
 2.  
 Voraussetzung für die Beihilfefähigkeit der Aufwendungen für die erstmalige Beschaffung einer Sehhilfe ist, dass diese von einer Augenärztin oder einem Augenarzt verordnet worden ist. Bei der Ersatzbeschaffung genügt die Refraktionsbestimmung von einer Augenoptikerin oder einem Augenoptiker; die Aufwendungen hierfür sind bis zu 13 Euro beihilfefähig.
@@ -7626,7 +8606,7 @@ Vergrößernde Sehhilfen zur Verbesserung der Sehschärfe
 Aufwendungen für folgende ärztlich verordnete vergrößernde Sehhilfen sind beihilfefähig:
 
 a)  
-optisch vergrößernde Sehhilfen für die Nähe bei einem mindestens 1,5-fachen Vergrößerungsbedarf vorrangig als Hellfeldlupe, Hand- und Standlupe, gegebenenfalls mit Beleuchtung, oder Brillengläser mit Lupenwirkung (Lupengläser); in begründeten Einzelfällen als Fernrohrlupenbrillensystem (zum Beispiel nach Galilei, Kepler) einschließlich der Systemträger,
+optisch vergrößernde Sehhilfen für die Nähe bei einem mindestens 1,5-fachen Vergrößerungsbedarf vorrangig als Hellfeldlupe, Hand- und Standlupe, gegebenenfalls mit Beleuchtung, oder Brillengläser mit Lupenwirkung (Lupengläser); in Ausnahmefällen als Fernrohrlupenbrillensystem (zum Beispiel nach Galilei, Kepler) einschließlich der Systemträger,
 
 b)  
 elektronisch vergrößernde Sehhilfen für die Nähe als mobile oder nicht mobile Systeme bei einem mindestens 6-fachen Vergrößerungsbedarf,
@@ -7798,7 +8778,8 @@ Okklusionslinsen und -schalen als Amblyopietherapeutikum.
 
 ### Anlage 12 (zu § 25 Absatz 1, 2 und 4)Nicht beihilfefähige Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle
 
-(Fundstelle: BGBl. I 2012, 2010 - 2012)
+(Fundstelle: BGBl. I 2012, 2010 - 2012;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Nicht zu den beihilfefähigen Hilfsmitteln gehören Gegenstände, die weder notwendig noch wirtschaftlich angemessen (§ 6 Absatz 1) sind, die einen geringen oder umstrittenen therapeutischen Nutzen oder einen geringen Abgabepreis haben (§ 25 Absatz 2) oder die zur allgemeinen Lebenshaltung gehören. Nicht beihilfefähig sind insbesondere folgende Gegenstände:
 
@@ -7809,7 +8790,7 @@ Adju-Set/-Sano
 Angorawäsche
 
 1.3  
-Anti-Allergene-Matrazen, Matrazenbezüge und Bettbezüge
+*Anti-Allergene-Matrazen, Matrazenbezüge* und Bettbezüge
 
 1.4  
 Aqua-Therapie-Hose
@@ -7914,18 +8895,12 @@ Ergometer
 Ess- und Trinkhilfen
 
 5.12  
-Exoskelette
-
-5.13  
 Expander
 
 6.1  
-Farberkennungsgerät
-
-6.2  
 Fieberthermometer
 
-6.3  
+6.2  
 Fußgymnastik-Rolle, Fußwippe (zum Beispiel Venentrainer)
 
 7.1  
@@ -8040,7 +9015,7 @@ Munddusche
 Nackenheizkissen
 
 14.2  
-Nagelspange
+(weggefallen)
 
 15.1  
 Öldispersionsapparat
@@ -8124,9 +9099,6 @@ Treppenlift, Monolift, Plattformlift
 Ultraschalltherapiegeräte
 
 21.3  
-Umweltkontrollgerät
-
-21.4  
 Urin-Prüfgerät
 
 22.1  
@@ -8155,46 +9127,4848 @@ Zweirad für Behinderte.
 
 ### Anlage 13 (zu § 41 Absatz 1 Satz 3)Nach § 41 Absatz 1 Satz 3 beihilfefähige Früherkennungsuntersuchungen, Vorsorgemaßnahmen und Schutzimpfungen
 
-(Fundstelle: BGBl. I 2015, 885)
+(Fundstelle: BGBl. I 2015, 885;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-|       |                                                                                                                          |
-|-------|--------------------------------------------------------------------------------------------------------------------------|
-| 1     | Früherkennungsuntersuchungen und Vorsorgemaßnahmen                                                                       |
-| 1.1   | Telemedizinische Betreuung (Telemonitoring) bei chronischer Herzinsuffizienz                                             |
-| 1.2   | Früherkennungsuntersuchungen                                                                                             |
-| 1.2.1 | U 10 bei Personen, die das siebte, aber noch nicht das neunte Lebensjahr vollendet haben                                 |
-| 1.2.2 | U 11 bei Personen, die das neunte, aber noch nicht das elfte Lebensjahr vollendet haben                                  |
-| 1.2.3 | J 2 bei Personen, die das 16., aber noch nicht das 18. Lebensjahr vollendet haben                                        |
-| 2     | Schutzimpfungen                                                                                                          |
-| 2.1   | Frühsommer-Meningoenzephalitis-(FSME-)Schutzimpfungen ohne Einschränkungen                                               |
-| 2.2   | Grippeschutzimpfungen ohne Einschränkungen                                                                               |
-| 2.3   | Impfung gegen Humane Papillomviren (HPV) für Mädchen, die das neunte, aber noch nicht das 18. Lebensjahr vollendet haben |
+|       |                                                                                                                                                               |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Früherkennungsuntersuchungen und Vorsorgemaßnahmen                                                                                                            |
+| 1.1   | Telemedizinische Betreuung (Telemonitoring) bei chronischer Herzinsuffizienz                                                                                  |
+| 1.2   | Früherkennungsuntersuchungen                                                                                                                                  |
+| 1.2.1 | U 10 bei Personen, die das siebte, aber noch nicht das neunte Lebensjahr vollendet haben                                                                      |
+| 1.2.2 | U 11 bei Personen, die das neunte, aber noch nicht das elfte Lebensjahr vollendet haben                                                                       |
+| 1.2.3 | J 2 bei Personen, die das 16., aber noch nicht das 18. Lebensjahr vollendet haben                                                                             |
+| 1.2.4 | Einmaliges Screening auf Bauchaortenaneurysmen für männliche beihilfeberechtigte und berücksichtigungsfähige Personen, die das 65. Lebensjahr vollendet haben |
+| 2     | Schutzimpfungen                                                                                                                                               |
+| 2.1   | Frühsommer-Meningoenzephalitis-(FSME-)Schutzimpfungen ohne Einschränkungen                                                                                    |
+| 2.2   | Grippeschutzimpfungen ohne Einschränkungen                                                                                                                    |
+| 2.3   | Impfung gegen Humane Papillomviren (HPV) für Mädchen, die das neunte, aber noch nicht das 18. Lebensjahr vollendet haben                                      |
 
 ### Anlage 14 (zu § 41 Absatz 3)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko
 
-(Fundstelle: BGBl. I 2014, 1202 - 1203)
+(Fundstelle: BGBl. I 2018, 1256 - 1257)
 
-Aufwendungen für den Gentest bei erblich belasteten Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko setzen sich aus den Aufwendungen für
+Aufwendungen für die Teilnahme am Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko setzen sich aus den Aufwendungen für
 
 1.  
-die Risikofeststellung und die interdisziplinäre Beratung,
+Risikofeststellung und interdisziplinäre Beratung,
 
 2.  
-die Genanalyse sowie
+genetische Analyse,
 
 3.  
-die Teilnahme an einem strukturierten Früherkennungsprogramm
+Teilnahme an einem Strukturierten Früherkennungsprogramm
 
-zusammen und sind mit den nachstehenden Pauschalen beihilfefähig, wenn diese Untersuchungen in den in Nummer 4 aufgeführten Zentren durchgeführt wurden.
+zusammen und sind mit den nachstehenden Pauschalen beihilfefähig, wenn diese Untersuchungen in einer in Nummer 4 aufgeführten Klinik durchgeführt werden.
 
-**1.**  
-**Risikofeststellung und interdisziplinäre Beratung**Pro Familie sind die Aufwendungen für eine einmalige Risikofeststellung mit interdisziplinärer Erstberatung, Stammbaumerfassung und Mitteilung des Genbefundes pauschal in Höhe von **900 Euro** beihilfefähig. Die Pauschale beinhaltet auch die Beratung weiterer Familienmitglieder.
+1.  
+Risikofeststellung und interdisziplinäre BeratungPro Familie sind die Aufwendungen für eine einmalige Risikofeststellung mit interdisziplinärer Erstberatung, Stammbaumerfassung und Mitteilung des Genbefundes pauschal in Höhe von 900 Euro beihilfefähig. Die Pauschale beinhaltet auch die Beratung weiterer Familienmitglieder.
 
-**2.**  
-**Genanalyse**Aufwendungen für eine Genanalyse bei einer an Brust- oder Eierstockkrebs erkrankten Person (Indexfall) sind pauschal in Höhe von **5 900 Euro** beihilfefähig. Wird eine ratsuchende gesunde Person nur hinsichtlich der mutierten Gensequenz untersucht, sind die Aufwendungen in Höhe von **360 Euro** beihilfefähig.Die Genanalyse wird bei den Indexfällen durchgeführt. Dabei handelt es sich in der Regel um einen diagnostischen Gentest, dessen Kosten der erkrankten Person zugerechnet werden. Dagegen werden die Kosten einer sich als prädiktiver Gentest darstellenden Genanalyse der Indexperson der gesunden ratsuchenden Person zugerechnet. Ein prädiktiver Gentest liegt vor, wenn sich aus dem Test keine Therapieoptionen für die Indexperson mehr ableiten lassen, die Genanalyse also keinen diagnostischen Charakter hat. Eine solche Situation ist gesondert durch eine schriftliche ärztliche Stellungnahme zu attestieren.
+2.  
+Genetische AnalyseAufwendungen für eine genetische Analyse bei einer an Brust- oder Eierstockkrebs erkrankten Person (Indexfall) sind pauschal in Höhe von 4 500 Euro beihilfefähig. Wird eine ratsuchende gesunde Person nur hinsichtlich der mutierten Gensequenz untersucht, sind die Aufwendungen in Höhe von 250 Euro beihilfefähig.Die genetische Analyse wird bei den Indexfällen durchgeführt. Dabei handelt es sich in der Regel um einen diagnostischen Gentest, dessen Kosten der erkrankten Person zugerechnet werden. Dagegen werden die Kosten einer sich als prädiktiver Gentest darstellenden genetischen Analyse der Indexperson der gesunden ratsuchenden Person zugerechnet. Ein prädiktiver Gentest liegt vor, wenn sich aus dem Test keine Therapieoptionen für die Indexperson mehr ableiten lassen, die genetische Analyse also keinen diagnostischen Charakter hat. Eine solche Situation ist gesondert durch eine schriftliche ärztliche Stellungnahme zu attestieren.
 
-**3.**  
-**Strukturiertes Früherkennungsprogramm**Aufwendungen für die Teilnahme an einem strukturierten Früherkennungsprogramm sind einmal jährlich in Höhe von pauschal **580 Euro** beihilfefähig.
+3.  
+Teilnahme an einem Strukturierten FrüherkennungsprogrammAufwendungen für die Teilnahme an einem strukturierten Früherkennungsprogramm sind einmal jährlich in Höhe von pauschal 580 Euro beihilfefähig.
 
-**4.**  
-**Zentren für familiären Brust- oder EierstockkrebsBerlin**Charité-Universitätsmedizin Berlin, Brustzentrum**Dresden**Technische Universität Dresden, Universitätsklinikum Carl Gustav Carus, Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe**Düsseldorf**Universitätsklinikum Düsseldorf, Frauenklinik, Brustzentrum**Göttingen**Universitäts-Medizin Göttingen, Brustzentrum, Gynäkologisches Krebszentrum**Hannover**Medizinische Hochschule Hannover, Institut für Zell- und Molekularpathologie**Heidelberg**Universität Heidelberg, Institut für Humangenetik**Kiel**Universitätsfrauenklinik Kiel**Köln/Bonn**Universität zu Köln, Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe, Zentrum für Familiären Brust- und Eierstockkrebs**Leipzig**Universität Leipzig, Institut für Humangenetik, Zentrum für Familiären Brust- und Eierstockkrebs**München**Technische Universität München, Klinikum rechts der Isar, Klinik für FrauenheilkundeLudwig-Maximilians-Universität München, Klinik für Frauenheilkunde**Münster**Universität Münster, Institut für Humangenetik**Regensburg**Universität Regensburg, Institut für Humangenetik**Tübingen**Universität Tübingen, Institut für Humangenetik**Ulm**Universität Ulm, Klinik für Frauenheilkunde und Geburtshilfe**Würzburg**Frauenklinik der Universität Würzburg, Abteilung für Medizinische Genetik im Institut für Humangenetik, Zentrum für Familiären Brust- und Eierstockkrebs
+4.  
+Im Deutschen Konsortium Familiärer Brust- und Eierstockkrebs zusammengeschlossene universitäre Zentren
+
+a)  
+BerlinCharité – Universitätszentrum Berlin, Brustzentrum
+
+b)  
+DresdenMedizinische Fakultät der Technischen Universität DresdenKlinik und Poliklinik für Frauenheilkunde und Geburtshilfe
+
+c)  
+DüsseldorfUniversitätsklinikum Düsseldorf, Frauenklinik, Brustzentrum
+
+d)  
+FrankfurtUniversitätsklinikum FrankfurtKlinik für Frauenheilkunde und Geburtshilfe
+
+e)  
+GöttingenUniversitäts-Medizin Göttingen, Brustzentrum, Gynäkologisches Krebszentrum
+
+f)  
+GreifswaldInstitut für Humangenetik der Universitätsmedizin Greifswald
+
+g)  
+HamburgBrustzentrum Klinik und Poliklinik für GynäkologieUniversitätsklinikum Hamburg-Eppendorf
+
+h)  
+HannoverInstitut für Humangenetik, Medizinische Hochschule Hannover
+
+i)  
+HeidelbergInstitut für Humangenetik der Universität Heidelberg
+
+j)  
+KielKlinik für Gynäkologie und Geburtshilfe des Universitätsklinikums Schleswig-Holstein
+
+k)  
+KölnZentrum Familiärer Brust- und Eierstockkrebs
+
+l)  
+LeipzigInstitut für Humangenetik der Universität LeipzigZentrum für familiären Brust- und Eierstockkrebs
+
+m)  
+MünchenUniversitätsfrauenklinik der Ludwig-Maximilians-Universität München-GroßhadernUniversitätsfrauenklinik der Technischen Universität München am Klinikum rechts der Isar
+
+n)  
+MünsterInstitut für Humangenetik der Universität Münster
+
+o)  
+RegensburgInstitut für Humangenetik, Universität Regensburg
+
+p)  
+TübingenUniversität Tübingen, Institut für Humangenetik
+
+q)  
+UlmFrauenklinik und Poliklinik der Universität Ulm
+
+r)  
+WürzburgInstitut für Humangenetik der Universität Würzburg
+
+### Anlage 14a (zu § 41a Absatz 4)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko
+
+(Fundstelle: BGBl. I 2018, 1258 — 1259)
+
+Aufwendungen für die Teilnahme am Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko setzen sich aus den Aufwendungen für
+
+1.  
+Risikofeststellung und interdisziplinäre Beratung,
+
+2.  
+Tumorgewebsdiagnostik,
+
+3.  
+genetische Analyse (Untersuchung auf Keimbahnmutation)
+
+zusammen und sind in Höhe der nachstehenden Pauschalen beihilfefähig, wenn diese Untersuchungen in einer in Nummer 4 aufgeführten Klinik durchgeführt werden.
+
+1.  
+Risikofeststellung und interdisziplinäre BeratungUnter der Voraussetzung, dass die revidierten Bethesda-Kriterien in der Familie der ratsuchenden Person erfüllt sind, sind die Aufwendungen für die erstmalige Risikofeststellung und interdisziplinäre Beratung einschließlich Erhebung des Familienbefundes und Organisation der diagnostischen Abklärung einmalig in Höhe von 600 Euro beihilfefähig. Aufwendungen für jede weitere Beratung einer Person, in deren Familie bereits das Lynch-Syndrom bekannt ist, sind in Höhe von 300 Euro beihilfefähig.
+
+2.  
+TumorgewebsdiagnostikAufwendungen für die immunhistochemische Untersuchung am Tumorgewebe hinsichtlich der Expression der Mismatch-Reparatur-Gene MLH1, MSH2, MSH6 und PMS sowie gegebenenfalls die Mikrosatellitenanalyse und Testung auf somatische Mutationen im Tumorgewebe sind in Höhe von 500 Euro beihilfefähig. Ist die Analyse des Tumorgewebes negativ und das Ergebnis eindeutig, sind Aufwendungen für weitere Untersuchungen auf eine Mutation nicht beihilfefähig.
+
+3.  
+Genetische Analyse (Untersuchung auf Keimbahnmutation)Aufwendungen für eine genetische Analyse bei einem Indexfall sind in Höhe von 3 500 Euro beihilfefähig, wenn die Einschlusskriterien und möglichst eine abgeschlossene Tumorgewebsdiagnostik, die auf das Vorliegen einer MMR-Mutation hinweist, vorliegen. Aufwendungen für die prädiktive oder diagnostische Testung weiterer Personen auf eine in der Familie bekannte Genmutation sind in Höhe von 350 Euro beihilfefähig.
+
+4.  
+Kliniken des Deutschen HNPCC-Konsortiums
+
+a)  
+BochumRuhr-Universität BochumKnappschaftskrankenhaus, Medizinische Universitätsklinik
+
+b)  
+BonnInstitut für Humangenetik, Biomedizinisches Zentrum
+
+c)  
+DresdenAbteilung Chirurgische Forschung, Universitätsklinikum Carl Gustav Carus
+
+d)  
+DüsseldorfInstitut für Humangenetik und Anthropologie, Universitätsklinikum Düsseldorf
+
+e)  
+HannoverMedizinische Hochschule
+
+f)  
+HeidelbergAbteilung für Angewandte Tumorbiologie, Pathologisches Institut des Universitätsklinikums Heidelberg
+
+g)  
+KölnUniversitätsklinikum Köln
+
+h)  
+LeipzigUniversität Leipzig
+
+i)  
+LübeckKlinik für Chirurgie, Universität zu Lübeck und Universitätsklinikum Schleswig-Holstein, Campus Lübeck
+
+j)  
+MünchenMedizinische Klinik, Ludwig-Maximilians-UniversitätMedizinisch-Genetisches Zentrum
+
+k)  
+MünsterUniversitätsklinikum Münster
+
+l)  
+TübingenUniversität Tübingen
+
+m)  
+UlmUniversitätsklinikum Ulm
+
+n)  
+WuppertalHELIOS Universitätsklinikum Wuppertal
+
+### Anlage 15 (zu § 35 Absatz 1 Satz 1 Nummer 4)Heilbäder- und Kurorteverzeichnis
+
+(Fundstelle: BGBl. I 2016, 2425 – 2445;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+Abschnitt 1
+Heilbäder und Kurorte im Inland
+
+Name ohne „Bad“
+
+PLZ
+
+Gemeinde
+
+Anerkennung als Heilbad oder
+Kurort ist erteilt für:
+(Ortsteile, sofern nicht B, G, K)
+
+Artbezeichnung
+
+**A**
+
+Aachen
+
+52066
+
+Aachen
+
+Burtscheid
+
+Heilbad
+
+52062
+
+Aachen
+
+Monheimsallee
+
+Heilbad
+
+Aalen
+
+73433
+
+Aalen
+
+Röthardt
+
+Heilklimatischer
+Kurort
+
+Abbach
+
+93077
+
+Bad Abbach
+
+Bad Abbach, Abbach-Schlossberg, Au, Kalkofen, Weichs
+
+Heilbad
+
+Ahlbeck
+
+17419
+
+Ahlbeck
+
+G
+
+Ostseeheilbad
+
+Ahrenshoop
+
+18347
+
+Ostseebad
+Ahrenshoop
+
+G
+
+Seebad
+
+Aibling
+
+83043
+
+Bad Aibling
+
+Bad Aibling, Harthausen, Thürham, Zell
+
+Heilbad
+
+Alexandersbad
+
+95680
+
+Bad Alexandersbad
+
+G
+
+Heilbad
+
+Altenau
+
+38707
+
+Altenau
+
+G
+
+Heilklimatischer
+Kurort
+
+Altenberg
+
+01773
+
+Altenberg
+
+Altenberg
+
+Kneippkurort
+
+Andernach
+
+56626
+
+Andernach
+
+Bad Tönisstein
+
+Heilbad
+
+Arolsen
+
+34454
+
+Bad Arolsen
+
+K
+
+Heilbad
+
+Aulendorf
+
+88326
+
+Aulendorf
+
+Aulendorf
+
+Kneippkurort
+
+**B**
+
+Baden-Baden
+
+76530
+
+Baden-Baden
+
+Baden-Baden, Balg, Lichtental, Oos
+
+Heilbad
+
+Badenweiler
+
+79410
+
+Badenweiler
+
+Badenweiler
+
+Heilbad
+
+Baiersbronn
+
+72270
+
+Baiersbronn
+
+Schönmünzach-Schwarzenberg
+
+Kneippkurort
+
+Obertal
+
+Heilklimatischer
+Kurort
+
+Balge
+
+31609
+
+Balge
+
+B – Bad Blenhorst
+
+Ort mit Moor-
+Kurbetrieb
+
+Baltrum
+
+26579
+
+Baltrum
+
+G
+
+Nordseeheilbad
+
+Bansin
+
+17429
+
+Bansin
+
+G
+
+Ostseeheilbad
+
+Bayersoien
+
+82435
+
+Bad Bayersoien
+
+Bad Bayersoien
+
+Heilbad
+
+Bayreuth
+
+95410
+
+Bayreuth
+
+B – Lohengrin Therme Bayreuth
+
+Heilquellenkurbetrieb
+
+Bayrischzell
+
+83735
+
+Bayrischzell
+
+G
+
+Heilklimatischer
+Kurort
+
+Bederkesa
+
+27624
+
+Bad Bederkesa
+
+G
+
+Ort mit Moor-
+Kurbetrieb
+
+Bellingen
+
+79415
+
+Bad Bellingen
+
+Bad Bellingen
+
+(Mineral-)Heilbad
+
+Belzig
+
+14806
+
+Bad Belzig
+
+Bad Belzig
+
+Heilbad
+
+Bentheim
+
+48455
+
+Bad Bentheim
+
+Bad Bentheim
+
+(Mineral-)Heilbad
+
+Berchtesgaden
+
+83471
+
+Berchtesgaden
+
+G
+
+Heilklimatischer
+Kurort
+
+Berggießhübel
+
+01819
+
+Bad Gottleuba- Berggießhübel
+
+Berggießhübel
+
+Kneippkurort
+
+Bergzabern
+
+76887
+
+Bad Bergzabern
+
+Bad Bergzabern
+
+Kneippheilbad u. heilklimatischer
+Kurort
+
+Berka
+
+99438
+
+Bad Berka
+
+G
+
+Ort mit Heilquellenkurbetrieb
+
+Berleburg
+
+57319
+
+Bad Berleburg
+
+Bad Berleburg
+
+Kneippheilbad
+
+Berneck
+
+95460
+
+Bad Berneck
+
+Bad Berneck im Fichtelgebirge
+
+Kneippheilbad
+
+Frankenhammer, Kutschenrangen, Rödlasberg, Warmeleithen
+
+Bernkastel-Kues
+
+54470
+
+Bernkastel-Kues
+
+Kueser Plateau
+
+Heilklimatischer
+Kurort
+
+Bertrich
+
+56864
+
+Bad Bertrich
+
+Bad Bertrich
+
+Heilbad
+
+Beuren
+
+72660
+
+Beuren
+
+G
+
+Ort mit Heilquellenkurbetrieb
+
+Bevensen
+
+29549
+
+Bad Bevensen
+
+Bad Bevensen
+
+(Jod- u. Sole-)Heilbad
+
+Biberach
+
+88400
+
+Biberach
+
+Jordanbad
+
+Kneippkurort
+
+Binz
+
+18609
+
+Ostseebad
+Binz auf Rügen
+
+G
+
+Seebad
+
+Birnbach
+
+84364
+
+Birnbach
+
+Birnbach, Aunham
+
+Heilquellenkurbetrieb
+
+Bischofsgrün
+
+95493
+
+Bischofsgrün
+
+G
+
+Heilklimatischer
+Kurort
+
+Bischofswiesen
+
+83483
+
+Bischofswiesen
+
+G
+
+Heilklimatischer
+Kurort
+
+Blankenburg, Harz
+
+38889
+
+Blankenburg, Harz
+
+G
+
+Heilbad
+
+Blieskastel
+
+66440
+
+Blieskastel
+
+Mitte (Alschbach, Blieskastel, Lautzkirchen)
+
+Kneippkurort
+
+Bocklet
+
+97708
+
+Bad Bocklet
+
+G
+
+Heilbad
+
+Bodenmais
+
+94249
+
+Bodenmais
+
+G
+
+Heilklimatischer
+Kurort
+
+Bodenteich
+
+29389
+
+Bodenteich
+
+G
+
+Kneippkurort
+
+Boll
+
+73087
+
+Bad Boll
+
+Bad Boll
+
+Ort mit Heilquellenkurbetrieb
+
+Boltenhagen
+
+23946
+
+Ostseebad
+Boltenhagen
+
+G
+
+Ostseeheilbad
+
+Boppard
+
+56154
+
+Boppard
+
+a)  
+Boppard
+
+Kneippheilbad
+
+b)  
+Bad Salzig
+
+Heilbad
+
+Borkum
+
+26757
+
+Borkum
+
+G
+
+Nordseeheilbad
+
+Brambach
+
+08648
+
+Bad Brambach
+
+Bad Brambach
+
+(Mineral-)Heilbad
+
+Bramstedt
+
+24576
+
+Bad Bramstedt
+
+Bad Bramstedt
+
+(Moor-)Heilbad
+
+Braunlage
+
+38700
+
+Braunlage
+
+G mit Hohegeiß
+
+Heilklimatischer
+Kurort
+
+Breisig
+
+53498
+
+Bad Breisig
+
+Bad Breisig
+
+Heilbad
+
+Brilon
+
+59929
+
+Brilon
+
+Brilon
+
+Kneippkurort
+
+Brückenau
+
+97769
+
+Bad Brückenau
+
+G – sowie Gemeindeteil Eckarts des Marktes Zeitlofs
+
+Heilbad
+
+Buchau
+
+88422
+
+Bad Buchau
+
+Bad Buchau
+
+(Moor- u. Mineral-)Heilbad
+
+Buckow
+
+15377
+
+Buckow
+
+G – ausgenommen der Ortsteil Hasenholz
+
+Kneippkurort
+
+Bünde
+
+32257
+
+Bünde
+
+Randringhausen
+
+Kurmittelgebiet
+(Heilquelle u. Moor)
+
+Büsum
+
+25761
+
+Büsum
+
+Büsum
+
+Nordseeheilbad
+
+Burg
+
+03096
+
+Burg
+
+Burg
+
+Ort mit Heilquellenkurbetrieb
+
+Burgbrohl
+
+56659
+
+Burgbrohl
+
+Bad Tönisstein
+
+Heilbad
+
+Burg/Fehmarn
+
+23769
+
+Burg/Fehmarn
+
+Burg
+
+Ostseeheilbad
+
+**C**
+
+Camberg
+
+65520
+
+Bad Camberg
+
+K
+
+Kneippheilbad
+
+Clausthal-
+Zellerfeld
+
+38678
+
+Clausthal-
+Zellerfeld
+
+Clausthal-Zellerfeld
+
+Heilklimatischer
+Kurort
+
+Colberg-
+Heldburg
+
+98663
+
+Bad Colberg-
+Heldburg
+
+Bad Colberg
+
+Ort mit Heilquellen-Kurbetrieb
+
+Cuxhaven
+
+27478
+
+Cuxhaven
+
+G
+
+Nordseeheilbad
+
+**D**
+
+Dahme
+
+23747
+
+Dahme
+
+Dahme
+
+Ostseeheilbad
+
+Damp
+
+24351
+
+Damp
+
+Damp 2000
+
+Ostseeheilbad
+
+Daun
+
+54550
+
+Daun
+
+Daun
+
+Kneippkurort u. heilklimatischer Kurort
+
+Detmold
+
+32760
+
+Detmold
+
+Hiddesen
+
+Kneippkurort
+
+Diez
+
+65582
+
+Diez
+
+Diez
+
+Heilbad
+
+Ditzenbach
+
+73342
+
+Bad Ditzenbach
+
+Bad Ditzenbach
+
+Heilbad
+
+Dobel
+
+75335
+
+Dobel
+
+G
+
+Heilklimatischer
+Kurort
+
+Doberan
+
+18209
+
+Bad Doberan
+
+a)  
+Bad Doberan
+
+(Moor-)Heilbad
+
+b)  
+Heiligendamm
+
+Seeheilbad
+
+Driburg
+
+33014
+
+Bad Driburg
+
+Bad Driburg, Hermannsborn
+
+Heilbad
+
+Düben
+
+04849
+
+Bad Düben
+
+Bad Düben
+
+(Moor-)Heilbad
+
+Dürkheim
+
+65098
+
+Bad Dürkheim
+
+Bad Dürkheim
+
+Heilbad
+
+Dürrheim
+
+78073
+
+Bad Dürrheim
+
+Bad Dürrheim
+
+(Sole-)Heilbad, Heilklimatischer Kurort u. Kneippkurort
+
+**E**
+
+Ehlscheid
+
+56581
+
+Ehlscheid
+
+G
+
+Heilklimatischer
+Kurort
+
+Eilsen
+
+31707
+
+Bad Eilsen
+
+G
+
+Ort mit Heilquellen-Kurbetrieb
+
+Elster
+
+04645
+
+Bad Elster
+
+Bad Elster, Sohl
+
+(Moor- u. Mineral-)Heilbad
+
+Ems
+
+56130
+
+Bad Ems
+
+Bad Ems
+
+Heilbad
+
+Emstal
+
+34308
+
+Bad Emstal
+
+Sand
+
+Heilbad
+
+Endbach
+
+35080
+
+Bad Endbach
+
+K
+
+Kneippheilbad
+
+Endorf
+
+83093
+
+Bad Endorf
+
+Bad Endorf, Eisenbartling, Hofham, Kurf, Rachental, Ströbing
+
+Heilbad
+
+Erwitte
+
+59597
+
+Erwitte
+
+Bad Westernkotten
+
+Heilbad
+
+Esens
+
+26422
+
+Esens
+
+Bensersiel
+
+Nordseeheilbad
+
+Essen
+
+49152
+
+Bad Essen
+
+Bad Essen
+
+Ort mit Sole-
+Kurbetrieb
+
+Eutin
+
+23701
+
+Eutin
+
+G
+
+Heilklimatischer
+Kurort
+
+**F**
+
+Feilnbach
+
+83075
+
+Bad Feilnbach
+
+G – ausgenommen die Gemeindeteile der ehemaligen Gemeinde Dettendorf
+
+(Moor-)Heilbad
+
+Feldberger Seenlandschaft
+
+17258
+
+Feldberger Seenlandschaft
+
+Feldberg
+
+Kneippkurort
+
+Finsterbergen
+
+99898
+
+Finsterbergen
+
+G
+
+Heilklimatischer
+Kurort
+
+Fischen
+
+87538
+
+Fischen/Allgäu
+
+G
+
+Heilklimatischer
+Kurort
+
+Frankenhausen
+
+06567
+
+Bad Frankenhausen
+
+G
+
+(Sole-)Heilbad
+
+Freiburg
+
+79098
+
+Freiburg
+
+Ortsbereich „An den Heilquellen“
+
+Ort mit Heilquellen-Kurbetrieb
+
+Freienwalde
+
+16259
+
+Bad Freienwalde
+
+Bad Freienwalde
+
+(Moor-)Heilbad
+
+Freudenstadt
+
+72250
+
+Freudenstadt
+
+Freudenstadt
+
+Kneippkurort u. heilklimatischer
+Kurort
+
+Friedrichroda
+
+99894
+
+Friedrichroda
+
+Friedrichroda, Finsterbergen
+
+Heilklimatischer Kurort
+
+Friedrichskoog
+
+25718
+
+Friedrichskoog
+
+Friedrichskoog
+
+Nordseeheilbad
+
+Füssen
+
+87629
+
+Füssen
+
+a)  
+Bad Faulenbach
+
+Heilbad
+
+b)  
+Gebiet der ehemaligen Stadt Füssen und der ehemaligen Gemeinde Hopfen am See
+
+Kneippkurort
+
+Füssing
+
+94072
+
+Bad Füssing
+
+Bad Füssing, Aichmühle, Ainsen, Angering, Brandschachen, Dürnöd, Egglfing a. Inn, Eitlöd, Flickenöd, Gögging, Holzhäuser, Holzhaus, Hub, Irching, Mitterreuthen, Oberreuthen, Pichl, Pimsöd, Poinzaun, Riedenburg, Safferstetten, Schieferöd, Schöchlöd, Steinreuth, Thalau, Thalham, Thierham, Unterreuthen, Voglöd, Weidach, Wies, Würding, Zieglöd, Zwicklarn
+
+Heilbad
+
+**G**
+
+Gaggenau
+
+76571
+
+Gaggenau
+
+Bad Rotenfels
+
+Ort mit Heilquellen-Kurbetrieb
+
+Gandersheim
+
+37581
+
+Bad Gandersheim
+
+Bad Gandersheim
+
+Soleheilbad
+
+Garmisch-
+Partenkirchen
+
+82467
+
+Garmisch-
+Partenkirchen
+
+G – ohne das eingegliederte Gebiet der ehemaligen Gemeinde Wamberg
+
+Heilklimatischer
+Kurort
+
+Gelting
+
+24395
+
+Gelting
+
+G
+
+Kneippkurort
+
+Gersfeld
+
+36129
+
+Gersfeld (Rhön)
+
+K
+
+Heilklimatischer
+Kurort u. Kneippkurort
+
+Gladenbach
+
+35075
+
+Gladenbach
+
+K
+
+Kneippheilbad
+
+Glücksburg
+
+24960
+
+Glücksburg
+
+Glücksburg
+
+Ostseeheilbad
+
+Göhren
+
+18586
+
+Ostseebad
+Göhren
+
+G
+
+Kneippkurort
+
+Goslar
+
+38644
+
+Goslar
+
+Hahnenklee-Bockswiese
+
+Heilklimatischer
+Kurort
+
+Gottleuba
+
+01816
+
+Bad Gottleuba-Berggießübel
+
+Bad Gottleuba
+
+Kneippkurort u. (Moor-)Heilbad
+
+Graal-Müritz
+
+18181
+
+Graal-Müritz
+
+G
+
+Ostseeheilbad
+
+Grasellenbach
+
+64689
+
+Grasellenbach
+
+K
+
+Kneippkurort u.
+Heilbad
+
+Griesbach
+i. Rottal
+
+94086
+
+Bad Griesbach i. Rottal
+
+Bad Griesbach i. Rottal
+
+Heilbad
+
+Grömitz
+
+23743
+
+Grömitz
+
+Grömitz
+
+Ostseeheilbad
+
+Grönenbach
+
+87728
+
+Bad Grönenbach
+
+Bad Grönenbach, Au, Brandholz, in der Tarrast, Egg, Gmeinschwenden, Greit, Herbisried, Hueb, Klevers, Kornhofen, Kreuzbühl, Manneberg, Niederholz, Ölmühle, Raupolz, Rechberg, Rothenstein, Schwenden, Seefeld, Waldegg b. Grönenbach, Ziegelberg, Ziegelstadel
+
+Kneippheilbad
+
+Großenbrode
+
+23775
+
+Großenbrode
+
+G
+
+Ostseeheilbad
+
+Grund
+
+37539
+
+Bad Grund
+
+Bad Grund
+
+Heilklimatischer Kurort mit Heilstollen-Kurbetrieb
+
+**H**
+
+Haffkrug-
+Scharbeutz
+
+23683
+
+Haffkrug-
+Scharbeutz
+
+Haffkrug
+
+Ostseeheilbad
+
+Haigerloch
+
+72401
+
+Haigerloch
+
+Bad Imnau
+
+Ort mit Heilquellen-Kurbetrieb
+
+Harzburg
+
+38667
+
+Bad Harzburg
+
+K
+
+(Sole-)Heilbad
+
+Heilbrunn
+
+83670
+
+Bad Heilbrunn
+
+Bad Heilbrunn, Achmühl, Baumberg, Bernwies, Graben, Hinterstallau, Hub, Kiensee, Langau, Linden, Mürnsee, Oberbuchen, Oberenzenau, Obermühl, Obersteinbach, Ostfeld, Ramsau, Reindlschmiede, Schönau, Unterbuchen, Unterenzenau, Untersteinbach, Voglherd, Weiherweber, Wiesweber, Wörnern
+
+Heilbad u. heilklimatischer Kurort
+
+Heiligenhafen
+
+23774
+
+Heiligenhafen
+
+Heiligenhafen
+
+Ostseeheilbad
+
+Heiligenstadt
+
+37308
+
+Heilbad
+Heiligenstadt
+
+G
+
+(Sole-)Heilbad
+
+Helgoland
+
+27498
+
+Helgoland
+
+G
+
+Nordseeheilbad
+
+Herbstein
+
+36358
+
+Herbstein
+
+B
+
+Heilquellen-
+Kurbetrieb
+
+Heringsdorf
+
+17424
+
+Heringsdorf
+
+G
+
+Ostseeheilbad u. (Sole-)Heilbad
+
+Herrenalb
+
+76332
+
+Bad Herrenalb
+
+Bad Herrenalb
+
+Heilbad u. heilklimatischer Kurort
+
+Hersfeld
+
+36251
+
+Bad Hersfeld
+
+K
+
+(Mineral-)Heilbad
+
+Hille
+
+32479
+
+Hille
+
+Rothenuffeln
+
+Kurmittelgebiet
+(Heilquelle u. Moor)
+
+Hindelang
+
+87541
+
+Bad Hindelang
+
+Bad Hindelang, Bad Oberdorf, Bruck, Gailenberg, Groß, Hinterstein, Liebenstein, Oberjoch, Reckenberg, Riedle, Unterjoch, Vorderhindelang
+
+Kneippheilbad u. heilklimatischer
+Kurort
+
+Hinterzarten
+
+79856
+
+Hinterzarten
+
+G
+
+Heilklimatischer
+Kurort u. Kneippkurort
+
+Höchenschwand
+
+79862
+
+Höchenschwand
+
+Höchenschwand
+
+Heilklimatischer
+Kurort
+
+Hönningen
+
+53557
+
+Bad Hönningen
+
+Bad Hönningen
+
+Heilbad
+
+Höxter
+
+37671
+
+Höxter
+
+Bruchhausen
+
+Heilquellen-
+Kurbetrieb
+
+Hohwacht
+
+24321
+
+Hohwacht
+
+G
+
+Ostseeheilbad
+
+Homburg
+
+61348
+
+Bad Homburg v. d. Höhe
+
+K
+
+Heilbad
+
+Horn
+
+32805
+
+Horn-Bad
+Meinberg
+
+Bad Meinberg
+
+Heilbad
+
+**I**
+
+Iburg
+
+49186
+
+Bad Iburg
+
+Bad Iburg
+
+Kneippkurort
+
+Isny
+
+88316
+
+Isny
+
+Isny, Neutrauchburg
+
+Heilklimatischer
+Kurort
+
+**J**
+
+Juist
+
+26571
+
+Juist
+
+G
+
+Nordseeheilbad
+
+**K**
+
+Karlshafen
+
+34385
+
+Bad Karlshafen
+
+K
+
+Heilbad
+
+Kassel
+
+34117
+
+Kassel
+
+Wilhelmshöhe
+
+Kneippheilbad u. (Thermal-Sole-)Heilbad
+
+Kellenhusen
+
+23746
+
+Kellenhusen
+
+Kellenhusen
+
+Ostseeheilbad
+
+Kissingen
+
+97688
+
+Bad Kissingen
+
+G
+
+Heilbad
+
+Klosterlausnitz
+
+07639
+
+Bad Klosterlausnitz
+
+G
+
+Heilbad
+
+König
+
+64732
+
+Bad König
+
+K
+
+Heilbad
+
+Königsfeld
+
+78126
+
+Königsfeld
+
+Königsfeld, Bregnitz, Grenier
+
+Kneippkurort u. heilklimatischer Kurort
+
+Königshofen
+
+97631
+
+Bad Königshofen i. Grabfeld
+
+G – ohne die eingegliederten Gebiete der ehemaligen Gemeinden Aub und Merkershausen
+
+Heilbad
+
+Königstein
+
+61462
+
+Königstein im Taunus
+
+K
+
+Heilklimatischer
+Kurort
+
+Kösen
+
+06628
+
+Bad Kösen
+
+G
+
+Heilbad
+
+Kötzting
+
+93444
+
+Bad Kötzting
+
+Liebenstein, Matzelsdorf, Wettzell, Arndorf, Gehstorf, Haus, Traidersdorf und Weißenregen
+
+Kneippkurort
+
+Kohlgrub
+
+82433
+
+Bad Kohlgrub
+
+G
+
+(Moor-)Heilbad
+
+Kreuth
+
+83708
+
+Kreuth
+
+G
+
+Heilklimatischer
+Kurort
+
+Kreuznach
+
+55543
+
+Bad Kreuznach
+
+Bad Kreuznach
+
+Heilbad
+
+Krozingen
+
+79189
+
+Bad Krozingen
+
+Bad Krozingen
+
+Heilbad
+
+Krumbach
+
+86381
+
+Krumbach
+(Schwaben)
+
+B – Sanatorium Krumbad
+
+Peloidkurbetrieb
+
+Kühlungsborn
+
+18225
+
+Ostseebad
+Kühlungsborn
+
+G
+
+Seebad
+
+**L**
+
+Laasphe
+
+57334
+
+Bad Laasphe
+
+Bad Laasphe
+
+Kneippheilbad
+
+Laer
+
+49196
+
+Bad Laer
+
+G
+
+(Sole-)Heilbad
+
+Langensalza
+
+99947
+
+Bad Langensalza
+
+K
+
+(Schwefel-Sole-)Heilbad
+
+Langeoog
+
+26465
+
+Langeoog
+
+G
+
+Nordseeheilbad
+
+Lausick
+
+04651
+
+Bad Lausick
+
+G
+
+(Mineral-)Heilbad
+
+Lauterberg
+
+37431
+
+Bad Lauterberg
+
+Bad Lauterberg
+
+Kneippheilbad
+
+Lenzkirch
+
+79853
+
+Lenzkirch
+
+Lenzkirch, Saig
+
+Heilklimatischer
+Kurort
+
+Liebenstein
+
+36448
+
+Bad Liebenstein
+
+G
+
+Heilbad
+
+Liebenwerda
+
+04924
+
+Bad Liebenwerda
+
+Dobra, Kosilenzien, Maasdorf, Zeischa
+
+Ort mit Peloidkurbetrieb
+
+Liebenzell
+
+75378
+
+Bad Liebenzell
+
+Bad Liebenzell
+
+Heilbad
+
+Lindenfels
+
+64678
+
+Lindenfels
+
+K
+
+Heilklimatischer
+Kurort
+
+Lippspringe
+
+33175
+
+Bad Lippspringe
+
+Bad Lippspringe
+
+Heilbad u. heilklimatischer Kurort
+
+Lippstadt
+
+59556
+
+Lippstadt
+
+Bad Waldliesborn
+
+Heilbad
+
+Lobenstein
+
+07356
+
+Bad Lobenstein
+
+G
+
+(Moor-)Heilbad
+
+Ludwigsburg
+
+71638
+
+Ludwigsburg
+
+Hoheneck
+
+Ort mit Heilquellenkurbetrieb
+
+**M**
+
+Malente
+
+23714
+
+Malente
+
+Malente-Gremsmühlen, Krummsee, Timmdorf
+
+Heilklimatischer
+Kurort
+
+Manderscheid
+
+54531
+
+Manderscheid
+
+Manderscheid
+
+Heilklimatischer
+Kurort u. Kneippkurort
+
+Marienberg
+
+56470
+
+Bad Marienberg
+
+Bad Marienberg (nur Stadtteile Bad Marienberg, Zinnheim und der Gebietsteil der Gemarkung Langenbach, begrenzt durch die Gemarkungsgrenze Hardt, Zinnheim, Marienberg sowie die Bahntrasse Erbach-Bad Marienberg)
+
+Kneippheilbad
+
+Marktschellenberg
+
+83487
+
+Marktschellenberg
+
+G
+
+Heilklimatischer Kurort
+
+Masserberg
+
+98666
+
+Masserberg
+
+Masserberg
+
+Heilklimatischer Kurort
+
+Mergentheim
+
+97980
+
+Bad Mergentheim
+
+Bad Mergentheim
+
+Heilbad
+
+Mölln
+
+23879
+
+Mölln
+
+Mölln
+
+Kneippkurort
+
+Mössingen
+
+72116
+
+Mössingen
+
+Bad Sebastiansweiler
+
+Ort mit Heilquellen-Kurbetrieb
+
+Münder
+
+31848
+
+Bad Münder
+
+Bad Münder
+
+Ort mit Heilquellen-Kurbetrieb
+
+Münster/Stein
+
+55583
+
+Bad Münster am Stein-Ebernburg
+
+Bad Münster am Stein
+
+(Mineral-)Heilbad u. heilklimatischer Kurort
+
+Münstereifel
+
+53902
+
+Bad Münstereifel
+
+Bad Münstereifel
+
+Kneippheilbad
+
+Muskau
+
+02953
+
+Bad Muskau
+
+G
+
+Ort mit Moorkurbetrieb
+
+**N**
+
+Nauheim
+
+61231
+
+Bad Nauheim
+
+K
+
+Heilbad
+
+Naumburg
+
+34309
+
+Naumburg
+
+K
+
+Kneippkurort
+
+Nenndorf
+
+31542
+
+Bad Nenndorf
+
+Bad Nenndorf
+
+(Moor- u. Mineral-)Heilbad
+
+Neualbenreuth
+
+95698
+
+Neualbenreuth
+
+B – Badehaus Maiersreuth Sybillenbad
+
+Ort mit Heilquellen-Kurbetrieb
+
+Neubulach
+
+75387
+
+Neubulach
+
+Neubulach
+
+Heilklimatischer Kurort
+
+Neuenahr
+
+53474
+
+Bad Neuenahr-
+Ahrweiler
+
+Bad Neuenahr
+
+Heilbad
+
+Neuharlingersiel
+
+26427
+
+Neuharlingersiel
+
+Neuharlingersiel
+
+Nordseeheilbad
+
+Neukirchen
+
+34626
+
+Neukirchen
+
+K
+
+Kneippkurort
+
+Neustadt/D
+
+93333
+
+Neustadt a. d. Donau
+
+Bad Gögging
+
+Heilbad
+
+Neustadt/Harz
+
+99762
+
+Neustadt/Harz
+
+G
+
+Heilklimatischer Kurort
+
+Neustadt/S
+
+97616
+
+Bad Neustadt a. d. Saale
+
+Bad Neustadt a. d. Saale
+
+Heilbad
+
+Nidda
+
+63667
+
+Nidda
+
+Bad Salzhausen
+
+Heilbad
+
+Nonnweiler
+
+66620
+
+Nonnweiler
+
+Nonnweiler
+
+Heilklimatischer Kurort
+
+Norddorf
+
+25946
+
+Norddorf/Amrum
+
+Norddorf
+
+Nordseeheilbad
+
+Norden
+
+26506
+
+Norddeich/
+Westermarsch II
+
+Norden
+
+Nordseeheilbad
+
+Norderney
+
+26548
+
+Norderney
+
+G
+
+Nordseeheilbad
+
+Nordstrand
+
+25845
+
+Nordstrand
+
+G
+
+Nordseeheilbad
+
+Nümbrecht
+
+51588
+
+Nümbrecht
+
+G
+
+Heilklimatischer Kurort
+
+**O**
+
+Oberstaufen
+
+87534
+
+Oberstaufen
+
+G – ausgenommen die Gemeindeteile Aach i. Allgäu, Hänse, Hagspiel, Hütten, Krebs, Nägeleshalde
+
+(Schroth-)Heilbad u. heilklimatischer Kurort
+
+Oberstdorf
+
+87561
+
+Oberstdorf
+
+Oberstdorf, Anatswald, Birgsau, Dietersberg, Ebene, Einödsbach, Faistennoy, Gerstruben, Gottenried, Gruben, Gundsbach, Jauchen, Kornau, Reute, Ringang, Schwand, Spielmannsau
+
+Kneippkurort u. heilklimatischer Kurort
+
+Oeynhausen
+
+32545
+
+Bad Oeynhausen
+
+Bad Oeynhausen
+
+Heilbad
+
+Olsberg
+
+59939
+
+Olsberg
+
+Olsberg
+
+Kneippkurort
+
+Orb
+
+63619
+
+Bad Orb
+
+G
+
+Heilbad
+
+Ottobeuren
+
+87724
+
+Ottobeuren
+
+Ottobeuren, Eldern
+
+Kneippkurort
+
+Oy-Mittelberg
+
+87466
+
+Oy-Mittelberg
+
+Oy
+
+Kneippkurort
+
+**P**
+
+Pellworm
+
+25847
+
+Pellworm
+
+Pellworm
+
+Nordseeheilbad
+
+Petershagen
+
+32469
+
+Petershagen
+
+Hopfenberg
+
+Kurmittelgebiet
+
+Peterstal-Griesbach
+
+77740
+
+Bad Peterstal-Griesbach
+
+G
+
+Heilbad u. Kneippkurort
+
+Porta Westfalica
+
+32457
+
+Porta Westfalica
+
+Hausberge
+
+Kneippkurort
+
+Prerow
+
+18375
+
+Ostseebad Prerow
+
+G
+
+Seebad
+
+Preußisch
+Oldendorf
+
+32361
+
+Preußisch
+Oldendorf
+
+Bad Holzhausen
+
+Heilbad
+
+Prien
+
+83209
+
+Prien a. Chiemsee
+
+G ohne den eingegliederten Gemeindeteil Vachendorf der ehemaligen Gemeinde Hittenkirchen und den Gemeindeteil Wildenwart
+
+Kneippkurort
+
+Pyrmont
+
+31812
+
+Bad Pyrmont
+
+K
+
+(Moor- u. Mineral-)Heilbad
+
+**R**
+
+Radolfzell
+
+78315
+
+Radolfzell
+
+Mettnau
+
+Kneippkurort
+
+Ramsau
+
+83486
+
+Ramsau b.
+Berchtesgaden
+
+G
+
+Heilklimatischer Kurort
+
+Rappenau
+
+74906
+
+Bad Rappenau
+
+Bad Rappenau
+
+(Sole-)Heilbad
+
+Reichenhall
+
+83435
+
+Bad Reichenhall
+
+Bad Reichenhall, Bayerisch Gmain und Kibling
+
+Heilbad
+
+Reichshof
+
+51580
+
+Reichshof
+
+Eckenhagen
+
+Heilklimatischer Kurort
+
+Rengsdorf
+
+56579
+
+Rengsdorf
+
+Rengsdorf
+
+Heilklimatischer Kurort
+
+Rippoldsau-
+Schapbach
+
+77776
+
+Bad Rippoldsau-Schapbach
+
+Bad Rippoldsau
+
+(Moor- u. Mineral-)Heilbad
+
+Rodach
+
+96476
+
+Bad Rodach b.
+Coburg
+
+Bad Rodach
+
+Heilbad
+
+Rothenfelde
+
+49214
+
+Bad Rothenfelde
+
+G
+
+(Sole-)Heilbad
+
+Rottach-Egern
+
+83700
+
+Rottach-Egern
+
+G
+
+Heilklimatischer Kurort
+
+**S**
+
+Saalfeld/Saale
+
+07318
+
+Saalfeld/Saale
+
+G, ausgenommen
+Ortsteil Arnsgereuth
+
+Ort mit Heilstollenkurbetrieb
+
+Saarow
+
+15526
+
+Bad Saarow
+
+Bad Saarow
+
+(Moor- u. Sole-)Heilbad
+
+Sachsa
+
+37441
+
+Bad Sachsa
+
+Bad Sachsa
+
+Heilklimatischer Kurort
+
+Säckingen
+
+79713
+
+Bad Säckingen
+
+Bad Säckingen
+
+Heilbad
+
+Salzdetfurth
+
+31162
+
+Bad Salzdetfurth
+
+Bad Salzdetfurth, Detfurth
+
+(Moor- u. Sole-)Heilbad
+
+Salzgitter
+
+38259
+
+Salzgitter
+
+Salzgitter-Bad
+
+Ort mit Sole-
+Kurbetrieb
+
+Salzschlirf
+
+36364
+
+Bad Salzschlirf
+
+G
+
+(Mineral- u. Sole-)Heilbad
+
+Salzuflen
+
+32105
+
+Bad Salzuflen
+
+Bad Salzuflen
+
+Heilbad u. Kneippkurort
+
+Salzungen
+
+36433
+
+Bad Salzungen
+
+Bad Salzungen, Dorf Allendorf
+
+(Sole-)Heilbad
+
+Sasbachwalden
+
+77887
+
+Sasbachwalden
+
+G
+
+Heilklimatischer Kurort u. Kneippkurort
+
+Sassendorf
+
+59505
+
+Bad Sassendorf
+
+Bad Sassendorf
+
+(Sole-)Heilbad
+
+Saulgau
+
+88348
+
+Saulgau
+
+Saulgau
+
+Heilbad
+
+Schandau
+
+01814
+
+Bad Schandau
+
+Bad Schandau
+
+Kneippkurort
+
+Scharbeutz
+
+23683
+
+Scharbeutz
+
+Scharbeutz
+
+Ostseeheilbad
+
+Scheidegg
+
+88175
+
+Scheidegg
+
+G
+
+Kneippkurort u. heilklimatischer Kurort
+
+Schieder
+
+32816
+
+Schieder-
+Schwalenberg
+
+Schieder, Glashütte
+
+Kneippkurort
+
+Schlangenbad
+
+65388
+
+Schlangenbad
+
+K
+
+Heilbad
+
+Schleiden
+
+53937
+
+Schleiden
+
+Gemünd
+
+Kneippkurort
+
+Schlema
+
+08301
+
+Bad Schlema
+
+G
+
+Heilbad
+
+Schluchsee
+
+79859
+
+Schluchsee
+
+Schluchsee, Faulenfürst, Fischbach
+
+Heilklimatischer Kurort
+
+Schmallenberg
+
+57392
+
+Schmallenbach
+
+a)  
+Fredeburg
+
+Kneippkurort
+
+b)  
+Grafschaft
+
+Heilklimatischer Kurort
+
+Schmiedeberg
+
+06905
+
+Bad Schmiedeberg
+
+G
+
+Heilbad
+
+Schömberg
+
+75328
+
+Schömberg
+
+Schömberg
+
+Heilklimatischer Kurort u. Kneippkurort
+
+Schönau
+
+83471
+
+Schönau a.
+Königsee
+
+G
+
+Heilklimatischer Kurort
+
+Schönberg
+
+24217
+
+Schönberg
+
+Holm
+
+Heilbad
+
+Schönborn
+
+76669
+
+Bad Schönborn
+
+a)  
+Bad Mingolsheim
+
+Heilbad
+
+b)  
+Langenbrücken
+
+Ort mit Heilquellenkurbetrieb
+
+Schönebeck-
+Salzelmen
+
+39624
+
+Schönebeck-
+Salzelmen
+
+G
+
+(Sole-)Heilbad
+
+Schönwald
+
+78141
+
+Schönwald
+
+G
+
+Heilklimatischer Kurort
+
+Schussenried
+
+88427
+
+Bad Schussenried
+
+Bad Schussenried
+
+(Moor-)Heilbad
+
+Schwalbach
+
+65307
+
+Bad Schwalbach
+
+K
+
+Heilbad
+
+Schwangau
+
+87645
+
+Schwangau
+
+G
+
+Heilklimatischer Kurort
+
+Schwartau
+
+23611
+
+Bad Schwartau
+
+Bad Schwartau
+
+(Jodsole- u. Moor-)Heilbad
+
+Segeberg
+
+23795
+
+Bad Segeberg
+
+G
+
+Heilbad
+
+Sellin
+
+18586
+
+Ostseebad Sellin
+
+G
+
+Seebad
+
+Siegsdorf
+
+83313
+
+Siegsdorf
+
+B – Kurheim Bad Adelholzen
+
+Heilquellen-
+Kurbetrieb
+
+Sobernheim
+
+55566
+
+Bad Sobernheim
+
+Bad Sobernheim
+
+Heilbad
+
+Soden am Taunus
+
+65812
+
+Bad Soden am Taunus
+
+K
+
+Heilbad
+
+Soden-Salmünster
+
+63628
+
+Bad Soden-
+Salmünster
+
+Bad Soden
+
+(Mineral-)Heilbad
+
+Soltau
+
+29614
+
+Soltau
+
+Soltau
+
+Ort mit Sole-
+Kurbetrieb
+
+Sooden-Allendorf
+
+37242
+
+Bad Sooden-
+Allendorf
+
+K
+
+Heilbad
+
+Spiekeroog
+
+26474
+
+Spiekeroog
+
+G
+
+Nordseeheilbad
+
+St. Blasien
+
+79837
+
+St. Blasien
+
+St. Blasien
+
+Kneippkurort u. heilklimatischer Kurort
+
+St. Peter-Ording
+
+25826
+
+St. Peter-Ording
+
+St. Peter-Ording
+
+Nordseeheilbad u. Schwefelbad
+
+Staffelstein
+
+96226
+
+Bad Staffelstein
+
+G
+
+Heilbad
+
+Steben
+
+95138
+
+Bad Steben
+
+G
+
+Heilbad
+
+Stützerbach
+
+98714
+
+Stützerbach
+
+Stützerbach
+
+Heilkurort
+
+Stuttgart
+
+70173
+
+Stuttgart
+
+a)  
+Berg
+
+Mineralbad
+
+b)  
+Bad Cannstatt
+
+Ort mit Heilquellenkurbetrieb
+
+Suderode
+
+06507
+
+Bad Suderode
+
+G
+
+(Calciumsole-)Heilbad
+
+Sülze
+
+18334
+
+Bad Sülze
+
+G
+
+Peloidkurbetrieb
+
+Sulza
+
+99518
+
+Bad Sulza
+
+G
+
+(Sole-)Heilbad
+
+**T**
+
+Tabarz
+
+99891
+
+Bad Tabarz
+
+G
+
+Kneippheilbad
+
+Tecklenburg
+
+49545
+
+Tecklenburg
+
+Tecklenburg
+
+Kneippkurort
+
+Tegernsee
+
+83684
+
+Tegernsee
+
+G
+
+Heilklimatischer Kurort
+
+Teinach-Zavelstein
+
+75385
+
+Bad Teinach-
+Zavelstein
+
+Bad Teinach
+
+Heilbad
+
+Templin
+
+17268
+
+Templin
+
+Templin
+
+(Thermalsole-)Heilbad
+
+Tennstedt
+
+99955
+
+Bad Tennstedt
+
+G
+
+Ort mit Heilquellenkurbetrieb
+
+Thiessow
+
+18586
+
+Ostseebad
+Thiessow
+
+G
+
+Seebad
+
+Thyrnau
+
+94136
+
+Thyrnau
+
+B – Sanatorium Kellberg
+
+Mineralquellenkurbetrieb
+
+Timmendorfer Strand
+
+23669
+
+Timmendorfer Strand
+
+Timmendorfer Strand, Niendorf
+
+Ostseeheilbad
+
+Titisee-Neustadt
+
+79822
+
+Titisee-Neustadt
+
+Titisee
+
+Heilklimatischer Kurort
+
+Todtmoos
+
+79682
+
+Todtmoos
+
+G
+
+Heilklimatischer Kurort
+
+Tölz
+
+83646
+
+Bad Tölz
+
+a)  
+Gebiet der ehem. Stadt Bad Tölz
+
+(Moor-)Heilbad u. heilklimatischer Kurort
+
+b)  
+Gebiet der ehem. Gemeinde
+Oberfischbach
+
+Heilklimatischer Kurort
+
+Traben-Trarbach
+
+56841
+
+Traben-Trarbach
+
+Bad Wildstein
+
+Heilbad
+
+Travemünde
+
+23570
+
+Travemünde
+
+Travemünde
+
+Ostseeheilbad
+
+Treuchtlingen
+
+91757
+
+Treuchtlingen
+
+B – Altmühltherme/Lambertusbad
+
+Ort mit Heilquellenkurbetrieb
+
+Triberg
+
+78098
+
+Triberg
+
+Triberg
+
+Heilklimatischer Kurort
+
+**U**
+
+Überkingen
+
+73337
+
+Bad Überkingen
+
+Bad Überkingen
+
+Heilbad
+
+Überlingen
+
+88662
+
+Überlingen
+
+Überlingen
+
+Kneippheilbad
+
+Urach
+
+72574
+
+Bad Urach
+
+Bad Urach
+
+Heilbad
+
+**V**
+
+Vallendar
+
+56179
+
+Vallendar
+
+Vallendar
+
+Kneippkurort
+
+Vilbel
+
+61118
+
+Bad Vilbel
+
+K
+
+Heilbad
+
+Villingen-
+Schwenningen
+
+78050
+
+Villingen-
+Schwenningen
+
+Villingen
+
+Kneippkurort
+
+Vlotho
+
+32602
+
+Vlotho
+
+Seebruch, Senkelteich, Valdorf-West
+
+Kurmittelgebiet (Heilquelle u. Moor)
+
+**W**
+
+Waldbronn
+
+76337
+
+Waldbronn
+
+Gemeindeteile Busenbach, Reichenbach
+
+Ort mit Heilquellenkurbetrieb
+
+Waldsee
+
+88399
+
+Bad Waldsee
+
+Bad Waldsee, Steinach
+
+(Moor-)Heilbad u. Kneippkurort
+
+Wangerland
+
+26434
+
+Wangerland
+
+Horumersiel, Schillig
+
+Nordseeheilbad
+
+Wangerooge
+
+26486
+
+Wangerooge
+
+G
+
+Nordseeheilbad
+
+Warburg
+
+34414
+
+Warburg
+
+Germete
+
+Kurmittelbetrieb (Heilquelle)
+
+Waren
+
+17192
+
+Waren/Müritz
+
+Waren/Müritz
+
+(Sole-)Heilbad
+
+Warmbad
+
+09429
+
+Wolkenstein
+
+Warmbad
+
+Ort mit Heilquellenkurortbetrieb
+
+Warnemünde
+
+18119
+
+Hansestadt
+Rostock
+
+G
+
+Seebad
+
+Weiskirchen
+
+66709
+
+Weiskirchen
+
+Weiskirchen
+
+Heilklimatischer Kurort
+
+Wenningstedt
+
+25996
+
+Wenningstedt/Sylt
+
+Wenningstedt
+
+Nordseeheilbad
+
+Westerland
+
+25980
+
+Westerland
+
+Westerland
+
+Nordseeheilbad
+
+Wiesbaden
+
+65189
+
+Wiesbaden
+
+K
+
+Heilbad
+
+Wiesenbad
+
+09488
+
+Wiesa
+
+Thermalbad Wiesenbad
+
+Ort mit Heilquellenkurbetrieb
+
+Wiessee
+
+83707
+
+Bad Wiessee
+
+G
+
+Heilbad
+
+Wildbad
+
+75323
+
+Bad Wildbad
+
+Bad Wildbad
+
+Heilbad
+
+Wildungen
+
+34537
+
+Bad Wildungen
+
+K
+
+Heilbad
+
+Willingen
+
+34508
+
+Willingen (Upland)
+
+a)  
+K
+
+Heilklimatischer Kurort, Kneippkurort u. Heilbad
+
+b)  
+Usseln
+
+Heilklimatischer Kurort
+
+Wilsnack
+
+19336
+
+Bad Wilsnack
+
+K
+
+(Thermal- u. Moor-)Heilbad
+
+Wimpfen
+
+74206
+
+Bad Wimpfen
+
+Bad Wimpfen, Erbach, Fleckinger Mühle, Höhenhöfe
+
+(Sole-)Heilbad
+
+Windsheim
+
+91438
+
+Bad Windsheim
+
+Bad Windsheim, Kleinwindsheimer Mühle, Walkmühle
+
+Heilbad
+
+Winterberg
+
+59955
+
+Winterberg
+
+Winterberg, Altastenberg, Elkeringhausen
+
+Heilklimatischer Kurort
+
+Wittdün/Amrum
+
+25946
+
+Wittdün/Amrum
+
+Wittdün
+
+Nordseeheilbad
+
+Wörishofen
+
+86825
+
+Bad Wörishofen
+
+Bad Wörishofen, Hartenthal, Oberes Hart, Obergammenried, Schöneschach, Untergammenried, Unteres Hart
+
+Kneippheilbad
+
+Wolfegg
+
+88364
+
+Wolfegg
+
+G
+
+Heilklimatischer Kurort
+
+Wünnenberg
+
+33181
+
+Wünnenberg
+
+Wünnenberg
+
+Kneippheilbad
+
+Wurzach
+
+88410
+
+Bad Wurzach
+
+Bad Wurzach
+
+(Moor-)Heilbad
+
+Wustrow
+
+18347
+
+Ostseebad
+Wustrow
+
+G
+
+Seebad
+
+Wyk a. F.
+
+25938
+
+Wyk a. F.
+
+Wyk
+
+Nordseeheilbad
+
+**Z**
+
+Zingst
+
+18374
+
+Ostseebad Zingst
+
+G
+
+Ostseeheilbad
+
+Zwesten
+
+34596
+
+Bad Zwesten
+
+K
+
+Heilbad u. Ort mit Heilquellenkurbetrieb
+
+Zwischenahn
+
+26160
+
+Bad Zwischenahn
+
+Bad Zwischenahn
+
+(Moor-)Heilbad
+
+Abschnitt 2
+Heilbäder und Kurorte im Inland, die Ortsteile einer Gemeinde sind
+
+Heilbad oder Kurort ohne Zusatz „Bad“
+
+aufgeführt bei
+
+**A**
+
+Abbach-Schloßberg
+
+Abbach
+
+Achmühl
+
+Heilbrunn
+
+Adelholzen
+
+Siegsdorf
+
+Aichmühle
+
+Füssing
+
+Ainsen
+
+Füssing
+
+Alschbach
+
+Blieskastel
+
+Altastenberg
+
+Winterberg
+
+Anatswald
+
+Oberstdorf
+
+An den Heilquellen
+
+Freiburg
+
+Angering
+
+Füssing
+
+Au
+
+Abbach
+
+Au
+
+Grönenbach
+
+Aunham
+
+Birnbach
+
+**B**
+
+Balg
+
+Baden-Baden
+
+Baumberg
+
+Heilbrunn
+
+Bayerisch Gmain
+
+Reichenhall
+
+Bensersiel
+
+Esens
+
+Berg
+
+Stuttgart
+
+Bernwies
+
+Heilbrunn
+
+Birgsau
+
+Oberstdorf
+
+Blenhorst
+
+Balge
+
+Bockswiese
+
+Goslar
+
+Brandholz
+
+Grönenbach
+
+Brandschachen
+
+Füssing
+
+Bregnitz
+
+Königsfeld
+
+Bruchhausen
+
+Höxter
+
+Bruck
+
+Hindelang
+
+Burtscheid
+
+Aachen
+
+Busenbach
+
+Waldbronn
+
+**C**
+
+Cannstatt
+
+Stuttgart
+
+**D**
+
+Detfurth
+
+Salzdetfurth
+
+Dietersberg
+
+Oberstdorf
+
+Dobra
+
+Liebenwerda
+
+Dürnöd
+
+Füssing
+
+**E**
+
+Ebene
+
+Oberstdorf
+
+Eckarts
+
+Brückenau
+
+Eckenhagen
+
+Reichshof
+
+Egg
+
+Grönenbach
+
+Egglfing a. Inn
+
+Füssing
+
+Einödsbach
+
+Oberstdorf
+
+Eisenbartling
+
+Endorf
+
+Eitlöd
+
+Füssing
+
+Eldern
+
+Ottobeuren
+
+Elkeringhausen
+
+Winterberg
+
+Erbach
+
+Wimpfen
+
+**F**
+
+Faistenoy
+
+Oberstdorf
+
+Faulenbach
+
+Füssen
+
+Faulenfürst
+
+Schluchsee
+
+Feldberg
+
+Feldberger Seenlandschaft
+
+Fischbach
+
+Schluchsee
+
+Fleckinger Mühle
+
+Wimpfen
+
+Flickenöd
+
+Füssing
+
+Frankenhammer
+
+Berneck
+
+Fredeburg
+
+Schmallenberg
+
+**G**
+
+Gailenberg
+
+Hindelang
+
+Gemünd
+
+Schleiden
+
+Germete
+
+Warburg
+
+Gerstruben
+
+Oberstdorf
+
+Glashütte
+
+Schieder
+
+Gmeinschwenden
+
+Grönenbach
+
+Gögging
+
+Füssing
+
+Gögging
+
+Neustadt a. d. Donau
+
+Gottenried
+
+Oberstdorf
+
+Graben
+
+Heilbrunn
+
+Greit
+
+Grönenbach
+
+Gremsmühlen
+
+Malente
+
+Grenier
+
+Königsfeld
+
+Griesbach
+
+Peterstal-Griesbach
+
+Groß
+
+Hindelang
+
+Gruben
+
+Oberstdorf
+
+Gundsbach
+
+Oberstdorf
+
+**H**
+
+Hahnenklee
+
+Goslar
+
+Hartenthal
+
+Wörishofen
+
+Harthausen
+
+Aibling
+
+Hausberge
+
+Porta Westfalica
+
+Heiligendamm
+
+Doberan
+
+Herbisried
+
+Grönenbach
+
+Hermannsborn
+
+Driburg
+
+Hiddesen
+
+Detmold
+
+Hinterstallau
+
+Heilbrunn
+
+Hinterstein
+
+Hindelang
+
+Höhenhöfe
+
+Wimpfen
+
+Hofham
+
+Endorf
+
+Hohegeiß
+
+Braunlage
+
+Hoheneck
+
+Ludwigsburg
+
+Holm
+
+Schönberg
+
+Holzhäuser
+
+Füssing
+
+Holzhaus
+
+Füssing
+
+Holzhausen
+
+Preußisch Oldendorf
+
+Hopfen am Berg
+
+Petershagen
+
+Hopfen am See
+
+Füssen
+
+Horumersiel
+
+Wangerland
+
+Hub
+
+Füssing
+
+Hub
+
+Heilbrunn
+
+Hueb
+
+Grönenberg
+
+**I**
+
+Imnau
+
+Haigerloch
+
+In der Tarrast
+
+Grönenbach
+
+Irching
+
+Füssing
+
+**J**
+
+Jauchen
+
+Oberstdorf
+
+Jordanbad
+
+Biberach
+
+**K**
+
+Kalkofen
+
+Abbach
+
+Kellberg
+
+Thyrnau
+
+Kibling
+
+Reichenhall
+
+Kiensee
+
+Heilbrunn
+
+Kleinwindsheimer Mühle
+
+Windsheim
+
+Klevers
+
+Grönenbach
+
+Kornau
+
+Oberstdorf
+
+Kornhofen
+
+Grönenbach
+
+Kosilenzien
+
+Liebenwerda
+
+Kreuzbühl
+
+Grönenbach
+
+Krummsee
+
+Malente
+
+Kurf
+
+Endorf
+
+Kutschenrangen
+
+Berneck
+
+**L**
+
+Langau
+
+Heilbrunn
+
+Langenbach
+
+Marienberg
+
+Langenbrücken
+
+Schönborn
+
+Lautzkirchen
+
+Blieskastel
+
+Lichtental
+
+Baden-Baden
+
+Liebenstein
+
+Hindelang
+
+Linden
+
+Heilbrunn
+
+**M**
+
+Maasdorf
+
+Liebenwerda
+
+Manneberg
+
+Grönenberg
+
+Meinberg
+
+Horn
+
+Mettnau
+
+Radolfzell
+
+Mingolsheim
+
+Schönberg
+
+Mitterreuthen
+
+Füssing
+
+Monheimsallee
+
+Aachen
+
+Mürnsee
+
+Heilbrunn
+
+**N**
+
+Neutrauchburg
+
+Isny
+
+Niederholz
+
+Grönenbach
+
+Niendorf
+
+Timmendorfer Strand
+
+**O**
+
+Oberbuchen
+
+Heilbrunn
+
+Oberdorf
+
+Hindelang
+
+Oberenzenau
+
+Heilbrunn
+
+Oberes Hart
+
+Wörishofen
+
+Oberfischbach
+
+Tölz
+
+Obergammenried
+
+Wörishofen
+
+Oberjoch
+
+Hindelang
+
+Obermühl
+
+Heilbrunn
+
+Oberreuthen
+
+Füssing
+
+Obersteinbach
+
+Heilbrunn
+
+Obertal
+
+Baiersbronn
+
+Ölmühle
+
+Grönenbach
+
+Oos
+
+Baden-Baden
+
+Ostfeld
+
+Heilbrunn
+
+Ostrau
+
+Schandau
+
+**P**
+
+Pichl
+
+Füssing
+
+Pimsöd
+
+Füssing
+
+Poinzaun
+
+Füssing
+
+**R**
+
+Rachental
+
+Endorf
+
+Ramsau
+
+Heilbrunn
+
+Randringhausen
+
+Bünde
+
+Raupolz
+
+Grönenbach
+
+Rechberg
+
+Grönenbach
+
+Reckenberg
+
+Hindelang
+
+Reichenbach
+
+Waldbronn
+
+Reindlschmiede
+
+Heilbrunn
+
+Reute
+
+Oberstdorf
+
+Riedenburg
+
+Füssing
+
+Riedle
+
+Hindelang
+
+Ringang
+
+Oberstdorf
+
+Rödlasberg
+
+Berneck
+
+Röthardt
+
+Aalen
+
+Rotenfels
+
+Gaggenau
+
+Rothenstein
+
+Grönenbach
+
+Rothenuffeln
+
+Hille
+
+**S**
+
+Safferstetten
+
+Füssing
+
+Saig
+
+Lenzkirch
+
+Salzhausen
+
+Nidda
+
+Salzig
+
+Boppard
+
+Sand
+
+Emstal
+
+Schieferöd
+
+Füssing
+
+Schillig
+
+Wangerland
+
+Schöchlöd
+
+Füssing
+
+Schönau
+
+Heilbrunn
+
+Schöneschach
+
+Wörishofen
+
+Schwand
+
+Oberstdorf
+
+Schwarzenberg-Schönmünzach
+
+Baiersbronn
+
+Schwenden
+
+Grönenbach
+
+Sebastiansweiler
+
+Mössingen
+
+Seebruch
+
+Vlotho
+
+Seefeld
+
+Grönenbach
+
+Senkelteich
+
+Vlotho
+
+Sohl
+
+Elster
+
+Spielmannsau
+
+Oberstdorf
+
+Steinach
+
+Waldsee
+
+Steinreuth
+
+Füssing
+
+Ströbing
+
+Endorf
+
+**T**
+
+Thalau
+
+Füssing
+
+Thalham
+
+Füssing
+
+Thierham
+
+Füssing
+
+Thürham
+
+Aibling
+
+Timmdorf
+
+Malente
+
+Tönisstein
+
+Andernach
+
+Tönisstein
+
+Burgbrohl
+
+**U**
+
+Unterbuchen
+
+Heilbrunn
+
+Unterenzenau
+
+Heilbrunn
+
+Unteres Hart
+
+Wörishofen
+
+Untergammenried
+
+Wörishofen
+
+Unterjoch
+
+Hindelang
+
+Unterreuthen
+
+Füssing
+
+Untersteinbach
+
+Heilbrunn
+
+Usseln
+
+Willingen
+
+**V**
+
+Valdorf-West
+
+Vlotho
+
+Voglherd
+
+Heilbrunn
+
+Voglöd
+
+Füssing
+
+Vorderhindelang
+
+Hindelang
+
+**W**
+
+Waldegg b. Grönenbach
+
+Grönenbach
+
+Waldliesborn
+
+Lippstadt
+
+Walkmühle
+
+Windsheim
+
+Waren/Müritz
+
+Waren
+
+Warmbad
+
+Wolkenstein
+
+Warmeleithen
+
+Berneck
+
+Weghof
+
+Griesbach
+
+Weichs
+
+Abbach
+
+Weidach
+
+Füssing
+
+Weiherweber
+
+Heilbrunn
+
+Westernkotten
+
+Erwitte
+
+Wies
+
+Füssing
+
+Wiesweber
+
+Heilbrunn
+
+Wildstein
+
+Traben-Trarbach
+
+Wilhelmshöhe
+
+Kassel
+
+Wörnern
+
+Heilbrunn
+
+Würding
+
+Füssing
+
+**Z**
+
+Zeischa
+
+Liebenwerda
+
+Zeitlofs
+
+Brückenau
+
+Zell
+
+Aibling
+
+Ziegelberg
+
+Grönenbach
+
+Ziegelstadel
+
+Grönenbach
+
+Zieglöd
+
+Füssing
+
+Zinnheim
+
+Marienberg
+
+Zwicklarn
+
+Füssing
+
+Abschnitt 3
+*Heilbäder und Kurorte im EU-Ausland*
+
+a)  
+Frankreich
+
+aa)  
+Aix-les-Bains
+
+bb)  
+Amélie-les-Bains-Palada
+
+cc)  
+Cambo-les-Bains
+
+dd)  
+La Roche-Posay
+
+b)  
+Italien
+
+aa)  
+Abano Therme
+
+bb)  
+Galzignano
+
+cc)  
+Ischia
+
+dd)  
+Meran
+
+ee)  
+Montegrotto
+
+ff)  
+Montepulciano
+
+c)  
+KroatienCres
+
+d)  
+Österreich
+
+aa)  
+Bad Gastein
+
+bb)  
+Bad Hall in Tirol
+
+cc)  
+Bad Hofgastein
+
+dd)  
+Bad Schönau
+
+ee)  
+Bad Traunstein
+
+ff)  
+Oberlaa
+
+e)  
+Polen
+
+aa)  
+Bad Flinsberg/Swieradow Zdroy
+
+bb)  
+Kolberg/Kolobrzeg
+
+cc)  
+Swinemünde/Świnoujście
+
+dd)  
+Ustroń
+
+f)  
+RumänienBad Felix/Băile Felix
+
+g)  
+Slowakei
+
+aa)  
+Dudince
+
+bb)  
+Piešťany
+
+cc)  
+Turčianske Teplice
+
+h)  
+Tschechien
+
+aa)  
+Bad Bělohrad/Lázně Bělohrad
+
+bb)  
+Bad Joachimsthal/Jáchymov
+
+cc)  
+Bad Luhatschowitz/Luhačovice
+
+dd)  
+Bad Teplitz/Lázně Teplice v Čechách
+
+ee)  
+Franzenbad/Františkovy Lázně
+
+ff)  
+Freiwaldau/Lázně Jeseník
+
+gg)  
+Johannisbad/Janské Lázně
+
+hh)  
+Karlsbad/Karlovy Vary
+
+ii)  
+Konstantinsbad/Konstantinovy Lázně
+
+jj)  
+Marienbad/Mariánské Lázně
+
+i)  
+Ungarn
+
+aa)  
+Bad Hévíz
+
+bb)  
+Bad Zalakaros
+
+cc)  
+Bük
+
+dd)  
+Hajdúszoboszló
+
+ee)  
+Komárom
+
+ff)  
+Sárvár
+
+Abschnitt 4
+Heilbäder und Kurorte im Nicht-EU-Ausland
+
+a)  
+Ein Boqeq
+
+b)  
+Sweimeh
+
+B = Einzelkurbetrieb
+G = Gesamtes Gemeindegebiet
+K = nur Kerngemeinde, Kernstadt
+
+### Anlage 16 (zu § 51a)
+
+(Fundstelle: BGBl. I 2018, 1261 — 1262)
+
+
