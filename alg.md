@@ -2,7 +2,10 @@ Gesetz über die Alterssicherung der Landwirte (ALG)
 ===================================================
 
 Stand  
-Zuletzt geändert Art. 3 G v. 21.12.2015 I 2557
+Zuletzt geändert durch Art. 8 G v. 11.12.2018 I 2387
+
+Hinweis  
+Änderung durch Art. 4a G v. 18.12.2018 I 2651 (Nr. 48) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 ### 
 
@@ -86,7 +89,7 @@ Das G wurde als Artikel 1 G 8251-10/1 v. 29.7.1994 I 1890 (ASRG 1995) vom Bundes
 | § 20                                                                                                                |
 |                                                                                                                     |
 |   Sechster Untertitel                                                                                               |
-|   Abgabe des Unternehmens                                                                                           |
+|   (weggefallen)                                                                                                     |
 |                                                                                                                     |
 | § 21                                                                                                                |
 | § 22                                                                                                                |
@@ -108,6 +111,7 @@ Das G wurde als Artikel 1 G 8251-10/1 v. 29.7.1994 I 1890 (ASRG 1995) vom Bundes
 |                                                                                                                     |
 | § 27                                                                                                                |
 | § 27a                                                                                                               |
+| § 27b                                                                                                               |
 | § 28                                                                                                                |
 | § 29                                                                                                                |
 |                                                                                                                     |
@@ -509,13 +513,16 @@ Versicherungsfrei sind
 Landwirte und mitarbeitende Familienangehörige, die
 
 a)  
-das 18. Lebensjahr noch nicht vollendet oder die Regelaltersgrenze bereits erreicht haben oder
+das 18. Lebensjahr noch nicht vollendet oder die Regelaltersgrenze bereits erreicht haben,
 
 b)  
-bei Beginn der Versicherung die Wartezeit nach § 13 Abs. 1 Nr. 3 für eine Rente wegen Erwerbsminderung nicht mehr erfüllen können,
+bei Beginn der Versicherung die Wartezeit nach § 13 Abs. 1 Nr. 3 für eine Rente wegen Erwerbsminderung nicht mehr erfüllen können oder
+
+c)  
+bereits eine vorzeitige Rente wegen Alters oder eine Rente wegen Erwerbsminderung beziehen, und
 
 2.  
-Landwirte, die eine Rente unter Berücksichtigung von § 21 Absatz 8 Satz 2 beziehen und
+(weggefallen)
 
 3.  
 mitarbeitende Familienangehörige, solange sie als Landwirt in der Alterssicherung der Landwirte versichert sind.
@@ -633,27 +640,29 @@ Erster Unterabschnitt Voraussetzungen für die Leistungen
 
 ### § 7 Aufgabe der Leistungen zur Teilhabe
 
-(1) Die Alterssicherung der Landwirte erbringt Leistungen zur medizinischen Rehabilitation sowie sonstige und ergänzende Leistungen, um
+(1) Die Alterssicherung der Landwirte erbringt Leistungen zur Prävention, Leistungen zur medizinischen Rehabilitation, Leistungen zur Nachsorge sowie ergänzende Leistungen, um
 
 1.  
-den Auswirkungen einer Krankheit oder einer körperlichen, geistigen oder seelischen Behinderung auf die Erwerbsfähigkeit der Versicherten entgegenzuwirken oder sie zu überwinden und
+den Auswirkungen einer Krankheit oder einer körperlichen, geistigen oder seelischen Behinderung auf die Erwerbsfähigkeit der Versicherten vorzubeugen, entgegenzuwirken oder sie zu überwinden und
 
 2.  
 dadurch Beeinträchtigungen der Erwerbsfähigkeit der Versicherten oder ihr vorzeitiges Ausscheiden aus dem Erwerbsleben zu verhindern oder sie möglichst dauerhaft in das Erwerbsleben wiedereinzugliedern.
 
 Die Leistungen zur Teilhabe haben Vorrang vor Rentenleistungen, die bei erfolgreichen Leistungen zur Teilhabe nicht oder voraussichtlich erst zu einem späteren Zeitpunkt zu erbringen sind.
 
-(2) Die Leistungen nach Absatz 1 können erbracht werden, wenn die persönlichen und versicherungsrechtlichen Voraussetzungen dafür erfüllt sind.
+(2) Die Leistungen nach Absatz 1 sind zu erbringen, wenn die persönlichen und versicherungsrechtlichen Voraussetzungen dafür erfüllt sind.
+
+(3) Die Alterssicherung der Landwirte kann zudem sonstige Leistungen zur Teilhabe erbringen, wenn die persönlichen und versicherungsrechtlichen Voraussetzungen erfüllt sind.
 
 ### § 8 Persönliche und versicherungsrechtliche Voraussetzungen
 
-(1) Die persönlichen Voraussetzungen für Leistungen zu medizinischen Rehabilitation haben Versicherte erfüllt, bei denen die Voraussetzungen des § 10 des Sechsten Buches Sozialgesetzbuch vorliegen.
+(1) Die persönlichen Voraussetzungen für Leistungen zur Teilhabe haben Versicherte erfüllt, bei denen die Voraussetzungen des § 10 des Sechsten Buches Sozialgesetzbuch vorliegen.
 
-(2) Für die versicherungsrechtlichen Voraussetzungen für Leistungen zur medizinischen Rehabilitation gilt § 11 des Sechsten Buches Sozialgesetzbuch entsprechend; § 17 Abs. 1 Satz 2 ist hierbei nicht anzuwenden.
+(2) Für die versicherungsrechtlichen Voraussetzungen für Leistungen zur Teilhabe gilt § 11 des Sechsten Buches Sozialgesetzbuch entsprechend; § 17 Abs. 1 Satz 2 ist hierbei nicht anzuwenden.
 
 ### § 9 Ausschluß von Leistungen
 
-Für den Ausschluß von Leistungen zur medizinischen Rehabilitation nach diesem Abschnitt gilt § 12 des Sechsten Buches Sozialgesetzbuch entsprechend.
+Für den Ausschluß von Leistungen zur Teilhabe nach diesem Abschnitt gilt § 12 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
 Zweiter Unterabschnitt Umfang und Ort der Leistungen
 ----------------------------------------------------
@@ -662,12 +671,12 @@ Zweiter Unterabschnitt Umfang und Ort der Leistungen
 
 ### § 10 Umfang und Ort der Leistungen
 
-(1) Für Umfang und Ort der Leistungen zur medizinischen Rehabilitation sowie der sonstigen und ergänzenden Leistungen gelten die §§ 13 und 15, § 31 Abs. 1 Satz 1 Nr. 1, 3 bis 5, § 31 Abs. 1 Satz 2, § 31 Abs. 2 Satz 1 und § 32 Abs. 1, 2, 4 und 5 des Sechsten Buches Sozialgesetzbuch sowie §§ 18, 44 Abs. 1 Nr. 3 bis 6 und § 53 des Neunten Buches Sozialgesetzbuch entsprechend. Als ergänzende Leistung kann auch Betriebs- oder Haushaltshilfe erbracht werden. Die landwirtschaftliche Alterskasse betreibt keine eigenen Rehabilitationseinrichtungen. Leistungen nach den Absätzen 1 bis 3 müssen wirksam und wirtschaftlich sein, sie dürfen das Maß des Notwendigen nicht übersteigen. Das Nähere über die Durchführung der Leistungen nach den Absätzen 1 bis 3 wird in der Satzung der landwirtschaftlichen Alterskasse geregelt.
+(1) Für Umfang und Ort der Leistungen zur Teilhabe gelten die §§ 13, 14 Absatz 1 und 3, die §§ 15, 15a Absatz 1 bis 4, § 17 Absatz 1, § 31 Absatz 1 und 2 Satz 1 und 2 und § 32 Absatz 1, 2, 4 und 5 des Sechsten Buches Sozialgesetzbuch sowie die §§ 31, 64 Absatz 1 Nummer 3 bis 6 und § 73 des Neunten Buches Sozialgesetzbuch entsprechend. Als ergänzende Leistung kann auch Betriebs- oder Haushaltshilfe erbracht werden. Die landwirtschaftliche Alterskasse betreibt keine eigenen Rehabilitationseinrichtungen. Leistungen nach den Absätzen 1 bis 3 müssen wirksam und wirtschaftlich sein, sie dürfen das Maß des Notwendigen nicht übersteigen. Das Nähere über Umfang, Ort und Durchführung der Leistungen nach den Absätzen 1 bis 3 wird in der Satzung der landwirtschaftlichen Alterskasse geregelt.
 
 (2) Betriebshilfe kann erbracht werden, wenn
 
 1.  
-dem Landwirt wegen einer Leistung zur medizinischen Rehabilitation, einer sonstigen Leistung oder während der Dauer einer ärztlich verordneten Schonungszeit die Weiterführung des Betriebs nicht möglich ist,
+dem versicherten Landwirt wegen einer Leistung zur Prävention, einer Leistung zur medizinischen Rehabilitation, einer sonstigen Leistung oder während der Dauer einer ärztlich verordneten Schonungszeit die Weiterführung des Betriebs nicht möglich ist,
 
 2.  
 die Leistung zur Aufrechterhaltung des Unternehmens der Landwirtschaft erforderlich ist und
@@ -675,7 +684,7 @@ die Leistung zur Aufrechterhaltung des Unternehmens der Landwirtschaft erforderl
 3.  
 in dem Unternehmen keine Arbeitnehmer oder mitarbeitenden Familienangehörigen ständig beschäftigt werden.
 
-Haushaltshilfe kann erbracht werden, wenn dem Landwirt wegen einer Leistung zur medizinischen Rehabilitation, einer sonstigen Leistung oder während der Dauer einer ärztlich verordneten Schonungszeit die Weiterführung des Haushalts nicht möglich und diese auf andere Weise nicht sicherzustellen ist und
+Haushaltshilfe kann erbracht werden, wenn dem versicherten Landwirt wegen einer Leistung zur Prävention, einer Leistung zur medizinischen Rehabilitation, einer sonstigen Leistung oder während der Dauer einer ärztlich verordneten Schonungszeit die Weiterführung des Haushalts nicht möglich und diese auf andere Weise nicht sicherzustellen ist und
 
 1.  
 die Leistung zur Aufrechterhaltung des Haushalts erforderlich ist und
@@ -722,32 +731,29 @@ Erster Untertitel Renten wegen Alters
 (1) Landwirte haben Anspruch auf Regelaltersrente, wenn
 
 1.  
-sie die Regelaltersgrenze erreicht haben,
+sie die Regelaltersgrenze erreicht haben und
 
 2.  
-sie die Wartezeit von 15 Jahren erfüllt haben und
-
-3.  
-das Unternehmen der Landwirtschaft abgegeben ist.
+sie die Wartezeit von 15 Jahren erfüllt haben.
 
 (2) Mitarbeitende Familienangehörige haben Anspruch auf Regelaltersrente, wenn sie
 
 1.  
-die Regelaltersgrenze erreicht haben,
+die Regelaltersgrenze erreicht haben und
 
 2.  
-die Wartezeit von 15 Jahren erfüllt haben und
-
-3.  
-nicht Landwirt sind.
+die Wartezeit von 15 Jahren erfüllt haben.
 
 (3) Die Regelaltersgrenze wird mit Vollendung des 67. Lebensjahres erreicht.
 
+§ 11 Abs. 1 Nr. 3: Nach Maßgabe der Entscheidungsformel mit Art. 14 Abs. 1 GG unvereinbar gem. BVerfGE v. 23.5.2018 I 1350 - 1 BvR 979/14 u.a. -
+§ 11 Abs. 1 Nr. 3 iVm § 21 Abs. 9 Satz 4 idF d. Art. 7 Nr. 1a G v. 5.8.2010 I 1127: Nach Maßgabe der Entscheidungsformel mit Art. 6 Abs. 1 iVm Art. 3 Abs 2 GG unvereinbar gem. BVerfGE v. 23.5.2018 I 1350 - 1 BvR 979/14 u.a. -
+
 ### § 12 Vorzeitige Altersrente
 
-(1) Landwirte können die Altersrente bis zu zehn Jahre vor Erreichen der Regelaltersgrenze vorzeitig in Anspruch nehmen, wenn die Voraussetzungen des § 11 Abs. 1 Nr. 2 und 3 vorliegen und der Ehegatte bereits Anspruch auf eine Regelaltersrente oder vorzeitige Altersrente nach Absatz 2 hat oder gehabt hat.
+(1) Landwirte können die Altersrente bis zu zehn Jahre vor Erreichen der Regelaltersgrenze vorzeitig in Anspruch nehmen, wenn die Voraussetzung des § 11 Absatz 1 Nummer 2 vorliegt und der Ehegatte bereits Anspruch auf eine Regelaltersrente oder vorzeitige Altersrente nach Absatz 2 hat oder gehabt hat.
 
-(2) Landwirte können die Altersrente frühestens ab Vollendung des 65. Lebensjahres vorzeitig in Anspruch nehmen, wenn die Voraussetzung des § 11 Abs. 1 Nr. 3 vorliegt und die Wartezeit von 35 Jahren erfüllt ist. Satz 1 gilt für mitarbeitende Familienangehörige entsprechend.
+(2) Landwirte können die Altersrente frühestens ab Vollendung des 65. Lebensjahres vorzeitig in Anspruch nehmen, wenn die Wartezeit von 35 Jahren erfüllt ist. Satz 1 gilt für mitarbeitende Familienangehörige entsprechend.
 
 Zweiter Untertitel Renten wegen Erwerbsminderung
 ------------------------------------------------
@@ -762,15 +768,12 @@ Zweiter Untertitel Renten wegen Erwerbsminderung
 sie teilweise erwerbsgemindert nach § 43 des Sechsten Buches Sozialgesetzbuch sind,
 
 2.  
-sie in den letzten fünf Jahren vor Eintritt der Erwerbsminderung mindestens drei Jahre Pflichtbeiträge zur landwirtschaftlichen Alterskasse gezahlt haben,
+sie in den letzten fünf Jahren vor Eintritt der Erwerbsminderung mindestens drei Jahre Pflichtbeiträge zur landwirtschaftlichen Alterskasse gezahlt haben und
 
 3.  
-sie vor Eintritt der Erwerbsminderung die Wartezeit von fünf Jahren erfüllt haben und
+sie vor Eintritt der Erwerbsminderung die Wartezeit von fünf Jahren erfüllt haben.
 
-4.  
-das Unternehmen der Landwirtschaft abgegeben ist.
-
-Landwirte haben Anspruch auf Rente wegen voller Erwerbsminderung, wenn sie voll erwerbsgemindert nach § 43 des Sechsten Buches Sozialgesetzbuch sind und die sonstigen Voraussetzungen nach Satz 1 erfüllt sind. Voll erwerbsgemindert ist nicht, wer Landwirt nach § 1 Abs. 3 ist.
+Landwirte haben Anspruch auf Rente wegen voller Erwerbsminderung, wenn sie voll erwerbsgemindert nach § 43 des Sechsten Buches Sozialgesetzbuch sind und die sonstigen Voraussetzungen nach Satz 1 erfüllt sind.
 
 (2) Der Zeitraum von fünf Jahren vor Eintritt der Erwerbsminderung verlängert sich um
 
@@ -793,18 +796,18 @@ Zeiten, die nur deshalb keine Anrechnungszeiten im Sinne des Sechsten Buches Soz
 Zeiten der Versicherungsfreiheit in der gesetzlichen Rentenversicherung nach § 5 Abs. 1 und 4 des Sechsten Buches Sozialgesetzbuch,
 
 7.  
-Zeiten der Mitgliedschaft in einer berufsständischen Versorgungseinrichtung im Sinne des § 6 Abs. 1 Nr. 1 des Sechsten Buches Sozialgesetzbuch aufgrund einer Beschäftigung oder selbständigen Tätigkeit,
+Zeiten der Mitgliedschaft in einer berufsständischen Versorgungseinrichtung im Sinne des § 6 Abs. 1 Nr. 1 des Sechsten Buches Sozialgesetzbuch aufgrund einer Beschäftigung oder selbständigen Tätigkeit und
 
 8.  
-Zeiten nach der Vollendung des 60. Lebensjahres, in denen das Unternehmen der Landwirtschaft abgegeben ist,
+(weggefallen)
 
 9.  
-Zeiten, in denen die Voraussetzungen des § 21 Abs. 4 und 5 erfüllt sind, und
+(weggefallen)
 
 10.  
 Zeiten des Bezugs einer Rente nach dem Gesetz zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit.
 
-(3) Mitarbeitende Familienangehörige haben Anspruch auf Rente wegen Erwerbsminderung, wenn sie die Voraussetzungen des Absatzes 1 mit Ausnahme der Unternehmensabgabe erfüllen und nicht Landwirt sind; Absatz 2 Nr. 1 bis 7 und 10 gilt entsprechend.
+(3) Mitarbeitende Familienangehörige haben Anspruch auf Rente wegen Erwerbsminderung, wenn sie die Voraussetzungen des Absatzes 1 erfüllen; Absatz 2 Nr. 1 bis 7 und 10 gilt entsprechend.
 
 (4) Die Voraussetzung nach Absatz 1 Nr. 2 muß nicht erfüllt sein, wenn die Wartezeit von fünf Jahren vorzeitig erfüllt ist. Für die Erfüllung der Voraussetzung nach Absatz 1 Nr. 2 stehen Zeiten nach § 17 Abs. 1 Satz 2 Pflichtbeiträgen gleich.
 
@@ -818,13 +821,13 @@ Dritter Untertitel Renten wegen Todes
 (1) Witwen oder Witwer, die nicht wieder geheiratet haben, haben nach dem Tode des Versicherten Anspruch auf Witwenrente oder Witwerrente, wenn
 
 1.  
-das Unternehmen der Landwirtschaft des Verstorbenen abgegeben ist,
+(weggefallen)
 
 2.  
-der verstorbene Ehegatte die Wartezeit von fünf Jahren erfüllt hat,
+der verstorbene Ehegatte die Wartezeit von fünf Jahren erfüllt hat und
 
 3.  
-der überlebende Ehegatte nicht Landwirt ist und
+(weggefallen)
 
 4.  
 der überlebende Ehegatte
@@ -856,7 +859,7 @@ Der Erziehung steht die in häuslicher Gemeinschaft ausgeübte Sorge für ein ei
 
 ### § 15 Waisenrente
 
-Kinder haben nach dem Tode eines Elternteils entsprechend § 48 des Sechsten Buches Sozialgesetzbuch Anspruch auf Waisenrente, wenn sie nicht Landwirte sind. Die Wartezeit ist erfüllt, wenn der verstorbene Elternteil die Wartezeit von fünf Jahren erfüllt hat.
+Kinder haben nach dem Tode eines Elternteils entsprechend § 48 des Sechsten Buches Sozialgesetzbuch Anspruch auf Waisenrente. Die Wartezeit ist erfüllt, wenn der verstorbene Elternteil die Wartezeit von fünf Jahren erfüllt hat.
 
 ### § 16 Renten wegen Todes bei Verschollenheit
 
@@ -897,7 +900,7 @@ Beitragszeiten sind Zeiten, für die Pflichtbeiträge oder freiwillige Beiträge
 
 ### § 19 Zurechnungszeit
 
-(1) Zurechnungszeit ist die Zeit bis zur Vollendung des 62. Lebensjahres, die bei der Berechnung einer Rente wegen Erwerbsminderung oder einer Rente wegen Todes hinzugerechnet wird.
+(1) Zurechnungszeit ist die Zeit bis zur Vollendung des 67. Lebensjahres, die bei der Berechnung einer Rente wegen Erwerbsminderung oder einer Rente wegen Todes hinzugerechnet wird.
 
 (2) Die Zurechnungszeit beginnt
 
@@ -909,77 +912,18 @@ bei einer Witwenrente, Witwerrente und einer Waisenrente mit dem Tode des Versic
 
 (3) Wird eine Rente wegen Erwerbsminderung oder wegen Todes nur unter Berücksichtigung von § 13 Abs. 2 Nr. 1 bis 7 oder Zeiten nach § 17 Abs. 1 Satz 2 geleistet, bleibt die Zurechnungszeit unberücksichtigt, soweit die gleiche Zeit bei einer vergleichbaren Leistung wegen Erwerbsminderung oder wegen Todes des Versicherten berücksichtigt wird.
 
+(4) Hat der verstorbene Versicherte eine Altersrente bezogen, ist bei einer nachfolgenden Rente wegen Todes eine Zurechnungszeit nicht zu berücksichtigen.
+
 ### § 20 Schadensersatz bei rentenrechtlichen Zeiten
 
 Durch die Berücksichtigung von rentenrechtlichen Zeiten wird ein Anspruch auf Schadensersatz wegen verminderter Erwerbsfähigkeit nicht ausgeschlossen oder gemindert.
 
-Sechster Untertitel Abgabe des Unternehmens
--------------------------------------------
+Sechster Untertitel (weggefallen)
+---------------------------------
 
 ### 
 
-### § 21 Abgabe des Unternehmens
-
-(1) Ein Unternehmen der Landwirtschaft ist abgegeben, wenn das Eigentum an den landwirtschaftlich genutzten Flächen mit Ausnahme stillgelegter Flächen an einen Dritten übergegangen ist.
-
-(2) Ein Unternehmen der Landwirtschaft gilt als abgegeben, wenn
-
-1.  
-die landwirtschaftlich genutzten Flächen verpachtet sind,
-
-2.  
-diese mit einem Nießbrauch zugunsten Dritter belastet sind oder
-
-3.  
-in ähnlicher Weise die landwirtschaftliche Nutzung auf eigenes Risiko auf längere Dauer unmöglich gemacht ist.
-
-Sofern die landwirtschaftlich genutzten Flächen Gegenstand eines Vertrages sind, bedarf dieser der Schriftform; der Vertrag oder die Unmöglichkeit der Nutzung im Sinne des Satzes 1 Nr. 3 muß sich auf einen Zeitraum von mindestens neun Jahren erstrecken. Der Zeitraum beginnt mit dem Abschluß des Vertrages, jedoch nicht vor Erreichen der Regelaltersgrenze in den Fällen des § 11 Abs. 1, nicht vor Vollendung des Lebensalters, ab dem eine Altersrente vorzeitig in Anspruch genommen wird in den Fällen des § 12 und nicht vor Eintritt der Erwerbsminderung in den Fällen des § 13.
-
-(3) Ein Unternehmen der Binnenfischerei ist abgegeben, wenn der Unternehmer mit seinem Unternehmen das Fischereiausübungsrecht aufgibt. Ein Unternehmen der Imkerei und Wanderschäferei ist abgegeben, wenn der Unternehmer das Unternehmen aufgibt, übereignet oder die Nutzung für einen Zeitraum von mindestens neun Jahren schriftlich übertragen hat. Für die Übertragung der Nutzung gilt Absatz 2 Satz 3 entsprechend.
-
-(4) Der Abgabe steht es gleich, wenn die landwirtschaftlich genutzten Flächen stillgelegt sind. Flächen gelten als stillgelegt, wenn die landwirtschaftliche Nutzung ruht und nicht die Voraussetzungen der Absätze 1 und 2 vorliegen.
-
-(5) Das Unternehmen gilt auch dann als abgegeben, wenn
-
-1.  
-die landwirtschaftlich genutzte Fläche ganz oder teilweise erstmals aufgeforstet worden ist,
-
-2.  
-die Größe der aufgeforsteten Fläche und die gewählte Baumart und Pflanzenzahl eine ordnungsmäßige forstwirtschaftliche Nutzung als Hochwald zuläßt,
-
-3.  
-die Erstaufforstung agrar- oder infrastrukturellen Zielen sowie den bundes- oder landesrechtlichen Vorschriften entspricht und landeskulturell unbedenklich ist,
-
-4.  
-durch die Erstaufforstung die Nutzung der angrenzenden Flächen nicht unzumutbar beeinträchtigt wird und
-
-5.  
-der Wirtschaftswert der erstaufgeforsteten Fläche einschließlich des nicht abgegebenen Teils des Unternehmens das Einfache der Mindestgröße nicht erreicht.
-
-Die Voraussetzungen des Satzes 1 Nr. 2 bis 4 sind durch eine Bescheinigung der von der Landesregierung bestimmten Stelle nachzuweisen.
-
-(6) (weggefallen)
-
-(7) Ein Unternehmen der Landwirtschaft gilt auch dann als abgegeben, wenn der Wirtschaftswert des nicht abgegebenen Teils des Unternehmens das Einfache der Mindestgröße nach § 1 Absatz 5 nicht erreicht. Satz 1 gilt entsprechend für ein Unternehmen der Imkerei, der Binnenfischerei und der Wanderschäferei.
-
-(8) Wird ein Unternehmen der Landwirtschaft von mehreren Unternehmern gemeinsam, von einer Personenhandelsgesellschaft oder einer juristischen Person betrieben, gilt das Unternehmen nur dann als abgegeben, wenn der Unternehmer aus dem Unternehmen ausgeschieden ist. Dem Ausscheiden nach Satz 1 steht es gleich, wenn der Unternehmer nicht an der Unternehmensführung beteiligt ist und er keine Vertretungsmacht für das Unternehmen hat.
-
-(9) Gibt ein Ehegatte landwirtschaftlich genutzte Flächen an den anderen Ehegatten ab, gelten die Voraussetzungen der Abgabe des Unternehmens als erfüllt, wenn er
-
-1.  
-unabhängig von der jeweiligen Arbeitsmarktlage voll erwerbsgemindert nach § 43 Absatz 2 des Sechsten Buches Sozialgesetzbuch ist,
-
-2.  
-die Regelaltersgrenze erreicht hat oder
-
-3.  
-die Voraussetzungen für den Bezug einer vorzeitigen Altersrente nach § 12 Absatz 2 erfüllt.
-
-Für den anderen Ehegatten gilt die Abgabe als erfolgt, wenn die Voraussetzungen des Satzes 1 erfüllt sind.
-
-### § 22 Verordnungsermächtigung
-
-Das Bundesministerium für Arbeit und Soziales bestimmt im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates Näheres über die Voraussetzungen, unter denen eine Fläche als stillgelegt gilt, insbesondere auch über die zulässigen Pflegemaßnahmen. Dabei sind die Belange des Umwelt- und Naturschutzes, der Landschaftspflege und der Raumordnung zu beachten.
+### (XXXX) §§ 21, 22 (weggefallen)
 
 Zweiter Titel Berechnung der Renten
 -----------------------------------
@@ -1020,7 +964,7 @@ Beitragszeiten, die nach Eintritt der hierfür maßgebenden Minderung der Erwerb
 2.  
 freiwillige Beiträge, die nach Eintritt der hierfür maßgebenden Minderung der Erwerbsfähigkeit gezahlt worden sind,
 
-unberücksichtigt. Dies gilt nicht für freiwillige Beiträge nach Satz 3 Nr. 2, wenn die Minderung der Erwerbsfähigkeit während eines Beitragsverfahrens oder eines Verfahrens über einen Rentenanspruch eingetreten ist. Bei Renten an mitarbeitende Familienangehörige oder deren Hinterbliebene bleiben die mit Beiträgen als Landwirt belegten Kalendermonate unberücksichtigt, wenn ein Anspruch auf Rente an Landwirte oder deren Hinterbliebene nur deshalb nicht besteht, weil das Unternehmen nicht nach § 21 abgegeben wurde; Zurechnungszeiten werden in dem Verhältnis berücksichtigt, in dem die Beitragszeiten als mitarbeitender Familienangehöriger zu allen Beitragszeiten stehen. Bei vorzeitigen Altersrenten werden Beiträge, die für Zeiten nach Beginn der Renten gezahlt worden sind, ab Beginn des Monats berücksichtigt, der auf den Monat des Erreichens der Regelaltersgrenze folgt. Beiträge, die nach Feststellung einer Rente für Zeiten vor Rentenbeginn gezahlt werden, werden ab Beginn des auf die Zahlung folgenden Kalenderjahres berücksichtigt.
+unberücksichtigt. Dies gilt nicht für freiwillige Beiträge nach Satz 3 Nr. 2, wenn die Minderung der Erwerbsfähigkeit während eines Beitragsverfahrens oder eines Verfahrens über einen Rentenanspruch eingetreten ist. Bei Renten an mitarbeitende Familienangehörige oder deren Hinterbliebene werden Zurechnungszeiten in dem Verhältnis berücksichtigt, in dem die Beitragszeiten als mitarbeitender Familienangehöriger zu allen Beitragszeiten stehen. Bei vorzeitigen Altersrenten werden Beiträge, die für Zeiten nach Beginn der Renten gezahlt worden sind, ab Beginn des Monats berücksichtigt, der auf den Monat des Erreichens der Regelaltersgrenze folgt. Beiträge, die nach Feststellung einer Rente für Zeiten vor Rentenbeginn gezahlt werden, werden ab Beginn des auf die Zahlung folgenden Kalenderjahres berücksichtigt.
 
 (3) Der Faktor beträgt
 
@@ -1058,7 +1002,7 @@ Bei einer Rente an Witwen und Witwer, für die in der gesetzlichen Rentenversich
 
 Der Monatsbetrag einer Witwenrente und Witwerrente darf den Monatsbetrag einer Altersrente oder Rente wegen voller Erwerbsminderung des Verstorbenen unter Zugrundelegung eines ohne Abschläge ermittelten allgemeinen Rentenwerts nicht überschreiten.
 
-(7) Für jeden Kalendermonat, für den eine Versichertenrente nach Erreichen der Regelaltersgrenze nicht in Anspruch genommen wird oder für den ein Anspruch auf Regelaltersrente nur deshalb nicht besteht, weil das Unternehmen der Landwirtschaft nicht abgegeben ist, erhöht sich der allgemeine Rentenwert bei einer Regelaltersrente um 0,5 vom Hundert (Zuschlag). Bei Hinterbliebenenrenten wird ein Zuschlag auch dann berücksichtigt, wenn der Versicherte die Voraussetzungen nach Satz 1 erfüllt hat und noch keine Versichertenrente bezogen hat. Für Zeiten nach § 92 werden keine Zuschläge nach Satz 1 berücksichtigt.
+(7) (weggefallen)
 
 (8) Für jeden Kalendermonat,
 
@@ -1145,13 +1089,13 @@ Vierter Titel Zusammentreffen von Renten mit Einkommen
 
 ### § 27 Zusammentreffen von Renten
 
-(1) Bestehen für denselben Zeitraum Ansprüche auf Altersrente und Rente wegen Erwerbsminderung oder mehrere Ansprüche auf Witwenrente, Witwerrente oder Waisenrente, wird nur eine Rente geleistet.
+(1) Bestehen für denselben Zeitraum Ansprüche auf Altersrente und Rente wegen Erwerbsminderung oder mehrere Ansprüche auf Witwenrente, Witwerrente oder Waisenrente, wird nur eine Rente geleistet. § 89 Absatz 1 Satz 3 bis 7 des Sechsten Buches Sozialgesetzbuch gilt entsprechend.
 
 (2) Besteht für denselben Zeitraum aus den Rentenanwartschaften eines Versicherten Anspruch auf Witwenrente oder Witwerrente für mehrere Berechtigte, erhält jeder Berechtigte den Teil der Witwenrente oder Witwerrente, der dem Verhältnis der Dauer seiner Ehe mit dem Versicherten zu der Dauer der Ehen des Versicherten mit allen Berechtigten entspricht. Dies gilt nicht für Witwen oder Witwer, solange der Rentenartfaktor 1,0 beträgt. Ergibt sich aus der Anwendung des Rechts eines anderen Staates, daß mehrere Berechtigte vorhanden sind, erfolgt die Aufteilung nach § 34 Abs. 2 des Ersten Buches Sozialgesetzbuch.
 
 ### § 27a Rente wegen Erwerbsminderung und Hinzuverdienst
 
-(1) Trifft Einkommen im Sinne von § 96a des Sechsten Buches Sozialgesetzbuch mit einer Rente wegen Erwerbsminderung zusammen, findet bis zum Erreichen der Regelaltersgrenze § 96a des Sechsten Buches Sozialgesetzbuch mit der Maßgabe entsprechend Anwendung, dass Arbeitseinkommen aus Land- und Forstwirtschaft nicht berücksichtigt wird und als Hinzuverdienstgrenzen die Beträge nach Absatz 2 zugrunde zu legen sind.
+(1) Eine Rente wegen Erwerbsminderung wird bis zum Erreichen der Regelaltersgrenze in Abhängigkeit vom monatlich erzielten Arbeitsentgelt oder Arbeitseinkommen aus einer Beschäftigung oder selbständigen Tätigkeit oder von einem vergleichbaren Einkommen nach Maßgabe von Absatz 2 in voller oder teilweiser Höhe geleistet, wenn die in Absatz 2 genannten Hinzuverdienstgrenzen nicht überschritten werden. Ein zweimaliges Überschreiten um jeweils einen Betrag bis zur Hinzuverdienstgrenze nach Absatz 2 im Laufe eines jeden Kalenderjahres bleibt außer Betracht. Für das zu berücksichtigende Einkommen findet § 96a Absatz 2, 3 und 4 des Sechsten Buches Sozialgesetzbuch mit der Maßgabe entsprechend Anwendung, dass Arbeitseinkommen aus Land- und Forstwirtschaft nur berücksichtigt wird, wenn der Rentenbezieher Landwirt ist.
 
 (2) Die Hinzuverdienstgrenze beträgt
 
@@ -1180,6 +1124,29 @@ in Höhe der Hälfte das 0,69fache,
 
 c)  
 in Höhe eines Viertels das 0,84fache
+
+der monatlichen Bezugsgröße.
+
+### § 27b Vorzeitige Altersrente und Hinzuverdienst
+
+(1) Trifft eine vorzeitige Altersrente bis zum Erreichen der Regelaltersgrenze mit Einkommen zusammen, findet § 27a mit der Maßgabe Anwendung, dass an die Stelle der dort genannten Hinzuverdienstgrenzen die Hinzuverdienstgrenzen nach Absatz 2 treten.
+
+(2) Die Hinzuverdienstgrenze beträgt
+
+1.  
+bei einer vorzeitigen Altersrente in voller Höhe 450 Euro monatlich,
+
+2.  
+bei einer vorzeitigen Altersrente
+
+a)  
+in Höhe von zwei Dritteln das 0,39fache,
+
+b)  
+in Höhe der Hälfte das 0,57fache,
+
+c)  
+in Höhe von einem Drittel das 0,75fache
 
 der monatlichen Bezugsgröße.
 
@@ -1215,20 +1182,7 @@ Fünfter Titel Beginn, Änderung, Ruhen und Ende von Renten
 
 ### § 30 Beginn, Änderung, Ruhen und Ende von Renten
 
-(1) Die §§ 99, 100 Absatz 1, 3 und 4 sowie § 102 Absatz 1, 3 bis 6 des Sechsten Buches Sozialgesetzbuch gelten für Beginn, Änderung und Ende von Renten entsprechend. § 101 Abs. 3 bis 3b sowie § 268a des Sechsten Buches Sozialgesetzbuch gelten entsprechend, wenn eine interne Teilung im Rahmen des Versorgungsausgleichs stattgefunden hat.
-
-(2) Übernimmt ein Empfänger einer Rente ein oder mehrere Unternehmen der Landwirtschaft oder Unternehmensteile, deren Wirtschaftswert allein oder zusammen mit demjenigen nicht abgegebener Unternehmensteile die Grenzwerte nach § 21 Abs. 7 überschreitet, wird er Mitunternehmer eines Unternehmens der Landwirtschaft, Gesellschafter einer Personenhandelsgesellschaft oder Mitglied einer juristischen Person, die ein Unternehmen der Landwirtschaft im Sinne des § 1 Abs. 2 betreibt, oder endet die Abgabe nach § 21 Abs. 2 und 4 vor Ablauf von neun Jahren, wobei Zeiten einer vorhergehenden Abgabe nach § 21 Abs. 2 oder 4 berücksichtigt werden, ruht der Anspruch auf die Rente vom Beginn des folgenden Kalendermonats an. Das gleiche gilt, wenn ein Leistungsempfänger im Sinne des Satzes 1
-
-1.  
-ein Fischereiausübungsrecht innehat, das ihn mehr als 30 Arbeitstage jährlich in Anspruch nimmt,
-
-2.  
-mehr als 25 Bienenvölker oder als Wanderschäfer eine durchschnittlich mehr als 60 Großtiere umfassende Schafherde hält oder
-
-3.  
-Mitunternehmer eines Unternehmens der Landwirtschaft im Sinne des § 1 Abs. 4 Satz 4, Gesellschafter einer Personenhandelsgesellschaft oder Mitglied einer juristischen Person wird, die ein Unternehmen der Landwirtschaft im Sinne des § 1 Abs. 4 Satz 4 betreibt.
-
-Das Ruhen der Rente endet frühestens von dem Kalendermonat an, zu dessen Beginn die Voraussetzungen für die Abgabe des Unternehmens wieder erfüllt sind. Zeiten einer vorhergehenden Abgabe nach § 21 Abs. 2 oder 4 werden bei einer erneuten Abgabe nach § 21 Abs. 2 auf die Mindestabgabedauer von neun Jahren angerechnet.
+Die §§ 99, 100 Absatz 1, 3 und 4 sowie § 102 des Sechsten Buches Sozialgesetzbuch gelten für Beginn, Änderung und Ende von Renten entsprechend. § 101 Abs. 3 bis 3b sowie § 268a des Sechsten Buches Sozialgesetzbuch gelten entsprechend, wenn eine interne Teilung im Rahmen des Versorgungsausgleichs stattgefunden hat.
 
 Sechster Titel Ausschluß und Minderung von Renten
 -------------------------------------------------
@@ -1324,9 +1278,9 @@ Zweiter Titel Zuschuss zum Beitrag zur Krankenversicherung
 
 ### § 35a Zuschuß zum Beitrag zur Krankenversicherung
 
-(1) Rentenbezieher, die freiwillig in der gesetzlichen Krankenversicherung oder bei einem Krankenversicherungsunternehmen, das der deutschen Aufsicht unterliegt, versichert sind, erhalten zu ihrer Rente einen Zuschuß zu den Aufwendungen für die Krankenversicherung. Dies gilt nicht, wenn sie bereits von einem Träger der gesetzlichen Krankenversicherung einen Zuschuß erhalten oder wenn sie gleichzeitig in einer in- oder ausländischen gesetzlichen Krankenversicherung pflichtversichert sind.
+(1) Rentenbezieher, die freiwillig in der gesetzlichen Krankenversicherung oder bei einem Krankenversicherungsunternehmen, das der deutschen Aufsicht unterliegt, versichert sind, erhalten zu ihrer Rente einen Zuschuß zu den Aufwendungen für die Krankenversicherung. Dies gilt nicht, wenn sie bereits von einem Träger der gesetzlichen Krankenversicherung einen Zuschuß erhalten oder wenn sie gleichzeitig in einer in- oder ausländischen gesetzlichen Krankenversicherung pflichtversichert sind. Bei rückwirkender Feststellung einer Pflichtmitgliedschaft in der gesetzlichen Krankenversicherung gilt § 108 Absatz 2 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
-(2) Der monatliche Zuschuss wird in Höhe des halben Betrages geleistet, der sich aus der Anwendung des allgemeinen Beitragssatzes der gesetzlichen Krankenversicherung auf den Zahlbetrag der Rente ergibt. Der monatliche Zuschuß wird auf die Hälfte der tatsächlichen Aufwendungen für die Krankenversicherung begrenzt; von anderen Sozialleistungsträgern gezahlte Zuschüsse sind zu berücksichtigen.
+(2) Der monatliche Zuschuss wird in Höhe des halben Betrages geleistet, der sich aus der Anwendung des allgemeinen Beitragssatzes der gesetzlichen Krankenversicherung zuzüglich des durchschnittlichen Zusatzbeitragssatzes nach § 242a des Fünften Buches Sozialgesetzbuch auf den Zahlbetrag der Rente ergibt. Der monatliche Zuschuß wird auf die Hälfte der tatsächlichen Aufwendungen für die Krankenversicherung begrenzt; von anderen Sozialleistungsträgern gezahlte Zuschüsse sind zu berücksichtigen.
 
 Dritter Abschnitt Betriebs- und Haushaltshilfe oder sonstige Leistungen zur Aufrechterhaltung des Unternehmens der Landwirtschaft
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -1340,7 +1294,7 @@ Dritter Abschnitt Betriebs- und Haushaltshilfe oder sonstige Leistungen zur Aufr
 (2) Absatz 1 gilt entsprechend bei
 
 1.  
-Vorliegen einer Schwangerschaft und bis zum Ablauf von acht Wochen oder nach Mehrlings- und Frühgeburten bis zum Ablauf von zwölf Wochen nach der Entbindung, bei Frühgeburten und sonstigen vorzeitigen Entbindungen ist § 6 Abs. 1 Satz 2 des Mutterschutzgesetzes entsprechend anzuwenden,
+Vorliegen einer Schwangerschaft und bis zum Ablauf von acht Wochen oder in den Fällen des § 3 Absatz 2 Satz 2 des Mutterschutzgesetzes bis zum Ablauf von zwölf Wochen nach der Entbindung. Bei vorzeitigen Entbindungen ist § 3 Absatz 2 Satz 3 des Mutterschutzgesetzes entsprechend anzuwenden,
 
 2.  
 medizinische Vorsorgeleistungen nach den §§ 23 und 24 des Fünften Buches Sozialgesetzbuch und
@@ -1395,7 +1349,7 @@ der verstorbene Unternehmer zum Zeitpunkt seines Todes die Voraussetzungen nach 
 
 (3) Das Überbrückungsgeld wird längstens für die Dauer der auf den Sterbemonat des Unternehmers folgenden drei Jahre gezahlt. Es gelten die Vorschriften über Beginn, Änderung, Ende, Ausschluß und Minderung von Renten entsprechend.
 
-(4) Der Anspruch ruht während der Zeit, in der Betriebs- oder Haushaltshilfe bei Tod des Landwirts gestellt wird.
+(4) Der Anspruch ruht während der Zeit, in der Betriebs- oder Haushaltshilfe bei Tod des Landwirts gestellt oder Witwenrente oder Witwerrente bezogen wird.
 
 ### § 39 Betriebs- und Haushaltshilfe in anderen Fällen
 
@@ -1435,7 +1389,7 @@ Vierter Abschnitt Rentenauskunft
 
 (3) Auf Antrag erhalten Versicherte Auskunft über die Höhe ihrer auf die Ehezeit oder Lebenspartnerschaftszeit entfallenden Rentenanwartschaft. Diese Auskunft erhält auf Antrag auch der Ehegatte oder der geschiedene Ehegatte oder der Lebenspartner oder der frühere Lebenspartner des Versicherten, wenn die landwirtschaftliche Alterskasse diese Auskunft nach § 74 Satz 1 Nr. 2 Buchstabe b des Zehnten Buches Sozialgesetzbuch erteilen darf, weil der Versicherte seine Auskunftspflicht gegenüber dem Ehegatten oder Lebenspartner nicht oder nicht vollständig erfüllt hat. Die nach Satz 2 erteilte Auskunft wird auch dem Versicherten mitgeteilt.
 
-(4) Rentenauskünfte sind schriftlich zu erteilen. Sie sind nicht rechtsverbindlich.
+(4) Rentenauskünfte sind schriftlich oder elektronisch zu erteilen. Sie sind nicht rechtsverbindlich.
 
 Fünfter Abschnitt Leistungen an Berechtigte im Ausland
 ------------------------------------------------------
@@ -1487,7 +1441,7 @@ Erster Unterabschnitt Beginn und Abschluß des Verfahrens
 
 (2) Die landwirtschaftliche Alterskasse soll die Berechtigten in geeigneten Fällen darauf hinweisen, daß sie eine Leistung erhalten können, wenn sie diese beantragen.
 
-(3) Hängt der Anspruch auf eine Rente auch davon ab, dass eine Erwerbsminderung vorliegt, hat die landwirtschaftliche Alterskasse vor Abgabe des Unternehmens der Landwirtschaft zu prüfen, ob die übrigen Voraussetzungen für den Anspruch erfüllt sind, und für den Fall, dass von diesen nur das Vorliegen von Erwerbsminderung verneint wird, hierüber eine Entscheidung zu treffen.
+(3) (weggefallen)
 
 Zweiter Unterabschnitt Auszahlung und Anpassung
 -----------------------------------------------
@@ -1770,7 +1724,7 @@ Fünfter Unterabschnitt Auskunfts- und Mitteilungspflichten
 
 (1) Für die Auskunfts- und Mitteilungspflichten von Versicherten gilt § 196 Abs. 1 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
-(2) Die Datenstelle der Träger der Rentenversicherung übermittelt der landwirtschaftlichen Alterskasse die in § 196 Absatz 2a Nummer 2 des Sechsten Buches Sozialgesetzbuch genannten Daten mit der Maßgabe, dass die übermittelten Daten zur Wahrnehmung der Aufgaben nach § 62 und zur Feststellung der Versicherungspflicht von Ehegatten oder Lebenspartnern nach § 1 Absatz 3 genutzt werden dürfen. Die landwirtschaftliche Alterskasse übermittelt hierzu der Datenstelle in einem automatisierten Verfahren den Familiennamen oder den Lebenspartnerschaftsnamen, den Vornamen, den Familienstand, den Tag, den Monat und das Jahr der Geburt und die Anschrift der alleinigen oder der Hauptwohnung von nicht verheirateten oder verpartnerten Landwirten im Sinne des § 1 Absatz 2 und von Empfängern einer Witwenrente oder Witwerrente nach diesem Gesetz. Die Datenstelle führt den Abgleich der ihr übermittelten Daten durch. Bei Eheschließung oder Begründung einer Lebenspartnerschaft von Landwirten übermittelt die Datenstelle das Datum der Eheschließung oder der Begründung einer Lebenspartnerschaft und den Vor- und Familiennamen des Ehegatten oder Lebenspartners, bei Eheschließung oder Begründung einer Lebenspartnerschaft von Empfängern einer Witwenrente oder Witwerrente das Datum der Eheschließung oder der Begründung der Lebenspartnerschaft. § 196 Absatz 2a Satz 2 des Sechsten Buches Sozialgesetzbuch gilt für die Datenstelle mit der Maßgabe, dass die Daten erst gelöscht werden, nachdem der Abgleich nach den Sätzen 2 bis 4 erfolgt ist.
+(2) Die Datenstelle der Rentenversicherung übermittelt der landwirtschaftlichen Alterskasse die in § 196 Absatz 2a Nummer 2 des Sechsten Buches Sozialgesetzbuch genannten Daten mit der Maßgabe, dass die übermittelten Daten zur Wahrnehmung der Aufgaben nach § 62 und zur Feststellung der Versicherungspflicht von Ehegatten oder Lebenspartnern nach § 1 Absatz 3 genutzt werden dürfen. Die landwirtschaftliche Alterskasse übermittelt hierzu der Datenstelle in einem automatisierten Verfahren den Familiennamen oder den Lebenspartnerschaftsnamen, den Vornamen, den Familienstand, den Tag, den Monat und das Jahr der Geburt und die Anschrift der alleinigen oder der Hauptwohnung von nicht verheirateten oder verpartnerten Landwirten im Sinne des § 1 Absatz 2 und von Empfängern einer Witwenrente oder Witwerrente nach diesem Gesetz. Die Datenstelle führt den Abgleich der ihr übermittelten Daten durch. Bei Eheschließung oder Begründung einer Lebenspartnerschaft von Landwirten übermittelt die Datenstelle das Datum der Eheschließung oder der Begründung einer Lebenspartnerschaft und den Vor- und Familiennamen des Ehegatten oder Lebenspartners, bei Eheschließung oder Begründung einer Lebenspartnerschaft von Empfängern einer Witwenrente oder Witwerrente das Datum der Eheschließung oder der Begründung der Lebenspartnerschaft. § 196 Absatz 2a Satz 2 des Sechsten Buches Sozialgesetzbuch gilt für die Datenstelle mit der Maßgabe, dass die Daten erst gelöscht werden, nachdem der Abgleich nach den Sätzen 2 bis 4 erfolgt ist.
 
 Sechster Unterabschnitt (weggefallen)
 -------------------------------------
@@ -1835,7 +1789,7 @@ Zweiter Unterabschnitt Ausgabenbegrenzung
 
 ### § 80 Ausgaben für Teilhabe sowie für Betriebs- und Haushaltshilfe
 
-(1) Die jährlichen Ausgaben der landwirtschaftlichen Alterskasse für Leistungen zur medizinischen Rehabilitation sowie für Betriebs- und Haushaltshilfe werden entsprechend der voraussichtlichen Entwicklung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Abs. 2 Satz 1 des Sechsten Buches Sozialgesetzbuch) und der voraussichtlichen Entwicklung der Zahl der Versicherten, die zugleich nach § 2 des Zweiten Gesetzes über die Krankenversicherung der Landwirte versichert sind, festgesetzt. In der Zeit vom 1. Januar 2014 bis zum 31. Dezember 2050 werden die jährlichen Ausgaben nach Satz 1 unter zusätzlicher Berücksichtigung einer Demografiekomponente fortgeschrieben; § 287b Absatz 3 des Sechsten Buches Sozialgesetzbuch ist entsprechend anzuwenden. Überschreiten die Ausgaben am Ende eines Kalenderjahres den für dieses Kalenderjahr jeweils bestimmten Betrag, wird der sich für das zweite Kalenderjahr nach dem Jahr der Überschreitung der Ausgaben nach Satz 1 ergebende Betrag entsprechend vermindert.
+(1) Die jährlichen Ausgaben der landwirtschaftlichen Alterskasse für Leistungen zur Teilhabe sowie für Betriebs- und Haushaltshilfe werden entsprechend der voraussichtlichen Entwicklung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Abs. 2 Satz 1 des Sechsten Buches Sozialgesetzbuch) und der voraussichtlichen Entwicklung der Zahl der Versicherten, die zugleich nach § 2 des Zweiten Gesetzes über die Krankenversicherung der Landwirte versichert sind, festgesetzt. In der Zeit vom 1. Januar 2014 bis zum 31. Dezember 2050 werden die jährlichen Ausgaben nach Satz 1 unter zusätzlicher Berücksichtigung einer Demografiekomponente fortgeschrieben; § 287b Absatz 2 des Sechsten Buches Sozialgesetzbuch ist entsprechend anzuwenden. Überschreiten die Ausgaben am Ende eines Kalenderjahres den für dieses Kalenderjahr jeweils bestimmten Betrag, wird der sich für das zweite Kalenderjahr nach dem Jahr der Überschreitung der Ausgaben nach Satz 1 ergebende Betrag entsprechend vermindert.
 
 (2) Die landwirtschaftliche Alterskasse darf Mittel für Bauvorhaben im Bereich der Teilhabe nicht aufwenden.
 
@@ -1873,7 +1827,7 @@ Die Vorschriften dieses Abschnitts ergänzen die Vorschriften der vorangegangene
 
 (3) Soweit Vorschriften dieses Gesetzes an den Wirtschaftswert anknüpfen, treten im Beitrittsgebiet an die Stelle des Wirtschaftswerts der Ersatzwirtschaftswert nach § 125 des Bewertungsgesetzes und an die Stelle des Einheitswertbescheids der Grundsteuermeßbescheid, solange noch kein Einheitswert nach dem Bewertungsgesetz festgestellt worden ist; insoweit ist § 1 Abs. 6 Satz 2 und 3 nicht anzuwenden.
 
-(4) Bei der Bestimmung der Hektarwerte der gärtnerischen Nutzungsteile durch Rechtsverordnung nach § 6 kann bis zur Herstellung einheitlicher Einkommensverhältnisse im Gebiet der Bundesrepublik Deutschland den besonderen Verhältnissen im Beitrittsgebiet Rechnung getragen werden.
+(4) Bei der Bestimmung der Hektarwerte der gärtnerischen Nutzungsteile durch Rechtsverordnung nach § 6 kann bis zum 30. Juni 2024 den besonderen Verhältnissen im Beitrittsgebiet Rechnung getragen werden.
 
 Zweiter Unterabschnitt Versicherter Personenkreis
 -------------------------------------------------
@@ -2229,7 +2183,7 @@ Anspruch auf Witwen- oder Witwerrente besteht nach dem Tode des versicherten Lan
 während der Dauer der Ehe Beiträge gezahlt sind,
 
 2.  
-der frühere Ehegatte nicht Landwirt ist und nicht wieder geheiratet hat, und
+der frühere Ehegatte nicht wieder geheiratet hat, und
 
 3.  
 a)  
@@ -2290,6 +2244,8 @@ für die Zeit, in der er nach dem 31. März 1963 Landwirt im Saarland war, Beitr
 (6) Beiträge, die nach dem Gesetz zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit vom Bund für Personen mit Anspruch auf eine Produktionsaufgaberente gezahlt worden sind, gelten als Beiträge im Sinne der Absätze 1 bis 3 und 5.
 
 (7) Beiträge, die vor dem 1. Januar 1995 für einen mitarbeitenden Familienangehörigen an die landwirtschaftliche Alterskasse gezahlt worden sind und nach § 92 angerechnete Beiträge gelten nicht als Beiträge im Sinne der Absätze 1 bis 5.
+
+(8) Bei Renten wegen Erwerbsminderung verlängert sich der Zeitraum von fünf Jahren vor Eintritt der Erwerbsminderung gemäß § 13 Absatz 1 Satz 1 Nummer 2 auch um Zeiten bis zum 8. August 2018, in denen die Voraussetzungen nach § 13 Absatz 2 Nummer 8 und 9 in der bis zum 8. August 2018 geltenden Fassung erfüllt waren.
 
 ### § 91 Wartezeit für Ehegatten befreiter Landwirte
 
@@ -2381,7 +2337,116 @@ gelten für Zeiten vom 1. Mai 1980 bis 31. Dezember 1985 für jeden Kalendermona
 
 (6) Die Absätze 1 und 3 sind nicht anzuwenden, wenn eine Witwen- oder Witwerrente oder Überbrückungsgeld für den Landwirt, dessen Beitragsjahre dem verstorbenen Ehegatten nach den Absätzen 1 und 3 anzurechnen gewesen sind, festzustellen ist.
 
-### § 92a (weggefallen)
+### § 92a Zurechnungszeit
+
+(1) Beginnt eine Rente wegen Erwerbsminderung im Jahr 2018 oder verstirbt die versicherte Person bei einer Rente wegen Todes im Jahr 2018, endet die Zurechnungszeit mit Vollendung des 62. Lebensjahres und drei Monaten.
+
+(2) Beginnt eine Rente wegen Erwerbsminderung im Jahr 2019 oder verstirbt die versicherte Person bei einer Rente wegen Todes im Jahr 2019, endet die Zurechnungszeit mit Vollendung des 65. Lebensjahres und acht Monaten.
+
+(3) Beginnt eine Rente wegen Erwerbsminderung nach dem 31. Dezember 2019 und vor dem 1. Januar 2031 oder verstirbt die versicherte Person bei einer Rente wegen Todes nach dem 31. Dezember 2019 und vor dem 1. Januar 2031, wird das Ende der Zurechnungszeit wie folgt angehoben:
+
+Bei Beginn der Rente oder bei Tod der Versicherten im Jahr
+
+Anhebung
+um Monate
+
+auf Alter
+
+Jahre
+
+Monate
+
+2020
+
+1
+
+65
+
+9
+
+2021
+
+2
+
+65
+
+10
+
+2022
+
+3
+
+65
+
+11
+
+2023
+
+4
+
+66
+
+0
+
+2024
+
+5
+
+66
+
+1
+
+2025
+
+6
+
+66
+
+2
+
+2026
+
+7
+
+66
+
+3
+
+2027
+
+8
+
+66
+
+4
+
+2028
+
+10
+
+66
+
+6
+
+2029
+
+12
+
+66
+
+8
+
+2030
+
+14
+
+66
+
+10
+
+(4) Die Zurechnungszeit endet spätestens mit dem Erreichen der Regelaltersgrenze nach § 87a.
+
+(5) Hat die verstorbene versicherte Person zum Zeitpunkt des Todes Anspruch auf eine Rente wegen Erwerbsminderung, ist bei einer nachfolgenden Rente wegen Todes eine Zurechnungszeit nur insoweit zu berücksichtigen, wie sie in der vorangegangenen Rente wegen Erwerbsminderung angerechnet wurde.
 
 Sechster Unterabschnitt Berechnung der Renten
 ---------------------------------------------
@@ -2420,7 +2485,7 @@ sie bereits bei einer Witwen- oder Witwerrente berücksichtigt sind und für den
 
 ### § 93a Abschlag vom Rentenwert
 
-(1) Bei Beginn einer Rente wegen Erwerbsminderung vor dem 1. Januar 2004 wird der Abschlag vom allgemeinen Rentenwert nach § 23 Abs. 8 in Abhängigkeit vom Beginn der Rente in Höhe des Vomhundertsatzes nach Anlage 3 berücksichtigt. Für Renten wegen Todes gilt Satz 1 mit der Maßgabe, dass nicht auf den Rentenbeginn, sondern auf den auf den Todesmonat folgenden Kalendermonat abzustellen ist.
+(1) Bei Beginn einer Rente wegen Erwerbsminderung vor dem 1. Januar 2004 wird der Abschlag vom allgemeinen Rentenwert nach § 23 Abs. 8 in Abhängigkeit vom Beginn der Rente in Höhe des Prozentsatzes nach Anlage 3 berücksichtigt. Für Renten wegen Todes gilt Satz 1 mit der Maßgabe, dass nicht auf den Rentenbeginn, sondern auf den auf den Todesmonat folgenden Kalendermonat abzustellen ist.
 
 (2) Bei Versicherten, die eine vorzeitige Altersrente nach § 12 Abs. 1 nach Maßgabe von § 87b in Anspruch nehmen können, ist bei der Berechnung dieser Rente der Abschlag nach § 23 Abs. 8 unter Anwendung der in § 87b genannten Regelaltersgrenze zu ermitteln.
 
@@ -2547,6 +2612,8 @@ innerhalb vom 24 Monaten nach Ende des Bezugs einer Hinterbliebenenrente erneut 
 ist mindestens die Steigerungszahl zugrunde zu legen, die sich bei Anwendung der bei Feststellung der bisherigen Rente geltenden Vorschriften ergeben würde.
 
 (2) Durch dieses Gesetz aufgehobene und ersetzte Vorschriften sind auch nach dem Zeitpunkt ihrer Aufhebung noch auf den bis dahin bestehenden Anspruch anzuwenden, wenn der Anspruch bis zum Ablauf von drei Kalendermonaten nach der Aufhebung geltend gemacht wird.
+
+(2a) Wird bis zum 31. März 2019 erstmals ein Antrag auf Rente gestellt und waren am 1. Januar 2019 alle Voraussetzungen für den Rentenanspruch mit Ausnahme der Abgabe des landwirtschaftlichen Unternehmens erfüllt, wird die Rente von dem Kalendermonat an geleistet, zu dessen Beginn die Anspruchsvoraussetzungen für die Rente mit Ausnahme der Abgabe des landwirtschaftlichen Unternehmens erfüllt sind, frühestens ab dem 1. September 2018.
 
 (3) Der Anspruch auf eine Leistung, der am 31. Dezember 1994 bestand, entfällt nicht allein deshalb, weil die Vorschriften, auf denen er beruht, durch Vorschriften dieses Gesetzes ersetzt worden sind. Verwenden die ersetzenden Vorschriften für den gleichen Sachverhalt oder Anspruch andere Begriffe als die aufgehobenen Vorschriften, treten insoweit diese Begriffe an die Stelle der aufgehobenen Begriffe. Ab 1. Januar 1995 gelten
 
@@ -2808,7 +2875,7 @@ Ist ein Versorgungsausgleich durchgeführt worden und wurde bei der Berechnung d
 
 ### § 102 Allgemeiner Rentenwert (Ost)
 
-(1) Bis zur Herstellung einheitlicher Einkommensverhältnisse im Gebiet der Bundesrepublik Deutschland wird ein allgemeiner Rentenwert (Ost) für die Ermittlung des Monatsbetrags der Renten gebildet. Er tritt an die Stelle des allgemeinen Rentenwerts, soweit
+(1) Bis zum 30. Juni 2024 wird ein allgemeiner Rentenwert (Ost) für die Ermittlung des Monatsbetrags der Renten gebildet. Er tritt an die Stelle des allgemeinen Rentenwerts, soweit
 
 1.  
 Zeiten im Beitrittsgebiet zurückgelegt worden sind, es sei denn, während dieser Zeiten bestand vor dem 1. Januar 1995 Beitragspflicht in der Altershilfe für Landwirte,
@@ -2827,9 +2894,9 @@ Der Zuschlag zur Steigerungszahl bei Witwenrenten und Witwerrenten ist für die 
 
 (4) Der allgemeine Rentenwert (Ost) verändert sich zu dem Zeitpunkt der Veränderung des aktuellen Rentenwerts (Ost) in der gesetzlichen Rentenversicherung und um den Vomhundertsatz, um den der aktuelle Rentenwert (Ost) in der gesetzlichen Rentenversicherung jeweils verändert wird. Rentenbezieher erhalten eine Anpassungsmitteilung, wenn sich die Höhe des allgemeinen Rentenwerts (Ost) verändert.
 
-### § 102a Allgemeiner Rentenwert für die Zeit vom 1. Januar bis 30. Juni 2002
+(5) Besteht am 30. Juni 2024 Anspruch auf eine Rente, die ganz oder teilweise nach Absatz 1 berechnet wurde, wird diese zum 1. Juli 2024 angepasst, indem an die Stelle des allgemeinen Rentenwerts (Ost) der allgemeine Rentenwert tritt; Absatz 4 Satz 2 ist entsprechend anzuwenden.
 
-Der zum 1. Januar 2002 in Euro umgerechnete allgemeine Rentenwert und allgemeine Rentenwert (Ost) sind abweichend von § 47 mit fünf Dezimalstellen in der Rentenanpassungsverordnung 2001 bekannt zu geben.
+### § 102a (weggefallen)
 
 ### § 102b Abschlagsfreiheit vorzeitig in Anspruch genommener Altersrenten
 
@@ -2963,6 +3030,8 @@ Für die Dauer des auf den Sterbemonat des Landwirts folgenden Jahres gelten Sat
 
 (7) Bestand am 31. Dezember 2002 Anspruch auf eine Rente wegen Erwerbsminderung und dem Arbeitsentgelt oder Arbeitseinkommen aus einer Beschäftigung oder selbständigen Tätigkeit vergleichbares Einkommen mit Ausnahme von Vorruhestandsgeld, gilt für diese Rente dieses vergleichbare Einkommen bis zum 31. Dezember 2007 nicht als Hinzuverdienst.
 
+(8) Bestand am 31. Dezember 2018 Anspruch auf eine vorzeitige Altersrente, ist § 27b nicht anzuwenden.
+
 ### § 106a Einkommensanrechnung auf Renten wegen Todes
 
 (1) Ist die Witwenrente oder Witwerrente ab dem vierten Kalendermonat nach Ablauf des Sterbemonats mit einem Rentenartfaktor von mindestens 0,6 zu ermitteln, findet beim Zusammentreffen von Witwenrenten und Witwerrenten mit Einkommen § 114 des Vierten Buches Sozialgesetzbuch Anwendung. Bei der Bestimmung des anrechenbaren Einkommens für die in Satz 1 genannten Renten ist das Einkommen anrechenbar, das monatlich das 26,4fache des aktuellen Rentenwerts der gesetzlichen Rentenversicherung übersteigt; 83 Abs. 2 findet Anwendung. Die Sätze 1 und 2 gelten auch für eine Rente an frühere Ehegatten.
@@ -3035,7 +3104,7 @@ Der Lagebericht ist erstmals zum 31. Oktober 1997 vorzulegen.
 
 ### § 114 Beitragshöhe
 
-Für Landwirte, deren Unternehmen ihren Sitz im Beitrittsgebiet haben, wird der Beitrag bis zur Herstellung einheitlicher Einkommensverhältnisse im Gebiet der Bundesrepublik Deutschland ermittelt, indem der Beitrag durch den vorläufigen Umrechnungswert nach Anlage 10 des Sechsten Buches Sozialgesetzbuch geteilt wird. Der Beitrag wird auf volle Euro aufgerundet. Er wird vom Bundesministerium für Arbeit und Soziales im Bundesgesetzblatt bekannt gemacht.
+Für Landwirte, deren Unternehmen ihren Sitz im Beitrittsgebiet haben, wird der Beitrag bis zum 30. Juni 2024 ermittelt, indem der Beitrag durch den vorläufigen Umrechnungswert nach Anlage 10 des Sechsten Buches Sozialgesetzbuch geteilt wird. Der Beitrag wird auf volle Euro aufgerundet. Er wird vom Bundesministerium für Arbeit und Soziales im Bundesgesetzblatt bekannt gemacht.
 
 ### § 115 Beitragstragung
 
@@ -3068,7 +3137,7 @@ werden innerhalb einer Frist von zwei Jahren nach dem Ende der Beitragspflicht a
 
 ### § 117a Ausgaben für Leistungen zur Teilhabe sowie für Betriebs- und Haushaltshilfe
 
-Abweichend von der Regelung über die Veränderung der jährlichen Ausgaben zur Teilhabe sowie für Betriebs- und Haushaltshilfe nach § 80 Absatz 1 beträgt der Ausgabenbetrag für das Jahr 2013 für Leistungen zur medizinischen Rehabilitation 15 Millionen Euro und für Betriebs- und Haushaltshilfe 12 Millionen Euro.
+Abweichend von der Regelung über die Veränderung der jährlichen Ausgaben zur Teilhabe sowie für Betriebs- und Haushaltshilfe nach § 80 Absatz 1 beträgt der Ausgabenbetrag für das Jahr 2017 für Leistungen zur Teilhabe 19 Millionen Euro und für Betriebs- und Haushaltshilfe 12 Millionen Euro.
 
 ### § 118 Aufrechnung mit Beitragsentlastungen
 
@@ -3119,9 +3188,9 @@ Eine Rente, die mit einer Landabgaberente zusammentrifft, wird hierauf angerechn
 
 ### § 125 Beginn, Änderung, Ruhen und Ende von Landabgaberenten
 
-(1) Für Beginn, Änderung, Ruhen und Ende einer Landabgaberente gelten § 99 Abs. 2, § 100 Abs. 1 und 3 sowie § 102 Abs. 5 des Sechsten Buches Sozialgesetzbuch und § 30 Abs. 2 entsprechend.
+(1) Für Beginn, Änderung, Ruhen und Ende einer Landabgaberente gelten § 99 Abs. 2, § 100 Abs. 1 und 3 sowie § 102 Abs. 5 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
-(2) § 30 Abs. 2 gilt auch in den Fällen entsprechend, in denen ein Leistungsempfänger auf der zulässigerweise zurückbehaltenen Fläche land- und forstwirtschaftliche Erzeugnisse für den Markt produziert. § 51 Abs. 2 des Bewertungsgesetzes findet keine Anwendung.
+(2) (weggefallen)
 
 (3) Werden Verträge über die strukturverbessernde Abgabe landwirtschaftlich genutzter Flächen vor Ablauf der Mindestdauer von zwölf Jahren beendet, ruht der Anspruch auf Landabgaberente vom Beginn des dritten auf die Beendigung der Verträge folgenden Monats an. Die Leistung wird vom Beginn des Monats an wieder erbracht, in dem Vereinbarungen wirksam werden, die eine Verwendung der Flächen nach den §§ 2 und 3 des Gesetzes zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit für die Dauer von zwölf Jahren sicherstellen; die aufgrund der vorzeitig beendeten Verträge zurückgelegte Zeit wird auf den Zwölfjahreszeitraum angerechnet.
 
@@ -3311,99 +3380,69 @@ bzgl. der einzelnen Änderungen vgl. Fußnote.
 
 ### Anlage 3
 
-Fundstelle des Originaltextes: BGBl. I 2000, 1842 - 1843
+(Fundstelle: BGBl. I 2017, 2511)
 
-Rentenbeginn/Monat nach Todesmonat
+Rentenbeginn/Monat
+nach Todesmonat
 
-Werte nach
+Werte nach § 93a
+(in Prozent)
 
 Jahr
 
 Monat
 
-§ 92a Umfang in Vierundfünfzigsteln
-
-§ 93a vom Hundert
-
 vor 2001
 
- 
-
-18
-
-0,00
+ 0,00
 
 2001
 
 Januar
 
-19
-
-2,78
+ 2,78
 
 Februar
 
-20
-
-5,56
+ 5,56
 
 März
 
-21
-
-8,33
+ 8,33
 
 April
-
-22
 
 11,11
 
 Mai
 
-23
-
 13,89
 
 Juni
-
-24
 
 16,67
 
 Juli
 
-25
-
 19,44
 
 August
-
-26
 
 22,22
 
 September
 
-27
-
 25,00
 
 Oktober
-
-28
 
 27,78
 
 November
 
-29
-
 30,56
 
 Dezember
-
-30
 
 33,33
 
@@ -3411,73 +3450,49 @@ Dezember
 
 Januar
 
-31
-
 36,11
 
 Februar
-
-32
 
 38,89
 
 März
 
-33
-
 41,67
 
 April
-
-34
 
 44,44
 
 Mai
 
-35
-
 47,22
 
 Juni
-
-36
 
 50,00
 
 Juli
 
-37
-
 52,78
 
 August
-
-38
 
 55,56
 
 September
 
-39
-
 58,33
 
 Oktober
-
-40
 
 61,11
 
 November
 
-41
-
 63,89
 
 Dezember
-
-42
 
 66,67
 
@@ -3485,72 +3500,48 @@ Dezember
 
 Januar
 
-43
-
 69,44
 
 Februar
-
-44
 
 72,22
 
 März
 
-45
-
 75,00
 
 April
-
-46
 
 77,78
 
 Mai
 
-47
-
 80,56
 
 Juni
-
-48
 
 83,33
 
 Juli
 
-49
-
 86,11
 
 August
-
-50
 
 88,89
 
 September
 
-51
-
 91,67
 
 Oktober
-
-52
 
 94,44
 
 November
 
-53
-
 97,22
 
 Dezember
-
-54
 
 100,00
