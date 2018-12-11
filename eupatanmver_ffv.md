@@ -2,11 +2,14 @@ Verordnung über die Übersetzungen der Ansprüche europäischer Patentanmeldung
 ============================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 4.8.2011 II 738
+Zuletzt geändert durch Art. 2 V v. 12.12.2018 I 2446
 
 ### 
 
+```
 (+++ Textnachweis ab: 29.12.1978 +++)
+```
+
 Überschrift: IdF d. Art. 1 Nr. 1 V v. 21.10.1993 II 1989 mWv 21.11.1993
 
 ### Eingangsformel
