@@ -2,7 +2,7 @@ Verordnung über die Finanzanlagenvermittlung (FinVermV)
 =======================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 22.7.2014 I 1205
+Zuletzt geändert durch Art. 2 V v. 17.12.2018 I 2483
 
 ### 
 
@@ -252,7 +252,7 @@ Kenntnisse über Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanla
 
 Der schriftliche Teil der Prüfung kann auf Antrag des Prüflings auf die einzelnen Kategorien von Finanzanlagen nach Satz 2 Nummer 1, 2 oder Nummer 3 beschränkt werden. In diesem Fall muss der schriftliche Teil der Prüfung diejenigen in Satz 2 Nummer 1, 2 oder Nummer 3 genannten Bereiche umfassen, für die eine Erlaubnis nach § 34f Absatz 1 Satz 1 Nummer 1, 2 oder Nummer 3 in Verbindung mit Satz 3 oder § 34h Absatz 1 Satz 1 in Verbindung mit Satz 3 der Gewerbeordnung beantragt wird. Für eine Erlaubnis nach § 34f Absatz 1 Satz 1 Nummer 3 in Verbindung mit Satz 3 oder § 34h Absatz 1 Satz 1 in Verbindung mit Satz 3 und § 34f Absatz 1 Satz 1 Nummer 3 der Gewerbeordnung muss der schriftliche Teil der Prüfung zusätzlich die in Satz 2 Nummer 2 genannten Bereiche umfassen. Der Prüfling soll anhand von praxisbezogenen Aufgaben nachweisen, dass er die grundlegenden fachlichen und rechtlichen Kenntnisse erworben hat und diese praktisch anwenden kann.
 
-(3) Die Auswahl der schriftlichen Prüfungsaufgaben trifft ein bundesweit einheitlich tätiger Aufgabenauswahlausschuss. Der Ausschuss wird mit sieben Mitgliedern und sieben stellvertretenden Mitgliedern besetzt, die von den Industrie- und Handelskammern berufen werden. Die Berufung erfolgt jeweils nach Anhörung von Vertretern der Finanzanlagenvermittler, der Anbieter von Investmentvermögen und Vermögensanlagen und der Verbraucherschutzorganisationen. Es werden berufen:
+(3) Die Auswahl der Prüfungsaufgaben für den schriftlichen Teil der Prüfung trifft ein nach Maßgabe des § 32 Absatz 2 der Gewerbeordnung eingerichteter bundesweit einheitlich tätiger Aufgabenauswahlausschuss. Der Aufgabenauswahlausschuss ist mit sieben Mitgliedern und sieben stellvertretenden Mitgliedern zu besetzen. Die Berufung der Mitglieder und der Stellvertreter erfolgt nach Anhörung von Vertretern der Finanzanlagenvermittler, der Anbieter von Investmentvermögen und Vermögensanlagen und der Verbraucherschutzorganisationen. Es werden berufen:
 
 1.  
 drei Mitglieder und drei Stellvertreter aus den Reihen der Finanzanlagenvermittler oder der Vertreter ihrer Interessen,
@@ -276,10 +276,10 @@ Die Mitglieder des Ausschusses sowie ihre Stellvertreter müssen in der Lage sei
 eine auf die in Absatz 2 Satz 2 Nummer 1 genannte Kategorie von Finanzanlagen beschränkte Sachkundeprüfung ablegt und
 
 a)  
-eine Erlaubnis nach § 34d Absatz 1 oder § 34e Absatz 1 der Gewerbeordnung hat oder
+eine Erlaubnis nach § 34d Absatz 1 oder 2 der Gewerbeordnung hat oder
 
 b)  
-einen Sachkundenachweis im Sinne des § 34d Absatz 2 Nummer 4 der Gewerbeordnung oder einen diesem nach § 19 Absatz 1 der Versicherungsvermittlungsverordnung gleichgestellten Abschluss besitzt oder
+einen Sachkundenachweis im Sinne des § 34d Absatz 5 Satz 1 Nummer 4 der Gewerbeordnung oder einen diesem nach § 27 der Versicherungsvermittlungsverordnung gleichgestellten Abschluss besitzt oder
 
 2.  
 eine Folgeprüfung zur Erweiterung einer nach § 34f Absatz 1 Satz 3 oder § 34h Absatz 1 Satz 3 der Gewerbeordnung auf einzelne Kategorien von Finanzanlagen beschränkten Erlaubnis ablegt.
@@ -307,7 +307,7 @@ Die in den Nummern 1 bis 5 genannten Personen dürfen nicht in die laufende Prü
 
 (8) Die Industrie- und Handelskammer stellt unverzüglich eine Bescheinigung nach Anlage 2 aus, wenn der Prüfling die Prüfung erfolgreich abgelegt hat. In der Bescheinigung ist anzugeben, welche Bereiche nach Absatz 2 Satz 2 Nummer 1 bis 3 der schriftliche Teil der Prüfung umfasst hat. Wurde die Prüfung nicht erfolgreich abgelegt, erhält der Prüfling darüber einen Bescheid, in dem auf die Möglichkeit der Wiederholungsprüfung hinzuweisen ist.
 
-(9) Die Einzelheiten des Prüfungsverfahrens regelt die Industrie- und Handelskammer durch Satzung.
+(9) Die Einzelheiten des Prüfungsverfahrens regelt die Industrie- und Handelskammer nach Maßgabe des § 32 Absatz 1 Satz 2 der Gewerbeordnung durch Satzung.
 
 ### § 4 Gleichstellung anderer Berufsqualifikationen
 
@@ -359,7 +359,7 @@ als Fachberater oder -beraterin für Finanzdienstleistungen (IHK), wenn zusätzl
 
 ### § 5 Anerkennung von ausländischen Berufsbefähigungsnachweisen im Rahmen der Niederlassungsfreiheit
 
-Unterscheiden sich die nach § 13c der Gewerbeordnung vorgelegten Nachweise hinsichtlich der zugrunde liegenden Sachgebiete wesentlich von den Anforderungen der §§ 1 und 3 und gleichen die von der den Antrag stellenden Person im Rahmen ihrer Berufspraxis erworbenen Kenntnisse diesen wesentlichen Unterschied nicht aus, so ist die Erlaubnis zur Aufnahme der angestrebten Tätigkeit von der erfolgreichen Teilnahme an einer ergänzenden, diese Sachgebiete umfassenden Sachkundeprüfung (spezifische Sachkundeprüfung) abhängig.
+Unterscheiden sich die nach § 13c der Gewerbeordnung vorgelegten Nachweise hinsichtlich der zugrunde liegenden Sachgebiete wesentlich von den Anforderungen der §§ 1 und 3 und gleichen die von der den Antrag stellenden Person im Rahmen ihrer Berufspraxis oder durch sonstige einschlägige nachgewiesene Qualifikationen erworbenen Kenntnisse, Fähigkeiten und Kompetenzen diesen wesentlichen Unterschied nicht aus, so ist die Erlaubnis zur Aufnahme der angestrebten Tätigkeit von der erfolgreichen Teilnahme an einer ergänzenden, diese Sachgebiete umfassenden Sachkundeprüfung (spezifische Sachkundeprüfung) abhängig.
 
 Abschnitt 2 Vermittlerregister
 ------------------------------
@@ -407,11 +407,11 @@ Ist der Eintragungspflichtige eine juristische Person, so werden auch der Famili
 
 (3) Die Registerbehörde erteilt dem Eintragungspflichtigen eine Eintragungsbestätigung mit der Registrierungsnummer, unter der der Eintragungspflichtige im Register geführt wird. Die Registerbehörde teilt der zuständigen Erlaubnisbehörde die Registrierungsnummer mit.
 
-(4) Die Registerbehörde unterrichtet den Eintragungspflichtigen und die zuständige Erlaubnisbehörde unverzüglich über eine Datenlöschung nach § 11a Absatz 3a Satz 2 der Gewerbeordnung.
+(4) Die Registerbehörde unterrichtet den Eintragungspflichtigen und die zuständige Erlaubnisbehörde unverzüglich über eine Datenlöschung nach § 11a Absatz 3a Satz 3 der Gewerbeordnung.
 
 ### § 8 Eingeschränkter Zugang
 
-Hinsichtlich der Angaben nach § 6 Satz 1 Nummer 2 und 9 ist ein automatisierter Abruf nicht zulässig. Die Registerbehörde darf zu diesen Angaben nur den in § 11a Absatz 7 der Gewerbeordnung genannten Behörden schriftlich Auskunft erteilen.
+Hinsichtlich der Angaben nach § 6 Satz 1 Nummer 2 und 9 ist ein automatisierter Abruf nicht zulässig. Die Registerbehörde darf zu diesen Angaben nur den in § 11a Absatz 7 der Gewerbeordnung genannten Behörden Auskunft erteilen.
 
 Abschnitt 3 Anforderungen an die Berufshaftpflichtversicherung
 --------------------------------------------------------------
@@ -422,13 +422,15 @@ Abschnitt 3 Anforderungen an die Berufshaftpflichtversicherung
 
 (1) Die Versicherung gemäß § 34f Absatz 2 Nummer 3, auch in Verbindung mit § 34h Absatz 1 Satz 4, der Gewerbeordnung muss bei einem im Inland zum Geschäftsbetrieb zugelassenen Versicherungsunternehmen genommen werden.
 
-(2) Die Mindestversicherungssumme beträgt 1 130 000 Euro für jeden Versicherungsfall und 1 700 000 Euro für alle Versicherungsfälle eines Jahres, unabhängig vom Umfang der Erlaubnis nach § 34f Absatz 1 Satz 1 oder nach § 34h Absatz 1 Satz 1 der Gewerbeordnung. Die genannten Mindestversicherungssummen erhöhen oder vermindern sich ab dem 15. Januar 2013 und danach regelmäßig alle fünf Jahre prozentual entsprechend den von Eurostat veröffentlichten Anforderungen des Europäischen Verbraucherpreisindexes, wobei sie auf den nächsthöheren Hundertbetrag in Euro aufzurunden sind. Die angepassten Mindestversicherungssummen werden jeweils zum 2. Januar des jeweiligen Jahres, in dem die Anpassung zu erfolgen hat, durch das Bundesministerium für Wirtschaft und Technologie im Bundesanzeiger veröffentlicht.
+(2) Die Mindestversicherungssumme beträgt 1 130 000 Euro für jeden Versicherungsfall und 1 700 000 Euro für alle Versicherungsfälle eines Jahres, unabhängig vom Umfang der Erlaubnis nach § 34f Absatz 1 Satz 1 oder nach § 34h Absatz 1 Satz 1 der Gewerbeordnung. Die genannten Mindestversicherungssummen erhöhen oder vermindern sich ab dem 15. Januar 2013 und danach regelmäßig alle fünf Jahre prozentual entsprechend den von Eurostat veröffentlichten Anforderungen des Europäischen Verbraucherpreisindexes, wobei sie auf den nächsthöheren Hundertbetrag in Euro aufzurunden sind. Die angepassten Mindestversicherungssummen werden jeweils zum 2. Januar des jeweiligen Jahres, in dem die Anpassung zu erfolgen hat, durch das Bundesministerium für Wirtschaft und Energie im Bundesanzeiger veröffentlicht.
 
 (3) Der Versicherungsvertrag muss Deckung für die sich aus der gewerblichen Tätigkeit im Anwendungsbereich dieser Verordnung ergebenden Haftpflichtgefahren für Vermögensschäden gewähren. Der Versicherungsvertrag muss sich auch auf solche Vermögensschäden erstrecken, für die der Versicherungspflichtige nach § 278 oder § 831 des Bürgerlichen Gesetzbuchs einzustehen hat, soweit die Erfüllungs- oder Verrichtungsgehilfen nicht selbst zum Abschluss einer solchen Berufshaftpflichtversicherung verpflichtet sind. Ist der Gewerbetreibende in einer oder mehreren Personenhandelsgesellschaften als geschäftsführender Gesellschafter tätig, muss für die jeweilige Personenhandelsgesellschaft jeweils ein Versicherungsvertrag abgeschlossen werden; der Versicherungsvertrag kann auch die Tätigkeiten des Gewerbetreibenden nach Satz 1 abdecken.
 
 (4) Der Versicherungsvertrag hat Versicherungsschutz für jede einzelne Pflichtverletzung zu gewähren, die gesetzliche Haftpflichtansprüche privatrechtlichen Inhalts gegen den Versicherungspflichtigen zur Folge haben könnte; dabei kann vereinbart werden, dass sämtliche Pflichtverletzungen bei Erledigung eines einheitlichen Geschäfts als ein Versicherungsfall gelten.
 
 (5) Von der Versicherung kann die Haftung für Ersatzansprüche wegen wissentlicher Pflichtverletzung ausgeschlossen werden. Weitere Ausschlüsse sind nur insoweit zulässig, als sie marktüblich sind und dem Zweck der Berufshaftpflichtversicherung nicht zuwiderlaufen.
+
+(+++ Hinweis: Mindestversicherungssumme gem. § 9 Abs. 2 ab dem 15.1.2013 vgl. Bek. v. 12.12.2012 BAnz AT 02.01.2013 B2 (siehe: §9Abs2/MindVersHBek2013); ab dem 15.1.2018 vgl. Bek. v. 18.12.2017 BAnz AT 02.01.2018 B1 (siehe: §9Abs2/MindVersHBek2018) +++)
 
 ### § 10 Anzeigepflicht des Versicherungsunternehmens
 
@@ -486,7 +488,7 @@ die Emittenten und Anbieter, zu deren Finanzanlagen er Vermittlungs- oder Beratu
 5.  
 die Anschrift der für die Erlaubniserteilung nach § 34f Absatz 1 oder § 34h Absatz 1 der Gewerbeordnung zuständigen Behörde sowie die Registrierungsnummer, unter der er im Register eingetragen ist.
 
-(2) Besitzt der Gewerbetreibende auch eine Erlaubnis nach § 34d Absatz 1 oder § 34e Absatz 1 der Gewerbeordnung, so werden die Informationspflichten nach Absatz 1 durch die Informationspflichten nach § 11 der Versicherungsvermittlungsverordnung erfüllt, sofern die nach Absatz 1 erforderlichen Angaben enthalten sind.
+(2) Besitzt der Gewerbetreibende auch eine Erlaubnis nach § 34d Absatz 1 oder 2 der Gewerbeordnung, so werden die Informationspflichten nach Absatz 1 durch die Informationspflichten nach § 15 der Versicherungsvermittlungsverordnung erfüllt, sofern die nach Absatz 1 erforderlichen Angaben enthalten sind.
 
 (3) Die Angaben nach Absatz 1 dürfen mündlich mitgeteilt werden, wenn der Anleger dies wünscht. In diesem Fall sind dem Anleger die Angaben unverzüglich nach Vertragsschluss in Textform zur Verfügung zu stellen.
 
@@ -595,7 +597,17 @@ Art, Umfang, Häufigkeit und Zeitraum zurückliegender Geschäfte des Anlegers m
 3.  
 Ausbildung sowie gegenwärtige und relevante frühere berufliche Tätigkeiten des Anlegers.
 
-(4) Soweit die in den Absätzen 1 bis 3 genannten Informationen auf Angaben des Anlegers beruhen, hat der Gewerbetreibende die Fehlerhaftigkeit oder Unvollständigkeit der Angaben nicht zu vertreten, es sei denn, die Unrichtigkeit oder Unvollständigkeit der Angaben des Anlegers ist ihm bekannt oder infolge grober Fahrlässigkeit unbekannt. Gewerbetreibende dürfen Anleger nicht dazu verleiten, Angaben nach den Absätzen 1 bis 3 zurückzuhalten.
+(3a) Der Gewerbetreibende hat vor der Vermittlung des Vertragsschlusses über eine Vermögensanlage im Sinne des § 2a des Vermögensanlagengesetzes vom Anleger insoweit eine Selbstauskunft über dessen Vermögen oder dessen Einkommen einzuholen, wie dies erforderlich ist, um prüfen zu können, ob der Gesamtbetrag der Vermögensanlagen desselben Emittenten, die vom Anleger erworben werden, folgende Beträge nicht übersteigt:
+
+1.  
+10 000 Euro, sofern der jeweilige Anleger nach seiner Selbstauskunft über ein frei verfügbares Vermögen in Form von Bankguthaben und Finanzinstrumenten von mindestens 100 000 Euro verfügt, oder
+
+2.  
+den zweifachen Betrag des durchschnittlichen monatlichen Nettoeinkommens des jeweiligen Anlegers, höchstens jedoch 10 000 Euro.
+
+Satz 1 ist nicht anzuwenden, wenn der Gesamtbetrag der Vermögensanlagen desselben Emittenten, die vom Anleger erworben werden, der keine Kapitalgesellschaft ist, 1 000 Euro nicht überschreitet. Der Gewerbetreibende darf den Vertragsschluss über eine Vermögensanlage im Sinne des § 2a des Vermögensanlagengesetzes nur vermitteln, wenn er geprüft hat, dass der Gesamtbetrag der Vermögensanlagen desselben Emittenten, die vom Anleger erworben werden, der keine Kapitalgesellschaft ist, 1 000 Euro oder die in Satz 1 Nummer 1 und 2 genannten Beträge nicht übersteigt.
+
+(4) Soweit die in den Absätzen 1 bis 3a genannten Informationen auf Angaben des Anlegers beruhen, hat der Gewerbetreibende die Fehlerhaftigkeit oder Unvollständigkeit der Angaben nicht zu vertreten, es sei denn, die Unrichtigkeit oder Unvollständigkeit der Angaben des Anlegers ist ihm bekannt oder infolge grober Fahrlässigkeit unbekannt. Gewerbetreibende dürfen Anleger nicht dazu verleiten, Angaben nach den Absätzen 1 bis 3a zurückzuhalten.
 
 (5) Die Pflichten nach Absatz 2 gelten nicht, soweit der Gewerbetreibende
 
@@ -702,6 +714,9 @@ der Nachweis, dass die in § 16 Absatz 1 genannten Informationen rechtzeitig und
 4.  
 der Nachweis, dass die in § 16 Absatz 2 Satz 1 genannten Informationen rechtzeitig und vollständig eingeholt und die in Satz 3 und 4 genannten Informationen rechtzeitig und vollständig mitgeteilt wurden,
 
+4a.  
+der Nachweis, dass die in § 16 Absatz 3a genannten Informationen rechtzeitig und vollständig eingeholt wurden,
+
 5.  
 der Nachweis über die Auskehr von Zuwendungen nach § 17a Absatz 2,
 
@@ -777,7 +792,7 @@ entgegen § 12a oder § 13 Absatz 1 Satz 1 eine Information nicht, nicht richtig
 entgegen § 15 ein Informationsblatt nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
 4.  
-entgegen § 16 Absatz 1 Satz 1 oder Absatz 2 Satz 1 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einholt,
+entgegen § 16 Absatz 1 Satz 1, Absatz 2 Satz 1 oder Absatz 3a Satz 1 eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einholt,
 
 5.  
 entgegen § 16 Absatz 1 Satz 3 oder Satz 4 eine Finanzanlage empfiehlt,
