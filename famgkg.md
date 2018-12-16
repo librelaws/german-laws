@@ -2,7 +2,7 @@ Gesetz über Gerichtskosten in Familiensachen (FamGKG)
 =====================================================
 
 Stand  
-Zuletzt geändert durch Art. 10 G v. 5.12.2012 I 2418
+Zuletzt geändert durch Art. 6 G v. 17.12.2018 I 2573
 
 ### 
 
@@ -28,6 +28,7 @@ Allgemeine Vorschriften
 | §  6 | Verweisung, Abgabe, Fortführung einer Folgesache als selbständige Familiensache |
 | §  7 | Verjährung, Verzinsung                                                          |
 | §  8 | Elektronische Akte, elektronisches Dokument                                     |
+| § 8a | Rechtsbehelfsbelehrung                                                          |
 
 Abschnitt 2
 
@@ -47,7 +48,7 @@ Vorschuss und Vorauszahlung
 |------|-------------------------------------------------------------------|
 | § 12 | Grundsatz                                                         |
 | § 13 | Verfahren nach dem Internationalen Familienrechtsverfahrensgesetz |
-| § 14 | Abhängigmachung                                                   |
+| § 14 | Abhängigmachung in bestimmten Verfahren                           |
 | § 15 | Ausnahmen von der Abhängigmachung                                 |
 | § 16 | Auslagen                                                          |
 | § 17 | Fortdauer der Vorschusspflicht                                    |
@@ -56,11 +57,11 @@ Abschnitt 4
 
 Kostenansatz
 
-|      |                                                           |
-|------|-----------------------------------------------------------|
-| § 18 | Kostenansatz                                              |
-| § 19 | Nachforderung                                             |
-| § 20 | Nichterhebung von Kosten wegen unrichtiger Sachbehandlung |
+|      |                          |
+|------|--------------------------|
+| § 18 | Kostenansatz             |
+| § 19 | Nachforderung            |
+| § 20 | Nichterhebung von Kosten |
 
 Abschnitt 5
 
@@ -96,35 +97,35 @@ Unterabschnitt 1
 
 Allgemeine Wertvorschriften
 
-|      |                                                                                      |
-|------|--------------------------------------------------------------------------------------|
-| § 33 | Grundsatz                                                                            |
-| § 34 | Zeitpunkt der Wertberechnung                                                         |
-| § 35 | Geldforderung                                                                        |
-| § 36 | Genehmigung einer Erklärung oder deren Ersetzung                                     |
-| § 37 | Früchte, Nutzungen, Zinsen und Kosten                                                |
-| § 38 | Stufenklageantrag                                                                    |
-| § 39 | Klage- und Widerklageantrag, Hilfsanspruch, wechselseitige Rechtsmittel, Aufrechnung |
-| § 40 | Rechtsmittelverfahren                                                                |
-| § 41 | Einstweilige Anordnung                                                               |
-| § 42 | Auffangwert                                                                          |
+|      |                                                                                 |
+|------|---------------------------------------------------------------------------------|
+| § 33 | Grundsatz                                                                       |
+| § 34 | Zeitpunkt der Wertberechnung                                                    |
+| § 35 | Geldforderung                                                                   |
+| § 36 | Genehmigung einer Erklärung oder deren Ersetzung                                |
+| § 37 | Früchte, Nutzungen, Zinsen und Kosten                                           |
+| § 38 | Stufenantrag                                                                    |
+| § 39 | Antrag und Widerantrag, Hilfsanspruch, wechselseitige Rechtsmittel, Aufrechnung |
+| § 40 | Rechtsmittelverfahren                                                           |
+| § 41 | Einstweilige Anordnung                                                          |
+| § 42 | Auffangwert                                                                     |
 
 Unterabschnitt 2
 
 Besondere Wertvorschriften
 
-|      |                                  |
-|------|----------------------------------|
-| § 43 | Ehesachen                        |
-| § 44 | Verbund                          |
-| § 45 | Bestimmte Kindschaftssachen      |
-| § 46 | Übrige Kindschaftssachen         |
-| § 47 | Abstammungssachen                |
-| § 48 | Ehewohnungs- und Haushaltssachen |
-| § 49 | Gewaltschutzsachen               |
-| § 50 | Versorgungsausgleichssachen      |
-| § 51 | Unterhaltssachen                 |
-| § 52 | Güterrechtssachen                |
+|      |                                                                        |
+|------|------------------------------------------------------------------------|
+| § 43 | Ehesachen                                                              |
+| § 44 | Verbund                                                                |
+| § 45 | Bestimmte Kindschaftssachen                                            |
+| § 46 | Übrige Kindschaftssachen                                               |
+| § 47 | Abstammungssachen                                                      |
+| § 48 | Ehewohnungs- und Haushaltssachen                                       |
+| § 49 | Gewaltschutzsachen                                                     |
+| § 50 | Versorgungsausgleichssachen                                            |
+| § 51 | Unterhaltssachen und sonstige den Unterhalt betreffende Familiensachen |
+| § 52 | Güterrechtssachen                                                      |
 
 Unterabschnitt 3
 
@@ -156,7 +157,7 @@ Schluss- und Übergangsvorschriften
 |       |                                                     |
 |-------|-----------------------------------------------------|
 | § 61a | Verordnungsermächtigung                             |
-| § 62  | Rechnungsgebühren                                   |
+| § 62  | (weggefallen)                                       |
 | § 62a | Bekanntmachung von Neufassungen                     |
 | § 63  | Übergangsvorschrift                                 |
 | § 64  | Übergangsvorschrift für die Erhebung von Haftkosten |
@@ -173,7 +174,9 @@ Abschnitt 1 Allgemeine Vorschriften
 
 ### § 1 Geltungsbereich
 
-In Familiensachen einschließlich der Vollstreckung durch das Familiengericht und für Verfahren vor dem Oberlandesgericht nach § 107 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit werden Kosten (Gebühren und Auslagen) nur nach diesem Gesetz erhoben, soweit nichts anderes bestimmt ist. Dies gilt auch für Verfahren über eine Beschwerde, die mit einem Verfahren nach Satz 1 in Zusammenhang steht. Für das Mahnverfahren werden Kosten nach dem Gerichtskostengesetz erhoben.
+(1) In Familiensachen einschließlich der Vollstreckung durch das Familiengericht und für Verfahren vor dem Oberlandesgericht nach § 107 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit werden Kosten (Gebühren und Auslagen) nur nach diesem Gesetz erhoben, soweit nichts anderes bestimmt ist. Dies gilt auch für Verfahren über eine Beschwerde, die mit einem Verfahren nach Satz 1 in Zusammenhang steht. Für das Mahnverfahren werden Kosten nach dem Gerichtskostengesetz erhoben.
+
+(2) Die Vorschriften dieses Gesetzes über die Erinnerung und die Beschwerde gehen den Regelungen der für das zugrunde liegende Verfahren geltenden Verfahrensvorschriften vor.
 
 ### § 2 Kostenfreiheit
 
@@ -181,7 +184,7 @@ In Familiensachen einschließlich der Vollstreckung durch das Familiengericht un
 
 (2) Sonstige bundesrechtliche oder landesrechtliche Vorschriften, durch die eine sachliche oder persönliche Befreiung von Kosten gewährt ist, bleiben unberührt.
 
-(3) Soweit jemandem, der von Kosten befreit ist, Kosten des Verfahrens auferlegt werden, sind Kosten nicht zu erheben; bereits erhobene Kosten sind zurückzuzahlen. Das Gleiche gilt, soweit ein von Kosten Befreiter Kosten des Verfahrens übernimmt.
+(3) Soweit jemandem, der von Kosten befreit ist, Kosten des Verfahrens auferlegt werden, sind Kosten nicht zu erheben; bereits erhobene Kosten sind zurückzuzahlen. Das Gleiche gilt, soweit ein von der Zahlung der Kosten befreiter Beteiligter Kosten des Verfahrens übernimmt.
 
 ### § 3 Höhe der Kosten
 
@@ -231,11 +234,11 @@ entsprechend anzuwenden.
 
 ### § 8 Elektronische Akte, elektronisches Dokument
 
-(1) Die Vorschriften über die elektronische Akte und das gerichtliche elektronische Dokument für das Verfahren, in dem die Kosten anfallen, sind anzuwenden.
+In Verfahren nach diesem Gesetz sind die verfahrensrechtlichen Vorschriften über die elektronische Akte und über das elektronische Dokument anzuwenden, die für das dem kostenrechtlichen Verfahren zugrunde liegende Verfahren gelten.
 
-(2) Soweit für Anträge und Erklärungen in dem Verfahren, in dem die Kosten anfallen, die Aufzeichnung als elektronisches Dokument genügt, genügt diese Form auch für Anträge und Erklärungen nach diesem Gesetz. Die verantwortende Person soll das Dokument mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz versehen. Ist ein übermitteltes elektronisches Dokument für das Gericht zur Bearbeitung nicht geeignet, ist dies dem Absender unter Angabe der geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen.
+### § 8a Rechtsbehelfsbelehrung
 
-(3) Ein elektronisches Dokument ist eingereicht, sobald die für den Empfang bestimmte Einrichtung des Gerichts es aufgezeichnet hat.
+Jede Kostenrechnung und jede anfechtbare Entscheidung hat eine Belehrung über den statthaften Rechtsbehelf sowie über das Gericht, bei dem dieser Rechtsbehelf einzulegen ist, über dessen Sitz und über die einzuhaltende Form und Frist zu enthalten.
 
 Abschnitt 2 Fälligkeit
 ----------------------
@@ -244,7 +247,7 @@ Abschnitt 2 Fälligkeit
 
 ### § 9 Fälligkeit der Gebühren in Ehesachen und selbständigen Familienstreitsachen
 
-(1) In Ehesachen und in selbständigen Familienstreitsachen wird die Verfahrensgebühr mit der Einreichung der Antragsschrift, des Klageantrags, der Einspruchs- oder Rechtsmittelschrift oder mit der Abgabe der entsprechenden Erklärung zu Protokoll fällig.
+(1) In Ehesachen und in selbständigen Familienstreitsachen wird die Verfahrensgebühr mit der Einreichung der Antragsschrift, der Einspruchs- oder Rechtsmittelschrift oder mit der Abgabe der entsprechenden Erklärung zu Protokoll fällig.
 
 (2) Soweit die Gebühr eine Entscheidung oder sonstige gerichtliche Handlung voraussetzt, wird sie mit dieser fällig.
 
@@ -271,7 +274,7 @@ das Verfahren sechs Monate unterbrochen oder sechs Monate ausgesetzt war oder
 5.  
 das Verfahren durch anderweitige Erledigung beendet ist.
 
-(2) Die Dokumentenpauschale sowie die Auslagen für die Versendung und die elektronische Übermittlung von Akten werden sofort nach ihrer Entstehung fällig.
+(2) Die Dokumentenpauschale sowie die Auslagen für die Versendung von Akten werden sofort nach ihrer Entstehung fällig.
 
 Abschnitt 3 Vorschuss und Vorauszahlung
 ---------------------------------------
@@ -286,11 +289,11 @@ In weiterem Umfang als das Gesetz über das Verfahren in Familiensachen und in d
 
 In Verfahren nach dem Internationalen Familienrechtsverfahrensgesetz sind die Vorschriften dieses Abschnitts nicht anzuwenden.
 
-### § 14 Abhängigmachung
+### § 14 Abhängigmachung in bestimmten Verfahren
 
-(1) In Ehesachen und selbständigen Familienstreitsachen soll die Antragsschrift oder der Klageantrag erst nach Zahlung der Gebühr für das Verfahren im Allgemeinen zugestellt werden. Wird der Antrag erweitert, soll vor Zahlung der Gebühr für das Verfahren im Allgemeinen keine gerichtliche Handlung vorgenommen werden; dies gilt auch in der Rechtsmittelinstanz.
+(1) In Ehesachen und selbständigen Familienstreitsachen soll die Antragsschrift erst nach Zahlung der Gebühr für das Verfahren im Allgemeinen zugestellt werden. Wird der Antrag erweitert, soll vor Zahlung der Gebühr für das Verfahren im Allgemeinen keine gerichtliche Handlung vorgenommen werden; dies gilt auch in der Rechtsmittelinstanz.
 
-(2) Absatz 1 gilt nicht für den Widerklageantrag.
+(2) Absatz 1 gilt nicht für den Widerantrag, ferner nicht für den Antrag auf Erlass einer einstweiligen Anordnung, auf Anordnung eines Arrests oder auf Erlass eines Europäischen Beschlusses zur vorläufigen Kontenpfändung.
 
 (3) Im Übrigen soll in Verfahren, in denen der Antragsteller die Kosten schuldet (§ 21), vor Zahlung der Gebühr für das Verfahren im Allgemeinen keine gerichtliche Handlung vorgenommen werden.
 
@@ -299,13 +302,13 @@ In Verfahren nach dem Internationalen Familienrechtsverfahrensgesetz sind die Vo
 § 14 gilt nicht,
 
 1.  
-soweit dem Antragsteller Verfahrens- oder Prozesskostenhilfe bewilligt ist,
+soweit dem Antragsteller Verfahrenskostenhilfe bewilligt ist,
 
 2.  
 wenn dem Antragsteller Gebührenfreiheit zusteht oder
 
 3.  
-wenn die beabsichtigte Rechtsverfolgung nicht aussichtslos oder mutwillig erscheint und wenn glaubhaft gemacht wird, dass
+wenn die beabsichtigte Rechtsverfolgung weder aussichtslos noch ihre Inanspruchnahme mutwillig erscheint und wenn glaubhaft gemacht wird, dass
 
 a)  
 dem Antragsteller die alsbaldige Zahlung der Kosten mit Rücksicht auf seine Vermögenslage oder aus sonstigen Gründen Schwierigkeiten bereiten würde oder
@@ -317,7 +320,7 @@ eine Verzögerung dem Antragsteller einen nicht oder nur schwer zu ersetzenden S
 
 (1) Wird die Vornahme einer Handlung, mit der Auslagen verbunden sind, beantragt, hat derjenige, der die Handlung beantragt hat, einen zur Deckung der Auslagen hinreichenden Vorschuss zu zahlen. Das Gericht soll die Vornahme einer Handlung, die nur auf Antrag vorzunehmen ist, von der vorherigen Zahlung abhängig machen.
 
-(2) Die Herstellung und Überlassung von Dokumenten auf Antrag sowie die Versendung und die elektronische Übermittlung von Akten können von der vorherigen Zahlung eines die Auslagen deckenden Vorschusses abhängig gemacht werden.
+(2) Die Herstellung und Überlassung von Dokumenten auf Antrag sowie die Versendung von Akten können von der vorherigen Zahlung eines die Auslagen deckenden Vorschusses abhängig gemacht werden.
 
 (3) Bei Handlungen, die von Amts wegen vorgenommen werden, kann ein Vorschuss zur Deckung der Auslagen erhoben werden.
 
@@ -344,7 +347,7 @@ die Kosten des Rechtsmittelverfahrens bei dem Rechtsmittelgericht.
 
 Dies gilt auch dann, wenn die Kosten bei einem ersuchten Gericht entstanden sind.
 
-(2) Die Dokumentenpauschale sowie die Auslagen für die Versendung und die elektronische Übermittlung von Akten werden bei der Stelle angesetzt, bei der sie entstanden sind.
+(2) Die Dokumentenpauschale sowie die Auslagen für die Versendung von Akten werden bei der Stelle angesetzt, bei der sie entstanden sind.
 
 (3) Der Kostenansatz kann im Verwaltungsweg berichtigt werden, solange nicht eine gerichtliche Entscheidung getroffen ist. Ergeht nach der gerichtlichen Entscheidung über den Kostenansatz eine Entscheidung, durch die der Verfahrenswert anders festgesetzt wird, kann der Kostenansatz ebenfalls berichtigt werden.
 
@@ -352,11 +355,11 @@ Dies gilt auch dann, wenn die Kosten bei einem ersuchten Gericht entstanden sind
 
 (1) Wegen eines unrichtigen Ansatzes dürfen Kosten nur nachgefordert werden, wenn der berichtigte Ansatz dem Zahlungspflichtigen vor Ablauf des nächsten Kalenderjahres nach Absendung der den Rechtszug abschließenden Kostenrechnung (Schlusskostenrechnung), bei Vormundschaften und Dauerpflegschaften der Jahresrechnung, mitgeteilt worden ist. Dies gilt nicht, wenn die Nachforderung auf vorsätzlich oder grob fahrlässig falschen Angaben des Kostenschuldners beruht oder wenn der ursprüngliche Kostenansatz unter einem bestimmten Vorbehalt erfolgt ist.
 
-(2) Ist innerhalb der Frist des Absatzes 1 ein Rechtsbehelf in der Hauptsache oder wegen der Kosten eingelegt oder dem Zahlungspflichtigen mitgeteilt worden, dass ein Wertermittlungsverfahren eingeleitet ist, ist die Nachforderung bis zum Ablauf des nächsten Kalenderjahres nach Beendigung dieser Verfahren möglich.
+(2) Ist innerhalb der Frist des Absatzes 1 ein Rechtsbehelf wegen des Hauptgegenstands oder wegen der Kosten eingelegt oder dem Zahlungspflichtigen mitgeteilt worden, dass ein Wertermittlungsverfahren eingeleitet ist, ist die Nachforderung bis zum Ablauf des nächsten Kalenderjahres nach Beendigung dieser Verfahren möglich.
 
 (3) Ist der Wert gerichtlich festgesetzt worden, genügt es, wenn der berichtigte Ansatz dem Zahlungspflichtigen drei Monate nach der letzten Wertfestsetzung mitgeteilt worden ist.
 
-### § 20 Nichterhebung von Kosten wegen unrichtiger Sachbehandlung
+### § 20 Nichterhebung von Kosten
 
 (1) Kosten, die bei richtiger Behandlung der Sache nicht entstanden wären, werden nicht erhoben. Das Gleiche gilt für Auslagen, die durch eine von Amts wegen veranlasste Verlegung eines Termins oder Vertagung einer Verhandlung entstanden sind. Für abweisende Entscheidungen sowie bei Zurücknahme eines Antrags kann von der Erhebung von Kosten abgesehen werden, wenn der Antrag auf unverschuldeter Unkenntnis der tatsächlichen oder rechtlichen Verhältnisse beruht.
 
@@ -372,7 +375,7 @@ Abschnitt 5 Kostenhaftung
 (1) In Verfahren, die nur durch Antrag eingeleitet werden, schuldet die Kosten, wer das Verfahren des Rechtszugs beantragt hat. Dies gilt nicht
 
 1.  
-für den ersten Rechtszug in Gewaltschutzsachen,
+für den ersten Rechtszug in Gewaltschutzsachen und in Verfahren nach dem EU-Gewaltschutzverfahrensgesetz,
 
 2.  
 im Verfahren auf Erlass einer gerichtlichen Anordnung auf Rückgabe des Kindes oder über das Recht zum persönlichen Umgang nach dem Internationalen Familienrechtsverfahrensgesetz,
@@ -393,11 +396,17 @@ Die Kosten bei einer Vormundschaft oder Dauerpflegschaft schuldet der von der Ma
 
 ### § 23 Bestimmte sonstige Auslagen
 
-(1) Die Dokumentenpauschale schuldet ferner, wer die Erteilung der Ausfertigungen, Ablichtungen oder Ausdrucke beantragt hat. Sind Ablichtungen oder Ausdrucke angefertigt worden, weil der Beteiligte es unterlassen hat, die erforderliche Zahl von Mehrfertigungen beizufügen, schuldet nur der Beteiligte die Dokumentenpauschale.
+(1) Die Dokumentenpauschale schuldet ferner, wer die Erteilung der Ausfertigungen, Kopien oder Ausdrucke beantragt hat. Sind Kopien oder Ausdrucke angefertigt worden, weil der Beteiligte es unterlassen hat, die erforderliche Zahl von Mehrfertigungen beizufügen, schuldet nur der Beteiligte die Dokumentenpauschale.
 
-(2) Die Auslagen nach Nummer 2003 des Kostenverzeichnisses schuldet nur, wer die Versendung oder die elektronische Übermittlung der Akte beantragt hat.
+(2) Die Auslagen nach Nummer 2003 des Kostenverzeichnisses schuldet nur, wer die Versendung der Akte beantragt hat.
 
-(3) Im Verfahren auf Bewilligung von Verfahrens- oder Prozesskostenhilfe einschließlich des Verfahrens auf Bewilligung grenzüberschreitender Verfahrens- oder Prozesskostenhilfe ist der Antragsteller Schuldner der Auslagen, wenn der Antrag zurückgenommen oder von dem Gericht abgelehnt oder wenn die Übermittlung des Antrags von der Übermittlungsstelle oder das Ersuchen um Verfahrens- oder Prozesskostenhilfe von der Empfangsstelle abgelehnt wird.
+(3) Im Verfahren auf Bewilligung von Verfahrenskostenhilfe und im Verfahren auf Bewilligung grenzüberschreitender Prozesskostenhilfe ist der Antragsteller Schuldner der Auslagen, wenn
+
+1.  
+der Antrag zurückgenommen oder vom Gericht abgelehnt wird oder
+
+2.  
+die Übermittlung des Antrags von der Übermittlungsstelle oder das Ersuchen um Prozesskostenhilfe von der Empfangsstelle abgelehnt wird.
 
 ### § 24 Weitere Fälle der Kostenhaftung
 
@@ -425,7 +434,18 @@ Die durch gerichtliche Entscheidung begründete Verpflichtung zur Zahlung von Ko
 
 (2) Soweit ein Kostenschuldner aufgrund von § 24 Nr. 1 oder Nr. 2 (Erstschuldner) haftet, soll die Haftung eines anderen Kostenschuldners nur geltend gemacht werden, wenn eine Zwangsvollstreckung in das bewegliche Vermögen des ersteren erfolglos geblieben ist oder aussichtslos erscheint. Zahlungen des Erstschuldners mindern seine Haftung aufgrund anderer Vorschriften dieses Gesetzes auch dann in voller Höhe, wenn sich seine Haftung nur auf einen Teilbetrag bezieht.
 
-(3) Soweit einem Kostenschuldner, der aufgrund von § 24 Nr. 1 haftet (Entscheidungsschuldner), Verfahrens- oder Prozesskostenhilfe bewilligt worden ist, darf die Haftung eines anderen Kostenschuldners nicht geltend gemacht werden; von diesem bereits erhobene Kosten sind zurückzuzahlen, soweit es sich nicht um eine Zahlung nach § 13 Abs. 1 und 3 des Justizvergütungs- und -entschädigungsgesetzes handelt und die Partei, der die Verfahrens- oder Prozesskostenhilfe bewilligt worden ist, der besonderen Vergütung zugestimmt hat. Die Haftung eines anderen Kostenschuldners darf auch nicht geltend gemacht werden, soweit dem Entscheidungsschuldner ein Betrag für die Reise zum Ort einer Verhandlung, Anhörung oder Untersuchung und für die Rückreise gewährt worden ist.
+(3) Soweit einem Kostenschuldner, der aufgrund von § 24 Nr. 1 haftet (Entscheidungsschuldner), Verfahrenskostenhilfe bewilligt worden ist, darf die Haftung eines anderen Kostenschuldners nicht geltend gemacht werden; von diesem bereits erhobene Kosten sind zurückzuzahlen, soweit es sich nicht um eine Zahlung nach § 13 Abs. 1 und 3 des Justizvergütungs- und -entschädigungsgesetzes handelt und die Partei, der die Verfahrenskostenhilfe bewilligt worden ist, der besonderen Vergütung zugestimmt hat. Die Haftung eines anderen Kostenschuldners darf auch nicht geltend gemacht werden, soweit dem Entscheidungsschuldner ein Betrag für die Reise zum Ort einer Verhandlung, Anhörung oder Untersuchung und für die Rückreise gewährt worden ist.
+
+(4) Absatz 3 ist entsprechend anzuwenden, soweit der Kostenschuldner aufgrund des § 24 Nummer 2 haftet, wenn
+
+1.  
+der Kostenschuldner die Kosten in einem vor Gericht abgeschlossenen, gegenüber dem Gericht angenommenen oder in einem gerichtlich gebilligten Vergleich übernommen hat,
+
+2.  
+der Vergleich einschließlich der Verteilung der Kosten, bei einem gerichtlich gebilligten Vergleich allein die Verteilung der Kosten, von dem Gericht vorgeschlagen worden ist und
+
+3.  
+das Gericht in seinem Vergleichsvorschlag ausdrücklich festgestellt hat, dass die Kostenregelung der sonst zu erwartenden Kostenentscheidung entspricht.
 
 ### § 27 Haftung von Streitgenossen
 
@@ -438,72 +458,63 @@ Abschnitt 6 Gebührenvorschriften
 
 ### § 28 Wertgebühren
 
-(1) Wenn sich die Gebühren nach dem Verfahrenswert richten, beträgt die Gebühr bei einem Verfahrenswert bis 300 Euro 25 Euro. Die Gebühr erhöht sich bei einem
+(1) Wenn sich die Gebühren nach dem Verfahrenswert richten, beträgt die Gebühr bei einem Verfahrenswert bis 500 Euro 35 Euro. Die Gebühr erhöht sich bei einem
 
 Verfahrenswert
 bis ... Euro
 
 für jeden
-angefangenen Betrag
-von weiteren ... Euro
+angefangenen Betrag von weiteren ... Euro
 
 um
 ... Euro
 
-  1 500
+  2 000
 
-  300
+   500
 
- 10
-
-  5 000
-
-  500
-
-  8
+ 18
 
  10 000
 
  1 000
 
- 15
+ 19
 
  25 000
 
  3 000
 
- 23
+ 26
 
  50 000
 
  5 000
 
- 29
+ 35
 
 200 000
 
 15 000
 
-100
+120
 
 500 000
 
 30 000
 
-150
+179
 
-über
+  über
 500 000
 
- 
 50 000
 
- 
-150
+180
 
 Eine Gebührentabelle für Verfahrenswerte bis 500 000 Euro ist diesem Gesetz als Anlage 2 beigefügt.
 
-(2) Der Mindestbetrag einer Gebühr ist 10 Euro.
+(2) Der Mindestbetrag einer Gebühr ist 15 Euro.
 
 ### § 29 Einmalige Erhebung der Gebühren
 
@@ -553,7 +564,7 @@ Ist Gegenstand des Verfahrens eine bezifferte Geldforderung, bemisst sich der Ve
 
 ### § 36 Genehmigung einer Erklärung oder deren Ersetzung
 
-(1) Wenn in einer vermögensrechtlichen Angelegenheit Gegenstand des Verfahrens die Genehmigung einer Erklärung oder deren Ersetzung ist, bemisst sich der Verfahrenswert nach dem Wert des zugrunde liegenden Geschäfts. § 18 Abs. 3, die §§ 19 bis 25, 39 Abs. 2, § 40 Abs. 2 und § 46 Abs. 4 der Kostenordnung gelten entsprechend.
+(1) Wenn in einer vermögensrechtlichen Angelegenheit Gegenstand des Verfahrens die Genehmigung einer Erklärung oder deren Ersetzung ist, bemisst sich der Verfahrenswert nach dem Wert des zugrunde liegenden Geschäfts. § 38 des Gerichts- und Notarkostengesetzes und die für eine Beurkundung geltenden besonderen Geschäftswert- und Bewertungsvorschriften des Gerichts- und Notarkostengesetzes sind entsprechend anzuwenden.
 
 (2) Mehrere Erklärungen, die denselben Gegenstand betreffen, insbesondere der Kauf und die Auflassung oder die Schulderklärung und die zur Hypothekenbestellung erforderlichen Erklärungen, sind als ein Verfahrensgegenstand zu bewerten.
 
@@ -567,13 +578,13 @@ Ist Gegenstand des Verfahrens eine bezifferte Geldforderung, bemisst sich der Ve
 
 (3) Sind die Kosten des Verfahrens ohne den Hauptgegenstand betroffen, ist der Betrag der Kosten maßgebend, soweit er den Wert des Hauptgegenstands nicht übersteigt.
 
-### § 38 Stufenklageantrag
+### § 38 Stufenantrag
 
-Wird mit dem Klageantrag auf Rechnungslegung oder auf Vorlegung eines Vermögensverzeichnisses oder auf Abgabe einer eidesstattlichen Versicherung der Klageantrag auf Herausgabe desjenigen verbunden, was der Antragsgegner aus dem zugrunde liegenden Rechtsverhältnis schuldet, ist für die Wertberechnung nur einer der verbundenen Ansprüche, und zwar der höhere, maßgebend.
+Wird mit dem Antrag auf Rechnungslegung oder auf Vorlegung eines Vermögensverzeichnisses oder auf Abgabe einer eidesstattlichen Versicherung der Antrag auf Herausgabe desjenigen verbunden, was der Antragsgegner aus dem zugrunde liegenden Rechtsverhältnis schuldet, ist für die Wertberechnung nur einer der verbundenen Ansprüche, und zwar der höhere, maßgebend.
 
-### § 39 Klage- und Widerklageantrag, Hilfsanspruch, wechselseitige Rechtsmittel, Aufrechnung
+### § 39 Antrag und Widerantrag, Hilfsanspruch, wechselseitige Rechtsmittel, Aufrechnung
 
-(1) Mit einem Klage- und einem Widerklageantrag geltend gemachte Ansprüche, die nicht in getrennten Verfahren verhandelt werden, werden zusammengerechnet. Ein hilfsweise geltend gemachter Anspruch wird mit dem Hauptanspruch zusammengerechnet, soweit eine Entscheidung über ihn ergeht. Betreffen die Ansprüche im Fall des Satzes 1 oder des Satzes 2 denselben Gegenstand, ist nur der Wert des höheren Anspruchs maßgebend.
+(1) Mit einem Antrag und einem Widerantrag geltend gemachte Ansprüche, die nicht in getrennten Verfahren verhandelt werden, werden zusammengerechnet. Ein hilfsweise geltend gemachter Anspruch wird mit dem Hauptanspruch zusammengerechnet, soweit eine Entscheidung über ihn ergeht. Betreffen die Ansprüche im Fall des Satzes 1 oder des Satzes 2 denselben Gegenstand, ist nur der Wert des höheren Anspruchs maßgebend.
 
 (2) Für wechselseitig eingelegte Rechtsmittel, die nicht in getrennten Verfahren verhandelt werden, ist Absatz 1 Satz 1 und 3 entsprechend anzuwenden.
 
@@ -583,7 +594,7 @@ Wird mit dem Klageantrag auf Rechnungslegung oder auf Vorlegung eines Vermögens
 
 ### § 40 Rechtsmittelverfahren
 
-(1) Im Rechtsmittelverfahren bestimmt sich der Verfahrenswert nach den Anträgen des Rechtsmittelführers. Endet das Verfahren, ohne dass solche Anträge eingereicht werden, oder werden bei einer Rechtsbeschwerde innerhalb der Frist für die Begründung Anträge nicht eingereicht, ist die Beschwer maßgebend.
+(1) Im Rechtsmittelverfahren bestimmt sich der Verfahrenswert nach den Anträgen des Rechtsmittelführers. Endet das Verfahren, ohne dass solche Anträge eingereicht werden, oder werden, wenn eine Frist für die Rechtsmittelbegründung vorgeschrieben ist, innerhalb dieser Frist Rechtsmittelanträge nicht eingereicht, ist die Beschwer maßgebend.
 
 (2) Der Wert ist durch den Wert des Verfahrensgegenstands des ersten Rechtszugs begrenzt. Dies gilt nicht, soweit der Gegenstand erweitert wird.
 
@@ -599,7 +610,7 @@ Im Verfahren der einstweiligen Anordnung ist der Wert in der Regel unter Berück
 
 (2) Soweit in einer nichtvermögensrechtlichen Angelegenheit der Verfahrenswert sich aus den Vorschriften dieses Gesetzes nicht ergibt, ist er unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere des Umfangs und der Bedeutung der Sache und der Vermögens- und Einkommensverhältnisse der Beteiligten, nach billigem Ermessen zu bestimmen, jedoch nicht über 500 000 Euro.
 
-(3) Bestehen in den Fällen der Absätze 1 und 2 keine genügenden Anhaltspunkte, ist von einem Wert von 3 000 Euro auszugehen.
+(3) Bestehen in den Fällen der Absätze 1 und 2 keine genügenden Anhaltspunkte, ist von einem Wert von 5 000 Euro auszugehen.
 
 Unterabschnitt 2 Besondere Wertvorschriften
 -------------------------------------------
@@ -608,7 +619,7 @@ Unterabschnitt 2 Besondere Wertvorschriften
 
 ### § 43 Ehesachen
 
-(1) In Ehesachen ist der Verfahrenswert unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere des Umfangs und der Bedeutung der Sache und der Vermögens- und Einkommensverhältnisse der Ehegatten, nach Ermessen zu bestimmen. Der Wert darf nicht unter 2 000 Euro und nicht über 1 Million Euro angenommen werden.
+(1) In Ehesachen ist der Verfahrenswert unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere des Umfangs und der Bedeutung der Sache und der Vermögens- und Einkommensverhältnisse der Ehegatten, nach Ermessen zu bestimmen. Der Wert darf nicht unter 3 000 Euro und nicht über 1 Million Euro angenommen werden.
 
 (2) Für die Einkommensverhältnisse ist das in drei Monaten erzielte Nettoeinkommen der Ehegatten einzusetzen.
 
@@ -628,9 +639,12 @@ Unterabschnitt 2 Besondere Wertvorschriften
 die Übertragung oder Entziehung der elterlichen Sorge oder eines Teils der elterlichen Sorge,
 
 2.  
-das Umgangsrecht einschließlich der Umgangspflegschaft oder
+das Umgangsrecht einschließlich der Umgangspflegschaft,
 
 3.  
+das Recht auf Auskunft über die persönlichen Verhältnisse des Kindes oder
+
+4.  
 die Kindesherausgabe
 
 betrifft, beträgt der Verfahrenswert 3 000 Euro.
@@ -641,9 +655,9 @@ betrifft, beträgt der Verfahrenswert 3 000 Euro.
 
 ### § 46 Übrige Kindschaftssachen
 
-(1) Wenn Gegenstand einer Kindschaftssache eine vermögensrechtliche Angelegenheit ist, gelten § 18 Abs. 3, die §§ 19 bis 25, 39 Abs. 2 und § 46 Abs. 4 der Kostenordnung entsprechend.
+(1) Wenn Gegenstand einer Kindschaftssache eine vermögensrechtliche Angelegenheit ist, gelten § 38 des Gerichts- und Notarkostengesetzes und die für eine Beurkundung geltenden besonderen Geschäftswert- und Bewertungsvorschriften des Gerichts- und Notarkostengesetzes entsprechend.
 
-(2) Bei Pflegschaften für einzelne Rechtshandlungen bestimmt sich der Verfahrenswert nach dem Wert der Rechtshandlung. Bezieht sich die Pflegschaft auf eine gegenwärtige oder künftige Mitberechtigung, ermäßigt sich der Wert auf den Bruchteil, der dem Anteil der Mitberechtigung entspricht. Bei Gesamthandsverhältnissen ist der Anteil entsprechend der Beteiligung an dem Gesamthandvermögen zu bemessen.
+(2) Bei Pflegschaften für einzelne Rechtshandlungen bestimmt sich der Verfahrenswert nach dem Wert des Gegenstands, auf den sich die Rechtshandlung bezieht. Bezieht sich die Pflegschaft auf eine gegenwärtige oder künftige Mitberechtigung, ermäßigt sich der Wert auf den Bruchteil, der dem Anteil der Mitberechtigung entspricht. Bei Gesamthandsverhältnissen ist der Anteil entsprechend der Beteiligung an dem Gesamthandvermögen zu bemessen.
 
 (3) Der Wert beträgt in jedem Fall höchstens 1 Million Euro.
 
@@ -663,7 +677,7 @@ betrifft, beträgt der Verfahrenswert 3 000 Euro.
 
 ### § 49 Gewaltschutzsachen
 
-(1) In Gewaltschutzsachen nach § 1 des Gewaltschutzgesetzes beträgt der Verfahrenswert 2 000 Euro, in Gewaltschutzsachen nach § 2 des Gewaltschutzgesetzes 3 000 Euro.
+(1) In Gewaltschutzsachen nach § 1 des Gewaltschutzgesetzes und in Verfahren nach dem EU-Gewaltschutzverfahrensgesetz beträgt der Verfahrenswert 2 000 Euro, in Gewaltschutzsachen nach § 2 des Gewaltschutzgesetzes 3 000 Euro.
 
 (2) Ist der nach Absatz 1 bestimmte Wert nach den besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen höheren oder einen niedrigeren Wert festsetzen.
 
@@ -675,13 +689,13 @@ betrifft, beträgt der Verfahrenswert 3 000 Euro.
 
 (3) Ist der nach den Absätzen 1 und 2 bestimmte Wert nach den besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen höheren oder einen niedrigeren Wert festsetzen.
 
-### § 51 Unterhaltssachen
+### § 51 Unterhaltssachen und sonstige den Unterhalt betreffende Familiensachen
 
-(1) In Unterhaltssachen, die Familienstreitsachen sind und wiederkehrende Leistungen betreffen, ist der für die ersten zwölf Monate nach Einreichung des Klageantrags oder des Antrags geforderte Betrag maßgeblich, höchstens jedoch der Gesamtbetrag der geforderten Leistung. Bei Unterhaltsansprüchen nach den §§ 1612a bis 1612c des Bürgerlichen Gesetzbuchs ist dem Wert nach Satz 1 der Monatsbetrag des zum Zeitpunkt der Einreichung des Klageantrags oder des Antrags geltenden Mindestunterhalts nach der zu diesem Zeitpunkt maßgebenden Altersstufe zugrunde zu legen.
+(1) In Unterhaltssachen und in sonstigen den Unterhalt betreffenden Familiensachen, soweit diese jeweils Familienstreitsachen sind und wiederkehrende Leistungen betreffen, ist der für die ersten zwölf Monate nach Einreichung des Antrags geforderte Betrag maßgeblich, höchstens jedoch der Gesamtbetrag der geforderten Leistung. Bei Unterhaltsansprüchen nach den §§ 1612a bis 1612c des Bürgerlichen Gesetzbuchs ist dem Wert nach Satz 1 der Monatsbetrag des zum Zeitpunkt der Einreichung des Antrags geltenden Mindestunterhalts nach der zu diesem Zeitpunkt maßgebenden Altersstufe zugrunde zu legen.
 
-(2) Die bei Einreichung des Klageantrags fälligen Beträge werden dem Wert hinzugerechnet. Der Einreichung des Klageantrags steht die Einreichung eines Antrags auf Bewilligung der Prozesskostenhilfe gleich, wenn der Klageantrag alsbald nach Mitteilung der Entscheidung über den Antrag oder über eine alsbald eingelegte Beschwerde eingereicht wird. Die Sätze 1 und 2 sind im vereinfachten Verfahren zur Festsetzung von Unterhalt Minderjähriger entsprechend anzuwenden.
+(2) Die bei Einreichung des Antrags fälligen Beträge werden dem Wert hinzugerechnet. Der Einreichung des Antrags wegen des Hauptgegenstands steht die Einreichung eines Antrags auf Bewilligung der Verfahrenskostenhilfe gleich, wenn der Antrag wegen des Hauptgegenstands alsbald nach Mitteilung der Entscheidung über den Antrag auf Bewilligung der Verfahrenskostenhilfe oder über eine alsbald eingelegte Beschwerde eingereicht wird. Die Sätze 1 und 2 sind im vereinfachten Verfahren zur Festsetzung von Unterhalt Minderjähriger entsprechend anzuwenden.
 
-(3) In Unterhaltssachen, die nicht Familienstreitsachen sind, beträgt der Wert 300 Euro. Ist der Wert nach den besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen höheren Wert festsetzen.
+(3) In Unterhaltssachen, die nicht Familienstreitsachen sind, beträgt der Wert 500 Euro. Ist der Wert nach den besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen höheren Wert festsetzen.
 
 ### § 52 Güterrechtssachen
 
@@ -702,11 +716,19 @@ Ist der Wert für die Zulässigkeit der Beschwerde festgesetzt, ist die Festsetz
 
 ### § 55 Wertfestsetzung für die Gerichtsgebühren
 
-(1) Sind Gebühren, die sich nach dem Verfahrenswert richten, mit der Einreichung des Klageantrags, des Antrags, der Einspruchs- oder der Rechtsmittelschrift oder mit der Abgabe der entsprechenden Erklärung zu Protokoll fällig, setzt das Gericht sogleich den Wert ohne Anhörung der Beteiligten durch Beschluss vorläufig fest, wenn Gegenstand des Verfahrens nicht eine bestimmte Geldsumme in Euro ist oder für den Regelfall kein fester Wert bestimmt ist. Einwendungen gegen die Höhe des festgesetzten Werts können nur im Verfahren über die Beschwerde gegen den Beschluss, durch den die Tätigkeit des Gerichts aufgrund dieses Gesetzes von der vorherigen Zahlung von Kosten abhängig gemacht wird, geltend gemacht werden.
+(1) Sind Gebühren, die sich nach dem Verfahrenswert richten, mit der Einreichung des Antrags, der Einspruchs- oder der Rechtsmittelschrift oder mit der Abgabe der entsprechenden Erklärung zu Protokoll fällig, setzt das Gericht sogleich den Wert ohne Anhörung der Beteiligten durch Beschluss vorläufig fest, wenn Gegenstand des Verfahrens nicht eine bestimmte Geldsumme in Euro ist oder für den Regelfall kein fester Wert bestimmt ist. Einwendungen gegen die Höhe des festgesetzten Werts können nur im Verfahren über die Beschwerde gegen den Beschluss, durch den die Tätigkeit des Gerichts aufgrund dieses Gesetzes von der vorherigen Zahlung von Kosten abhängig gemacht wird, geltend gemacht werden.
 
 (2) Soweit eine Entscheidung nach § 54 nicht ergeht oder nicht bindet, setzt das Gericht den Wert für die zu erhebenden Gebühren durch Beschluss fest, sobald eine Entscheidung über den gesamten Verfahrensgegenstand ergeht oder sich das Verfahren anderweitig erledigt.
 
-(3) Die Festsetzung kann von dem Gericht, das sie getroffen hat, und, wenn das Verfahren wegen der Hauptsache oder wegen der Entscheidung über den Verfahrenswert, den Kostenansatz oder die Kostenfestsetzung in der Rechtsmittelinstanz schwebt, von dem Rechtsmittelgericht von Amts wegen geändert werden. Die Änderung ist nur innerhalb von sechs Monaten zulässig, nachdem die Entscheidung in der Hauptsache Rechtskraft erlangt oder das Verfahren sich anderweitig erledigt hat.
+(3) Die Festsetzung kann von Amts wegen geändert werden
+
+1.  
+von dem Gericht, das den Wert festgesetzt hat, und
+
+2.  
+von dem Rechtsmittelgericht, wenn das Verfahren wegen des Hauptgegenstands oder wegen der Entscheidung über den Verfahrenswert, den Kostenansatz oder die Kostenfestsetzung in der Rechtsmittelinstanz schwebt.
+
+Die Änderung ist nur innerhalb von sechs Monaten zulässig, nachdem die Entscheidung wegen des Hauptgegenstands Rechtskraft erlangt oder das Verfahren sich anderweitig erledigt hat.
 
 ### § 56 Schätzung des Werts
 
@@ -737,7 +759,7 @@ Abschnitt 8 Erinnerung und Beschwerde
 
 ### § 58 Beschwerde gegen die Anordnung einer Vorauszahlung
 
-(1) Gegen den Beschluss, durch den die Tätigkeit des Familiengerichts nur aufgrund dieses Gesetzes von der vorherigen Zahlung von Kosten abhängig gemacht wird, und wegen der Höhe des in diesem Fall im Voraus zu zahlenden Betrags findet stets die Beschwerde statt. § 57 Abs. 3, 4 Satz 1 und 4, Abs. 5, 7 und 8 ist entsprechend anzuwenden. Soweit sich der Beteiligte in dem Hauptsacheverfahren vor dem Familiengericht durch einen Bevollmächtigten vertreten lassen muss, gilt dies auch im Beschwerdeverfahren.
+(1) Gegen den Beschluss, durch den die Tätigkeit des Familiengerichts nur aufgrund dieses Gesetzes von der vorherigen Zahlung von Kosten abhängig gemacht wird, und wegen der Höhe des in diesem Fall im Voraus zu zahlenden Betrags findet stets die Beschwerde statt. § 57 Abs. 3, 4 Satz 1 und 4, Abs. 5, 7 und 8 ist entsprechend anzuwenden. Soweit sich der Beteiligte in dem Verfahren wegen des Hauptgegenstands vor dem Familiengericht durch einen Bevollmächtigten vertreten lassen muss, gilt dies auch im Beschwerdeverfahren.
 
 (2) Im Fall des § 16 Abs. 2 ist § 57 entsprechend anzuwenden.
 
@@ -745,7 +767,7 @@ Abschnitt 8 Erinnerung und Beschwerde
 
 (1) Gegen den Beschluss des Familiengerichts, durch den der Verfahrenswert für die Gerichtsgebühren festgesetzt worden ist (§ 55 Abs. 2), findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt. Die Beschwerde findet auch statt, wenn sie das Familiengericht wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt. Die Beschwerde ist nur zulässig, wenn sie innerhalb der in § 55 Abs. 3 Satz 2 bestimmten Frist eingelegt wird; ist der Verfahrenswert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, kann sie noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden. Im Fall der formlosen Mitteilung gilt der Beschluss mit dem dritten Tag nach Aufgabe zur Post als bekannt gemacht. § 57 Abs. 3, 4 Satz 1, 2 und 4, Abs. 5 und 7 ist entsprechend anzuwenden.
 
-(2) War der Beschwerdeführer ohne sein Verschulden verhindert, die Frist einzuhalten, ist ihm auf Antrag vom Oberlandesgericht Wiedereinsetzung in den vorigen Stand zu gewähren, wenn er die Beschwerde binnen zwei Wochen nach der Beseitigung des Hindernisses einlegt und die Tatsachen, welche die Wiedereinsetzung begründen, glaubhaft macht. Nach Ablauf eines Jahres, von dem Ende der versäumten Frist an gerechnet, kann die Wiedereinsetzung nicht mehr beantragt werden.
+(2) War der Beschwerdeführer ohne sein Verschulden verhindert, die Frist einzuhalten, ist ihm auf Antrag vom Oberlandesgericht Wiedereinsetzung in den vorigen Stand zu gewähren, wenn er die Beschwerde binnen zwei Wochen nach der Beseitigung des Hindernisses einlegt und die Tatsachen, welche die Wiedereinsetzung begründen, glaubhaft macht. Ein Fehlen des Verschuldens wird vermutet, wenn eine Rechtsbehelfsbelehrung unterblieben oder fehlerhaft ist. Nach Ablauf eines Jahres, von dem Ende der versäumten Frist an gerechnet, kann die Wiedereinsetzung nicht mehr beantragt werden.
 
 (3) Die Verfahren sind gebührenfrei. Kosten werden nicht erstattet.
 
@@ -782,15 +804,11 @@ Abschnitt 9 Schluss- und Übergangsvorschriften
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass die von den Gerichten der Länder zu erhebenden Verfahrensgebühren in solchen Verfahren, die nur auf Antrag eingeleitet werden, über die im Kostenverzeichnis für den Fall der Zurücknahme des Antrags vorgesehene Ermäßigung hinaus weiter ermäßigt werden oder entfallen, wenn das gesamte Verfahren oder bei Verbundverfahren nach § 44 eine Folgesache nach einer Mediation oder nach einem anderen Verfahren der außergerichtlichen Konfliktbeilegung durch Zurücknahme des Antrags beendet wird und in der Antragsschrift mitgeteilt worden ist, dass eine Mediation oder ein anderes Verfahren der außergerichtlichen Konfliktbeilegung unternommen wird oder beabsichtigt ist, oder wenn das Gericht den Beteiligten die Durchführung einer Mediation oder eines anderen Verfahrens der außergerichtlichen Konfliktbeilegung vorgeschlagen hat. Satz 1 gilt entsprechend für die im Beschwerdeverfahren von den Oberlandesgerichten zu erhebenden Verfahrensgebühren; an die Stelle der Antragsschrift tritt der Schriftsatz, mit dem die Beschwerde eingelegt worden ist.
 
-### § 62 Rechnungsgebühren
-
-(1) In Vormundschafts- und Pflegschaftssachen werden für die Prüfung eingereichter Rechnungen, die durch einen dafür besonders bestellten Bediensteten (Rechnungsbeamten) vorgenommen wird, als Auslagen Rechnungsgebühren erhoben, die nach dem für die Arbeit erforderlichen Zeitaufwand bemessen werden. Sie betragen für jede Stunde 10 Euro. Die letzte, bereits begonnene Stunde wird voll gerechnet, wenn sie zu mehr als 30 Minuten für die Erbringung der Arbeit erforderlich war; anderenfalls sind 5 Euro zu erheben. Die Rechnungsgebühren werden nur neben der Gebühr nach Nummer 1311 des Kostenverzeichnisses und nur dann erhoben, wenn die nachgewiesenen Bruttoeinnahmen mehr als 1 000 Euro für das Jahr betragen. Einnahmen aus dem Verkauf von Vermögensstücken rechnen nicht mit.
-
-(2) Die Rechnungsgebühren setzt das Gericht, das den Rechnungsbeamten beauftragt hat, von Amts wegen fest. Gegen die Festsetzung durch das Familiengericht findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt oder das Gericht, das die angefochtene Entscheidung erlassen hat, die Beschwerde wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zugelassen hat. § 57 Abs. 3 bis 8 gilt entsprechend. Beschwerdeberechtigt sind die Staatskasse und derjenige, der für die Rechnungsgebühren als Kostenschuldner in Anspruch genommen wird. § 61 gilt entsprechend.
+### § 62 (weggefallen)
 
 ### § 62a Bekanntmachung von Neufassungen
 
-Das Bundesministerium der Justiz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
+Das Bundesministerium der Justiz und für Verbraucherschutz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
 
 1.  
 den Stichtag, zu dem der Wortlaut festgestellt wird,
@@ -803,9 +821,9 @@ das Inkrafttreten der Änderungen.
 
 ### § 63 Übergangsvorschrift
 
-(1) In Verfahren, die vor dem Inkrafttreten einer Gesetzesänderung anhängig geworden sind, werden die Kosten nach bisherigem Recht erhoben. Dies gilt nicht im Verfahren über ein Rechtsmittel, das nach dem Inkrafttreten einer Gesetzesänderung eingelegt worden ist. Die Sätze 1 und 2 gelten auch, wenn Vorschriften geändert werden, auf die dieses Gesetz verweist.
+(1) In Verfahren, die vor dem Inkrafttreten einer Gesetzesänderung anhängig geworden oder eingeleitet worden sind, werden die Kosten nach bisherigem Recht erhoben. Dies gilt nicht im Verfahren über ein Rechtsmittel, das nach dem Inkrafttreten einer Gesetzesänderung eingelegt worden ist. Die Sätze 1 und 2 gelten auch, wenn Vorschriften geändert werden, auf die dieses Gesetz verweist.
 
-(2) Bei Vormundschaften und bei Dauerpflegschaften gilt für Kosten, die vor dem Inkrafttreten einer Gesetzesänderung fällig geworden sind, das bisherige Recht.
+(2) In Verfahren, in denen Jahresgebühren erhoben werden, und in Fällen, in denen Absatz 1 keine Anwendung findet, gilt für Kosten, die vor dem Inkrafttreten einer Gesetzesänderung fällig geworden sind, das bisherige Recht.
 
 ### § 64 Übergangsvorschrift für die Erhebung von Haftkosten
 
@@ -813,7 +831,9 @@ Bis zum Erlass landesrechtlicher Vorschriften über die Höhe des Haftkostenbeit
 
 ### Anlage 1 (zu § 3 Abs. 2)Kostenverzeichnis
 
-(Fundstelle: BGBl. I 2008, 2677 - 2690; bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2008, 2677 - 2690;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 **Gliederung**
 
 **Teil 1 Gebühren**
@@ -824,13 +844,13 @@ Bis zum Erlass landesrechtlicher Vorschriften über die Höhe des Haftkostenbeit
 Abschnitt 1 Erster Rechtszug
 
   
-Abschnitt 2 Beschwerde gegen die Endentscheidung
+Abschnitt 2 Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
   
-Abschnitt 3 Rechtsbeschwerde gegen die Endentscheidung
+Abschnitt 3 Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
   
-Abschnitt 4 Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung
+Abschnitt 4 Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 **Hauptabschnitt 2 Hauptsacheverfahren in selbständigen Familienstreitsachen**
 
@@ -841,13 +861,13 @@ Abschnitt 1 Vereinfachtes Verfahren über den Unterhalt Minderjähriger
 *Unterabschnitt 1 Erster Rechtszug*
 
   
-*Unterabschnitt 2 Beschwerde gegen die Endentscheidung*
+*Unterabschnitt 2 Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
   
-*Unterabschnitt 3 Rechtsbeschwerde gegen die Endentscheidung*
+*Unterabschnitt 3 Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
   
-*Unterabschnitt 4 Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung*
+*Unterabschnitt 4 Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
   
 Abschnitt 2 Verfahren im Übrigen
@@ -856,13 +876,13 @@ Abschnitt 2 Verfahren im Übrigen
 *Unterabschnitt 1 Erster Rechtszug*
 
   
-*Unterabschnitt 2 Beschwerde gegen die Endentscheidung*
+*Unterabschnitt 2 Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
   
-*Unterabschnitt 3 Rechtsbeschwerde gegen die Endentscheidung*
+*Unterabschnitt 3 Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
   
-*Unterabschnitt 4 Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung*
+*Unterabschnitt 4 Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 **Hauptabschnitt 3 Hauptsacheverfahren in selbständigen Familiensachen der freiwilligen Gerichtsbarkeit**
 
@@ -873,13 +893,13 @@ Abschnitt 1 Kindschaftssachen
 *Unterabschnitt 1 Verfahren vor dem Familiengericht*
 
   
-*Unterabschnitt 2 Beschwerde gegen die Endentscheidung*
+*Unterabschnitt 2 Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
   
-*Unterabschnitt 3 Rechtsbeschwerde gegen die Endentscheidung*
+*Unterabschnitt 3 Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
   
-*Unterabschnitt 4 Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung*
+*Unterabschnitt 4 Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
   
 Abschnitt 2 Übrige Familiensachen der freiwilligen Gerichtsbarkeit
@@ -888,13 +908,13 @@ Abschnitt 2 Übrige Familiensachen der freiwilligen Gerichtsbarkeit
 *Unterabschnitt 1 Erster Rechtszug*
 
   
-*Unterabschnitt 2 Beschwerde gegen die Endentscheidung*
+*Unterabschnitt 2 Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
   
-*Unterabschnitt 3 Rechtsbeschwerde gegen die Endentscheidung*
+*Unterabschnitt 3 Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
   
-*Unterabschnitt 4 Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung*
+*Unterabschnitt 4 Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 **Hauptabschnitt 4 Einstweiliger Rechtsschutz**
 
@@ -905,16 +925,16 @@ Abschnitt 1 Einstweilige Anordnung in Kindschaftssachen
 *Unterabschnitt 1 Erster Rechtszug*
 
   
-*Unterabschnitt 2 Beschwerde gegen die Endentscheidung*
+*Unterabschnitt 2 Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
   
-Abschnitt 2 Einstweilige Anordnung in den übrigen Familiensachen und Arrest
+Abschnitt 2 Einstweilige Anordnung in den übrigen Familiensachen, Arrest und Europäischer Beschluss zur vorläufigen Kontenpfändung
 
   
 *Unterabschnitt 1 Erster Rechtszug*
 
   
-*Unterabschnitt 2 Beschwerde gegen die Endentscheidung*
+*Unterabschnitt 2 Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 **Hauptabschnitt 5 Besondere Gebühren**
 
@@ -926,7 +946,7 @@ Abschnitt 2 Einstweilige Anordnung in den übrigen Familiensachen und Arrest
 Abschnitt 1 Erster Rechtszug
 
   
-Abschnitt 2 Beschwerde und Rechtsbeschwerde gegen die Endentscheidung
+Abschnitt 2 Beschwerde und Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands
 
 **Hauptabschnitt 8 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör**
 
@@ -963,7 +983,7 @@ der Gebühr nach
 
 1110
 
-Verfahren im Allgemeinen
+Verfahren im Allgemeinen ..........
 
 2,0
 
@@ -1002,14 +1022,14 @@ Die Gebühr 1110 ermäßigt sich auf ..........
  (3) Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände erfüllt sind.
 
 ***Abschnitt 2***
-***Beschwerde gegen die Endentscheidung***
+***Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands***
 
 *Vorbemerkung 1.1.2:*
  Dieser Abschnitt ist auch anzuwenden, wenn sich die Beschwerde auf eine Folgesache beschränkt.
 
 1120
 
-Verfahren im Allgemeinen
+Verfahren im Allgemeinen ..........
 
 3,0
 
@@ -1055,7 +1075,7 @@ Die Gebühr 1120 ermäßigt sich auf ..........
  (2) Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände erfüllt sind.
 
 ***Abschnitt 3***
-***Rechtsbeschwerde gegen die Endentscheidung***
+***Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands***
 
 *Vorbemerkung 1.1.3:*
  Dieser Abschnitt ist auch anzuwenden, wenn sich die Rechtsbeschwerde auf eine Folgesache beschränkt.
@@ -1085,7 +1105,7 @@ Die Gebühr 1130 ermäßigt sich auf ..........
  Wird im Verbund nicht das gesamte Verfahren beendet, ist auf die beendete Ehesache und auf eine oder mehrere beendete Folgesachen § 44 FamGKG anzuwenden und die Gebühr nur insoweit zu ermäßigen.
 
 ***Abschnitt 4***
-***Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung***
+***Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands***
 
 1140
 
@@ -1105,16 +1125,16 @@ Soweit der Antrag abgelehnt wird ..........
 
 1210
 
-Entscheidung über einen Antrag auf Festsetzung von Unterhalt nach § 249 Abs. 1 FamFG mit Ausnahme einer Festsetzung nach § 254 Satz 2 FamFG ..........
+Entscheidung über einen Antrag auf Festsetzung von Unterhalt nach § 249 Abs. 1 FamFG mit Ausnahme einer Festsetzung nach § 253 Abs. 1 Satz 2 FamFG ..........
 
 0,5
 
 *Unterabschnitt 2*
-*Beschwerde gegen die Endentscheidung*
+*Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 1211
 
-Verfahren über die Beschwerde nach § 256 FamFG gegen die Festsetzung von Unterhalt im vereinfachten Verfahren
+Verfahren über die Beschwerde nach § 256 FamFG gegen die Festsetzung von Unterhalt im vereinfachten Verfahren ..........
 
 1,0
 
@@ -1125,11 +1145,11 @@ Die Gebühr 1211 ermäßigt sich auf ..........
 
 0,5
 
- (1) Wenn die Entscheidung nicht durch Vorlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
 *Unterabschnitt 3*
-*Rechtsbeschwerde gegen die Endentscheidung*
+*Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 1213
 
@@ -1152,7 +1172,7 @@ Die Gebühr 1213 ermäßigt sich auf ..........
 1,0
 
 *Unterabschnitt 4*
-*Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung*
+*Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 1216
 
@@ -1215,7 +1235,7 @@ Die Gebühr 1220 ermäßigt sich auf ..........
  (3) Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände erfüllt sind.
 
 *Unterabschnitt 2*
-*Beschwerde gegen die Endentscheidung*
+*Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 1222
 
@@ -1263,7 +1283,7 @@ Die Gebühr 1222 ermäßigt sich auf ..........
  Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände erfüllt sind.
 
 *Unterabschnitt 3*
-*Rechtsbeschwerde gegen die Endentscheidung*
+*Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 1225
 
@@ -1288,7 +1308,7 @@ Die Gebühr 1225 ermäßigt sich auf ..........
 3,0
 
 *Unterabschnitt 4*
-*Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung*
+*Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 1228
 
@@ -1316,7 +1336,7 @@ Soweit der Antrag zurückgenommen oder das Verfahren durch anderweitige Erledigu
 *Vorbemerkung 1.3.1:*
  (1) Keine Gebühren werden erhoben für
 1. die Pflegschaft für eine Leibesfrucht,
-2. ein Verfahren, das die freiheitsentziehende Unterbringung eines Minderjährigen betrifft, und
+2. ein Verfahren, das eine freiheitsentziehende Unterbringung eines Minderjährigen oder eine freiheitsentziehende Maßnahme bei einem Minderjährigen betrifft (§ 151 Nr. 6 und 7 FamFG), und
 3. ein Verfahren, das Aufgaben nach dem Jugendgerichtsgesetz betrifft.
  (2) Von dem Minderjährigen werden Gebühren nach diesem Abschnitt nur erhoben, wenn sein Vermögen nach Abzug der Verbindlichkeiten mehr als 25 000 Euro beträgt; der in § 90 Abs. 2 Nr. 8 des Zwölften Buches Sozialgesetzbuch genannte Vermögenswert wird nicht mitgerechnet.
 
@@ -1325,18 +1345,28 @@ Soweit der Antrag zurückgenommen oder das Verfahren durch anderweitige Erledigu
 
 1310
 
-Verfahrensgebühr ..........
+Verfahren im Allgemeinen ….......
 
 0,5
 
- (1) Die Gebühr entsteht nicht für Verfahren, die in den Rahmen einer Vormundschaft oder Pflegschaft fallen.
+(1) Die Gebühr entsteht nicht für Verfahren,
+
+1.  
+die in den Rahmen einer Vormundschaft oder Pflegschaft fallen,
+
+2.  
+für die die Gebühr 1313 entsteht oder
+
+3.  
+die mit der Anordnung einer Pflegschaft enden.
+
  (2) Für die Umgangspflegschaft werden neben der Gebühr für das Verfahren, in dem diese angeordnet wird, keine besonderen Gebühren erhoben.
 
 1311
 
-Jahresgebühr für jedes Kalenderjahr bei einer Vormundschaft oder Dauerpflegschaft, wenn nicht Nummer 1312 anzuwenden ist ..........
+Jahresgebühr für jedes angefangene Kalenderjahr bei einer Vormundschaft oder Dauerpflegschaft, wenn nicht Nummer 1312 anzuwenden ist ..........
 
-  5,00 EUR
+  5,00 €
 
  (1) Für die Gebühr wird das Vermögen des von der Maßnahme betroffenen Minderjährigen nur berücksichtigt, soweit es nach Abzug der Verbindlichkeiten mehr als 25 000 Euro beträgt; der in § 90 Abs. 2 Nr. 8 des Zwölften Buches Sozialgesetzbuch genannte Vermögenswert wird nicht mitgerechnet. Ist Gegenstand der Maßnahme ein Teil des Vermögens, ist höchstens dieser Teil des Vermögens zu berücksichtigen.
  (2) Für das bei Anordnung der Maßnahme oder bei der ersten Tätigkeit des Familiengerichts nach Eintritt der Vormundschaft laufende und das folgende Kalenderjahr wird nur eine Jahresgebühr erhoben.
@@ -1344,37 +1374,37 @@ Jahresgebühr für jedes Kalenderjahr bei einer Vormundschaft oder Dauerpflegsch
  (4) Geht eine Pflegschaft in eine Vormundschaft über, handelt es sich um ein einheitliches Verfahren.
 
 je angefangene
-5 000,00 EUR
+5 000,00 €
 des zu
 berücksichtigenden
 Vermögens
 – mindestens
-50,00 EUR
+50,00 €
 
 1312
 
-Jahresgebühr für jedes Kalenderjahr bei einer Dauerpflegschaft, die nicht unmittelbar das Vermögen oder Teile des Vermögens zum Gegenstand hat ..........
+Jahresgebühr für jedes angefangene Kalenderjahr bei einer Dauerpflegschaft, die nicht unmittelbar das Vermögen oder Teile des Vermögens zum Gegenstand hat ..........
 
-200,00 EUR
+200,00 €
 – höchstens
 eine Gebühr
 1311
 
 1313
 
-Verfahrensgebühr bei einer Pflegschaft für einzelne Rechtshandlungen
-
- (1) Bei einer Pflegschaft für mehrere Minderjährige wird die Gebühr nur einmal aus dem zusammengerechneten Wert erhoben. Minderjährige, von denen nach Vorbemerkung 1.3.1 Abs. 2 keine Gebühr zu erheben ist, sind nicht zu berücksichtigen. Höchstgebühr ist die Summe der für alle zu berücksichtigenden Minderjährigen jeweils maßgebenden Gebühr 1311.
- (2) Als Höchstgebühr ist die Gebühr 1311 in der Höhe zugrunde zu legen, in der sie bei einer Vormundschaft entstehen würde.
- (3) Die Gebühr wird nicht erhoben, wenn für den Minderjährigen eine Vormundschaft oder eine Dauerpflegschaft, die sich auf denselben Gegenstand bezieht, besteht.
+Verfahren im Allgemeinen bei einer Pflegschaft für einzelne Rechtshandlungen ..........
 
 0,5
 – höchstens
 eine Gebühr
 1311
 
+ (1) Bei einer Pflegschaft für mehrere Minderjährige wird die Gebühr nur einmal aus dem zusammengerechneten Wert erhoben. Minderjährige, von denen nach Vorbemerkung 1.3.1 Abs. 2 keine Gebühr zu erheben ist, sind nicht zu berücksichtigen. Höchstgebühr ist die Summe der für alle zu berücksichtigenden Minderjährigen jeweils maßgebenden Gebühr 1311.
+ (2) Als Höchstgebühr ist die Gebühr 1311 in der Höhe zugrunde zu legen, in der sie bei einer Vormundschaft entstehen würde.
+ (3) Die Gebühr wird nicht erhoben, wenn für den Minderjährigen eine Vormundschaft oder eine Dauerpflegschaft, die sich auf denselben Gegenstand bezieht, besteht.
+
 *Unterabschnitt 2*
-*Beschwerde gegen die Endentscheidung*
+*Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 1314
 
@@ -1389,11 +1419,12 @@ Die Gebühr 1314 ermäßigt sich auf ..........
 
 0,5
 
- (1) Wenn die Entscheidung nicht durch Vorlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (3) Die Billigung eines gerichtlichen Vergleichs (§ 156 Abs. 2 FamFG) steht der Ermäßigung nicht entgegen.
 
 *Unterabschnitt 3*
-*Rechtsbeschwerde gegen die Endentscheidung*
+*Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 1316
 
@@ -1417,12 +1448,12 @@ Die Gebühr 1316 ermäßigt sich auf ..........
 1,0
 
 *Unterabschnitt 4*
-*Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung*
+*Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 1319
 
 Verfahren über die Zulassung der Sprungrechtsbeschwerde:
-Soweit der Antrag abgelehnt wird
+Soweit der Antrag abgelehnt wird ..........
 
 0,5
 
@@ -1438,6 +1469,7 @@ Soweit der Antrag abgelehnt wird
 5. Versorgungsausgleichssachen sowie
 6. Unterhaltssachen, Güterrechtssachen und sonstige Familiensachen (§ 111 Nr. 10 FamFG), die nicht Familienstreitsachen sind.
  (2) In Adoptionssachen werden für Verfahren auf Ersetzung der Einwilligung zur Annahme als Kind neben den Gebühren für das Verfahren über die Annahme als Kind keine Gebühren erhoben.
+ (3) Für Verfahren über Bescheinigungen nach Abschnitt 3 Unterabschnitt 2 EUGewSchVG bestimmen sich die Gebühren nach Teil 1 Hauptabschnitt 7.
 
 *Unterabschnitt 1*
 *Erster Rechtszug*
@@ -1456,7 +1488,7 @@ Beendigung des gesamten Verfahrens
 ohne Endentscheidung,
 
 2.  
-durch Zurücknahme des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn die Entscheidung nicht bereits durch Vorlesen der Entscheidungsformel bekannt gegeben worden ist, oder
+durch Zurücknahme des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn die Entscheidung nicht bereits durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, oder
 
 3.  
 wenn die Endentscheidung keine Begründung enthält oder nur deshalb eine Begründung enthält, weil zu erwarten ist, dass der Beschluss im Ausland geltend gemacht wird (§ 38 Abs. 5 Nr. 4 FamFG):
@@ -1469,7 +1501,7 @@ Die Gebühr 1320 ermäßigt sich auf ..........
  (2) Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände erfüllt sind.
 
 *Unterabschnitt 2*
-*Beschwerde gegen die Endentscheidung*
+*Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 1322
 
@@ -1487,15 +1519,15 @@ Die Gebühr 1322 ermäßigt sich auf ..........
 1324
 
 Beendigung des gesamten Verfahrens ohne Endentscheidung, wenn nicht Nummer 1323 erfüllt ist:
-Die Gebühr 1322 ermäßigt sich auf
+Die Gebühr 1322 ermäßigt sich auf ..........
 
 1,0
 
- (1) Wenn die Entscheidung nicht durch Vorlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
 *Unterabschnitt 3*
-*Rechtsbeschwerde gegen die Endentscheidung*
+*Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 1325
 
@@ -1505,7 +1537,7 @@ Verfahren im Allgemeinen ..........
 
 1326
 
-Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:
+Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Rechtsbeschwerde bei Gericht eingegangen ist:
 Die Gebühr 1325 ermäßigt sich auf ..........
 
 1,0
@@ -1518,7 +1550,7 @@ Die Gebühr 1325 ermäßigt sich auf ..........
 2,0
 
 *Unterabschnitt 4*
-*Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung*
+*Zulassung der Sprungrechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 1328
 
@@ -1531,7 +1563,10 @@ Soweit der Antrag abgelehnt wird ..........
 **Einstweiliger Rechtsschutz**
 
 *Vorbemerkung 1.4:*
- Im Verfahren über den Erlass einer einstweiligen Anordnung und über deren Aufhebung oder Änderung werden die Gebühren nur einmal erhoben. Dies gilt entsprechend im Arrestverfahren.
+
+(1) Im Verfahren zur Erwirkung eines Europäischen Beschlusses zur vorläufigen Kontenpfändung werden Gebühren nach diesem Hauptabschnitt nur im Fall des Artikels 5 Buchstabe a der Verordnung (EU) Nr. 655/2014 erhoben. In den Fällen des Artikels 5 Buchstabe b der Verordnung (EU) Nr. 655/2014 bestimmen sich die Gebühren nach den für die Zwangsvollstreckung geltenden Vorschriften des GKG.
+
+(2) Im Verfahren auf Erlass einer einstweiligen Anordnung und über deren Aufhebung oder Änderung werden die Gebühren nur einmal erhoben. Dies gilt entsprechend im Arrestverfahren und im Verfahren nach der Verordnung (EU) Nr. 655/2014.
 
 ***Abschnitt 1***
 ***Einstweilige Anordnung in Kindschaftssachen***
@@ -1545,10 +1580,10 @@ Verfahren im Allgemeinen ..........
 
 0,3
 
- Die Gebühr entsteht nicht für Verfahren, die in den Rahmen einer Vormundschaft oder Pflegschaft fallen.
+ Die Gebühr entsteht nicht für Verfahren, die in den Rahmen einer Vormundschaft oder Pflegschaft fallen, und für Verfahren, die eine freiheitsentziehende Unterbringung eines Minderjährigen oder eine freiheitsentziehende Maßnahme bei einem Minderjährigen betreffen (§ 151 Nr. 6 und 7 FamFG).
 
 *Unterabschnitt 2*
-*Beschwerde gegen die Endentscheidung*
+*Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 1411
 
@@ -1559,15 +1594,15 @@ Verfahren im Allgemeinen ..........
 1412
 
 Beendigung des gesamten Verfahrens ohne Endentscheidung:
-Die Gebühr 1411 ermäßigt sich auf
+Die Gebühr 1411 ermäßigt sich auf ..........
 
 0,3
 
- (1) Wenn die Entscheidung nicht durch Vorlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
 ***Abschnitt 2***
-***Einstweilige Anordnung in den übrigen Familiensachen und Arrest***
+***Einstweilige Anordnung in den übrigen Familiensachen, Arrest und Europäischer Beschluss zur vorläufigen Kontenpfändung***
 
 *Vorbemerkung 1.4.2:*
  Dieser Abschnitt gilt für Familienstreitsachen und die in Vorbemerkung 1.3.2 genannten Verfahren.
@@ -1588,11 +1623,11 @@ Die Gebühr 1420 ermäßigt sich auf ..........
 
 0,5
 
- (1) Wenn die Entscheidung nicht durch Vorlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
 *Unterabschnitt 2*
-*Beschwerde gegen die Endentscheidung*
+*Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands*
 
 1422
 
@@ -1614,7 +1649,7 @@ Die Gebühr 1422 ermäßigt sich auf ..........
 
 1,0 
 
- (1) Wenn die Entscheidung nicht durch Vorlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
 **Hauptabschnitt 5**
@@ -1623,15 +1658,15 @@ Die Gebühr 1422 ermäßigt sich auf ..........
 1500
 
 Abschluss eines gerichtlichen Vergleichs:
-Soweit der Wert des Vergleichsgegenstands den Wert des Verfahrensgegenstands übersteigt ..........
+Soweit ein Vergleich über nicht gerichtlich anhängige Gegenstände geschlossen wird ..........
 
 0,25
 
- Die Gebühr entsteht nicht im Verfahren über die Prozess- oder Verfahrenskostenhilfe.
+ Die Gebühr entsteht nicht im Verfahren über die Verfahrenskostenhilfe. Im Verhältnis zur Gebühr für das Verfahren im Allgemeinen ist § 30 Abs. 3 FamGKG entsprechend anzuwenden.
 
 1501
 
-Auferlegung einer Gebühr nach § 32 FamGKG wegen Verzögerung des Verfahrens
+Auferlegung einer Gebühr nach § 32 FamGKG wegen Verzögerung des Verfahrens ..........
 
 wie vom
 Gericht bestimmt
@@ -1639,13 +1674,13 @@ Gericht bestimmt
 1502
 
 Anordnung von Zwangsmaßnahmen durch Beschluss nach § 35 FamFG:
-je Anordnung
+je Anordnung ..........
 
-15,00 EUR
+20,00 €
 
 1503
 
-Selbständiges Beweisverfahren
+Selbständiges Beweisverfahren ..........
 
 1,0
 
@@ -1659,7 +1694,7 @@ Selbständiges Beweisverfahren
 
 Verfahren über den Antrag auf Erteilung einer weiteren vollstreckbaren Ausfertigung (§ 733 ZPO) ..........
 
-15,00 EUR
+20,00 €
 
  Die Gebühr wird für jede weitere vollstreckbare Ausfertigung gesondert erhoben. Sind wegen desselben Anspruchs in einem Mahnverfahren gegen mehrere Personen gesonderte Vollstreckungsbescheide erlassen worden und werden hiervon gleichzeitig mehrere weitere vollstreckbare Ausfertigungen beantragt, wird die Gebühr nur einmal erhoben.
 
@@ -1667,27 +1702,30 @@ Verfahren über den Antrag auf Erteilung einer weiteren vollstreckbaren Ausferti
 
 Anordnung der Vornahme einer vertretbaren Handlung durch einen Dritten ..........
 
-15,00 EUR
+20,00 €
 
 1602
 
 Anordnung von Zwangs- oder Ordnungsmitteln:
 je Anordnung ..........
 
-15,00 EUR
+20,00 €
 
  Mehrere Anordnungen gelten als eine Anordnung, wenn sie dieselbe Verpflichtung betreffen. Dies gilt nicht, wenn Gegenstand der Verpflichtung die wiederholte Vornahme einer Handlung oder eine Unterlassung ist.
 
 1603
 
-Verfahren zur Abnahme einer eidesstattlichen Versicherung (§ 94 FamFG)
+Verfahren zur Abnahme einer eidesstattlichen Versicherung (§ 94 FamFG) ..........
 
-30,00 EUR
+35,00 €
 
  Die Gebühr entsteht mit der Anordnung des Gerichts, dass der Verpflichtete eine eidesstattliche Versicherung abzugeben hat, oder mit dem Eingang des Antrags des Berechtigten.
 
 **Hauptabschnitt 7**
 **Verfahren mit Auslandsbezug**
+
+*Vorbemerkung 1.7:*
+ In Verfahren nach dem EUGewSchVG, mit Ausnahme der Verfahren über Bescheinigungen nach Abschnitt 3 Unterabschnitt 2 EUGewSchVG, bestimmen sich die Gebühren nach Teil 1 Hauptabschnitt 3 Abschnitt 2.
 
 ***Abschnitt 1***
 ***Erster Rechtszug***
@@ -1712,21 +1750,21 @@ Erteilung der Vollstreckungsklausel zu ausländischen Titeln und
 
 5.  
 Aufhebung oder Abänderung von Entscheidungen in den in den Nummern 2 bis 4
-genannten Verfahren
+genannten Verfahren ..........
 
-200,00 EUR
+240,00 €
 
 1711
 
-Verfahren über den Antrag auf Ausstellung einer Bescheinigung nach § 56 AVAG oder § 48 IntFamRVG oder auf Ausstellung des Formblatts oder der Bescheinigung nach § 71 Absatz 1 AUG ..........
+Verfahren über den Antrag auf Ausstellung einer Bescheinigung nach § 57 AVAG, § 48 IntFamRVG, § 14 EUGewSchVG oder § 27 IntGüRVG oder auf Ausstellung des Formblatts oder der Bescheinigung nach § 71 Abs. 1 AUG ..........
 
- 10,00 EUR
+ 15,00 €
 
 1712
 
-Verfahren über den Antrag auf Ausstellung einer Bestätigung nach § 1079 ZPO
+Verfahren über den Antrag auf Ausstellung einer Bestätigung nach § 1079 ZPO ..........
 
- 15,00 EUR
+ 20,00 €
 
 1713
 
@@ -1736,41 +1774,39 @@ Verfahren nach
 § 3 Abs. 2 des Gesetzes zur Ausführung des Vertrags zwischen der Bundesrepublik Deutschland und der Republik Österreich vom 6. Juni 1959 über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 319-12, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 23 des Gesetzes vom 27. Juli 2001 (BGBl. I S. 1887) geändert worden ist, und
 
 2.  
-§ 34 Abs. 1 AUG
+§ 34 Abs. 1 AUG ..........
 
- 
-
- 50,00 EUR
+ 60,00 €
 
 1714
 
 Verfahren über den Antrag nach § 107 Abs. 5, 6 und 8, § 108 Abs. 2 FamFG:
 Der Antrag wird zurückgewiesen ..........
 
-200,00 EUR
+240,00 €
 
 1715
 
-Beendigung des gesamten Verfahrens durch Zurücknahme des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn die Entscheidung nicht bereits durch Vorlesen der Entscheidungsformel bekannt gegeben worden ist:
+Beendigung des gesamten Verfahrens durch Zurücknahme des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn die Entscheidung nicht bereits durch Verlesen der Entscheidungsformel bekannt gegeben worden ist:
 Die Gebühr 1710 oder 1714 ermäßigt sich auf ..........
 
- 75,00 EUR
+ 90,00 €
 
 ***Abschnitt 2***
-***Beschwerde und Rechtsbeschwerde gegen die Endentscheidung***
+***Beschwerde und Rechtsbeschwerde gegen die Endentscheidung wegen des Hauptgegenstands***
 
 1720
 
 Verfahren über die Beschwerde oder Rechtsbeschwerde in den in den Nummern 1710, 1713 und 1714 genannten Verfahren ..........
 
-300,00 EUR
+360,00 €
 
 1721
 
-Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde, der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Beschwerde bei Gericht eingegangen ist:
+Beendigung des gesamten Verfahrens durch Zurücknahme der Beschwerde, der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung des Rechtsmittels bei Gericht eingegangen ist:
 Die Gebühr 1720 ermäßigt sich auf ..........
 
- 75,00 EUR
+90,00 €
 
 1722
 
@@ -1778,9 +1814,9 @@ Beendigung des gesamten Verfahrens ohne Endentscheidung, wenn nicht
 Nummer 1721 erfüllt ist:
 Die Gebühr 1720 ermäßigt sich auf ..........
 
-150,00 EUR
+180,00 €
 
- (1) Wenn die Entscheidung nicht durch Vorlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder der Rechtsbeschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder der Rechtsbeschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
 1723
@@ -1798,17 +1834,17 @@ Verfahren über die Berichtigung oder den Widerruf einer Bestätigung nach § 10
 
 Die Beschwerde wird verworfen oder zurückgewiesen ..........
 
- 50,00 EUR
+60,00 €
 
 **Hauptabschnitt 8**
 **Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör**
 
 1800
 
-Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§ 44 FamFG):
+Verfahren über die Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör (§§ 44, 113 Abs. 1 Satz 2 FamFG, § 321a ZPO):
 Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen ..........
 
- 50,00 EUR
+ 60,00 €
 
 **Hauptabschnitt 9**
 **Rechtsmittel im Übrigen**
@@ -1820,16 +1856,16 @@ Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen ..........
 
 Verfahren über die Beschwerde in den Fällen des § 71 Abs. 2, § 91a Abs. 2, § 99 Abs. 2, § 269 Abs. 5 oder § 494a Abs. 2 Satz 2 ZPO ..........
 
- 75,00 EUR
+ 90,00 €
 
 1911
 
 Beendigung des gesamten Verfahrens ohne Endentscheidung:
 Die Gebühr 1910 ermäßigt sich auf ..........
 
- 50,00 EUR
+ 60,00 €
 
- (1) Wenn die Entscheidung nicht durch Vorlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.
  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
 1912
@@ -1837,7 +1873,7 @@ Die Gebühr 1910 ermäßigt sich auf ..........
 Verfahren über eine nicht besonders aufgeführte Beschwerde, die nicht nach anderen Vorschriften gebührenfrei ist:
 Die Beschwerde wird verworfen oder zurückgewiesen ..........
 
- 50,00 EUR
+ 60,00 €
 
  Wird die Beschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist.
 
@@ -1846,39 +1882,39 @@ Die Beschwerde wird verworfen oder zurückgewiesen ..........
 
 1920
 
-Verfahren über die Rechtsbeschwerde in den Fällen des § 71 Abs. 1, § 91a Abs. 1, § 99 Abs. 2, § 269 Abs. 4 oder § 494a Abs. 2 Satz 2 ZPO
+Verfahren über die Rechtsbeschwerde in den Fällen des § 71 Abs. 1, § 91a Abs. 1, § 99 Abs. 2, § 269 Abs. 4 oder § 494a Abs. 2 Satz 2 ZPO ..........
 
-150,00 EUR
+180,00 €
 
 1921
 
-Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde, bevor die Schrift zur Begründung der Rechtsbeschwerde bei Gericht eingegangen ist:
+Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags, bevor die Schrift zur Begründung der Rechtsbeschwerde bei Gericht eingegangen ist:
 Die Gebühr 1920 ermäßigt sich auf ..........
 
- 50,00 EUR
+60,00 €
 
 1922
 
 Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn nicht Nummer 1921 erfüllt ist:
 Die Gebühr 1920 ermäßigt sich auf ..........
 
- 75,00 EUR
+ 90,00 €
 
 1923
 
 Verfahren über eine nicht besonders aufgeführte Rechtsbeschwerde, die nicht nach anderen Vorschriften gebührenfrei ist:
 Die Rechtsbeschwerde wird verworfen oder zurückgewiesen ..........
 
-100,00 EUR
+120,00 €
 
- Wird die Rechtsbeschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist.
+Wird die Rechtsbeschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist.
 
 1924
 
-Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird:
-Die Gebühr 1923 ermäßigt sich auf
+Verfahren über die in Nummer 1923 genannten Rechtsbeschwerden:
+Beendigung des gesamten Verfahrens durch Zurücknahme der Rechtsbeschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird ..........
 
- 50,00 EUR
+60,00 €
 
 ***Abschnitt 3***
 ***Zulassung der Sprungrechtsbeschwerde in sonstigen Fällen***
@@ -1886,9 +1922,9 @@ Die Gebühr 1923 ermäßigt sich auf
 1930
 
 Verfahren über die Zulassung der Sprungrechtsbeschwerde in den nicht besonders aufgeführten Fällen:
-Wenn der Antrag abgelehnt wird
+Wenn der Antrag abgelehnt wird ..........
 
- 50,00 EUR
+ 60,00 €
 
 Teil 2
 
@@ -1903,7 +1939,7 @@ Höhe
 *Vorbemerkung 2:*
  (1) Auslagen, die durch eine für begründet befundene Beschwerde entstanden sind, werden nicht erhoben, soweit das Beschwerdeverfahren gebührenfrei ist; dies gilt jedoch nicht, soweit das Beschwerdegericht die Kosten dem Gegner des Beschwerdeführers auferlegt hat.
  (2) Sind Auslagen durch verschiedene Rechtssachen veranlasst, werden sie auf die mehreren Rechtssachen angemessen verteilt.
- (3) In Kindschaftssachen werden von dem Minderjährigen Auslagen nur unter den in Vorbemerkung 1.3.1 Abs. 2 genannten Voraussetzungen erhoben. In den in Vorbemerkung 1.3.1 Abs. 1 genannten Verfahren werden keine Auslagen erhoben. Die Sätze 1 und 2 gelten nicht für die Auslagen 2013.
+ (3) In Kindschaftssachen werden von dem Minderjährigen Auslagen nur unter den in Vorbemerkung 1.3.1 Abs. 2 genannten Voraussetzungen erhoben. In den in Vorbemerkung 1.3.1 Abs. 1 genannten Verfahren werden keine Auslagen erhoben; für eine freiheitsentziehende Unterbringung eines Minderjährigen und eine freiheitsentziehende Maßnahme bei einem Minderjährigen (§ 151 Nr. 6 und 7 FamFG) gilt dies auch im Verfahren über den Erlass einer einstweiligen Anordnung. Die Sätze 1 und 2 gelten nicht für die Auslagen 2013.
  (4) Bei Handlungen durch das Vollstreckungs- oder Arrestgericht werden Auslagen nach dem GKG erhoben.
 
 2000
@@ -1911,30 +1947,87 @@ Höhe
 Pauschale für die Herstellung und Überlassung von Dokumenten:
 
 1.  
-Ausfertigungen, Ablichtungen und Ausdrucke, die auf Antrag angefertigt, per Telefax übermittelt oder angefertigt worden sind, weil ein Beteiligter es unterlassen hat, die erforderliche Zahl von Mehrfertigungen beizufügen, oder wenn per Telefax übermittelte Mehrfertigungen von der Empfangseinrichtung des Gerichts ausgedruckt werden:für die ersten 50 Seiten je Seitefür jede weitere Seite
+Ausfertigungen, Kopien und Ausdrucke bis zur Größe von DIN A3, die
 
- 0,50 EUR
- 0,15 EUR
+a)  
+ auf Antrag angefertigt oder auf Antrag per Telefax übermittelt worden sind oder
+
+b)  
+angefertigt worden sind, weil die Partei oder ein Beteiligter es unterlassen hat, die erforderliche Zahl von Mehrfertigungen beizufügen; der Anfertigung steht es gleich, wenn per Telefax übermittelte Mehrfertigungen von der Empfangseinrichtung des Gerichts ausgedruckt werden:
+
+   
+für die ersten 50 Seiten je Seite ..........
+
+0,50 €
+
+ 
+
+   
+für jede weitere Seite ..........
+
+0,15 €
+
+   
+für die ersten 50 Seiten in Farbe je Seite ..........
+
+1,00 €
+
+   
+für jede weitere Seite in Farbe ..........
+
+0,30 €
+
+ 
 
 2.  
-Überlassung von elektronisch gespeicherten Dateien anstelle der in Nummer 1 genannten Ausfertigungen, Ablichtungen und Ausdrucke:
-je Datei
+Entgelte für die Herstellung und Überlassung der in Nummer 1 genannten Kopien oder Ausdrucke in einer Größe von mehr als DIN A3 ..........
 
- 2,50 EUR
+in voller Höhe
 
- (1) Die Höhe der Dokumentenpauschale nach Nummer 1 ist in jedem Rechtszug, bei Vormundschaften und Dauerpflegschaften in jedem Kalenderjahr und für jeden Kostenschuldner nach § 23 Abs. 1 FamGKG gesondert zu berechnen; Gesamtschuldner gelten als ein Schuldner.
- (2) Frei von der Dokumentenpauschale sind für jeden Beteiligten und seine bevollmächtigten Vertreter jeweils
+   
+oder pauschal je Seite ..........
+
+3,00 €
+
+   
+oder pauschal je Seite in Farbe ..........
+
+6,00 €
+
+3.  
+Überlassung von elektronisch gespeicherten Dateien oder deren Bereitstellung zum Abruf anstelle der in den Nummern 1 und 2 genannten Ausfertigungen, Kopien und Ausdrucke:
+
+<!-- -->
+
+   
+je Datei ..........
+
+1,50 €
+
+   
+für die in einem Arbeitsgang überlassenen, bereitgestellten oder in einem Arbeitsgang auf denselben Datenträger übertragenen Dokumente insgesamt höchstens ..........
+
+5,00 €
+
+ 
+
+(1) Die Höhe der Dokumentenpauschale nach Nummer 1 ist in jedem Rechtszug, bei Vormundschaften und Dauerpflegschaften in jedem Kalenderjahr und für jeden Kostenschuldner nach § 23 Abs. 1 FamGKG gesondert zu berechnen; Gesamtschuldner gelten als ein Schuldner.
+(2) Werden zum Zweck der Überlassung von elektronisch gespeicherten Dateien Dokumente zuvor auf Antrag von der Papierform in die elektronische Form übertragen, beträgt die Dokumentenpauschale nach Nummer 2 nicht weniger, als die Dokumentenpauschale im Fall der Nummer 1 betragen würde.
+(3) Frei von der Dokumentenpauschale sind für jeden Beteiligten und seine bevollmächtigten Vertreter jeweils
 
 1.  
-eine vollständige Ausfertigung oder Ablichtung oder ein vollständiger Ausdruck jeder gerichtlichen Entscheidung und jedes vor Gericht abgeschlossenen Vergleichs,
+eine vollständige Ausfertigung oder Kopie oder ein vollständiger Ausdruck jeder gerichtlichen Entscheidung und jedes vor Gericht abgeschlossenen Vergleichs,
 
 2.  
 eine Ausfertigung ohne Begründung und
 
 3.  
-eine Ablichtung oder ein Ausdruck jeder Niederschrift über eine Sitzung.
+eine Kopie oder ein Ausdruck jeder Niederschrift über eine Sitzung.
 
-§ 191a Abs. 1 Satz 2 GVG bleibt unberührt.
+§ 191a Abs. 1 Satz 5 GVG bleibt unberührt.
+(4) Bei der Gewährung der Einsicht in Akten wird eine Dokumentenpauschale nur erhoben, wenn auf besonderen Antrag ein Ausdruck einer elektronischen Akte oder ein Datenträger mit dem Inhalt einer elektronischen Akte übermittelt wird.
+
+ 
 
 2001
 
@@ -1946,44 +2039,27 @@ in voller Höhe
 
 Pauschale für Zustellungen mit Zustellungsurkunde, Einschreiben gegen Rückschein oder durch Justizbedienstete nach § 168 Abs. 1 ZPO je Zustellung ..........
 
- 3,50 EUR
+ 3,50 €
 
  Neben Gebühren, die sich nach dem Verfahrenswert richten, wird die Zustellungspauschale nur erhoben, soweit in einem Rechtszug mehr als 10 Zustellungen anfallen.
 
 2003
 
-Pauschale für
+Pauschale für die bei der Versendung von Akten auf Antrag anfallenden Auslagen an Transport- und Verpackungskosten je Sendung ..........
+  Die Hin- und Rücksendung der Akten durch Gerichte gelten zusammen als eine Sendung.
 
-1.  
-die Versendung von Akten auf Antrag je Sendung..............................
-
-12,00 EUR
-
-2.  
-die elektronische Übermittlung einer elektronisch geführten Akte auf Antrag ..........
-
- Die Hin- und Rücksendung der Akten durch Gerichte gelten zusammen als eine Sendung.
-
- 5,00 EUR
+12,00 €
 
 2004
 
-Auslagen für öffentliche Bekanntmachungen
-
-1.  
-bei Veröffentlichung in einem elektronischen Informations- und Kommunikationssystem, wenn ein Entgelt nicht zu zahlen ist oder das Entgelt nicht für den Einzelfall oder ein einzelnes Verfahren berechnet wird:
-je Veröffentlichung pauschal
-
- 1,00 EUR
-
-2.  
-in sonstigen Fällen
+Auslagen für öffentliche Bekanntmachungen ..........
+ Auslagen werden nicht erhoben für die Bekanntmachung in einem elektronischen Informations- und Kommunikationssystem, wenn das Entgelt nicht für den Einzelfall oder nicht für ein einzelnes Verfahren berechnet wird.
 
 in voller Höhe
 
 2005
 
-Nach dem JVEG zu zahlende Beträge
+Nach dem JVEG zu zahlende Beträge ..........
 
 in voller Höhe
 
@@ -2002,7 +2078,7 @@ in voller Höhe
 2.  
 für den Einsatz von Dienstkraftfahrzeugen für jeden gefahrenen Kilometer ..........
 
- 0,30 EUR
+ 0,30 €
 
 2007
 
@@ -2022,7 +2098,7 @@ zahlenden Beträge
 
 2008
 
-Kosten einer Zwangshaft, auch aufgrund eines Haftbefehls in entsprechender Anwendung des § 901 ZPO ..........
+Kosten einer Zwangshaft, auch aufgrund eines Haftbefehls in entsprechender Anwendung des § 802g ZPO ..........
 Maßgebend ist die Höhe des Haftkostenbeitrags, der nach Landesrecht von einem Gefangenen zu erheben ist.
 
 in Höhe des Haftkostenbeitrags
@@ -2042,9 +2118,11 @@ in voller Höhe
 
 2011
 
-Beträge, die inländischen Behörden, öffentlichen Einrichtungen oder Bediensteten als Ersatz für Auslagen der in den Nummern 2000 bis 2009 bezeichneten Art zustehen ..........
- Die Beträge werden auch erhoben, wenn aus Gründen der Gegenseitigkeit, der Verwaltungsvereinfachung oder aus vergleichbaren Gründen keine Zahlungen zu leisten sind.
+An deutsche Behörden für die Erfüllung von deren eigenen Aufgaben zu zahlende Gebühren sowie diejenigen Beträge, die diesen Behörden, öffentlichen Einrichtungen oder deren Bediensteten als Ersatz für Auslagen der in den Nummern 2000 bis 2009 bezeichneten Art zustehen ..........
+ Die als Ersatz für Auslagen angefallenen Beträge werden auch erhoben, wenn aus Gründen der Gegenseitigkeit, der Verwaltungsvereinfachung oder aus vergleichbaren Gründen keine Zahlungen zu leisten sind.
 
+in voller Höhe,
+die Auslagen
 begrenzt durch die Höchstsätze für die Auslagen 2000 bis 2009
 
 2012
@@ -2065,204 +2143,197 @@ in voller Höhe
 
 2014
 
-An den Umgangspfleger zu zahlende Beträge ..........
+An den Umgangspfleger sowie an Verfahrenspfleger nach § 9 Abs. 5 FamFG, § 57 ZPO zu zahlende Beträge ..........
 
 in voller Höhe
 
-### Anlage 2 (zu § 28 Abs. 1)
+2015
+
+Pauschale für die Inanspruchnahme von Videokonferenzverbindung:
+je Verfahren für jede angefangene halbe Stunde ..........
+
+15,00 €
+
+### Anlage 2 (zu § 28 Absatz 1 Satz 3)
 
 (Fundstelle: BGBl. I 2008, 2691)
 
 Verfahrenswert
-bis ... EUR
+bis … €
 
 Gebühr
-... EUR
+… €
 
-    300
+Verfahrenswert
+bis … €
 
-   25
+Gebühr
+… €
 
-    600
+**   500**
 
-   35
+ 35,00
 
-    900
+** 50 000**
 
-   45
+  546,00
 
-  1 200
+** 1 000**
 
-   55
+ 53,00
 
-  1 500
+** 65 000**
 
-   65
+  666,00
 
-  2 000
+** 1 500**
 
-   73
+ 71,00
 
-  2 500
+** 80 000**
 
-   81
+  786,00
 
-  3 000
+** 2 000**
 
-   89
+ 89,00
 
-  3 500
+** 95 000**
 
-   97
+  906,00
 
-  4 000
+** 3 000**
 
-  105
+108,00
 
-  4 500
+**110 000**
 
-  113
+1 026,00
 
-  5 000
+** 4 000**
 
-  121
+127,00
 
-  6 000
+**125 000**
 
-  136
+1 146,00
 
-  7 000
+** 5 000**
 
-  151
+146,00
 
-  8 000
+**140 000**
 
-  166
+1 266,00
 
-  9 000
+** 6 000**
 
-  181
+165,00
 
- 10 000
+**155 000**
 
-  196
+1 386,00
 
- 13 000
+** 7 000**
 
-  219
+184,00
 
- 16 000
+**170 000**
 
-  242
+1 506,00
 
- 19 000
+** 8 000**
 
-  265
+203,00
 
- 22 000
+**185 000**
 
-  288
+1 626,00
 
- 25 000
+** 9 000**
 
-  311
+222,00
 
- 30 000
+**200 000**
 
-  340
+1 746,00
 
- 35 000
+**10 000**
 
-  369
+241,00
 
- 40 000
+**230 000**
 
-  398
+1 925,00
 
- 45 000
+**13 000**
 
-  427
+267,00
 
- 50 000
+**260 000**
 
-  456
+2 104,00
 
- 65 000
+**16 000**
 
-  556
+293,00
 
- 80 000
+**290 000**
 
-  656
+2 283,00
 
- 95 000
+**19 000**
 
-  756
+319,00
 
-110 000
+**320 000**
 
-  856
+2 462,00
 
-125 000
+**22 000**
 
-  956
+345,00
 
-140 000
+**350 000**
 
-1 056
+2 641,00
 
-155 000
+**25 000**
 
-1 156
+371,00
 
-170 000
+**380 000**
 
-1 256
+2 820,00
 
-185 000
+**30 000**
 
-1 356
+406,00
 
-200 000
+**410 000**
 
-1 456
+2 999,00
 
-230 000
+**35 000**
 
-1 606
+441,00
 
-260 000
+**440 000**
 
-1 756
+3 178,00
 
-290 000
+**40 000**
 
-1 906
+476,00
 
-320 000
+**470 000**
 
-2 056
+3 357,00
 
-350 000
+**45 000**
 
-2 206
+511,00
 
-380 000
+**500 000**
 
-2 356
-
-410 000
-
-2 506
-
-440 000
-
-2 656
-
-470 000
-
-2 806
-
-500 000
-
-2 956
+3 536,00
