@@ -2,25 +2,7 @@ Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der frei
 ===============================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 4 G v. 1.6.2017 I 1396
-
-Hinweis  
-Änderung durch Art. 13 G v. 5.7.2017 I 2208 (Nr. 45) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 14 G v. 5.7.2017 I 2208 (Nr. 45) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Hinweis  
-Änderung durch Art. 2 G v. 17.7.2017 I 2424 ist berücksichtigt
-
-Hinweis  
-Änderung durch Art. 2 G v. 17.7.2017 I 2426 ist berücksichtigt
-
-Hinweis  
-Änderung durch Art. 7 G v. 17.7.2017 I 2429 ist berücksichtigt
-
-Hinweis  
-Änderung durch Art. 7 G v. 20.7.2017 I 2780 ist berücksichtigt
+Zuletzt geändert durch Art. 13 G v. 18.12.2018 I 2639
 
 ### 
 
@@ -236,7 +218,7 @@ Unterabschnitt 1
 
 Verhältnis zu
 völkerrechtlichen Vereinbarungen und
-Rechtsakten der Europäischen Gemeinschaft
+Rechtsakten der Europäischen Union
 
 |       |                           |
 |-------|---------------------------|
@@ -1178,7 +1160,7 @@ Im Termin können die Beteiligten mit Beiständen erscheinen. Beistand kann sein
 
 (4) Einem Rechtsanwalt, einem Notar oder einer beteiligten Behörde kann das Gericht die Akten in die Amts- oder Geschäftsräume überlassen. Ein Recht auf Überlassung von Beweisstücken in die Amts- oder Geschäftsräume besteht nicht. Die Entscheidung nach Satz 1 ist nicht anfechtbar.
 
-(5) Werden die Gerichtsakten elektronisch geführt, gilt § 299 Abs. 3 der Zivilprozessordnung entsprechend. Der elektronische Zugriff nach § 299 Abs. 3 Satz 2 und 3 der Zivilprozessordnung kann auch dem Notar oder der beteiligten Behörde gestattet werden.
+(5) Werden die Gerichtsakten elektronisch geführt, gilt § 299 Abs. 3 der Zivilprozessordnung entsprechend.
 
 (6) Die Entwürfe zu Beschlüssen und Verfügungen, die zu ihrer Vorbereitung gelieferten Arbeiten sowie die Dokumente, die Abstimmungen betreffen, werden weder vorgelegt noch abschriftlich mitgeteilt.
 
@@ -1186,13 +1168,15 @@ Im Termin können die Beteiligten mit Beiständen erscheinen. Beistand kann sein
 
 ### § 14 Elektronische Akte; elektronisches Dokument; Verordnungsermächtigung
 
-(1) Die Gerichtsakten können elektronisch geführt werden. § 298a Abs. 2 und 3 der Zivilprozessordnung gilt entsprechend.
+(1) Die Gerichtsakten können elektronisch geführt werden. § 298a Absatz 2 der Zivilprozessordnung gilt entsprechend.
 
-(2) Die Beteiligten können Anträge und Erklärungen als elektronisches Dokument übermitteln. Für das elektronische Dokument gelten § 130a Abs. 1 und 3 sowie § 298 der Zivilprozessordnung entsprechend.
+(2) Anträge und Erklärungen der Beteiligten sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und Erklärungen Dritter können als elektronisches Dokument übermittelt werden. Für das elektronische Dokument gelten § 130a der Zivilprozessordnung, auf dieser Grundlage erlassene Rechtsverordnungen sowie § 298 der Zivilprozessordnung entsprechend.
 
 (3) Für das gerichtliche elektronische Dokument gelten die §§ 130b und 298 der Zivilprozessordnung entsprechend.
 
-(4) Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische Akten geführt und elektronische Dokumente bei Gericht eingereicht werden können. Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung die geltenden organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der elektronischen Akten und die für die Bearbeitung der Dokumente geeignete Form. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die jeweils zuständige oberste Landesbehörde übertragen. Die Zulassung der elektronischen Akte und der elektronischen Form kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren die Akten elektronisch zu führen sind.
+(4) Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische Akten geführt werden können. Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung die geltenden organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der elektronischen Akten. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die jeweils zuständige oberste Landesbehörde übertragen. Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren die Akten elektronisch zu führen sind.
+
+(4a) Die Gerichtsakten werden ab dem 1. Januar 2026 elektronisch geführt. Die Bundesregierung und die Landesregierungen bestimmen jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen und dem Stand der Technik entsprechenden technischen Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der elektronischen Akten einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit. Die Bundesregierung und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten, die in Papierform angelegt wurden, in Papierform weitergeführt werden. Die Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3 durch Rechtsverordnung auf die für die Zivilgerichtsbarkeit zuständigen obersten Landesbehörden übertragen. Die Rechtsverordnungen der Bundesregierung bedürfen nicht der Zustimmung des Bundesrates.
 
 (5) Sind die Gerichtsakten nach ordnungsgemäßen Grundsätzen zur Ersetzung der Urschrift auf einen Bild- oder anderen Datenträger übertragen worden und liegt der schriftliche Nachweis darüber vor, dass die Wiedergabe mit der Urschrift übereinstimmt, so können Ausfertigungen, Auszüge und Abschriften von dem Bild- oder dem Datenträger erteilt werden. Auf der Urschrift anzubringende Vermerke werden in diesem Fall bei dem Nachweis angebracht.
 
@@ -2116,14 +2100,14 @@ Abschnitt 9 Verfahren mit Auslandsbezug
 
 ### 
 
-Unterabschnitt 1 Verhältnis zu völkerrechtlichen Vereinbarungen und Rechtsakten der Europäischen Gemeinschaft
--------------------------------------------------------------------------------------------------------------
+Unterabschnitt 1 Verhältnis zu völkerrechtlichen Vereinbarungen und Rechtsakten der Europäischen Union
+------------------------------------------------------------------------------------------------------
 
 ### 
 
 ### § 97 Vorrang und Unberührtheit
 
-(1) Regelungen in völkerrechtlichen Vereinbarungen gehen, soweit sie unmittelbar anwendbares innerstaatliches Recht geworden sind, den Vorschriften dieses Gesetzes vor. Regelungen in Rechtsakten der Europäischen Gemeinschaft bleiben unberührt.
+(1) Regelungen in völkerrechtlichen Vereinbarungen gehen, soweit sie unmittelbar anwendbares innerstaatliches Recht geworden sind, den Vorschriften dieses Gesetzes vor. Regelungen in Rechtsakten der Europäischen Union bleiben unberührt.
 
 (2) Die zur Umsetzung und Ausführung von Vereinbarungen und Rechtsakten im Sinne des Absatzes 1 erlassenen Bestimmungen bleiben unberührt.
 
@@ -3069,7 +3053,7 @@ Mit der Festsetzung bestimmt das Gericht Höhe und Zeitpunkt der Zahlungen, die 
 
 ### § 168a Mitteilungspflichten des Standesamts
 
-(1) Wird dem Standesamt der Tod einer Person, die ein minderjähriges Kind hinterlassen hat, oder die Geburt eines Kindes nach dem Tod des Vaters oder das Auffinden eines Minderjährigen, dessen Familienstand nicht zu ermitteln ist, oder die Geburt eines Kindes im Wege der vertraulichen Geburt nach § 25 Absatz 1 des Schwangerschaftskonfliktgesetzes angezeigt, hat das Standesamt dies dem Familiengericht mitzuteilen.
+(1) Wird dem Standesamt der Tod einer Person, die ein minderjähriges Kind hinterlassen hat, oder die Geburt eines Kindes nach dem Tod des Vaters oder das Auffinden eines Minderjährigen, dessen Familienstand nicht zu ermitteln ist, oder die Geburt eines Kindes im Wege der vertraulichen Geburt nach § 25 Absatz 1 des Schwangerschaftskonfliktgesetzes angezeigt, oder fehlt in den Fällen des § 45b Absatz 2 Satz 3 des Personenstandsgesetzes die Zustimmung des gesetzlichen Vertreters hat das Standesamt dies dem Familiengericht mitzuteilen.
 
 (2) Führen Eltern, die gemeinsam für ein Kind sorgeberechtigt sind, keinen Ehenamen und ist von ihnen binnen eines Monats nach der Geburt des Kindes der Geburtsname des Kindes nicht bestimmt worden, teilt das Standesamt dies dem Familiengericht mit.
 
@@ -3619,7 +3603,7 @@ Authentizität und Integrität der Daten gewährleisten und
 3.  
 bei Nutzung allgemein zugänglicher Netze ein Verschlüsselungsverfahren anwenden, das die Vertraulichkeit der übermittelten Daten sicherstellt.
 
-(3) Das Gericht soll dem Versorgungsträger Auskunftsersuchen nach § 220, der Versorgungsträger soll dem Gericht Auskünfte nach § 220 und Erklärungen nach § 222 Abs. 1 im Übermittlungsverfahren übermitteln. Einer Verordnung nach § 14 Abs. 4 bedarf es insoweit nicht.
+(3) Das Gericht soll dem Versorgungsträger Auskunftsersuchen nach § 220, der Versorgungsträger soll dem Gericht Auskünfte nach § 220 und Erklärungen nach § 222 Abs. 1 im Übermittlungsverfahren übermitteln.
 
 (4) Entscheidungen des Gerichts in Versorgungsausgleichssachen sollen dem Versorgungsträger im Übermittlungsverfahren zugestellt werden.
 
@@ -3952,7 +3936,7 @@ In vereinfachten Verfahren können die Anträge und Erklärungen vor dem Urkunds
 
 ### § 258 Sonderregelungen für maschinelle Bearbeitung
 
-(1) In vereinfachten Verfahren ist eine maschinelle Bearbeitung zulässig. § 690 Abs. 3 der Zivilprozessordnung gilt entsprechend.
+(1) In vereinfachten Verfahren ist eine maschinelle Bearbeitung zulässig. § 702 Absatz 2 Satz 1, 3 und 4 der Zivilprozessordnung gilt entsprechend.
 
 (2) Bei maschineller Bearbeitung werden Beschlüsse, Verfügungen und Ausfertigungen mit dem Gerichtssiegel versehen; einer Unterschrift bedarf es nicht.
 
@@ -4085,7 +4069,7 @@ Entscheidungen nach § 7 des Lebenspartnerschaftsgesetzes in Verbindung mit den 
 (2) Sonstige Lebenspartnerschaftssachen sind Verfahren, welche zum Gegenstand haben:
 
 1.  
-Ansprüche nach § 1 Abs. 4 Satz 2 des Lebenspartnerschaftsgesetzes in Verbindung mit den §§ 1298 bis 1301 des Bürgerlichen Gesetzbuchs,
+Ansprüche nach § 1 Abs. 4 Satz 2 des Lebenspartnerschaftsgesetzes in der bis einschließlich 21. Dezember 2018 geltenden Fassung in Verbindung mit den §§ 1298 bis 1301 des Bürgerlichen Gesetzbuchs,
 
 2.  
 Ansprüche aus der Lebenspartnerschaft,
