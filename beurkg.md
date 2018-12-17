@@ -2,16 +2,7 @@ Beurkundungsgesetz ()
 =====================
 
 Stand  
-Zuletzt geändert durch Art. 3 G v. 23.11.2015 I 2090
-
-Hinweis  
-Änderung durch Art. 2 G v. 1.6.2017 I 1396 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Sonst  
-Mittelbare Änderung durch Art. 7 G v. 1.6.2017 I 1396 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Sonst  
-Mittelbare Änderung durch Art. 8 Nr. 2 u. 3 G v. 1.6.2017 I 1396 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch Art. 10 G v. 18.12.2018 I 2639
 
 ### 
 
@@ -45,7 +36,7 @@ eigene Angelegenheiten, auch wenn der Notar nur mitberechtigt oder mitverpflicht
 Angelegenheiten seines Ehegatten, früheren Ehegatten oder seines Verlobten,
 
 2a.  
-Angelegenheiten seines Lebenspartners, früheren Lebenspartners oder Verlobten im Sinne des Lebenspartnerschaftsgesetzes,
+Angelegenheiten seines Lebenspartners oder früheren Lebenspartners,
 
 3.  
 Angelegenheiten einer Person, die mit dem Notar in gerader Linie verwandt oder verschwägert oder in der Seitenlinie bis zum dritten Grade verwandt oder bis zum zweiten Grade verschwägert ist oder war,
@@ -461,7 +452,7 @@ Bei der Beglaubigung der Zeichnung einer Namensunterschrift, die zur Aufbewahrun
 
 (3) Enthält die Abschrift nur den Auszug aus einer Urkunde, so soll in dem Beglaubigungsvermerk der Gegenstand des Auszugs angegeben und bezeugt werden, daß die Urkunde über diesen Gegenstand keine weiteren Bestimmungen enthält.
 
-(4) Bei der Beglaubigung eines Ausdrucks eines elektronischen Dokuments, das mit einer qualifizierten elektronischen Signatur nach dem Signaturgesetz versehen ist, soll das Ergebnis der Signaturprüfung dokumentiert werden.
+(4) Bei der Beglaubigung eines Ausdrucks eines elektronischen Dokuments, das mit einer qualifizierten elektronischen Signatur versehen ist, soll das Ergebnis der Signaturprüfung dokumentiert werden.
 
 ### § 43 Feststellung des Zeitpunktes der Vorlegung einer privaten Urkunde
 
@@ -617,7 +608,7 @@ er den Verwahrungsantrag und die Verwahrungsanweisung angenommen hat.
 
 (2) Das Notaranderkonto muß bei einem im Inland zum Geschäftsbetrieb befugten Kreditinstitut oder der Deutschen Bundesbank eingerichtet sein. Die Anderkonten sollen bei Kreditinstituten in dem Amtsbereich des Notars oder den unmittelbar angrenzenden Amtsgerichtsbezirken desselben Oberlandesgerichtsbezirks eingerichtet werden, sofern in der Anweisung nicht ausdrücklich etwas anderes vorgesehen wird oder eine andere Handhabung sachlich geboten ist. Für jede Verwahrungsmasse muß ein gesondertes Anderkonto geführt werden, Sammelanderkonten sind nicht zulässig.
 
-(3) Über das Notaranderkonto darf nur der Notar persönlich, dessen amtlich bestellter Vertreter oder der Notariatsverwalter verfügen. Satz 1 gilt für den mit der Aktenverwahrung gemäß § 51 Abs. 1 Satz 2 betrauten Notar entsprechend, soweit ihm die Verfügungsbefugnis über Anderkonten übertragen worden ist. Die Landesregierungen oder die von ihnen bestimmten Stellen werden ermächtigt, durch Rechtsverordnung zu bestimmen, daß Verfügungen auch durch einen entsprechend bevollmächtigten anderen Notar erfolgen dürfen. Verfügungen sollen nur erfolgen, um Beträge unverzüglich dem Empfangsberechtigten oder einem von diesem schriftlich benannten Dritten zuzuführen. Sie sind grundsätzlich im bargeldlosen Zahlungsverkehr durchzuführen, sofern nicht besondere berechtigte Interessen der Beteiligten die Auszahlung in bar oder mittels Bar- oder Verrechnungsscheck gebieten. Die Gründe für eine Bar- oder Scheckauszahlung sind von dem Notar zu vermerken. Die Bar- oder Scheckauszahlung ist durch den berechtigten Empfänger oder einen von ihm schriftlich Beauftragten nach Feststellung der Person zu quittieren. Verfügungen zugunsten von Privat- oder Geschäftskonten des Notars sind lediglich zur Bezahlung von Kostenforderungen aus dem zugrundeliegenden Amtsgeschäft unter Angabe des Verwendungszwecks und nur dann zulässig, wenn hierfür eine notarielle Kostenrechnung erteilt und dem Kostenschuldner zugegangen ist und Auszahlungsreife des verwahrten Betrages zugunsten des Kostenschuldners gegeben ist.
+(3) Über das Notaranderkonto darf nur der Notar persönlich, dessen amtlich bestellter Vertreter oder der Notariatsverwalter verfügen. Satz 1 gilt für den mit der Aktenverwahrung gemäß § 51 Abs. 1 Satz 2 betrauten Notar entsprechend, soweit ihm die Verfügungsbefugnis über Anderkonten übertragen worden ist. Die Landesregierungen oder die von ihnen bestimmten Stellen werden ermächtigt, durch Rechtsverordnung zu bestimmen, daß Verfügungen auch durch einen entsprechend bevollmächtigten anderen Notar oder im Land Baden-Württemberg durch Notariatsabwickler erfolgen dürfen. Verfügungen sollen nur erfolgen, um Beträge unverzüglich dem Empfangsberechtigten oder einem von diesem schriftlich benannten Dritten zuzuführen. Sie sind grundsätzlich im bargeldlosen Zahlungsverkehr durchzuführen, sofern nicht besondere berechtigte Interessen der Beteiligten die Auszahlung in bar oder mittels Bar- oder Verrechnungsscheck gebieten. Die Gründe für eine Bar- oder Scheckauszahlung sind von dem Notar zu vermerken. Die Bar- oder Scheckauszahlung ist durch den berechtigten Empfänger oder einen von ihm schriftlich Beauftragten nach Feststellung der Person zu quittieren. Verfügungen zugunsten von Privat- oder Geschäftskonten des Notars sind lediglich zur Bezahlung von Kostenforderungen aus dem zugrundeliegenden Amtsgeschäft unter Angabe des Verwendungszwecks und nur dann zulässig, wenn hierfür eine notarielle Kostenrechnung erteilt und dem Kostenschuldner zugegangen ist und Auszahlungsreife des verwahrten Betrages zugunsten des Kostenschuldners gegeben ist.
 
 (4) Eine Verwahrung soll nur dann über mehrere Anderkonten durchgeführt werden, wenn dies sachlich geboten ist und in der Anweisung ausdrücklich bestimmt ist.
 
@@ -633,7 +624,7 @@ Das Bundesministerium der Justiz und für Verbraucherschutz hat durch Rechtsvero
 
 (2) Ist die Verwahrungsanweisung von mehreren Anweisenden erteilt, so ist der Widerruf darüber hinaus nur zu beachten, wenn er durch alle Anweisenden erfolgt.
 
-(3) Erfolgt der Widerruf nach Absatz 2 nicht durch alle Anweisenden und wird er darauf gegründet, daß das mit der Verwahrung durchzuführende Rechtsverhältnis aufgehoben, unwirksam oder rückabzuwickeln sei, soll sich der Notar jeder Verfügung über das Verwahrungsgut enthalten. Der Notar soll alle an dem Verwahrungsgeschäft beteiligten Personen im Sinne des § 54a hiervon unterrichten. Der Widerruf wird jedoch unbeachtlich, wenn
+(3) Erfolgt der Widerruf nach Absatz 2 nicht durch alle Anweisenden und wird er darauf gegründet, daß das mit der Verwahrung durchzuführende Rechtsverhältnis aufgehoben, unwirksam oder rückabzuwickeln sei, soll sich der Notar jeder Verfügung über das Verwahrungsgut enthalten. Der Notar soll alle an dem Verwahrungsgeschäft beteiligten Personen im Sinne des § 57 hiervon unterrichten. Der Widerruf wird jedoch unbeachtlich, wenn
 
 1.  
 eine spätere übereinstimmende Anweisung vorliegt oder
@@ -753,7 +744,7 @@ nicht bestimmt werden, daß für öffentliche Beurkundungen neben dem Notar ande
 3.  
 keine Regelung getroffen werden, die den Vorschriften des Ersten bis Vierten Abschnitts dieses Gesetzes entgegensteht.
 
-(4) Die Vorschriften über die Beurkundungszuständigkeiten der Ratschreiber und sonstigen Hilfsbeamten der Grundbuchämter in Baden-Württemberg, insbesondere § 6 des badischen Grundbuchausführungsgesetzes in der Fassung der Bekanntmachung vom 13. Oktober 1925 (Badisches Gesetz- und Verordnungsblatt S. 296) sowie Artikel 32 Abs. 1, Artikel 33, 34 des württembergischen Ausführungsgesetzes zum Bürgerlichen Gesetzbuch und zu anderen Reichsjustizgesetzen vom 29. Dezember 1931 (Württembergisches Regierungsblatt S. 545), bleiben unberührt; diese Vorschriften können von den dafür zuständigen Stellen aufgehoben, geändert oder durch Vorschriften entsprechenden Inhalts ersetzt werden, die für das Land Baden-Württemberg einheitlich gelten; dabei dürfen jedoch die Beurkundungszuständigkeiten nicht über den Umfang hinaus erweitert werden, in dem sie wenigstens in einem der Rechtsgebiete des Landes bereits bestehen; § 36 des Rechtspflegergesetzes gilt entsprechend. Unberührt bleiben ferner die Vorschriften, nach denen gegen Entscheidungen der Bezirksnotare, Ratschreiber und sonstigen Hilfsbeamten der Grundbuchämter in den Fällen des § 54 das Amtsgericht angerufen werden kann.
+(4) (weggefallen)
 
 ### § 67 Zuständigkeit der Amtsgerichte, Zustellung
 
@@ -774,9 +765,7 @@ Verpflichtungen zur Erfüllung von Unterhaltsansprüchen nach § 1615l des Bürg
 
 Die Länder sind befugt, durch Gesetz die Zuständigkeit für die öffentliche Beglaubigung von Abschriften oder Unterschriften anderen Personen oder Stellen zu übertragen.
 
-### § 69 Notare in Baden-Württemberg
-
-Notar im Sinne dieses Gesetzes ist auch der nach dem badischen Landesgesetz über die freiwillige Gerichtsbarkeit bestellte Notar und der Bezirksnotar. Für einen solchen Notar gilt § 3 Abs. 1 Nr. 8 in Angelegenheiten des Landes Baden-Württemberg nicht allein deswegen, weil der Notar in einem Dienstverhältnis zu diesem Lande steht.
+### § 69 (weggefallen)
 
 c) Amtliche Beglaubigungen
 --------------------------
