@@ -2,7 +2,7 @@ Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Diensten u
 =============================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 1 V v. 14.12.2011 I 2802
+Zuletzt geändert durch Art. 1 V v. 19.12.2018 I 2705
 
 ### 
 
@@ -24,45 +24,17 @@ Auf Grund des § 32 Abs. 1 Satz 1 Nr. 14 und Satz 4 des Luftverkehrsgesetzes in 
 
 (1) Für die Inanspruchnahme von Diensten und Einrichtungen der Flugsicherung durch Luftfahrzeuge beim An- und Abflug an den Flughäfen Berlin-Schönefeld, Berlin-Tegel, Bremen, Dresden, Düsseldorf, Erfurt, Frankfurt, Hamburg, Hannover, Köln/Bonn, Leipzig, München, Münster/Osnabrück, Nürnberg, Saarbrücken und Stuttgart werden Kosten (Gebühren und Auslagen) erhoben.
 
-(2) Zu den nach § 10 Abs. 1 des Verwaltungskostengesetzes zu erhebenden Auslagen ist die auf die Kosten nach Absatz 1 entfallende, gesetzlich geschuldete Umsatzsteuer hinzuzurechnen.
+(2) Zu den nach § 10 Abs. 1 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung zu erhebenden Auslagen ist die auf die Kosten nach Absatz 1 entfallende, gesetzlich geschuldete Umsatzsteuer hinzuzurechnen.
 
 (3) An- und Abflug sowie wiederholte Durchstartanflüge gelten als eine einzige Inanspruchnahme. Zähleinheit ist der Abflug.
 
 ### § 2
 
-(1) Die Gebühr für eine Inanspruchnahme durch ein Luftfahrzeug wird berechnet nach der Formel
-
-|           |
-|-----------|
-| R = t · p |
-
-(R = Gebühr, t = Gebührensatz, p = Gewichtsfaktor des Luftfahrzeuges).
-
-(2) Der Gewichtsfaktor entspricht dem auf zwei Dezimalstellen berechneten Quotienten aus der durch 50 geteilten Zahl, die das in Tonnen ausgedrückte, im Lufttüchtigkeitszeugnis oder in einem anderen vom Luftfahrzeughalter vorgelegten, gleichwertigen amtlichen Dokument eingetragene, zulässige Starthöchstgewicht des Luftfahrzeuges angibt, potenziert mit 0,7:
-
-<table>
-<tbody>
-<tr class="odd">
-<td>p =</td>
-<td>(</td>
-<td>maximal zulässiges<br />
-Starthöchstgewicht in Tonnen<br />
-50</td>
-<td>)</td>
-<td>0,7</td>
-</tr>
-</tbody>
-</table>
-
-Ist das in Satz 1 genannte zulässige Starthöchstgewicht unbekannt, wird der Gewichtsfaktor unter Zugrundelegung des zulässigen Starthöchstgewichtes der schwersten Ausführung berechnet, die von diesem Luftfahrzeugtyp bekannt ist. Sind für ein Luftfahrzeug mehrere zulässige Starthöchstgewichte eingetragen, wird das höchste Starthöchstgewicht herangezogen. Betreibt ein Luftfahrzeughalter mehrere Luftfahrzeuge, bei denen es sich um verschiedene Ausführungen desselben Typs handelt, wird der Gewichtsfaktor für jedes Luftfahrzeug dieses Typs auf der Grundlage des Durchschnitts der Starthöchstgewichte aller seiner Luftfahrzeuge dieses Typs bestimmt. Die Berechnung dieses Faktors pro Luftfahrzeugtyp und Luftfahrzeughalter erfolgt mindestens einmal jährlich. Bei Luftschiffen wird der Gewichtsfaktor unter Zugrundelegung des maximalen Fluggewichtes berechnet.
-
-(3) Der Gebührensatz entspricht der Anzahl der für das betreffende Jahr geschätzten gebührenpflichtigen An- und Abflug-Dienstleistungseinheiten, geteilt durch die voraussichtlichen Flugsicherungskosten. Die geschätzten Kosten enthalten den Saldo aus der Über- oder Unterzahlung der Vorjahre.
-
-(4) Der Gebührensatz für eine Inanspruchnahme durch ein Luftfahrzeug beträgt ab 1. Januar 2012 171,29 Euro.
+Der Gebührensatz für eine Inanspruchnahme durch ein Luftfahrzeug beträgt ab 1. Januar 2019 124,34 Euro. Die Berechnung des Gebührensatzes sowie der daraus resultierenden Gebühr richtet sich nach der Durchführungsverordnung (EU) Nr. 391/2013 der Kommission vom 3. Mai 2013 zur Festlegung einer gemeinsamen Gebührenregelung für Flugsicherungsdienste (ABl. L 128 vom 9.5.2013, S. 31).
 
 ### § 3
 
-Kostenschuldner ist der Halter des Luftfahrzeuges zum Zeitpunkt der Inanspruchnahme. Ist der Halter nicht bekannt, haftet der Eigentümer des Luftfahrzeuges.
+Kostenschuldner ist der Nutzer von Flugsicherungsdiensten im Sinne des Artikels 2 Satz 2 Nummer 1 der Durchführungsverordnung (EU) Nr. 391/2013.
 
 ### § 4
 
