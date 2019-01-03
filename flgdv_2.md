@@ -2,7 +2,7 @@ Verordnung über die Anforderungen an die Zulassung von Klassifizierungsunterneh
 =======================================================================================================================================================================
 
 Stand  
-Zuletzt geändert durch Art. 2 Abs. 94 G v. 22.12.2011 I 3044
+Zuletzt geändert durch Art. 5 V v. 4.1.2019 I 2
 
 ### 
 
@@ -16,7 +16,7 @@ Die V wurde als Artikel 2 der V v. 12.11.2008 I 2186 vom Bundesministerium für 
 
 (1) Der Antrag auf Zulassung als Klassifizierungsunternehmen ist bei der Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) schriftlich oder elektronisch einzureichen. Auf Verlangen der Bundesanstalt hat der Antragsteller Unterlagen auch oder ausschließlich elektronisch zu übermitteln. Die Bundesanstalt kann für den Antrag Muster im Bundesanzeiger bekannt geben und die Verwendung der Muster verlangen. Für das Verfahren nach diesem Absatz gelten die §§ 71a bis 71e des Verwaltungsverfahrensgesetzes über eine einheitliche Stelle. Die Prüfung des Antrags durch die Bundesanstalt muss innerhalb von sechs Monaten abgeschlossen sein. Die Frist beginnt mit Eingang der vollständigen Unterlagen. Sie kann einmal angemessen verlängert werden, wenn dies wegen der Schwierigkeit der Angelegenheit gerechtfertigt ist. Die Fristverlängerung ist zu begründen und rechtzeitig mitzuteilen.
 
-(2) Der Zulassungsbescheid ergeht schriftlich.
+(2) Der Zulassungsbescheid ergeht schriftlich oder elektronisch.
 
 ### § 2 Antragsinhalt
 
@@ -81,7 +81,7 @@ das Klassifizierungsunternehmen einer besonderen Überwachung durch die nach Lan
 
 (1) Die Zulassung als Klassifizierer nach § 4 des Fleischgesetzes wird für die Klassifizierung von Schlachtkörpern der Tierarten erteilt, für die der Klassifizierer über die erforderliche Sachkunde verfügt.
 
-(2) Hält ein Klassifizierer Tiere, die zur Schlachtung geeignet sind, so steht dies seiner nach § 4 Abs. 1 Satz 2 Nr. 3 des Fleischgesetzes erforderlichen Unabhängigkeit nicht entgegen, wenn sichergestellt ist, dass seine Tiere nicht in einem Schlachtbetrieb, in dem der Klassifizierer tätig ist, geschlachtet werden.
+(2) Hält ein Klassifizierer Tiere, die zur Schlachtung geeignet sind, so steht dies seiner nach § 4 Abs. 1 Satz 2 Nr. 3 des Fleischgesetzes erforderlichen Unabhängigkeit nicht entgegen, wenn sichergestellt ist, dass der Klassifizierer nicht an dem Tag, an dem seine Tiere in einem Schlachtbetrieb geschlachtet werden, in selbigem tätig ist.
 
 (3) Die Zulassung als Klassifizierer für die Klassifizierung von Schweineschlachtkörpern erfolgt für das ZP-Verfahren sowie jeweils gesondert für folgende Gerätegruppen oder Gerätetypen:
 
@@ -98,7 +98,7 @@ Die Zulassung erfolgt nur für die Gerätegruppen und Gerätetypen, mit denen de
 
 ### § 6 Zulassungsantrag
 
-(1) Der Antrag auf Zulassung als Klassifizierer ist bei der zuständigen Behörde schriftlich einzureichen. Zuständig ist die Behörde, in deren Bezirk der Antragsteller seine melderechtliche Hauptwohnung hat. Auf Verlangen der zuständigen Behörde hat der Antragsteller Unterlagen auch oder ausschließlich elektronisch zu übermitteln. Die zuständige Behörde kann für den Antrag Muster im Bundesanzeiger bekannt geben und die Verwendung der Muster verlangen.
+(1) Der Antrag auf Zulassung als Klassifizierer ist bei der zuständigen Behörde schriftlich oder elektronisch einzureichen. Zuständig ist die Behörde, in deren Bezirk der Antragsteller seine melderechtliche Hauptwohnung hat. Auf Verlangen der zuständigen Behörde hat der Antragsteller Unterlagen auch oder ausschließlich elektronisch zu übermitteln. Die zuständige Behörde kann für den Antrag Muster im Bundesanzeiger bekannt geben und die Verwendung der Muster verlangen.
 
 (2) Der Antrag nach Absatz 1 muss enthalten:
 
@@ -191,10 +191,6 @@ die Klassifizierungsgeräte für die Klassifizierung von Schweineschlachtkörper
 
 (3) Besteht ein Klassifizierer die Fortbildungsprüfung ein zweites Mal nicht oder hat er ohne Vorliegen eines wichtigen Grundes über einen Zeitraum von mehr als zwei Jahren nicht an einem Fortbildungskurs teilgenommen, darf er seine Tätigkeit erst wieder ausüben, nachdem er eine erneute Sachkundeprüfung bestanden hat.
 
-### § 16 Übergangsregelung
-
-§ 3 Abs. 3 ist erst ab dem 1. November 2009 anzuwenden.
-
 ### Anlage 1 (zu § 7 Abs. 1 und § 12 Abs. 1)Sachkundeprüfung
 
 (Fundstelle: BGBl. I 2008, 2193 - 2194;
@@ -251,7 +247,7 @@ Klassifizierung mit SondengerätenBei Sondengeräten (invasives Verfahren) gelte
 Am einzelnen Schlachtkörper:
 
 1.1.1  
-Der Einstich muss in der Höhe (caudal/cranial) zwischen der 2./3. letzten Rippe liegen.
+Der Einstich muss in der Höhe (caudal/cranial) zwischen der zweit- und drittletzten Rippe liegen.
 
 1.1.2  
 Der Einstich 7 cm seitlich der Trennlinie (medial/lateral) darf höchstens um +/– 1,0 cm abweichen.
@@ -315,7 +311,7 @@ III.
 Klassifizierung mit dem ZP-Verfahren
 
 1.  
-Die für die Prüfung im ZP-Verfahren zugrunde zu legenden Messwerte (Referenzwerte) werden vom Prüfer an mindestens zwanzig Schweineschlachtkörpern festgelegt. Die Referenzwerte werden durch Messungen am Schweineschlachtkörper nach Anlage 3 der Schweineschlachtkörper-Handelsklassenverordnung ermittelt.
+Die für die Prüfung im ZP-Verfahren zugrunde zu legenden Messwerte (Referenzwerte) werden vom Prüfer an zwanzig Schweineschlachtkörpern festgelegt. Die Referenzwerte werden durch Messungen am Schweineschlachtkörper nach Anlage 3 der Schweineschlachtkörper-Handelsklassenverordnung ermittelt.
 
 2.  
 Prüfer und Prüfungsteilnehmer haben das gleiche Messwerkzeug zu benutzen.
@@ -330,7 +326,7 @@ Im zweiten Durchgang muss der Prüfungsteilnehmer die festgelegten Werte innerha
 Am einzelnen Schlachtkörper dürfen die von ihm gemessenen Werte von den ermittelten Referenzwerten bei der Speckdicke höchstens um +/– 2 mm und beim Fleischmaß höchstens um +/– 3 mm abweichen.
 
 4.2  
-Abweichungen, die über die unter 4.1 genannten Maße hinausgehen, werden maximal bei jeweils 10 Prozent der Schlachtkörper toleriert; dabei ist Kumulieren zulässig, jedoch sind je Toleranzmerkmal nicht mehr als fünf Überschreitungen zulässig.
+Abweichungen, die über die unter 4.1 genannten Maße hinausgehen, werden maximal bei jeweils 10 Prozent der Schlachtkörper toleriert; dabei ist Kumulieren zulässig, jedoch sind je Toleranzmerkmal nicht mehr als drei Überschreitungen zulässig.
 
 4.3  
 (weggefallen)
