@@ -2,7 +2,7 @@ Fleischgesetz ()
 ================
 
 Stand  
-Zuletzt geändert durch Art. 400 V v. 31.8.2015 I 1474
+Zuletzt geändert durch Art. 1 G v. 18.1.2019 I 31
 
 ### 
 
@@ -45,7 +45,7 @@ Klassifizierer: ein Mitarbeiter eines Klassifizierungsunternehmens, der die Klas
 
 ### § 2 Klassifizierung
 
-Soweit nach den Vorschriften des Handelsklassenrechts eine Klassifizierung von Schlachtkörpern vorgeschrieben oder zulässig ist, darf die Klassifizierung nur von
+(1) Soweit nach den Vorschriften des Handelsklassenrechts eine Klassifizierung von Schlachtkörpern vorgeschrieben oder zulässig ist, darf die Klassifizierung nur von
 
 1.  
 der zuständigen Behörde oder
@@ -55,12 +55,14 @@ einem hierfür nach § 3 zugelassenen Klassifizierungsunternehmen durch nach § 
 
 vorgenommen werden.
 
+(2) Die von einem auszubildenden Klassifizierer durchgeführte und gleichzeitig von einem zugelassenen Klassifizierer beaufsichtigte Klassifizierung gilt als Klassifizierung durch einen zugelassenen Klassifizierer, wenn der zugelassene Klassifizierer ausschließlich diese eine Klassifizierung beaufsichtigt, um jederzeit einschreiten und damit eine ordnungsgemäße Klassifizierung sicherstellen zu können.
+
 ### § 3 Zulassung von Klassifizierungsunternehmen
 
 (1) Der Betrieb eines Klassifizierungsunternehmens bedarf der Zulassung durch die zuständige Behörde. Die Zulassung wird auf Antrag erteilt, wenn das Klassifizierungsunternehmen
 
 1.  
-die Voraussetzungen der Norm DIN EN ISO/IEC 17020:2004-11 Typ A erfüllt,
+die Voraussetzungen der Norm DIN EN ISO/IEC 17020:2012-07 Typ A erfüllt,
 
 2.  
 die Gewähr für die notwendige
@@ -85,16 +87,17 @@ eine für die ordnungsgemäße Klassifizierung hinreichende Anzahl zugelassener 
 (3) Die Zulassung erlischt, wenn das Klassifizierungsunternehmen seine Tätigkeit
 
 1.  
-nicht innerhalb eines Jahres nach Erteilung der ersten Zulassung aufgenommen oder
+nicht innerhalb eines Jahres nach Erteilung der ersten Zulassung aufgenommen hat,
 
 2.  
-seit Aufnahme der Tätigkeit mehr als ein Jahr nicht mehr ausgeübt
+seit Aufnahme der Tätigkeit mehr als ein Jahr nicht mehr ausgeübt hat oder
 
-hat. Das Erlöschen der Zulassung wird durch Bescheid der zuständigen Behörde festgestellt.
+3.  
+eingestellt hat.
+
+Das Erlöschen der Zulassung wird durch Bescheid der zuständigen Behörde festgestellt.
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Anforderungen an die Zulassung nach Absatz 1 einschließlich des Verfahrens festzulegen. In der Rechtsverordnung nach Satz 1 kann insbesondere vorgeschrieben werden, dass die Zulassung inhaltlich beschränkt, mit Auflagen, auch nachträglich, verbunden oder nur für das Gebiet eines oder mehrerer Länder erteilt werden kann, soweit dies zur ordnungsgemäßen Durchführung der Klassifizierung erforderlich ist.
-
-Amtlicher Hinweis: Diese DIN-Norm ist im Beuth Verlag GmbH, Berlin und Köln erschienen und beim Deutschen Patent- und Markenamt in München archivmäßig gesichert und niedergelegt.
 
 ### § 4 Befähigung und Zulassung von Klassifizierern
 
@@ -144,6 +147,8 @@ einschließlich des jeweiligen Verfahrens zu regeln. In der Verordnung nach Satz
 
 (6) Eine Person, die über eine in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den europäischen Wirtschaftsraum erworbene abgeschlossene Ausbildung oder eine dort erfolgte Zulassung als Klassifizierer verfügt, ist ohne erneute Teilnahme an einem Ausbildungskurs und ohne Sachkundeprüfung zuzulassen, wenn die Gleichwertigkeit der Sachkunde gegeben ist. Liegt eine gleichwertige Sachkunde nicht vor oder ist sie nur mit unangemessenem zeitlichen oder sachlichen Aufwand feststellbar, ist ein gleichwertiger Kenntnisstand nachzuweisen. Der Nachweis nach Satz 2 wird durch das Ablegen einer Prüfung erbracht, die sich auf den Inhalt der Sachkundeprüfung nach Absatz 2 erstreckt. Die näheren Einzelheiten für die Prüfung nach Satz 3 einschließlich des Verfahrens können in der Rechtsverordnung nach Absatz 5 geregelt werden.
 
+(7) Die Absätze 1 bis 4 und 6 gelten für qualifiziertes Personal im Sinne von Artikel 9 Buchstabe b der Delegierten Verordnung (EU) 2017/1182 der Kommission vom 20. April 2017 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf die Handelsklassenschemata der Union für Schlachtkörper von Rindern, Schweinen und Schafen und zur Meldung der Marktpreise für bestimmte Kategorien von Schlachtkörpern und lebenden Tieren (ABl. L 171 vom 4.7.2017, S. 74) entsprechend.
+
 ### § 5 Erlöschen der Zulassung eines Klassifizierers, Rückgabe übergebener Gegenstände
 
 (1) Die Zulassung eines Klassifizierers erlischt, wenn der Klassifizierer seine Tätigkeit
@@ -163,18 +168,26 @@ hat. Das Erlöschen der Zulassung wird durch Bescheid der zuständigen Behörde 
 (1) Die Zulassung eines Klassifizierungsunternehmens ist zu widerrufen, wenn die Gewähr für eine ordnungsgemäße Durchführung der Klassifizierung nicht mehr gegeben ist. Dies ist insbesondere dann der Fall, wenn
 
 1.  
-die Voraussetzungen der Norm DIN EN ISO/IEC 17020:2004-11 Typ A \*) nicht mehr erfüllt sind,
+die notwendige Zuverlässigkeit, Unabhängigkeit oder Sachkunde nicht mehr gegeben ist oder
 
 2.  
-die notwendige Zuverlässigkeit, Unabhängigkeit oder Sachkunde nicht mehr gegeben ist,
+das Klassifizierungsunternehmen
 
-3.  
-das Klassifizierungsunternehmen die Klassifizierungstätigkeit eines oder mehrerer Klassifizierer in unzulässiger Weise beeinflusst oder einen oder mehrere Klassifizierer zur Verfälschung des Klassifizierungsergebnisses veranlasst hat oder
+a)  
+die Klassifizierungstätigkeit eines oder mehrerer Klassifizierer in unzulässiger Weise beeinflusst hat oder
 
-4.  
-das Klassifizierungsunternehmen die Klassifizierung durch einen nicht zugelassenen Klassifizierer hat durchführen lassen.
+b)  
+einen oder mehrere Klassifizierer zur Verfälschung des Klassifizierungsergebnisses veranlasst hat.
 
-(2) Die Zulassung eines Klassifizierers ist zu widerrufen, wenn er
+(2) Die Zulassung eines Klassifizierungsunternehmens kann widerrufen werden, wenn das Klassifizierungsunternehmen
+
+1.  
+die Voraussetzungen der Norm DIN EN ISO/IEC 17020:2012-07 Typ A nicht mehr erfüllt oder
+
+2.  
+die Klassifizierung durch einen nicht zugelassenen Klassifizierer durchführen lässt.
+
+(3) Die Zulassung eines Klassifizierers ist zu widerrufen, wenn er
 
 1.  
 nicht mehr über die für die Tätigkeit erforderliche Zuverlässigkeit oder Unabhängigkeit verfügt oder
@@ -182,9 +195,7 @@ nicht mehr über die für die Tätigkeit erforderliche Zuverlässigkeit oder Una
 2.  
 ohne Vorliegen eines wichtigen Grundes nicht erfolgreich an einem Fortbildungskurs nach § 4 Abs. 4 teilgenommen hat.
 
-(3) Im Übrigen bleiben die verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten unberührt.
-
-Amtlicher Hinweis: Diese DIN-Norm ist im Beuth Verlag GmbH, Berlin und Köln erschienen und beim Deutschen Patent- und Markenamt in München archivmäßig gesichert und niedergelegt.
+(4) Im Übrigen bleiben die verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten unberührt.
 
 ### § 7 Zuständigkeit
 
@@ -389,7 +400,7 @@ Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und dritter S
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1.  
-entgegen § 2 eine Klassifizierung vornimmt,
+entgegen § 2 Absatz 1 Nummer 2 eine Klassifizierung vornimmt,
 
 2.  
 entgegen § 8 Abs. 1, 2 oder 3 Satz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach § 8 Abs. 4, eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
@@ -404,6 +415,8 @@ einer vollziehbaren Anordnung oder Untersagung nach § 11 Abs. 1 Satz 2 zuwiderh
 entgegen § 11 Abs. 3 eine dort genannte Maßnahme nicht duldet oder bei der Besichtigung nicht mitwirkt.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 2 und 5 mit einer Geldbuße bis zu zehntausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt für Landwirtschaft und Ernährung.
 
 ### § 17 Einziehung
 
